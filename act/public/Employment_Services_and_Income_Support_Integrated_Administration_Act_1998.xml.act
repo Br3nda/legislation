@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act id="DLM428891" in.amend="false" instructing.office="Social Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="96" act.type="public" date.as.at="1999-10-01" date.assent="1998-08-31" date.first.valid="1998-10-01" stage="reprint" year="1998" prospective.consolidation="F">
+  <cover id="DLM428892">
+    <reprint-date>1999-10-01</reprint-date>
+    <title xml:lang="en-NZ">Employment Services and Income Support (Integrated Administration) Act 1998</title>
+    <assent>1998-08-31</assent>
+    <commencement>see section 1(2)</commencement>
+    <cover.reprint-note>
+      <para xml:lang="en-NZ">
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Ministry of Social Development</ministry>.</admin-office>
+    </cover.reprint-note>
+  </cover>
+  <contents>
+    <heading xml:lang="en-NZ">Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM428893" xml:lang="en-NZ">
+    <long-title id="DLM428894" toc="yes" xml:lang="en-NZ">
+      <para xml:lang="en-NZ">
+        <text>An Act—</text>
+      </para>
+      <para xml:lang="en-NZ">
+        <label-para skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">a</label>
+          <para xml:lang="en-NZ">
+            <text>to provide for the integration of employment services and income support services; and</text>
+          </para>
+        </label-para>
+        <label-para skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">b</label>
+          <para xml:lang="en-NZ">
+            <text>to facilitate the transfer of the administration of the Social Security Act 1964 and of functions under certain other enactments; and</text>
+          </para>
+        </label-para>
+        <label-para skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">c</label>
+          <para xml:lang="en-NZ">
+            <text>to amend related enactments and to provide for related matters</text>
+          </para>
+        </label-para>
+      </para>
+    </long-title>
+  </front>
+  <body id="DLM428895" prov-type="section" xml:lang="en-NZ">
+    <prov id="DLM428896" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading xml:lang="en-NZ">Short Title and commencement</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>This Act may be cited as the Employment Services and Income Support (Integrated Administration) Act 1998.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>This Act comes into force on 1 October 1998.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM428897" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading xml:lang="en-NZ">Interpretation</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>In this Act, unless the context otherwise requires,—</text>
+            <def-para id="DLM428898" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM428899" xml:lang="en-NZ">chief executive</def-term> means, subject to any enactment, the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation></text>
+              </para>
+            </def-para>
+            <def-para id="DLM429000" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM429001" xml:lang="en-NZ">responsible department</def-term> means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation></text>
+              </para>
+            </def-para>
+            <def-para id="DLM429002" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM429003" xml:lang="en-NZ">responsible Minister</def-term>, in relation to any provisions of the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation>, means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of those provisions.</text>
+              </para>
+            </def-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM429004" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading xml:lang="en-NZ">Application of employment contracts</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>This section and <citation jurisdiction="nz"><intref href="DLM429005">section 4</intref></citation> apply to any employee of the Department of Social Welfare or Department of Labour who transfers (in circumstances to which <citation jurisdiction="nz"><extref href="DLM129741">section 61A</extref> of the State Sector Act 1988</citation> applies) to the responsible department (which employee is, in this section and in section 4, a <def-term id="DLM2910520">transferred employee</def-term>).</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>Unless a transferred employee’s employment contract otherwise provides and subject to subsection (3), the transferred employee’s employment contract continues to apply to that employee, on and from the date the employee transfers to the responsible department, on the same terms and conditions (including the period of the contract)—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>as if it were a contract that had been made in respect of the responsible department; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>as if it were binding on both that employee and on the chief executive of the responsible department, and on any other party to that contract.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text>If there is a change to an employee’s duties or location arising out of his or her transfer to the responsible department, the conditions of employment of that employee may be varied by agreement to reflect that change but the conditions of employment (as so varied) must be no less favourable than those that the employee was entitled to receive under the employment contract applying to the employee at the date of the transfer.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">4</label>
+          <para xml:lang="en-NZ">
+            <text>Subsections (2) and (3) continue to apply to the conditions of employment of each transferred employee to whom this section applies until such time as any of the conditions of employment that apply under the employment contract applying to that employee at the date of the transfer are subsequently varied (otherwise than for the purpose referred to in subsection (3)).</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">5</label>
+          <para xml:lang="en-NZ">
+            <text>The conditions of employment of each such transferred employee are, on and from the date of any subsequent variation referred to in subsection (4), to be determined in accordance with the employment contract applying to that employee in the responsible department.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">6</label>
+          <para xml:lang="en-NZ">
+            <text>Nothing in subsection (2) or subsection (3) continues to apply to any transferred employee who receives any subsequent appointment, whether within the responsible department or any other department.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM429005" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading xml:lang="en-NZ">Employment to be continuous</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>For the purposes of any provisions of a transferred employee’s employment contract relating to continuity of service, that employee’s transfer from the Department of Social Welfare or Department of Labour to the responsible department is insufficient by itself to break his or her employment.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM429006" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">5</label>
+      <heading xml:lang="en-NZ">Transfer not sufficient to entitle employee to redundancy or severance payment</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>No employee of the Department of Social Welfare or the Department of Labour who is transferred to the responsible department (in circumstances to which <citation jurisdiction="nz"><extref href="DLM129741">section 61A</extref> of the State Sector Act 1988</citation> applies) is entitled to receive any compensation for redundancy or any severance payment because—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>the position held by that employee in the Department of Social Welfare or the Department of Labour has ceased to exist; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>he or she has ceased by virtue of that transfer to be an employee of the Department of Social Welfare or the Department of Labour.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM429007" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">6</label>
+      <heading xml:lang="en-NZ">Transfers of contracts and leases not to give rise to claims</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>No person has any claim against the Crown for breach of any contract merely because the administration of the contract or the benefit of the contract is transferred (in whole or in part) to the responsible department, whether or not the person has agreed to the transfer.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>Subsection (1) applies whether or not the transfer involves the responsible department and its employees gaining access to any information, data, programme, intellectual property right, know-how, chattel, equipment, transmission device, or facility of the claimant or any other person.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text>No person has any claim against the Crown for breach of any lease of any premises which are to be occupied or administered (in whole or in part) by the responsible department merely because of that occupation or administration of the premises by the responsible department, whether or not the person has agreed to the occupation or administration of the premises.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM429008" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">7</label>
+      <heading xml:lang="en-NZ">Continuation of existing proceedings</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>If, before the commencement of this Act, the Minister of Social Welfare has, in his or her capacity as the Minister responsible for the administration of the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation>, initiated or become a party to any proceedings, the proceedings may be continued, completed, and enforced by or against the responsible Minister.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>If, before the commencement of this Act,—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>the Director-General of Social Welfare has, in relation to the administration of the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation>, the <citation jurisdiction="nz"><leg-title href="DLM203578">Social Welfare (Transitional Provisions) Act 1990</leg-title></citation>, or the <citation jurisdiction="nz"><leg-title href="DLM284374">War Pensions Act 1954</leg-title></citation>, initiated or become a party to any proceedings; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>the Secretary for War Pensions in the Department of Social Welfare has initiated or become a party to any proceedings; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>the unit of the Department of Social Welfare called Income Support (and formerly called the New Zealand Income Support Service) has initiated or become a party to any proceedings,—</text>
+              </para>
+            </label-para>
+            <text>the proceedings may be continued, completed, and enforced by or against the chief executive of the responsible department or (as the case may be) the officer of the responsible department who is the Secretary for War Pensions.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text>If, before the commencement of this Act,—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>the chief executive of the Department of Labour has, in his or her capacity as a person exercising or performing any function, duty, or power under the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation>, initiated or become a party to any proceedings; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>the unit of the Department of Labour called the New Zealand Employment Service, the Community Employment Group, or the Local Employment Coordination Unit has initiated or become a party to any proceedings,—</text>
+              </para>
+            </label-para>
+            <text>the proceedings may be continued, completed, and enforced by or against the chief executive of the responsible department.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">4</label>
+          <para xml:lang="en-NZ">
+            <text>If, before the commencement of this Act, any person has applied under <citation jurisdiction="nz"><extref href="DLM360761">section 10A</extref> of the Social Security Act 1964</citation> for a review of any decision made under that Act or the <citation jurisdiction="nz"><leg-title href="DLM203578">Social Welfare (Transitional Provisions) Act 1990</leg-title></citation>,—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>the review may be continued and completed as if the chief executive of the responsible department were a party to the review, and the chief executive is bound by the decision made on the review; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>if a Benefits Review Committee had not been constituted for the review before the commencement of this Act, the Committee is to consist of—</text>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">i</label>
+                  <para xml:lang="en-NZ">
+                    <text>1 person referred to in <citation jurisdiction="nz"><extref href="DLM360761">section 10A(3)(a)</extref> of the Social Security Act 1964</citation>; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">ii</label>
+                  <para xml:lang="en-NZ">
+                    <text>2 officers of the responsible department who are appointed by the chief executive.</text>
+                  </para>
+                </label-para>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">5</label>
+          <para xml:lang="en-NZ">
+            <text>If, before the commencement of this Act, any person has—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>exercised a right of appeal under <citation jurisdiction="nz"><extref href="DLM360964">section 12J</extref> or <extref href="DLM361875">section 53A</extref> of the Social Security Act 1964</citation>; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>exercised a right of appeal under <citation jurisdiction="nz"><extref href="DLM361031">section 12Q</extref> or <extref href="DLM361034">section 12R</extref> of that Act</citation>; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>exercised a right of appeal under <citation jurisdiction="nz"><extref href="DLM284744">section 16A</extref> of the War Pensions Act 1954</citation>; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">d</label>
+              <para xml:lang="en-NZ">
+                <text>exercised a right of appeal under <citation jurisdiction="nz"><extref href="DLM177222">regulation 10</extref> of the Health Entitlement Cards Regulations 1993</citation>,—</text>
+              </para>
+            </label-para>
+            <text>the appeal may be continued and completed as if the chief executive of the responsible department were a party to the appeal instead of the Director-General of Social Welfare, and (subject to <citation jurisdiction="nz"><extref href="DLM361031">section 12Q</extref> or <extref href="DLM361034">section 12R</extref> of the Social Security Act 1964</citation>) the chief executive is bound by the decision made on the appeal.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">6</label>
+          <para xml:lang="en-NZ">
+            <text>If, before the commencement of this Act, any person has exercised a right of review under <citation jurisdiction="nz"><extref href="DLM284730">section 15D</extref> of the War Pensions Act 1954</citation>, the review may be continued and completed by the National Review Officer in the responsible department, and the Secretary for War Pensions in the responsible department is bound by the decision made on the review.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">7</label>
+          <para xml:lang="en-NZ">
+            <text>If, before the commencement of this Act, any person has exercised a right of appeal under <citation jurisdiction="nz"><extref href="DLM284736">section 16</extref> or <extref href="DLM286015">section 85A</extref> of the War Pensions Act 1954</citation>, the appeal may be continued and completed as if the Secretary for War Pensions in the responsible department were a party to the appeal, and the Secretary is bound by the decision made on the appeal.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">8</label>
+          <para xml:lang="en-NZ">
+            <text>If, before the commencement of this Act, any person was entitled, or claimed to be entitled, to issue any proceedings, apply for or exercise any right of review, or to exercise any right of appeal, referred to in any of subsections (1) to (7),—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>that person may, after the commencement of this Act, commence the proceedings, review, or appeal as if (as the case requires) the responsible Minister, or the chief executive of the responsible department, or the officer of the responsible department who is the Secretary for War Pensions, were the appropriate person in respect of whom the proceedings, review, or appeal relates:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>the provisions of subsections (1) to (7) apply to any such proceedings, review, or appeal commenced under paragraph (a) as if they had been commenced prior to the commencement of this Act:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>no such proceedings, review, or appeal may be commenced in respect of any person other than the responsible Minister, chief executive, or officer specified in paragraph (a).</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM429009" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">8</label>
+      <heading xml:lang="en-NZ">Savings relating to brands, logos, marks, etc</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>All names, brands, stamps, logos, emblems, marks, forms, and other representations or documents that were, immediately before the date of commencement of this Act, in use by the Department of Social Welfare for the purposes of the unit called Income Support (formerly called the New Zealand Income Support Service) or by the Department of Labour for the purposes of the unit called the New Zealand Employment Service, the Community Employment Group, or the Local Employment Coordination Unit—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>continue to have effect in relation to anything done before that date; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>may continue to be used, and are to have effect, for the purposes of the functions, duties, and powers of the responsible Minister, the responsible department, or chief executive of the responsible department under the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation>.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM429010" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">9</label>
+      <heading xml:lang="en-NZ">Saving of certain appointments</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>Nothing in this Act affects the appointment of any person as—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>a community representative on a Benefits Review Committee under <citation jurisdiction="nz"><extref href="DLM360761">section 10A(3)(a)</extref> of the Social Security Act 1964</citation>; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>a member of a medical appeal board under <citation jurisdiction="nz"><extref href="DLM361875">section 53A</extref> of the Social Security Act 1964</citation>; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>the medical member of the War Pensions Advisory Board under <citation jurisdiction="nz"><extref href="DLM284566">section 5A</extref> of the War Pensions Act 1954</citation> or a deputy member under <citation jurisdiction="nz"><extref href="DLM284576">section 5E</extref> of that Act</citation>; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">d</label>
+              <para xml:lang="en-NZ">
+                <text>a member of the War Pensions Appeal Board under <citation jurisdiction="nz"><extref href="DLM284593">section 8</extref> of the War Pensions Act 1954</citation> or a deputy member under <citation jurisdiction="nz"><extref href="DLM284705">section 10</extref> of that Act</citation>; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">e</label>
+              <para xml:lang="en-NZ">
+                <text>a nominee of the New Zealand Returned Services’ Association on any War Pensions Claims Panel under <citation jurisdiction="nz"><extref href="DLM284719">section 15</extref> of the War Pensions Act 1954</citation>.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM429011" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">10</label>
+      <heading xml:lang="en-NZ">References to functions being transferred to responsible department</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>Unless the context otherwise requires, in any regulation, rule, order, agreement, deed, instrument, application, notice, direction, contract, lease, or other document whatsoever in force at the commencement of this Act,—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>every reference to the Director-General (or the chief executive of the Department of Social Welfare), when used in relation to the unit of the Department of Social Welfare called Income Support (formerly called the New Zealand Income Support Service), is a reference to the chief executive of the responsible department:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>every reference to the Secretary of Labour (or the chief executive of the Department of Labour), when used in relation to his or her functions, duties, or powers under the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation> or to the unit of the Department of Labour called the New Zealand Employment Service, the Community Employment Group, or the Local Employment Coordination Unit is a reference to the chief executive of the responsible department:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>every reference to the unit of the Department of Social Welfare called Income Support (formerly called the New Zealand Income Support Service), where the unit is referred to in its own right and the reference does not apply to other units of that department, is a reference to the responsible department:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">d</label>
+              <para xml:lang="en-NZ">
+                <text>every reference to the Department of Social Welfare, when used in relation to the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation>, the <citation jurisdiction="nz"><leg-title href="DLM203578">Social Welfare (Transitional Provisions) Act 1990</leg-title></citation>, or the <citation jurisdiction="nz"><leg-title href="DLM284374">War Pensions Act 1954</leg-title></citation>, is a reference to the responsible department:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">e</label>
+              <para xml:lang="en-NZ">
+                <text>every reference to the unit of the Department of Labour called the New Zealand Employment Service, the Community Employment Group, or the Local Employment Coordination Unit, where the unit is referred to in its own right and the reference does not apply to units of that department other than a unit mentioned in this paragraph, is a reference to the responsible department.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>In <citation jurisdiction="nz"><extref href="DLM361340">sections 27I to 27ZI</extref> of the Social Security Act 1964</citation> (as saved by <citation jurisdiction="nz"><extref href="DLM257729">sections 256</extref> and <extref href="DLM257733">258</extref> of the Child Support Act 1991</citation>), references to the Director-General are to be read as references to the chief executive of the responsible department.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text>In <citation jurisdiction="nz"><extref href="DLM40063">sections 6</extref>, <extref href="DLM41212">93</extref>, <extref href="DLM41253">105</extref>, <extref href="DLM41269">112</extref>, <extref href="DLM41273">114</extref>, and <extref href="DLM41275">115</extref> of the Family Proceedings Act 1980</citation> (as saved by <citation jurisdiction="nz"><extref href="DLM257735">section 259</extref> of the Child Support Act 1991</citation>), references to the Department of Social Welfare are to be read as references to the responsible department.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">4</label>
+          <para xml:lang="en-NZ">
+            <text>In <citation jurisdiction="nz"><extref href="DLM41238">section 101A</extref> of the Family Proceedings Act 1980</citation> (as saved by <citation jurisdiction="nz"><extref href="DLM257735">section 259</extref> of the Child Support Act 1991</citation>), references to the Director-General of Social Welfare are to be read as references to the chief executive of the responsible department.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">5</label>
+          <para xml:lang="en-NZ">
+            <text>Despite subsection (1), every reference in a reciprocal social security agreement in respect of which an Order in Council made under <citation jurisdiction="nz"><extref href="DLM204446">section 19</extref> of the Social Welfare (Transitional Provisions) Act 1990</citation> is in force to the Director-General of Social Welfare or to the Director-General, is to be read as a reference to the chief executive of the department for the time being responsible for the administration of the <citation jurisdiction="nz"><leg-title href="DLM404806">Department of Social Welfare Act 1971</leg-title></citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <history>
+          <history-note id="DLM429012"><amended-provision>Section 10(5)</amended-provision>: <amending-operation>added</amending-operation>, on <amendment-date>1 October 1999</amendment-date>, by <amending-provision href="DLM31416">section 13</amending-provision> of the <amending-leg>Department of Child, Youth and Family Services Act 1999</amending-leg> (1999 No 82).</history-note>
+        </history>
+      </notes>
+    </prov>
+    <prov id="DLM429013" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">11</label>
+      <heading xml:lang="en-NZ">Amendments to other Acts</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The Acts specified in the <citation jurisdiction="nz"><intref href="DLM429015">Schedule</intref></citation> are amended in the manner indicated in that schedule.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM429014" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">12</label>
+      <heading xml:lang="en-NZ">Consequential repeals</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The following enactments are consequentially repealed:</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="never" denominator="yes">a)–(c</label>
+              <para xml:lang="en-NZ">
+                <text><emphasis style="italic">Amendment(s) incorporated in the Act(s)</emphasis>:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="never" denominator="yes">d</label>
+              <para xml:lang="en-NZ">
+                <text>the Immigration Amendment Act (No 2) 1991:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="never" denominator="yes">e</label>
+              <para xml:lang="en-NZ">
+                <text>the Education Amendment Act (No 3) 1991:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="never" denominator="yes">f)–(k</label>
+              <para xml:lang="en-NZ">
+                <text><emphasis style="italic">Amendment(s) incorporated in the Act(s)</emphasis>.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+  </body>
+  <schedule.group xml:lang="en-NZ">
+    <schedule id="DLM429015" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="96" act.type="public" date.as.at="1999-10-01" date.assent="1998-08-31" date.first.valid="1998-10-01" stage="reprint" year="1998" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes"/>
+      <empowering-prov>
+        <citation jurisdiction="nz">
+          <intref href="DLM429013">s 11</intref>
+        </citation>
+      </empowering-prov>
+      <heading xml:lang="en-NZ">Enactments amended</heading>
+      <schedule.amendments>
+        <schedule.amendments.group2 id="DLM2608618" toc="yes">
+          <heading>Accident Rehabilitation and Compensation Insurance Act 1992 (1992 No 13)</heading>
+          <para>
+            <text><emphasis style="italic">Amendment(s) incorporated in the Act(s)</emphasis>.</text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608608" toc="yes">
+          <heading>Administration Act 1969 (1969 No 52) (RS Vol 19, p 1)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM393030">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608617" toc="yes">
+          <heading>Child Support Act 1991 (1991 No 142)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <extref href="DLM253157">Act(s)</extref>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608623" toc="yes">
+          <heading>Customs and Excise Act 1996 (1996 No 27)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM379989">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608602" toc="yes">
+          <heading>District Courts Act 1947 (1947 No 16) (RS Vol 28, p 57)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM243965">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608614" toc="yes">
+          <heading>Education Act 1989 (1989 No 80) (RS Vol 34, p 17)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM185127">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608607" toc="yes">
+          <heading>Family Benefits (Home Ownership) Act 1964 (1964 No 32) (RS Vol 16, p 139)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM351694">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608611" toc="yes">
+          <heading>Family Proceedings Act 1980 (1980 No 94) (RS Vol 28, p 545)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM41209">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608612" toc="yes">
+          <heading>Finance Act 1987 (1987 No 200) (RS Vol 37, p 190)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM125682">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608605" toc="yes">
+          <heading>Health Act 1956 (1956 No 65) (RS Vol 31, p 467)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM306636">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608613" toc="yes">
+          <heading>Immigration Act 1987 (1987 No 74) (RS Vol 33, p 163)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM114009">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608621" toc="yes">
+          <heading>Income Tax Act 1994 (1994 No 164)</heading>
+          <para>
+            <text><emphasis style="italic">Amendment(s) incorporated in the Act(s)</emphasis>.</text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608616" toc="yes">
+          <heading>Legal Services Act 1991 (1991 No 71)</heading>
+          <para>
+            <text><emphasis style="italic">Amendment(s) incorporated in the Act(s)</emphasis>.</text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608610" toc="yes">
+          <heading>Ombudsmen Act 1975 (1975 No 9) (RS Vol 35, p 469)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM431205">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608603" toc="yes">
+          <heading>Penal Institutions Act 1954 (1954 No 51) (RS Vol 18, p 557)</heading>
+          <para>
+            <text><emphasis style="italic">Amendment(s) incorporated in the Act(s)</emphasis>.</text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608620" toc="yes">
+          <heading>Privacy Act 1993 (1993 No 28)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM297916">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608609" toc="yes">
+          <heading>Rates Rebates Act 1973 (1973 No 5) (RS Vol 24, p 719)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM409601">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608601" toc="yes">
+          <heading>Social Security Act 1964 (1964 No 136) (RS Vol 32, p 625)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM359117">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608624" toc="yes">
+          <heading>Social Security Amendment Act 1998 (1998 No 19)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM426027">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608615" toc="yes">
+          <heading>Social Welfare (Transitional Provisions) Act 1990 (1990 No 26) (RS Vol 32, p 883)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM204503">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608619" toc="yes">
+          <heading>Student Loan Scheme Act 1992 (1992 No 141)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM287495">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608606" toc="yes">
+          <heading>Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM312233">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608622" toc="yes">
+          <heading>Tax Administration Act 1994 (1994 No 166)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM351039">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2608604" toc="yes">
+          <heading>War Pensions Act 1954 (1954 No 54) (RS Vol 15, p 725)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM284384">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+      </schedule.amendments>
+    </schedule>
+  </schedule.group>
+  <end id="DLM2910521">
+    <end.reprint-note id="DLM2910522">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the Employment Services and Income Support (Integrated Administration) Act 1998. The reprint incorporates all the amendments to the Act as at 1 October 1999, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz">Department of Child, Youth and Family Services Act 1999 (1999 No 82): <extref href="DLM31416">section 13</extref></citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
+  </end>
+</act>
