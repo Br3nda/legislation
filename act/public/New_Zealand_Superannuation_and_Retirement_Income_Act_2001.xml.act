@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM113923" in.amend="false" instructing.office="Social Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
+<act id="DLM113923" in.amend="false" instructing.office="Social Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
   <cover id="DLM113924">
-    <reprint-date>2010-07-07</reprint-date>
+    <reprint-date>2010-03-03</reprint-date>
     <title>New Zealand Superannuation and Retirement Income Act 2001</title>
     <title.former>New Zealand Superannuation Act 2001</title.former>
     <assent>2001-10-11</assent>
@@ -312,7 +312,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM113985" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" stage="reprint" year="2001" prospective.consolidation="F">
+    <part id="DLM113985" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Entitlements to New Zealand superannuation</heading>
       <crosshead id="DLM113986" toc="yes">Standard New Zealand superannuation entitlements</crosshead>
@@ -713,7 +713,7 @@
               <text>In this section,—</text>
               <def-para id="DLM114208">
                 <para>
-                  <text><def-term id="DLM114209">CPI</def-term> means the consumers price index-all groups published by <insertwords>Statistics New Zealand</insertwords></text>
+                  <text><def-term id="DLM114209">CPI</def-term> means the consumers price index-all groups published by the Department of Statistics</text>
                 </para>
               </def-para>
               <def-para id="DLM114213">
@@ -727,24 +727,6 @@
             <label auto.number="no" denominator="yes">2</label>
             <para>
               <text>Subject to subsection (3), the rates of New Zealand superannuation stated in paragraphs (a), (b), and (c) of clause 1 and <citation jurisdiction="nz">paragraph (b) of clause 2 of <intref href="DLM115004">Schedule 1</intref></citation> must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December one year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2A</label>
-            <para>
-              <text>The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April 2011, 1 April 2012, and 1 April 2013 must, despite subsections (1) and (2), be calculated,—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.</text>
-                </para>
-              </label-para>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -800,10 +782,8 @@
             <amends-text>Order deemed expired on close of 22 February 2011 unless confirmed prior to that date.</amends-text>
           </amends-note>
           <history>
-            <history-note id="DLM3022103"><amended-provision>Section 15(1)</amended-provision><emphasis style="bold">CPI</emphasis>: <amending-operation>amended</amending-operation> (with effect on 20 May 2010), on <amendment-date>28 May 2010</amendment-date>, by <amending-provision href="DLM2988606">section 3(1)</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2010</amending-leg> (2010 No 32).</history-note>
             <history-note id="DLM114212"><amended-provision>Section 15(1)</amended-provision><emphasis style="bold">earner premium</emphasis>: <amending-operation>repealed</amending-operation>, on <amendment-date>11 May 2005</amendment-date>, by <amending-provision href="DLM347257">section 63(2)</amending-provision> of the <amending-leg>Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005</amending-leg> (2005 No 45).</history-note>
             <history-note id="DLM1261511"><amended-provision>Section 15(1)</amended-provision><emphasis style="bold">standard tax</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008 (effective for 2008–09 income year and later)</amendment-date>, by <amending-provision href="DLM1523176">section ZA 2(1)</amending-provision> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
-            <history-note id="DLM3022104"><amended-provision>Section 15(2A)</amended-provision>: <amending-operation>inserted</amending-operation> (with effect on 20 May 2010), on <amendment-date>28 May 2010</amendment-date>, by <amending-provision href="DLM2988606">section 3(2)</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2010</amending-leg> (2010 No 32).</history-note>
           </history>
         </notes>
       </prov>
@@ -1075,25 +1055,25 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
                 <para>
-                  <text>the person's spouse or partner is either—</text>
+                  <text>the person’s spouse <insertwords>or partner</insertwords> is either—</text>
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">i</label>
                     <para>
-                      <text>a patient in a hospital (as defined in <citation jurisdiction="nz"><intref href="DLM114237">section 19(1)</intref></citation>) who is in receipt of a reduced benefit under section 19(4) or (6); or</text>
+                      <text>a patient in a hospital as defined in <citation jurisdiction="nz"><intref href="DLM114237">section 19</intref></citation>; or</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">ii</label>
                     <para>
-                      <text>a resident assessed as requiring care (as defined in <citation jurisdiction="nz"><extref href="DLM366050">section 136</extref> of the Social Security Act 1964</citation>), and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under <citation jurisdiction="nz"><extref href="DLM366308">section 141</extref> or <extref href="DLM366311">142</extref> of that Act</citation>.</text>
+                      <text>a resident assessed as requiring care (as defined in <citation jurisdiction="nz"><extref href="DLM366050">section 136</extref> of the Social Security Act 1964</citation>) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under <citation jurisdiction="nz"><extref href="DLM366308">section 141</extref> or <extref href="DLM366311">section 142</extref> of that Act</citation>; and</text>
                     </para>
                   </label-para>
                 </para>
               </label-para>
-              <label-para deletion-status="repealed" skeleton="no">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">c</label>
                 <para>
-                  <text/>
+                  <text>that spouse <insertwords>or partner</insertwords> receives a reduced benefit under <citation jurisdiction="nz"><intref href="DLM114237">section 19(4) or (5)</intref></citation>.</text>
                 </para>
               </label-para>
             </para>
@@ -1116,8 +1096,9 @@
         </cf>
         <notes>
           <history>
-            <history-note id="DLM3105707"><amended-provision>Section 20(1)(b)</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>7 July 2010</amendment-date>, by <amending-provision href="DLM3043205">section 4</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act (No 2) 2010</amending-leg> (2010 No 75).</history-note>
-            <history-note id="DLM3105708"><amended-provision>Section 20(1)(c)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>7 July 2010</amendment-date>, by <amending-provision href="DLM3043205">section 4</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act (No 2) 2010</amending-leg> (2010 No 75).</history-note>
+            <history-note id="DLM114247"><amended-provision>Section 20(1)(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
+            <history-note id="DLM114248"><amended-provision>Section 20(1)(b)(ii)</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 July 2005</amendment-date>, by <amending-provision href="DLM323319">section 12(4)</amending-provision> of the <amending-leg>Social Security (Long-term Residential Care) Amendment Act 2004</amending-leg> (2004 No 101).</history-note>
+            <history-note id="DLM1979736"><amended-provision>Section 20(1)(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
             <history-note id="DLM114249"><amended-provision>Section 20(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
           </history>
         </notes>
@@ -2029,7 +2010,7 @@
         </notes>
       </prov>
     </part>
-    <part id="DLM114280" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" stage="reprint" year="2001" prospective.consolidation="F">
+    <part id="DLM114280" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">2</label>
       <heading>New Zealand Superannuation Fund</heading>
       <prov id="DLM114281" irdnumbering="no" skeleton="no" toc="yes">
@@ -3324,7 +3305,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM114859" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" stage="reprint" year="2001" prospective.consolidation="F">
+    <part id="DLM114859" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Miscellaneous provisions</heading>
       <crosshead id="DLM114860" toc="yes">Political commitment to New Zealand superannuation</crosshead>
@@ -3534,7 +3515,7 @@
         </cf>
       </prov>
     </part>
-    <part id="DLM114879" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" stage="reprint" year="2001" prospective.consolidation="F">
+    <part id="DLM114879" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">4</label>
       <heading>Retirement Commissioner</heading>
       <notes>
@@ -3890,7 +3871,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule id="DLM115004" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
+    <schedule id="DLM115004" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">1</label>
       <empowering-prov>
         <citation jurisdiction="nz"><intref href="DLM113994">ss 12</intref>, <intref href="DLM114237">19</intref>, <intref href="DLM114246">20</intref>, <intref href="DLM114259">26</intref>, <intref href="DLM114271">32</intref></citation>
@@ -3931,7 +3912,7 @@
                     </para>
                   </entry>
                   <entry align="justify" colsep="0" rowsep="0"/>
-                  <entry align="justify" colname="col4">$<insertwords>373.56</insertwords> a week</entry>
+                  <entry align="justify" colname="col4">$<insertwords>364.50</insertwords> a week</entry>
                 </row>
                 <row rowsep="0">
                   <entry colname="col1" colsep="0"/>
@@ -3948,7 +3929,7 @@
                     </para>
                   </entry>
                   <entry align="justify" colsep="0"/>
-                  <entry align="justify" colname="col4">$<insertwords>342.58</insertwords> a week</entry>
+                  <entry align="justify" colname="col4">$<insertwords>334.28</insertwords> a week</entry>
                 </row>
                 <row rowsep="0">
                   <entry colname="col1" colsep="0"/>
@@ -3965,7 +3946,7 @@
                     </para>
                   </entry>
                   <entry align="justify"/>
-                  <entry align="justify" colname="col4">$<insertwords>280.62</insertwords> a week</entry>
+                  <entry align="justify" colname="col4">$<insertwords>273.63</insertwords> a week</entry>
                 </row>
                 <row rowsep="0">
                   <entry colsep="0" nameend="col2" namest="col1">
@@ -3998,7 +3979,7 @@
                     </para>
                   </entry>
                   <entry align="justify"/>
-                  <entry align="justify" colname="col4">$<insertwords>561.24</insertwords> a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater</entry>
+                  <entry align="justify" colname="col4">$<insertwords>547.26</insertwords> a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater</entry>
                 </row>
                 <row rowsep="0">
                   <entry colname="col1" colsep="0"/>
@@ -4015,7 +3996,7 @@
                     </para>
                   </entry>
                   <entry align="justify"/>
-                  <entry align="justify" colname="col4">$<insertwords>531.72</insertwords> a week, subject to Income Test 3</entry>
+                  <entry align="justify" colname="col4">$<insertwords>519.72</insertwords> a week, subject to Income Test 3</entry>
                 </row>
                 <row rowsep="0">
                   <entry colsep="0" nameend="col2" namest="col1">
@@ -4031,7 +4012,7 @@
                     </para>
                   </entry>
                   <entry align="justify"/>
-                  <entry align="justify" colname="col4">An amount that, after income tax is deducted under tax code M (as stated in <insertwords><citation jurisdiction="nz"><extref href="DLM1252632">section 24B</extref> of the Tax Administration Act 1994</citation></insertwords>) is equal to $<insertwords>35.55</insertwords> a week</entry>
+                  <entry align="justify" colname="col4">An amount that, after income tax is deducted under tax code M (as stated in <insertwords><citation jurisdiction="nz"><extref href="DLM1252632">section 24B</extref> of the Tax Administration Act 1994</citation></insertwords>) is equal to $<insertwords>34.87</insertwords> a week</entry>
                 </row>
                 <row>
                   <entry colsep="0" nameend="col2" namest="col1">
@@ -4047,44 +4028,39 @@
                     </para>
                   </entry>
                   <entry align="justify"/>
-                  <entry align="justify" colname="col4">$<insertwords>35.55</insertwords> a week</entry>
+                  <entry align="justify" colname="col4">$<insertwords>34.87</insertwords> a week</entry>
                 </row>
               </tbody>
             </tgroup>
           </table>
           <notes>
             <history>
-              <history-note id="DLM2874526"><amended-provision>Schedule 1 clause 1(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748902">clause 6(2)</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
-              <history-note id="DLM2874511"><amended-provision>Schedule 1 clause 1(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748917">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
-              <history-note id="DLM115011"><amended-provision>Schedule 1 clause 1(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM2874529"><amended-provision>Schedule 1 clause 1(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748902">clause 6(2)</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
-              <history-note id="DLM2874514"><amended-provision>Schedule 1 clause 1(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748917">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
-              <history-note id="DLM1979775"><amended-provision>Schedule 1 clause 1(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM2874531"><amended-provision>Schedule 1 clause 1(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748902">clause 6(2)</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
-              <history-note id="DLM2874516"><amended-provision>Schedule 1 clause 1(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748917">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
+              <history-note id="DLM1945708"><amended-provision>Schedule 1 clause 1(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2009</amendment-date>, by <amending-provision href="DLM1841308">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2009</amending-leg> (SR 2009/27).</history-note>
+              <history-note id="DLM115011"><amended-provision>Schedule 1 clause 1(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17) .</history-note>
+              <history-note id="DLM1945709"><amended-provision>Schedule 1 clause 1(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2009</amendment-date>, by <amending-provision href="DLM1841308">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2009</amending-leg> (SR 2009/27).</history-note>
+              <history-note id="DLM1979775"><amended-provision>Schedule 1 clause 1(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17) .</history-note>
+              <history-note id="DLM1945710"><amended-provision>Schedule 1 clause 1(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2009</amendment-date>, by <amending-provision href="DLM1841308">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2009</amending-leg> (SR 2009/27).</history-note>
               <history-note id="DLM115021"><amended-provision>Schedule 1 clause 1(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM336343">section 4</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM1979777"><amended-provision>Schedule 1 clause 1(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
+              <history-note id="DLM1979777"><amended-provision>Schedule 1 clause 1(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17) .</history-note>
               <history-note id="DLM1979787"><amended-provision>Schedule 1 clause 2</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM336343">section 4</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM1979779"><amended-provision>Schedule 1 clause 2</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM2874533"><amended-provision>Schedule 1 clause 2(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748902">clause 6(2)</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
-              <history-note id="DLM2874518"><amended-provision>Schedule 1 clause 2(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748917">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
+              <history-note id="DLM1979779"><amended-provision>Schedule 1 clause 2</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17) .</history-note>
+              <history-note id="DLM1945711"><amended-provision>Schedule 1 clause 2(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2009</amendment-date>, by <amending-provision href="DLM1841308">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2009</amending-leg> (SR 2009/27).</history-note>
               <history-note id="DLM2648919"><amended-provision>Schedule 1 clause 2(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM336343">section 4</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM1979781"><amended-provision>Schedule 1 clause 2(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM2874535"><amended-provision>Schedule 1 clause 2(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748902">clause 6(2)</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
-              <history-note id="DLM2874520"><amended-provision>Schedule 1 clause 2(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748917">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
+              <history-note id="DLM1979781"><amended-provision>Schedule 1 clause 2(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17) .</history-note>
+              <history-note id="DLM1945712"><amended-provision>Schedule 1 clause 2(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2009</amendment-date>, by <amending-provision href="DLM1841308">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2009</amending-leg> (SR 2009/27).</history-note>
               <history-note id="DLM2648921"><amended-provision>Schedule 1 clause 2(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM336343">section 4</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM1979783"><amended-provision>Schedule 1 clause 2(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM2874522"><amended-provision>Schedule 1 clause 3</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748917">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
+              <history-note id="DLM1979783"><amended-provision>Schedule 1 clause 2(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17) .</history-note>
+              <history-note id="DLM1945713"><amended-provision>Schedule 1 clause 3</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2009</amendment-date>, by <amending-provision href="DLM1841308">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2009</amending-leg> (SR 2009/27).</history-note>
               <history-note id="DLM1261522"><amended-provision>Schedule 1 clause 3</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008 (effective for 2008–09 income year and later)</amendment-date>, by <amending-provision href="DLM1523176">section ZA 2(1)</amending-provision> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
               <history-note id="DLM1979789"><amended-provision>Schedule 1 clause 3</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM336343">section 4</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM1979785"><amended-provision>Schedule 1 clause 3</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
-              <history-note id="DLM2874524"><amended-provision>Schedule 1 clause 4</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2748917">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2010</amending-leg> (SR 2010/21).</history-note>
+              <history-note id="DLM1979785"><amended-provision>Schedule 1 clause 3</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17) .</history-note>
+              <history-note id="DLM1945714"><amended-provision>Schedule 1 clause 4</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2009</amendment-date>, by <amending-provision href="DLM1841308">clause 5</amending-provision> of the <amending-leg>Social Security (Rates of Benefits and Allowances) Order 2009</amending-leg> (SR 2009/27).</history-note>
             </history>
           </notes>
         </para>
       </schedule.misc>
     </schedule>
-    <schedule id="DLM115022" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
+    <schedule id="DLM115022" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">2</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -4161,7 +4137,7 @@
         </para>
       </schedule.misc>
     </schedule>
-    <schedule id="DLM115023" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
+    <schedule id="DLM115023" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">3</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -4948,7 +4924,7 @@
         </prov>
       </schedule.provisions>
     </schedule>
-    <schedule id="DLM115453" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
+    <schedule id="DLM115453" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">4</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -5015,7 +4991,7 @@
         </head1>
       </schedule.misc>
     </schedule>
-    <schedule id="DLM115462" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
+    <schedule id="DLM115462" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">5</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -5148,7 +5124,7 @@
         </schedule.amendments.group2>
       </schedule.amendments>
     </schedule>
-    <schedule id="DLM115485" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-07-07" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
+    <schedule id="DLM115485" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">6</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -5209,7 +5185,7 @@
     </schedule>
   </schedule.group>
   <end id="DLM115490">
-    <end.reprint-note id="DLM3105709">
+    <end.reprint-note id="DLM1982065">
       <reprint.index>
         <heading>Contents</heading>
         <para>
@@ -5253,10 +5229,10 @@
           <label auto.number="no" denominator="yes">1</label>
           <heading>General</heading>
           <para>
-            <text>This is a reprint of the New Zealand Superannuation and Retirement Income Act 2001. The reprint incorporates all the amendments to the Act as at 7 July 2010, as specified in the list of amendments at the end of these notes.</text>
+            <text>This is a reprint of the New Zealand Superannuation and Retirement Income Act 2001. The reprint incorporates all the amendments to the Act as at 3 March 2010, as specified in the list of amendments at the end of these notes.</text>
           </para>
           <para>
-            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
+            <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
           </para>
         </reprint.note>
         <reprint.note>
@@ -5273,7 +5249,7 @@
           <label auto.number="no" denominator="yes">3</label>
           <heading>How reprints are prepared</heading>
           <para>
-            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
           </para>
         </reprint.note>
         <reprint.note>
@@ -5283,10 +5259,10 @@
             <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
           </para>
           <para>
-            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by section 17C of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
           </para>
           <para>
-            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <text>In outline, the editorial changes made in reprints under the authority of section 17C of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
             <list>
               <item>
                 <label auto.number="no" denominator="no">•</label>
@@ -5395,19 +5371,13 @@
           <label auto.number="no" denominator="yes">5</label>
           <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
           <reprint.amend>
-            <citation jurisdiction="nz"><extref href="DLM3043200">New Zealand Superannuation and Retirement Income Amendment Act (No 2) 2010</extref> (2010 No 75)</citation>
-          </reprint.amend>
-          <reprint.amend>
-            <citation jurisdiction="nz"><extref href="DLM2988600">New Zealand Superannuation and Retirement Income Amendment Act 2010</extref> (2010 No 32)</citation>
-          </reprint.amend>
-          <reprint.amend>
-            <citation jurisdiction="nz">Social Security (Rates of Benefits and Allowances) Order 2010 (SR 2010/21): <extref href="DLM2748917">clauses 5</extref>, <extref href="DLM2748902">6</extref></citation>
-          </reprint.amend>
-          <reprint.amend>
             <citation jurisdiction="nz">Accident Compensation Amendment Act 2010 (2010 No 1): <extref href="DLM2417572">section 49</extref></citation>
           </reprint.amend>
           <reprint.amend>
             <citation jurisdiction="nz"><extref href="DLM1609400">New Zealand Superannuation and Retirement Income Amendment Act 2009</extref> (2009 No 40)</citation>
+          </reprint.amend>
+          <reprint.amend>
+            <citation jurisdiction="nz">Social Security (Rates of Benefits and Allowances) Order 2009 (SR 2009/27): <extref href="DLM1841308">clause 5</extref></citation>
           </reprint.amend>
           <reprint.amend>
             <citation jurisdiction="nz">Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): <extref href="DLM1404052">section 13</extref></citation>
