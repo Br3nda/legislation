@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM285411" in.amend="false" instructing.office="Economic Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992" prospective.consolidation="F">
+<act id="DLM285411" in.amend="false" instructing.office="Economic Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992">
   <cover id="DLM285412">
-    <reprint-date>2010-11-01</reprint-date>
+    <reprint-date>2010-04-01</reprint-date>
     <title xml:lang="en-NZ">Gas Act 1992</title>
     <assent>1992-12-17</assent>
     <cover.reprint-note>
@@ -19,15 +19,10 @@
     <toc/>
   </contents>
   <front id="DLM285413" xml:lang="en-NZ">
-    <long-title deletion-status="repealed" id="DLM2802003" toc="yes">
+    <long-title id="DLM2802003" toc="yes">
       <para>
-        <text/>
+        <text>An Act to make better provision for the regulation, supply, and use of gas [and the gas industry] in New Zealand, and to repeal the Gas Act 1982</text>
       </para>
-      <notes>
-        <history>
-          <history-note id="DLM2942882"><amended-provision>Title</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396707">section 4</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-        </history>
-      </notes>
     </long-title>
   </front>
   <body id="DLM285416" prov-type="section" xml:lang="en-NZ">
@@ -55,48 +50,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <prov id="DLM2942801" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">1A</label>
-      <heading xml:lang="en-NZ">Purposes</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
-            <text>The purposes of this Act are—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>to provide for the regulation, supply, and use of gas in New Zealand; and</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>to provide for the regulation of the gas industry in New Zealand; and</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">c</label>
-              <para xml:lang="en-NZ">
-                <text>to protect the health and safety of members of the public in connection with the supply and use of gas in New Zealand; and</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">d</label>
-              <para xml:lang="en-NZ">
-                <text>to promote the prevention of damage to property in connection with the supply and use of gas in New Zealand.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-      </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM2942883"><amended-provision>Section 1A</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396708">section 5</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-        </history>
-      </notes>
-    </prov>
-    <part id="DLM285419" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" stage="reprint" year="1992" prospective.consolidation="F">
+    <part id="DLM285419" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">1</label>
       <heading xml:lang="en-NZ">Preliminary provisions</heading>
       <prov id="DLM285420" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -186,31 +140,20 @@
               </def-para>
               <def-para id="DLM285436" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM285437" xml:lang="en-NZ">distribution system</def-term>—</text>
+                  <text><def-term id="DLM285437" xml:lang="en-NZ">distribution system</def-term> means all fittings, whether above or below ground, under the control of a gas distributor and used to distribute gas from—</text>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">a</label>
                     <para xml:lang="en-NZ">
-                      <text>means all fittings, whether above or below ground, under the control of a gas distributor and used to distribute gas from—</text>
-                      <label-para skeleton="no" xml:lang="en-NZ">
-                        <label auto.number="no" denominator="yes">i</label>
-                        <para xml:lang="en-NZ">
-                          <text>the boundary of the gasworks or gate station outlet flange supplying gas for distribution to the point of supply of the place at which the gas is supplied to a consumer or gas refueller; or</text>
-                        </para>
-                      </label-para>
-                      <label-para skeleton="no" xml:lang="en-NZ">
-                        <label auto.number="no" denominator="yes">ii</label>
-                        <para xml:lang="en-NZ">
-                          <text>the outlet of the container in which gas for distribution is stored to the point of supply of the place at which the gas is supplied to a consumer or gas refueller; and</text>
-                        </para>
-                      </label-para>
+                      <text>the boundary of the gasworks or gate station outlet flange supplying gas for distribution; or</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">b</label>
                     <para xml:lang="en-NZ">
-                      <text>includes, for the purposes of any regulations made under <citation jurisdiction="nz"><intref href="DLM286529">section 54</intref></citation> relating to odorisation or the measurement of calorific value, a gas transmission system</text>
+                      <text>the outlet of the container in which gas for distribution is stored—</text>
                     </para>
                   </label-para>
+                  <text>to the outlet of the gas measurement system of the place at which the gas is supplied to a consumer or gas refueller (or, where no such gas measurement system is provided, to the custody transfer point of the place at which the gas is supplied to a consumer or gas refueller); and, for the purposes of any regulations made under <citation jurisdiction="nz"><intref href="DLM286529">section 54</intref> of this Act</citation> relating to odorisation or the measurement of calorific value, includes a gas transmission system</text>
                 </para>
               </def-para>
               <def-para id="DLM285438" xml:lang="en-NZ">
@@ -279,6 +222,11 @@
               <def-para id="DLM285457" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
                   <text><def-term id="DLM285458" xml:lang="en-NZ">gas distributor</def-term> means any person who supplies line function services to any other person or persons</text>
+                </para>
+              </def-para>
+              <def-para id="DLM285459" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM285460" xml:lang="en-NZ">gas inspector</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM439144">section 2</extref> of the Plumbers, Gasfitters, and Drainlayers Act 1976</citation></text>
                 </para>
               </def-para>
               <def-para id="DLM285461" xml:lang="en-NZ">
@@ -355,33 +303,6 @@
               <def-para id="DLM285476" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
                   <text><def-term id="DLM285477" xml:lang="en-NZ">gasfitting</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM396786">section 4</extref> of the Plumbers, Gasfitters, and Drainlayers Act 2006</citation></text>
-                </para>
-              </def-para>
-              <def-para id="DLM2942805" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM2942806" xml:lang="en-NZ">infringement fee</def-term>, in relation to an infringement offence, means the amount prescribed by regulations made under <citation jurisdiction="nz"><intref href="DLM286529">section 54</intref></citation> as the infringement fee for the offence</text>
-                </para>
-              </def-para>
-              <def-para id="DLM2942807" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM2942808" xml:lang="en-NZ">infringement notice</def-term> means a notice given under <citation jurisdiction="nz"><intref href="DLM2942857">section 57C</intref></citation></text>
-                </para>
-              </def-para>
-              <def-para id="DLM2942809" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM2942810" xml:lang="en-NZ">infringement offence</def-term> means—</text>
-                  <label-para skeleton="no" xml:lang="en-NZ">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para xml:lang="en-NZ">
-                      <text>an offence against <citation jurisdiction="nz"><intref href="DLM285773">section 21(d)</intref> or <intref href="DLM285780">section 27</intref></citation>:</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no" xml:lang="en-NZ">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para xml:lang="en-NZ">
-                      <text>a breach of any regulation made under this Act that is prescribed as an infringement offence</text>
-                    </para>
-                  </label-para>
                 </para>
               </def-para>
               <def-para id="DLM285484" xml:lang="en-NZ">
@@ -464,7 +385,7 @@
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">a</label>
                     <para xml:lang="en-NZ">
-                      <text>the whole or any part of any land, house, shop, factory, premises, or building:</text>
+                      <text>any land, house, shop, factory, premises, building, or any part of a building that is separately occupied:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
@@ -484,11 +405,6 @@
               <def-para id="DLM285709" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
                   <text><def-term id="DLM285710" xml:lang="en-NZ">pleasure vessel</def-term> has the same meaning as in <citation jurisdiction="nz">section 2(1) of the Shipping and Seamen Act 1952</citation></text>
-                </para>
-              </def-para>
-              <def-para id="DLM2942814" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM2942815" xml:lang="en-NZ">point of supply</def-term>, in relation to any place, means the point of supply of that place as prescribed by regulations made under <citation jurisdiction="nz"><intref href="DLM286529">section 54</intref></citation></text>
                 </para>
               </def-para>
               <def-para id="DLM285713" xml:lang="en-NZ">
@@ -552,7 +468,7 @@
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">b</label>
                     <para xml:lang="en-NZ">
-                      <text>harm that incapacitates, or is likely to incapacitate, the person suffering harm for 48 hours or more; or</text>
+                      <text>harm that incapacitates, or is likely to incapacitate, the person suffering harm for 48 hours or more; or</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
@@ -627,17 +543,10 @@
             <history-note id="DLM2863709"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">Board</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM397798">section 185</amending-provision> of the <amending-leg>Plumbers, Gasfitters, and Drainlayers Act 2006</amending-leg> (2006 No 74).</history-note>
             <history-note id="DLM1685252"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">consumer</emphasis><amended-provision>paragraph (b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>14 October 2008</amendment-date>, by <amending-provision href="DLM1194782">section 31(2)(a)</amending-provision> of the <amending-leg>Commerce Amendment Act 2008</amending-leg> (2008 No 70).</history-note>
             <history-note id="DLM1685253"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">consumer</emphasis><amended-provision>paragraph (b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>14 October 2008</amendment-date>, by <amending-provision href="DLM1194782">section 31(2)(b)</amending-provision> of the <amending-leg>Commerce Amendment Act 2008</amending-leg> (2008 No 70).</history-note>
-            <history-note id="DLM2942884"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">distribution system</emphasis>: <amending-operation>substituted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396710">section 6(2)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-            <history-note id="DLM2942885"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">gas inspector</emphasis>: <amending-operation>repealed</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396710">section 6(3)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
             <history-note id="DLM285467"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">gas operator</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>22 October 2003</amendment-date>, by <amending-provision href="DLM217054">section 3</amending-provision> of the <amending-leg>Gas Amendment Act 2003</amending-leg> (2003 No 74).</history-note>
             <history-note id="DLM2863710"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">gasfitting</emphasis>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM397798">section 185</amending-provision> of the <amending-leg>Plumbers, Gasfitters, and Drainlayers Act 2006</amending-leg> (2006 No 74).</history-note>
-            <history-note id="DLM2942886"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">infringement fee</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396710">section 6(5)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-            <history-note id="DLM2942887"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">infringement notice</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396710">section 6(5)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-            <history-note id="DLM2942888"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">infringement offence</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396710">section 6(5)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
             <history-note id="DLM285486"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">level crossing</emphasis>: <amending-operation>substituted</amending-operation>, on <amendment-date>20 July 2005</amendment-date>, by <amending-provision href="DLM343101">section 103(3)</amending-provision> of the <amending-leg>Railways Act 2005</amending-leg> (2005 No 37).</history-note>
             <history-note id="DLM285491"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">local authority</emphasis>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 July 2003</amendment-date>, by <amending-provision href="DLM174088">section 262</amending-provision> of the <amending-leg>Local Government Act 2002</amending-leg> (2002 No 84).</history-note>
-            <history-note id="DLM2942889"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">place</emphasis> paragraph (a): <amending-operation>substituted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396710">section 6(4)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-            <history-note id="DLM2942890"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">point of supply</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396710">section 6(5)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
             <history-note id="DLM1470609"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">road</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>1 August 2008</amendment-date>, by <amending-provision href="DLM1313622">section 50(1)</amending-provision> of the <amending-leg>Land Transport Management Amendment Act 2008</amending-leg> (2008 No 47).</history-note>
             <history-note id="DLM285719"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">road</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>28 July 1997</amendment-date>, by <amending-provision href="DLM410371">section 2(1)</amending-provision> of the <amending-leg>Gas Amendment Act 1997</amending-leg> (1997 No 46).</history-note>
             <history-note id="DLM285720"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">road</emphasis><amended-provision>paragraph (a)</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>28 July 1997</amendment-date>, by <amending-provision href="DLM410371">section 2(2)</amending-provision> of the <amending-leg>Gas Amendment Act 1997</amending-leg> (1997 No 46).</history-note>
@@ -731,12 +640,6 @@
               </label-para>
             </para>
           </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>Despite subsection (2)(d), that paragraph does not apply in relation to <citation jurisdiction="nz"><intref href="DLM285903">Part 4A</intref></citation> and, accordingly, Part 4A applies to any gas used as a feedstock.</text>
-            </para>
-          </subprov>
         </prov.body>
         <cf>
           <citation jurisdiction="nz">1982 No 27 s 3</citation>
@@ -745,7 +648,6 @@
           <history>
             <history-note id="DLM285740"><amended-provision>Section 3(2)(a)(iii)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 March 1999</amendment-date>, by <amending-provision href="DLM435656">section 215(1)</amending-provision> of the <amending-leg>Land Transport Act 1998</amending-leg> (1998 No 110).</history-note>
             <history-note id="DLM285741"><amended-provision>Section 3(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>27 September 2001</amendment-date>, by <amending-provision href="DLM112765">section 3</amending-provision> of the <amending-leg>Gas Amendment Act 2001</amending-leg> (2001 No 67).</history-note>
-            <history-note id="DLM2914004"><amended-provision>Section 3(3)</amended-provision>: <amending-operation>added</amending-operation>, on <amendment-date>20 April 2010</amendment-date>, by <amending-provision href="DLM2852871">section 4</amending-provision> of the <amending-leg>Gas Amendment Act 2010</amending-leg> (2010 No 17).</history-note>
           </history>
         </notes>
       </prov>
@@ -762,7 +664,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM285743" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" stage="reprint" year="1992" prospective.consolidation="F">
+    <part id="DLM285743" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">2</label>
       <heading xml:lang="en-NZ">General</heading>
       <crosshead id="DLM285744" toc="yes" xml:lang="en-NZ">Gas operators</crosshead>
@@ -1033,7 +935,7 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">3</label>
             <para xml:lang="en-NZ">
-              <text>Where the Secretary believes on reasonable grounds<struckoutwords/>—</text>
+              <text>Where the Secretary believes on reasonable grounds in respect of any place—</text>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
@@ -1046,31 +948,7 @@
                   <text>that, because of anything done or omitted to be done, or intended to be done or not to be done, by any person, there would be a danger or potential danger to any persons or property should any gas be present or escape,—</text>
                 </para>
               </label-para>
-              <text>the Secretary may do all such things, and require any person to <insertwords>do or</insertwords> refrain from doing all such things, as the Secretary considers necessary to remove or minimise the danger or potential danger.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">3A</label>
-            <para xml:lang="en-NZ">
-              <text>The Secretary's power to require a person to do a thing under subsection (3) includes the power to require, by notice in writing, that the person—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>produce for inspection, within any reasonable period that the Secretary may specify, any document or class of document in the possession or under the control of the person that the Secretary considers would assist the Secretary to remove or minimise a danger or potential danger:</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>supply, within any reasonable period that the Secretary may specify, any information or class of information that the Secretary considers would assist the Secretary to remove or minimise a danger or potential danger.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">3B</label>
-            <para xml:lang="en-NZ">
-              <text>Every person who is required to produce documents or supply information under this section has the same privileges in relation to the production of the documents or the supply of the information as witnesses have in any court.</text>
+              <text>the Secretary may do all such things, and require any person to refrain from doing all such things, as the Secretary considers necessary to remove or minimise the danger or potential danger.</text>
             </para>
           </subprov>
           <subprov skeleton="no" xml:lang="en-NZ">
@@ -1085,10 +963,6 @@
         </cf>
         <notes>
           <history>
-            <history-note id="DLM2942891"><amended-provision>Section 9(3)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396725">section 7(1)(a)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-            <history-note id="DLM2942892"><amended-provision>Section 9(3)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396725">section 7(1)(b)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-            <history-note id="DLM2942893"><amended-provision>Section 9(3A)</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396725">section 7(2)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-            <history-note id="DLM2942894"><amended-provision>Section 9(3B)</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396725">section 7(2)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
             <history-note id="DLM1470612"><amended-provision>Section 9(4)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 August 2008</amendment-date>, by <amending-provision href="DLM1313622">section 50(1)</amending-provision> of the <amending-leg>Land Transport Management Amendment Act 2008</amending-leg> (2008 No 47).</history-note>
           </history>
         </notes>
@@ -1549,7 +1423,7 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="no"/>
             <para xml:lang="en-NZ">
-              <text>Every person commits an offence and is liable on summary conviction to a fine not exceeding <insertwords>$50,000 in the case of an individual, or $250,000 in the case of a body corporate,</insertwords> who—</text>
+              <text>Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who—</text>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
@@ -1595,7 +1469,7 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">d</label>
                 <para xml:lang="en-NZ">
-                  <text>fails without reasonable excuse to <insertwords>notify</insertwords> any accident to which <citation jurisdiction="nz"><intref href="DLM285763">section 17</intref> of this Act</citation> applies when required to do so by subsection (3) of that section, or interferes in any way with the scene of any such accident otherwise than in accordance with <citation jurisdiction="nz"><intref href="DLM285770">section 18(1)</intref> of this Act</citation>, or, having interfered in any such scene in accordance with section 18(1) of this Act, fails without reasonable excuse to notify the Secretary of the steps he or she has taken as required by section 18(2) of this Act.</text>
+                  <text>fails without reasonable excuse to report any accident to which <citation jurisdiction="nz"><intref href="DLM285763">section 17</intref> of this Act</citation> applies when required to do so by subsection (3) of that section, or interferes in any way with the scene of any such accident otherwise than in accordance with <citation jurisdiction="nz"><intref href="DLM285770">section 18(1)</intref> of this Act</citation>, or, having interfered in any such scene in accordance with section 18(1) of this Act, fails without reasonable excuse to notify the Secretary of the steps he or she has taken as required by section 18(2) of this Act.</text>
                 </para>
               </label-para>
             </para>
@@ -1604,12 +1478,6 @@
         <cf>
           <citation jurisdiction="nz">1982 No 27 s 16</citation>
         </cf>
-        <notes>
-          <history>
-            <history-note id="DLM2942895"><amended-provision>Section 21</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396729">section 10(1)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-            <history-note id="DLM2942896"><amended-provision>Section 21(d)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396729">section 10(2)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
       </prov>
       <prov id="DLM285774" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">22</label>
@@ -1624,7 +1492,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM285775" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" stage="reprint" year="1992" prospective.consolidation="F">
+    <part id="DLM285775" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">3</label>
       <heading xml:lang="en-NZ">Powers and duties of gas operators and other owners of gas fittings</heading>
       <prov id="DLM285776" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -1724,10 +1592,22 @@
               </label-para>
             </para>
           </subprov>
-          <subprov skeleton="no">
+          <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>No gas operator may exercise the powers contained in subsection (1) otherwise than in accordance with such reasonable conditions as may be prescribed by the local authority or other body or person having jurisdiction over the road.</text>
+            <para xml:lang="en-NZ">
+              <text>No gas operator shall exercise the powers contained in subsection (1) of this section otherwise than in accordance with such reasonable conditions as may be prescribed by—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>the local authority or other body or person having jurisdiction over the road; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>the owner of the pipe, telecommunications line, or electric works, as the case may be.</text>
+                </para>
+              </label-para>
             </para>
           </subprov>
           <subprov skeleton="no" xml:lang="en-NZ">
@@ -1756,97 +1636,6 @@
           </subprov>
         </prov.body>
         <cf><citation jurisdiction="nz">1987 No 116 <extref href="DLM119714">s 15</extref></citation>; <citation jurisdiction="nz">1988 No 164 s 16</citation></cf>
-        <notes>
-          <history>
-            <history-note id="DLM3164514"><amended-provision>Section 25(2)</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>6 August 2010</amendment-date>, by <amending-provision href="DLM2924930">section 18</amending-provision> of the <amending-leg>Infrastructure (Amendments Relating to Utilities Access) Act 2010</amending-leg> (2010 No 99).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM3164501" irdnumbering="no" skeleton="no" toc="yes">
-        <label auto.number="no" denominator="yes">25A</label>
-        <heading>Criteria for setting reasonable conditions</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>In setting, varying, or revoking reasonable conditions under <citation jurisdiction="nz"><intref href="DLM285778">section 25(2)</intref></citation>, the local authority or other body or person having jurisdiction over the road concerned may consider all or any of the following matters:</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>the safe and efficient flow of traffic (whether pedestrian or vehicular):</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>the health and safety of any person who is, or class of persons who are, likely to be directly affected by the work on the road:</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">c</label>
-                <para>
-                  <text>the need to lessen the damage that is likely to be caused to property (including structural integrity of the roads) as a result of work on the road:</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">d</label>
-                <para>
-                  <text>the compensation that may be payable under <citation jurisdiction="nz"><intref href="DLM286524">section 51</intref></citation> for property that is likely to be damaged as a result of work on the road:</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">e</label>
-                <para>
-                  <text>the need to lessen disruption to the local community (including businesses):</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">f</label>
-                <para>
-                  <text>the co-ordination of installation of other networks:</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">g</label>
-                <para>
-                  <text>the co-ordination with road construction work by the local authority or other body or person who has jurisdiction over that road:</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">h</label>
-                <para>
-                  <text>the need of the gas operator to establish a gas network in a timely manner.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>Nothing in subsection (1) limits a local authority's or other body's or person's ability to impose reasonable conditions under <citation jurisdiction="nz"><intref href="DLM285778">section 25(2)</intref></citation>.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">4</label>
-            <para>
-              <text>If the cost to the gas operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <cf>
-          <citation jurisdiction="nz">2001 No 103 <extref href="DLM127423">s 119</extref></citation>
-        </cf>
-        <notes>
-          <history>
-            <history-note id="DLM3164515"><amended-provision>Section 25A</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>6 August 2010</amendment-date>, by <amending-provision href="DLM2924931">section 19</amending-provision> of the <amending-leg>Infrastructure (Amendments Relating to Utilities Access) Act 2010</amending-leg> (2010 No 99).</history-note>
-          </history>
-        </notes>
       </prov>
       <prov id="DLM285779" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">26</label>
@@ -2213,7 +2002,7 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">4</label>
             <para xml:lang="en-NZ">
-              <text>Where a controlling authority <insertwords>(being the New Zealand Transport Agency or the agent of the Minister of Transport)</insertwords> requires any work to be done under <citation jurisdiction="nz"><intref href="DLM285788">section 33(1)</intref> of this Act</citation> in relation to any fittings, subsections (1) to (3) of this section shall apply subject to the following provisions:</text>
+              <text>Where a controlling authority within the meaning of <citation jurisdiction="nz"><extref href="DLM175293">section 54(1)</extref> of the <insertwords>Government Roading Powers Act 1989</insertwords></citation> requires any work to be done under <citation jurisdiction="nz"><intref href="DLM285788">section 33(1)</intref> of this Act</citation> in relation to any fittings, subsections (1) to (3) of this section shall apply subject to the following provisions:</text>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
@@ -2303,7 +2092,6 @@
         <notes>
           <history>
             <history-note id="DLM285790"><amended-provision>Section 34(2)(a)(iv)</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 July 2003</amendment-date>, by <amending-provision href="DLM174088">section 262</amending-provision> of the <amending-leg>Local Government Act 2002</amending-leg> (2002 No 84).</history-note>
-            <history-note id="DLM3164516"><amended-provision>Section 34(4)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>6 August 2010</amendment-date>, by <amending-provision href="DLM2924933">section 20</amending-provision> of the <amending-leg>Infrastructure (Amendments Relating to Utilities Access) Act 2010</amending-leg> (2010 No 99).</history-note>
             <history-note id="DLM1470614"><amended-provision>Section 34(4)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 August 2008</amendment-date>, by <amending-provision href="DLM1313622">section 50(1)</amending-provision> of the <amending-leg>Land Transport Management Amendment Act 2008</amending-leg> (2008 No 47).</history-note>
           </history>
         </notes>
@@ -2354,7 +2142,7 @@
         </cf>
       </prov>
     </part>
-    <part id="DLM285793" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" stage="reprint" year="1992" prospective.consolidation="F">
+    <part id="DLM285793" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">4</label>
       <heading xml:lang="en-NZ">Gas codes of practice</heading>
       <prov id="DLM285794" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -2693,10 +2481,10 @@
         <cf><citation jurisdiction="nz">1968 No 125 s 24F</citation>; <citation jurisdiction="nz">1983 No 123 s 6</citation></cf>
       </prov>
     </part>
-    <part id="DLM285903" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" stage="reprint" year="1992" prospective.consolidation="F">
+    <part id="DLM285903" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">4A</label>
       <heading xml:lang="en-NZ">Governance of Gas Industry</heading>
-      <subpart id="DLM285905" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992" prospective.consolidation="F">
+      <subpart id="DLM285905" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992">
         <label auto.number="no" denominator="yes">1</label>
         <heading xml:lang="en-NZ">General and regulation-making powers</heading>
         <crosshead id="DLM285907" toc="yes" xml:lang="en-NZ">Preliminary provisions</crosshead>
@@ -3012,216 +2800,39 @@
             </history>
           </notes>
         </prov>
-        <crosshead id="DLM285947" toc="yes" xml:lang="en-NZ">Dispute resolution</crosshead>
-        <notes>
-          <history>
-            <history-note id="DLM3372720"><amended-provision>Heading</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM2634629">section 166</amending-provision> of the <amending-leg>Electricity Industry Act 2010</amending-leg> (2010 No 116).</history-note>
-          </history>
-        </notes>
+        <crosshead id="DLM285947" toc="yes" xml:lang="en-NZ">Complaints resolution system</crosshead>
         <prov id="DLM285948" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">43E</label>
-          <heading>Access to dispute resolution scheme</heading>
+          <heading xml:lang="en-NZ">Complaints resolution system</heading>
           <prov.body>
-            <subprov skeleton="no">
+            <subprov skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">1</label>
-              <para>
-                <text>Any person described in subsection (2) may make a complaint to the dispute resolution scheme concerning a gas distributor or a gas retailer.</text>
+              <para xml:lang="en-NZ">
+                <text>Every gas distributor and every gas retailer must participate in a complaints resolution system that is approved by the Minister for the purpose of addressing complaints relating to those gas retailers and gas distributors by all or any of—</text>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para xml:lang="en-NZ">
+                    <text>small consumers (including potential small consumers):</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para xml:lang="en-NZ">
+                    <text>owners and occupiers of land into, through, or against which pipelines have been laid down or placed.</text>
+                  </para>
+                </label-para>
               </para>
             </subprov>
-            <subprov skeleton="no">
+            <subprov skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">2</label>
-              <para>
-                <text>The persons who may make a complaint are any persons (including consumers, potential consumers, and owners and occupiers of land) except members of the dispute resolution scheme.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">3</label>
-              <para>
-                <text>The <def-term id="DLM3372705">dispute resolution scheme</def-term> is either—</text>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">a</label>
-                  <para>
-                    <text>the approved scheme identified in <citation jurisdiction="nz"><extref href="DLM2634710">clause 3</extref> of Schedule 4</citation> of the <citation jurisdiction="nz">Electricity Industry Act 2010</citation>; or</text>
-                  </para>
-                </label-para>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">b</label>
-                  <para>
-                    <text>the regulated scheme provided for in regulations made under <citation jurisdiction="nz"><extref href="DLM3252404">clause 18</extref> of Schedule 4</citation> of that Act.</text>
-                  </para>
-                </label-para>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">4</label>
-              <para>
-                <text>The procedures for making complaints to the dispute resolution scheme are as set out in the rules of the dispute resolution scheme.</text>
-              </para>
-            </subprov>
-          </prov.body>
-          <cf>1992 No 122 <citation jurisdiction="nz"><extref href="DLM283333">s 158G</extref></citation></cf>
-          <notes>
-            <history>
-              <history-note id="DLM3372721"><amended-provision>Section 43E</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM2634629">section 166</amending-provision> of the <amending-leg>Electricity Industry Act 2010</amending-leg> (2010 No 116).</history-note>
-            </history>
-          </notes>
-        </prov>
-        <prov id="DLM3372708" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="yes">43EA</label>
-          <heading>Membership of dispute resolution scheme</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">1</label>
-              <para>
-                <text>Every gas distributor and every gas retailer must be a member of the dispute resolution scheme, unless exempt under subsection (3).</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">2</label>
-              <para>
-                <text>A person commits an offence and is liable on summary conviction to a fine not exceeding $100,000 if the person knowingly refuses or fails to become a member of the dispute resolution scheme. </text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">3</label>
-              <para>
-                <text>A person need not be a member of a dispute resolution scheme if—</text>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">a</label>
-                  <para>
-                    <text>the person is a member of a class of industry participants identified in regulations made under <citation jurisdiction="nz"><intref href="DLM285986">section 43S(1)</intref></citation> as a class that need not be a member; or</text>
-                  </para>
-                </label-para>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">b</label>
-                  <para>
-                    <text>the Minister of Consumer Affairs exempts the person by issuing an individual exemption notice in the <emphasis style="italic">Gazette</emphasis> that—</text>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">i</label>
-                      <para>
-                        <text>identifies the person that is exempt from the obligation to be a member; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">ii</label>
-                      <para>
-                        <text>gives reasons for the exemption.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </label-para>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">4</label>
-              <para>
-                <text>The Minister of Consumer Affairs may grant an individual exemption to a person only if he or she is satisfied that membership of the dispute resolution scheme by the person is not necessary in order to meet the purpose of the dispute resolution scheme because complaints are unlikely to be made against the person or because complaints should be made in another forum.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">5</label>
-              <para>
-                <text>The Minister of Consumer Affairs may amend or revoke an individual exemption, by issuing a notice in the <emphasis style="italic">Gazette</emphasis> that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister—</text>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">a</label>
-                  <para>
-                    <text>has given notice of the proposed amendment or revocation to the exempt person (where possible) and given the person a reasonable opportunity to comment on the proposal; and</text>
-                  </para>
-                </label-para>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">b</label>
-                  <para>
-                    <text>is satisfied that the amendment or revocation is necessary or desirable in order to meet the purpose of the dispute resolution scheme.</text>
-                  </para>
-                </label-para>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">6</label>
-              <para>
-                <text>To avoid doubt, an individual exemption notice issued under subsection (3)(b) is not a regulation for any purpose.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">7</label>
-              <para>
-                <text>The Ministry must include on its Internet site a list of all current class and individual exemptions.</text>
+              <para xml:lang="en-NZ">
+                <text>This section applies to a gas distributor or a gas retailer provided the Minister has approved, by notice in the <emphasis style="italic">Gazette</emphasis>, 1 or more complaints resolution systems that apply to that gas distributor or gas retailer.</text>
               </para>
             </subprov>
           </prov.body>
           <notes>
             <history>
-              <history-note id="DLM3372722"><amended-provision>Section 43EA</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM2634629">section 166</amending-provision> of the <amending-leg>Electricity Industry Act 2010</amending-leg> (2010 No 116).</history-note>
-            </history>
-          </notes>
-        </prov>
-        <prov id="DLM3372709" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="yes">43EB</label>
-          <heading>Compliance with rules and binding settlements</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">1</label>
-              <para>
-                <text>Members of the dispute resolution scheme must comply with the rules of the scheme.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">2</label>
-              <para>
-                <text>On the application of the person responsible for the dispute resolution scheme, the District Court may require a member of the scheme to do either or both of the following:</text>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">a</label>
-                  <para>
-                    <text>comply with the rules of the scheme:</text>
-                  </para>
-                </label-para>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">b</label>
-                  <para>
-                    <text>comply with a binding settlement determined by the scheme in response to a complaint.</text>
-                  </para>
-                </label-para>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">3</label>
-              <para>
-                <text>If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)(b) may modify the terms of the binding settlement, provided that the modification results in a binding settlement that could have been made under the dispute resolution scheme.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">4</label>
-              <para>
-                <text>If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.</text>
-              </para>
-            </subprov>
-          </prov.body>
-          <notes>
-            <history>
-              <history-note id="DLM3372723"><amended-provision>Section 43EB</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM2634629">section 166</amending-provision> of the <amending-leg>Electricity Industry Act 2010</amending-leg> (2010 No 116).</history-note>
-            </history>
-          </notes>
-        </prov>
-        <prov id="DLM3372710" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="yes">43EC</label>
-          <heading>Offence to fail to comply with District Court order</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">1</label>
-              <para>
-                <text>A member of the dispute resolution scheme who, knowing that the member is subject to an order made under <citation jurisdiction="nz"><intref href="DLM3372709">section 43EB</intref></citation>, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $100,000.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">2</label>
-              <para>
-                <text>Nothing in this section applies to an order or part of an order of a District Court referred to in <citation jurisdiction="nz"><intref href="DLM3372709">section 43EB(4)</intref></citation>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-          <notes>
-            <history>
-              <history-note id="DLM3372724"><amended-provision>Section 43EC</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM2634629">section 166</amending-provision> of the <amending-leg>Electricity Industry Act 2010</amending-leg> (2010 No 116).</history-note>
+              <history-note id="DLM2705112"><amended-provision>Section 43E</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>18 October 2004</amendment-date>, by <amending-provision href="DLM315529">section 5</amending-provision> of the <amending-leg>Gas Amendment Act 2004</amending-leg> (2004 No 83).</history-note>
             </history>
           </notes>
         </prov>
@@ -4227,12 +3838,6 @@
                     <text>exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any person or class of persons from all or any of the requirements in regulations or rules made under this subpart:</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes" increment="1">fa</label>
-                  <para>
-                    <text>exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any class of persons from all or any of the requirements in <citation jurisdiction="nz"><intref href="DLM3372708">sections 43EA to 43EC</intref></citation> (which relate to dispute resolution):</text>
-                  </para>
-                </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">g</label>
                   <para xml:lang="en-NZ">
@@ -4269,7 +3874,6 @@
           <notes>
             <history>
               <history-note id="DLM2705918"><amended-provision>Section 43S</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>18 October 2004</amendment-date>, by <amending-provision href="DLM315529">section 5</amending-provision> of the <amending-leg>Gas Amendment Act 2004</amending-leg> (2004 No 83).</history-note>
-              <history-note id="DLM3372725"><amended-provision>Section 43S(1)(fa)</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM2634629">section 166</amending-provision> of the <amending-leg>Electricity Industry Act 2010</amending-leg> (2010 No 116).</history-note>
             </history>
           </notes>
         </prov>
@@ -4888,7 +4492,7 @@
           </notes>
         </prov>
       </subpart>
-      <subpart id="DLM286226" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992" prospective.consolidation="F">
+      <subpart id="DLM286226" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992">
         <label auto.number="no" denominator="yes">2</label>
         <heading xml:lang="en-NZ">Co-regulation of gas industry</heading>
         <notes>
@@ -5950,7 +5554,7 @@
           </notes>
         </prov>
       </subpart>
-      <subpart id="DLM286508" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992" prospective.consolidation="F">
+      <subpart id="DLM286508" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992">
         <label auto.number="no" denominator="yes">4</label>
         <heading xml:lang="en-NZ">Exemptions from restrictive trade practice provisions of Commerce Act 1986</heading>
         <notes>
@@ -6019,7 +5623,7 @@
         </prov>
       </subpart>
     </part>
-    <part id="DLM286512" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" stage="reprint" year="1992" prospective.consolidation="F">
+    <part id="DLM286512" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">5</label>
       <heading xml:lang="en-NZ">Miscellaneous provisions</heading>
       <crosshead id="DLM286513" toc="yes" xml:lang="en-NZ">General</crosshead>
@@ -6085,58 +5689,6 @@
         <cf>
           <citation jurisdiction="nz">1982 No 27 s 61</citation>
         </cf>
-      </prov>
-      <prov id="DLM2942835" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-        <label auto.number="no" denominator="yes">46A</label>
-        <heading xml:lang="en-NZ">Owners or operators of gas supply systems must have safety management system</heading>
-        <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
-              <text>Every person that owns or operates a gas supply system must implement and maintain, in accordance with regulations made under <citation jurisdiction="nz"><intref href="DLM286529">section 54</intref></citation>, a safety management system that requires all practicable steps to be taken to prevent the gas supply system from presenting a significant risk of—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>serious harm to any member of the public; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>significant damage to property owned by a person other than the person that owns or operates the gas supply system.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>For the purposes of this section and <citation jurisdiction="nz"><intref href="DLM2942837">sections 46B</intref> and <intref href="DLM286538">54A</intref></citation>, <def-term id="DLM2942836" xml:lang="en-NZ">gas supply system</def-term> means the distribution systems, gas installations, fittings, and gas appliances prescribed in regulations made under <citation jurisdiction="nz"><intref href="DLM286529">section 54</intref></citation>, being distribution systems, gas installations, fittings, and gas appliances that form part of a system for conveying gas to consumers.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2942897"><amended-provision>Section 46A</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396730">section 11</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2942837" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-        <label auto.number="no" denominator="yes">46B</label>
-        <heading xml:lang="en-NZ">Offence to breach requirement to have safety management system</heading>
-        <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="no"/>
-            <para xml:lang="en-NZ">
-              <text>Every person who, being a person that owns or operates a gas supply system, breaches <citation jurisdiction="nz"><intref href="DLM2942835">section 46A</intref></citation> commits an offence and is liable on summary conviction to a fine not exceeding $250,000.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2942898"><amended-provision>Section 46B</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396730">section 11</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
       </prov>
       <prov id="DLM286519" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">47</label>
@@ -6228,15 +5780,47 @@
           <citation jurisdiction="nz">1979 No 139 s 39</citation>
         </cf>
       </prov>
-      <prov deletion-status="repealed" id="DLM286521" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov id="DLM286521" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">49</label>
         <heading xml:lang="en-NZ">Power to require information</heading>
-        <prov.body/>
-        <notes>
-          <history>
-            <history-note id="DLM2942899"><amended-provision>Section 49</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396734">section 12</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Where any gasfitting has been done on any premises, any person (being a gas inspector or any other person authorised by or under this Act to inspect gasfitting) may from time to time require any person who was the occupier of the premises at the time the gasfitting was done to furnish, within such reasonable period as the inspector or authorised person may specify, any information or particulars at that person's disposal that are relevant for the purpose of identifying the person who did the gasfitting.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>without reasonable excuse, refuses or fails to comply with any requirement made under subsection (1) of this section; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>Makes any statement knowing that it is both incorrect and material in any information or particulars furnished (whether in writing or not) under subsection (1) of this section.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>No person shall be excused from answering any question, or furnishing any information or particulars, when required to do so under subsection (1) of this section on the ground that compliance with that requirement could or would tend to incriminate that person or subject that person to any penalty or forfeiture.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">4</label>
+            <para xml:lang="en-NZ">
+              <text>No statement or disclosure furnished or made by any person in compliance or purported compliance with any requirement made under subsection (1) of this section shall be admissible against that person in any criminal or civil proceedings, other than proceedings for an offence against subsection (2)(b) of this section.</text>
+            </para>
+          </subprov>
+        </prov.body>
       </prov>
       <prov id="DLM286522" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">50</label>
@@ -7163,105 +6747,9 @@
         </notes>
       </prov>
       <crosshead id="DLM286557" toc="yes" xml:lang="en-NZ">Miscellaneous provisions</crosshead>
-      <prov id="DLM2942848" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-        <label auto.number="no" denominator="yes">56B</label>
-        <heading xml:lang="en-NZ">Offences for actions or omissions likely to cause serious harm or significant property damage</heading>
-        <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
-              <text>Every person commits an offence if—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>the person takes an action knowing that the action is reasonably likely to cause serious harm to any person or significant property damage; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>the action is contrary to a provision of this Act; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">c</label>
-                <para xml:lang="en-NZ">
-                  <text>the person fails to take all practicable steps to prevent the serious harm or significant property damage.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>Every person commits an offence if—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>the person fails to take an action knowing that the failure to take the action is reasonably likely to cause serious harm to any person or significant property damage; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>the person is required by this Act to take the action; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">c</label>
-                <para xml:lang="en-NZ">
-                  <text>the person fails to take all practicable steps to prevent the serious harm or significant property damage.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">3</label>
-            <para xml:lang="en-NZ">
-              <text>Every person who commits an offence under this section is liable on conviction on indictment to—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>imprisonment for a term of not more than 2 years; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>a fine of not more than $100,000 in the case of an individual, or $500,000 in the case of a body corporate; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">c</label>
-                <para xml:lang="en-NZ">
-                  <text>both.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">4</label>
-            <para xml:lang="en-NZ">
-              <text>A person charged with an offence under this section may be convicted of an offence under any other section in this Act as if the person had been charged under that section.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">5</label>
-            <para xml:lang="en-NZ">
-              <text>To avoid doubt, a person required by this section to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <cf>1992 No 96 <citation jurisdiction="nz"><extref href="DLM279656">s 49</extref></citation></cf>
-        <notes>
-          <history>
-            <history-note id="DLM2943200"><amended-provision>Section 56B</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396740">section 15</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
-      </prov>
       <prov id="DLM286559" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">57</label>
-        <heading xml:lang="en-NZ">Other offences</heading>
+        <heading xml:lang="en-NZ">Offences</heading>
         <prov.body>
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">1</label>
@@ -7301,293 +6789,6 @@
           </subprov>
         </prov.body>
         <cf><citation jurisdiction="nz">1987 No 116 <extref href="DLM119430">s 5E</extref></citation>; <citation jurisdiction="nz">1990 No 21 s 3</citation></cf>
-        <notes>
-          <history>
-            <history-note id="DLM2943201"><amended-provision>Section 57 heading</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396742">section 16</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2942855" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-        <label auto.number="no" denominator="yes">57A</label>
-        <heading xml:lang="en-NZ">Time for laying information</heading>
-        <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="no"/>
-            <para xml:lang="en-NZ">
-              <text>Despite <citation jurisdiction="nz"><extref href="DLM311191">section 14</extref> of the Summary Proceedings Act 1957</citation>, an information for an offence against any provision of this Act or against any regulations made under <citation jurisdiction="nz"><intref href="DLM286529">sections 54</intref> or <intref href="DLM286544">55</intref></citation> may be laid at any time within 5 years after the time when the matter of the information arose.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2943202"><amended-provision>Section 57A</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396743">section 17(1)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2942856" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-        <label auto.number="no" denominator="yes">57B</label>
-        <heading xml:lang="en-NZ">Infringement offences</heading>
-        <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
-              <text>If a person is alleged to have committed an infringement offence, that person may either—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>be proceeded against summarily for the alleged offence under the <citation jurisdiction="nz"><extref href="DLM310742">Summary Proceedings Act 1957</extref></citation>; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>be served with an infringement notice as provided in <citation jurisdiction="nz"><intref href="DLM2942857">section 57C</intref></citation>.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>Despite <citation jurisdiction="nz"><extref href="DLM311346">section 21</extref> of the Summary Proceedings Act 1957</citation>, leave of a District Court Judge or Registrar to lay an information is not necessary where the Secretary proceeds with an infringement offence summarily.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2943203"><amended-provision>Section 57B</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396743">section 17(1)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2942857" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-        <label auto.number="no" denominator="yes">57C</label>
-        <heading xml:lang="en-NZ">Infringement notices</heading>
-        <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
-              <text>The Secretary may issue an infringement notice to a person if—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>the Secretary believes on reasonable grounds that the person is committing, or has committed, an infringement offence; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>the Secretary or another person has not taken enforcement action against the same defendant in respect of the same matter.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>The Secretary may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under <citation jurisdiction="nz"><extref href="DLM311346">section 21</extref> of the Summary Proceedings Act 1957</citation>.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">3</label>
-            <para xml:lang="en-NZ">
-              <text>An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">4</label>
-            <para xml:lang="en-NZ">
-              <text>For the purposes of this section, <def-term id="DLM2942858" xml:lang="en-NZ">enforcement action</def-term> means,—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>in relation to the Secretary,—</text>
-                  <label-para skeleton="no" xml:lang="en-NZ">
-                    <label auto.number="no" denominator="yes">i</label>
-                    <para xml:lang="en-NZ">
-                      <text>the laying of an information under this Act; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no" xml:lang="en-NZ">
-                    <label auto.number="no" denominator="yes">ii</label>
-                    <para xml:lang="en-NZ">
-                      <text>the issuing of an infringement notice under this Act; and</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>in relation to a person other than the Secretary, the laying of an information under this Act.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2943204"><amended-provision>Section 57C</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396743">section 17(1)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2942859" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-        <label auto.number="no" denominator="yes">57D</label>
-        <heading xml:lang="en-NZ">Procedural requirements for infringement notices</heading>
-        <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
-              <text>An infringement notice may not be issued after the close of the 14th day after the Secretary becomes aware of the alleged infringement offence.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>An infringement notice may be served on a person—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>by sending it, or a copy of it, by post, addressed to the person at the person's last known place of residence or business.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">3</label>
-            <para xml:lang="en-NZ">
-              <text>For the purposes of the <citation jurisdiction="nz"><extref href="DLM310742">Summary Proceedings Act 1957</extref></citation>, an infringement notice sent under subsection (2)(b) must be treated as having been served on the person on the date it was posted.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">4</label>
-            <para xml:lang="en-NZ">
-              <text>An infringement notice must be in the prescribed form and must contain—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>details of the alleged infringement offence that are sufficient to fairly inform a person of the time, place, and nature of the alleged infringement offence; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>the amount of the infringement fee; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">c</label>
-                <para xml:lang="en-NZ">
-                  <text>an address at which the infringement fee may be paid; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">d</label>
-                <para xml:lang="en-NZ">
-                  <text>the time within which the infringement fee must be paid; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">e</label>
-                <para xml:lang="en-NZ">
-                  <text>a summary of the provisions of <citation jurisdiction="nz"><extref href="DLM311346">section 21(10)</extref> of the Summary Proceedings Act 1957</citation>; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">f</label>
-                <para xml:lang="en-NZ">
-                  <text>a statement that the person served with the notice has a right to request a hearing; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">g</label>
-                <para xml:lang="en-NZ">
-                  <text>a statement of what will happen if the person served with the notice does not pay the fee and does not request a hearing; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">h</label>
-                <para xml:lang="en-NZ">
-                  <text>any other prescribed matters.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">5</label>
-            <para xml:lang="en-NZ">
-              <text>If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with <citation jurisdiction="nz"><extref href="DLM311346">section 21</extref> of the Summary Proceedings Act 1957</citation> and, in that case,—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>reminder notices may be prescribed under regulations made under this Act; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
-                <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>in all other respects, <citation jurisdiction="nz"><extref href="DLM311346">section 21</extref> of the Summary Proceedings Act 1957</citation> applies with all necessary modifications.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">6</label>
-            <para xml:lang="en-NZ">
-              <text>Reminder notices must contain the prescribed information.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2943205"><amended-provision>Section 57D</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396743">section 17(1)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2942860" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-        <label auto.number="no" denominator="yes">57E</label>
-        <heading xml:lang="en-NZ">Payment of infringement fee</heading>
-        <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="no"/>
-            <para xml:lang="en-NZ">
-              <text>The Secretary must pay all infringement fees received into a Crown Bank Account.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2943206"><amended-provision>Section 57E</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396743">section 17(1)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2942861" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-        <label auto.number="no" denominator="yes">57F</label>
-        <heading xml:lang="en-NZ">Effect of infringement notice</heading>
-        <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
-              <text>If an infringement notice is issued, a criminal record must not be created in respect of the infringement offence.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>Subsection (1) does not prevent a court being told, for the purpose of sentencing a person convicted of an offence under this Act, that the person has paid, or is obliged to pay, an infringement fee for a particular infringement offence.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2943207"><amended-provision>Section 57F</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>4 May 2010</amendment-date>, by <amending-provision href="DLM396743">section 17(1)</amending-provision> of the <amending-leg>Gas Amendment Act 2006</amending-leg> (2006 No 71).</history-note>
-          </history>
-        </notes>
       </prov>
       <prov id="DLM286566" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">58</label>
@@ -7659,7 +6860,7 @@
     </part>
   </body>
   <schedule.group xml:lang="en-NZ">
-    <schedule id="DLM286570" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992" prospective.consolidation="F">
+    <schedule id="DLM286570" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">1</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -7754,7 +6955,7 @@
         </schedule.amendments.group1>
       </schedule.amendments>
     </schedule>
-    <schedule id="DLM286573" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992" prospective.consolidation="F">
+    <schedule id="DLM286573" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">2</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -7813,7 +7014,7 @@
         </schedule.amendments.group2>
       </schedule.amendments>
     </schedule>
-    <schedule id="DLM286576" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-11-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992" prospective.consolidation="F">
+    <schedule id="DLM286576" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="124" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-17" date.first.valid="2007-09-18" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">3</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -7832,55 +7033,7 @@
     </schedule>
   </schedule.group>
   <end id="DLM1118104">
-    <skeletons id="DLM3164517">
-      <skeleton.act act.no="99" id="DLM3164518" type="public" year="2010">
-        <skeleton.act.cover>
-          <title>Infrastructure (Amendments Relating to Utilities Access) Act 2010</title>
-          <assent>2010-08-05</assent>
-          <commencement>see section 2</commencement>
-        </skeleton.act.cover>
-        <skeleton.act.body prov-type="section">
-          <prov id="DLM3164509" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="no">1</label>
-            <heading>Title</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="no"/>
-                <para>
-                  <text>This Act is the <citation jurisdiction="nz"><extref href="DLM2924904">Infrastructure (Amendments Relating to Utilities Access) Act 2010</extref></citation>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM3164510" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="no">2</label>
-            <heading>Commencement</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <crosshead id="DLM3164511" toc="yes">Transitional provision</crosshead>
-          <prov id="DLM3164512" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">28</label>
-            <heading>Transitional provision</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </skeleton.act.body>
-      </skeleton.act>
-    </skeletons>
-    <end.reprint-note id="DLM2914005">
+    <end.reprint-note id="DLM1118105">
       <reprint.index>
         <heading>Contents</heading>
         <para>
@@ -7912,31 +7065,22 @@
           <label auto.number="no" denominator="yes">1</label>
           <heading>General</heading>
           <para>
-            <text>This is an eprint of the Gas Act 1992. The eprint incorporates all the amendments to the Act as at 1 November 2010. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007.</text>
+            <text>This is an eprint of the Gas Act 1992. It incorporates all the amendments to the Act as at 1 April 2010. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007.</text>
           </para>
           <para>
-            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.</text>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/reprints/.</text>
           </para>
         </reprint.note>
         <reprint.note>
-          <label auto.number="no" denominator="yes">2</label>
+          <label auto.number="yes" denominator="yes">2</label>
           <heading>About this eprint</heading>
           <para>
-            <text>This eprint has not been officialised. For more information about eprints and officialisation, please <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/eprints/">http://www.pco.parliament.govt.nz/eprints/</extref></citation>.</text>
+            <text>This eprint has not been officialised. For more information about officialisation, please <emphasis style="italic">see</emphasis> <quote.in>Making online legislation official</quote.in> under <quote.in>Status of legislation on this site</quote.in> in the About section of this website.</text>
           </para>
         </reprint.note>
         <reprint.note>
           <label auto.number="no" denominator="yes">3</label>
-          <heading>List of amendments incorporated in this eprint<brk/>(most recent first)</heading>
-          <reprint.amend>
-            <citation jurisdiction="nz">Electricity Industry Act 2010 (2010 No 116): <extref href="DLM2634629">section 166</extref></citation>
-          </reprint.amend>
-          <reprint.amend>
-            <citation jurisdiction="nz">Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): <extref href="DLM2924930">sections 18–20</extref></citation>
-          </reprint.amend>
-          <reprint.amend>
-            <citation jurisdiction="nz"><extref href="DLM2852866">Gas Amendment Act 2010</extref> (2010 No 17)</citation>
-          </reprint.amend>
+          <heading>List of amendments incorporated in this eprint<brk/>(most recent first)</heading>
           <reprint.amend>
             <citation jurisdiction="nz">Commerce Amendment Act 2008 (2008 No 70): <extref href="DLM1194782">section 31(2)</extref></citation>
           </reprint.amend>
@@ -7948,9 +7092,6 @@
           </reprint.amend>
           <reprint.amend>
             <citation jurisdiction="nz">Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): <extref href="DLM397798">section 185</extref></citation>
-          </reprint.amend>
-          <reprint.amend>
-            <citation jurisdiction="nz"><extref href="DLM396700">Gas Amendment Act 2006</extref> (2006 No 71)</citation>
           </reprint.amend>
         </reprint.note>
       </reprint.notes>
