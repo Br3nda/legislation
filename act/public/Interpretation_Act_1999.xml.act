@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM31458" in.amend="false" irdnumbering="no" xml:lang="en-NZ" act.no="85" act.type="public" date.as.at="2007-09-03" date.assent="1999-08-03" date.first.valid="2007-09-18" stage="reprint" year="1999">
+<act date.instructed="1996-11-01" id="DLM31458" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="85" act.type="public" date.as.at="2008-10-01" date.assent="1999-08-03" date.first.valid="2007-09-18" stage="reprint" year="1999">
   <cover id="DLM31459">
+    <reprint-date>2008-10-01</reprint-date>
     <title xml:lang="en-NZ">Interpretation Act 1999</title>
     <assent>1999-08-03</assent>
+    <commencement>see section 3</commencement>
     <cover.reprint-note>
-      <para xml:lang="en-NZ"/>
-      <admin-office>This Act is administered in the <ministry>Ministry of Justice</ministry>.</admin-office>
+      <para xml:lang="en-NZ">
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Ministry of Justice</ministry>.</admin-office>
     </cover.reprint-note>
   </cover>
   <contents>
@@ -18,7 +25,6 @@
         <text>An Act relating to the interpretation, application, and effect of legislation</text>
       </para>
     </long-title>
-    <enactment>BE IT ENACTED by the Parliament of New Zealand as follows:</enactment>
   </front>
   <body id="DLM31462" prov-type="section" xml:lang="en-NZ">
     <prov id="DLM31463" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -33,7 +39,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM31464" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2007-09-03" date.assent="1999-08-03" stage="reprint" year="1999">
+    <part id="DLM31464" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2008-10-01" date.assent="1999-08-03" stage="reprint" year="1999">
       <label auto.number="no" denominator="yes">1</label>
       <heading xml:lang="en-NZ">Purposes, commencement, and application</heading>
       <prov id="DLM31465" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -47,19 +53,19 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>To state principles and rules for the interpretation of legislation; and</text>
+                  <text>to state principles and rules for the interpretation of legislation; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>To shorten legislation; and</text>
+                  <text>to shorten legislation; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">c</label>
                 <para xml:lang="en-NZ">
-                  <text>To promote consistency in the language and form of legislation.</text>
+                  <text>to promote consistency in the language and form of legislation.</text>
                 </para>
               </label-para>
             </para>
@@ -73,7 +79,7 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="no"/>
             <para xml:lang="en-NZ">
-              <text>This Act comes into force on 1 November 1999.</text>
+              <text>This Act comes into force on 1 November 1999.</text>
             </para>
           </subprov>
         </prov.body>
@@ -89,13 +95,13 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>The enactment provides otherwise; or</text>
+                  <text>the enactment provides otherwise; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>The context of the enactment requires a different interpretation.</text>
+                  <text>the context of the enactment requires a different interpretation.</text>
                 </para>
               </label-para>
             </para>
@@ -109,7 +115,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM31468" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2007-09-03" date.assent="1999-08-03" stage="reprint" year="1999">
+    <part id="DLM31468" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2008-10-01" date.assent="1999-08-03" stage="reprint" year="1999">
       <label auto.number="no" denominator="yes">2</label>
       <heading xml:lang="en-NZ">Principles of interpretation</heading>
       <prov id="DLM31469" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -135,9 +141,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 5(j)</citation>
-        </cf>
+        <cf>1924 No 11 s 5(j)</cf>
       </prov>
       <prov id="DLM31470" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">6</label>
@@ -150,9 +154,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 5(d)</citation>
-        </cf>
+        <cf>1924 No 11 s 5(d)</cf>
       </prov>
       <prov id="DLM31471" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">7</label>
@@ -167,7 +169,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM31472" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2007-09-03" date.assent="1999-08-03" stage="reprint" year="1999">
+    <part id="DLM31472" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2008-10-01" date.assent="1999-08-03" stage="reprint" year="1999">
       <label auto.number="no" denominator="yes">3</label>
       <heading xml:lang="en-NZ">Specific provisions applying to legislation</heading>
       <crosshead id="DLM31473" toc="yes" xml:lang="en-NZ">Commencement of legislation</crosshead>
@@ -188,7 +190,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf><citation jurisdiction="nz">1924 No 11 s 10A</citation>; <citation jurisdiction="nz">1986 No 115 s 6</citation></cf>
+        <cf>1924 No 11 s 10A; 1986 No 115 s 6</cf>
       </prov>
       <prov id="DLM31475" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">9</label>
@@ -231,7 +233,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf><citation jurisdiction="nz">1924 No 11 s 10</citation>; <citation jurisdiction="nz">1986 No 115 s 6</citation></cf>
+        <cf>1924 No 11 s 10; 1986 No 115 s 6</cf>
       </prov>
       <crosshead id="DLM31477" toc="yes" xml:lang="en-NZ">Exercise of powers between passing and commencement of legislation</crosshead>
       <prov id="DLM31478" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -245,31 +247,31 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>Make a regulation or rule or other instrument; or</text>
+                  <text>make a regulation or rule or other instrument; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>Serve a notice or document; or</text>
+                  <text>serve a notice or document; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">c</label>
                 <para xml:lang="en-NZ">
-                  <text>Appoint a person to an office or position; or</text>
+                  <text>appoint a person to an office or position; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">d</label>
                 <para xml:lang="en-NZ">
-                  <text>Establish a body of persons; or</text>
+                  <text>establish a body of persons; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">e</label>
                 <para xml:lang="en-NZ">
-                  <text>Do any other act or thing for the purposes of an enactment.</text>
+                  <text>do any other act or thing for the purposes of an enactment.</text>
                 </para>
               </label-para>
             </para>
@@ -289,13 +291,11 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">4</label>
             <para xml:lang="en-NZ">
-              <text><citation jurisdiction="nz">Subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13368" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 11" atidlm:xmlId="DLM460250" atidlm:state="UNCHANGED"><atidlm:linkcontent>(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13166" atidlm:sourceXmlId="DLM460250" atidlm:targetKey="129806" atidlm:targetXmlId="DLM31478" atidlm:targetName="prov 11" atidlm:sourceName="DLM460250" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31472.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31472.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[3]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Exercise of powers between passing and commencement of legislation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> applies as if the enactment under which the power is exercised and any other enactment that is not in force when the power is exercised were in force when the power is exercised.</text>
+              <text>Subsection (1) applies as if the enactment under which the power is exercised and any other enactment that is not in force when the power is exercised were in force when the power is exercised.</text>
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 12</citation>
-        </cf>
+        <cf>1924 No 11 s 12</cf>
       </prov>
       <crosshead id="DLM31479" toc="yes" xml:lang="en-NZ">Exercise of powers in legislation generally</crosshead>
       <prov id="DLM31480" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -309,41 +309,41 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>Remove or suspend a person from the office:</text>
+                  <text>remove or suspend a person from the office:</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>Reappoint or reinstate a person to the office:</text>
+                  <text>reappoint or reinstate a person to the office:</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">c</label>
                 <para xml:lang="en-NZ">
-                  <text>Appoint another person in place of a person who—</text>
+                  <text>appoint another person in place of a person who—</text>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">i</label>
                     <para xml:lang="en-NZ">
-                      <text>Has vacated the office; or</text>
+                      <text>has vacated the office; or</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">ii</label>
                     <para xml:lang="en-NZ">
-                      <text>Has died; or</text>
+                      <text>has died; or</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">iii</label>
                     <para xml:lang="en-NZ">
-                      <text>Is absent; or</text>
+                      <text>is absent; or</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">iv</label>
                     <para xml:lang="en-NZ">
-                      <text>Is incapacitated in a way that affects the performance of that person's duty.</text>
+                      <text>is incapacitated in a way that affects the performance of that person's duty.</text>
                     </para>
                   </label-para>
                 </para>
@@ -351,9 +351,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 25(f)</citation>
-        </cf>
+        <cf>1924 No 11 s 25(f)</cf>
       </prov>
       <prov id="DLM31481" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">13</label>
@@ -366,7 +364,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf><citation jurisdiction="nz">1924 No 11 s 25(j)</citation>; <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13369" atidlm:branchLabel="_NOVERSION_" atidlm:name="Statutes Amendment Act 1936" atidlm:xmlId="DLM460251" atidlm:state="UNCHANGED"><atidlm:linkcontent>1936 No 58</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13167" atidlm:sourceXmlId="DLM460251" atidlm:targetKey="1554605" atidlm:targetXmlId="DLM221336" atidlm:targetName="Statutes Amendment Act 1936" atidlm:sourceName="DLM460251" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM221336.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31472.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[3]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Power to correct errors" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="13" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> s <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13370" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 2" atidlm:xmlId="DLM460252" atidlm:state="UNCHANGED"><atidlm:linkcontent>2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13168" atidlm:sourceXmlId="DLM460252" atidlm:targetKey="1555201" atidlm:targetXmlId="DLM221343" atidlm:targetName="prov 2" atidlm:sourceName="DLM460252" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM221342.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31472.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[3]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Power to correct errors" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="13" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+        <cf>1924 No 11 s 25(j); <citation jurisdiction="nz">1936 No 58 <extref href="DLM221343">s 2</extref></citation></cf>
       </prov>
       <prov id="DLM31482" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">14</label>
@@ -379,7 +377,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf><citation jurisdiction="nz">1924 No 11 s 25(e)</citation>; <citation jurisdiction="nz">1986 No 115 s 7</citation></cf>
+        <cf>1924 No 11 s 25(e); 1986 No 115 s 7</cf>
       </prov>
       <prov id="DLM31483" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">15</label>
@@ -392,21 +390,19 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>Amend or revoke it:</text>
+                  <text>amend or revoke it:</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>Revoke it and replace it with another.</text>
+                  <text>revoke it and replace it with another.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 25(h)</citation>
-        </cf>
+        <cf>1924 No 11 s 25(h)</cf>
       </prov>
       <prov id="DLM31484" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">16</label>
@@ -425,9 +421,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 25(g)</citation>
-        </cf>
+        <cf>1924 No 11 s 25(g)</cf>
       </prov>
       <crosshead id="DLM31485" toc="yes" xml:lang="en-NZ">Repeals</crosshead>
       <prov id="DLM31486" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -441,31 +435,31 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>The validity, invalidity, effect, or consequences of anything done or suffered:</text>
+                  <text>the validity, invalidity, effect, or consequences of anything done or suffered:</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>An existing right, interest, title, immunity, or duty:</text>
+                  <text>an existing right, interest, title, immunity, or duty:</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">c</label>
                 <para xml:lang="en-NZ">
-                  <text>An existing status or capacity:</text>
+                  <text>an existing status or capacity:</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">d</label>
                 <para xml:lang="en-NZ">
-                  <text>An amendment made by the enactment to another enactment:</text>
+                  <text>an amendment made by the enactment to another enactment:</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">e</label>
                 <para xml:lang="en-NZ">
-                  <text>The previous operation of the enactment or anything done or suffered under it.</text>
+                  <text>the previous operation of the enactment or anything done or suffered under it.</text>
                 </para>
               </label-para>
             </para>
@@ -477,21 +471,19 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>An enactment that has been repealed or a rule of law that has been abolished:</text>
+                  <text>an enactment that has been repealed or a rule of law that has been abolished:</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>Any other thing that is not in force or existing at the time the repeal takes effect.</text>
+                  <text>any other thing that is not in force or existing at the time the repeal takes effect.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 20(a), (e), (f)</citation>
-        </cf>
+        <cf>1924 No 11 s 20(a), (e), (f)</cf>
       </prov>
       <prov id="DLM31487" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">18</label>
@@ -510,9 +502,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 ss 20(g), (h), 22</citation>
-        </cf>
+        <cf>1924 No 11 ss 20(g), (h), 22</cf>
       </prov>
       <prov id="DLM31488" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">19</label>
@@ -531,27 +521,25 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>Investigating the offence or breach:</text>
+                  <text>investigating the offence or breach:</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>Commencing or completing proceedings for the offence or breach:</text>
+                  <text>commencing or completing proceedings for the offence or breach:</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">c</label>
                 <para xml:lang="en-NZ">
-                  <text>Imposing a penalty for the offence or breach.</text>
+                  <text>imposing a penalty for the offence or breach.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 20(h)</citation>
-        </cf>
+        <cf>1924 No 11 s 20(h)</cf>
       </prov>
       <prov id="DLM31489" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">20</label>
@@ -564,13 +552,13 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>That, with or without modification, replaces, or that corresponds to, the enactment repealed; and</text>
+                  <text>that, with or without modification, replaces, or that corresponds to, the enactment repealed; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>Under which it could be made.</text>
+                  <text>under which it could be made.</text>
                 </para>
               </label-para>
             </para>
@@ -582,7 +570,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf><citation jurisdiction="nz">1924 No 11 ss 20(d), 20A</citation>; <citation jurisdiction="nz">1960 No 50 s 2</citation></cf>
+        <cf>1924 No 11 ss 20(d), 20A; 1960 No 50 s 2</cf>
       </prov>
       <prov id="DLM31490" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">21</label>
@@ -595,19 +583,19 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>That, with or without modification, replaces, or that corresponds to, the enactment repealed; and</text>
+                  <text>that, with or without modification, replaces, or that corresponds to, the enactment repealed; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>Under which the power could be exercised.</text>
+                  <text>under which the power could be exercised.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
         </prov.body>
-        <cf><citation jurisdiction="nz">1924 No 11 ss 20(d), 20A</citation>; <citation jurisdiction="nz">1960 No 50 s 2</citation></cf>
+        <cf>1924 No 11 ss 20(d), 20A; 1960 No 50 s 2</cf>
       </prov>
       <prov id="DLM31491" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">22</label>
@@ -628,13 +616,11 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">3</label>
             <para xml:lang="en-NZ">
-              <text><citation jurisdiction="nz">Subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13371" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 22" atidlm:xmlId="DLM460253" atidlm:state="UNCHANGED"><atidlm:linkcontent>(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13169" atidlm:sourceXmlId="DLM460253" atidlm:targetKey="129819" atidlm:targetXmlId="DLM31491" atidlm:targetName="prov 22" atidlm:sourceName="DLM460253" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31472.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31472.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[3]/prov[15]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="References to repealed enactment" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="22" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> is subject to <citation jurisdiction="nz">subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13372" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 22" atidlm:xmlId="DLM460254" atidlm:state="UNCHANGED"><atidlm:linkcontent>(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13170" atidlm:sourceXmlId="DLM460254" atidlm:targetKey="129819" atidlm:targetXmlId="DLM31491" atidlm:targetName="prov 22" atidlm:sourceName="DLM460254" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31472.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31472.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[3]/prov[15]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="References to repealed enactment" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="22" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+              <text>Subsection (1) is subject to subsection (2).</text>
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 ss 20(b), 21</citation>
-        </cf>
+        <cf>1924 No 11 ss 20(b), 21</cf>
       </prov>
       <crosshead id="DLM31492" toc="yes" xml:lang="en-NZ">Amending legislation</crosshead>
       <prov id="DLM31493" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -657,7 +643,7 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">1</label>
             <para xml:lang="en-NZ">
-              <text>It is not necessary for an enactment, Proclamation, Order in Council, warrant, or other instrument made under an enactment to refer to facts, circumstances, or preconditions that must exist or be satisfied before the enactment, Proclamation, Order in Council, Warrant, or other instrument can be made.</text>
+              <text>It is not necessary for an enactment, Proclamation, Order in Council, Warrant, or other instrument made under an enactment to refer to facts, circumstances, or preconditions that must exist or be satisfied before the enactment, Proclamation, Order in Council, Warrant, or other instrument can be made.</text>
             </para>
           </subprov>
           <subprov skeleton="no" xml:lang="en-NZ">
@@ -667,9 +653,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 24</citation>
-        </cf>
+        <cf>1924 No 11 s 24</cf>
       </prov>
       <prov id="DLM31496" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">25</label>
@@ -695,12 +679,10 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 5(i)</citation>
-        </cf>
+        <cf>1924 No 11 s 5(i)</cf>
       </prov>
     </part>
-    <part id="DLM31499" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2007-09-03" date.assent="1999-08-03" stage="reprint" year="1999">
+    <part id="DLM31499" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2008-10-01" date.assent="1999-08-03" stage="reprint" year="1999">
       <label auto.number="no" denominator="yes">4</label>
       <heading xml:lang="en-NZ">Application of legislation to the Crown</heading>
       <prov id="DLM31800" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -714,9 +696,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 5(k)</citation>
-        </cf>
+        <cf>1924 No 11 s 5(k)</cf>
       </prov>
       <prov id="DLM31801" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">28</label>
@@ -725,17 +705,17 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">1</label>
             <para xml:lang="en-NZ">
-              <text>The Ministry of Justice must, by 30 June 2001, report to the Minister of Justice—</text>
+              <text>The Ministry of Justice must, by 30 June 2001, report to the Minister of Justice—</text>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>Whether it is desirable that the law be changed so that all enactments bind the Crown unless provided otherwise; and</text>
+                  <text>whether it is desirable that the law be changed so that all enactments bind the Crown unless provided otherwise; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>Whether changes in the law may be required to impose criminal liability on the Crown for the breach of any enactment.</text>
+                  <text>whether changes in the law may be required to impose criminal liability on the Crown for the breach of any enactment.</text>
                 </para>
               </label-para>
             </para>
@@ -755,7 +735,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM31802" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2007-09-03" date.assent="1999-08-03" stage="reprint" year="1999">
+    <part id="DLM31802" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2008-10-01" date.assent="1999-08-03" stage="reprint" year="1999">
       <label auto.number="no" denominator="yes">5</label>
       <heading xml:lang="en-NZ">Meaning of terms and expressions in legislation</heading>
       <prov id="DLM31803" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -773,12 +753,12 @@
               </def-para>
               <def-para id="DLM31806" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31807" xml:lang="en-NZ">Commencement</def-term>, in relation to an enactment, means the time when the enactment comes into force</text>
+                  <text><def-term id="DLM31807" xml:lang="en-NZ">commencement</def-term>, in relation to an enactment, means the time when the enactment comes into force</text>
                 </para>
               </def-para>
               <def-para id="DLM31808" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31809" xml:lang="en-NZ">Committed for trial</def-term> means committed to the High Court or a District Court under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13373" atidlm:branchLabel="_NOVERSION_" atidlm:name="Summary Proceedings Act 1957" atidlm:xmlId="DLM460255" atidlm:state="UNCHANGED"><atidlm:linkcontent>Summary Proceedings Act 1957</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13171" atidlm:sourceXmlId="DLM460255" atidlm:targetKey="2034230" atidlm:targetXmlId="DLM310742" atidlm:targetName="Summary Proceedings Act 1957" atidlm:sourceName="DLM460255" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM310742.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]/prov.body[1]/subprov[1]/para[1]/def-para[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para Committed for trial" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
+                  <text><def-term id="DLM31809" xml:lang="en-NZ">committed for trial</def-term> means committed to the High Court or a District Court under the <citation jurisdiction="nz"><leg-title href="DLM310742">Summary Proceedings Act 1957</leg-title></citation></text>
                 </para>
               </def-para>
               <def-para id="DLM31810" xml:lang="en-NZ">
@@ -788,27 +768,22 @@
               </def-para>
               <def-para id="DLM31813" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31814" xml:lang="en-NZ">Consular officer</def-term> means a person who has authority to exercise consular functions</text>
+                  <text><def-term id="DLM31814" xml:lang="en-NZ">consular officer</def-term> means a person who has authority to exercise consular functions</text>
                 </para>
               </def-para>
               <def-para id="DLM31815" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31816" xml:lang="en-NZ">de facto partner</def-term> means a person who is a party to a de facto relationship (as defined in <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13374" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 29A" atidlm:xmlId="DLM460256" atidlm:state="UNCHANGED"><atidlm:linkcontent>29A</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13172" atidlm:sourceXmlId="DLM460256" atidlm:targetKey="130659" atidlm:targetXmlId="DLM31861" atidlm:targetName="prov 29A" atidlm:sourceName="DLM460256" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]/prov.body[1]/subprov[1]/para[1]/def-para[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para de facto partner" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>)</text>
-                  <notes>
-                    <history>
-                      <history-note id="DLM31817">de facto partner: this definition was <amending-operation>inserted</amending-operation>, as from <amendment-date>26 April 2005</amendment-date>, by section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13375" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 3" atidlm:xmlId="DLM460257" atidlm:state="UNCHANGED"><atidlm:linkcontent>3</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="13173" atidlm:sourceXmlId="DLM460257" atidlm:targetKey="1996406" atidlm:targetXmlId="DLM335987" atidlm:targetName="prov 3" atidlm:sourceName="DLM460257" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM335981.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]/prov.body[1]/subprov[1]/para[1]/def-para[6]/para[1]/notes[1]/history[1]/history-note[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> <amending-leg>Interpretation Amendment Act 2005</amending-leg> (2005 No 13).</history-note>
-                    </history>
-                  </notes>
+                  <text><def-term id="DLM31816" xml:lang="en-NZ">de facto partner</def-term> means a person who is a party to a de facto relationship (as defined in <citation jurisdiction="nz"><intref href="DLM31861">section 29A</intref></citation>)</text>
                 </para>
               </def-para>
               <def-para id="DLM31818" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31819" xml:lang="en-NZ">Enactment</def-term> means the whole or a portion of an Act or regulations</text>
+                  <text><def-term id="DLM31819" xml:lang="en-NZ">enactment</def-term> means the whole or a portion of an Act or regulations</text>
                 </para>
               </def-para>
               <def-para id="DLM31820" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31821" xml:lang="en-NZ">Gazette</def-term> means the New Zealand Gazette published or purporting to be published under the authority of the New Zealand Government; and includes a supplement</text>
+                  <text><emphasis style="italic"><def-term id="DLM31821" xml:lang="en-NZ">Gazette</def-term></emphasis> means the <emphasis style="italic">New Zealand Gazette</emphasis> published or purporting to be published under the authority of the New Zealand Government; and includes a supplement</text>
                 </para>
               </def-para>
               <def-para id="DLM31822" xml:lang="en-NZ">
@@ -823,17 +798,17 @@
               </def-para>
               <def-para id="DLM31826" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31827" xml:lang="en-NZ">Month</def-term> means a calendar month</text>
+                  <text><def-term id="DLM31827" xml:lang="en-NZ">month</def-term> means a calendar month</text>
                 </para>
               </def-para>
               <def-para id="DLM31828" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31829" xml:lang="en-NZ">New Zealand</def-term> or similar words referring to New Zealand, when used as a territorial description, mean the islands and territories within the Realm of New Zealand; but do not include the self-governing state of the Cook Islands, the self-governing State of Niue, Tokelau, or the Ross Dependency</text>
+                  <text><def-term id="DLM31829" xml:lang="en-NZ">New Zealand</def-term> or similar words referring to New Zealand, when used as a territorial description, mean the islands and territories within the Realm of New Zealand; but do not include the self-governing State of the Cook Islands, the self-governing State of Niue, Tokelau, or the Ross Dependency</text>
                 </para>
               </def-para>
               <def-para id="DLM31830" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31831" xml:lang="en-NZ">North Island</def-term> means the island commonly known as the <amend.in>North Island</amend.in>; and includes the islands adjacent to it north of Cook Strait</text>
+                  <text><def-term id="DLM31831" xml:lang="en-NZ">North Island</def-term> means the island commonly known as the <amend.in quote="1">North Island</amend.in>; and includes the islands adjacent to it north of Cook Strait</text>
                 </para>
               </def-para>
               <def-para id="DLM31832" xml:lang="en-NZ">
@@ -843,12 +818,12 @@
               </def-para>
               <def-para id="DLM31834" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31835" xml:lang="en-NZ">Person</def-term> includes a corporation sole, a body corporate, and an unincorporated body</text>
+                  <text><def-term id="DLM31835" xml:lang="en-NZ">person</def-term> includes a corporation sole, a body corporate, and an unincorporated body</text>
                 </para>
               </def-para>
               <def-para id="DLM31836" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31837" xml:lang="en-NZ">Prescribed</def-term> means prescribed by or under an enactment</text>
+                  <text><def-term id="DLM31837" xml:lang="en-NZ">prescribed</def-term> means prescribed by or under an enactment</text>
                 </para>
               </def-para>
               <def-para id="DLM31838" xml:lang="en-NZ">
@@ -858,132 +833,131 @@
               </def-para>
               <def-para id="DLM31840" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31841" xml:lang="en-NZ">Public notification</def-term>, <amend.in>public notice</amend.in>, or a similar expression in relation to an act, matter, or thing, means a notice published in—</text>
+                  <text><def-term id="DLM31841" xml:lang="en-NZ">public notification</def-term>, <def-term id="DLM2786100">public notice</def-term>, or a similar expression in relation to an act, matter, or thing, means a notice published in—</text>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">a</label>
                     <para xml:lang="en-NZ">
-                      <text>The <emphasis style="italic">Gazette</emphasis>; or</text>
+                      <text>the <emphasis style="italic">Gazette</emphasis>; or</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">b</label>
                     <para xml:lang="en-NZ">
-                      <text>One or more newspapers circulating in the place or district to which the act, matter, or thing relates or in which it arises:</text>
+                      <text>1 or more newspapers circulating in the place or district to which the act, matter, or thing relates or in which it arises</text>
                     </para>
                   </label-para>
                 </para>
               </def-para>
               <def-para id="DLM31842" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31843" xml:lang="en-NZ">Regulations</def-term> means—</text>
+                  <text><def-term id="DLM31843" xml:lang="en-NZ">regulations</def-term> means—</text>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">a</label>
                     <para xml:lang="en-NZ">
-                      <text>Regulations, rules, or bylaws made under an Act by the Governor-General in Council or by a Minister of the Crown:</text>
+                      <text>regulations, rules, or bylaws made under an Act by the Governor-General in Council or by a Minister of the Crown:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">b</label>
                     <para xml:lang="en-NZ">
-                      <text>An Order in Council, Proclamation, notice, Warrant, or instrument, made under an enactment that varies or extends the scope or provisions of an enactment:</text>
+                      <text>an Order in Council, Proclamation, notice, Warrant, or instrument, made under an enactment that varies or extends the scope or provisions of an enactment:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">c</label>
                     <para xml:lang="en-NZ">
-                      <text>An Order in Council that brings into force, repeals, or suspends an enactment:</text>
+                      <text>an Order in Council that brings into force, repeals, or suspends an enactment:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">d</label>
                     <para xml:lang="en-NZ">
-                      <text>Regulations, rules, or an instrument made under an Imperial Act or the Royal prerogative and having the force of law in New Zealand:</text>
+                      <text>regulations, rules, or an instrument made under an Imperial Act or the Royal prerogative and having the force of law in New Zealand:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">e</label>
                     <para xml:lang="en-NZ">
-                      <text>An instrument that is a regulation or that is required to be treated as a regulation for the purposes of the <citation jurisdiction="nz">Regulations Act 1936</citation> or the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13376" atidlm:branchLabel="_NOVERSION_" atidlm:name="Acts and Regulations Publication Act 1989" atidlm:xmlId="DLM460258" atidlm:state="UNCHANGED"><atidlm:linkcontent>Acts and Regulations Publication Act 1989</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13174" atidlm:sourceXmlId="DLM460258" atidlm:targetKey="1045212" atidlm:targetXmlId="DLM195097" atidlm:targetName="Acts and Regulations Publication Act 1989" atidlm:sourceName="DLM460258" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195097.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]/prov.body[1]/subprov[1]/para[1]/def-para[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para Regulations" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> or the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13377" atidlm:branchLabel="_NOVERSION_" atidlm:name="Regulations (Disallowance) Act 1989" atidlm:xmlId="DLM460259" atidlm:state="UNCHANGED"><atidlm:linkcontent>Regulations (Disallowance) Act 1989</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13175" atidlm:sourceXmlId="DLM460259" atidlm:targetKey="1055024" atidlm:targetXmlId="DLM195534" atidlm:targetName="Regulations (Disallowance) Act 1989" atidlm:sourceName="DLM460259" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195534.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]/prov.body[1]/subprov[1]/para[1]/def-para[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para Regulations" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>:</text>
+                      <text>an instrument that is a regulation or that is required to be treated as a regulation for the purposes of the Regulations Act 1936 or the <citation jurisdiction="nz"><leg-title href="DLM195097">Acts and Regulations Publication Act 1989</leg-title></citation> or the <citation jurisdiction="nz"><leg-title href="DLM195534">Regulations (Disallowance) Act 1989</leg-title></citation>:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">f</label>
                     <para xml:lang="en-NZ">
-                      <text>An instrument that revokes regulations, rules, bylaws, an Order in Council, a Proclamation, a notice, a Warrant, or an instrument, referred to in <citation jurisdiction="nz">paragraphs <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13378" atidlm:branchLabel="_NOVERSION_" atidlm:name="def-para Regulations" atidlm:xmlId="DLM460260" atidlm:state="UNCHANGED"><atidlm:linkcontent>(a) to (e)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13176" atidlm:sourceXmlId="DLM460260" atidlm:targetKey="130640" atidlm:targetXmlId="DLM31842" atidlm:targetName="def-para Regulations" atidlm:sourceName="DLM460260" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]/prov.body[1]/subprov[1]/para[1]/def-para[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para Regulations" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>:</text>
+                      <text>an instrument that revokes regulations, rules, bylaws, an Order in Council, a Proclamation, a notice, a Warrant, or an instrument, referred to in paragraphs (a) to (e)</text>
                     </para>
                   </label-para>
                 </para>
               </def-para>
               <def-para id="DLM31844" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31845" xml:lang="en-NZ">Repeal</def-term>, in relation to an enactment, includes expiry, revocation, and replacement</text>
+                  <text><def-term id="DLM31845" xml:lang="en-NZ">repeal</def-term>, in relation to an enactment, includes expiry, revocation, and replacement</text>
                 </para>
               </def-para>
               <def-para id="DLM31846" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31847" xml:lang="en-NZ">Rules of Court</def-term>, in relation to a court, means rules regulating the practice and procedure of the court</text>
+                  <text><def-term id="DLM31847" xml:lang="en-NZ">rules of court</def-term>, in relation to a court, means rules regulating the practice and procedure of the court</text>
                 </para>
               </def-para>
               <def-para id="DLM31848" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31849" xml:lang="en-NZ">South Island</def-term> means the island commonly known as the <def-term id="DLM31850" xml:lang="en-NZ">South Island</def-term>; and includes the islands adjacent to it south of Cook Strait</text>
+                  <text><def-term id="DLM31849" xml:lang="en-NZ">South Island</def-term> means the island commonly known as the <amend.in quote="1">South Island</amend.in>; and includes the islands adjacent to it south of Cook Strait</text>
                 </para>
               </def-para>
               <def-para id="DLM31851" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31852" xml:lang="en-NZ">Summary conviction</def-term> means a conviction by a District Court Judge or by 1 or more Justices of the Peace in accordance with the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13379" atidlm:branchLabel="_NOVERSION_" atidlm:name="Summary Proceedings Act 1957" atidlm:xmlId="DLM460261" atidlm:state="UNCHANGED"><atidlm:linkcontent>Summary Proceedings Act 1957</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13177" atidlm:sourceXmlId="DLM460261" atidlm:targetKey="2034230" atidlm:targetXmlId="DLM310742" atidlm:targetName="Summary Proceedings Act 1957" atidlm:sourceName="DLM460261" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM310742.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]/prov.body[1]/subprov[1]/para[1]/def-para[23]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para Summary conviction" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
+                  <text><def-term id="DLM31852" xml:lang="en-NZ">summary conviction</def-term> means a conviction by a District Court Judge or by 1 or more Justices of the Peace in accordance with the <citation jurisdiction="nz"><leg-title href="DLM310742">Summary Proceedings Act 1957</leg-title></citation></text>
                 </para>
               </def-para>
               <def-para id="DLM31853" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31854" xml:lang="en-NZ">Territorial limits of New Zealand</def-term>, <def-term id="DLM31855" xml:lang="en-NZ">limits of New Zealand</def-term>, or a similar expression, when used as a territorial description, means the outer limits of the territorial sea of New Zealand</text>
+                  <text><def-term id="DLM31854" xml:lang="en-NZ">territorial limits of New Zealand</def-term>, <def-term id="DLM31855" xml:lang="en-NZ">limits of New Zealand</def-term>, or a similar expression, when used as a territorial description, means the outer limits of the territorial sea of New Zealand</text>
                 </para>
               </def-para>
               <def-para id="DLM31856" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31857" xml:lang="en-NZ">Working day</def-term> means a day of the week other than—</text>
+                  <text><def-term id="DLM31857" xml:lang="en-NZ">working day</def-term> means a day of the week other than—</text>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">a</label>
                     <para xml:lang="en-NZ">
-                      <text>A Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and</text>
+                      <text>a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">b</label>
                     <para xml:lang="en-NZ">
-                      <text>A day in the period commencing with 25 December in a year and ending with 2 January in the following year; and</text>
+                      <text>a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">c</label>
                     <para xml:lang="en-NZ">
-                      <text>If 1 January falls on a Friday, the following Monday; and</text>
+                      <text>if 1 January falls on a Friday, the following Monday; and</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">d</label>
                     <para xml:lang="en-NZ">
-                      <text>If 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday:</text>
+                      <text>if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday</text>
                     </para>
                   </label-para>
                 </para>
               </def-para>
               <def-para id="DLM31858" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31859" xml:lang="en-NZ">writing</def-term> means representing or reproducing words, figures, or symbols in a visible and tangible form and medium (for example, in print)</text>
-                  <notes>
-                    <history>
-                      <history-note id="DLM31860">Writing: this definition was <amending-operation>substituted</amending-operation>, as from <amendment-date>21 November 2003</amendment-date>, by section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13380" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 38" atidlm:xmlId="DLM460262" atidlm:state="UNCHANGED"><atidlm:linkcontent>38</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="13178" atidlm:sourceXmlId="DLM460262" atidlm:targetKey="860406" atidlm:targetXmlId="DLM154858" atidlm:targetName="prov 38" atidlm:sourceName="DLM460262" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM154852.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]/prov.body[1]/subprov[1]/para[1]/def-para[26]/para[1]/notes[1]/history[1]/history-note[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> <amending-leg>Electronic Transactions Act 2002</amending-leg> (2002 No 35). <emphasis style="italic">See</emphasis> <citation jurisdiction="nz">clause <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13381" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 2" atidlm:xmlId="DLM460263" atidlm:state="UNCHANGED"><atidlm:linkcontent>2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13179" atidlm:sourceXmlId="DLM460263" atidlm:targetKey="3802203" atidlm:targetXmlId="DLM220616" atidlm:targetName="prov 2" atidlm:sourceName="DLM460263" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZReg/fragxyxz_DLM220611.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]/prov.body[1]/subprov[1]/para[1]/def-para[26]/para[1]/notes[1]/history[1]/history-note[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13382" atidlm:branchLabel="_NOVERSION_" atidlm:name="Electronic Transactions Act Commencement Order 2003" atidlm:xmlId="DLM460264" atidlm:state="UNCHANGED"><atidlm:linkcontent>Electronic Transactions Act Commencement Order 2003</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13180" atidlm:sourceXmlId="DLM460264" atidlm:targetKey="3802206" atidlm:targetXmlId="DLM220611" atidlm:targetName="Electronic Transactions Act Commencement Order 2003" atidlm:sourceName="DLM460264" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZReg/fragxyxz_DLM220611.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]/prov.body[1]/subprov[1]/para[1]/def-para[26]/para[1]/notes[1]/history[1]/history-note[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> (SR 2003/289)</citation>.</history-note>
-                    </history>
-                  </notes>
+                  <text><def-term id="DLM31859" xml:lang="en-NZ">writing</def-term> means representing or reproducing words, figures, or symbols in a visible and tangible form and medium (for example, in print).</text>
                 </para>
               </def-para>
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 4</citation>
-        </cf>
+        <cf>1924 No 11 s 4</cf>
+        <notes>
+          <history>
+            <history-note id="DLM31817"><amended-provision>Section 29</amended-provision><emphasis style="bold">de facto partner</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM335987">section 3</amending-provision> of the <amending-leg>Interpretation Amendment Act 2005</amending-leg> (2005 No 13).</history-note>
+            <history-note id="DLM31860"><amended-provision>Section 29</amended-provision><emphasis style="bold">writing</emphasis>: <amending-operation>substituted</amending-operation>, on <amendment-date>21 November 2003</amendment-date>, by <amending-provision href="DLM154858">section 38</amending-provision> of the <amending-leg>Electronic Transactions Act 2002</amending-leg> (2002 No 35).</history-note>
+          </history>
+        </notes>
       </prov>
       <prov id="DLM31861" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">29A</label>
@@ -1016,7 +990,7 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">2</label>
             <para xml:lang="en-NZ">
-              <text>Despite <citation jurisdiction="nz">subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13383" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 29A" atidlm:xmlId="DLM460265" atidlm:state="UNCHANGED"><atidlm:linkcontent>(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13181" atidlm:sourceXmlId="DLM460265" atidlm:targetKey="130659" atidlm:targetXmlId="DLM31861" atidlm:targetName="prov 29A" atidlm:sourceName="DLM460265" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Meaning of de facto relationship" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="29A" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, a relationship involving a person aged 16 or 17 years is not a de facto relationship unless that person has obtained consent for the relationship in accordance with <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13384" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 46A" atidlm:xmlId="DLM460266" atidlm:state="UNCHANGED"><atidlm:linkcontent>46A</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13182" atidlm:sourceXmlId="DLM460266" atidlm:targetKey="1857230" atidlm:targetXmlId="DLM317601" atidlm:targetName="prov 46A" atidlm:sourceName="DLM460266" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM317473.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Meaning of de facto relationship" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="29A" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13385" atidlm:branchLabel="_NOVERSION_" atidlm:name="Care of Children Act 2004" atidlm:xmlId="DLM460267" atidlm:state="UNCHANGED"><atidlm:linkcontent>Care of Children Act 2004</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13183" atidlm:sourceXmlId="DLM460267" atidlm:targetKey="1855007" atidlm:targetXmlId="DLM317232" atidlm:targetName="Care of Children Act 2004" atidlm:sourceName="DLM460267" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM317232.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Meaning of de facto relationship" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="29A" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+              <text>Despite subsection (1), a relationship involving a person aged 16 or 17 years is not a de facto relationship unless that person has obtained consent for the relationship in accordance with <citation jurisdiction="nz"><extref href="DLM317601">section 46A</extref> of the Care of Children Act 2004</citation>.</text>
             </para>
           </subprov>
           <subprov skeleton="no" xml:lang="en-NZ">
@@ -1058,7 +1032,7 @@
         </prov.body>
         <notes>
           <history>
-            <history-note id="DLM31863">Section <amended-provision>29A</amended-provision> was <amending-operation>inserted</amending-operation>, as from <amendment-date>26 April 2005</amendment-date>, by section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13386" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 4" atidlm:xmlId="DLM460268" atidlm:state="UNCHANGED"><atidlm:linkcontent>4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="13184" atidlm:sourceXmlId="DLM460268" atidlm:targetKey="1996410" atidlm:targetXmlId="DLM335990" atidlm:targetName="prov 4" atidlm:sourceName="DLM460268" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM335981.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[2]/notes[1]/history[1]/history-note[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> <amending-leg>Interpretation Amendment Act 2005</amending-leg> (2005 No 13).</history-note>
+            <history-note id="DLM31863"><amended-provision>Section 29A</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM335990">section 4</amending-provision> of the <amending-leg>Interpretation Amendment Act 2005</amending-leg> (2005 No 13).</history-note>
           </history>
         </notes>
       </prov>
@@ -1069,13 +1043,13 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="no"/>
             <para xml:lang="en-NZ">
-              <text>For the purposes of an enactment, the relationship of step-parent, stepson, stepdaughter, or any other relationship described by a word containing the prefix <quote.in>step</quote.in>, may be established by civil union or by de facto relationship as well as by marriage.</text>
+              <text>For the purposes of an enactment, the relationship of step-parent, stepson, stepdaughter, or any other relationship described by a word containing the prefix <quote.in quote="1">step</quote.in>, may be established by civil union or by de facto relationship as well as by marriage.</text>
             </para>
           </subprov>
         </prov.body>
         <notes>
           <history>
-            <history-note id="DLM31865">Section <amended-provision>29B</amended-provision> was <amending-operation>inserted</amending-operation>, as from <amendment-date>26 April 2005</amendment-date>, by section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13387" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 4" atidlm:xmlId="DLM460269" atidlm:state="UNCHANGED"><atidlm:linkcontent>4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="13185" atidlm:sourceXmlId="DLM460269" atidlm:targetKey="1996410" atidlm:targetXmlId="DLM335990" atidlm:targetName="prov 4" atidlm:sourceName="DLM460269" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM335981.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31802.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[3]/notes[1]/history[1]/history-note[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> <amending-leg>Interpretation Amendment Act 2005</amending-leg> (2005 No 13).</history-note>
+            <history-note id="DLM31865"><amended-provision>Section 29B</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM335990">section 4</amending-provision> of the <amending-leg>Interpretation Amendment Act 2005</amending-leg> (2005 No 13).</history-note>
           </history>
         </notes>
       </prov>
@@ -1092,11 +1066,6 @@
                   <text><def-term id="DLM31868" xml:lang="en-NZ">Act</def-term> includes rules and regulations made under the Act</text>
                 </para>
               </def-para>
-              <def-para id="DLM31869" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31870" xml:lang="en-NZ">Constable</def-term> includes a police officer of any rank</text>
-                </para>
-              </def-para>
               <def-para id="DLM31871" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
                   <text><def-term id="DLM31872" xml:lang="en-NZ">Governor</def-term> means the Governor-General</text>
@@ -1104,20 +1073,23 @@
               </def-para>
               <def-para id="DLM31873" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31874" xml:lang="en-NZ">Land</def-term> includes messuages, tenements, hereditaments, houses, and buildings, unless there are words to exclude houses and buildings, or to restrict the meaning to tenements of some particular tenure</text>
+                  <text><def-term id="DLM31874" xml:lang="en-NZ">land</def-term> includes messuages, tenements, hereditaments, houses, and buildings, unless there are words to exclude houses and buildings, or to restrict the meaning to tenements of some particular tenure</text>
                 </para>
               </def-para>
               <def-para id="DLM31875" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM31876" xml:lang="en-NZ">Person</def-term> includes a corporation sole, and also a body of persons, whether corporate or unincorporate.</text>
+                  <text><def-term id="DLM31876" xml:lang="en-NZ">person</def-term> includes a corporation sole, and also a body of persons, whether corporate or unincorporate.</text>
                 </para>
               </def-para>
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 4</citation>
-        </cf>
+        <cf>1924 No 11 s 4</cf>
+        <notes>
+          <history>
+            <history-note id="DLM1677900"><amended-provision>Section 30</amended-provision><emphasis style="bold">constable</emphasis>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 October 2008</amendment-date>, by <amending-provision href="DLM1102383">section 130(1)</amending-provision> of the <amending-leg>Policing Act 2008</amending-leg> (2008 No 72).</history-note>
+          </history>
+        </notes>
       </prov>
       <prov id="DLM31877" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">31</label>
@@ -1154,9 +1126,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 4</citation>
-        </cf>
+        <cf>1924 No 11 s 4</cf>
       </prov>
       <prov id="DLM31880" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">34</label>
@@ -1169,9 +1139,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 7</citation>
-        </cf>
+        <cf>1924 No 11 s 7</cf>
       </prov>
       <prov id="DLM31881" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">35</label>
@@ -1214,9 +1182,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 25(a), (b)</citation>
-        </cf>
+        <cf>1924 No 11 s 25(a), (b)</cf>
       </prov>
       <prov id="DLM31882" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">36</label>
@@ -1229,22 +1195,20 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>
-          <citation jurisdiction="nz">1924 No 11 s 25(c)</citation>
-        </cf>
+        <cf>1924 No 11 s 25(c)</cf>
       </prov>
     </part>
-    <part id="DLM31883" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2007-09-03" date.assent="1999-08-03" stage="reprint" year="1999">
+    <part id="DLM31883" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="85" act.type="public" date.as.at="2008-10-01" date.assent="1999-08-03" stage="reprint" year="1999">
       <label auto.number="no" denominator="yes">6</label>
       <heading xml:lang="en-NZ">Amendments and repeals</heading>
       <prov id="DLM31884" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">37</label>
-        <heading xml:lang="en-NZ">Amendments to other acts</heading>
+        <heading xml:lang="en-NZ">Amendments to other Acts</heading>
         <prov.body>
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="no"/>
             <para xml:lang="en-NZ">
-              <text>The enactments specified in <citation jurisdiction="nz">Schedule <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13388" atidlm:branchLabel="_NOVERSION_" atidlm:name="schedule 1 Amendments to other Acts" atidlm:xmlId="DLM460270" atidlm:state="UNCHANGED"><atidlm:linkcontent>1</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13186" atidlm:sourceXmlId="DLM460270" atidlm:targetKey="131800" atidlm:targetXmlId="DLM31886" atidlm:targetName="schedule 1 Amendments to other Acts" atidlm:sourceName="DLM460270" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31886.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31883.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[6]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Amendments to other acts" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="37" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> are amended in the manner indicated in that schedule.</text>
+              <text>The enactments specified in <citation jurisdiction="nz"><intref href="DLM31886">Schedule 1</intref></citation> are amended in the manner indicated in that schedule.</text>
             </para>
           </subprov>
         </prov.body>
@@ -1256,13 +1220,13 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">1</label>
             <para xml:lang="en-NZ">
-              <text>The enactments specified in <citation jurisdiction="nz">Schedule <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13389" atidlm:branchLabel="_NOVERSION_" atidlm:name="schedule 2 Enactments repealed" atidlm:xmlId="DLM460271" atidlm:state="UNCHANGED"><atidlm:linkcontent>2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13187" atidlm:sourceXmlId="DLM460271" atidlm:targetKey="132000" atidlm:targetXmlId="DLM31890" atidlm:targetName="schedule 2 Enactments repealed" atidlm:sourceName="DLM460271" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31883.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[6]/prov[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Repeals and saving" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="38" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> are repealed.</text>
+              <text>The enactments specified in <citation jurisdiction="nz"><intref href="DLM31890">Schedule 2</intref></citation> are repealed.</text>
             </para>
           </subprov>
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">2</label>
             <para xml:lang="en-NZ">
-              <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="979601" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1342600 - prov 26" atidlm:xmlId="DLM1342601" atidlm:state="UNCHANGED"><atidlm:linkcontent>Section 26</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672361" atidlm:sourceXmlId="DLM1342601" atidlm:targetKey="12194205" atidlm:targetXmlId="DLM1325506" atidlm:targetName="prov 26" atidlm:sourceName="DLM1342601" atidlm:targetLocator="file:///H:/pal/checkout/096be8ed801e5189/Acts%20Interpretation%20Act%201924.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31883.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[6]/prov[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Repeals and saving" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="38" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Acts Interpretation Act 1908</citation> as set out in <citation jurisdiction="nz">Schedule 2 of the Acts Interpretation Act 1924</citation> continues in force despite the repeal of both of those Acts.</text>
+              <text><citation jurisdiction="nz"><extref href="DLM1325506">Section 26</extref> of the Acts Interpretation Act 1908</citation> as set out in Schedule 2 of the Acts Interpretation Act 1924 continues in force despite the repeal of both of those Acts.</text>
             </para>
           </subprov>
         </prov.body>
@@ -1270,194 +1234,315 @@
     </part>
   </body>
   <schedule.group xml:lang="en-NZ">
-    <schedule id="DLM31886" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="85" act.type="public" date.as.at="2007-09-03" date.assent="1999-08-03" date.first.valid="2007-09-18" stage="reprint" year="1999">
+    <schedule id="DLM31886" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="85" act.type="public" date.as.at="2008-10-01" date.assent="1999-08-03" date.first.valid="2007-09-18" stage="reprint" year="1999">
       <label auto.number="no" denominator="yes">1</label>
       <empowering-prov>
-        <citation jurisdiction="nz">Section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13392" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 37" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460274" atidlm:state="UNCHANGED"><atidlm:linkcontent>37</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13190" atidlm:sourceXmlId="DLM460274" atidlm:targetKey="131401" atidlm:targetXmlId="DLM31884" atidlm:targetName="prov 37" atidlm:sourceName="DLM460274" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31883.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31886.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Amendments to other Acts" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="1" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>
+        <citation jurisdiction="nz">
+          <intref href="DLM31884">s 37</intref>
+        </citation>
       </empowering-prov>
       <heading xml:lang="en-NZ">Amendments to other Acts</heading>
-      <schedule.misc>
-        <para xml:lang="en-NZ">
-          <table align="center" fontsize="11.5" frame="topbot" id="DLM31887" leading="13.5" xml:lang="en-NZ">
-            <tgroup cols="2" colsep="0" rowsep="0">
-              <colspec colname="col1" colnum="1" colwidth="2.75*"/>
-              <colspec colname="col2" colnum="2" colwidth="2.75*"/>
-              <thead>
-                <row rowsep="1">
-                  <entry align="center" colsep="1">Enactment</entry>
-                  <entry align="center">Amendment</entry>
-                </row>
-              </thead>
-              <tbody>
-                <row>
-                  <entry colsep="1">1988, No 112—The <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13393" atidlm:branchLabel="_NOVERSION_" atidlm:name="Imperial Laws Application Act 1988" atidlm:xmlId="DLM460275" atidlm:state="UNCHANGED"><atidlm:linkcontent>Imperial Laws Application Act 1988</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13191" atidlm:sourceXmlId="DLM460275" atidlm:targetKey="758800" atidlm:targetXmlId="DLM135073" atidlm:targetName="Imperial Laws Application Act 1988" atidlm:sourceName="DLM460275" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM135073.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31886.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="table" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]/schedule.misc[1]/para[1]/table[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="table" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> (RS Vol 30, p 1)</citation></entry>
-                  <entry>By repealing <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13394" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 3" atidlm:xmlId="DLM460276" atidlm:state="UNCHANGED"><atidlm:linkcontent>3(4)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13192" atidlm:sourceXmlId="DLM460276" atidlm:targetKey="758811" atidlm:targetXmlId="DLM135084" atidlm:targetName="prov 3" atidlm:sourceName="DLM460276" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM135073.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31886.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="table" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]/schedule.misc[1]/para[1]/table[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="table" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</entry>
-                </row>
-                <row>
-                  <entry colsep="1">1989, No 143—The <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13395" atidlm:branchLabel="_NOVERSION_" atidlm:name="Regulations (Disallowance) Act 1989" atidlm:xmlId="DLM460277" atidlm:state="UNCHANGED"><atidlm:linkcontent>Regulations (Disallowance) Act 1989</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13193" atidlm:sourceXmlId="DLM460277" atidlm:targetKey="1055024" atidlm:targetXmlId="DLM195534" atidlm:targetName="Regulations (Disallowance) Act 1989" atidlm:sourceName="DLM460277" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195534.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31886.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="table" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]/schedule.misc[1]/para[1]/table[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="table" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></entry>
-                  <entry>
-                    <para xml:lang="en-NZ">
-                      <text>By repealing the definition of the term <emphasis style="bold">regulations</emphasis> in <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13396" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 2" atidlm:xmlId="DLM460278" atidlm:state="UNCHANGED"><atidlm:linkcontent>2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13194" atidlm:sourceXmlId="DLM460278" atidlm:targetKey="1055011" atidlm:targetXmlId="DLM195540" atidlm:targetName="prov 2" atidlm:sourceName="DLM460278" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195534.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31886.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="table" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]/schedule.misc[1]/para[1]/table[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="table" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, and substituting the following definition:</text>
-                      <amend>
-                        <def-para id="DLM31888" xml:lang="en-NZ">
-                          <para xml:lang="en-NZ">
-                            <text><def-term id="DLM31889" xml:lang="en-NZ">Regulations</def-term> means—</text>
-                            <label-para skeleton="no" xml:lang="en-NZ">
-                              <label auto.number="no" denominator="yes">a</label>
-                              <para xml:lang="en-NZ">
-                                <text>Regulations, rules, or bylaws made under an Act by the Governor-General in Council or by a Minister of the Crown:</text>
-                              </para>
-                            </label-para>
-                            <label-para skeleton="no" xml:lang="en-NZ">
-                              <label auto.number="no" denominator="yes">b</label>
-                              <para xml:lang="en-NZ">
-                                <text>An Order in Council, Proclamation, notice, Warrant, or instrument, made under an enactment that varies or extends the scope or provisions of an enactment:</text>
-                              </para>
-                            </label-para>
-                            <label-para skeleton="no" xml:lang="en-NZ">
-                              <label auto.number="no" denominator="yes">c</label>
-                              <para xml:lang="en-NZ">
-                                <text>An Order in Council that brings into force, repeals, or suspends an enactment:</text>
-                              </para>
-                            </label-para>
-                            <label-para skeleton="no" xml:lang="en-NZ">
-                              <label auto.number="no" denominator="yes">d</label>
-                              <para xml:lang="en-NZ">
-                                <text>Regulations, rules, or an instrument made under an Imperial Act or the Royal prerogative and having the force of law in New Zealand:</text>
-                              </para>
-                            </label-para>
-                            <label-para skeleton="no" xml:lang="en-NZ">
-                              <label auto.number="no" denominator="yes">e</label>
-                              <para xml:lang="en-NZ">
-                                <text>An instrument that is a regulation or that is required to be treated as a regulation for the purposes of the <citation jurisdiction="nz">Regulations Act 1936</citation> or <citation jurisdiction="nz">Acts and Regulations Publication Act 1989</citation> or this Act:</text>
-                              </para>
-                            </label-para>
-                            <label-para skeleton="no" xml:lang="en-NZ">
-                              <label auto.number="no" denominator="yes">f</label>
-                              <para xml:lang="en-NZ">
-                                <text>An instrument that revokes regulations, rules, bylaws, an Order in Council, a Proclamation, a notice, a Warrant, or an instrument, referred to in <citation jurisdiction="nz">paragraphs (a) to (e)</citation>.</text>
-                              </para>
-                            </label-para>
-                          </para>
-                        </def-para>
-                      </amend>
-                    </para>
-                  </entry>
-                </row>
-              </tbody>
-            </tgroup>
-          </table>
-        </para>
-      </schedule.misc>
+      <schedule.amendments>
+        <schedule.amendments.group2 id="DLM2096522" toc="yes">
+          <heading>Imperial Laws Application Act 1988 (1988 No 112) (RS Vol 30, p 1)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM135073">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096523" toc="yes">
+          <heading>Regulations (Disallowance) Act 1989 (1989 No 143)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM195534">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+      </schedule.amendments>
     </schedule>
-    <schedule id="DLM31890" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="85" act.type="public" date.as.at="2007-09-03" date.assent="1999-08-03" date.first.valid="2007-09-18" stage="reprint" year="1999">
+    <schedule id="DLM31890" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="85" act.type="public" date.as.at="2008-10-01" date.assent="1999-08-03" date.first.valid="2007-09-18" stage="reprint" year="1999">
       <label auto.number="no" denominator="yes">2</label>
       <empowering-prov>
-        <citation jurisdiction="nz">Section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13397" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 38" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460279" atidlm:state="UNCHANGED"><atidlm:linkcontent>38</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13195" atidlm:sourceXmlId="DLM460279" atidlm:targetKey="131402" atidlm:targetXmlId="DLM31885" atidlm:targetName="prov 38" atidlm:sourceName="DLM460279" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM31883.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>
+        <citation jurisdiction="nz">
+          <intref href="DLM31885">s 38</intref>
+        </citation>
       </empowering-prov>
       <heading xml:lang="en-NZ">Enactments repealed</heading>
-      <schedule.misc>
-        <para xml:lang="en-NZ">
-          <list xml:lang="en-NZ">
+      <schedule.amendments>
+        <schedule.amendments.group2 id="DLM2096524" toc="yes">
+          <heading>Acts and Regulations Publication Act 1989 (1989 No 142) (RS Vol 31, p 36)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM195097">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096525" toc="yes">
+          <heading>Acts Interpretation Act 1924 (1924 No 11) (RS Vol 31, p 1)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096526" toc="yes">
+          <heading>Acts Interpretation Amendment Act 1960 (1960 No 50) (RS Vol 31, p 32)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096527" toc="yes">
+          <heading>Acts Interpretation Amendment Act 1962 (1962 No 9) (RS Vol 31, p 32)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096528" toc="yes">
+          <heading>Acts Interpretation Amendment Act 1973 (1973 No 46) (RS Vol 31, p 32)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096529" toc="yes">
+          <heading>Acts Interpretation Amendment Act 1979 (1979 No 71) (RS Vol 31, p 33)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096530" toc="yes">
+          <heading>Acts Interpretation Amendment Act (No 2) 1979 (1979 No 128) (RS Vol 31, p 33)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096531" toc="yes">
+          <heading>Acts Interpretation Amendment Act 1983 (1983 No 22) (RS Vol 31, p 34)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096532" toc="yes">
+          <heading>Acts Interpretation Amendment Act 1986 (1986 No 115) (RS Vol 31, p 35)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096533" toc="yes">
+          <heading>Acts Interpretation Amendment Act 1988 (1988 No 113) (RS Vol 31, p 36)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096534" toc="yes">
+          <heading>Acts Interpretation Amendment Act 1994 (1994 No 22)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096535" toc="yes">
+          <heading>Acts Interpretation Amendment Act 1996 (1996 No 70)</heading>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096536" toc="yes">
+          <heading>Finance Act (No 2) 1952 (1952 No 81) (RS Vol 31, p 31)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM275648">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096537" toc="yes">
+          <heading>Statutes Amendment Act 1936 (1936 No 58) (RS Vol 31, p 30)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM221336">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096538" toc="yes">
+          <heading>Statutes Amendment Act 1942 (1942 No 18) (RS Vol 31, p 30)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the Act(s).</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM2096539" toc="yes">
+          <heading>Statutes Amendment Act 1945 (1945 No 40) (RS Vol 31, p 31)</heading>
+          <para>
+            <text>
+              <emphasis style="italic">Amendment(s) incorporated in the <citation jurisdiction="nz"><extref href="DLM238797">Act(s)</extref></citation>.</emphasis>
+            </text>
+          </para>
+        </schedule.amendments.group2>
+      </schedule.amendments>
+    </schedule>
+  </schedule.group>
+  <end id="DLM1677901">
+    <end.reprint-note id="DLM2096540">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
             <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1924, No 11—The Acts Interpretation Act 1924</citation>. (RS Vol 31, p 1.)</text>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
               </para>
             </item>
             <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1936, No 58—The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13398" atidlm:branchLabel="_NOVERSION_" atidlm:name="Statutes Amendment Act 1936" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460280" atidlm:state="UNCHANGED"><atidlm:linkcontent>Statutes Amendment Act 1936</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13196" atidlm:sourceXmlId="DLM460280" atidlm:targetKey="1554605" atidlm:targetXmlId="DLM221336" atidlm:targetName="Statutes Amendment Act 1936" atidlm:sourceName="DLM460280" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM221336.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: <citation jurisdiction="nz">Sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13800" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 2" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460281" atidlm:state="UNCHANGED"><atidlm:linkcontent>2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13197" atidlm:sourceXmlId="DLM460281" atidlm:targetKey="1555201" atidlm:targetXmlId="DLM221343" atidlm:targetName="prov 2" atidlm:sourceName="DLM460281" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM221342.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13801" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 3" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460282" atidlm:state="UNCHANGED"><atidlm:linkcontent>3</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13198" atidlm:sourceXmlId="DLM460282" atidlm:targetKey="1555205" atidlm:targetXmlId="DLM221345" atidlm:targetName="prov 3" atidlm:sourceName="DLM460282" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM221342.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>. (RS Vol 31, p 30.)</text>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
               </para>
             </item>
             <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1942, No 18—The Statutes Amendment Act 1942</citation>: <citation jurisdiction="nz">Section 2</citation>. (RS Vol 31, p 30.)</text>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
               </para>
             </item>
             <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1945, No 40—The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13802" atidlm:branchLabel="_NOVERSION_" atidlm:name="Statutes Amendment Act 1945" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460283" atidlm:state="UNCHANGED"><atidlm:linkcontent>Statutes Amendment Act 1945</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13800" atidlm:sourceXmlId="DLM460283" atidlm:targetKey="1646405" atidlm:targetXmlId="DLM238797" atidlm:targetName="Statutes Amendment Act 1945" atidlm:sourceName="DLM460283" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM238797.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: <citation jurisdiction="nz">Section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13803" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 2" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460284" atidlm:state="UNCHANGED"><atidlm:linkcontent>2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13801" atidlm:sourceXmlId="DLM460284" atidlm:targetKey="1647001" atidlm:targetXmlId="DLM239104" atidlm:targetName="prov 2" atidlm:sourceName="DLM460284" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM239103.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>. (RS Vol 31, p 31.)</text>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
               </para>
             </item>
             <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1952, No 81—The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13804" atidlm:branchLabel="_NOVERSION_" atidlm:name="Finance Act (No 2) 1952" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460285" atidlm:state="UNCHANGED"><atidlm:linkcontent>Finance Act (No 2) 1952</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13802" atidlm:sourceXmlId="DLM460285" atidlm:targetKey="1845404" atidlm:targetXmlId="DLM275648" atidlm:targetName="Finance Act (No 2) 1952" atidlm:sourceName="DLM460285" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM275648.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: <citation jurisdiction="nz">Section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13805" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 27" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460286" atidlm:state="UNCHANGED"><atidlm:linkcontent>27</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13803" atidlm:sourceXmlId="DLM460286" atidlm:targetKey="1845424" atidlm:targetXmlId="DLM275682" atidlm:targetName="prov 27" atidlm:sourceName="DLM460286" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM275648.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>. (RS Vol 31, p 31.)</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1960, No 50—The Acts Interpretation Amendment Act 1960</citation>. (RS Vol 31, p 32.)</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1962, No 9—The Acts Interpretation Amendment Act 1962</citation>. (RS Vol 31, p 32.)</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1973, No 46—The Acts Interpretation Amendment Act 1973</citation>. (RS Vol 31, p 32.)</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1979, No 71—The Acts Interpretation Amendment Act 1979</citation>. (RS Vol 31, p 33.)</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1979, No 128—The Acts Interpretation Amendment Act (No 2) 1979</citation>. (RS Vol 31, p 33.)</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1983, No 22—The Acts Interpretation Amendment Act 1983</citation>. (RS Vol 31, p 34.)</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1986, No 115—The Acts Interpretation Amendment Act 1986</citation>. (RS Vol 31, p 35.)</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1988, No 113—The Acts Interpretation Amendment Act 1988</citation>. (RS Vol 31, p 36.)</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1989, No 142—The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13806" atidlm:branchLabel="_NOVERSION_" atidlm:name="Acts and Regulations Publication Act 1989" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460287" atidlm:state="UNCHANGED"><atidlm:linkcontent>Acts and Regulations Publication Act 1989</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="13804" atidlm:sourceXmlId="DLM460287" atidlm:targetKey="1045212" atidlm:targetXmlId="DLM195097" atidlm:targetName="Acts and Regulations Publication Act 1989" atidlm:sourceName="DLM460287" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195097.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: <citation jurisdiction="nz">Sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13807" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 18" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460288" atidlm:state="UNCHANGED"><atidlm:linkcontent>18</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13805" atidlm:sourceXmlId="DLM460288" atidlm:targetKey="1049002" atidlm:targetXmlId="DLM195476" atidlm:targetName="prov 18" atidlm:sourceName="DLM460288" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195474.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="13808" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 19" atidlm:parentFolderId="/NZ/NZAct/I/Interpretation Act 1999" atidlm:xmlId="DLM460289" atidlm:state="UNCHANGED"><atidlm:linkcontent>19</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="13806" atidlm:sourceXmlId="DLM460289" atidlm:targetKey="1049004" atidlm:targetXmlId="DLM195478" atidlm:targetName="prov 19" atidlm:sourceName="DLM460289" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195474.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM31890.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Enactments repealed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM31458" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="85" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Interpretation Act 1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1999" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="2.0" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>. (RS Vol 31, p 36.)</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1994, No 22—The Acts Interpretation Amendment Act 1994</citation>.</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">1996, No 70—The Acts Interpretation Amendment Act 1996</citation>.</text>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
               </para>
             </item>
           </list>
         </para>
-      </schedule.misc>
-    </schedule>
-  </schedule.group>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the Interpretation Act 1999. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz">Policing Act 2008 (2008 No 72): <extref href="DLM1102383">section 130(1)</extref></citation>
+          </reprint.amend>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM335981">Interpretation Amendment Act 2005</extref> (2005 No 13)</citation>
+          </reprint.amend>
+          <reprint.amend>
+            <citation jurisdiction="nz">Electronic Transactions Act 2002 (2002 No 35): <amending-provision href="DLM154858">section 38</amending-provision></citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
+  </end>
 </act>
