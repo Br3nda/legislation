@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act id="DLM98305" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="42" act.type="public" date.as.at="2010-11-01" date.assent="2001-08-07" date.terminated="2010-11-01" date.first.valid="2007-09-18" stage="reprint" year="2001" terminated="repealed" prospective.consolidation="F">
+  <cover id="DLM98306">
+    <reprint-date>2010-11-01</reprint-date>
+    <title xml:lang="en-NZ">Electricity Industry Reform Amendment Act 2001</title>
+    <assent>2001-08-07</assent>
+    <cover.reprint-note>
+      <para xml:lang="en-NZ">
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this eprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.</text>
+      </para>
+      <admin-office>This Act is administered in the <ministry>Ministry Economic Development</ministry>.</admin-office>
+    </cover.reprint-note>
+    <notes>
+      <history>
+        <history-note id="DLM3373027"><amended-provision>Electricity Industry Reform Amendment Act 2001</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, pursuant to <amending-provision href="DLM2634627">section 165</amending-provision> of the <amending-leg>Electricity Industry Act 2010</amending-leg> (2010 No 116).</history-note>
+      </history>
+    </notes>
+  </cover>
+  <contents>
+    <heading xml:lang="en-NZ">Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM98307" xml:lang="en-NZ">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM98308" prov-type="section" xml:lang="en-NZ">
+    <prov id="DLM98309" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading xml:lang="en-NZ">Title</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>This Act is the Electricity Industry Reform Amendment Act 2001.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>In this Act, the <citation jurisdiction="nz"><leg-title href="DLM428202">Electricity Industry Reform Act 1998</leg-title></citation> is called <quote.in quote="1">the principal Act</quote.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98310" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading xml:lang="en-NZ">Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98311" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading xml:lang="en-NZ">Interpretation</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428211">3(1)</extref> of the principal Act</citation> is amended by repealing the definition of the term <emphasis style="bold">agency</emphasis>.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428211">3(1)</extref> of the principal Act</citation> is amended by inserting, in their appropriate alphabetical order, the following definitions:</text>
+            <amend quote="1">
+              <para xml:lang="en-NZ">
+                <def-para id="DLM98312" quote="1" xml:lang="en-NZ">
+                  <para quote="1" xml:lang="en-NZ">
+                    <text><def-term id="DLM98313" xml:lang="en-NZ">customer co-operative</def-term> has the meaning set out in <citation jurisdiction="nz">section 42</citation></text>
+                  </para>
+                </def-para>
+                <def-para id="DLM98314" quote="1" xml:lang="en-NZ">
+                  <para quote="1" xml:lang="en-NZ">
+                    <text><def-term id="DLM98315" xml:lang="en-NZ">distributed generation</def-term> means a generator or generators that are connected to a local distribution network, or to an end-user load that is connected to a local distribution network, and not directly connected to the national grid</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM98316" quote="1" xml:lang="en-NZ">
+                  <para quote="1" xml:lang="en-NZ">
+                    <text><def-term id="DLM98317" xml:lang="en-NZ">line</def-term> includes a wire or cable</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM98318" quote="1" xml:lang="en-NZ">
+                  <para quote="1" xml:lang="en-NZ">
+                    <text><def-term id="DLM98319" xml:lang="en-NZ">nameplate</def-term> means the value derived by taking the full load output in volt amperes, as stated on the name (rating) plate of the generator (determined in accordance with International Electro-Technical Commission Standard 60034 Part 1 or successors or any recognised equivalent), assuming a power factor of 1, and expressing the result in megawatts</text>
+                  </para>
+                </def-para>
+              </para>
+            </amend>
+            <follow-text space-before="no">.</follow-text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428211">3(1)</extref> of the principal Act</citation> is amended by adding to <citation jurisdiction="nz">paragraph <extref href="DLM428264">(b)</extref></citation> of the definition of the term <emphasis style="bold">exempt person</emphasis> the words <amend.in quote="1">or <citation jurisdiction="nz">section 46A</citation> (exemption for new distributed generation from new renewable energy source)</amend.in>.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">4</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428211">3(1)</extref> of the principal Act</citation> is amended by omitting the definition of the term <emphasis style="bold">settling trust</emphasis>, and substituting the following definition:</text>
+            <amend quote="1">
+              <def-para id="DLM98320" quote="1" xml:lang="en-NZ">
+                <para quote="1" xml:lang="en-NZ">
+                  <text><def-term id="DLM98321" xml:lang="en-NZ">settling trust</def-term> means an electricity trust that establishes a new mirror trust under the mirror trust option in <citation jurisdiction="nz">sections 37 to 45</citation></text>
+                </para>
+              </def-para>
+            </amend>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">5</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428211">3</extref> of the principal Act</citation> is amended by adding the following subsection:</text>
+            <amend quote="1">
+              <subprov skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">3</label>
+                <para xml:lang="en-NZ">
+                  <text>In relation to <citation jurisdiction="nz">sections 4(2), 5(2), and 19</citation>,—</text>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
+                    <para xml:lang="en-NZ">
+                      <text>limitations, exclusions, or exemptions under those sections may be applied cumulatively; and</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
+                    <para xml:lang="en-NZ">
+                      <text>references to an activity being carried out only or solely for a particular purpose or in a particular way, or to a person having an involvement or interest only or solely for a particular reason, must not be read as excluding reliance on any other limitation, exclusion, or exemption in any of those sections.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98322" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading xml:lang="en-NZ">Meaning of electricity supply business</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428424">5(2)</extref> of the principal Act</citation> is amended by repealing <citation jurisdiction="nz">paragraph <extref href="DLM428424">(e)</extref></citation>, and substituting the following paragraphs:</text>
+            <amend quote="1">
+              <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">e</label>
+                <para xml:lang="en-NZ">
+                  <text>generating electricity from distributed generation, and selling the electricity generated, where—</text>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">i</label>
+                    <para xml:lang="en-NZ">
+                      <text>the generating capacity of the distributed generation is no more, at any one time, than the greater of 5 MW (determined according to nameplate or nameplates) and 2% of the maximum demand, in the immediately preceding financial year, of the system to which the distributed generation is connected; and</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">ii</label>
+                    <para xml:lang="en-NZ">
+                      <text>the distributed generation is owned or operated by a business that also conveys electricity by line and that distributed generation is connected to those lines:</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">f</label>
+                <para xml:lang="en-NZ">
+                  <text>selling financial transmission rights that hedge risks arising from the effects of losses and constraints on the national grid:</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">g</label>
+                <para xml:lang="en-NZ">
+                  <text>owning or operating, directly or indirectly, a generator referred to in any of <citation jurisdiction="nz">paragraphs (b) to (f) or subsection (3)</citation> or any other core generation assets used in connection with those generators.</text>
+                </para>
+              </label-para>
+            </amend>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428424">5</extref> of the principal Act</citation> is amended by adding the following subsection:</text>
+            <amend quote="1">
+              <subprov skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">4</label>
+                <para xml:lang="en-NZ">
+                  <text>For the purposes of <citation jurisdiction="nz">subsection (2)</citation>,—</text>
+                  <def-para id="DLM98323" quote="1" xml:lang="en-NZ">
+                    <para quote="1" xml:lang="en-NZ">
+                      <text><def-term id="DLM98324" xml:lang="en-NZ">financial transmission right</def-term> means a financial instrument issued by the real time co-ordinator of electricity supply and demand in New Zealand that—</text>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
+                        <para xml:lang="en-NZ">
+                          <text>is funded exclusively by the difference between purchaser payments and generator receipts on the sale and purchase of electricity in the wholesale market that arises from the effect of losses and constraints on the national grid; and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
+                        <para xml:lang="en-NZ">
+                          <text>entitles the holder to receive, or requires the holder to make, payments in accordance with a formula based on prices for quantities of electricity at 1 or more points on the national grid</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </def-para>
+                  <def-para id="DLM98325" quote="1" xml:lang="en-NZ">
+                    <para quote="1" xml:lang="en-NZ">
+                      <text><def-term id="DLM98326" xml:lang="en-NZ">financial year</def-term> means a period of 12 months ending on 31 March</text>
+                    </para>
+                  </def-para>
+                  <def-para id="DLM98327" quote="1" xml:lang="en-NZ">
+                    <para quote="1" xml:lang="en-NZ">
+                      <text><def-term id="DLM98328" xml:lang="en-NZ">maximum demand</def-term> means, in relation to a system, the single highest half-hourly input (in kilowatts), during a particular financial year, to the system, after allowing for diversity of the demand at each point of input</text>
+                    </para>
+                  </def-para>
+                  <def-para id="DLM98329" quote="1" xml:lang="en-NZ">
+                    <para quote="1" xml:lang="en-NZ">
+                      <text><def-term id="DLM98330" xml:lang="en-NZ">system</def-term> means all of the works over which a business conveys or intends to convey electricity.</text>
+                    </para>
+                  </def-para>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98331" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">5</label>
+      <heading xml:lang="en-NZ">Repeal of <citation jurisdiction="nz">section <extref href="DLM428464">13</extref></citation></heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The principal Act is amended by repealing <citation jurisdiction="nz">section <extref href="DLM428464">13</extref></citation> (meaning of agency).</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98332" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">6</label>
+      <heading xml:lang="en-NZ">Certain businesses and involvements to be disregarded</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428475">19(1)</extref> of the principal Act</citation> is amended by inserting, after <citation jurisdiction="nz">paragraph <extref href="DLM428475">(g)</extref></citation>, the following paragraph:</text>
+            <amend quote="1">
+              <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">ga</label>
+                <para xml:lang="en-NZ">
+                  <text>that person is involved because the person has an interest in a business that generates electricity from a geothermal energy source if—</text>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">i</label>
+                    <para xml:lang="en-NZ">
+                      <text>the geothermal plant was commissioned between 1 January 1998 and the date on which this paragraph comes into force, and is currently owned by the person that commissioned it; and</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">ii</label>
+                    <para xml:lang="en-NZ">
+                      <text>the output from the geothermal plant is less than 12 MW (determined according to nameplate or nameplates); or</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+            </amend>
+            <follow-text space-before="no">.</follow-text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98333" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">7</label>
+      <heading xml:lang="en-NZ">Corporate separation</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428486">24</extref> of the principal Act</citation> is amended by inserting, after the words <quote.in quote="1">(mirror trusts)</quote.in>, the words <amend.in quote="1">or <citation jurisdiction="nz">section 46A</citation> (exemption for new distributed generation from new renewable energy source)</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98334" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">8</label>
+      <heading xml:lang="en-NZ">Arms length rules</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428489">25(1)</extref> of the principal Act</citation> is amended by inserting, after the words <quote.in quote="1">(mirror trusts)</quote.in>, the words <amend.in quote="1">or <citation jurisdiction="nz">section 46A</citation> (new distributed generation from new renewable energy source)</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98335" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">9</label>
+      <heading xml:lang="en-NZ">Purpose of sections</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>of the principal Act is amended by omitting the expression <amend.in quote="1"><citation jurisdiction="nz">sections 28 to 45</citation></amend.in>, and substituting the expression <amend.in quote="1"><citation jurisdiction="nz">sections 28 to 46B</citation></amend.in>.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428494">27</extref> of the principal Act</citation> is amended by adding the following paragraph:</text>
+            <amend quote="1">
+              <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">j</label>
+                <para xml:lang="en-NZ">
+                  <text>a permanent exemption for new distributed generation from a new renewable energy source and public notification requirements for electricity lines businesses that acquire or increase an ability to carry out distributed generation (<citation jurisdiction="nz">sections 46A and 46B</citation>).</text>
+                </para>
+              </label-para>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98336" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">10</label>
+      <heading xml:lang="en-NZ">New <citation jurisdiction="nz">section <extref href="DLM428515">37</extref></citation> substituted</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The principal Act is amended by repealing <citation jurisdiction="nz">section <extref href="DLM428515">37</extref></citation>, and substituting the following section:</text>
+            <amend quote="1">
+              <prov id="DLM98337" irdnumbering="no" quote="1" skeleton="no" toc="yes" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">37</label>
+                <heading xml:lang="en-NZ">Mirror trust option</heading>
+                <prov.body>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
+                    <para xml:lang="en-NZ">
+                      <text>The mirror trust option means that an electricity trust involved in business A (<def-term id="DLM98338" xml:lang="en-NZ">settling trust</def-term>) may establish a new trust (<def-term id="DLM98339" xml:lang="en-NZ">mirror trust</def-term>) to acquire and hold, or to acquire and hold through a company in which the mirror trust is or will be involved, interests in business B.</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
+                    <para xml:lang="en-NZ">
+                      <text>The mirror trust option is an exemption, under <citation jurisdiction="nz">section 43</citation>, from the non-specific interests rule in <citation jurisdiction="nz">section 20</citation>, and therefore from the ownership separation rules.</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">3</label>
+                    <para xml:lang="en-NZ">
+                      <text>Those exemptions are subject to the conditions in <citation jurisdiction="nz">sections 38 to 41</citation>.</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98340" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">11</label>
+      <heading xml:lang="en-NZ">Qualifying conditions on mirror trust option</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428517">38</extref> of the principal Act</citation> is amended by repealing <citation jurisdiction="nz">subsections <extref href="DLM428517">(1)</extref> and <extref href="DLM428517">(2)</extref></citation>, and substituting the following subsections:</text>
+            <amend quote="1">
+              <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">1</label>
+                <para xml:lang="en-NZ">
+                  <text>A settling trust may use the mirror trust option if the settling trust is a customer trust or community trust or both a customer and community trust.</text>
+                </para>
+              </subprov>
+              <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">2</label>
+                <para xml:lang="en-NZ">
+                  <text>If the mirror trust option is used, the settling trust and the mirror trust, and any companies in which either the settling trust or mirror trust is involved, must comply with the rules in <citation jurisdiction="nz">sections 24 and 25</citation> (corporate separation and arms length rules) and <citation jurisdiction="nz">sections 40 and 41</citation>.</text>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98341" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">12</label>
+      <heading xml:lang="en-NZ">Repeal of <citation jurisdiction="nz">section <extref href="DLM428519">39</extref></citation></heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The principal Act is amended by repealing <citation jurisdiction="nz">section <extref href="DLM428519">39</extref></citation> (transfer of business to mirror trust).</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98342" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">13</label>
+      <heading xml:lang="en-NZ">Terms of trust deeds for mirror trusts</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428522">41(1)</extref> of the principal Act</citation> is amended by omitting the expression <amend.in quote="1">23 June 1998</amend.in>, and substituting the words <amend.in quote="1">the date on which the mirror trust is established</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98343" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">14</label>
+      <heading xml:lang="en-NZ">New <citation jurisdiction="nz">section <extref href="DLM428524">42</extref></citation> substituted</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The principal Act is amended by repealing <citation jurisdiction="nz">section <extref href="DLM428524">42</extref></citation>, and substituting the following section:</text>
+            <amend quote="1">
+              <prov id="DLM98344" irdnumbering="no" quote="1" skeleton="no" toc="yes" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">42</label>
+                <heading xml:lang="en-NZ">Mirror co-operatives</heading>
+                <prov.body>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
+                    <para xml:lang="en-NZ">
+                      <text>For the purposes of this Act (except for <citation jurisdiction="nz">sections 60 and 62</citation>), the provisions relating to mirror trusts apply to customer co-operatives and shareholders of customer co-operatives.</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
+                    <para xml:lang="en-NZ">
+                      <text>In this Act, <def-term id="DLM98345" xml:lang="en-NZ">customer co-operative</def-term> means an electricity company that is a co-operative company and has the characteristics described in <citation jurisdiction="nz">section 38(3)</citation>.</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">3</label>
+                    <para xml:lang="en-NZ">
+                      <text>The provisions relating to mirror trusts, and <citation jurisdiction="nz">section 38(3)</citation>, apply as if references to trusts were to co-operatives, references to beneficiaries were to shareholders, references to settling trusts were to settling co-operatives, references to mirror trusts were to mirror co-operatives, and all other necessary modifications were made.</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98346" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">15</label>
+      <heading xml:lang="en-NZ">Repeal of <citation jurisdiction="nz">section <extref href="DLM428528">44</extref></citation></heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The principal Act is amended by repealing <citation jurisdiction="nz">section <extref href="DLM428528">44</extref></citation> (exemption of mirror trusts from rule limiting expansion of control by trust-like agencies).</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98347" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">16</label>
+      <heading xml:lang="en-NZ">New <citation jurisdiction="nz">section <extref href="DLM428530">45</extref></citation> substituted</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The principal Act is amended by repealing <citation jurisdiction="nz">section <extref href="DLM428530">45</extref></citation>, and substituting the following section:</text>
+            <amend quote="1">
+              <prov id="DLM98348" irdnumbering="no" quote="1" skeleton="no" toc="yes" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">45</label>
+                <heading xml:lang="en-NZ">Trusts that cease to be mirror trusts</heading>
+                <prov.body>
+                  <subprov skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="no"/>
+                    <para xml:lang="en-NZ">
+                      <text><citation jurisdiction="nz">Section 43</citation> applies to a mirror trust and its settling trust only if and as long as <citation jurisdiction="nz">sections 24 and 25 and sections 38 to 41</citation> are complied with.</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98349" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">17</label>
+      <heading xml:lang="en-NZ">Repeal of <citation jurisdiction="nz">section <extref href="DLM428534">46</extref></citation> and new <citation jurisdiction="nz">sections <extref href="DLM428539">46A</extref> and <extref href="DLM428546">46B</extref></citation> inserted</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>The principal Act is amended by repealing the heading preceding <citation jurisdiction="nz">section <extref href="DLM428534">46</extref> and section <extref href="DLM428534">46</extref></citation> (no expansion of control by trust-like agencies in electricity supply).</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>The principal Act is amended by inserting, before the <citation jurisdiction="nz">Part <extref href="DLM428553">3</extref></citation> heading, the following heading and sections:</text>
+            <amend quote="1">
+              <crosshead id="DLM98350" quote="1" toc="yes" xml:lang="en-NZ">Exemption and rules for distributed generation</crosshead>
+              <prov id="DLM98351" irdnumbering="no" quote="1" skeleton="no" toc="yes" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">46A</label>
+                <heading xml:lang="en-NZ">Exemption for new distributed generation from new renewable energy source</heading>
+                <prov.body>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
+                    <para xml:lang="en-NZ">
+                      <text>The following activities do not cause any person to breach the ownership separation rules:</text>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
+                        <para xml:lang="en-NZ">
+                          <text>generating electricity from new distributed generation using only—</text>
+                          <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
+                            <para xml:lang="en-NZ">
+                              <text>a new renewable energy source; or</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
+                            <para xml:lang="en-NZ">
+                              <text>a new renewable energy source and fossil fuels if fossil fuels provide no more than 20% of the total fuel energy input for the generator or generators comprising the generation plant in any 12-month period or any larger amount approved by the Minister under <citation jurisdiction="nz">subsection (3)</citation>:</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
+                        <para xml:lang="en-NZ">
+                          <text>selling electricity referred to in <citation jurisdiction="nz">paragraph (a)</citation>:</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">c</label>
+                        <para xml:lang="en-NZ">
+                          <text>owning or operating, directly or indirectly, new distributed generation, or any other core generation assets used in connection with new distributed generation, that is capable of generating electricity referred to in <citation jurisdiction="nz">paragraph (a)</citation>.</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
+                    <para xml:lang="en-NZ">
+                      <text><citation jurisdiction="nz">Subsection (1)</citation> applies only if and as long as <citation jurisdiction="nz">sections 24 and 25</citation> are complied with (corporate separation and arms length rules).</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">3</label>
+                    <para xml:lang="en-NZ">
+                      <text>The Minister may increase the thresholds in <citation jurisdiction="nz">subsection (1)(a)(ii)</citation> or in <citation jurisdiction="nz">paragraph (b)</citation> of the definition of <emphasis style="bold">new renewable energy source</emphasis> to approve a particular activity for the purposes of <citation jurisdiction="nz">subsection (1)</citation> (on the conditions, if any, he or she thinks fit) after first taking into account whether or not the generation uses new or advanced technology.</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">4</label>
+                    <para xml:lang="en-NZ">
+                      <text>In this section,—</text>
+                      <def-para id="DLM98352" quote="1" xml:lang="en-NZ">
+                        <para quote="1" xml:lang="en-NZ">
+                          <text><def-term id="DLM98353" xml:lang="en-NZ">new distributed generation</def-term> means distributed generation that is not existing on the date on which this section comes into force</text>
+                        </para>
+                      </def-para>
+                      <def-para id="DLM98354" quote="1" xml:lang="en-NZ">
+                        <para quote="1" xml:lang="en-NZ">
+                          <text><def-term id="DLM98355" xml:lang="en-NZ">new renewable energy source</def-term>—</text>
+                          <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para xml:lang="en-NZ">
+                              <text>means an energy source that occurs naturally and the use of which will not permanently deplete New Zealand's energy sources of that kind, because those sources are generally expected to be replenished by natural processes within 50 years or less of being used; but</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para xml:lang="en-NZ">
+                              <text>does not include hydro or geothermal energy sources at a generator or generators comprising a generation plant that has an aggregate generating capacity (determined according to nameplate or nameplates) of more than 5 MW, unless approved by the Minister under <citation jurisdiction="nz">subsection (3)</citation>.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </def-para>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">5</label>
+                    <para xml:lang="en-NZ">
+                      <text>This section does not limit <citation jurisdiction="nz">section 5(2)(e)</citation> (exclusion from definition of electricity supply business).</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+              <prov id="DLM98356" irdnumbering="no" quote="1" skeleton="no" toc="yes" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">46B</label>
+                <heading xml:lang="en-NZ">Electricity lines business to publicly notify acquisition or increase of distributed generation</heading>
+                <prov.body>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
+                    <para xml:lang="en-NZ">
+                      <text>The purpose of this section is to require an electricity lines business that proposes to acquire or increase distributed generation, in reliance on <citation jurisdiction="nz">section 5(2)(e)</citation> (exclusion from definition of electricity supply business) or on <citation jurisdiction="nz">section 46A</citation>, to give public notice of its proposal.</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
+                    <para xml:lang="en-NZ">
+                      <text>A person who is carrying on an electricity lines business must not, without first publicly notifying the proposal to do so in accordance with <citation jurisdiction="nz">subsection (3)</citation>, acquire or increase (directly or indirectly through any other person) an ability to generate electricity from distributed generation or an interest in a person that has that ability.</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">3</label>
+                    <para xml:lang="en-NZ">
+                      <text>The person must publish the following matters in each major daily newspaper in Auckland, Hamilton, Wellington, Christchurch, and Dunedin at least 30 days before the person enters into the first contract to acquire or increase that ability or interest:</text>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
+                        <para xml:lang="en-NZ">
+                          <text>the type of generation proposed (for example, windfarm, co-generation, or other) and the alternative types of generation and alternative methods for reducing demand for electricity considered by the person (if any); and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
+                        <para xml:lang="en-NZ">
+                          <text>the date on which the person will acquire or increase an ability to generate electricity or that interest; and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">c</label>
+                        <para xml:lang="en-NZ">
+                          <text>the estimated increase in direct or indirect generating capacity of the person, determined according to nameplate, as a result of the acquisition or increase; and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">d</label>
+                        <para xml:lang="en-NZ">
+                          <text>the estimated cost of acquiring or increasing the ability to carry out the generation or that part of the cost of acquiring or increasing the interest that is attributable to that ability; and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">e</label>
+                        <para xml:lang="en-NZ">
+                          <text>the relative efficiency of the proposed generation and each alternative referred to in <citation jurisdiction="nz">paragraph (a)</citation> considered by the person (if any); and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes" quote="1">f</label>
+                        <para xml:lang="en-NZ">
+                          <text>the address of the person, a statement to the effect that any person may make a submission on the proposal by sending a written submission to that address, and a closing date for submissions.</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">4</label>
+                    <para xml:lang="en-NZ">
+                      <text>The person must also provide a copy of the public notification to the Commerce Commission as soon as practicable after publishing it.</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">5</label>
+                    <para xml:lang="en-NZ">
+                      <text>This section does not apply to the acquisition by a person of an interest in another person that carries on an electricity lines business.</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98357" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">18</label>
+      <heading xml:lang="en-NZ">New <citation jurisdiction="nz">section <extref href="DLM428566">56A</extref></citation> inserted</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The principal Act is amended by inserting, after <citation jurisdiction="nz">section <extref href="DLM428565">56</extref></citation>, the following section:</text>
+            <amend quote="1">
+              <prov id="DLM98358" irdnumbering="no" quote="1" skeleton="no" toc="yes" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">56A</label>
+                <heading xml:lang="en-NZ">Limits on defences and penalties for failure to publicly notify acquisition or increase of distributed generation</heading>
+                <prov.body>
+                  <subprov skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="no"/>
+                    <para xml:lang="en-NZ">
+                      <text><citation jurisdiction="nz">Sections 48, 52(b) and (c), 53, 54, 55, and 56</citation> do not apply in relation to a contravention of <citation jurisdiction="nz">section 46B</citation> (electricity lines business to publicly notify acquisition or increase of distributed generation).</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98359" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">19</label>
+      <heading xml:lang="en-NZ">Mirror co-operatives</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428578">61</extref> of the principal Act</citation> is amended by repealing <citation jurisdiction="nz">subsection <extref href="DLM428578">(1)</extref></citation>, and substituting the following subsection:</text>
+            <amend quote="1">
+              <subprov skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">1</label>
+                <para xml:lang="en-NZ">
+                  <text>This section applies if a customer co-operative establishes a mirror company (<def-term id="DLM98360" xml:lang="en-NZ">mirror co-operative</def-term>) and, for the purpose of using the mirror trust option in <citation jurisdiction="nz">section 37</citation>, transfers assets and liabilities that would (alone or together with other assets and liabilities) comprise all or part of an electricity lines business or electricity supply business for a consideration less than their market value.</text>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428592">67(2)(b)</extref> of the principal Act</citation> is amended by omitting the expression <amend.in quote="1">61(1)(a)</amend.in>, and substituting the expression <amend.in quote="1">61(1)</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98361" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">20</label>
+      <heading xml:lang="en-NZ">Mirror trusts</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428581">62</extref> of the principal Act</citation> is amended by repealing <citation jurisdiction="nz">subsection <extref href="DLM428581">(1)</extref></citation>, and substituting the following subsection:</text>
+            <amend quote="1">
+              <subprov skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">1</label>
+                <para xml:lang="en-NZ">
+                  <text>This section applies if—</text>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
+                    <para xml:lang="en-NZ">
+                      <text>1 or more electricity trusts owns or own all of the voting interests and market value interests (if any) in an electricity company (<def-term id="DLM98362" xml:lang="en-NZ">existing company</def-term>) carrying on either an electricity lines business or an electricity supply business; and</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
+                    <para xml:lang="en-NZ">
+                      <text>a mirror trust is established in respect of each electricity trust; and</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">c</label>
+                    <para xml:lang="en-NZ">
+                      <text>the mirror trust incorporates or the mirror trusts incorporate a company (<def-term id="DLM98363" xml:lang="en-NZ">mirror trust company</def-term>) in which it holds or they hold all of the voting interests and market value interests (if any) in the same proportions in which the respective settling trust or settling trusts hold all of the voting interests and market value interests (if any) in the existing company; and</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">d</label>
+                    <para xml:lang="en-NZ">
+                      <text>for the purpose of the trust using the mirror trust option in <citation jurisdiction="nz">section 37</citation>, the existing company transfers assets and liabilities that would (alone or together with other assets and liabilities) comprise all or part of an electricity lines business or an electricity supply business to the mirror trust company for a consideration less than their market value.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98364" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">21</label>
+      <heading xml:lang="en-NZ">Shareholders of lines co-operatives</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428615">73</extref> of the principal Act</citation> is amended by omitting the words <amend.in quote="1">Electricity Ashburton Limited and Otago Power Limited</amend.in>, and substituting the words <amend.in quote="1">customer co-operatives</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM98365" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">22</label>
+      <heading xml:lang="en-NZ">Exemptions</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz">Section <extref href="DLM428625">81</extref> of the principal Act</citation> is amended by repealing <citation jurisdiction="nz">subsections <extref href="DLM428625">(1)</extref> and <extref href="DLM428625">(2)</extref></citation>, and substituting the following subsection:</text>
+            <amend quote="1">
+              <subprov skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes" quote="1">1</label>
+                <para xml:lang="en-NZ">
+                  <text>The Commission may, for the purposes of this Act, in its discretion and upon the terms and conditions (if any) that it thinks fit, by notice in the <emphasis style="italic">Gazette</emphasis>, exempt—</text>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
+                    <para xml:lang="en-NZ">
+                      <text>any business, involvement, or interest, or class of business, involvement, or interest, from the application of this Act; or</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
+                    <para xml:lang="en-NZ">
+                      <text>any person or class of persons from compliance with any provisions of this Act or any regulations made under it.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+  </body>
+  <end id="DLM98366" xml:lang="en-NZ">
+    <end.reprint-note id="DLM3373028">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>About this eprint</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>List of amendments incorporated in this eprint (most recent first) </text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is an eprint of the Electricity Industry Reform Amendment Act 2001. The eprint incorporates all the amendments to the Act as at 1 November 2010. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>About this eprint</heading>
+          <para>
+            <text>This eprint has not been officialised. For more information about eprints and officialisation, please <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/eprints/">http://www.pco.parliament.govt.nz/eprints/</extref></citation>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>List of amendments incorporated in this eprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz">Electricity Industry Act 2010 (2010 No 116): <extref href="DLM2634627">section 165</extref></citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
+  </end>
+</act>
