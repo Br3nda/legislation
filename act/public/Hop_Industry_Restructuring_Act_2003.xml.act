@@ -1,77 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM189264" in.amend="false" xml:lang="en-NZ" irdnumbering="no" act.no="16" act.type="public" date.as.at="2007-09-03" date.assent="2003-04-09" date.first.valid="2007-09-18" stage="reprint" year="2003">
+<act date.instructed="2001-12-11" id="DLM189264" in.amend="false" instructing.office="Agriculture and Forestry" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="16" act.type="public" date.as.at="2008-04-01" date.assent="2003-04-09" date.first.valid="2003-04-10" stage="reprint" year="2003" prospective.consolidation="F">
   <cover id="DLM189265">
-    <title xml:lang="en-NZ">Hop Industry Restructuring Act 2003</title>
+    <reprint-date>2008-04-01</reprint-date>
+    <title>Hop Industry Restructuring Act 2003</title>
     <assent>2003-04-09</assent>
+    <commencement>see section 2</commencement>
+    <cover.reprint-note>
+      <para>
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Ministry of Agriculture and Forestry</ministry>.</admin-office>
+    </cover.reprint-note>
   </cover>
   <contents>
-    <heading xml:lang="en-NZ">Contents</heading>
+    <heading>Contents</heading>
     <toc/>
   </contents>
-  <front id="DLM189266" xml:lang="en-NZ">
-    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
-  </front>
-  <body id="DLM189267" prov-type="section" xml:lang="en-NZ">
-    <prov id="DLM189268" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+  <body id="DLM189267" prov-type="section">
+    <prov id="DLM189268" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="yes">1</label>
-      <heading xml:lang="en-NZ">Title</heading>
+      <heading>Title</heading>
       <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
+        <subprov skeleton="no">
           <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
+          <para>
             <text>This Act is the Hop Industry Restructuring Act 2003.</text>
           </para>
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM189269" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-03" act.no="16" act.type="public" date.as.at="2007-09-03" date.assent="2003-04-09" stage="reprint" year="2003">
+    <part id="DLM189269" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2003-04-10" act.no="16" act.type="public" date.as.at="2008-04-01" date.assent="2003-04-09" stage="reprint" year="2003" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
-      <heading xml:lang="en-NZ">Preliminary provisions</heading>
-      <prov id="DLM189270" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <heading>Preliminary provisions</heading>
+      <prov id="DLM189270" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">2</label>
-        <heading xml:lang="en-NZ">Commencement</heading>
+        <heading>Commencement</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
-              <text><citation jurisdiction="nz">Sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118946" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 12" atidlm:xmlId="DLM565318" atidlm:state="UNCHANGED"><atidlm:linkcontent>12</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120784" atidlm:sourceXmlId="DLM565318" atidlm:targetKey="1093402" atidlm:targetXmlId="DLM189905" atidlm:targetName="prov 12" atidlm:sourceName="DLM565318" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189269.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[1]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Commencement" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118947" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 13" atidlm:xmlId="DLM565319" atidlm:state="UNCHANGED"><atidlm:linkcontent>13</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120785" atidlm:sourceXmlId="DLM565319" atidlm:targetKey="1093403" atidlm:targetXmlId="DLM189906" atidlm:targetName="prov 13" atidlm:sourceName="DLM565319" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189269.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[1]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Commencement" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> come into force on 1 August 2003.</text>
+            <para>
+              <text><citation jurisdiction="nz"><intref href="DLM189905">Sections 12</intref> and <intref href="DLM189906">13</intref></citation> come into force on 1 August 2003.</text>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>The rest of this Act comes into force on the day after the day on which it receives the Royal assent.</text>
+            <para>
+              <text>The rest of this Act comes into force on the day after the date on which it receives the Royal assent.</text>
             </para>
           </subprov>
         </prov.body>
       </prov>
-      <prov id="DLM189271" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov id="DLM189271" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">3</label>
-        <heading xml:lang="en-NZ">Purpose</heading>
+        <heading>Purpose</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="no"/>
-            <para xml:lang="en-NZ">
-              <text>The purpose of this Act is−</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
+            <para>
+              <text>The purpose of this Act is—</text>
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>to convert the New Zealand Hop Marketing Board into a co-operative company; and</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>to remove the regulatory controls on the sale and export of hops by—</text>
-                  <label-para skeleton="no" xml:lang="en-NZ">
+                  <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">i</label>
-                    <para xml:lang="en-NZ">
+                    <para>
                       <text>repealing the <citation jurisdiction="nz">Agriculture (Emergency Powers) Act 1934</citation> and the <citation jurisdiction="nz">Marketing Act 1936</citation>; and</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no" xml:lang="en-NZ">
+                  <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">ii</label>
-                    <para xml:lang="en-NZ">
+                    <para>
                       <text>revoking the <citation jurisdiction="nz">Hop Marketing Regulations 1939</citation>.</text>
                     </para>
                   </label-para>
@@ -81,95 +89,95 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov id="DLM189272" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov id="DLM189272" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">4</label>
-        <heading xml:lang="en-NZ">Interpretation</heading>
+        <heading>Interpretation</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="no"/>
-            <para xml:lang="en-NZ">
+            <para>
               <text>In this Act, unless the context otherwise requires,—</text>
-              <def-para id="DLM189273" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM189274" xml:lang="en-NZ">Board</def-term> means the New Zealand Hop Marketing Board established by the <citation jurisdiction="nz">Hop Marketing Regulations 1939</citation></text>
+              <def-para id="DLM189273">
+                <para>
+                  <text><def-term id="DLM189274">Board</def-term> means the New Zealand Hop Marketing Board established by the <citation jurisdiction="nz">Hop Marketing Regulations 1939</citation></text>
                 </para>
               </def-para>
-              <def-para id="DLM189275" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM189276" xml:lang="en-NZ">chairperson</def-term> means the person who held office as the chairperson of the Board immediately before the restructuring day</text>
+              <def-para id="DLM189275">
+                <para>
+                  <text><def-term id="DLM189276">chairperson</def-term> means the person who held office as the chairperson of the Board immediately before the restructuring day</text>
                 </para>
               </def-para>
-              <def-para id="DLM189277" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM189278" xml:lang="en-NZ">company</def-term> means the company deemed to be registered under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118948" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM565320" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120786" atidlm:sourceXmlId="DLM565320" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM565320" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189269.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[1]/prov[3]/prov.body[1]/subprov[1]/para[1]/def-para[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> and the Co-operative companies Act 1996 with the name New Zealand Hop Marketers Limited</text>
+              <def-para id="DLM189277">
+                <para>
+                  <text><def-term id="DLM189278">company</def-term> means the company deemed to be registered under the <citation jurisdiction="nz"><leg-title href="DLM319569">Companies Act 1993</leg-title></citation> and the <citation jurisdiction="nz"><extref href="DLM376809">Co-operative Companies Act 1996</extref></citation> with the name New Zealand Hop Marketers Limited</text>
                 </para>
               </def-para>
-              <def-para id="DLM189279" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM189280" xml:lang="en-NZ">hop plant</def-term> means the plant with the scientific name <emphasis style="italic">Humulus lupulus</emphasis></text>
+              <def-para id="DLM189279">
+                <para>
+                  <text><def-term id="DLM189280">hop plant</def-term> means the plant with the scientific name <emphasis style="italic">Humulus lupulus</emphasis></text>
                 </para>
               </def-para>
-              <def-para id="DLM189281" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM189282" xml:lang="en-NZ">hops</def-term> means the fruit of hop plants that are grown and produced within New Zealand</text>
+              <def-para id="DLM189281">
+                <para>
+                  <text><def-term id="DLM189282">hops</def-term> means the fruit of hop plants that are grown and produced within New Zealand</text>
                 </para>
               </def-para>
-              <def-para id="DLM189283" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM189284" xml:lang="en-NZ">liabilities</def-term> means liabilities, debts, charges, duties, and obligations of every description (whether present or future, whether actual or contingent, and whether payable, to be observed, or performed in New Zealand or elsewhere)</text>
+              <def-para id="DLM189283">
+                <para>
+                  <text><def-term id="DLM189284">liabilities</def-term> means liabilities, debts, charges, duties, and obligations of every description (whether present or future, whether actual or contingent, and whether payable, to be observed, or performed in New Zealand or elsewhere)</text>
                 </para>
               </def-para>
-              <def-para id="DLM189285" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM189286" xml:lang="en-NZ">producer</def-term> means a person—</text>
-                  <label-para skeleton="no" xml:lang="en-NZ">
+              <def-para id="DLM189285">
+                <para>
+                  <text><def-term id="DLM189286">producer</def-term> means a person—</text>
+                  <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">a</label>
-                    <para xml:lang="en-NZ">
-                      <text>who has signed a Hop Supplier Agreement with the Board as at 31 July 2003; and</text>
+                    <para>
+                      <text>who has signed a Hop Supplier Agreement with the Board as at 31 July 2003; and</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no" xml:lang="en-NZ">
+                  <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">b</label>
-                    <para xml:lang="en-NZ">
+                    <para>
                       <text>who has supplied hops from the 2003 harvesting season</text>
                     </para>
                   </label-para>
                 </para>
               </def-para>
-              <def-para id="DLM189287" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM189288" xml:lang="en-NZ">property</def-term> means property of every kind whether tangible or intangible, corporeal or incorporeal; and, without limitation, includes—</text>
-                  <label-para skeleton="no" xml:lang="en-NZ">
+              <def-para id="DLM189287">
+                <para>
+                  <text><def-term id="DLM189288">property</def-term> means property of every kind whether tangible or intangible, real or personal, corporeal or incorporeal; and, without limitation, includes—</text>
+                  <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">a</label>
-                    <para xml:lang="en-NZ">
+                    <para>
                       <text>choses in action or money:</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no" xml:lang="en-NZ">
+                  <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">b</label>
-                    <para xml:lang="en-NZ">
+                    <para>
                       <text>goodwill:</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no" xml:lang="en-NZ">
+                  <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">c</label>
-                    <para xml:lang="en-NZ">
+                    <para>
                       <text>any copyright, patent, registered design, trademark, know-how, service marks, trade secrets, or other intellectual or industrial property and any applications pending for patents, trademarks, registered designs, and other intellectual or industrial property:</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no" xml:lang="en-NZ">
+                  <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">d</label>
-                    <para xml:lang="en-NZ">
+                    <para>
                       <text>rights, interests, claims of every kind in, or to, property—</text>
-                      <label-para skeleton="no" xml:lang="en-NZ">
+                      <label-para skeleton="no">
                         <label auto.number="no" denominator="yes">i</label>
-                        <para xml:lang="en-NZ">
+                        <para>
                           <text>whether arising from, accruing under, created or evidenced by, or the subject of, an instrument or otherwise; and</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no" xml:lang="en-NZ">
+                      <label-para skeleton="no">
                         <label auto.number="no" denominator="yes">ii</label>
-                        <para xml:lang="en-NZ">
+                        <para>
                           <text>whether liquidated or unliquidated, actual, contingent, or prospective</text>
                         </para>
                       </label-para>
@@ -177,289 +185,289 @@
                   </label-para>
                 </para>
               </def-para>
-              <def-para id="DLM189289" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM189290" xml:lang="en-NZ">restructuring day</def-term> means 1 August 2003</text>
+              <def-para id="DLM189289">
+                <para>
+                  <text><def-term id="DLM189290">restructuring day</def-term> means 1 August 2003</text>
                 </para>
               </def-para>
-              <def-para id="DLM189291" xml:lang="en-NZ">
-                <para xml:lang="en-NZ">
-                  <text><def-term id="DLM189292" xml:lang="en-NZ">rights</def-term> means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective.</text>
+              <def-para id="DLM189291">
+                <para>
+                  <text><def-term id="DLM189292">rights</def-term> means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective.</text>
                 </para>
               </def-para>
             </para>
           </subprov>
         </prov.body>
       </prov>
-      <prov id="DLM189293" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov id="DLM189293" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">5</label>
-        <heading xml:lang="en-NZ">Act binds the Crown</heading>
+        <heading>Act binds the Crown</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="no"/>
-            <para xml:lang="en-NZ">
+            <para>
               <text>This Act binds the Crown.</text>
             </para>
           </subprov>
         </prov.body>
       </prov>
     </part>
-    <part id="DLM189294" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-03" act.no="16" act.type="public" date.as.at="2007-09-03" date.assent="2003-04-09" stage="reprint" year="2003">
+    <part id="DLM189294" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2003-04-10" act.no="16" act.type="public" date.as.at="2008-04-01" date.assent="2003-04-09" stage="reprint" year="2003" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
-      <heading xml:lang="en-NZ">Restructuring of Board and other matters</heading>
-      <crosshead id="DLM189295" toc="yes" xml:lang="en-NZ">Restructuring of Board</crosshead>
-      <prov id="DLM189296" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <heading>Restructuring of Board and other matters</heading>
+      <crosshead id="DLM189295" toc="yes">Restructuring of Board</crosshead>
+      <prov id="DLM189296" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">6</label>
-        <heading xml:lang="en-NZ">Board must apply to register as company</heading>
+        <heading>Board must apply to register as company</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
+            <para>
               <text>Before the restructuring day, the Board must apply to the Registrar of Companies to be registered—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>as a company under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118949" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM565321" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120787" atidlm:sourceXmlId="DLM565321" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM565321" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
+                <para>
+                  <text>as a company under the <citation jurisdiction="nz"><leg-title href="DLM319569">Companies Act 1993</leg-title></citation>; and</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>as a co-operative company under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118950" atidlm:branchLabel="_NOVERSION_" atidlm:name="Co-operative Companies Act 1996" atidlm:xmlId="DLM565322" atidlm:state="UNCHANGED"><atidlm:linkcontent>Co-operative Companies Act 1996</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120788" atidlm:sourceXmlId="DLM565322" atidlm:targetKey="2006205" atidlm:targetXmlId="DLM376809" atidlm:targetName="Co-operative Companies Act 1996" atidlm:sourceName="DLM565322" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM376809.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                <para>
+                  <text>as a co-operative company under the <citation jurisdiction="nz"><leg-title href="DLM376809">Co-operative Companies Act 1996</leg-title></citation>.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>The application must comply with <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118951" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 12" atidlm:xmlId="DLM565323" atidlm:state="UNCHANGED"><atidlm:linkcontent>12</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120789" atidlm:sourceXmlId="DLM565323" atidlm:targetKey="1638804" atidlm:targetXmlId="DLM320111" atidlm:targetName="prov 12" atidlm:sourceName="DLM565323" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM320106.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118952" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM565324" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120790" atidlm:sourceXmlId="DLM565324" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM565324" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118953" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 7" atidlm:xmlId="DLM565325" atidlm:state="UNCHANGED"><atidlm:linkcontent>7</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120791" atidlm:sourceXmlId="DLM565325" atidlm:targetKey="2008014" atidlm:targetXmlId="DLM376834" atidlm:targetName="prov 7" atidlm:sourceName="DLM565325" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM376831.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118954" atidlm:branchLabel="_NOVERSION_" atidlm:name="Co-operative Companies Act 1996" atidlm:xmlId="DLM565326" atidlm:state="UNCHANGED"><atidlm:linkcontent>Co-operative Companies Act 1996</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120792" atidlm:sourceXmlId="DLM565326" atidlm:targetKey="2006205" atidlm:targetXmlId="DLM376809" atidlm:targetName="Co-operative Companies Act 1996" atidlm:sourceName="DLM565326" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM376809.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, and <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118955" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 7" atidlm:xmlId="DLM565327" atidlm:state="UNCHANGED"><atidlm:linkcontent>7</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120793" atidlm:sourceXmlId="DLM565327" atidlm:targetKey="1093407" atidlm:targetXmlId="DLM189297" atidlm:targetName="prov 7" atidlm:sourceName="DLM565327" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation>, except that—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
+            <para>
+              <text>The application must comply with <citation jurisdiction="nz"><extref href="DLM320111">section 12</extref> of the Companies Act 1993</citation>, <citation jurisdiction="nz"><extref href="DLM376834">section 7</extref> of the Co-operative Companies Act 1996<leg-title href="DLM376809"/></citation>, and <citation jurisdiction="nz"><intref href="DLM189297">section 7</intref> of this Act</citation>, except that—</text>
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>the Board may apply on behalf of the persons who are to receive the shares in the company:</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>2 Board members may sign the application and any other documents required to accompany it:</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">c</label>
-                <para xml:lang="en-NZ">
-                  <text>the requirements of <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118956" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 12" atidlm:xmlId="DLM565328" atidlm:state="UNCHANGED"><atidlm:linkcontent>12(1)(d)(i)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120794" atidlm:sourceXmlId="DLM565328" atidlm:targetKey="1638804" atidlm:targetXmlId="DLM320111" atidlm:targetName="prov 12" atidlm:sourceName="DLM565328" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM320106.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118957" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM565329" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120795" atidlm:sourceXmlId="DLM565329" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM565329" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> regarding the signature of every person named as a shareholder do not apply if the Board has made all reasonable efforts to obtain the signatures of all producers.</text>
+                <para>
+                  <text>the requirements of <citation jurisdiction="nz"><extref href="DLM320111">section 12(1)(d)(i)</extref> of the Companies Act 1993</citation> regarding the signature of every person named as a shareholder do not apply if the Board has made all reasonable efforts to obtain the signatures of all producers.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
-            <para xml:lang="en-NZ">
-              <text>A person who is named as a shareholder in the document required by <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118958" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 12" atidlm:xmlId="DLM565330" atidlm:state="UNCHANGED"><atidlm:linkcontent>12(1)(d)(i)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120796" atidlm:sourceXmlId="DLM565330" atidlm:targetKey="1638804" atidlm:targetXmlId="DLM320111" atidlm:targetName="prov 12" atidlm:sourceName="DLM565330" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM320106.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118959" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM565331" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120797" atidlm:sourceXmlId="DLM565331" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM565331" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> must be a producer.</text>
+            <para>
+              <text>A person who is named as a shareholder in the document required by <citation jurisdiction="nz"><extref href="DLM320111">section 12(1)(d)(i)</extref> of the Companies Act 1993</citation> must be a producer.</text>
             </para>
           </subprov>
         </prov.body>
         <cf>
-          <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118960" atidlm:branchLabel="_NOVERSION_" atidlm:name="Kiwifruit Industry Restructuring Act 1999" atidlm:xmlId="DLM565332" atidlm:state="UNCHANGED"><atidlm:linkcontent>1999 No 95</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120798" atidlm:sourceXmlId="DLM565332" atidlm:targetKey="168400" atidlm:targetXmlId="DLM38168" atidlm:targetName="Kiwifruit Industry Restructuring Act 1999" atidlm:sourceName="DLM565332" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38168.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> s <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118961" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 8" atidlm:xmlId="DLM565333" atidlm:state="UNCHANGED"><atidlm:linkcontent>8</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120840" atidlm:sourceXmlId="DLM565333" atidlm:targetKey="169407" atidlm:targetXmlId="DLM38609" atidlm:targetName="prov 8" atidlm:sourceName="DLM565333" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38602.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Board must apply to register as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>
+          <citation jurisdiction="nz">1999 No 95 <extref href="DLM38609">s 8</extref></citation>
         </cf>
       </prov>
-      <prov id="DLM189297" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov id="DLM189297" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">7</label>
-        <heading xml:lang="en-NZ">Basis for allocation of shares in company</heading>
+        <heading>Basis for allocation of shares in company</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
+            <para>
               <text>Shares in the company must be allocated to all producers.</text>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
+            <para>
               <text>The shares to be allocated to a producer must be in the same proportion as the volume of hops produced by the producer in the period of 5 years before the restructuring day bears to the total volume of hops produced by all producers in that period.</text>
             </para>
           </subprov>
         </prov.body>
       </prov>
-      <prov id="DLM189298" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov id="DLM189298" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">8</label>
-        <heading xml:lang="en-NZ">Conversion of Board into company</heading>
+        <heading>Conversion of Board into company</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
+            <para>
               <text>On the restructuring day,—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>the Board is deemed to be a company registered under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118962" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM565334" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120841" atidlm:sourceXmlId="DLM565334" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM565334" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Conversion of Board into company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> and the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118963" atidlm:branchLabel="_NOVERSION_" atidlm:name="Co-operative Companies Act 1996" atidlm:xmlId="DLM565335" atidlm:state="UNCHANGED"><atidlm:linkcontent>Co-operative Companies Act 1996</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120842" atidlm:sourceXmlId="DLM565335" atidlm:targetKey="2006205" atidlm:targetXmlId="DLM376809" atidlm:targetName="Co-operative Companies Act 1996" atidlm:sourceName="DLM565335" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM376809.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Conversion of Board into company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> with the name New Zealand Hop Marketers Limited; and</text>
+                <para>
+                  <text>the Board is deemed to be a company registered under the <citation jurisdiction="nz"><leg-title href="DLM319569">Companies Act 1993</leg-title></citation> and the <citation jurisdiction="nz"><leg-title href="DLM376809">Co-operative Companies Act 1996</leg-title></citation> with the name New Zealand Hop Marketers Limited; and</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>the Registrar of Companies must issue certificates of registration for the company; and</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">c</label>
-                <para xml:lang="en-NZ">
-                  <text>shares must be issued to producers in accordance with the application under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118964" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM565336" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120843" atidlm:sourceXmlId="DLM565336" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM565336" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Conversion of Board into company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                <para>
+                  <text>shares must be issued to producers in accordance with the application under the <citation jurisdiction="nz"><leg-title href="DLM319569">Companies Act 1993</leg-title></citation>.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>The certificates of registration are conclusive evidence that the company was, on the restructuring day, registered as a company under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118965" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM565337" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120844" atidlm:sourceXmlId="DLM565337" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM565337" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Conversion of Board into company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> and the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118966" atidlm:branchLabel="_NOVERSION_" atidlm:name="Co-operative Companies Act 1996" atidlm:xmlId="DLM565338" atidlm:state="UNCHANGED"><atidlm:linkcontent>Co-operative Companies Act 1996</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120845" atidlm:sourceXmlId="DLM565338" atidlm:targetKey="2006205" atidlm:targetXmlId="DLM376809" atidlm:targetName="Co-operative Companies Act 1996" atidlm:sourceName="DLM565338" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM376809.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Conversion of Board into company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+            <para>
+              <text>The certificates of registration are conclusive evidence that the company was, on the restructuring day, registered as a company under the <citation jurisdiction="nz"><leg-title href="DLM319569">Companies Act 1993</leg-title></citation> and the <citation jurisdiction="nz"><leg-title href="DLM376809">Co-operative Companies Act 1996</leg-title></citation>.</text>
             </para>
           </subprov>
         </prov.body>
         <cf>
-          <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118967" atidlm:branchLabel="_NOVERSION_" atidlm:name="Kiwifruit Industry Restructuring Act 1999" atidlm:xmlId="DLM565339" atidlm:state="UNCHANGED"><atidlm:linkcontent>1999 No 95</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120846" atidlm:sourceXmlId="DLM565339" atidlm:targetKey="168400" atidlm:targetXmlId="DLM38168" atidlm:targetName="Kiwifruit Industry Restructuring Act 1999" atidlm:sourceName="DLM565339" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38168.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Conversion of Board into company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> s <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118968" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 20" atidlm:xmlId="DLM565340" atidlm:state="UNCHANGED"><atidlm:linkcontent>20</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120847" atidlm:sourceXmlId="DLM565340" atidlm:targetKey="169423" atidlm:targetXmlId="DLM38625" atidlm:targetName="prov 20" atidlm:sourceName="DLM565340" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38602.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Conversion of Board into company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>
+          <citation jurisdiction="nz">1999 No 95 <extref href="DLM38625">s 20</extref></citation>
         </cf>
       </prov>
-      <prov id="DLM189299" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov id="DLM189299" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">9</label>
-        <heading xml:lang="en-NZ">Effect of registration as company</heading>
+        <heading>Effect of registration as company</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
+            <para>
               <text>The company registered is the same body corporate as the Board.</text>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
+            <para>
               <text>The deemed registration of the company does not—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>create a new legal entity; or</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>prejudice or affect the identity of the body corporate constituted by the company or its continuity as a legal entity.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
-            <para xml:lang="en-NZ">
-              <text>The Schedule applies to the conversion of the company.</text>
+            <para>
+              <text>The <citation jurisdiction="nz"><intref href="DLM189907">Schedule</intref></citation> applies to the conversion of the company.</text>
             </para>
           </subprov>
         </prov.body>
         <cf>
-          <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118969" atidlm:branchLabel="_NOVERSION_" atidlm:name="Kiwifruit Industry Restructuring Act 1999" atidlm:xmlId="DLM565341" atidlm:state="UNCHANGED"><atidlm:linkcontent>1999 No 95</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120848" atidlm:sourceXmlId="DLM565341" atidlm:targetKey="168400" atidlm:targetXmlId="DLM38168" atidlm:targetName="Kiwifruit Industry Restructuring Act 1999" atidlm:sourceName="DLM565341" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38168.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Effect of registration as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="9" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> s <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118970" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 21" atidlm:xmlId="DLM565342" atidlm:state="UNCHANGED"><atidlm:linkcontent>21</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120849" atidlm:sourceXmlId="DLM565342" atidlm:targetKey="169424" atidlm:targetXmlId="DLM38626" atidlm:targetName="prov 21" atidlm:sourceName="DLM565342" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38602.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Effect of registration as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="9" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>
+          <citation jurisdiction="nz">1999 No 95 <extref href="DLM38626">s 21</extref></citation>
         </cf>
       </prov>
-      <prov id="DLM189900" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov id="DLM189900" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">10</label>
-        <heading xml:lang="en-NZ">Final report of Board</heading>
+        <heading>Final report of Board</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
+            <para>
               <text>As soon as reasonably practicable after the restructuring day, the chairperson must arrange for a final report of the Board to be completed.</text>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>The report must-</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
+            <para>
+              <text>The report must—</text>
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>contain audited financial statements and an annual report for the financial year ending on 31 July 2003; and</text>
+                <para>
+                  <text>contain audited financial statements and an annual report for the financial year ending on 31 July 2003; and</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>comply with <citation jurisdiction="nz">regulations 18 and 19 of the Hop Marketing Regulations 1939</citation> as if those regulations had not been revoked by this Act.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
-            <para xml:lang="en-NZ">
+            <para>
               <text>The chairperson must send a copy of the report to every producer.</text>
             </para>
           </subprov>
         </prov.body>
         <cf>
-          <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118971" atidlm:branchLabel="_NOVERSION_" atidlm:name="Kiwifruit Industry Restructuring Act 1999" atidlm:xmlId="DLM565343" atidlm:state="UNCHANGED"><atidlm:linkcontent>1999 No 95</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120850" atidlm:sourceXmlId="DLM565343" atidlm:targetKey="168400" atidlm:targetXmlId="DLM38168" atidlm:targetName="Kiwifruit Industry Restructuring Act 1999" atidlm:sourceName="DLM565343" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38168.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[5]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Final report of Board" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="10" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> s <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118972" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 22" atidlm:xmlId="DLM565344" atidlm:state="UNCHANGED"><atidlm:linkcontent>22</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120851" atidlm:sourceXmlId="DLM565344" atidlm:targetKey="169425" atidlm:targetXmlId="DLM38627" atidlm:targetName="prov 22" atidlm:sourceName="DLM565344" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38602.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[5]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Final report of Board" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="10" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>
+          <citation jurisdiction="nz">1999 No 95 <extref href="DLM38627">s 22</extref></citation>
         </cf>
       </prov>
-      <crosshead id="DLM189901" toc="yes" xml:lang="en-NZ">Other matters</crosshead>
-      <prov id="DLM189902" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <crosshead id="DLM189901" toc="yes">Other matters</crosshead>
+      <prov id="DLM189902" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">11</label>
-        <heading xml:lang="en-NZ">Taxation</heading>
+        <heading>Taxation</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
-              <text>The issue by the company of shares on the restructuring day to a person who was a producer on 31 July 2003-</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
+            <para>
+              <text>The issue by the company of shares on the restructuring day to a person who was a producer on 31 July 2003—</text>
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text>is not a dutiable gift for the purposes of the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118973" atidlm:branchLabel="_NOVERSION_" atidlm:name="Estate and Gift Duties Act 1968" atidlm:xmlId="DLM565345" atidlm:state="UNCHANGED"><atidlm:linkcontent>Estate and Gift Duties Act 1968</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120852" atidlm:sourceXmlId="DLM565345" atidlm:targetKey="2487846" atidlm:targetXmlId="DLM385591" atidlm:targetName="Estate and Gift Duties Act 1968" atidlm:sourceName="DLM565345" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM385591.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
+                <para>
+                  <text>is not a dutiable gift for the purposes of the <citation jurisdiction="nz"><leg-title href="DLM385591">Estate and Gift Duties Act 1968</leg-title></citation>; and</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>is not a dividend derived by the person for the purposes of the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118974" atidlm:branchLabel="_NOVERSION_" atidlm:name="Income Tax Act 2004" atidlm:xmlId="DLM565346" atidlm:state="UNCHANGED"><atidlm:linkcontent><insertwords>Income Tax Act 2004</insertwords></atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120853" atidlm:sourceXmlId="DLM565346" atidlm:targetKey="1426408" atidlm:targetXmlId="DLM245341" atidlm:targetName="Income Tax Act 2004" atidlm:sourceName="DLM565346" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM245341.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
+                <para>
+                  <text>is not a dividend derived by the person for the purposes of the <insertwords><citation jurisdiction="nz"><extref href="DLM1512300">Income Tax Act 2007</extref></citation></insertwords>; and</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">c</label>
-                <para xml:lang="en-NZ">
-                  <text>is not otherwise<struckoutwords/> income of the person for the purposes of the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118975" atidlm:branchLabel="_NOVERSION_" atidlm:name="Income Tax Act 2004" atidlm:xmlId="DLM565347" atidlm:state="UNCHANGED"><atidlm:linkcontent><insertwords>Income Tax Act 2004</insertwords></atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120854" atidlm:sourceXmlId="DLM565347" atidlm:targetKey="1426408" atidlm:targetXmlId="DLM245341" atidlm:targetName="Income Tax Act 2004" atidlm:sourceName="DLM565347" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM245341.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                <para>
+                  <text>is not otherwise<struckoutwords/> income of the person for the purposes of the <insertwords><citation jurisdiction="nz"><extref href="DLM1512300">Income Tax Act 2007</extref></citation></insertwords>.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>For the purposes of the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118976" atidlm:branchLabel="_NOVERSION_" atidlm:name="Income Tax Act 2004" atidlm:xmlId="DLM565348" atidlm:state="UNCHANGED"><atidlm:linkcontent><insertwords>Income Tax Act 2004</insertwords></atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120855" atidlm:sourceXmlId="DLM565348" atidlm:targetKey="1426408" atidlm:targetXmlId="DLM245341" atidlm:targetName="Income Tax Act 2004" atidlm:sourceName="DLM565348" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM245341.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, if the company issues shares on the restructuring day to a person who was a producer on 31 July 2003, the person must be treated as having-</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
+            <para>
+              <text>For the purposes of the <insertwords><citation jurisdiction="nz"><extref href="DLM1512300">Income Tax Act 2007</extref></citation></insertwords>, if the company issues shares on the restructuring day to a person who was a producer on 31 July 2003, the person must be treated as having—</text>
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>held those shares at all times before the restructuring day; and</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text>subject to <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118977" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov OD 5" atidlm:xmlId="DLM565349" atidlm:state="UNCHANGED"><atidlm:linkcontent>OD 5(5)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120856" atidlm:sourceXmlId="DLM565349" atidlm:targetKey="1646814" atidlm:targetXmlId="DLM276590" atidlm:targetName="prov OD 5" atidlm:sourceName="DLM565349" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM276584.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118978" atidlm:branchLabel="_NOVERSION_" atidlm:name="Income Tax Act 2004" atidlm:xmlId="DLM565350" atidlm:state="UNCHANGED"><atidlm:linkcontent><insertwords>Income Tax Act 2004</insertwords></atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120857" atidlm:sourceXmlId="DLM565350" atidlm:targetKey="1426408" atidlm:targetXmlId="DLM245341" atidlm:targetName="Income Tax Act 2004" atidlm:sourceName="DLM565350" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM245341.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, held any voting interest or market value interest attributable to those shares at all times before the restructuring day.</text>
+                <para>
+                  <text>subject to <citation jurisdiction="nz"><extref href="DLM1523087">section <insertwords xmlns:atidlm="http://www.arbortext.com/namespace/atidlm">YC 10</insertwords></extref> of the <insertwords>Income Tax Act 2007</insertwords></citation>, held any voting interest or market value interest attributable to those shares at all times before the restructuring day.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
-            <para xml:lang="en-NZ">
-              <text>For the purposes of the definition of <emphasis style="bold">available subscribed capital</emphasis> in <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118979" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov OB 1" atidlm:xmlId="DLM565351" atidlm:state="UNCHANGED"><atidlm:linkcontent>OB 1</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120858" atidlm:sourceXmlId="DLM565351" atidlm:targetKey="1639783" atidlm:targetXmlId="DLM271382" atidlm:targetName="prov OB 1" atidlm:sourceName="DLM565351" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM271381.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118980" atidlm:branchLabel="_NOVERSION_" atidlm:name="Income Tax Act 2004" atidlm:xmlId="DLM565352" atidlm:state="UNCHANGED"><atidlm:linkcontent><insertwords>Income Tax Act 2004</insertwords></atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120859" atidlm:sourceXmlId="DLM565352" atidlm:targetKey="1426408" atidlm:targetXmlId="DLM245341" atidlm:targetName="Income Tax Act 2004" atidlm:sourceName="DLM565352" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM245341.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, the company—</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
+            <para>
+              <text>For the purposes of the definition of <emphasis style="bold">available subscribed capital</emphasis> in <citation jurisdiction="nz"><extref href="DLM1520575">section <insertwords xmlns:atidlm="http://www.arbortext.com/namespace/atidlm">YA 1</insertwords></extref> of the <insertwords>Income Tax Act 2007</insertwords></citation>, the company—</text>
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>must be treated as having received on the restructuring day an amount of $160,000 for the issue of ordinary shares on the restructuring day to producers; and</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
+                <para>
                   <text>must not be treated as having received any other amount of consideration for the issue of shares to producers on the restructuring day.</text>
                 </para>
               </label-para>
@@ -467,162 +475,162 @@
           </subprov>
         </prov.body>
         <cf>
-          <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118981" atidlm:branchLabel="_NOVERSION_" atidlm:name="Kiwifruit Industry Restructuring Act 1999" atidlm:xmlId="DLM565353" atidlm:state="UNCHANGED"><atidlm:linkcontent>1999 No 95</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120860" atidlm:sourceXmlId="DLM565353" atidlm:targetKey="168400" atidlm:targetXmlId="DLM38168" atidlm:targetName="Kiwifruit Industry Restructuring Act 1999" atidlm:sourceName="DLM565353" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38168.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> s <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118982" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 23" atidlm:xmlId="DLM565354" atidlm:state="UNCHANGED"><atidlm:linkcontent>23(1)-(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120861" atidlm:sourceXmlId="DLM565354" atidlm:targetKey="169428" atidlm:targetXmlId="DLM38630" atidlm:targetName="prov 23" atidlm:sourceName="DLM565354" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38602.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>
+          <citation jurisdiction="nz">1999 No 95 <extref href="DLM38630">s 23(1)–(3)</extref></citation>
         </cf>
         <notes>
           <history>
-            <history-note id="DLM189903">Subsection <amended-provision>(1)(c)</amended-provision> was <amending-operation>amended</amending-operation>, as from <amendment-date>1 April 2005</amendment-date>, by section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118983" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov YA 2" atidlm:xmlId="DLM565355" atidlm:state="UNCHANGED"><atidlm:linkcontent>YA 2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="120862" atidlm:sourceXmlId="DLM565355" atidlm:targetKey="1648402" atidlm:targetXmlId="DLM277147" atidlm:targetName="prov YA 2" atidlm:sourceName="DLM565355" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM277144.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]/notes[1]/history[1]/history-note[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> <amending-leg>Income Tax Act 2004</amending-leg> (2004 No 35) <amending-instruction>by omitting the word <quote.in>gross</quote.in></amending-instruction>.</history-note>
-            <history-note id="DLM189904">Section <amended-provision>11</amended-provision> was <amending-operation>amended</amending-operation>, as from <amendment-date>1 April 2005</amendment-date>, by section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118984" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov YA 2" atidlm:xmlId="DLM565356" atidlm:state="UNCHANGED"><atidlm:linkcontent>YA 2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="120863" atidlm:sourceXmlId="DLM565356" atidlm:targetKey="1648402" atidlm:targetXmlId="DLM277147" atidlm:targetName="prov YA 2" atidlm:sourceName="DLM565356" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM277144.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[6]/notes[1]/history[1]/history-note[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> <amending-leg>Income Tax Act 2004</amending-leg> (2004 No 35) <amending-instruction>by substituting the words <quote.in>Income Tax Act 2004</quote.in> for the words <quote.in>Income Tax Act 1994</quote.in></amending-instruction> in all places in which they appear.</history-note>
+            <history-note id="DLM1253201"><amended-provision>Section 11(1)(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008</amendment-date> (effective for 2008–09 income year and later income years, except when the context requires otherwise), by <citation jurisdiction="nz"><extref href="DLM1523176">section ZA 2(1)</extref></citation> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
+            <history-note id="DLM1253202"><amended-provision>Section 11(1)(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008</amendment-date> (effective for 2008–09 income year and later income years, except when the context requires otherwise), by <citation jurisdiction="nz"><extref href="DLM1523176">section ZA 2(1)</extref></citation> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
+            <history-note id="DLM189903"><amended-provision>Section 11(1)(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2005</amendment-date> (effective for 2005–06 tax year and later tax years, except when the context requires otherwise), by <amending-provision href="DLM277147">section YA 2</amending-provision> of the <amending-leg>Income Tax Act 2004</amending-leg> (2004 No 35).</history-note>
+            <history-note id="DLM1253203"><amended-provision>Section 11(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008</amendment-date> (effective for 2008–09 income year and later income years, except when the context requires otherwise), by <citation jurisdiction="nz"><extref href="DLM1523176">section ZA 2(1)</extref></citation> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
+            <history-note id="DLM1253204"><amended-provision>Section 11(2)(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008</amendment-date> (effective for 2008–09 income year and later income years, except when the context requires otherwise), by <citation jurisdiction="nz"><extref href="DLM1523176">section ZA 2(1)</extref></citation> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
+            <history-note id="DLM1253205"><amended-provision>Section 11(3)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008</amendment-date> (effective for 2008–09 income year and later income years, except when the context requires otherwise), by <citation jurisdiction="nz"><extref href="DLM1523176">section ZA 2(1)</extref></citation> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
           </history>
         </notes>
       </prov>
-      <prov id="DLM189905" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov id="DLM189905" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">12</label>
-        <heading xml:lang="en-NZ">Consequential amendments</heading>
+        <heading>Consequential amendments</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
-              <text><citation jurisdiction="nz">Schedule <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118985" atidlm:branchLabel="_NOVERSION_" atidlm:name="schedule 1 Organisations (additional to those named in Part 1 or Part 2 of Schedule 1 to the Ombudsmen Act 1975) to which this Act applies" atidlm:xmlId="DLM565357" atidlm:state="UNCHANGED"><atidlm:linkcontent>1</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120864" atidlm:sourceXmlId="DLM565357" atidlm:targetKey="377600" atidlm:targetXmlId="DLM65921" atidlm:targetName="schedule 1 Organisations (additional to those named in Part 1 or Part 2 of Schedule 1 to the Ombudsmen Act 1975) to which this Act applies" atidlm:sourceName="DLM565357" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM65921.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Consequential amendments" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="12" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118986" atidlm:branchLabel="_NOVERSION_" atidlm:name="Official Information Act 1982" atidlm:xmlId="DLM565358" atidlm:state="UNCHANGED"><atidlm:linkcontent>Official Information Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120865" atidlm:sourceXmlId="DLM565358" atidlm:targetKey="371800" atidlm:targetXmlId="DLM64784" atidlm:targetName="Official Information Act 1982" atidlm:sourceName="DLM565358" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM64784.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Consequential amendments" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="12" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> is amended by omitting the item relating to the New Zealand Hop Marketing Board.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text><citation jurisdiction="nz">Section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118987" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 8" atidlm:xmlId="DLM565359" atidlm:state="UNCHANGED"><atidlm:linkcontent>8</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120866" atidlm:sourceXmlId="DLM565359" atidlm:targetKey="1612243" atidlm:targetXmlId="DLM230199" atidlm:targetName="prov 8" atidlm:sourceName="DLM565359" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM230187.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Consequential amendments" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="12" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118988" atidlm:branchLabel="_NOVERSION_" atidlm:name="Finance Act 1941" atidlm:xmlId="DLM565360" atidlm:state="UNCHANGED"><atidlm:linkcontent>Finance Act 1941</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120867" atidlm:sourceXmlId="DLM565360" atidlm:targetKey="1612227" atidlm:targetXmlId="DLM230187" atidlm:targetName="Finance Act 1941" atidlm:sourceName="DLM565360" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM230187.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Consequential amendments" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="12" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> (1941 No 1)</citation> is repealed.</text>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text><emphasis style="italic">Amendment(s) incorporated in the Act(s)</emphasis>.</text>
             </para>
           </subprov>
         </prov.body>
       </prov>
-      <prov id="DLM189906" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov id="DLM189906" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">13</label>
-        <heading xml:lang="en-NZ">Repeals and revocation</heading>
+        <heading>Repeals and revocation</heading>
         <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
+            <para>
               <text>The following Acts are repealed:</text>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
-                <para xml:lang="en-NZ">
-                  <text><citation jurisdiction="nz">Agriculture (Emergency Powers) Act 1934 (1934 No 34)</citation>:</text>
+                <para>
+                  <text><citation jurisdiction="nz">Agriculture (Emergency Powers) Act 1934 (1934 No 34)</citation>:</text>
                 </para>
               </label-para>
-              <label-para skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
-                <para xml:lang="en-NZ">
-                  <text><citation jurisdiction="nz">Marketing Act 1936 (1936 No 5)</citation>.</text>
+                <para>
+                  <text><citation jurisdiction="nz">Marketing Act 1936 (1936 No 5)</citation>.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>The <citation jurisdiction="nz">Hop Marketing Regulations 1939 (SR 1939/96)</citation> are revoked.</text>
+            <para>
+              <text>The <citation jurisdiction="nz">Hop Marketing Regulations 1939 (SR 1939/96)</citation> are revoked.</text>
             </para>
           </subprov>
         </prov.body>
       </prov>
     </part>
   </body>
-  <schedule.group xml:lang="en-NZ">
-    <schedule id="DLM189907" in.amend="false" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" irdnumbering="no" act.no="16" act.type="public" date.as.at="2007-09-03" date.assent="2003-04-09" date.first.valid="2007-09-03" stage="reprint" year="2003">
-      <label auto.number="no" denominator="no">Schedule</label>
+  <schedule.group>
+    <schedule id="DLM189907" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="16" act.type="public" date.as.at="2008-04-01" date.assent="2003-04-09" date.first.valid="2003-04-10" stage="reprint" year="2003" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes"/>
       <empowering-prov>
-        <citation jurisdiction="nz">s <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118989" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 9" atidlm:parentFolderId="/NZ/NZAct/H/Hop Industry Restructuring Act 2003" atidlm:xmlId="DLM565361" atidlm:state="UNCHANGED"><atidlm:linkcontent>9(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120868" atidlm:sourceXmlId="DLM565361" atidlm:targetKey="1093409" atidlm:targetXmlId="DLM189299" atidlm:targetName="prov 9" atidlm:sourceName="DLM565361" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189907.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Provisions relating to restructuring of Board" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="Schedule" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>
+        <citation jurisdiction="nz">
+          <intref href="DLM189299">s 9(3)</intref>
+        </citation>
       </empowering-prov>
-      <heading xml:lang="en-NZ">Provisions relating to restructuring of Board</heading>
-      <schedule.misc>
-        <prov id="DLM189908" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <heading>Provisions relating to restructuring of Board</heading>
+      <schedule.provisions>
+        <prov id="DLM189908" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">1</label>
-          <heading xml:lang="en-NZ">Consequential provisions on restructuring as company</heading>
+          <heading>Consequential provisions on restructuring as company</heading>
           <prov.body>
-            <subprov skeleton="no" xml:lang="en-NZ">
+            <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
-              <para xml:lang="en-NZ">
-                <text>Without limiting the generality of <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118990" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 9" atidlm:xmlId="DLM565362" atidlm:state="UNCHANGED"><atidlm:linkcontent>9</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120869" atidlm:sourceXmlId="DLM565362" atidlm:targetKey="1093409" atidlm:targetXmlId="DLM189299" atidlm:targetName="prov 9" atidlm:sourceName="DLM565362" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189294.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189907.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]/schedule.misc[1]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Consequential provisions on restructuring as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="1" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, the following provisions have effect on and after the restructuring day:</text>
-                <label-para skeleton="no" xml:lang="en-NZ">
+              <para>
+                <text>Without limiting the generality of <citation jurisdiction="nz"><intref href="DLM189299">section 9</intref></citation>, the following provisions have effect on and after the restructuring day:</text>
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>a reference (whether express or implied) to the Board in any instrument must be read and construed as a reference to the company:</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>all money payable to the Board is payable to the company:</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">c</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>proceedings that could have been commenced or continued by or against the Board before its conversion may be commenced or continued by or against the company:</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">d</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>the deemed registration of the company does not affect any rights, interests, liabilities, or obligations existing immediately before the conversion of the Board:</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">e</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>all transactions entered into by, and acts of, the Board before its conversion must be treated as having been entered into by, or to be those of the company, at the time when they were entered into or performed by the Board:</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">f</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>all contracts, agreements, conveyances, deeds, leases, licences, and other instruments, undertakings, and notices (whether or not in writing) entered into by, made by, given to or by, or addressed to the Board (whether alone or with any other person) existing immediately before the restructuring day are, to the extent that they were previously binding on and enforceable by, against, or in favour of the Board, binding on and enforceable by, against, or in favour of the company.</text>
                   </para>
                 </label-para>
               </para>
             </subprov>
-            <subprov skeleton="no" xml:lang="en-NZ">
+            <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
-              <para xml:lang="en-NZ">
-                <text><citation jurisdiction="nz">Subclause <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118991" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 1" atidlm:xmlId="DLM565363" atidlm:state="UNCHANGED"><atidlm:linkcontent>(1)(f)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120870" atidlm:sourceXmlId="DLM565363" atidlm:targetKey="1094000" atidlm:targetXmlId="DLM189908" atidlm:targetName="prov 1" atidlm:sourceName="DLM565363" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189907.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189907.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]/schedule.misc[1]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Consequential provisions on restructuring as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="1" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> applies as if the company, instead of the Board, had been the person by whom the contract, agreement, conveyance, deed, lease, instrument, or undertaking was entered into, made, given, or addressed (as the case may be).</text>
+              <para>
+                <text>Subclause (1)(f) applies as if the company, instead of the Board, had been the person by whom the contract, agreement, conveyance, deed, lease, instrument, or undertaking was entered into, made, given, or addressed (as the case may be).</text>
               </para>
             </subprov>
           </prov.body>
         </prov>
-        <prov id="DLM189909" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <prov id="DLM189909" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">2</label>
-          <heading xml:lang="en-NZ">Certain matters not affected by transfer to company</heading>
+          <heading>Certain matters not affected by transfer to company</heading>
           <prov.body>
-            <subprov skeleton="no" xml:lang="en-NZ">
+            <subprov skeleton="no">
               <label auto.number="no" denominator="no"/>
-              <para xml:lang="en-NZ">
-                <text>Nothing effected or authorised by this Act-</text>
-                <label-para skeleton="no" xml:lang="en-NZ">
+              <para>
+                <text>Nothing effected or authorised by this Act—</text>
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>must be regarded as placing the Board or the company, or any other person, in breach of contract or confidence or as otherwise making any of them liable of a civil wrong; or</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>must be regarded as giving rise to a right for any person to terminate or cancel a contract or arrangement, or to accelerate the performance of any obligation; or</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">c</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>must be regarded as placing the Board or the company, or any other person, in breach of an enactment, rule of law, or contractual provision prohibiting, restricting, or regulating the assignment or transfer of property or the disclosure of information; or</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">d</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>releases a surety wholly or in part from any obligation; or</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">e</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>invalidates or discharges any contract.</text>
                   </para>
                 </label-para>
@@ -630,85 +638,260 @@
             </subprov>
           </prov.body>
         </prov>
-        <prov id="DLM189910" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <prov id="DLM189910" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">3</label>
-          <heading xml:lang="en-NZ">Initial directors of company</heading>
+          <heading>Initial directors of company</heading>
           <prov.body>
-            <subprov skeleton="no" xml:lang="en-NZ">
+            <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
-              <para xml:lang="en-NZ">
+              <para>
                 <text>The initial directors of the company are the existing members of the Board who consent to be directors of the company.</text>
               </para>
             </subprov>
-            <subprov skeleton="no" xml:lang="en-NZ">
+            <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
-              <para xml:lang="en-NZ">
-                <text>The term of office of an initial director expires on the date on which the director's term on the Board would have expired had the Board not converted into the company.</text>
+              <para>
+                <text>The term of office of an initial director expires on the date on which the director’s term on the Board would have expired had the Board not converted into the company.</text>
               </para>
             </subprov>
           </prov.body>
         </prov>
-        <prov id="DLM189911" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <prov id="DLM189911" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">4</label>
-          <heading xml:lang="en-NZ">Employees of Board</heading>
+          <heading>Employees of Board</heading>
           <prov.body>
-            <subprov skeleton="no" xml:lang="en-NZ">
+            <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
-              <para xml:lang="en-NZ">
+              <para>
                 <text>Despite any other provision of this Act,—</text>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>on the restructuring day every person who is employed by the Board must be treated as having transferred to the company; and</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
-                  <para xml:lang="en-NZ">
+                  <para>
                     <text>for the purposes of every enactment, award, determination, contract, or agreement, the person's transfer from the Board to the company is insufficient to break the person's employment agreement.</text>
                   </para>
                 </label-para>
               </para>
             </subprov>
-            <subprov skeleton="no" xml:lang="en-NZ">
+            <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
-              <para xml:lang="en-NZ">
+              <para>
                 <text>The terms and conditions of employment of a transferred employee with the company on the restructuring day (and after that until varied) are identical to the terms and conditions of his or her employment with the Board immediately before the restructuring day and are capable of variation in the same manner.</text>
               </para>
             </subprov>
-            <subprov skeleton="no" xml:lang="en-NZ">
+            <subprov skeleton="no">
               <label auto.number="no" denominator="yes">3</label>
-              <para xml:lang="en-NZ">
+              <para>
                 <text>A transferred employee is not entitled to receive any payment or other benefit solely because the person has, by virtue of this Act, ceased to be an employee of the Board and become an employee of the company.</text>
               </para>
             </subprov>
           </prov.body>
           <cf>
-            <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118992" atidlm:branchLabel="_NOVERSION_" atidlm:name="Kiwifruit Industry Restructuring Act 1999" atidlm:xmlId="DLM565364" atidlm:state="UNCHANGED"><atidlm:linkcontent>1999 No 95</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="120871" atidlm:sourceXmlId="DLM565364" atidlm:targetKey="168400" atidlm:targetXmlId="DLM38168" atidlm:targetName="Kiwifruit Industry Restructuring Act 1999" atidlm:sourceName="DLM565364" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38168.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189907.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]/schedule.misc[1]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Employees of Board" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="4" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> Schedule cls <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118993" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 1" atidlm:xmlId="DLM565365" atidlm:state="UNCHANGED"><atidlm:linkcontent>1-3</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120872" atidlm:sourceXmlId="DLM565365" atidlm:targetKey="170801" atidlm:targetXmlId="DLM38649" atidlm:targetName="prov 1" atidlm:sourceName="DLM565365" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38648.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189907.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]/schedule.misc[1]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Employees of Board" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="4" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link>, <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="118994" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 5" atidlm:xmlId="DLM565366" atidlm:state="UNCHANGED"><atidlm:linkcontent>5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="120873" atidlm:sourceXmlId="DLM565366" atidlm:targetKey="170805" atidlm:targetXmlId="DLM38653" atidlm:targetName="prov 5" atidlm:sourceName="DLM565366" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM38648.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM189907.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/schedule.group[1]/schedule[1]/schedule.misc[1]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Employees of Board" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="4" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM189264" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Hop Industry Restructuring Act 2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2003" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>
+            <citation jurisdiction="nz">1999 No 95 Schedule <extref href="DLM38649">cls 1–3</extref>, <extref href="DLM38653">5</extref></citation>
           </cf>
         </prov>
-      </schedule.misc>
+      </schedule.provisions>
     </schedule>
   </schedule.group>
-  <end id="DLM189912" xml:lang="en-NZ">
-    <leg-history id="DLM189913">
-      <heading xml:lang="en-NZ">Legislative history</heading>
-      <history-item>
-        <date>14 March 2002</date>
-        <description>Introduction (Bill 206-1)</description>
-      </history-item>
-      <history-item>
-        <date>1 October 2002</date>
-        <description>First reading and referral to Primary Production Committee</description>
-      </history-item>
-      <history-item>
-        <date>4 December 2002</date>
-        <description>Reported from Primary Production Committee (Bill 206-2)</description>
-      </history-item>
-      <history-item>
-        <date>1 April 2003</date>
-        <description>Second reading, third reading</description>
-      </history-item>
-    </leg-history>
+  <end id="DLM2228909">
+    <end.reprint-note id="DLM2228910">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the Hop Industry Restructuring Act 2003. The reprint incorporates all the amendments to the Act as at 1 April 2008, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/legislation/reprints.shtml.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the <emphasis style="italic">Tables of Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz">Income Tax Act 2007 (2007 No 97): <extref href="DLM1523176">section ZA 2(1)</extref></citation>
+          </reprint.amend>
+          <reprint.amend>
+            <citation jurisdiction="nz">Income Tax Act 2004 (2004 No 35): <amending-provision href="DLM277147">section YA 2</amending-provision></citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
   </end>
 </act>
