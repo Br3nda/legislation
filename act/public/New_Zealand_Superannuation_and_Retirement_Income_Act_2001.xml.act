@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM113923" in.amend="false" instructing.office="Social Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+<act id="DLM113923" in.amend="false" instructing.office="Social Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
   <cover id="DLM113924">
-    <reprint-date>2010-04-01</reprint-date>
+    <reprint-date>2010-05-28</reprint-date>
     <title>New Zealand Superannuation and Retirement Income Act 2001</title>
     <title.former>New Zealand Superannuation Act 2001</title.former>
     <assent>2001-10-11</assent>
@@ -312,7 +312,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM113985" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" stage="reprint" year="2001">
+    <part id="DLM113985" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" stage="reprint" year="2001" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Entitlements to New Zealand superannuation</heading>
       <crosshead id="DLM113986" toc="yes">Standard New Zealand superannuation entitlements</crosshead>
@@ -713,7 +713,7 @@
               <text>In this section,—</text>
               <def-para id="DLM114208">
                 <para>
-                  <text><def-term id="DLM114209">CPI</def-term> means the consumers price index-all groups published by the Department of Statistics</text>
+                  <text><def-term id="DLM114209">CPI</def-term> means the consumers price index-all groups published by <insertwords>Statistics New Zealand</insertwords></text>
                 </para>
               </def-para>
               <def-para id="DLM114213">
@@ -727,6 +727,24 @@
             <label auto.number="no" denominator="yes">2</label>
             <para>
               <text>Subject to subsection (3), the rates of New Zealand superannuation stated in paragraphs (a), (b), and (c) of clause 1 and <citation jurisdiction="nz">paragraph (b) of clause 2 of <intref href="DLM115004">Schedule 1</intref></citation> must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December one year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2A</label>
+            <para>
+              <text>The adjustments (by any percentage movement upwards in the CPI) required under subsection (2) as at 1 April 2011, 1 April 2012, and 1 April 2013 must, despite subsections (1) and (2), be calculated,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.</text>
+                </para>
+              </label-para>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -782,8 +800,10 @@
             <amends-text>Order deemed expired on close of 22 February 2011 unless confirmed prior to that date.</amends-text>
           </amends-note>
           <history>
+            <history-note id="DLM3022103"><amended-provision>Section 15(1)</amended-provision><emphasis style="bold">CPI</emphasis>: <amending-operation>amended</amending-operation> (with effect on 20 May 2010), on <amendment-date>28 May 2010</amendment-date>, by <amending-provision href="DLM2988606">section 3(1)</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2010</amending-leg> (2010 No 32).</history-note>
             <history-note id="DLM114212"><amended-provision>Section 15(1)</amended-provision><emphasis style="bold">earner premium</emphasis>: <amending-operation>repealed</amending-operation>, on <amendment-date>11 May 2005</amendment-date>, by <amending-provision href="DLM347257">section 63(2)</amending-provision> of the <amending-leg>Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005</amending-leg> (2005 No 45).</history-note>
             <history-note id="DLM1261511"><amended-provision>Section 15(1)</amended-provision><emphasis style="bold">standard tax</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008 (effective for 2008–09 income year and later)</amendment-date>, by <amending-provision href="DLM1523176">section ZA 2(1)</amending-provision> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
+            <history-note id="DLM3022104"><amended-provision>Section 15(2A)</amended-provision>: <amending-operation>inserted</amending-operation> (with effect on 20 May 2010), on <amendment-date>28 May 2010</amendment-date>, by <amending-provision href="DLM2988606">section 3(2)</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2010</amending-leg> (2010 No 32).</history-note>
           </history>
         </notes>
       </prov>
@@ -2010,7 +2030,7 @@
         </notes>
       </prov>
     </part>
-    <part id="DLM114280" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" stage="reprint" year="2001">
+    <part id="DLM114280" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" stage="reprint" year="2001" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <heading>New Zealand Superannuation Fund</heading>
       <prov id="DLM114281" irdnumbering="no" skeleton="no" toc="yes">
@@ -3305,7 +3325,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM114859" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" stage="reprint" year="2001">
+    <part id="DLM114859" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" stage="reprint" year="2001" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Miscellaneous provisions</heading>
       <crosshead id="DLM114860" toc="yes">Political commitment to New Zealand superannuation</crosshead>
@@ -3515,7 +3535,7 @@
         </cf>
       </prov>
     </part>
-    <part id="DLM114879" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" stage="reprint" year="2001">
+    <part id="DLM114879" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" stage="reprint" year="2001" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">4</label>
       <heading>Retirement Commissioner</heading>
       <notes>
@@ -3871,7 +3891,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule id="DLM115004" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115004" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <empowering-prov>
         <citation jurisdiction="nz"><intref href="DLM113994">ss 12</intref>, <intref href="DLM114237">19</intref>, <intref href="DLM114246">20</intref>, <intref href="DLM114259">26</intref>, <intref href="DLM114271">32</intref></citation>
@@ -4065,7 +4085,7 @@
         </para>
       </schedule.misc>
     </schedule>
-    <schedule id="DLM115022" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115022" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -4142,7 +4162,7 @@
         </para>
       </schedule.misc>
     </schedule>
-    <schedule id="DLM115023" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115023" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">3</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -4929,7 +4949,7 @@
         </prov>
       </schedule.provisions>
     </schedule>
-    <schedule id="DLM115453" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115453" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">4</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -4996,7 +5016,7 @@
         </head1>
       </schedule.misc>
     </schedule>
-    <schedule id="DLM115462" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115462" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">5</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -5129,7 +5149,7 @@
         </schedule.amendments.group2>
       </schedule.amendments>
     </schedule>
-    <schedule id="DLM115485" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115485" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-05-28" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">6</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -5234,7 +5254,7 @@
           <label auto.number="no" denominator="yes">1</label>
           <heading>General</heading>
           <para>
-            <text>This is a reprint of the New Zealand Superannuation and Retirement Income Act 2001. The reprint incorporates all the amendments to the Act as at 1 April 2010, as specified in the list of amendments at the end of these notes.</text>
+            <text>This is a reprint of the New Zealand Superannuation and Retirement Income Act 2001. The reprint incorporates all the amendments to the Act as at 28 May 2010, as specified in the list of amendments at the end of these notes.</text>
           </para>
           <para>
             <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
@@ -5375,6 +5395,9 @@
         <reprint.note>
           <label auto.number="no" denominator="yes">5</label>
           <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM2988600">New Zealand Superannuation and Retirement Income Amendment Act 2010</extref> (2010 No 32)</citation>
+          </reprint.amend>
           <reprint.amend>
             <citation jurisdiction="nz">Social Security (Rates of Benefits and Allowances) Order 2010 (SR 2010/21): <extref href="DLM2748917">clauses 5</extref>, <extref href="DLM2748902">6</extref></citation>
           </reprint.amend>
