@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM113923" in.amend="false" instructing.office="Social Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+<act id="DLM113923" in.amend="false" instructing.office="Social Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
   <cover id="DLM113924">
-    <reprint-date>2010-03-03</reprint-date>
+    <reprint-date>2009-04-01</reprint-date>
     <title>New Zealand Superannuation and Retirement Income Act 2001</title>
     <title.former>New Zealand Superannuation Act 2001</title.former>
     <assent>2001-10-11</assent>
@@ -312,7 +312,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM113985" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" stage="reprint" year="2001">
+    <part id="DLM113985" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Entitlements to New Zealand superannuation</heading>
       <crosshead id="DLM113986" toc="yes">Standard New Zealand superannuation entitlements</crosshead>
@@ -770,17 +770,6 @@
           <citation jurisdiction="nz">1990 No 26 <extref href="DLM204150">s 13A(1), (2), (3)(d), (3A), (4), (5)</extref></citation>
         </cf>
         <notes>
-          <amends-note>
-            <amends-effective>
-              <date>2011-02-23</date>
-            </amends-effective>
-            <amends-affect>
-              <citation jurisdiction="nz">
-                <extref href="DLM2748957">Social Security (Rates of Benefits and Allowances) Order 2010</extref>
-              </citation>
-            </amends-affect>
-            <amends-text>Order deemed expired on close of 22 February 2011 unless confirmed prior to that date.</amends-text>
-          </amends-note>
           <history>
             <history-note id="DLM114212"><amended-provision>Section 15(1)</amended-provision><emphasis style="bold">earner premium</emphasis>: <amending-operation>repealed</amending-operation>, on <amendment-date>11 May 2005</amendment-date>, by <amending-provision href="DLM347257">section 63(2)</amending-provision> of the <amending-leg>Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005</amending-leg> (2005 No 45).</history-note>
             <history-note id="DLM1261511"><amended-provision>Section 15(1)</amended-provision><emphasis style="bold">standard tax</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008 (effective for 2008–09 income year and later)</amendment-date>, by <amending-provision href="DLM1523176">section ZA 2(1)</amending-provision> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
@@ -818,7 +807,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>In this section, <def-term id="DLM114217">earner levies</def-term> means the levies payable under <citation jurisdiction="nz"><extref href="DLM102835">section 219(1)</extref><struckoutwords/> of the Injury Prevention, Rehabilitation, and Compensation Act 2001</citation>.</text>
+              <text>In this section, <def-term id="DLM114217">earner levies</def-term> means the levies payable under <citation jurisdiction="nz"><extref href="DLM102835">section 219(1) and (2)</extref> of the Injury Prevention, Rehabilitation, and Compensation Act 2001</citation>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -833,7 +822,6 @@
             <history-note id="DLM1979732"><amended-provision>Section 16(1)(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
             <history-note id="DLM1979734"><amended-provision>Section 16(1)(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
             <history-note id="DLM114221"><amended-provision>Section 16(2)</amended-provision>: <amending-operation>added</amending-operation>, on <amendment-date>11 May 2005</amendment-date>, by <amending-provision href="DLM347257">section 63(4)</amending-provision> of the <amending-leg>Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005</amending-leg> (2005 No 45).</history-note>
-            <history-note id="DLM2793502"><amended-provision>Section 16(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>3 March 2010</amendment-date>, by <amending-provision href="DLM2417572">section 49</amending-provision> of the <amending-leg>Accident Compensation Amendment Act 2010</amending-leg> (2010 No 1).</history-note>
           </history>
         </notes>
       </prov>
@@ -1111,18 +1099,13 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="no"/>
             <para>
-              <text>A person is not entitled to New Zealand superannuation while that person is absent from New Zealand except as provided in <citation jurisdiction="nz"><intref href="DLM114252">sections 22 to <insertwords xmlns:atidlm="http://www.arbortext.com/namespace/atidlm">35</insertwords></intref></citation> or in any agreement or convention adopted under <citation jurisdiction="nz"><extref href="DLM204446">section 19</extref> of the Social Welfare (Transitional Provisions) Act 1990</citation>.</text>
+              <text>A person is not entitled to New Zealand superannuation while that person is absent from New Zealand except as provided in <citation jurisdiction="nz"><intref href="DLM114252">sections 22 to 29</intref></citation> or in any agreement or convention adopted under <citation jurisdiction="nz"><extref href="DLM204446">section 19</extref> of the Social Welfare (Transitional Provisions) Act 1990</citation>.</text>
             </para>
           </subprov>
         </prov.body>
         <cf>
           <citation jurisdiction="nz">1990 No 26 <extref href="DLM204190">s 17A(1)</extref></citation>
         </cf>
-        <notes>
-          <history>
-            <history-note id="DLM2686338"><amended-provision>Section 21</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609411">section 4</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
-          </history>
-        </notes>
       </prov>
       <prov id="DLM114252" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">22</label>
@@ -1131,7 +1114,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="no"/>
             <para>
-              <text>New Zealand superannuation that would otherwise be payable to a person <insertwords>(other than a person who is receiving New Zealand superannuation overseas under <citation jurisdiction="nz"><intref href="DLM114259">section 26</intref></citation>)</insertwords> is payable in respect of the first 26 weeks of any absence from New Zealand if—</text>
+              <text>New Zealand superannuation that would otherwise be payable to a person is payable in respect of the first 26 weeks of any absence from New Zealand if—</text>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
@@ -1150,11 +1133,6 @@
         <cf>
           <citation jurisdiction="nz">1990 No 26 <extref href="DLM204190">s 17A(2)</extref></citation>
         </cf>
-        <notes>
-          <history>
-            <history-note id="DLM2686339"><amended-provision>Section 22</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609412">section 5</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
-          </history>
-        </notes>
       </prov>
       <prov id="DLM114253" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">23</label>
@@ -1255,311 +1233,41 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>This subsection—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under <citation jurisdiction="nz"><extref href="DLM204446">section 19</extref> of the Social Welfare (Transitional Provisions) Act 1990</citation>, that relates to New Zealand superannuation; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>applies to a person if he or she has left New Zealand at a time when he or she was—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">i</label>
-                    <para>
-                      <text>intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which this subsection applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of <citation jurisdiction="nz"><intref href="DLM114268">section 30(1)</intref></citation>); or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">ii</label>
-                    <para>
-                      <text>intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
+              <text>A person who is entitled to receive New Zealand superannuation and who leaves New Zealand to reside in a country with which New Zealand has no agreement relating to reciprocity of social security monetary benefits is entitled, while residing in that country, to be paid 50% of the gross rate of New Zealand superannuation (excluding any living alone payment), as the case may be, that he or she would be entitled to receive if he or she resided in New Zealand.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>A person to whom subsection (1) applies is entitled to be paid New Zealand superannuation at the appropriate rate specified in subsection (6)—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>in the case of a person who has left New Zealand at a time when he or she was intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which subsection (1) applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of <citation jurisdiction="nz"><intref href="DLM114268">section 30(1)</intref></citation>), until he or she—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">i</label>
-                    <para>
-                      <text>begins to reside in a country that is not a country to which subsection (1) applies; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">ii</label>
-                    <para>
-                      <text>begins to reside in New Zealand again; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">iii</label>
-                    <para>
-                      <text>begins to receive New Zealand superannuation otherwise than under this section; and</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>in the case of a person who has left New Zealand at a time when he or she was intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand, until he or she—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">i</label>
-                    <para>
-                      <text>begins to reside in a country that is not a country to which subsection (1) applies; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">ii</label>
-                    <para>
-                      <text>returns to New Zealand.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
+              <text>However, if a <insertwords>person who is married or in a civil union <insertwords>or in a de facto relationship</insertwords> and</insertwords> whose spouse <insertwords>or partner</insertwords> is not entitled to receive New Zealand superannuation has made or is entitled to make an election under <citation jurisdiction="nz"><intref href="DLM113994">section 12</intref></citation>, that <insertwords>person who is married or in a civil union</insertwords> <insertwords>or in a de facto relationship</insertwords> is only entitled to be paid under this section 50% of the gross rate payable under <citation jurisdiction="nz">clause 1(c) of <intref href="DLM115004">Schedule 1</intref></citation>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
             <para>
-              <text>For the purposes only of subsection (2)(b)(ii), a person does not return to New Zealand if—</text>
+              <text>A person is not entitled to receive payment overseas under this section unless,—</text>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
-                  <text>he or she—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">i</label>
-                    <para>
-                      <text>interrupts his or her overseas travel, and travels to and stays briefly in New Zealand, in order to attend an event (for example, a wedding or funeral) or to visit a person (for example, a sick or injured family member); and then</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">ii</label>
-                    <para>
-                      <text>resumes his or her overseas travel; and</text>
-                    </para>
-                  </label-para>
+                  <text>on the date of application for the payment, he or she is ordinarily resident and present in New Zealand and is on that date entitled to receive New Zealand superannuation or will be so entitled before leaving New Zealand; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
                 <para>
-                  <text>he or she does not while in New Zealand begin to receive New Zealand superannuation otherwise than under this section.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">4</label>
-            <para>
-              <text>Except to the extent provided by paragraphs (a)(i) and (b)(i) of subsection (2), a person does not cease to be entitled to be paid New Zealand superannuation under that subsection by reason only of changing his or her intentions after leaving New Zealand.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">5</label>
-            <para>
-              <text>Subsection (4) is for the avoidance of doubt.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">6</label>
-            <para>
-              <text>The rates referred to in subsection (2) are,—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>for a single person, a rate that is a proportion (calculated under <citation jurisdiction="nz"><intref href="DLM2686309">section 26A(1)</intref></citation>) of the amount stated in <citation jurisdiction="nz">clause 1(b) of <intref href="DLM115004">Schedule 1</intref></citation>:</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>for a person who is married or in a civil union or in a de facto relationship, a rate that is a proportion (calculated under <citation jurisdiction="nz"><intref href="DLM2686309">subsection 26A(1)</intref></citation>) of the amount stated in clause 1(c) of that schedule.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">7</label>
-            <para>
-              <text>This section is subject to <citation jurisdiction="nz"><intref href="DLM2686310">section 26B</intref></citation>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2686340"><amended-provision>Section 26</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609413">section 6</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2686309" irdnumbering="no" skeleton="no" toc="yes">
-        <label auto.number="no" denominator="yes">26A</label>
-        <heading>Calculation of amount of New Zealand superannuation payable overseas</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>The proportion referred to in <citation jurisdiction="nz"><intref href="DLM114259">section 26(6)</intref></citation> is to be calculated by—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>treating each period during which the person concerned has resided in New Zealand while aged 20 or more and less than 65 as whole calendar months and (where applicable) additional days; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>adding the number of additional days (if any), dividing the total by 30, and disregarding any remainder; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">c</label>
-                <para>
-                  <text>adding the number of calendar months and the quotient calculated under paragraph (b); and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">d</label>
-                <para>
-                  <text>dividing by 540 the total calculated under paragraph (c).</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>In the determination for the purposes of subsection (1) of the periods during which a person has resided in New Zealand, no account is to be taken of—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>any period of absence from New Zealand of a kind described in <citation jurisdiction="nz"><intref href="DLM113990">section 9(1)</intref></citation>; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>any period of absence from New Zealand—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">i</label>
-                    <para>
-                      <text>while the person was engaged in missionary work as a member of, or on behalf of, any religious body; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">ii</label>
-                    <para>
-                      <text>while the person's spouse or partner was engaged in missionary work as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">c</label>
-                <para>
-                  <text>any period of absence from New Zealand while the person was (by virtue of <citation jurisdiction="nz"><extref href="DLM364305">section 79(1)(a)</extref> of the Social Security Act 1964</citation>) deemed to have been resident in New Zealand; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">d</label>
-                <para>
-                  <text>any period of absence from New Zealand while, as the spouse or partner of a person deemed by <citation jurisdiction="nz"><extref href="DLM364305">section 79(1)(a)</extref> of the Social Security Act 1964</citation> to have been resident in New Zealand, the person was also (by virtue of section 79(1)(b) of the Social Security Act 1964) deemed to have been resident in New Zealand.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>Subsection (2) applies to a period of absence only if the chief executive is satisfied that during it the person concerned remained ordinarily resident in New Zealand.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">4</label>
-            <para>
-              <text>Subsection (2)(b) applies to a period of absence only if the chief executive is satisfied that the person concerned either was born in New Zealand or—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>in the case of a person to whom subsection (2)(b)(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>in the case of a person to whom subsection (2)(b)(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.</text>
+                  <text>the applicant intends to reside for more than 26 weeks in the overseas country to which the application relates, being a country with which New Zealand has no agreement relating to reciprocity of social security monetary benefits.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
         </prov.body>
+        <cf>
+          <citation jurisdiction="nz">1990 No 26 <extref href="DLM204182">s 17(1), (2)</extref></citation>
+        </cf>
         <notes>
           <history>
-            <history-note id="DLM2686341"><amended-provision>Section 26A</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609413">section 6</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2686310" irdnumbering="no" skeleton="no" toc="yes">
-        <label auto.number="no" denominator="yes">26B</label>
-        <heading>Entitlement</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="no"/>
-            <para>
-              <text>A person is not entitled to be paid New Zealand superannuation under section 26 unless he or she—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>has made an application for the payment of New Zealand superannuation under that section stating either (as the case may be)—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">i</label>
-                    <para>
-                      <text>the country or countries in which he or she intends to reside and the period for which he or she intends to reside there; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">ii</label>
-                    <para>
-                      <text>the country or countries to and in which he or she intends to travel; and</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>is ordinarily resident and present in New Zealand on the day he or she makes the application, and—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">i</label>
-                    <para>
-                      <text>is entitled to receive New Zealand superannuation on that day; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">ii</label>
-                    <para>
-                      <text>will become entitled to receive New Zealand superannuation before he or she leaves New Zealand.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2686342"><amended-provision>Section 26B</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609413">section 6</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
+            <history-note id="DLM114263"><amended-provision>Section 26(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM336343">section 4</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
+            <history-note id="DLM114260"><amended-provision>Section 26(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>26 April 2005</amendment-date>, by <amending-provision href="DLM336342">section 3</amending-provision> of the <amending-leg>New Zealand Superannuation Amendment Act 2005</amending-leg> (2005 No 17).</history-note>
           </history>
         </notes>
       </prov>
@@ -1626,16 +1334,16 @@
         <label auto.number="no" denominator="yes">29</label>
         <heading>Relationship with other benefit provisions</heading>
         <prov.body>
-          <subprov deletion-status="repealed" skeleton="no">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text/>
+              <text>If New Zealand superannuation payable overseas in accordance with <citation jurisdiction="nz"><intref href="DLM114259">section 26</intref></citation> is directly reduced under <citation jurisdiction="nz"><extref href="DLM363550">section 70</extref> of the Social Security Act 1964</citation>, the amount payable is 50% of the reduced gross rate that would be payable in New Zealand.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>A person who is receiving New Zealand superannuation overseas under <citation jurisdiction="nz"><intref href="DLM114259">section 26</intref></citation> is not entitled to receive any <insertwords>living alone payment,</insertwords> supplementary or special benefit, <insertwords>temporary additional support,</insertwords> lump sum payment, or any other assistance under the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation> or under any welfare programme approved under <citation jurisdiction="nz"><extref href="DLM365476">section 124(1)(d)</extref> of that Act</citation>.</text>
+              <text>A person who is receiving New Zealand superannuation overseas under <citation jurisdiction="nz"><intref href="DLM114259">section 26</intref></citation> is not entitled to receive any supplementary or special benefit, <insertwords>temporary additional support,</insertwords> lump sum payment, or any other assistance under the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation> or under any welfare programme approved under <citation jurisdiction="nz"><extref href="DLM365476">section 124(1)(d)</extref> of that Act</citation>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -1644,22 +1352,16 @@
               <text>Despite the provisions of <citation jurisdiction="nz"><extref href="DLM364308">section 80</extref> of the Social Security Act 1964</citation>, on the death of a person who receives New Zealand superannuation overseas under <citation jurisdiction="nz"><intref href="DLM114259">section 26</intref></citation>, the benefit terminates on a date to be determined by the chief executive, being a date not more than 4 weeks after the date of death.</text>
             </para>
           </subprov>
-          <subprov deletion-status="repealed" skeleton="no">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">4</label>
             <para>
-              <text/>
+              <text>Except as otherwise provided in this section, the provisions of the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation> (other than <citation jurisdiction="nz"><extref href="DLM363920">sections 75</extref>, <extref href="DLM363951">75A</extref>, and <extref href="DLM363957">76</extref></citation>) apply to New Zealand superannuation being paid overseas under <citation jurisdiction="nz"><intref href="DLM114259">section 26</intref></citation>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">4A</label>
-            <para>
-              <text>Except as provided in this section, the <citation jurisdiction="nz"><leg-title href="DLM359106">Social Security Act 1964</leg-title></citation> (other than <citation jurisdiction="nz"><extref href="DLM363520">sections 69G to 69I</extref>, <extref href="DLM363550">70</extref>, <extref href="DLM363772">74(1)(a)</extref>, <extref href="DLM363920">75</extref>, <extref href="DLM363951">75A</extref>, <extref href="DLM363957">76</extref>, <extref href="DLM363974">77</extref>, and <extref href="DLM364441">82(7)</extref></citation>) applies to New Zealand superannuation being paid under <citation jurisdiction="nz"><intref href="DLM114259">section 26</intref></citation>.</text>
-            </para>
-          </subprov>
-          <subprov deletion-status="repealed" skeleton="no">
             <label auto.number="no" denominator="yes">5</label>
             <para>
-              <text/>
+              <text>This section and <citation jurisdiction="nz"><intref href="DLM114259">sections 26 to 28</intref></citation> apply despite <citation jurisdiction="nz"><extref href="DLM363772">sections 74(a)</extref> and <extref href="DLM363974">77</extref> of the Social Security Act 1964</citation>, but subject to the provisions of this section and of <citation jurisdiction="nz">sections 26 to 28 and <intref href="DLM114268">30 to 35</intref></citation>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -1668,12 +1370,7 @@
         </cf>
         <notes>
           <history>
-            <history-note id="DLM2686343"><amended-provision>Section 29(1)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609416">section 7(1)</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
-            <history-note id="DLM2686344"><amended-provision>Section 29(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609416">section 7(2)</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
             <history-note id="DLM114267"><amended-provision>Section 29(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2006</amendment-date>, by <amending-provision href="DLM298068">section 21</amending-provision> of the <amending-leg>Social Security (Working for Families) Amendment Act 2004</amending-leg> (2004 No 51).</history-note>
-            <history-note id="DLM2686345"><amended-provision>Section 29(4)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609416">section 7(3)</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
-            <history-note id="DLM2686346"><amended-provision>Section 29(4A)</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609416">section 7(3)</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
-            <history-note id="DLM2686347"><amended-provision>Section 29(5)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609416">section 7(3)</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
           </history>
         </notes>
       </prov>
@@ -1990,7 +1687,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text><citation jurisdiction="nz"><intref href="DLM114252">Sections <insertwords xmlns:atidlm="http://www.arbortext.com/namespace/atidlm">22</insertwords> to 29</intref></citation> do not apply in respect of New Zealand superannuation being paid in a specified Pacific country under <citation jurisdiction="nz"><intref href="DLM114270">section 31</intref></citation>.</text>
+              <text><citation jurisdiction="nz"><intref href="DLM114251">Sections 21 to 29</intref></citation> do not apply in respect of New Zealand superannuation being paid in a specified Pacific country under <citation jurisdiction="nz"><intref href="DLM114270">section 31</intref></citation>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -2003,14 +1700,9 @@
         <cf>
           <citation jurisdiction="nz">1990 No 26 <extref href="DLM204423">s 17F</extref></citation>
         </cf>
-        <notes>
-          <history>
-            <history-note id="DLM2686348"><amended-provision>Section 35(1)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by <amending-provision href="DLM1609417">section 8</amending-provision> of the <amending-leg>New Zealand Superannuation and Retirement Income Amendment Act 2009</amending-leg> (2009 No 40).</history-note>
-          </history>
-        </notes>
       </prov>
     </part>
-    <part id="DLM114280" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" stage="reprint" year="2001">
+    <part id="DLM114280" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">2</label>
       <heading>New Zealand Superannuation Fund</heading>
       <prov id="DLM114281" irdnumbering="no" skeleton="no" toc="yes">
@@ -3305,7 +2997,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM114859" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" stage="reprint" year="2001">
+    <part id="DLM114859" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Miscellaneous provisions</heading>
       <crosshead id="DLM114860" toc="yes">Political commitment to New Zealand superannuation</crosshead>
@@ -3515,7 +3207,7 @@
         </cf>
       </prov>
     </part>
-    <part id="DLM114879" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" stage="reprint" year="2001">
+    <part id="DLM114879" in.amend="false" irdnumbering="no" toc="yes" date.first.valid="2001-10-12" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">4</label>
       <heading>Retirement Commissioner</heading>
       <notes>
@@ -3871,7 +3563,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule id="DLM115004" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115004" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">1</label>
       <empowering-prov>
         <citation jurisdiction="nz"><intref href="DLM113994">ss 12</intref>, <intref href="DLM114237">19</intref>, <intref href="DLM114246">20</intref>, <intref href="DLM114259">26</intref>, <intref href="DLM114271">32</intref></citation>
@@ -4060,7 +3752,7 @@
         </para>
       </schedule.misc>
     </schedule>
-    <schedule id="DLM115022" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115022" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">2</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -4137,7 +3829,7 @@
         </para>
       </schedule.misc>
     </schedule>
-    <schedule id="DLM115023" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115023" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">3</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -4924,7 +4616,7 @@
         </prov>
       </schedule.provisions>
     </schedule>
-    <schedule id="DLM115453" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115453" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">4</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -4991,7 +4683,7 @@
         </head1>
       </schedule.misc>
     </schedule>
-    <schedule id="DLM115462" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115462" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">5</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -5124,7 +4816,7 @@
         </schedule.amendments.group2>
       </schedule.amendments>
     </schedule>
-    <schedule id="DLM115485" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2010-03-03" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
+    <schedule id="DLM115485" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="84" act.type="public" date.as.at="2009-04-01" date.assent="2001-10-11" date.first.valid="2001-10-12" stage="reprint" year="2001">
       <label auto.number="no" denominator="yes">6</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -5229,7 +4921,7 @@
           <label auto.number="no" denominator="yes">1</label>
           <heading>General</heading>
           <para>
-            <text>This is a reprint of the New Zealand Superannuation and Retirement Income Act 2001. The reprint incorporates all the amendments to the Act as at 3 March 2010, as specified in the list of amendments at the end of these notes.</text>
+            <text>This is a reprint of the New Zealand Superannuation and Retirement Income Act 2001. The reprint incorporates all the amendments to the Act as at 1 April 2009, as specified in the list of amendments at the end of these notes.</text>
           </para>
           <para>
             <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
@@ -5370,12 +5062,6 @@
         <reprint.note>
           <label auto.number="no" denominator="yes">5</label>
           <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
-          <reprint.amend>
-            <citation jurisdiction="nz">Accident Compensation Amendment Act 2010 (2010 No 1): <extref href="DLM2417572">section 49</extref></citation>
-          </reprint.amend>
-          <reprint.amend>
-            <citation jurisdiction="nz"><extref href="DLM1609400">New Zealand Superannuation and Retirement Income Amendment Act 2009</extref> (2009 No 40)</citation>
-          </reprint.amend>
           <reprint.amend>
             <citation jurisdiction="nz">Social Security (Rates of Benefits and Allowances) Order 2009 (SR 2009/27): <extref href="DLM1841308">clause 5</extref></citation>
           </reprint.amend>
