@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM286951" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="141" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-21" date.first.valid="2007-09-18" stage="reprint" year="1992">
+<act id="DLM286951" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="141" act.type="public" date.as.at="2010-03-07" date.assent="1992-12-21" date.first.valid="2007-09-18" stage="reprint" year="1992">
   <cover id="DLM286952">
-    <reprint-date>2010-04-01</reprint-date>
+    <reprint-date>2010-03-07</reprint-date>
     <title xml:lang="en-NZ">Student Loan Scheme Act 1992</title>
     <assent>1992-12-21</assent>
     <cover.reprint-note>
@@ -362,27 +362,9 @@
                 <text><def-term id="DLM287400" xml:lang="en-NZ">terminal repayment obligation</def-term> has the same meaning as in <citation jurisdiction="nz"><intref href="DLM287640">section 29(2)</intref> of this Act</citation></text>
               </para>
             </def-para>
-            <def-para id="DLM2860031">
-              <para>
-                <text><def-term id="DLM2860032">total interest rate</def-term> means the total interest rate that applies in respect of any tax year, calculated in accordance with the formula—</text>
-                <eqn id="DLM2860033">
-                  <eqn-line>a% + 0.74% = y%</eqn-line>
-                  <para>
-                    <text>where—</text>
-                  </para>
-                  <variable-def>
-                    <variable>a%</variable>
-                    <para>
-                      <text>is the average, rounded to the nearest 2 decimal places, of the monthly average 10-year government bond yield rates published by the Reserve Bank of New Zealand for the 5 years ending in December in the year that precedes the relevant tax year</text>
-                    </para>
-                  </variable-def>
-                  <variable-def>
-                    <variable>y%</variable>
-                    <para>
-                      <text>rounded to the nearest 1 decimal place, is the total interest rate for the relevant tax year.</text>
-                    </para>
-                  </variable-def>
-                </eqn>
+            <def-para id="DLM287401" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM287402" xml:lang="en-NZ">total interest rate</def-term> means the rate prescribed in respect of a tax year by regulations made under <citation jurisdiction="nz"><intref href="DLM288673">section 87</intref></citation> in the last 6 months of the immediately preceding tax year.</text>
               </para>
             </def-para>
           </para>
@@ -465,7 +447,8 @@
           <history-note id="DLM287291">Section 2(1) <emphasis style="bold">secondary employment earnings</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2005</amendment-date>, by <amending-provision href="DLM277147">section YA 2</amending-provision> of the <amending-leg>Income Tax Act 2004</amending-leg> (2004 No 35).</history-note>
           <history-note id="DLM287298">Section 2(1) <emphasis style="bold">tax year</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 April 2005</amendment-date>, by <amending-provision href="DLM356200">section 161</amending-provision> of the <amending-leg>Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005</amending-leg> (2005 No 79).</history-note>
           <history-note id="DLM1258614"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">tax year</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008</amendment-date>, by section ZA 2(1) of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
-          <history-note id="DLM2860038"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">total interest rate</emphasis>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM2238000">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Exemptions and Miscellaneous Provisions) Amendment Act 2010</amending-leg> (2010 No 3).</history-note>
+          <history-note id="DLM1258615"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">total interest rate</emphasis>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 April 2008</amendment-date>, by <amending-provision href="DLM406443">section 4(7)</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
+          <history-note id="DLM287403">Section 2(1) <emphasis style="bold">total interest rate</emphasis>: <amending-operation>substituted</amending-operation>, on <amendment-date>22 December 2005</amendment-date>, by <amending-provision href="DLM363034">section 3</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2005</amending-leg> (2005 No 122).</history-note>
           <history-note id="DLM287406"><amended-provision>Section 2(2)</amended-provision>:: <amending-operation>inserted</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM406443">section 4(8)</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
           <history-note id="DLM2705600"><amended-provision>Section 2(3)</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM406443">section 4(8)</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
           <history-note id="DLM287205">Section 2(1) <emphasis style="bold">year</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 1995</amendment-date>, by section YB 1 of the <amending-leg>Income Tax Act 1994</amending-leg> (1994 No 164).</history-note>
@@ -531,7 +514,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM287412" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-21" stage="reprint" year="1992">
+    <part id="DLM287412" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-03-07" date.assent="1992-12-21" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">1</label>
       <heading xml:lang="en-NZ">Transfer of loan balances to Commissioner for collection</heading>
       <crosshead id="DLM287413" toc="yes" xml:lang="en-NZ">Transfer of loan balances</crosshead>
@@ -810,7 +793,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM287430" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-21" stage="reprint" year="1992">
+    <part id="DLM287430" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-03-07" date.assent="1992-12-21" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">2</label>
       <heading xml:lang="en-NZ">Collection of repayments from <insertwords>New Zealand based borrowers</insertwords></heading>
       <notes>
@@ -1814,7 +1797,7 @@
         </notes>
       </prov>
     </part>
-    <part id="DLM287651" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-21" stage="reprint" year="1992">
+    <part id="DLM287651" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-03-07" date.assent="1992-12-21" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">3</label>
       <heading xml:lang="en-NZ">Collection of repayments from overseas based borrowers</heading>
       <notes>
@@ -2316,7 +2299,7 @@
         </notes>
       </prov>
     </part>
-    <part id="DLM287698" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-21" stage="reprint" year="1992">
+    <part id="DLM287698" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-03-07" date.assent="1992-12-21" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">4</label>
       <heading xml:lang="en-NZ">Miscellaneous provisions applying to student loan scheme</heading>
       <crosshead id="DLM287699" toc="yes" xml:lang="en-NZ">Notification requirements</crosshead>
@@ -4071,369 +4054,54 @@
           </subprov>
         </prov.body>
       </prov>
-      <crosshead id="DLM288155" toc="yes" xml:lang="en-NZ">Ten percent bonus for excess repayments</crosshead>
+      <crosshead deletion-status="repealed" id="DLM288155" toc="yes" xml:lang="en-NZ">Amnesty from payment of late payment penalties</crosshead>
       <notes>
         <history>
-          <history-note id="DLM2860039"><amended-provision>Heading</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1967209">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Repayment Bonus) Amendment Act 2009</amending-leg> (2009 No 33).</history-note>
+          <history-note id="DLM288156">Heading: <amending-operation>inserted</amending-operation>, on <amendment-date>22 December 2005</amendment-date>, by <amending-provision href="DLM363063">section 10</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2005</amending-leg> (2005 No 122).</history-note>
+          <history-note id="DLM288157">Heading: <amending-operation>repealed</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM406493">section 21</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
         </history>
       </notes>
-      <prov id="DLM288158" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov deletion-status="repealed" id="DLM288158" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">45A</label>
-        <heading>Interpretation</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes"/>
-            <para>
-              <text>In this section and <citation jurisdiction="nz"><intref href="DLM288161">sections 45B to 45H</intref></citation>, unless the context otherwise requires,—</text>
-              <def-para id="DLM2860000">
-                <para>
-                  <text><def-term id="DLM2860001">10% bonus</def-term> means the bonus specified in, as appropriate, <citation jurisdiction="nz"><intref href="DLM288164">section 45C(2)</intref>, <intref href="DLM288167">45D(2)</intref>, or <intref href="DLM2860008">45E(2)</intref></citation></text>
-                </para>
-              </def-para>
-              <def-para id="DLM2860002">
-                <para>
-                  <text><def-term id="DLM2860003">excess repayment</def-term> has the meaning set out in <citation jurisdiction="nz"><intref href="DLM288161">section 45B</intref></citation></text>
-                </para>
-              </def-para>
-              <def-para id="DLM2860004">
-                <para>
-                  <text><def-term id="DLM2860005">final excess repayment</def-term> means an excess repayment that, when combined with the resulting 10% bonus, results in the borrower's IRD loan balance being fully repaid.</text>
-                </para>
-              </def-para>
-            </para>
-          </subprov>
-        </prov.body>
+        <heading xml:lang="en-NZ">Amnesty in respect of late payment penalties</heading>
+        <prov.body/>
         <notes>
           <history>
-            <history-note id="DLM2860040"><amended-provision>Section 45A</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1967209">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Repayment Bonus) Amendment Act 2009</amending-leg> (2009 No 33).</history-note>
+            <history-note id="DLM288159"><amended-provision>Section 45A</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>22 December 2005</amendment-date>, by <amending-provision href="DLM363063">section 10</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2005</amending-leg> (2005 No 122).</history-note>
+            <history-note id="DLM288160"><amended-provision>Section 45A</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM406493">section 21</amending-provision>of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
           </history>
         </notes>
       </prov>
-      <prov id="DLM288161" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov deletion-status="repealed" id="DLM288161" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">45B</label>
-        <heading>Meaning of excess repayment</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>For the purposes of this Act, an <def-term id="DLM2860006">excess repayment</def-term>, in respect of a borrower, is any amount paid to the Commissioner in respect of a tax year in excess of that borrower's repayment obligation for that tax year.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>However, the following are not excess repayments:</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>any amount paid in respect of a tax year when a repayment obligation, repayment deduction, interim repayment, terminal repayment obligation, or penalty is, or will be, due and payable in respect of that tax year or any prior tax year (the<def-term id="DLM2860007"> due amount</def-term>), except to the extent that the amount paid is in excess of all due amounts:</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>any amount that was paid before 1 April 2009:</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">c</label>
-                <para>
-                  <text>any amount that is paid in respect of a tax year that ended on or before 31 March 2009.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>Excess repayments may be made—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>by any means, including repayment deductions, interim repayments, and voluntary payments; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>in 1 or more payments in respect of a tax year; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">c</label>
-                <para>
-                  <text>in respect of a tax year, at any time during that tax year and, if the borrower is a periodic payer, at any time up to and including the due date for payment of the final instalment of that borrower's interim repayments for that tax year.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-        </prov.body>
+        <heading xml:lang="en-NZ">Conditions of amnesty</heading>
+        <prov.body/>
         <notes>
           <history>
-            <history-note id="DLM2860041"><amended-provision>Section 45B</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1967209">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Repayment Bonus) Amendment Act 2009</amending-leg> (2009 No 33).</history-note>
+            <history-note id="DLM288162"><amended-provision>Section 45B</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>22 December 2005</amendment-date>, by <amending-provision href="DLM363063">section 10</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2005</amending-leg> (2005 No 122).</history-note>
+            <history-note id="DLM288163"><amended-provision>Section 45B</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM406493">section 21</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
           </history>
         </notes>
       </prov>
-      <prov id="DLM288164" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov deletion-status="repealed" id="DLM288164" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">45C</label>
-        <heading>Borrower's entitlement to 10% bonus for total excess repayments of $500 or more</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>Subsection (2) applies to a borrower if—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>the borrower's total excess repayments in respect of a tax year are $500 or more; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>at the beginning of the tax year in respect of which the excess repayments were made, the borrower's IRD loan balance was $550 or more.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>If this subsection applies to a borrower, the Commissioner must reduce the borrower's IRD loan balance by an amount equal to 10% of the borrower's total excess repayments in respect of the relevant tax year.</text>
-            </para>
-          </subprov>
-        </prov.body>
+        <heading xml:lang="en-NZ">Effect of amnesty on repayment obligation and interest</heading>
+        <prov.body/>
         <notes>
           <history>
-            <history-note id="DLM2860042"><amended-provision>Section 45C</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1967209">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Repayment Bonus) Amendment Act 2009</amending-leg> (2009 No 33).</history-note>
+            <history-note id="DLM288165"><amended-provision>Section 45C</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>22 December 2005</amendment-date>, by <amending-provision href="DLM363063">section 10</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2005</amending-leg> (2005 No 122).</history-note>
+            <history-note id="DLM288166"><amended-provision>Section 45C</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM406493">section 21</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
           </history>
         </notes>
       </prov>
-      <prov id="DLM288167" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov deletion-status="repealed" id="DLM288167" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">45D</label>
-        <heading>Borrower's entitlement to bonus if IRD loan balance is less than $550</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>Subsection (2) applies to a borrower if—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>the borrower's final excess repayment in respect of a tax year is $500; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>at the date on which the final excess repayment was made, the borrower's IRD loan balance was more than $500 but less than $550.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>If this subsection applies to a borrower, the Commissioner must reduce the borrower's IRD loan balance to zero.</text>
-            </para>
-          </subprov>
-        </prov.body>
+        <heading xml:lang="en-NZ">Repayment obligation and penalties may be reinstated if amnesty condition breached</heading>
+        <prov.body/>
         <notes>
           <history>
-            <history-note id="DLM2860043"><amended-provision>Section 45D</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1967209">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Repayment Bonus) Amendment Act 2009</amending-leg> (2009 No 33).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2860008" irdnumbering="no" skeleton="no" toc="yes">
-        <label auto.number="no" denominator="yes">45E</label>
-        <heading>Borrower may be entitled to 10% bonus if under-deduction is due to PAYE system</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>Subsection (2) applies to a borrower if—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>the borrower's total excess repayments in respect of a tax year are less than $500; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>the difference between the borrower's total excess repayments in respect of that tax year and $500 (the <emphasis style="bold">shortfall</emphasis>) is because of an under-deduction through the PAYE system; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">c</label>
-                <para>
-                  <text>the shortfall meets 1 or more of the following criteria:</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">i</label>
-                    <para>
-                      <text>it is less than $20:</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">ii</label>
-                    <para>
-                      <text>it is due to the borrower commencing or ceasing employment:</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">iii</label>
-                    <para>
-                      <text>it is due to an action or an omission of the borrower's employer; and</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">d</label>
-                <para>
-                  <text>the Commissioner considers that the borrower's total excess repayments in respect of that tax year would have been $500 or more if the under-deduction referred to in paragraph (b) had not occurred; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">e</label>
-                <para>
-                  <text>at the beginning of the tax year in respect of which the excess repayments were made, the borrower's IRD loan balance was $550 or more.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>If this subsection applies to a borrower, the Commissioner must reduce the borrower's IRD loan balance by an amount equal to 10% of the borrower's total excess repayments in respect of the relevant tax year that the Commissioner considers would have been made if the under-deduction referred to in subsection (1)(b) had not occurred.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2860044"><amended-provision>Section 45E</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1967209">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Repayment Bonus) Amendment Act 2009</amending-leg> (2009 No 33).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2860009" irdnumbering="no" skeleton="no" toc="yes">
-        <label auto.number="no" denominator="yes">45F</label>
-        <heading>Manner in which 10% bonus is to be provided and restriction on amount of 10% bonus</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>If a borrower's IRD loan balance will be fully repaid as a result of it being reduced by a 10% bonus, that bonus must be credited to that borrower's IRD loan balance as at the date on which the final excess repayment was made.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>If a borrower's IRD loan balance will not be fully repaid as a result of it being reduced by a 10% bonus, that bonus must be credited to that borrower's IRD loan balance as at 1 April in the tax year that follows the tax year in respect of which the excess repayments were made.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>Nothing in subsection (1) or (2) requires the Commissioner to credit a 10% bonus to a borrower's IRD loan balance before the Commissioner has determined that borrower's total excess repayments in respect of a tax year.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">4</label>
-            <para>
-              <text>The total amount of a 10% bonus that may be provided to a borrower must not exceed an amount equal to one-eleventh of that borrower's IRD loan balance on either—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>the date on which the 10% bonus is provided; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>an earlier date determined by the Commissioner, at his or her discretion, that is within the relevant tax year.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">5</label>
-            <para>
-              <text>The Commissioner may only determine a date under subsection (4)(b) if, in respect of a borrower,—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>1 or more excess repayments are made in respect of a tax year; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>a final excess repayment was made in respect of the same tax year.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2860045"><amended-provision>Section 45F</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1967209">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Repayment Bonus) Amendment Act 2009</amending-leg> (2009 No 33).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2860010" irdnumbering="no" skeleton="no" toc="yes">
-        <label auto.number="no" denominator="yes">45G</label>
-        <heading>Consequences of refund</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>If a borrower elects that the whole or part of an excess repayment in respect of a tax year be refunded, any 10% bonus that was provided to that borrower must be reduced to an amount equal to 10% of the remaining excess repayment (if any) in respect of the tax year that is $500 or more.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>If the 10% bonus was provided under <citation jurisdiction="nz"><intref href="DLM2860008">section 45E(2)</intref></citation>, then the remaining excess repayment (if any) in respect of the tax year that is $500 or more must be determined by reference to the borrower's total excess repayments in respect of the relevant tax year that the Commissioner considered (under <citation jurisdiction="nz">section 45E</citation>) would have been made if the under-deduction referred to in <citation jurisdiction="nz">section 45E(1)(b)</citation> had not occurred.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2860046"><amended-provision>Section 45G</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1967209">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Repayment Bonus) Amendment Act 2009</amending-leg> (2009 No 33).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2860011" irdnumbering="no" skeleton="no" toc="yes">
-        <label auto.number="no" denominator="yes">45H</label>
-        <heading>Commissioner must advise borrowers to seek financial advice</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes"/>
-            <para>
-              <text>The Commissioner must, in all material that provides information about repayment bonuses and that is made available to all borrowers, include a statement to the effect that borrowers are advised to seek appropriate financial advice before making excess repayments in order to obtain a 10% bonus.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2860047"><amended-provision>Section 45H</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1967209">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Repayment Bonus) Amendment Act 2009</amending-leg> (2009 No 33).</history-note>
-          </history>
-        </notes>
-      </prov>
-      <prov id="DLM2860012" irdnumbering="no" skeleton="no" toc="yes">
-        <label auto.number="no" denominator="yes">45I</label>
-        <heading>Application of sections 45A to 45H</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes"/>
-            <para>
-              <text><citation jurisdiction="nz"><intref href="DLM288158">Sections 45A to 45H</intref></citation> apply with effect from 31 March 2009.</text>
-            </para>
-          </subprov>
-        </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2860048"><amended-provision>Section 45I</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1967209">section 4</amending-provision> of the <amending-leg>Student Loan Scheme (Repayment Bonus) Amendment Act 2009</amending-leg> (2009 No 33).</history-note>
+            <history-note id="DLM288168"><amended-provision>Section 45D</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>22 December 2005</amendment-date>, by <amending-provision href="DLM363063">section 10</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2005</amending-leg> (2005 No 122).</history-note>
+            <history-note id="DLM288169"><amended-provision>Section 45D</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM406493">section 21</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
           </history>
         </notes>
       </prov>
@@ -6034,7 +5702,7 @@
         </notes>
       </prov>
     </part>
-    <part id="DLM288286" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-21" stage="reprint" year="1992">
+    <part id="DLM288286" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-03-07" date.assent="1992-12-21" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">5</label>
       <heading xml:lang="en-NZ">Challenges after transfer of loan balance to Commissioner</heading>
       <notes>
@@ -6441,7 +6109,7 @@
         </notes>
       </prov>
     </part>
-    <part id="DLM288633" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-21" stage="reprint" year="1992">
+    <part id="DLM288633" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-03-07" date.assent="1992-12-21" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">6</label>
       <heading xml:lang="en-NZ">Offences and penalties</heading>
       <prov id="DLM288634" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -6869,7 +6537,7 @@
         </notes>
       </prov>
     </part>
-    <part id="DLM288671" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-21" stage="reprint" year="1992">
+    <part id="DLM288671" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-03-07" date.assent="1992-12-21" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">7</label>
       <heading xml:lang="en-NZ">Regulations <insertwords>and miscellaneous matters</insertwords></heading>
       <notes>
@@ -6916,16 +6584,16 @@
                   <text>that shall apply in respect of any <insertwords>tax year</insertwords> or years:</text>
                 </para>
               </label-para>
-              <label-para deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">ab</label>
                 <para xml:lang="en-NZ">
-                  <text/>
+                  <text>specifying a formula or methodology, and other requirements, in accordance with which the total interest rate must be set or reset for the purposes of this Act:</text>
                 </para>
               </label-para>
-              <label-para deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
+              <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">ac</label>
                 <para xml:lang="en-NZ">
-                  <text/>
+                  <text>determining, in accordance with the formula or methodology and requirements specified under <citation jurisdiction="nz">paragraph (ab)</citation>, the total interest rate that is to apply in respect of any tax year</text>
                 </para>
               </label-para>
               <label-para deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
@@ -6990,8 +6658,8 @@
             <history-note id="DLM288674"><amended-provision>Section 87(1)(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2005</amendment-date>, by <amending-provision href="DLM277147">section YA 2</amending-provision> of the <amending-leg>Income Tax Act 2004</amending-leg> (2004 No 35).</history-note>
             <history-note id="DLM288675"><amended-provision>Section 87(1)(a)(ii)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>22 December 2005</amendment-date>, by <amending-provision href="DLM363089">section 16(1)</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2005</amending-leg> (2005 No 122).</history-note>
             <history-note id="DLM2715306"><amended-provision>Section 87(1)(a)(iii)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>22 December 2005</amendment-date>, by <amending-provision href="DLM363089">section 16(1)</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2005</amending-leg> (2005 No 122).</history-note>
-            <history-note id="DLM2860049"><amended-provision>Section 87(1)(ab)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1360829">section 26(1)</amending-provision> of the <amending-leg>Student Loan Scheme (Exemptions and Miscellaneous Provisions) Amendment Act 2010</amending-leg> (2010 No 3).</history-note>
-            <history-note id="DLM2860050"><amended-provision>Section 87(1)(ac)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 April 2010</amendment-date>, by <amending-provision href="DLM1360829">section 26(1)</amending-provision> of the <amending-leg>Student Loan Scheme (Exemptions and Miscellaneous Provisions) Amendment Act 2010</amending-leg> (2010 No 3).</history-note>
+            <history-note id="DLM1258648"><amended-provision>Section 87(1)(ab)</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 April 2008</amendment-date>, by <amending-provision href="DLM406723">section 37(1)</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
+            <history-note id="DLM1258649"><amended-provision>Section 87(1)(ac)</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 April 2008</amendment-date>, by <amending-provision href="DLM406723">section 37(1)</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
             <history-note id="DLM2805247"><amended-provision>Section 87(1)(b)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>7 March 2010</amendment-date>, by <amending-provision href="DLM1360829">section 26(2)</amending-provision> of the <amending-leg>Student Loan Scheme (Exemptions and Miscellaneous Provisions) Amendment Act 2010</amending-leg> (2010 No 3).</history-note>
             <history-note id="DLM288677"><amended-provision>Section 87(1)(ba)</amended-provision>: <amending-operation>inserted</amending-operation> by <amending-provision href="DLM84975">section 12(1)</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act (No 2) 2000</amending-leg> (2000 No 96) with application as from the income year commencing on <amendment-date>1 April 2000</amendment-date>.</history-note>
             <history-note id="DLM288678"><amended-provision>Section 87(1)(ba)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 April 2007</amendment-date>, by <amending-provision href="DLM406723">section 37(2)</amending-provision> of the <amending-leg>Student Loan Scheme Amendment Act 2007</amending-leg> (2007 No 13).</history-note>
@@ -7078,7 +6746,7 @@
         </notes>
       </prov>
     </part>
-    <part id="DLM288688" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-21" stage="reprint" year="1992">
+    <part id="DLM288688" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-03-07" date.assent="1992-12-21" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">8</label>
       <heading xml:lang="en-NZ">2007/08 transitional provisions for fresh start for certain borrowers</heading>
       <notes>
@@ -7778,7 +7446,7 @@
         </notes>
       </prov>
     </part>
-    <part id="DLM288870" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-04-01" date.assent="1992-12-21" stage="reprint" year="1992">
+    <part id="DLM288870" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="141" act.type="public" date.as.at="2010-03-07" date.assent="1992-12-21" stage="reprint" year="1992">
       <label auto.number="no" denominator="yes">9</label>
       <heading xml:lang="en-NZ">Other transitional provisions</heading>
       <crosshead id="DLM288871" toc="yes" xml:lang="en-NZ">Repayment holiday entitlements for borrowers who are overseas based on 1 April 2007</crosshead>
@@ -8477,7 +8145,7 @@
           <label auto.number="no" denominator="yes">1</label>
           <heading>General</heading>
           <para>
-            <text>This is an eprint of the Student Loan Scheme Act 1992. It incorporates all the amendments to Act as at 1 April 2010. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007.</text>
+            <text>This is an eprint of the Student Loan Scheme Act 1992. It incorporates all the amendments to Act as at 7 March 2010. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007.</text>
           </para>
           <para>
             <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/reprints/.</text>
@@ -8498,9 +8166,6 @@
           </reprint.amend>
           <reprint.amend>
             <citation jurisdiction="nz">Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63): <extref href="DLM2517772">section 168</extref></citation>
-          </reprint.amend>
-          <reprint.amend>
-            <citation jurisdiction="nz"><extref href="DLM1967200">Student Loan Scheme (Repayment Bonus) Amendment Act 2009</extref> (2009 No 33)</citation>
           </reprint.amend>
           <reprint.amend>
             <citation jurisdiction="nz">Income Tax Act 2007 (2007 No 97): section ZA 2(1)</citation>
