@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM319240" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="92" act.type="public" date.as.at="2009-01-24" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004">
+<act id="DLM319240" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="92" act.type="public" date.as.at="2010-10-16" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004" prospective.consolidation="F">
   <cover id="DLM319241">
-    <reprint-date>2009-01-24</reprint-date>
+    <reprint-date>2010-10-16</reprint-date>
     <title xml:lang="en-NZ">Human Assisted Reproductive Technology Act 2004</title>
     <assent>2004-11-21</assent>
     <commencement>see section 2</commencement>
     <cover.reprint-note>
       <para xml:lang="en-NZ">
-        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in this reprint.</text>
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
       </para>
       <para>
         <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
@@ -39,7 +39,7 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>Part 1, <citation jurisdiction="nz"><intref href="DLM319309">subpart 1</intref> of Part 2</citation>, the provisions of <citation jurisdiction="nz"><intref href="DLM319397">section 67</intref></citation> (other than subsection (2)(c)(ii) to (v)), <citation jurisdiction="nz"><intref href="DLM319398">sections 68 to 75</intref></citation>, the provisions of <citation jurisdiction="nz"><intref href="DLM319807">section 76(1)</intref>, <intref href="DLM319808">sections 77</intref>, <intref href="DLM319816">79 to 85</intref>, and <intref href="DLM319830">87</intref>, and <intref href="DLM319832">Schedules 1</intref> and <intref href="DLM319833">2</intref></citation> come into force on the day after the date on which this Act receives the Royal assent.</text>
+            <text><citation jurisdiction="nz"><intref href="DLM319246">Part 1</intref></citation>, <citation jurisdiction="nz"><intref href="DLM319309">subpart 1</intref> of Part 2</citation>, the provisions of <citation jurisdiction="nz"><intref href="DLM319397">section 67</intref></citation> (other than subsection (2)(c)(ii) to (v)), <citation jurisdiction="nz"><intref href="DLM319398">sections 68 to 75</intref></citation>, the provisions of <citation jurisdiction="nz"><intref href="DLM319807">section 76(1)</intref>, <intref href="DLM319808">sections 77</intref>, <intref href="DLM319816">79 to 85</intref>, and <intref href="DLM319830">87</intref>, and <intref href="DLM319832">Schedules 1</intref> and <intref href="DLM319833">2</intref></citation> come into force on the day after the date on which this Act receives the Royal assent.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
@@ -50,7 +50,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM319246" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="92" act.type="public" date.as.at="2009-01-24" date.assent="2004-11-21" stage="reprint" year="2004">
+    <part id="DLM319246" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="92" act.type="public" date.as.at="2010-10-16" date.assent="2004-11-21" stage="reprint" year="2004" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <heading xml:lang="en-NZ">Preliminary provisions</heading>
       <prov id="DLM319247" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -183,19 +183,19 @@
                       <label-para skeleton="no" xml:lang="en-NZ">
                         <label auto.number="no" denominator="yes">i</label>
                         <para xml:lang="en-NZ">
-                          <text>the creation of an in vitro human embryo; or</text>
+                          <text>the creation of an <emphasis style="italic">in vitro</emphasis> human embryo; or</text>
                         </para>
                       </label-para>
                       <label-para skeleton="no" xml:lang="en-NZ">
                         <label auto.number="no" denominator="yes">ii</label>
                         <para xml:lang="en-NZ">
-                          <text>the storage, manipulation, or use of an in vitro human gamete or an in vitro human embryo; or</text>
+                          <text>the storage, manipulation, or use of an <emphasis style="italic">in vitro</emphasis> human gamete or an <emphasis style="italic">in vitro</emphasis> human embryo; or</text>
                         </para>
                       </label-para>
                       <label-para skeleton="no" xml:lang="en-NZ">
                         <label auto.number="no" denominator="yes">iii</label>
                         <para xml:lang="en-NZ">
-                          <text>the use of cells derived from an in vitro human embryo; or</text>
+                          <text>the use of cells derived from an <emphasis style="italic">in vitro</emphasis> human embryo; or</text>
                         </para>
                       </label-para>
                       <label-para skeleton="no" xml:lang="en-NZ">
@@ -243,12 +243,12 @@
               </def-para>
               <def-para id="DLM319262" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM319263" xml:lang="en-NZ">donated cell</def-term> means the whole or part of an in vitro human gamete or other in vitro human cell that is donated for reproductive purposes</text>
+                  <text><def-term id="DLM319263" xml:lang="en-NZ">donated cell</def-term> means the whole or part of an <emphasis style="italic">in vitro</emphasis> human gamete or other <emphasis style="italic">in vitro</emphasis> human cell that is donated for reproductive purposes</text>
                 </para>
               </def-para>
               <def-para id="DLM319264" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM319265" xml:lang="en-NZ">donated embryo</def-term> means an in vitro human embryo that is donated for reproductive purposes</text>
+                  <text><def-term id="DLM319265" xml:lang="en-NZ">donated embryo</def-term> means an <emphasis style="italic">in vitro</emphasis> human embryo that is donated for reproductive purposes</text>
                 </para>
               </def-para>
               <def-para id="DLM319266" xml:lang="en-NZ">
@@ -392,7 +392,7 @@
               </def-para>
               <def-para id="DLM319288" xml:lang="en-NZ">
                 <para xml:lang="en-NZ">
-                  <text><def-term id="DLM319289" xml:lang="en-NZ">in vitro</def-term>, in relation to an embryo, a foetus, gamete, or cell means an embryo, a foetus, gamete, or cell that is outside a living organism</text>
+                  <text><def-term id="DLM319289" xml:lang="en-NZ"><emphasis style="italic">in vitro</emphasis></def-term>, in relation to an embryo, a foetus, gamete, or cell means an embryo, a foetus, gamete, or cell that is outside a living organism</text>
                 </para>
               </def-para>
               <def-para id="DLM319290" xml:lang="en-NZ">
@@ -548,10 +548,10 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM319308" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="92" act.type="public" date.as.at="2009-01-24" date.assent="2004-11-21" stage="reprint" year="2004">
+    <part id="DLM319308" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="92" act.type="public" date.as.at="2010-10-16" date.assent="2004-11-21" stage="reprint" year="2004" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <heading xml:lang="en-NZ">Prohibited and regulated activities</heading>
-      <subpart id="DLM319309" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="92" act.type="public" date.as.at="2009-01-24" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004">
+      <subpart id="DLM319309" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="92" act.type="public" date.as.at="2010-10-16" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">1</label>
         <heading xml:lang="en-NZ">Prohibited actions</heading>
         <prov id="DLM319310" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -567,7 +567,7 @@
             <subprov skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">2</label>
               <para xml:lang="en-NZ">
-                <text>Every person commits an offence who, knowing that an in vitro gamete, an in vitro embryo or an in vitro foetus, or an in vitro being has been formed by an action described in <citation jurisdiction="nz"><intref href="DLM319832">Schedule 1</intref></citation>, imports into, or exports from, New Zealand that in vitro gamete, in vitro embryo, in vitro foetus, or in vitro being.</text>
+                <text>Every person commits an offence who, knowing that an <emphasis style="italic">in vitro</emphasis> gamete, an <emphasis style="italic">in vitro</emphasis> embryo or an <emphasis style="italic">in vitro</emphasis> foetus, or an <emphasis style="italic">in vitro</emphasis> being has been formed by an action described in <citation jurisdiction="nz"><intref href="DLM319832">Schedule 1</intref></citation>, imports into, or exports from, New Zealand that <emphasis style="italic">in vitro</emphasis> gamete, <emphasis style="italic">in vitro</emphasis> embryo, <emphasis style="italic">in vitro</emphasis> foetus, or <emphasis style="italic">in vitro</emphasis> being.</text>
               </para>
             </subprov>
             <subprov skeleton="no" xml:lang="en-NZ">
@@ -586,12 +586,12 @@
         </prov>
         <prov id="DLM319311" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">9</label>
-          <heading xml:lang="en-NZ">Duty to stop development of in vitro human or hybrid embryos</heading>
+          <heading xml:lang="en-NZ">Duty to stop development of <emphasis style="italic">in vitro</emphasis> human or hybrid embryos</heading>
           <prov.body>
             <subprov skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">1</label>
               <para xml:lang="en-NZ">
-                <text>This section applies to an in vitro human embryo or an in vitro hybrid embryo that has been artificially formed (whether in New Zealand or elsewhere).</text>
+                <text>This section applies to an <emphasis style="italic">in vitro</emphasis> human embryo or an <emphasis style="italic">in vitro</emphasis> hybrid embryo that has been artificially formed (whether in New Zealand or elsewhere).</text>
               </para>
             </subprov>
             <subprov skeleton="no" xml:lang="en-NZ">
@@ -676,33 +676,400 @@
         </prov>
         <prov id="DLM319313" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">10</label>
-          <heading xml:lang="en-NZ">Human in vitro embryos and human in vitro gametes not to be stored for more than 10 years</heading>
+          <heading xml:lang="en-NZ">Restriction and prohibition on further storage of human <emphasis style="italic">in vitro</emphasis> embryos and human <emphasis style="italic">in vitro</emphasis> gametes stored for applicable period (10 years and extensions)</heading>
           <prov.body>
-            <subprov skeleton="no" xml:lang="en-NZ">
+            <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
-              <para xml:lang="en-NZ">
-                <text>No person may keep a human in vitro gamete or a human in vitro embryo (being an embryo whose development has been suspended) that has been stored for more than—</text>
-                <label-para skeleton="no" xml:lang="en-NZ">
+              <para>
+                <text>This section restricts then prohibits storage, manipulation, and use of a human <emphasis style="italic">in vitro</emphasis> gamete or a human <emphasis style="italic">in vitro</emphasis> embryo (being an embryo whose development has been suspended) that has been stored for the applicable period.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>For a 6-month period starting with the expiry of the applicable period, any person may store for disposal or dispose of, but no person may in any other way store, manipulate, or use, the gamete or embryo.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>After that 6-month period, no person may for any purpose store, manipulate, or use the gamete or embryo.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">4</label>
+              <para>
+                <text><emphasis style="bold">Applicable period</emphasis>, in this section and <citation jurisdiction="nz"><intref href="DLM3314009">sections 10A to 10D</intref></citation>, and in relation to the gamete or embryo, means—</text>
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
-                  <para xml:lang="en-NZ">
-                    <text>a period of 10 years; or</text>
+                  <para>
+                    <text>a period of 10 years starting when storage of the gamete or embryo began; or</text>
                   </para>
                 </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
+                <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
-                  <para xml:lang="en-NZ">
-                    <text>if the ethics committee has, before the expiry of that period of 10 years, approved a longer period in respect of the gamete or embryo, the longer period approved by the ethics committee.</text>
+                  <para>
+                    <text>if the ethics committee has, under <citation jurisdiction="nz"><intref href="DLM3314009">section 10A</intref></citation>, approved in respect of the gamete or embryo 1 or more extensions, means that 10-year period and all of those extensions.</text>
                   </para>
                 </label-para>
               </para>
             </subprov>
-            <subprov skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">2</label>
-              <para xml:lang="en-NZ">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">5</label>
+              <para>
+                <text>In calculating, for the purposes only of this section, the period for which a human <emphasis style="italic">in vitro</emphasis> gamete or a human <emphasis style="italic">in vitro</emphasis> embryo has been stored, any storage of that gamete or embryo before 22 November 2004 must be disregarded.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">6</label>
+              <para>
+                <text>In calculating, for the purposes only of this section, the period for which a human <emphasis style="italic">in vitro</emphasis> embryo has been stored, that period must be treated as including any storage on or after 22 November 2004 of the only stored, or the (or any one of the) longest stored, human <emphasis style="italic">in vitro</emphasis> gamete or gametes (if any) used in that embryo's creation.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">7</label>
+              <para>
+                <text>In calculating, for the purposes only of this section, whether a gamete or embryo has been stored for the applicable period, storage of that gamete or embryo, or of a gamete used in creating that embryo, must be included even if it occurred outside New Zealand.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">8</label>
+              <para>
+                <text>This section is not limited by, and does not limit, provisions of <citation jurisdiction="nz"><intref href="DLM319320">subpart 2</intref> of this Part</citation> that apply to storage—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>of an <emphasis style="italic">in vitro</emphasis> human gamete or an <emphasis style="italic">in vitro</emphasis> human embryo; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>that is, or is part of, any assisted reproductive procedure or human reproductive research.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">9</label>
+              <para>
                 <text>Every person commits an offence who contravenes this section and is liable on summary conviction to a fine not exceeding $20,000.</text>
               </para>
             </subprov>
           </prov.body>
+          <notes>
+            <history>
+              <history-note id="DLM3314014"><amended-provision>Section 10</amended-provision>: <amending-operation>substituted</amending-operation> (with effect on 22 November 2004), on <amendment-date>16 October 2010</amendment-date>, by <amending-provision href="DLM3240202">section 5</amending-provision> of the <amending-leg>Human Assisted Reproductive Technology (Storage) Amendment Act 2010</amending-leg> (2010 No 117).</history-note>
+            </history>
+          </notes>
+        </prov>
+        <prov id="DLM3314009" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">10A</label>
+          <heading>Ethics committee may approve extensions</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>The ethics committee may from time to time, before the applicable period expires and on a written application for the purpose, approve in respect of the gamete or embryo 1 or more extensions to the applicable period.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>An approval given under this section in respect of storage of the only stored, or the (or any one of the) longest stored, gamete or gametes used in the creation of an embryo also applies to any storage of that embryo.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text><citation jurisdiction="nz"><intref href="DLM319339">Sections 29</intref> and <intref href="DLM319340">30</intref></citation> apply (without limitation) to, and to the giving, changing, or cancelling in accordance with <citation jurisdiction="nz"><intref href="DLM3314010">sections 10B to 10D</intref></citation> of, an approval under this section.</text>
+              </para>
+            </subprov>
+          </prov.body>
+          <notes>
+            <history>
+              <history-note id="DLM3314015"><amended-provision>Section 10A</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>16 October 2010</amendment-date>, by <amending-provision href="DLM3019502">section 6</amending-provision> of the <amending-leg>Human Assisted Reproductive Technology (Storage) Amendment Act 2010</amending-leg> (2010 No 117).</history-note>
+            </history>
+          </notes>
+        </prov>
+        <prov id="DLM3314010" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">10B</label>
+          <heading>Giving of approval under section 10A</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>The ethics committee may give an approval under <citation jurisdiction="nz"><intref href="DLM3314009">section 10A</intref></citation> (in this section and <citation jurisdiction="nz"><intref href="DLM3314012">sections 10C and 10D</intref></citation> called an <def-term id="DLM3314011">approval</def-term>) only if—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>the giving of approvals under <citation jurisdiction="nz"><intref href="DLM3314009">section 10A</intref></citation> is covered in relevant guidelines issued by the advisory committee; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the ethics committee is satisfied that the approval is consistent with relevant guidelines issued and relevant advice given by the advisory committee.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>If relevant new information becomes available, the ethics committee may, for any reason that it considers appropriate, reconsider an application—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>for an approval; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>that it has previously declined.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>The ethics committee may give an approval subject to any conditions it thinks fit to impose.</text>
+              </para>
+            </subprov>
+          </prov.body>
+          <notes>
+            <history>
+              <history-note id="DLM3314016"><amended-provision>Section 10B</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>16 October 2010</amendment-date>, by <amending-provision href="DLM3019502">section 6</amending-provision> of the <amending-leg>Human Assisted Reproductive Technology (Storage) Amendment Act 2010</amending-leg> (2010 No 117).</history-note>
+            </history>
+          </notes>
+        </prov>
+        <prov id="DLM3314012" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">10C</label>
+          <heading>Changing of approval under section 10A</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>The ethics committee may change an approval only if—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>the changing of approvals under <citation jurisdiction="nz"><intref href="DLM3314009">section 10A</intref></citation> is covered in relevant guidelines issued by the advisory committee; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the ethics committee is satisfied that the changing of the approval is consistent with relevant guidelines issued and relevant advice given by the advisory committee.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>The ethics committee may change an approval in 1 or more of the following respects:</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>by varying a condition previously imposed on the approval:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>by revoking a condition previously imposed on the approval:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text>by imposing 1 or more new conditions on the approval.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>The ethics committee may change the approval on its own initiative only if it is satisfied that the change is necessary—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>to ensure consistency with this Act or relevant guidelines issued or relevant advice given by the advisory committee before or after the date on which the approval was given; or </text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>to correct an error or omission made by the ethics committee.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">4</label>
+              <para>
+                <text>The ethics committee may not change the approval on its own initiative unless it has first—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>informed the person storing the gamete or embryo under the approval concerned why it is considering the change; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>given that person a reasonable time to make written submissions and be heard on the question, either personally or by that person's representative; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text>considered any submissions made in that time.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">5</label>
+              <para>
+                <text>The ethics committee may change the approval at the request of the person storing the gamete or embryo under the approval if it is satisfied that the change is consistent with relevant guidelines issued or relevant advice given by the advisory committee before or after the date on which the approval was given.</text>
+              </para>
+            </subprov>
+          </prov.body>
+          <notes>
+            <history>
+              <history-note id="DLM3314017"><amended-provision>Section 10C</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>16 October 2010</amendment-date>, by <amending-provision href="DLM3019502">section 6</amending-provision> of the <amending-leg>Human Assisted Reproductive Technology (Storage) Amendment Act 2010</amending-leg> (2010 No 117).</history-note>
+            </history>
+          </notes>
+        </prov>
+        <prov id="DLM3314013" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">10D</label>
+          <heading>Cancellation of approval under section 10A</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>The ethics committee may cancel an approval only if—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>the cancellation of approvals under <citation jurisdiction="nz"><intref href="DLM3314009">section 10A</intref></citation> is covered in relevant guidelines issued by the advisory committee; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the ethics committee is satisfied that the cancellation is consistent with relevant guidelines issued and relevant advice given by the advisory committee.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>The ethics committee may cancel an approval, in whole or in part, if it is satisfied—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>that 1 or more conditions stated in the approval have been breached; or</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>that the storage of the gamete or embryo undertaken, or purportedly undertaken, under the approval—</text>
+                    <label-para skeleton="no">
+                      <label auto.number="no" denominator="yes">i</label>
+                      <para>
+                        <text>is inconsistent with any relevant guidelines issued or any relevant advice given by the advisory committee on or before or after the date on which the approval was given; or</text>
+                      </para>
+                    </label-para>
+                    <label-para skeleton="no">
+                      <label auto.number="no" denominator="yes">ii</label>
+                      <para>
+                        <text>is inconsistent with the description set out in the application in which the approval was sought; or</text>
+                      </para>
+                    </label-para>
+                    <label-para skeleton="no">
+                      <label auto.number="no" denominator="yes">iii</label>
+                      <para>
+                        <text>breaches or has breached this Act; or</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text>that, since giving the approval, the ethics committee has become aware that the storage of the gamete or embryo to which the approval relates poses a serious risk to human health and safety.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>The ethics committee may not cancel an approval under subsection (2) unless it has first—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>informed the person storing the gamete or embryo under the approval why it is considering cancelling the approval; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>given that person a reasonable time to make written submissions and be heard on the question, either personally or by that person's representative; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text>considered any submissions made in that time; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">d</label>
+                  <para>
+                    <text>informed the person storing the gamete or embryo under the approval of the forthcoming cancellation and of the date on which the cancellation is to take effect.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">4</label>
+              <para>
+                <text>The ethics committee cancels an approval under this section by written notice given or sent to the person who is, or to any other person who appears to be in charge of, storing the gamete or embryo to which the approval relates.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">5</label>
+              <para>
+                <text>A notice issued under subsection (4) takes effect according to its tenor and must—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>state the date on which it takes effect (not being a date earlier than the date of the notice); and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>if the cancellation relates to only part of the approval, identify the part to which it relates.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+          </prov.body>
+          <notes>
+            <history>
+              <history-note id="DLM3314018"><amended-provision>Section 10D</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>16 October 2010</amendment-date>, by <amending-provision href="DLM3019502">section 6</amending-provision> of the <amending-leg>Human Assisted Reproductive Technology (Storage) Amendment Act 2010</amending-leg> (2010 No 117).</history-note>
+            </history>
+          </notes>
         </prov>
         <prov id="DLM319314" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">11</label>
@@ -715,7 +1082,7 @@
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>select an in vitro human embryo for implantation into a human being on the basis of the sex of the embryo; or</text>
+                    <text>select an <emphasis style="italic">in vitro</emphasis> human embryo for implantation into a human being on the basis of the sex of the embryo; or</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
@@ -851,7 +1218,7 @@
                     <label-para skeleton="no" xml:lang="en-NZ">
                       <label auto.number="no" denominator="yes">iii</label>
                       <para xml:lang="en-NZ">
-                        <text>insemination or in vitro fertilisation:</text>
+                        <text>insemination or <emphasis style="italic">in vitro</emphasis> fertilisation:</text>
                       </para>
                     </label-para>
                     <label-para skeleton="no" xml:lang="en-NZ">
@@ -968,7 +1335,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart id="DLM319320" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="92" act.type="public" date.as.at="2009-01-24" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004">
+      <subpart id="DLM319320" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="92" act.type="public" date.as.at="2010-10-16" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">2</label>
         <heading xml:lang="en-NZ">Activities requiring approval of ethics committee</heading>
         <crosshead id="DLM319321" toc="yes" xml:lang="en-NZ">Activities to proceed only in accordance with approvals and regulations</crosshead>
@@ -1318,7 +1685,7 @@
                     <label-para skeleton="no" xml:lang="en-NZ">
                       <label auto.number="no" denominator="yes">i</label>
                       <para xml:lang="en-NZ">
-                        <text>is inconsistent with any relevant guidelines and advice issued by the advisory committee on or before or after the date on which the approval was given; or</text>
+                        <text>is inconsistent with any <insertwords>relevant guidelines issued or relevant advice given</insertwords> by the advisory committee on or before or after the date on which the approval was given; or</text>
                       </para>
                     </label-para>
                     <label-para skeleton="no" xml:lang="en-NZ">
@@ -1382,7 +1749,7 @@
             <subprov skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">6</label>
               <para xml:lang="en-NZ">
-                <text>Directions under subsection (5) may, without limitation, relate to the preservation, custody, or disposal of in vitro human gametes, in vitro human embryos, or in vitro hybrid embryos.</text>
+                <text>Directions under subsection (5) may, without limitation, relate to the preservation, custody, or disposal of <emphasis style="italic">in vitro</emphasis> human gametes, <emphasis style="italic">in vitro</emphasis> human embryos, or <emphasis style="italic">in vitro</emphasis> hybrid embryos.</text>
               </para>
             </subprov>
             <subprov skeleton="no" xml:lang="en-NZ">
@@ -1410,6 +1777,11 @@
               </para>
             </subprov>
           </prov.body>
+          <notes>
+            <history>
+              <history-note id="DLM3315215"><amended-provision>Section 22(1)(b)(i)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>16 October 2010</amendment-date>, by <amending-provision href="DLM3019508">section 7</amending-provision> of the <amending-leg>Human Assisted Reproductive Technology (Storage) Amendment Act 2010</amending-leg> (2010 No 117).</history-note>
+            </history>
+          </notes>
         </prov>
         <prov id="DLM319330" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">23</label>
@@ -1631,6 +2003,12 @@
               <label auto.number="no" denominator="yes">1</label>
               <para xml:lang="en-NZ">
                 <text>For the purposes of this Part, the ethics committee has the following functions:</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">aa</label>
+                  <para>
+                    <text>to consider and determine applications for, and to give, change, and cancel in accordance with <citation jurisdiction="nz"><intref href="DLM3314010">sections 10B to 10D</intref></citation>, approvals under <citation jurisdiction="nz"><intref href="DLM3314009">section 10A</intref></citation> for extensions to the applicable period for the storage of a human <emphasis style="italic">in vitro</emphasis> gamete or a human <emphasis style="italic">in vitro</emphasis> embryo:</text>
+                  </para>
+                </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
@@ -1670,6 +2048,11 @@
               </para>
             </subprov>
           </prov.body>
+          <notes>
+            <history>
+              <history-note id="DLM3315216"><amended-provision>Section 28(1)(aa)</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>16 October 2010</amendment-date>, by <amending-provision href="DLM3019509">section 8</amending-provision> of the <amending-leg>Human Assisted Reproductive Technology (Storage) Amendment Act 2010</amending-leg> (2010 No 117).</history-note>
+            </history>
+          </notes>
         </prov>
         <crosshead id="DLM319338" toc="yes" xml:lang="en-NZ">Duties of ethics committee in relation to advisory committee</crosshead>
         <prov id="DLM319339" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -1758,7 +2141,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart id="DLM319343" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="92" act.type="public" date.as.at="2009-01-24" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004">
+      <subpart id="DLM319343" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" act.no="92" act.type="public" date.as.at="2010-10-16" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">3</label>
         <heading xml:lang="en-NZ">Advisory committee</heading>
         <crosshead id="DLM319344" toc="yes" xml:lang="en-NZ">Establishment, appointments, and functions</crosshead>
@@ -1926,10 +2309,16 @@
               <label auto.number="no" denominator="yes">1</label>
               <para xml:lang="en-NZ">
                 <text>The advisory committee has the following functions:</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">aa</label>
+                  <para>
+                    <text>to issue guidelines and give advice to the ethics committee on the matters that the ethics committee must take into account in considering whether to give, change, or cancel in accordance with <citation jurisdiction="nz"><intref href="DLM3314010">sections 10B to 10D</intref></citation> an approval under <citation jurisdiction="nz"><intref href="DLM3314009">section 10A</intref></citation> for an extension to the applicable period for the storage of a human <emphasis style="italic">in vitro</emphasis> gamete or a human <emphasis style="italic">in vitro</emphasis> embryo:</text>
+                  </para>
+                </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>to issue guidelines and advice to the ethics committee on any matter relating to any kind of assisted reproductive procedure or human reproductive research and to keep such guidelines and advice under review:</text>
+                    <text>to issue guidelines and <insertwords>give</insertwords> advice to the ethics committee on any matter relating to any kind of assisted reproductive procedure or human reproductive research and to keep such guidelines and advice under review:</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
@@ -2013,6 +2402,12 @@
               </para>
             </subprov>
           </prov.body>
+          <notes>
+            <history>
+              <history-note id="DLM3315217"><amended-provision>Section 35(1)(aa)</amended-provision>: <amending-operation>inserted</amending-operation>, on <amendment-date>16 October 2010</amendment-date>, by <amending-provision href="DLM2398915">section 9(1)</amending-provision> of the <amending-leg>Human Assisted Reproductive Technology (Storage) Amendment Act 2010</amending-leg> (2010 No 117).</history-note>
+              <history-note id="DLM3315218"><amended-provision>Section 35(1)(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>16 October 2010</amendment-date>, by <amending-provision href="DLM2398915">section 9(2)</amending-provision> of the <amending-leg>Human Assisted Reproductive Technology (Storage) Amendment Act 2010</amending-leg> (2010 No 117).</history-note>
+            </history>
+          </notes>
         </prov>
         <crosshead id="DLM319349" toc="yes" xml:lang="en-NZ">Guidelines and advice</crosshead>
         <prov id="DLM319350" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -2146,7 +2541,7 @@
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">g</label>
                   <para xml:lang="en-NZ">
-                    <text>the import into, or export from, New Zealand of in vitro human gametes or in vitro human embryos.</text>
+                    <text>the import into, or export from, New Zealand of <emphasis style="italic">in vitro</emphasis> human gametes or <emphasis style="italic">in vitro</emphasis> human embryos.</text>
                   </para>
                 </label-para>
               </para>
@@ -2200,7 +2595,7 @@
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">f</label>
                   <para xml:lang="en-NZ">
-                    <text>the import into, or export from, New Zealand of in vitro donated cells or in vitro donated embryos.</text>
+                    <text>the import into, or export from, New Zealand of <emphasis style="italic">in vitro</emphasis> donated cells or <emphasis style="italic">in vitro</emphasis> donated embryos.</text>
                   </para>
                 </label-para>
               </para>
@@ -2396,7 +2791,7 @@
         </prov>
       </subpart>
     </part>
-    <part id="DLM319359" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="92" act.type="public" date.as.at="2009-01-24" date.assent="2004-11-21" stage="reprint" year="2004">
+    <part id="DLM319359" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="92" act.type="public" date.as.at="2010-10-16" date.assent="2004-11-21" stage="reprint" year="2004" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">3</label>
       <heading xml:lang="en-NZ">Information about donors of donated embryos or donated cells and donor offspring</heading>
       <crosshead id="DLM319360" toc="yes" xml:lang="en-NZ">Application</crosshead>
@@ -3750,7 +4145,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM319395" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="92" act.type="public" date.as.at="2009-01-24" date.assent="2004-11-21" stage="reprint" year="2004">
+    <part id="DLM319395" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="92" act.type="public" date.as.at="2010-10-16" date.assent="2004-11-21" stage="reprint" year="2004" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">4</label>
       <heading xml:lang="en-NZ">Enforcement and miscellaneous provisions</heading>
       <crosshead id="DLM319396" toc="yes" xml:lang="en-NZ">Enforcement</crosshead>
@@ -3795,7 +4190,7 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">c</label>
                 <para xml:lang="en-NZ">
-                  <text>whether the performance of any assisted reproductive procedure or the conduct of any human reproductive research—</text>
+                  <text>whether the performance of any assisted reproductive procedure or the conduct of any human reproductive research<insertwords>, or any storage of an <emphasis style="italic">in vitro</emphasis> human gamete or an <emphasis style="italic">in vitro</emphasis> human embryo and that is not, or is not part of, any assisted reproductive procedure or human reproductive research,</insertwords>—</text>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">i</label>
                     <para xml:lang="en-NZ">
@@ -3831,6 +4226,11 @@
             </para>
           </subprov>
         </prov.body>
+        <notes>
+          <history>
+            <history-note id="DLM3315219"><amended-provision>Section 67(2)(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>16 October 2010</amendment-date>, by <amending-provision href="DLM3019510">section 10</amending-provision> of the <amending-leg>Human Assisted Reproductive Technology (Storage) Amendment Act 2010</amending-leg> (2010 No 117).</history-note>
+          </history>
+        </notes>
       </prov>
       <prov id="DLM319398" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">68</label>
@@ -3895,13 +4295,13 @@
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">ii</label>
                     <para xml:lang="en-NZ">
-                      <text>an in vitro gamete:</text>
+                      <text>an <emphasis style="italic">in vitro</emphasis> gamete:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">iii</label>
                     <para xml:lang="en-NZ">
-                      <text>an in vitro embryo or an in vitro foetus:</text>
+                      <text>an <emphasis style="italic">in vitro</emphasis> embryo or an <emphasis style="italic">in vitro</emphasis> foetus:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
@@ -4314,13 +4714,13 @@
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">ii</label>
                     <para xml:lang="en-NZ">
-                      <text>providing for the use or destruction of in vitro gametes or in vitro embryos, in particular, without limitation, in cases where one party from whom such a gamete or embryo has been obtained or formed withdraws his or her consent to any course of action:</text>
+                      <text>providing for the use or destruction of <emphasis style="italic">in vitro</emphasis> gametes or <emphasis style="italic">in vitro</emphasis> embryos, in particular, without limitation, in cases where one party from whom such a gamete or embryo has been obtained or formed withdraws his or her consent to any course of action:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
                     <label auto.number="no" denominator="yes">iii</label>
                     <para xml:lang="en-NZ">
-                      <text>prescribing requirements or conditions for, or imposing restrictions on, the import into, or the export from, New Zealand of in vitro gametes or in vitro embryos, including, without limitation, requirements for the giving of informed consent (not being requirements that are inconsistent with this Act or the <citation jurisdiction="nz"><leg-title href="DLM209079">Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996</leg-title></citation>) by persons from whom gametes are obtained overseas:</text>
+                      <text>prescribing requirements or conditions for, or imposing restrictions on, the import into, or the export from, New Zealand of <emphasis style="italic">in vitro</emphasis> gametes or <emphasis style="italic">in vitro</emphasis> embryos, including, without limitation, requirements for the giving of informed consent (not being requirements that are inconsistent with this Act or the <citation jurisdiction="nz"><leg-title href="DLM209079">Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996</leg-title></citation>) by persons from whom gametes are obtained overseas:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no" xml:lang="en-NZ">
@@ -4474,23 +4874,15 @@
         </prov.body>
       </prov>
       <crosshead id="DLM319815" toc="yes" xml:lang="en-NZ">Transitional provisions</crosshead>
-      <prov id="DLM319816" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <prov deletion-status="repealed" id="DLM319816" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">79</label>
         <heading xml:lang="en-NZ">Director-General of Health to be advisory committee pending its establishment</heading>
-        <prov.body>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">1</label>
-            <para xml:lang="en-NZ">
-              <text>Until the expiry of 9 months after the date on which this Act receives the Royal assent, the Director-General of Health is deemed to be the advisory committee for the purposes of this Act.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no" xml:lang="en-NZ">
-            <label auto.number="no" denominator="yes">2</label>
-            <para xml:lang="en-NZ">
-              <text>This section expires, and is taken to be repealed on the date that is 9 months after the date on which this Act receives the Royal assent.</text>
-            </para>
-          </subprov>
-        </prov.body>
+        <prov.body/>
+        <notes>
+          <history>
+            <history-note id="DLM3319008"><amended-provision>Section 79</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>21 August 2005</amendment-date>, by section 79(2).</history-note>
+          </history>
+        </notes>
       </prov>
       <prov id="DLM319817" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">80</label>
@@ -4509,19 +4901,19 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">a</label>
                 <para xml:lang="en-NZ">
-                  <text>the creation of an in vitro human embryo; or</text>
+                  <text>the creation of an <emphasis style="italic">in vitro</emphasis> human embryo; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>the storage, manipulation, or use of an in vitro human gamete or an in vitro human embryo; or</text>
+                  <text>the storage, manipulation, or use of an <emphasis style="italic">in vitro</emphasis> human gamete or an <emphasis style="italic">in vitro</emphasis> human embryo; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">c</label>
                 <para xml:lang="en-NZ">
-                  <text>the use of cells derived from an in vitro human embryo; or</text>
+                  <text>the use of cells derived from an <emphasis style="italic">in vitro</emphasis> human embryo; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no" xml:lang="en-NZ">
@@ -4796,7 +5188,7 @@
     </part>
   </body>
   <schedule.group xml:lang="en-NZ">
-    <schedule id="DLM319832" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="92" act.type="public" date.as.at="2009-01-24" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004">
+    <schedule id="DLM319832" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="92" act.type="public" date.as.at="2010-10-16" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -4897,7 +5289,7 @@
         </prov>
       </schedule.provisions>
     </schedule>
-    <schedule id="DLM319833" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="92" act.type="public" date.as.at="2009-01-24" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004">
+    <schedule id="DLM319833" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="92" act.type="public" date.as.at="2010-10-16" date.assent="2004-11-21" date.first.valid="2007-09-18" stage="reprint" year="2004" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -4994,10 +5386,10 @@
           <label auto.number="no" denominator="yes">1</label>
           <heading>General</heading>
           <para>
-            <text>This is a reprint of the Human Assisted Reproductive Technology Act 2004. The reprint incorporates all the amendments to the Act as at 1 November 2008, as specified in the list of amendments at the end of these notes.</text>
+            <text>This is a reprint of the Human Assisted Reproductive Technology Act 2004. The reprint incorporates all the amendments to the Act as at 16 October 2010, as specified in the list of amendments at the end of these notes.</text>
           </para>
           <para>
-            <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
           </para>
         </reprint.note>
         <reprint.note>
@@ -5014,7 +5406,7 @@
           <label auto.number="no" denominator="yes">3</label>
           <heading>How reprints are prepared</heading>
           <para>
-            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the <emphasis style="italic">Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force</emphasis>.</text>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
           </para>
         </reprint.note>
         <reprint.note>
@@ -5024,7 +5416,7 @@
             <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
           </para>
           <para>
-            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
           </para>
           <para>
             <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
@@ -5070,7 +5462,7 @@
               <item>
                 <label auto.number="no" denominator="no">•</label>
                 <para>
-                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
                 </para>
               </item>
               <item>
@@ -5136,6 +5528,9 @@
           <label auto.number="no" denominator="yes">5</label>
           <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
           <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM2398900">Human Assisted Reproductive Technology (Storage) Amendment Act 2010</extref> (2010 No 117)</citation>
+          </reprint.amend>
+          <reprint.amend>
             <citation jurisdiction="nz">Policing Act 2008 (2008 No 72): <extref href="DLM1102349">section 116(a)(ii)</extref></citation>
           </reprint.amend>
           <reprint.amend>
@@ -5145,7 +5540,10 @@
             <citation jurisdiction="nz">Human Tissue Act 2008 (2008 No 28): <extref href="DLM1154309">section 91(2)</extref></citation>
           </reprint.amend>
           <reprint.amend>
-            <citation jurisdiction="nz">Human Assisted Reproductive Technology Amendment Act 2007 (2007 No 63): <extref href="DLM968343">sections 4</extref>, <extref href="DLM968344">5</extref></citation>
+            <citation jurisdiction="nz"><extref href="DLM968336">Human Assisted Reproductive Technology Amendment Act 2007</extref> (2007 No 63)</citation>
+          </reprint.amend>
+          <reprint.amend>
+            <citation jurisdiction="nz">Human Assisted Reproductive Technology Act 2004 (2004 No 92): <extref href="DLM319816">section 79</extref></citation>
           </reprint.amend>
         </reprint.note>
       </reprint.notes>
