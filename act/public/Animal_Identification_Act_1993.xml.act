@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act id="DLM317163" in.amend="false" instructing.office="Agriculture and Forestry" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="96" act.type="public" date.as.at="1999-05-07" date.assent="1993-08-26" date.first.valid="1993-08-26" stage="reprint" year="1993" prospective.consolidation="F">
+  <cover id="DLM317164">
+    <reprint-date>1999-05-07</reprint-date>
+    <title xml:lang="en-NZ">Animal Identification Act 1993</title>
+    <assent>1993-08-26</assent>
+    <commencement>see section 1</commencement>
+    <cover.reprint-note>
+      <para xml:lang="en-NZ">
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Ministry of Agriculture and Forestry</ministry>.</admin-office>
+    </cover.reprint-note>
+  </cover>
+  <contents>
+    <heading xml:lang="en-NZ">Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM317165" xml:lang="en-NZ">
+    <long-title id="DLM317166" toc="yes" xml:lang="en-NZ">
+      <para xml:lang="en-NZ">
+        <text>An Act to facilitate the identification of animals, with the object of providing evidence of ownership of animals</text>
+      </para>
+    </long-title>
+  </front>
+  <body id="DLM317167" prov-type="section" xml:lang="en-NZ">
+    <prov id="DLM317168" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading xml:lang="en-NZ">Short Title and commencement</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>This Act may be cited as the Animal Identification Act 1993.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz"><intref href="DLM317191">Section 11</intref></citation> shall come into force on 1 October 1993.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz"><intref href="DLM317169">Sections 2 to 9</intref></citation> shall come into force on 1 January 1995.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">4</label>
+          <para xml:lang="en-NZ">
+            <text><citation jurisdiction="nz"><intref href="DLM317190">Section 10</intref></citation> shall come into force on 1 July 1995.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">5</label>
+          <para xml:lang="en-NZ">
+            <text>Except as provided in subsections (2) to (4), this Act shall come into force on the day on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM317169" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading xml:lang="en-NZ">Interpretation</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>In this Act, unless the context otherwise requires,—</text>
+            <def-para id="DLM317170" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM317171" xml:lang="en-NZ">authorised person</def-term> has the meaning given to that term by <citation jurisdiction="nz"><extref href="DLM314636">section 2(1)</extref> of the Biosecurity Act 1993</citation></text>
+              </para>
+            </def-para>
+            <def-para id="DLM317172" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM317173" xml:lang="en-NZ">Director-General</def-term> means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act</text>
+              </para>
+            </def-para>
+            <def-para id="DLM317174" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM317175" xml:lang="en-NZ">inspector</def-term> has the meaning given to that term by <citation jurisdiction="nz"><extref href="DLM314694">section 2(1)</extref> of the Biosecurity Act 1993</citation></text>
+              </para>
+            </def-para>
+            <def-para id="DLM317176" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM317177" xml:lang="en-NZ">occupier</def-term>,—</text>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para xml:lang="en-NZ">
+                    <text>in relation to any place physically occupied by any person, means that person; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para xml:lang="en-NZ">
+                    <text>in relation to any other place, means the owner of the place; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para xml:lang="en-NZ">
+                    <text>in relation to any place, includes any agent, employee, or other person, acting or apparently acting in the general management or control of the place</text>
+                  </para>
+                </label-para>
+              </para>
+            </def-para>
+            <def-para id="DLM317178" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM317179" xml:lang="en-NZ">registered identification</def-term> means any form of identification,—</text>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para xml:lang="en-NZ">
+                    <text>used; or</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para xml:lang="en-NZ">
+                    <text>intended to be used,—</text>
+                  </para>
+                </label-para>
+                <text>pursuant to an identification system for the time being registered under <citation jurisdiction="nz"><intref href="DLM317181">section 3</intref></citation>.</text>
+              </para>
+            </def-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <crosshead id="DLM2500701" toc="yes">Identification systems</crosshead>
+    <prov id="DLM317181" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading xml:lang="en-NZ">Registration of identification systems</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>The Director-General may register an identification system which—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>provides unique, clear, and lasting identification of animals of any kind or description, having regard to—</text>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">i</label>
+                  <para xml:lang="en-NZ">
+                    <text>the distribution of; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">ii</label>
+                  <para xml:lang="en-NZ">
+                    <text>management practices relating to; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">iii</label>
+                  <para xml:lang="en-NZ">
+                    <text>any other relevant characteristics of,—</text>
+                  </para>
+                </label-para>
+                <text>animals of that kind or description; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>provides a satisfactory method for the regular and continuing updating of identifications within the system; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>does not create confusion with any other registered system.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>An application for registration, or amendment or renewal of registration of an identification system, shall be made in accordance with regulations made under this Act and shall be accompanied or supplemented by such information concerning the system as the Director-General may require.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text>The Director-General shall consider every application for registration under this section; and, if satisfied that the application meets the criteria in subsection (1) and has been made in accordance with the regulations, the Director-General shall register the system.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">4</label>
+          <para xml:lang="en-NZ">
+            <text>The initial registration of a system shall remain in force for 5 years and may from time to time be renewed for similar terms by application made before the registration expires.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM317182" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading xml:lang="en-NZ">Register of identification systems</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>The Director-General shall maintain a register of identification systems in such manner as the Director-General thinks suitable; but the register shall contain and be capable of readily disclosing an adequate and up to date description of each registered system.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>The register shall be available for public inspection and information during normal office hours on payment of a reasonable charge.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM317183" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">5</label>
+      <heading xml:lang="en-NZ">Monitoring identification systems</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>The Director-General shall monitor the effectiveness and efficiency of identification systems registered under this Act.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>The Director-General may revoke a registration under this Act on the grounds that the system is ineffective or is being operated inefficiently; but before doing so the Director-General shall—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>give not less than 20 working days' notice to the holder of the registration of the proposed revocation and the reasons for it; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>as part of that notice, advise that the holder may make written representations to the Director-General concerning the proposed revocation; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>consider any representations made by the holder of the registration.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM317184" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">6</label>
+      <heading xml:lang="en-NZ">Regulations</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>prescribing the procedure for applications for registration under this Act, and for alteration, surrender, or renewal of registration:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>providing for and regulating the required content of identification systems, the manner of operation of identification systems, and enabling general and special conditions to be attached to the registration of such systems:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>prescribing the rights and obligations of registered holders of identification systems, with respect to the identification of animals in accordance with registered systems:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">d</label>
+              <para xml:lang="en-NZ">
+                <text>providing for the recovery of the costs of the Director-General incurred in the establishment and maintenance of the register of identification systems and the performance of the Director-General's duties under this Act:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">e</label>
+              <para xml:lang="en-NZ">
+                <text>prescribing offences in respect of the contravention of any regulations made under this Act or any lawful direction or requirement made under this Act or any such regulations, and providing for fines that may be imposed in respect of any such offences of an amount not exceeding $1,000.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <crosshead id="DLM2500702" toc="yes">Offences relating to identification of stock</crosshead>
+    <prov id="DLM317186" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">7</label>
+      <heading xml:lang="en-NZ">Destruction of skins or removal of distinguishing identifications prohibited</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>No person shall, unless that person has—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>reasonable excuse; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>the written permission of an inspector or authorised person,—</text>
+              </para>
+            </label-para>
+            <text>alter, deface, remove, or cause to be altered, defaced, or removed, a registered identification that has been used to identify an animal.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>No person shall use to identify an animal a registered identification that the person is not entitled to use.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text>No person shall use a registered identification to identify an animal that the person—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>is not entitled to identify; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>is not entitled to identify with that identification.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">4</label>
+          <para xml:lang="en-NZ">
+            <text>No person shall use to identify an animal an identification (not being a registered identification) that the person knows is likely to be mistaken for or confused with a registered identification.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">5</label>
+          <para xml:lang="en-NZ">
+            <text>A person who contravenes this section commits an offence, and is liable on conviction to a fine not exceeding $5,000.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">6</label>
+          <para xml:lang="en-NZ">
+            <text>A person who, in any proceeding under this section, is proved to have been in possession of any part of an animal from which any registered identification has been removed, or that is or was identified by a registered identification that has been defaced or destroyed, shall, in the absence of proof to the contrary by that person, be presumed to have removed, defaced, or destroyed the identification.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <cf>
+        <citation jurisdiction="nz">1967 No 50 s 64</citation>
+      </cf>
+    </prov>
+    <prov id="DLM317187" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">8</label>
+      <heading xml:lang="en-NZ">Inspection of skins and carcasses</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>An inspector or authorised person may at any time inspect the skin or carcass of any slaughtered animal, wherever the animal was slaughtered and wherever the skin is found.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>On the request of an inspector or authorised person—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>the occupier of any place where—</text>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">i</label>
+                  <para xml:lang="en-NZ">
+                    <text>animals are slaughtered; or</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no" xml:lang="en-NZ">
+                  <label auto.number="no" denominator="yes">ii</label>
+                  <para xml:lang="en-NZ">
+                    <text>any product derived from slaughtered animals is handled or stored,—</text>
+                  </para>
+                </label-para>
+                <text>shall provide to the inspector or authorised person full particulars in writing as to the person from whom any animal was received for slaughter and as to the disposition of the skin or carcass or product; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>the occupier or other person for the time being in charge of the premises on which any skin or carcass of any slaughtered animal or product derived from any slaughtered animal is found shall provide full particulars in writing as to the person from whom the skin or carcass or product was received or on whose account it is held; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>every person who, whether as principal or agent, buys or receives from any other person, or sells or delivers to any other person, any hides or skins or carcasses of any animal, shall provide full particulars in writing as to the transaction, together with certified copies of all accounts, records, and other documents relating to the transaction in the possession or under the control of that person.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text>A person who contravenes subsection (2) commits an offence, and is liable on conviction to a fine not exceeding $1,000.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <cf>
+        <citation jurisdiction="nz">1967 No 50 s 65</citation>
+      </cf>
+    </prov>
+    <prov id="DLM317188" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">9</label>
+      <heading xml:lang="en-NZ">Recovery of stray stock</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>On the application of an animal owner who believes on reasonable grounds that any stock owned by that person has strayed on to land occupied by any other person or is in the possession of any other person, an inspector or authorised person may by notice in writing require that other person, on a date specified in the notice,—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>to muster his or her stock of the kind to which the application relates; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>if that person is not holding such stock on land in his or her occupation, to allow any stock whose identity is in question to be mustered in a yard or pen,—</text>
+              </para>
+            </label-para>
+            <text>for the purpose of identification and handing over of any stock belonging to the applicant.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>If an inspector or authorised person is unable for good reason to deal with an application under subsection (1) without some delay and believes on reasonable grounds that any stock whose identity is in question may be removed from the land or otherwise disposed of in the meantime, the inspector or authorised person may, if requested to do so by the applicant, order the detention of the stock in such manner as the inspector or authorised person thinks appropriate until the application is dealt with or the expiration of 7 days, whichever happens first.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text>Every person who refuses or fails to comply with a notice or order under this section commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">4</label>
+          <para xml:lang="en-NZ">
+            <text>An inspector or authorised person may, on the application of a person who has been given a notice under subsection (1), postpone the date fixed for the mustering of animals.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">5</label>
+          <para xml:lang="en-NZ">
+            <text>A person to whom a notice or order is given under this section is entitled to recover from the owner who requested the notice or order—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>any reasonable expenses incurred in mustering or delivering the stock concerned or in carrying out an order for detention; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>compensation for any unavoidable damage suffered in complying with the notice or order.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">6</label>
+          <para xml:lang="en-NZ">
+            <text>Any occupier of land who believes on reasonable grounds that animals owned by another person have strayed onto the land may, by written notice to the other person, require the other person to remove such of the animals as in fact belong to the other person at the other person's expense.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">7</label>
+          <para xml:lang="en-NZ">
+            <text>A party to a covenant established for 1 or more of the purposes specified in <citation jurisdiction="nz">subparagraphs (ii) to (v) of <extref href="DLM315375"><insertwords xmlns:atidlm="http://www.arbortext.com/namespace/atidlm">section 57(1)(c)</insertwords></extref> of the Biosecurity Act 1993</citation> who believes there are present on the covenanted land animals likely to affect adversely the values being protected—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>may by written notice to the owner of the animals require the owner to remove or destroy the animals; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>if the notice is not complied with, have the animals impounded at the cost of the owner.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+      </prov.body>
+      <cf>
+        <citation jurisdiction="nz">1967 No 50 s 61</citation>
+      </cf>
+      <notes>
+        <history>
+          <history-note id="DLM317189"><amended-provision>Section 9(7)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>7 May 1999</amendment-date>, by <amending-provision href="DLM23914">section 2</amending-provision> of the <amending-leg>Animal Identification Amendment Act 1999</amending-leg> (1999 No 27).</history-note>
+        </history>
+      </notes>
+    </prov>
+    <prov id="DLM317190" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">10</label>
+      <heading xml:lang="en-NZ">Consequential revocations</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="no"/>
+          <para xml:lang="en-NZ">
+            <text>The following orders are hereby revoked:</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>the <citation jurisdiction="nz">Deer Branding Order 1976</citation>:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>the <citation jurisdiction="nz">Goat Branding Order 1977</citation>:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>the <citation jurisdiction="nz">Deer Branding Order 1976, Amendment No 1</citation>:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">d</label>
+              <para xml:lang="en-NZ">
+                <text>the <citation jurisdiction="nz">Animal Branding Fees Regulations 1985</citation>.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM317191" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">11</label>
+      <heading xml:lang="en-NZ">Transitional</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>Notwithstanding <citation jurisdiction="nz"><extref href="DLM316768">section 167(1)</extref> of the Biosecurity Act 1993</citation>, <citation jurisdiction="nz">sections 64 to 66, 69 to 73, 75 to 78, 80 to 83, 91, 93, and 96 of the Animals Act 1967</citation>, and such other provisions of that Act as are necessary to enable the continued operation of those sections, shall continue in full effect until the close of 30 June 1995.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>Where any brand or earmark is registered or enuring under <citation jurisdiction="nz">Part 5 of the Animals Act 1967</citation> immediately before the close of 30 June 1995, there shall, until—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>it is revoked under <citation jurisdiction="nz"><intref href="DLM317183">section 5(2)</intref></citation>; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>the close of 30 June 1998,—</text>
+              </para>
+            </label-para>
+            <text>(whichever is the sooner) be deemed to be registered under this Act an identification system providing for the use of that brand or mark.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">3</label>
+          <para xml:lang="en-NZ">
+            <text>Subject to subsection (4), at any time on or after 1 January 1995, this Act shall apply to an application for the registration of an identification system made after the enactment of this Act and before that day as if this Act had been in force when the application was made; but if the system involves the use of a brand or mark then registered or enuring under <citation jurisdiction="nz">Part 5 of the Animals Act 1967</citation>, the Director-General shall not register it unless satisfied that the applicant is the owner of that brand or mark.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">4</label>
+          <para xml:lang="en-NZ">
+            <text>The registration of an identification system under this Act before 1 July 1995 shall not have effect until that day.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+  </body>
+  <end id="DLM3336900">
+    <end.reprint-note id="DLM3336901">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the Animal Identification Act 1993. The reprint incorporates all the amendments to the Act as at 7 May 1999, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/</extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM23908">Animal Identification Amendment Act 1999</extref> (1999 No 27)</citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
+  </end>
+</act>
