@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act id="DLM341480" in.amend="false" instructing.office="Economic Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="116" act.type="public" date.as.at="2002-12-01" date.assent="1994-11-25" date.first.valid="2007-09-18" stage="reprint" year="1994" prospective.consolidation="F">
+  <cover id="DLM341481">
+    <reprint-date>2002-12-01</reprint-date>
+    <title xml:lang="en-NZ">Layout Designs Act 1994</title>
+    <assent>1994-11-25</assent>
+    <commencement>see section 1(2)</commencement>
+    <cover.reprint-note>
+      <para>
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Ministry of Economic Development</ministry>.</admin-office>
+    </cover.reprint-note>
+  </cover>
+  <contents>
+    <heading xml:lang="en-NZ">Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM341482" xml:lang="en-NZ">
+    <long-title id="DLM341483" toc="yes" xml:lang="en-NZ">
+      <para xml:lang="en-NZ">
+        <text>An Act to provide for the protection of layout designs for integrated circuits</text>
+      </para>
+    </long-title>
+  </front>
+  <body id="DLM341484" prov-type="section" xml:lang="en-NZ">
+    <prov id="DLM341485" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading xml:lang="en-NZ">Short Title and commencement</heading>
+      <prov.body>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">1</label>
+          <para xml:lang="en-NZ">
+            <text>This Act may be cited as the Layout Designs Act 1994.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no" xml:lang="en-NZ">
+          <label auto.number="no" denominator="yes">2</label>
+          <para xml:lang="en-NZ">
+            <text>This Act shall come into force on 1 January 1995.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <part id="DLM341486" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="116" act.type="public" date.as.at="2002-12-01" date.assent="1994-11-25" stage="reprint" year="1994" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading xml:lang="en-NZ">Interpretation and application</heading>
+      <prov id="DLM341487" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">2</label>
+        <heading xml:lang="en-NZ">Interpretation</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>In this Act, unless the context otherwise requires,—</text>
+              <def-para id="DLM341488" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM341489" xml:lang="en-NZ">commercially exploited</def-term> has the meaning set out in <citation jurisdiction="nz"><intref href="DLM342129">section 3</intref></citation></text>
+                </para>
+              </def-para>
+              <def-para id="DLM341490" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM341491" xml:lang="en-NZ">Copyright Tribunal</def-term> means the Copyright Tribunal established under <insertwords><citation jurisdiction="nz"><extref href="DLM346871">Part 10</extref> of the Copyright Act 1994</citation></insertwords></text>
+                </para>
+              </def-para>
+              <def-para id="DLM341493" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM341494" xml:lang="en-NZ">Crown</def-term>—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para xml:lang="en-NZ">
+                      <text>means Her Majesty the Queen in right of New Zealand; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para xml:lang="en-NZ">
+                      <text>includes a Minister of the Crown, a department, and an Office of Parliament; but</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para xml:lang="en-NZ">
+                      <text>does not include—</text>
+                      <label-para skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para xml:lang="en-NZ">
+                          <text>a Crown entity; or</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no" xml:lang="en-NZ">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para xml:lang="en-NZ">
+                          <text>a State enterprise named in <citation jurisdiction="nz"><extref href="DLM98444">Schedule 1</extref> of the State-Owned Enterprises Act 1986</citation></text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM341495" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM341496" xml:lang="en-NZ">Crown entity</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM160819">section 2(1)</extref> of the Public Finance Act 1989</citation></text>
+                </para>
+              </def-para>
+              <def-para id="DLM341497" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM341498" xml:lang="en-NZ">department</def-term> means any department or instrument of the Government, or any branch or division thereof; but does not include a body corporate or other legal entity that has the power to contract, <insertwords>Public Trust</insertwords>, or the Export Guarantee Office</text>
+                </para>
+              </def-para>
+              <def-para id="DLM342100" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342101" xml:lang="en-NZ">eligible country</def-term> means an entity for the time being declared by an order under <citation jurisdiction="nz"><intref href="DLM342177">section 37(1)</intref></citation> to be an eligible country for the purposes of this Act</text>
+                </para>
+              </def-para>
+              <def-para id="DLM342103" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342104" xml:lang="en-NZ">eligible layout design</def-term> means an original layout design—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para xml:lang="en-NZ">
+                      <text>the maker, or in relation to a jointly made layout design any 1 or more of the makers, of which was, at the time the layout design was made, an eligible person; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para xml:lang="en-NZ">
+                      <text>that was first commercially exploited in New Zealand or in an eligible country</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM342105" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342106" xml:lang="en-NZ">eligible person</def-term> means—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para xml:lang="en-NZ">
+                      <text>a New Zealand citizen or a person domiciled or resident in New Zealand:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para xml:lang="en-NZ">
+                      <text>a body corporate incorporated in New Zealand:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para xml:lang="en-NZ">
+                      <text>a citizen of an eligible country or a person who is domiciled or resident in an eligible country:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">d</label>
+                    <para xml:lang="en-NZ">
+                      <text>a body corporate incorporated in an eligible country</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM342107" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342108" xml:lang="en-NZ">exclusive licence</def-term> means a licence in writing, signed by or on behalf of the owner or prospective owner of layout design rights, authorising the licensee, to the exclusion of all other persons, to do an act that, under this Act, the owner would, but for the licence, have the exclusive right to do</text>
+                </para>
+              </def-para>
+              <def-para id="DLM342109" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342110" xml:lang="en-NZ">exclusive right</def-term> has the meaning set out in <citation jurisdiction="nz"><intref href="DLM342132">section 4</intref></citation></text>
+                </para>
+              </def-para>
+              <def-para id="DLM342111" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342112" xml:lang="en-NZ">future rights</def-term> means layout design rights that will come into existence at a future time or on the happening of a future event</text>
+                </para>
+              </def-para>
+              <def-para id="DLM342113" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342114" xml:lang="en-NZ">integrated circuit</def-term> means a circuit, in its final or an intermediate form, in which the elements, at least 1 of which is an active element, and some or all of the interconnections are integrally formed in or on a piece of material and that is intended to perform an electronic function</text>
+                </para>
+              </def-para>
+              <def-para id="DLM342115" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342116" xml:lang="en-NZ">layout design</def-term> means the three-dimensional disposition, however expressed, of the elements, at least 1 of which is an active element, and of some or all of the interconnections, of an integrated circuit; and includes such a three-dimensional disposition prepared for an integrated circuit intended for manufacture</text>
+                </para>
+              </def-para>
+              <def-para id="DLM342117" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342118" xml:lang="en-NZ">layout design rights</def-term> means the exclusive rights specified in <citation jurisdiction="nz"><intref href="DLM342145">section 13</intref></citation> in relation to an eligible layout design</text>
+                </para>
+              </def-para>
+              <def-para id="DLM342119" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342120" xml:lang="en-NZ">material form</def-term>, in relation to a layout design, includes any form of storage or expression (whether visible or not) from which the layout design, or a substantial part of it, can be reproduced</text>
+                </para>
+              </def-para>
+              <def-para id="DLM342121" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342122" xml:lang="en-NZ">Minister</def-term> means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act</text>
+                </para>
+              </def-para>
+              <def-para id="DLM342124" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342125" xml:lang="en-NZ">prospective owner</def-term> means,—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para xml:lang="en-NZ">
+                      <text>in relation to future layout design rights that are not the subject of an agreement of the kind referred to in <citation jurisdiction="nz"><intref href="DLM342179">section 38(1)</intref></citation>, the person who will be the owner of those rights when they come into existence; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para xml:lang="en-NZ">
+                      <text>in relation to future layout design rights that are the subject of such an agreement, the person in whom those rights will vest under that subsection when they come into existence</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM342126" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM342127" xml:lang="en-NZ">protection period</def-term>, in relation to an eligible layout design, means the period beginning on the day on which the layout design was made and ending,—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para xml:lang="en-NZ">
+                      <text>if the layout design is first commercially exploited within 5 calendar years after the calendar year in which the layout design was made, at the end of the tenth calendar year after the calendar year in which the layout design was first commercially exploited; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para xml:lang="en-NZ">
+                      <text>in any other case, at the end of the period of 15 calendar years after the calendar year in which the layout design was made.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>In the case of an entity that is an eligible country but is not a State, part of a State, or a territory for whose international relations a State is responsible,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>the reference in paragraph (d) of the definition of the term eligible person in subsection (1) to a body corporate incorporated in an eligible country must be read as a reference to a body corporate incorporated under the rules of the entity:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>the reference in <citation jurisdiction="nz"><intref href="DLM342177">section 37(2)(b)</intref></citation> to the law of an eligible country must be read as a reference to the rules of the entity.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 5 (Aust)</citation>
+        </cf>
+        <notes>
+          <history>
+            <history-note id="DLM341492"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">Copyright Tribunal</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>1 January 1995</amendment-date>, by <amending-provision href="DLM347117">section 236(1)</amending-provision> of the <amending-leg>Copyright Act 1994</amending-leg> (1994 No 143).</history-note>
+            <history-note id="DLM341499"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">department</emphasis>: <amending-operation>amended</amending-operation>, on <amendment-date>1 March 2002</amendment-date>, by <amending-provision href="DLM124529">section 170(1)</amending-provision> of the <amending-leg>Public Trust Act 2001</amending-leg> (2001 No 100).</history-note>
+            <history-note id="DLM342102"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">eligible country</emphasis>: <amending-operation>substituted</amending-operation>, on <amendment-date>14 October 1999</amendment-date>, by <amending-provision href="DLM44987">section 2(2)</amending-provision> of the <amending-leg>Layout Designs Amendment Act 1999</amending-leg> (1999 No 123).</history-note>
+            <history-note id="DLM342123"><amended-provision>Section 2(1)</amended-provision><emphasis style="bold">Minister</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>14 October 1999</amendment-date>, by <amending-provision href="DLM44987">section 2(2)</amending-provision> of the <amending-leg>Layout Designs Amendment Act 1999</amending-leg> (1999 No 123).</history-note>
+            <history-note id="DLM342128"><amended-provision>Section 2(2)</amended-provision>: <amending-operation>added</amending-operation>, on <amendment-date>14 October 1999</amendment-date>, by <amending-provision href="DLM44987">section 2(3)</amending-provision> of the <amending-leg>Layout Designs Amendment Act 1999</amending-leg> (1999 No 123).</history-note>
+          </history>
+        </notes>
+      </prov>
+      <prov id="DLM342129" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">3</label>
+        <heading xml:lang="en-NZ">Meaning of commercially exploited</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>For the purposes of this Act,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>a layout design is <def-term id="DLM3315400">commercially exploited</def-term> if the layout design, a copy of the layout design, or an integrated circuit made in accordance with the layout design (whether or not the integrated circuit is incorporated in another thing) is—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para xml:lang="en-NZ">
+                      <text>sold or hired or otherwise distributed by way of trade; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para xml:lang="en-NZ">
+                      <text>offered or exposed for sale or hire or other distribution by way of trade; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">iii</label>
+                    <para xml:lang="en-NZ">
+                      <text>imported for the purpose of sale or hire or other distribution by way of trade:</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>a copy of a layout design or an integrated circuit made in accordance with a layout design is <def-term id="DLM3315401">commercially exploited</def-term> if it is—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para xml:lang="en-NZ">
+                      <text>sold or hired or otherwise distributed by way of trade; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para xml:lang="en-NZ">
+                      <text>offered or exposed for sale or hire or other distribution by way of trade; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">iii</label>
+                    <para xml:lang="en-NZ">
+                      <text>imported for the purpose of sale or hire or other distribution by way of trade;—</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+              <text>and <def-term id="DLM342130" xml:lang="en-NZ">commercially exploiting</def-term> and <def-term id="DLM342131" xml:lang="en-NZ">commercial exploitation</def-term> have corresponding meanings.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 8 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342132" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading xml:lang="en-NZ">Meaning of exclusive right</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>For the purposes of this Act, the <def-term id="DLM3315402">exclusive right</def-term> to do an act in relation to an eligible layout design, or an integrated circuit made in accordance with an eligible layout design, includes the exclusive right to authorise a person to do that act in relation to that layout design or integrated circuit.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 9 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342134" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">5</label>
+        <heading xml:lang="en-NZ">Meaning of making in relation to an eligible layout design</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>For the purposes of this Act, but without limiting the ordinary meaning of the term making in relation to an eligible layout design, a person who used a computer to make an eligible layout design is to be taken to have <def-term id="DLM3315403">made</def-term> the design.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>For the purposes of this Act, an eligible layout design is <def-term id="DLM3315404">made</def-term> when it is first fixed in a material form.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 10 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342136" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">6</label>
+        <heading xml:lang="en-NZ">Meaning of original</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>For the purposes of this Act, but without limiting the ordinary meaning of the word original in relation to a layout design, a layout design is not <def-term id="DLM3315405">original</def-term> if—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>its making involved no intellectual effort by the maker; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>it was commonplace at the time it was made; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>in the case of a combination of elements and interconnections that are commonplace, the combination as a whole involved no intellectual effort by the maker.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 11 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342138" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">7</label>
+        <heading xml:lang="en-NZ">Licence of owner of layout design rights</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>For the purposes of this Act, an act is done with the licence of the owner of layout design rights if doing that act is authorised by a licence binding the owner.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 12 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342139" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">8</label>
+        <heading xml:lang="en-NZ">Eligible layout design includes substantial part of the design</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>In this Act,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>a reference to doing an act (other than making) in relation to an eligible layout design includes a reference to doing that act in relation to a substantial part of the design:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>a reference to a copy of an eligible layout design includes a reference to a copy of a substantial part of the design:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>a reference to an integrated circuit made in accordance with an eligible layout design includes a reference to an integrated circuit made in accordance with a substantial part of the design.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 13 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342140" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">9</label>
+        <heading xml:lang="en-NZ">Reference to joint makers</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>Unless the context otherwise requires, a reference in this Act to the maker of an eligible layout design is, in relation to a jointly made eligible layout design, a reference to all the makers of the layout design.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 14 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342141" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">10</label>
+        <heading xml:lang="en-NZ">Application to layout designs made before commencement of this Act</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>This Act applies in relation to a layout design whether made before or after the commencement of this Act, but an action does not lie under <citation jurisdiction="nz"><intref href="DLM342162">Part 4</intref></citation> in respect of any act done before that commencement in relation to the layout design, a copy of the layout design, or an integrated circuit made in accordance with the layout design.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 7 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342142" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">11</label>
+        <heading xml:lang="en-NZ">Act to bind the Crown</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>This Act binds the Crown.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+    <part id="DLM342143" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="116" act.type="public" date.as.at="2002-12-01" date.assent="1994-11-25" stage="reprint" year="1994" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading xml:lang="en-NZ">Ownership and nature of layout design rights</heading>
+      <prov id="DLM342144" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">12</label>
+        <heading xml:lang="en-NZ">Ownership of layout design rights</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Subject to this section, the person who makes an eligible layout design is the first owner of the layout design rights in the eligible layout design.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>Where a layout design is made by a person under the terms of his or her employment by another person under a contract of service or apprenticeship, that other person is the first owner of the layout design rights in the eligible layout design.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>Where a person commissions the making of a layout design for valuable consideration, and the layout design is made in carrying out that commission, the person who commissioned the work is the first owner of the layout design rights in the eligible layout design.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">4</label>
+            <para xml:lang="en-NZ">
+              <text>The application of subsection (2) and subsection (3) to the layout design rights in a particular eligible layout design may be excluded or modified by agreement.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">5</label>
+            <para xml:lang="en-NZ">
+              <text>Where an eligible layout design has been made jointly by persons who are not all eligible persons, this section applies in relation to the design as if it had been made solely by those who were eligible persons.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 ss 16(1)–(3), 18 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342145" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">13</label>
+        <heading xml:lang="en-NZ">Nature of layout design rights</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>The owner of the layout design rights in an eligible layout design has, during the protection period of the layout design, the following exclusive rights:</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>the right to copy the layout design, directly or indirectly, in a material form:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>the right to make an integrated circuit in accordance with the layout design or a copy of the layout design:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>the right to commercially exploit the layout design in New Zealand.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 17 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342146" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">14</label>
+        <heading xml:lang="en-NZ">Infringement of layout design rights</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>The layout design rights in an eligible layout design are infringed by any person who, during the protection period, without the licence of the owner of the layout design rights does, or authorises another person to do, anything which, by virtue of <citation jurisdiction="nz"><intref href="DLM342145">section 13</intref></citation>, is the exclusive right of the owner of the layout design rights.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 19 (Aust)</citation>
+        </cf>
+      </prov>
+    </part>
+    <part id="DLM342147" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="116" act.type="public" date.as.at="2002-12-01" date.assent="1994-11-25" stage="reprint" year="1994" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading xml:lang="en-NZ">Exceptions</heading>
+      <prov id="DLM342148" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">15</label>
+        <heading xml:lang="en-NZ">Innocent commercial exploitation</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>The layout design rights in an eligible layout design are not infringed by a person who commercially exploits, or authorises the commercial exploitation of, an unauthorised integrated circuit in New Zealand, being an integrated circuit made in accordance with the layout design, if, at the time when the person acquired the integrated circuit, the person did not know, and could not reasonably be expected to have known, that the integrated circuit was unauthorised.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>Where a person referred to in subsection (1)—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>has in that person's possession or has contracted to purchase an integrated circuit that is unauthorised; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>becomes aware or could reasonably be expected to have become aware that the integrated circuit is unauthorised,—</text>
+                </para>
+              </label-para>
+              <text>that subsection continues to apply to any subsequent commercial exploitation of the integrated circuit only, if the person pays to the owner or exclusive licensee of the layout design rights in the layout design such remuneration as is agreed, or as is determined by a method agreed, between the person and the owner or exclusive licensee or, in default of agreement, as is determined by the Copyright Tribunal on application made by either of them.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>In this section, <def-term id="DLM342149" xml:lang="en-NZ">unauthorised</def-term>, in relation to an integrated circuit made in accordance with an eligible layout design, means made without the licence of the owner of the layout design rights in the layout design.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="other">Circuit Layouts Act 1989 s 20 (Aust)</citation>; <citation jurisdiction="other">Law and Justice Legislation Amendment Act 1990 s 43 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342150" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">16</label>
+        <heading xml:lang="en-NZ">Copying for private use</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>The layout design rights in an eligible layout design are not infringed by the making of—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>a copy or copies of the layout design; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>an integrated circuit in accordance with the layout design or with a copy of the layout design—</text>
+                </para>
+              </label-para>
+              <text>solely for the private use of the person who makes the copy or copies or integrated circuit.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>For the purposes of subsection (1), a copy of an eligible layout design, or an integrated circuit made in accordance with an eligible layout design or with a copy of such a layout design, is not to be taken to have been made for the private use of a person if the copy or integrated circuit is commercially exploited or distributed otherwise than by way of trade to an extent that will prejudice the interests of the owner of the layout design rights in the layout design.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="other">Circuit Layouts Act 1989 s 21 (Aust)</citation>; <citation jurisdiction="other">Law and Justice Legislation Amendment Act 1990 s 44 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342151" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">17</label>
+        <heading xml:lang="en-NZ">Copying for research or teaching purposes</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>The layout design rights in an eligible layout design are not infringed by the making of—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>a copy or copies of the layout design; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>an integrated circuit in accordance with the layout design or with a copy of the layout design—</text>
+                </para>
+              </label-para>
+              <text>solely for research or teaching purposes.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="other">Circuit Layouts Act 1989 s 22 (Aust)</citation>; <citation jurisdiction="other">Law and Justice Legislation Amendment Act 1990 s 45 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342152" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">18</label>
+        <heading xml:lang="en-NZ">Evaluation or analysis</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>The layout design rights in an eligible layout design are not infringed by—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>the making of a copy or copies of the layout design for the purposes of evaluating or analysing the layout design; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>the making of an original layout design based on an evaluation or analysis carried out with the use of a copy or copies referred to in paragraph (a); or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>the making of an integrated circuit in accordance with an original layout design referred to in paragraph (b); or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">d</label>
+                <para xml:lang="en-NZ">
+                  <text>copying or commercially exploiting in New Zealand an original layout design referred to in paragraph (b).</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>The layout design rights in an eligible layout design are not infringed by—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>the making of an integrated circuit in accordance with the layout design, or with a copy of the layout design, for the purpose of evaluating or analysing the layout design; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>the making of an original layout design based on an evaluation or analysis carried out with the use of an integrated circuit referred to in paragraph (a); or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>the making of an integrated circuit in accordance with an original layout design referred to in paragraph (b); or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">d</label>
+                <para xml:lang="en-NZ">
+                  <text>copying or commercially exploiting in New Zealand an original layout design referred to in paragraph (b).</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="other">Circuit Layouts Act 1989 s 23 (Aust)</citation>; <citation jurisdiction="other">Law and Justice Legislation Amendment Act 1990 s 46 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342153" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">19</label>
+        <heading xml:lang="en-NZ">Commercial exploitation of eligible layout design previously exploited under licence</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Where—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>an eligible layout design is commercially exploited, whether in New Zealand or elsewhere, by, or with the licence of, the owner of the layout design rights in the layout design; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>a person acquires a copy of the layout design, or an integrated circuit made in accordance with the layout design, as a result of that commercial exploitation,—</text>
+                </para>
+              </label-para>
+              <text>it is not an infringement of the layout design rights in the layout design if the person commercially exploits the copy or the integrated circuit in New Zealand.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text><insertwords>Notwithstanding <citation jurisdiction="nz"><extref href="DLM345914">sections 12(3)</extref>, <extref href="DLM345951">35</extref>, and <extref href="DLM345953">36</extref> of the Copyright Act 1994</citation> to the extent that those provisions apply to imported articles,</insertwords> where the commercial exploitation of an integrated circuit containing a copy or adaptation of a work (being an integrated circuit made in accordance with an eligible layout design) is not, under this section, an infringement of the layout design rights in the layout design, that commercial exploitation is not an infringement of the copyright in that work unless the making of that copy or adaptation was an infringement of that copyright.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>Expressions used in subsection (2) that are defined in the <insertwords><citation jurisdiction="nz"><leg-title href="DLM345633">Copyright Act 1994</leg-title></citation></insertwords> have the same meanings as they have in that Act.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 24 (Aust)</citation>
+        </cf>
+        <notes>
+          <history>
+            <history-note id="DLM342154"><amended-provision>Section 19(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 January 1995</amendment-date>, by <amending-provision href="DLM347117">section 236(1)</amending-provision> of the <amending-leg>Copyright Act 1994</amending-leg> (1994 No 143).</history-note>
+            <history-note id="DLM342155"><amended-provision>Section 19(3)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 January 1995</amendment-date>, by <amending-provision href="DLM347117">section 236(1)</amending-provision> of the <amending-leg>Copyright Act 1994</amending-leg> (1994 No 143).</history-note>
+          </history>
+        </notes>
+      </prov>
+      <prov id="DLM342156" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">20</label>
+        <heading xml:lang="en-NZ">Use for defence, security, and other purposes</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>An act done by or on behalf of the Crown, or a person authorised in writing by the chief executive of a department, in relation to an eligible layout design is not an infringement of the rights in the layout if the act is done—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>for the defence or national security of New Zealand; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>for the purpose of assisting in <insertwords>a state of national emergency declared under <citation jurisdiction="nz"><extref href="DLM150776">section 66</extref> of the Civil Defence Emergency Management Act 2002</citation></insertwords>,—</text>
+                </para>
+              </label-para>
+              <text>and, before doing the act, the Crown, or the authorised person, as the case may be, having taken all reasonable steps to do so, has been unable to obtain the licence of the owner of the layout design rights, on reasonable terms, to do the act.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>An authorisation may be given before or after the acts in respect of which it is given have been done.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="other">Circuit Layouts Act 1989 s 25(1), (2) (Aust)</citation>; <citation jurisdiction="other">Law and Justice Legislation Amendment Act 1990 s 47 (Aust)</citation></cf>
+        <notes>
+          <history>
+            <history-note id="DLM342157"><amended-provision>Section 20(1)(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 December 2002</amendment-date>, by <amending-provision href="DLM151437">section 117</amending-provision> of the <amending-leg>Civil Defence Emergency Management Act 2002</amending-leg> (2002 No 33).</history-note>
+          </history>
+        </notes>
+      </prov>
+      <prov id="DLM342158" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">21</label>
+        <heading xml:lang="en-NZ">Nature and scope of rights under section 20</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>The right to use an eligible layout design pursuant to <citation jurisdiction="nz"><intref href="DLM342156">section 20</intref></citation>—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>is both non-exclusive and non-assignable; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>is limited to the purpose or purposes specified in that section; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>is subject to the terms of any authorisation under that section; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">d</label>
+                <para xml:lang="en-NZ">
+                  <text>does not permit sale of the layout design to the public; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">e</label>
+                <para xml:lang="en-NZ">
+                  <text>is limited to use of the layout design predominantly in New Zealand.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>An act done under <citation jurisdiction="nz"><intref href="DLM342156">section 20</intref></citation> in relation to an eligible layout design is not to be taken into account in calculating the protection period of the layout design.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>Where an exclusive licence is in force in relation to any layout design rights, <citation jurisdiction="nz"><intref href="DLM342156">sections 20</intref>, <intref href="DLM342159">22</intref>, and <intref href="DLM342160">23</intref></citation> apply as if references to the owner of the layout design rights were references to the exclusive licensee.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 25(6), (7) (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342159" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">22</label>
+        <heading xml:lang="en-NZ">Duty to inform owner</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Where an act has been done under <citation jurisdiction="nz"><intref href="DLM342156">section 20</intref></citation> in relation to an eligible layout design, the Crown or the chief executive of the department, as the case may be, shall, as soon as practicable, inform the owner of the layout design rights in the layout design that the act has been done and give the owner such information about the act as the owner from time to time requires.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>Nothing in subsection (1) requires the Crown or the chief executive, as the case may be, to inform the owner or disclose information to the owner if doing so would, or might reasonably be expected to, prejudice the defence or security of New Zealand.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 25(3) (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342160" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">23</label>
+        <heading xml:lang="en-NZ">Owner of layout design rights entitled to remuneration</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>Where an act is done under <citation jurisdiction="nz"><intref href="DLM342156">section 20</intref></citation> in relation to an eligible layout design, the Crown shall pay such remuneration to the owner of the layout design rights as may be agreed or determined by a method agreed, as the case may be, between the Crown and the owner or, in default of agreement, as is determined by the Copyright Tribunal on the application of either of them.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 25(4) (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342161" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">24</label>
+        <heading xml:lang="en-NZ">Appeal to High Court</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Any person who is aggrieved by—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>any act done by or on behalf of the Crown or a person authorised by the chief executive of a department under <citation jurisdiction="nz"><intref href="DLM342156">section 20</intref></citation>; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>any authorisation given by the chief executive of a department under that section; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>a determination by the Copyright Tribunal under <citation jurisdiction="nz"><intref href="DLM342160">section 23</intref></citation>—</text>
+                </para>
+              </label-para>
+              <text>may appeal to the High Court and the High Court may make such determination or order as it thinks fit.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>On any such appeal,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>the Crown; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>where the appeal is against an authorisation by the chief executive of a department, the chief executive; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>with the leave of the High Court, any other person—</text>
+                </para>
+              </label-para>
+              <text>is entitled to appear and be heard.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+    <part id="DLM342162" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="116" act.type="public" date.as.at="2002-12-01" date.assent="1994-11-25" stage="reprint" year="1994" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading xml:lang="en-NZ">Remedies for infringement</heading>
+      <prov id="DLM342163" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">25</label>
+        <heading xml:lang="en-NZ">Actions for damages</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>A court of competent jurisdiction may, on the application of the owner of layout design rights in an eligible layout design, if it is satisfied that the rights have been infringed,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>make an order for the payment of damages against the person by whom the rights were infringed; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>require an account of profits to be taken as between the owner of the rights and the person by whom the rights were infringed.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>Where, in proceedings for an infringement of layout design rights,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>it is established that an infringement was committed; but</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>at the time of the infringement the defendant was not aware, and did not have reasonable grounds for suspecting, that the act constituting the infringement was an infringement,—</text>
+                </para>
+              </label-para>
+              <text>the court shall not make any order for the payment of damages against the defendant in respect of the infringement, but may order an account of profits to be taken in respect of the infringement, whether any other relief is granted or not.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>Where, in proceedings in respect of an infringement of layout design rights,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>an infringement is established; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>the court is satisfied that it is proper to do so, having regard to—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para xml:lang="en-NZ">
+                      <text>the flagrancy of the infringement; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para xml:lang="en-NZ">
+                      <text>any benefit shown to have accrued to the defendant because of the infringement; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">iii</label>
+                    <para xml:lang="en-NZ">
+                      <text>any other relevant matters,—</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+              <text>the court may, in assessing damages for the infringement, award such additional damages as it considers appropriate in the circumstances.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">1962 No 33 s 24(1)–(3); Circuit Layouts Act 1989 s 27 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342164" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">26</label>
+        <heading xml:lang="en-NZ">Injunctions</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>A court of competent jurisdiction may, on the application of the owner of layout design rights in an eligible layout design, grant an injunction restraining a person from engaging in conduct that constitutes, or would constitute, an infringement of those rights.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM342165" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">27</label>
+        <heading xml:lang="en-NZ">Application of sections 28 to 34 to exclusive licensee</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text><citation jurisdiction="nz"><intref href="DLM342166">Sections 28 to 34</intref></citation> apply to an exclusive licensee of layout design rights under a licence that is in force at the time the conduct constituting an infringement of those rights takes place.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">1962 No 33 s 26(1); Circuit Layouts Act 1989 s 29 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342166" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">28</label>
+        <heading xml:lang="en-NZ">Rights of exclusive licensee</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Subject to subsection (2), an exclusive licensee has the same rights and remedies as the owner of the layout design rights has under <citation jurisdiction="nz"><intref href="DLM342163">sections 25</intref> and <intref href="DLM342164">26</intref></citation> as if the licensee were the owner.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>The rights and remedies of the exclusive licensee are held concurrently with the owner but may not be exercised against the owner.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="nz">1962 No 33 s 26(2)</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 30 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342167" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">29</label>
+        <heading xml:lang="en-NZ">Proceedings where concurrent rights exist</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Where—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>proceedings are brought by the owner of layout design rights or by the exclusive licensee under <citation jurisdiction="nz"><intref href="DLM342163">section 25</intref> or <intref href="DLM342164">section 26</intref></citation>; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>the proceedings relate, wholly or partly, to an infringement in respect of which the owner and the licensee have concurrent rights under that section,—</text>
+                </para>
+              </label-para>
+              <text>the owner or licensee, as the case may be, is not entitled, except with the leave of the court, to continue those proceedings, in so far as they relate to that infringement, unless the licensee or owner, respectively, is joined as a party to the proceedings.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>Nothing in subsection (1) applies to an application for an interim injunction by the owner of the layout design rights or an exclusive licensee.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="nz">1962 No 33 s 26(3)</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 31 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342168" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">30</label>
+        <heading xml:lang="en-NZ">Defences in proceedings by exclusive licensee</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>In proceedings under <citation jurisdiction="nz"><intref href="DLM342163">section 25</intref> or <intref href="DLM342164">section 26</intref></citation> by an exclusive licensee, a defence under this Act that would have been available to a defendant if the proceedings had been brought by the owner of the layout design rights is available to the defendant against the exclusive licensee.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="nz">1962 No 33 s 26(4)</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 32 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342169" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">31</label>
+        <heading xml:lang="en-NZ">Assessment of damages where exclusive licence granted</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Where, in proceedings to which <citation jurisdiction="nz"><intref href="DLM342167">section 29</intref></citation> applies, the owner of the layout design rights and the exclusive licensee are not both plaintiffs, the court, in assessing damages in respect of the infringement, shall,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>if the plaintiff is the exclusive licensee, take into account any liabilities (such as royalties) to which the licence is subject; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>whether the plaintiff is the owner of the layout design rights or the exclusive licensee, take into account any pecuniary remedy already awarded to the other party under <citation jurisdiction="nz"><intref href="DLM342163">section 25</intref></citation> in respect of that infringement or any right of action exercisable by the other party under that section in respect of that infringement.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>In this section and <citation jurisdiction="nz"><intref href="DLM342172">sections 33</intref> and <intref href="DLM342173">34</intref></citation>, the expression <def-term id="DLM342170" xml:lang="en-NZ">the other party</def-term>, in relation to the owner of layout design rights, means the exclusive licensee and, in relation to the exclusive licensee, means the owner of the layout design rights.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="nz">1962 No 33 s 26(5), (9)</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 33 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342171" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">32</label>
+        <heading xml:lang="en-NZ">Apportionment of profits between owner and exclusive licensee</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>Where—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>proceedings under <citation jurisdiction="nz"><intref href="DLM342163">section 25</intref></citation> relate, wholly or partly, to an infringement in respect of which the owner of the layout design rights and the exclusive licensee have concurrent rights of action under that section, whether or not they are both parties; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>an account of profits is directed to be taken in respect of that infringement,—</text>
+                </para>
+              </label-para>
+              <text>the court shall, subject to any agreement of which it is aware by which the application of those profits is determined as between the owner of the layout design rights and the exclusive licensee, apportion the profits between them in such manner as it considers just and shall give such directions as it considers appropriate for giving effect to that apportionment.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="nz">1962 No 33 s 26(6)</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 34 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342172" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">33</label>
+        <heading xml:lang="en-NZ">Limitation on relief where separate proceedings relate to same infringement</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>In proceedings under <citation jurisdiction="nz"><intref href="DLM342163">section 25</intref></citation> brought by the owner of layout design rights or by the exclusive licensee,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>a judgment or order for the payment of damages in respect of an infringement of those rights shall not be given or made if a final judgment or order has been given or made in favour of the other party directing an account of profits under that section in respect of the same infringement; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>a judgment or order for an account of profits in respect of an infringement of those rights shall not be given or made if a final judgment or order has been given or made in favour of the other party awarding damages or directing an account of profits under that section in respect of the same infringement.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="nz">1962 No 33 s 26(7)</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 35 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342173" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">34</label>
+        <heading xml:lang="en-NZ">Liability for costs</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>Where, in proceedings to which <citation jurisdiction="nz"><intref href="DLM342167">section 29</intref></citation> applies, whether brought by the owner of layout design rights in an eligible layout design or by the exclusive licensee, the other party is not joined as a plaintiff, either at the commencement of the proceedings or subsequently, but is added as a defendant, the other party is not liable for any costs of the proceedings unless that party enters an appearance and takes part in the proceedings.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="nz">1962 No 33 s 26(8)</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 36 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342174" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">35</label>
+        <heading xml:lang="en-NZ">Presumptions</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>In proceedings under <citation jurisdiction="nz"><intref href="DLM342163">section 25</intref> or <intref href="DLM342164">section 26</intref></citation>,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>layout design rights shall be presumed to subsist in the layout design to which the proceedings relate if the defendant does not put in issue the question whether those rights subsist in the layout design; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>where layout design rights are proved, or admitted, or presumed under paragraph (a), to subsist in a layout design, the plaintiff shall be presumed to be the owner of the rights if it is alleged that the plaintiff is the owner of the rights and the defendant does not put in issue the question of ownership.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="nz">1962 No 33 s 27(1)</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 37 (Aust)</citation></cf>
+      </prov>
+      <prov id="DLM342175" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">36</label>
+        <heading xml:lang="en-NZ">Proof of certain facts</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>If, at the time when an eligible layout design, a copy of an eligible layout design, an integrated circuit made in accordance with an eligible layout design, or an article in which such an integrated circuit is incorporated, as the case may be, was first commercially exploited, the layout design, the copy, the integrated circuit or a package containing it, or the article was clearly and legibly labelled or marked so as to indicate the following claims, namely,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>that layout design rights subsisted in the layout design; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>that the person named on the label or mark as the maker of the layout design was the maker of the layout design and any person named as an exclusive licensee of the owner was an exclusive licensee; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>that the layout design was first commercially exploited in the country and the year specified on the label or mark,—</text>
+                </para>
+              </label-para>
+              <text>it shall be presumed in any proceedings under <citation jurisdiction="nz"><intref href="DLM342163">section 25</intref> or <intref href="DLM342164">section 26</intref></citation>, in the absence of evidence to the contrary,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">d</label>
+                <para xml:lang="en-NZ">
+                  <text>that at all material times any person dealing with the layout design, the copy, or the integrated circuit had knowledge of each of the claims specified in paragraphs (a) to (c); and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">e</label>
+                <para xml:lang="en-NZ">
+                  <text>that the layout design was first commercially exploited in the year specified.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="nz">1962 No 33 s 27A</citation>; <citation jurisdiction="nz">1985 No 134 s 7</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 39 (Aust)</citation></cf>
+      </prov>
+    </part>
+    <part id="DLM342176" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="116" act.type="public" date.as.at="2002-12-01" date.assent="1994-11-25" stage="reprint" year="1994" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">5</label>
+      <heading xml:lang="en-NZ">Miscellaneous</heading>
+      <prov id="DLM342177" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">37</label>
+        <heading xml:lang="en-NZ">Eligible countries</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>On the recommendation of the Minister, the Governor-General may by Order in Council declare that any entity specified in the order (whether a State, part of a State, a territory for whose international relations a State is responsible, a political union, an international organisation, or any other entity) is an eligible country for the purposes of this Act.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>The Minister must not recommend the making of an order declaring an entity to be an eligible country for the purposes of this Act unless satisfied that—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>New Zealand and the entity are both parties to an international agreement or arrangement relating to the protection of layout designs; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>provision is or will be made under the law of or applicable to the entity giving reciprocal protection to layout designs—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para xml:lang="en-NZ">
+                      <text>made by persons referred to in paragraph (a) or paragraph (b) of the definition in <citation jurisdiction="nz"><intref href="DLM341487">section 2</intref></citation> of the term eligible person; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para xml:lang="en-NZ">
+                      <text>first commercially exploited in New Zealand.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <notes>
+          <history>
+            <history-note id="DLM342178"><amended-provision>Section 37</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>14 October 1999</amendment-date>, by <amending-provision href="DLM44987">section 2(1)</amending-provision> of the <amending-leg>Layout Designs Amendment Act 1999</amending-leg> (1999 No 123).</history-note>
+          </history>
+        </notes>
+      </prov>
+      <prov id="DLM342179" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">38</label>
+        <heading xml:lang="en-NZ">Prospective ownership of layout design rights</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Where, by an agreement in relation to future layout design rights and entered into by or on behalf of the person who would, apart from this section, be the owner of the rights on their coming into existence, that person purports to assign the future layout design rights, wholly or partly, to another person (in this subsection called the <def-term id="DLM3308603">assignee</def-term>), the rights, on coming into existence, shall, by virtue of this section, vest in the assignee or the assignee's successor in title.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>Where, at the time when a layout design right comes into existence, the person who would be entitled to the right is dead, the right devolves as if, immediately before the person's death, the person had been the owner of the right.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>A licence granted in respect of future layout design rights by the prospective owner of those rights binds each of the prospective owner's successors in title to the prospective interest in the rights to the same extent as the licence was binding on the grantor.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Circuit Layouts Act 1989 s 44 (Aust)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM342180" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">39</label>
+        <heading xml:lang="en-NZ">Assignments and licences of layout design rights</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Layout design rights are personal property and, subject to this section, are capable of assignment and may pass by will or by operation of law.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>An assignment of layout design rights may be limited in any way, including any 1 or more of the following ways,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>so as to apply to 1 or more of the classes of acts that, by virtue of this Act, the owner of the layout design rights has the exclusive right to do (including a class of acts that is not separately specified in this Act as being comprised in layout design rights but falls within a class of acts that is so specified):</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>so as to apply to part of the protection period of the layout design in which the layout design rights subsist.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>An assignment of layout design rights, whether total or partial, does not have effect unless it is in writing signed by or on behalf of the assignor.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">4</label>
+            <para xml:lang="en-NZ">
+              <text>A licence granted in respect of a layout design right by the owner of the right binds every successor in title to the interest in the right of the grantor of the licence, except—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>a purchaser in good faith for valuable consideration and without notice, actual or constructive, of the licence; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>a person deriving title from such a purchaser—</text>
+                </para>
+              </label-para>
+              <text>to the same extent as the licence was binding on the grantor.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="nz">1962 No 33 s 56(4)</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 45</citation> (Aust)</cf>
+      </prov>
+      <prov id="DLM342181" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">40</label>
+        <heading xml:lang="en-NZ">Groundless legal proceedings</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Subject to this section, where a person commences proceedings alleging an infringement of layout design rights in an eligible layout design, a court of competent jurisdiction may, on the application of any person against whom the proceedings are brought, if it is satisfied that the proceedings are unjustified,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>make an order striking out the proceedings:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>make an order for the payment of damages for any loss suffered by the person against whom the proceedings were brought.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>A court shall not grant relief under this section if the defendant proves that the acts in respect of which the proceedings were brought constituted, or if done, would have constituted, an infringement of the layout design rights concerned.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>No proceedings may be commenced under this section against a barrister or solicitor of the High Court of New Zealand in respect of any act done in his or her professional capacity on behalf of a client.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="uk">Copyright, Designs and Patents Act 1988 s 253 (UK)</citation>; <citation jurisdiction="other">Circuit Layouts Act 1989 s 46 (Aust)</citation></cf>
+      </prov>
+      <prov deletion-status="repealed" id="DLM342182" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">41</label>
+        <heading xml:lang="en-NZ">Amendments to Copyright Act 1962</heading>
+        <prov.body/>
+        <notes>
+          <history>
+            <history-note id="DLM342183"><amended-provision>Section 41</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 January 1995</amendment-date>, by <amending-provision href="DLM347117">section 236(1)</amending-provision> of the <amending-leg>Copyright Act 1994</amending-leg> (1994 No 143).</history-note>
+          </history>
+        </notes>
+      </prov>
+      <prov id="DLM342184" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">42</label>
+        <heading xml:lang="en-NZ">Amendment to Commerce Act 1986</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no">(1), (2)</label>
+            <para>
+              <text>
+                <emphasis style="italic">Amendment(s) incorporated in the Act(s).</emphasis>
+              </text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+  </body>
+  <end id="DLM3308604">
+    <skeletons id="DLM3308605">
+      <skeleton.act act.no="123" id="DLM3308606" type="public" year="1999">
+        <skeleton.act.cover>
+          <title>Layout Designs Amendment Act 1999</title>
+          <assent>1999-10-14</assent>
+          <commencement>14 October 1999</commencement>
+        </skeleton.act.cover>
+        <skeleton.act.body prov-type="section">
+          <prov irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">1</label>
+            <heading>Short Title</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>This Act may be cited as the <citation jurisdiction="nz"><extref href="DLM44981">Layout Designs Amendment Act 1999</extref></citation>, and is part of the Layout Designs Act 1994 (“the principal Act”).</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">2</label>
+            <heading>Eligible countries</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no">(1)–(3)</label>
+                <para>
+                  <text>
+                    <emphasis style="italic">Amendment(s) incorporated in the Act(s).</emphasis>
+                  </text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>The substitution by subsection (1) of a new section 37 of the principal Act for the existing section does not affect any order made under the existing section; and any such order may be amended or revoked by an order made under the substituted section.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </skeleton.act.body>
+      </skeleton.act>
+    </skeletons>
+    <end.reprint-note id="DLM3308607">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the Layout Designs Act 1994. The reprint incorporates all the amendments to the Act as at 1 December 2002, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz">Civil Defence Emergency Management Act 2002 (2002 No 33): <extref href="DLM151437">section 117</extref></citation>
+          </reprint.amend>
+          <reprint.amend>
+            <citation jurisdiction="nz">Public Trust Act 2001 (2001 No 100): <extref href="DLM124529">section 170(1)</extref></citation>
+          </reprint.amend>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM44981">Layout Designs Amendment Act 1999</extref> (1999 No 123)</citation>
+          </reprint.amend>
+          <reprint.amend>
+            <citation jurisdiction="nz">Copyright Act 1994 (1994 No 143): <extref href="DLM347117">section 236(1)</extref></citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
+  </end>
+</act>
