@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM119384" in.amend="false" instructing.office="Unknown department" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="1" act.type="private" date.as.at="2010-11-01" date.assent="2000-03-06" date.first.valid="2000-04-01" stage="reprint" year="2000" prospective.consolidation="F">
+<act id="DLM119384" in.amend="false" instructing.office="Unknown department" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="1" act.type="private" date.as.at="2008-04-01" date.assent="2000-03-06" date.first.valid="2000-04-01" stage="reprint" year="2000">
   <cover id="DLM119385">
-    <reprint-date>2010-11-01</reprint-date>
+    <reprint-date>2008-04-01</reprint-date>
     <title xml:lang="en-NZ">Museum of Transport and Technology Act 2000</title>
     <assent>2000-03-06</assent>
     <commencement>see section 2</commencement>
@@ -93,19 +93,24 @@
                 <text><def-term id="DLM119394" xml:lang="en-NZ">annual plan</def-term> means the annual plan described in <citation jurisdiction="nz"><intref href="DLM119829">section 20</intref></citation></text>
               </para>
             </def-para>
-            <def-para id="DLM3354775">
-              <para>
-                <text><def-term id="DLM3354776">Auckland Council</def-term> means the local authority established by <citation jurisdiction="nz"><extref href="DLM2044934">section 6(1)</extref></citation> of the Local Government (Auckland Council) Act 2009</text>
-              </para>
-            </def-para>
             <def-para id="DLM119395" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
                 <text><def-term id="DLM119396" xml:lang="en-NZ">Board</def-term> means the Museum of Transport and Technology Board established by <citation jurisdiction="nz"><intref href="DLM119811">section 4(1)</intref></citation></text>
               </para>
             </def-para>
+            <def-para id="DLM119397" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM119398" xml:lang="en-NZ">contributing authorities</def-term> means the territorial authorities listed in the <citation jurisdiction="nz">first column of the <intref href="DLM119844">Schedule</intref></citation></text>
+              </para>
+            </def-para>
             <def-para id="DLM119399" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
                 <text><def-term id="DLM119800" xml:lang="en-NZ">Director</def-term> means the person for the time being holding office under <citation jurisdiction="nz"><intref href="DLM119822">section 15</intref></citation></text>
+              </para>
+            </def-para>
+            <def-para id="DLM119801" xml:lang="en-NZ">
+              <para xml:lang="en-NZ">
+                <text><def-term id="DLM119802" xml:lang="en-NZ">Electoral College</def-term> means the electoral college of territorial local authority representatives constituted by <citation jurisdiction="nz"><extref href="DLM83612">section 13(1)</extref> of the Auckland War Memorial Museum Act 1996</citation></text>
               </para>
             </def-para>
             <def-para id="DLM119803" xml:lang="en-NZ">
@@ -131,13 +136,6 @@
           </para>
         </subprov>
       </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM3359100"><amended-provision>Section 3</amended-provision><emphasis style="bold">Auckland Council</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359101"><amended-provision>Section 3</amended-provision><emphasis style="bold">contributing authorities</emphasis>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359102"><amended-provision>Section 3</amended-provision><emphasis style="bold">Electoral College</emphasis>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-        </history>
-      </notes>
     </prov>
     <prov id="DLM119811" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">4</label>
@@ -186,7 +184,7 @@
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>6 are to be appointed by the <insertwords>Auckland Council</insertwords>; and</text>
+                <text>6 are to be appointed by the contributing authorities under <citation jurisdiction="nz"><extref href="DLM83612">section 13</extref> of the Auckland War Memorial Museum Act 1996</citation> as if they were members of the Auckland Museum Trust Board appointed under <citation jurisdiction="nz"><extref href="DLM83603">section 4(1)(a)</extref> of that Act</citation>; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
@@ -206,37 +204,40 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>No person who is currently an elected or appointed member of <insertwords>the Auckland Council, the chief executive of the Auckland Council, an employee of the Auckland Council who reports directly to the chief executive</insertwords>, or a member of the Museum staff may be appointed or remain a member of the Board.</text>
+            <text>No person who is currently an elected or appointed member of a contributing authority, the principal administrative officer of a contributing authority, an employee of a contributing authority who reports directly to the principal administrative officer, or a member of the Museum staff may be appointed or remain a member of the Board.</text>
           </para>
         </subprov>
-        <subprov deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
+        <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">4</label>
           <para xml:lang="en-NZ">
-            <text/>
+            <text>As soon as is practicable after the commencement of this Act,—</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>the Electoral College must meet and, in accordance with <citation jurisdiction="nz"><intref href="DLM119813">section 6(4)(a)</intref></citation>, appoint members of the Board under subsection (1)(a); and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>the Society must, in accordance with <citation jurisdiction="nz"><intref href="DLM119813">section 6(4)(b)</intref></citation>, appoint members of the Board under subsection (1)(b).</text>
+              </para>
+            </label-para>
           </para>
         </subprov>
-        <subprov deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
+        <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">5</label>
           <para xml:lang="en-NZ">
-            <text/>
+            <text>The first appointments to be made under paragraph (a) and paragraph (b) of subsection (1) may be made before the establishment day, but if at least 6 members have been appointed by the establishment day, the powers of the Board are not affected by any failure to appoint the remaining members.</text>
           </para>
         </subprov>
-        <subprov deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
+        <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">6</label>
           <para xml:lang="en-NZ">
-            <text/>
+            <text>The term of office of the existing Trustees of the Museum of Transport and Technology of New Zealand Trust Board ceases on the establishment day or (should fewer than 6 members have been appointed to the Board by the establishment day) on the date by which not less than 6 members have been appointed.</text>
           </para>
         </subprov>
       </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM3359103"><amended-provision>Section 5(1)(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359104"><amended-provision>Section 5(3)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359105"><amended-provision>Section 5(4)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359106"><amended-provision>Section 5(5)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359107"><amended-provision>Section 5(6)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-        </history>
-      </notes>
     </prov>
     <prov id="DLM119813" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">6</label>
@@ -245,7 +246,7 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>Subject to <citation jurisdiction="nz"><struckoutwords/><intref href="DLM119814">section 7</intref></citation>, every Board member is appointed for a term of 2 years commencing on the expiry of the previous term of appointment to that office.</text>
+            <text>Subject to <citation jurisdiction="nz">subsection (4) and <intref href="DLM119814">section 7</intref></citation>, every Board member is appointed for a term of 2 years commencing on the expiry of the previous term of appointment to that office.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
@@ -272,26 +273,37 @@
             </label-para>
           </para>
         </subprov>
-        <subprov deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
+        <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">4</label>
           <para xml:lang="en-NZ">
-            <text/>
+            <text>With respect to the first members appointed by the contributing authorities and by the Society, the following provisions apply:</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>of the 6 members appointed to hold office under <citation jurisdiction="nz"><intref href="DLM119812">section 5(1)(a)</intref></citation>, 3 hold office for a term of 1 year and 3 for a term of 2 years:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>of the 4 members appointed to hold office under <citation jurisdiction="nz"><intref href="DLM119812">section 5(1)(b)</intref></citation>, 2 hold office for a term of 1 year and 2 for a term of 2 years:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>the term of each of the members so appointed must (unless they otherwise agree among themselves) be determined by lot.</text>
+              </para>
+            </label-para>
           </para>
         </subprov>
-        <subprov deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
+        <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">5</label>
           <para xml:lang="en-NZ">
-            <text/>
+            <text>The term of office of Board members appointed pursuant to <citation jurisdiction="nz"><intref href="DLM119812">section 5(1)</intref></citation> and to whom subsection (4) applies, ends on the first or second (as the case may be) anniversary of the establishment day.</text>
           </para>
         </subprov>
       </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM3359108"><amended-provision>Section 6(1)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359109"><amended-provision>Section 6(4)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359110"><amended-provision>Section 6(5)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-        </history>
-      </notes>
     </prov>
     <prov id="DLM119814" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">7</label>
@@ -366,15 +378,10 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">4</label>
           <para xml:lang="en-NZ">
-            <text>The powers of the Board are not affected by any vacancy in its membership<struckoutwords/>.</text>
+            <text>The powers of the Board are not affected by any vacancy in its membership except as provided in <citation jurisdiction="nz"><intref href="DLM119812">section 5(5) and (6)</intref></citation>.</text>
           </para>
         </subprov>
       </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM3359111"><amended-provision>Section 7(4)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-        </history>
-      </notes>
     </prov>
     <prov id="DLM119815" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">8</label>
@@ -609,7 +616,7 @@
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">f</label>
               <para xml:lang="en-NZ">
-                <text>to develop appropriate sources of income additional to funding by the <insertwords>Auckland Council</insertwords>:</text>
+                <text>to develop appropriate sources of income additional to funding by the contributing authorities:</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
@@ -657,11 +664,6 @@
           </para>
         </subprov>
       </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM3359112"><amended-provision>Section 13(2)(f)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-        </history>
-      </notes>
     </prov>
     <prov id="DLM119821" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">14</label>
@@ -848,17 +850,12 @@
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">g</label>
               <para xml:lang="en-NZ">
-                <text>maintaining liaison with<insertwords> the Auckland Council</insertwords>.</text>
+                <text>maintaining liaison with, and giving administrative support to, the Electoral College.</text>
               </para>
             </label-para>
           </para>
         </subprov>
       </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM3359113"><amended-provision>Section 16(g)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-        </history>
-      </notes>
     </prov>
     <prov id="DLM119824" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">17</label>
@@ -1107,7 +1104,7 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>During the preparation of, and before the publication of, the draft annual plan, the chairperson of the Board must meet with <insertwords>a person appointed by the Auckland Council for the purpose</insertwords> as often as may be necessary to determine if aspects of the annual plan, including the amount of the proposed levy, should be referred to a meeting or <insertwords>meetings of the Auckland Council</insertwords>, either jointly with the Board or separately, for consideration before the draft annual plan is published.</text>
+            <text>During the preparation of, and before the publication of, the draft annual plan, the chairperson of the Board must meet with the chairperson of the Electoral College as often as may be necessary to determine if aspects of the annual plan, including the amount of the proposed levy, should be referred to a meeting or meetings of the Electoral College, either jointly with the Board or separately, for consideration before the draft annual plan is published.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
@@ -1119,19 +1116,19 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">4</label>
           <para xml:lang="en-NZ">
-            <text>The draft annual plan must, immediately after it has been prepared to the satisfaction of the Board, be made available to the general public and forwarded to <insertwords>the Auckland Council</insertwords> and the Society.</text>
+            <text>The draft annual plan must, immediately after it has been prepared to the satisfaction of the Board, be made available to the general public and forwarded to each of the contributing authorities and the Society.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">5</label>
           <para xml:lang="en-NZ">
-            <text>Any person, including <insertwords>the Auckland Council and the Society</insertwords>, may, within 1 month after publication of the draft annual plan, make a written submission to the Board in relation to any matters contained in the draft annual plan.</text>
+            <text>Any person, including any contributing authority, the Society, and the Electoral College, may, within 1 month after publication of the draft annual plan, make a written submission to the Board in relation to any matters contained in the draft annual plan.</text>
           </para>
         </subprov>
-        <subprov deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
+        <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">6</label>
           <para xml:lang="en-NZ">
-            <text/>
+            <text>Where any contributing authority makes a submission under subsection (5), that authority must also send a copy of that submission to the Electoral College.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
@@ -1149,25 +1146,25 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">9</label>
           <para xml:lang="en-NZ">
-            <text>After considering the submissions and making such modifications to the draft annual plan as the Board may consider appropriate in the light of the submissions, the Board must refer the draft annual plan to the <insertwords>Auckland Council</insertwords> for approval of the levy.</text>
+            <text>After considering the submissions and making such modifications to the draft annual plan as the Board may consider appropriate in the light of the submissions, the Board must refer the draft annual plan to the Electoral College for approval of the levy.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">10</label>
           <para xml:lang="en-NZ">
-            <text>If the Board and the <insertwords>Auckland Council</insertwords> cannot reach agreement on the amount of the levy, the dispute must be referred to an independent arbitrator appointed by them both (or by the Local Government Commission continued by <insertwords><citation jurisdiction="nz"><amending-provision href="DLM171839">section 28</amending-provision></citation> of the Local Government Act 2002</insertwords> if they are unable to agree on the person to be appointed), who will determine the levy taking into account the minimum obligations placed on the Board by this Act and the submissions of both parties, and the levy so determined is the levy to be made for that financial year under <citation jurisdiction="nz"><intref href="DLM119830">section 21(1)</intref></citation>.</text>
+            <text>If the Board and the Electoral College cannot reach agreement on the amount of the levy, the dispute must be referred to an independent arbitrator appointed by them both (or by the Local Government Commission continued by <citation jurisdiction="nz"><extref href="DLM416631">section 37V</extref> of the Local Government Act 1974</citation> if they are unable to agree on the person to be appointed), who will determine the levy taking into account the minimum obligations placed on the Board by this Act and the submissions of both parties, and the levy so determined is the levy to be made for that financial year under <citation jurisdiction="nz"><intref href="DLM119830">section 21(1)</intref></citation>.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">11</label>
           <para xml:lang="en-NZ">
-            <text>Every determination pursuant to subsection (10) must be made in time for the Board to comply with its responsibilities under <citation jurisdiction="nz"><intref href="DLM119830">section 21(5)</intref></citation> on or before 30 April immediately preceding the commencement of the financial year to which the levy relates and the Board and the <insertwords>Auckland Council</insertwords> must comply with the requirements of subsections (1) to (10) by such dates as will enable the requirements of this subsection to be met.</text>
+            <text>Every determination pursuant to subsection (10) must be made in time for the Board to comply with its responsibilities under <citation jurisdiction="nz"><intref href="DLM119830">section 21(5)</intref></citation> on or before 30 April immediately preceding the commencement of the financial year to which the levy relates and the Board and the Electoral College must comply with the requirements of subsections (1) to (10) by such dates as will enable the requirements of this subsection to be met.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">12</label>
           <para xml:lang="en-NZ">
-            <text>After approval of the levy (either in the amount stipulated in the draft annual plan referred to the <insertwords>Auckland Council</insertwords> under subsection (9) or in such other amount as may subsequently be agreed upon between the Board and the <insertwords>Auckland Council</insertwords>) or determination of the levy pursuant to subsection (10), the Board must adopt the draft annual plan as referred to the <insertwords>Auckland Council</insertwords> under subsection (9), subject to any modifications required by any difference in the amount of the levy agreed with the <insertwords>Auckland Council</insertwords> or determined pursuant to subsection (10).</text>
+            <text>After approval of the levy (either in the amount stipulated in the draft annual plan referred to the Electoral College under subsection (9) or in such other amount as may subsequently be agreed upon between the Board and the Electoral College) or determination of the levy pursuant to subsection (10), the Board must adopt the draft annual plan as referred to the Electoral College under subsection (9), subject to any modifications required by any difference in the amount of the levy agreed with the Electoral College or determined pursuant to subsection (10).</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
@@ -1195,46 +1192,33 @@
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">c</label>
               <para xml:lang="en-NZ">
-                <text>send a copy to <insertwords>the Auckland Council</insertwords> and the Society.</text>
+                <text>send a copy to each contributing authority and the Society.</text>
               </para>
             </label-para>
           </para>
         </subprov>
       </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM3359114"><amended-provision>Section 20(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359115"><amended-provision>Section 20(4)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359116"><amended-provision>Section 20(5)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359117"><amended-provision>Section 20(6)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359118"><amended-provision>Section 20(9)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359119"><amended-provision>Section 20(10)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359120"><amended-provision>Section 20(11)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359121"><amended-provision>Section 20(12)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359122"><amended-provision>Section 20(14)(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-        </history>
-      </notes>
     </prov>
     <prov id="DLM119830" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">21</label>
-      <heading xml:lang="en-NZ"><insertwords>Contribution by Auckland Council</insertwords> to Museum funding</heading>
+      <heading xml:lang="en-NZ">Contributions by local authorities to Museum funding</heading>
       <prov.body>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>Subject to the provisions of subsection (7), the Board may, for each financial year, for the purposes of funding its activities (including maintenance, operations, and development) under this Act, by resolution make a levy against the <insertwords>Auckland Council</insertwords> of such amount and in such manner as is authorised or is required by this Act.</text>
+            <text>Subject to the provisions of subsection (7), the Board may, for each financial year, for the purposes of funding its activities (including maintenance, operations, and development) under this Act, by resolution make a levy against the contributing authorities of such amount and in such manner as is authorised or is required by this Act.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>The total amount of the levy <insertwords>must not exceed in any year 1/300 c in the dollar on the total capital value of rateable property in the Auckland Council's district plus 1.5 c per person of the population of the Auckland Council's district</insertwords>.</text>
+            <text>The total amount of the levy against each contributing authority must not exceed in any year 1/300 c in the dollar on the total capital value of rateable property in its district (adjusted in accordance with subsection (3)) plus 1.5 c per person of the population of its district (adjusted in accordance with subsection (3)).</text>
           </para>
         </subprov>
-        <subprov deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
+        <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text/>
+            <text>An adjustment of the capital value of rateable property and of the population of the district of each contributing authority, each calculated in accordance with subsection (4), must be made by multiplying that capital value and that population by the differential factor shown opposite their respective names in the second column of the <citation jurisdiction="nz"><intref href="DLM119844">Schedule</intref></citation>.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
@@ -1244,13 +1228,13 @@
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>the capital value of rateable property within the district of <insertwords>the Auckland Council</insertwords> is deemed to be the capital value of that property as at a date as near as is reasonably practicable to the last day of the financial year preceding by 1 year the financial year in respect of which the levy is to be made<struckoutwords/>:</text>
+                <text>the capital value of rateable property within the district of each contributing authority is deemed to be the capital value of that property as at a date as near as is reasonably practicable to the last day of the financial year preceding by 1 year the financial year in respect of which the levy is to be made<struckoutwords/>:</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>the population of the district of <insertwords>the Auckland Council</insertwords> is deemed to be that which is ascertained or calculated by the Government Statistician as at a date as near as is reasonably practicable to the last day of the financial year preceding by 1 year the financial year in respect of which the levy is to be made, and a certificate by the Government Statistician is conclusive evidence in that respect.</text>
+                <text>the population of the district of each contributing authority is deemed to be that which is ascertained or calculated by the Government Statistician as at a date as near as is reasonably practicable to the last day of the financial year preceding by 1 year the financial year in respect of which the levy is to be made, and a certificate by the Government Statistician is conclusive evidence in that respect.</text>
               </para>
             </label-para>
           </para>
@@ -1258,13 +1242,37 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">5</label>
           <para xml:lang="en-NZ">
-            <text>The Board must, in the resolution referred to in subsection (1), or, if the levy is fixed by arbitration, in a separate resolution for that purpose, fix the amount to be levied against <insertwords>the Auckland Council</insertwords>, and a copy of the resolution must be forwarded to <insertwords>the Auckland Council</insertwords> on or before 30 April preceding the financial year in respect of which the levy is made. The relevant amount so levied is due and payable by <insertwords>the Auckland Council</insertwords> on 1 July next following, and must be paid out of the general revenues of <insertwords>the Auckland Council</insertwords>.</text>
+            <text>The Board must, in the resolution referred to in subsection (1), or, if the levy is fixed by arbitration, in a separate resolution for that purpose, fix the amount to be levied against each of the contributing authorities, and a copy of the resolution must be forwarded to each of the contributing authorities on or before 30 April preceding the financial year in respect of which the levy is made. The relevant amount so levied is due and payable by each contributing authority on 1 July next following, and must be paid out of the general revenues of the contributing authority.</text>
           </para>
         </subprov>
-        <subprov deletion-status="repealed" skeleton="no" xml:lang="en-NZ">
+        <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">6</label>
           <para xml:lang="en-NZ">
-            <text/>
+            <text>If the district of a contributing authority is altered as the result of its total or partial absorption by any other local authority (whether or not that local authority is a contributing authority) or as the result of the contributing authority absorbing the whole or part of the district of any other local authority (whether or not that local authority is a contributing authority) or as the result of the amalgamation of a contributing authority with any other local authority (whether or not that local authority is a contributing authority) or as the result of the division of a contributing authority into 2 or more local authorities, the area that was previously subject to a levy in terms of this Act continues to be so subject, but upon the following terms and conditions:</text>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">a</label>
+              <para xml:lang="en-NZ">
+                <text>the area or areas previously subject to the levy continue to be so subject and the differential factor previously applicable continues to apply unless an area is absorbed into the district of another contributing authority, in which case the differential factor applicable to the latter applies to the area for the year after the happening of that event and later years:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">b</label>
+              <para xml:lang="en-NZ">
+                <text>no account is taken of the fact that the circumstances of this section may result in part only of the district of a local authority being levied:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">c</label>
+              <para xml:lang="en-NZ">
+                <text>nothing in paragraphs (a) and (b) enables the Board to impose a levy upon any area that, at the date on which this Act comes into force, is outside the districts of the contributing authorities:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no" xml:lang="en-NZ">
+              <label auto.number="no" denominator="yes">d</label>
+              <para xml:lang="en-NZ">
+                <text>notwithstanding the provisions of paragraphs (a) and (b), the Local Government Commission may, in the exercise of its jurisdiction in regard to the constitution, alteration, union, or abolition of the district of a territorial authority, review the effect of the said paragraphs upon the matter before it, and make such other provision in that behalf and for such period as it may think appropriate.</text>
+              </para>
+            </label-para>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
@@ -1276,15 +1284,7 @@
       </prov.body>
       <notes>
         <history>
-          <history-note id="DLM3359123"><amended-provision>Section 21 heading</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359124"><amended-provision>Section 21(1)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359125"><amended-provision>Section 21(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359126"><amended-provision>Section 21(3)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359127"><amended-provision>Section 21(4)(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359501"><amended-provision>Section 21(4)(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 July 2003</amendment-date>, by <amending-provision href="DLM133500">section 137(1)</amending-provision> of the <amending-leg>Local Government (Rating) Act 2002</amending-leg> (2002 No 6).</history-note>
-          <history-note id="DLM3359128"><amended-provision>Section 21(4)(b)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359129"><amended-provision>Section 21(5)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359130"><amended-provision>Section 21(6)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
+          <history-note id="DLM119831"><amended-provision>Section 21(4)(a)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 July 2003</amendment-date>, by <amending-provision href="DLM133500">section 137(1)</amending-provision> of the <amending-leg>Local Government (Rating) Act 2002</amending-leg> (2002 No 6).</history-note>
         </history>
       </notes>
     </prov>
@@ -1428,35 +1428,24 @@
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">c</label>
               <para xml:lang="en-NZ">
-                <text>send a copy to <insertwords>the Auckland Council</insertwords> and the Society.</text>
+                <text>send a copy to each contributing authority and the Society.</text>
               </para>
             </label-para>
           </para>
         </subprov>
       </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM3359131"><amended-provision>Section 25(5)(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-        </history>
-      </notes>
     </prov>
     <prov id="DLM119838" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">26</label>
-      <heading xml:lang="en-NZ"><insertwords>Auckland Council</insertwords> to report on involvement</heading>
+      <heading xml:lang="en-NZ">Contributing authorities to report on involvement</heading>
       <prov.body>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="no"/>
           <para xml:lang="en-NZ">
-            <text><insertwords>The Auckland Council must include in its annual report prepared under <citation jurisdiction="nz"><extref href="DLM172354">section 98</extref></citation> of the Local Government Act 2002</insertwords>, in respect of each financial year, information concerning its involvement with, and its financial contributions to, the Board.</text>
+            <text>Each contributing authority must include in its annual report prepared under <citation jurisdiction="nz"><extref href="DLM419610">section 223E</extref> of the Local Government Act 1974</citation>, in respect of each financial year, information concerning its involvement with, and its financial contributions to, the Board.</text>
           </para>
         </subprov>
       </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM3359132"><amended-provision>Section 26 heading</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-          <history-note id="DLM3359133"><amended-provision>Section 26</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-        </history>
-      </notes>
     </prov>
     <prov id="DLM119839" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">27</label>
@@ -1547,17 +1536,62 @@
     </prov>
   </body>
   <schedule.group xml:lang="en-NZ">
-    <schedule deletion-status="repealed" id="DLM119844" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="1" act.type="private" date.as.at="2010-11-01" date.assent="2000-03-06" date.first.valid="2000-04-01" stage="reprint" year="2000" prospective.consolidation="F">
+    <schedule id="DLM119844" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="1" act.type="private" date.as.at="2008-04-01" date.assent="2000-03-06" date.first.valid="2000-04-01" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes"/>
       <empowering-prov>
         <citation jurisdiction="nz"><intref href="DLM119392">ss 3</intref>, <intref href="DLM119830">21(3)</intref></citation>
       </empowering-prov>
       <heading xml:lang="en-NZ">Representatives of contributing authorities</heading>
-      <notes>
-        <history>
-          <history-note id="DLM3359134"><amended-provision>Schedule</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, by <amending-provision href="DLM3016880">section 113(1)</amending-provision> of the <amending-leg>Local Government (Auckland Transitional Provisions) Act 2010</amending-leg> (2010 No 37).</history-note>
-        </history>
-      </notes>
+      <schedule.misc>
+        <para xml:lang="en-NZ">
+          <table align="left" fontsize="10.5" frame="none" id="DLM119845" leading="11.5" xml:lang="en-NZ">
+            <tgroup cols="2" colsep="0" rowsep="0">
+              <colspec colname="col1" colnum="1" colwidth="3.99*"/>
+              <colspec colname="col2" colnum="2" colwidth="1.56*"/>
+              <thead>
+                <row>
+                  <entry>
+                    <emphasis style="bold">Name of contributing authority</emphasis>
+                  </entry>
+                  <entry align="right">
+                    <emphasis style="bold">Differential factor</emphasis>
+                  </entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry>Rodney District Council</entry>
+                  <entry align="right">0.6</entry>
+                </row>
+                <row>
+                  <entry>North Shore City Council</entry>
+                  <entry align="right">1.0</entry>
+                </row>
+                <row>
+                  <entry>Waitakere City Council</entry>
+                  <entry align="right">1.0</entry>
+                </row>
+                <row>
+                  <entry>Auckland City Council</entry>
+                  <entry align="right">1.0</entry>
+                </row>
+                <row>
+                  <entry>Manukau City Council</entry>
+                  <entry align="right">1.0</entry>
+                </row>
+                <row>
+                  <entry>Papakura District Council</entry>
+                  <entry align="right" valign="bottom">1.0</entry>
+                </row>
+                <row>
+                  <entry>Franklin District Council</entry>
+                  <entry align="right">0.6</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </para>
+      </schedule.misc>
     </schedule>
   </schedule.group>
   <end id="DLM119846" xml:lang="en-NZ">
@@ -1582,10 +1616,10 @@
             </prov.body>
           </prov>
           <part irdnumbering="no" toc="yes">
-            <label auto.number="no" denominator="yes">1</label>
+            <label denominator="yes" auto.number="no">1</label>
             <heading xml:lang="en-NZ">Preliminary and key provisions</heading>
-            <subpart irdnumbering="no" toc="no">
-              <label auto.number="no" denominator="yes">1</label>
+            <subpart irdnumbering="no" toc="yes">
+              <label denominator="yes" auto.number="no">1</label>
               <heading xml:lang="en-NZ">Preliminary provisions</heading>
               <prov id="DLM2710302" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">2</label>
@@ -1614,7 +1648,7 @@
                           <label-para skeleton="no" xml:lang="en-NZ">
                             <label auto.number="no" denominator="yes">i</label>
                             <para xml:lang="en-NZ">
-                              <text>Schedule 4; and</text>
+                              <text><citation jurisdiction="nz"><intref href="DLM133545">Schedule 4</intref></citation>; and</text>
                             </para>
                           </label-para>
                           <label-para skeleton="no" xml:lang="en-NZ">
@@ -1656,10 +1690,10 @@
             </subpart>
           </part>
           <part irdnumbering="no" toc="yes">
-            <label auto.number="no" denominator="yes">5</label>
+            <label denominator="yes" auto.number="no">5</label>
             <heading xml:lang="en-NZ">Replacement of rates and miscellaneous matters</heading>
-            <subpart irdnumbering="no" toc="no">
-              <label auto.number="no" denominator="yes">2</label>
+            <subpart irdnumbering="no" toc="yes">
+              <label denominator="yes" auto.number="no">2</label>
               <heading xml:lang="en-NZ">Miscellaneous matters</heading>
               <crosshead id="DLM2710313" toc="yes" xml:lang="en-NZ">Amendments, savings, repeals of other enactments, and transitional provisions</crosshead>
               <prov id="DLM2710314" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -1685,7 +1719,7 @@
         </skeleton.act.body>
       </skeleton.act>
     </skeletons>
-    <end.reprint-note id="DLM3359135">
+    <end.reprint-note id="DLM2699825">
       <reprint.index>
         <heading>Contents</heading>
         <para>
@@ -1726,43 +1760,43 @@
       <reprint.notes>
         <heading>Notes</heading>
         <reprint.note>
-          <label auto.number="no" denominator="yes">1</label>
+          <label auto.number="no" denominator="no">1</label>
           <heading>General</heading>
           <para>
-            <text>This is a reprint of the Museum of Transport and Technology Act 2000. The reprint incorporates all the amendments to the Act as at 1 November 2010, as specified in the list of amendments at the end of these notes.</text>
+            <text>This is a reprint of the Museum of Transport and Technology Act 2000. The reprint incorporates all the amendments to the Act as at 1 April 2008, as specified in the list of amendments at the end of these notes.</text>
           </para>
           <para>
-            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
+            <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
           </para>
         </reprint.note>
         <reprint.note>
-          <label auto.number="no" denominator="yes">2</label>
+          <label auto.number="no" denominator="no">2</label>
           <heading>Status of reprints</heading>
           <para>
-            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref> of the Acts and Regulations Publication Act 1989</citation>, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in the reprint.</text>
           </para>
           <para>
             <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
           </para>
         </reprint.note>
         <reprint.note>
-          <label auto.number="no" denominator="yes">3</label>
+          <label auto.number="no" denominator="no">3</label>
           <heading>How reprints are prepared</heading>
           <para>
-            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
           </para>
         </reprint.note>
         <reprint.note>
-          <label auto.number="no" denominator="yes">4</label>
+          <label auto.number="no" denominator="no">4</label>
           <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref> and <extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
           </para>
           <para>
-            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation>, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
           </para>
           <para>
-            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
             <list>
               <item>
                 <label auto.number="no" denominator="no">•</label>
@@ -1868,11 +1902,8 @@
           </para>
         </reprint.note>
         <reprint.note>
-          <label auto.number="no" denominator="yes">5</label>
-          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
-          <reprint.amend>
-            <citation jurisdiction="nz">Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): <extref href="DLM3016880">section 113(1)</extref></citation>
-          </reprint.amend>
+          <label auto.number="no" denominator="no">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
           <reprint.amend>
             <citation jurisdiction="nz">Income Tax Act 2007 (2007 No 97): <extref href="DLM1523176">section ZA 2(1)</extref></citation>
           </reprint.amend>
