@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM120337" in.amend="false" instructing.office="Unknown Department" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="2" act.type="private" date.as.at="2008-04-01" date.assent="2001-10-24" date.first.valid="2001-10-25" stage="reprint" year="2001">
+<act id="DLM120337" in.amend="false" xml:lang="en-NZ" irdnumbering="no" act.no="2" act.type="private" date.as.at="2007-09-03" date.assent="2001-10-24" date.first.valid="2007-09-18" stage="reprint" year="2001">
   <cover id="DLM120338">
-    <reprint-date>2008-04-01</reprint-date>
     <title xml:lang="en-NZ">Sydenham Money Club Act 2001</title>
     <assent>2001-10-24</assent>
-    <commencement>see section 2</commencement>
-    <cover.reprint-note>
-      <para>
-        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations
-Publication Act 1989</citation> have been made in this reprint.</text>
-      </para>
-      <para>
-        <text>A general outline of these changes is set out in
-the notes at the end of this reprint, together with other explanatory
-material about this reprint.</text>
-      </para>
-    </cover.reprint-note>
   </cover>
   <contents>
     <heading xml:lang="en-NZ">Contents</heading>
@@ -25,90 +12,71 @@ material about this reprint.</text>
     <preamble id="DLM120340" xml:lang="en-NZ">
       <heading xml:lang="en-NZ">Preamble</heading>
       <preamble-block id="DLM120341" xml:lang="en-NZ">
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="yes">1</label>
-          <para>
-            <text>The Sydenham
-Money Club was created in 1882 and registered in 1885 under the Friendly
-Societies Act 1882:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="yes">2</label>
-          <para>
-            <text>On the coming
-into force of the <citation jurisdiction="nz"><leg-title href="DLM59731">Friendly Societies and Credit Unions Act 1982</leg-title></citation>, the club was deemed
-to be registered under that Act:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="yes">3</label>
-          <para>
-            <text>The club has
-not, since its registration under the <citation jurisdiction="nz"><leg-title href="DLM59731">Friendly Societies and Credit Unions Act 1982</leg-title></citation>, been able to comply
-with the strict terms of that Act:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="yes">4</label>
-          <para>
-            <text>The <citation jurisdiction="nz"><leg-title href="DLM59731">Friendly Societies and Credit Unions Act 1982</leg-title></citation> does not permit
-a credit union to change its status to that of another legal entity
-(for example, a credit union cannot become registered as a company
-or as a building society):</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="yes">5</label>
-          <para>
-            <text>The club wishes
-to be registered as a building society under the <citation jurisdiction="nz"><leg-title href="DLM367767">Building Societies Act 1965</leg-title></citation> with the name <quote.in quote="1">SMC Building Society</quote.in> and with the initial shares
-in the society held by the members of the club:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="yes">6</label>
-          <para>
-            <text>The registration
-of the club as a building society may result in the club and the members
-of the club becoming liable for the payment of taxes and duties:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="yes">7</label>
-          <para>
-            <text>It is not appropriate
-that, on the conversion of the club into a building society, taxes
-and duties be incurred or be payable solely as a result of a change
-in the legal status of the club:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="yes">8</label>
-          <para>
-            <text>The club wishes
-to make provision for other matters in connection with its registration
-as a building society:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="yes">9</label>
-          <para>
-            <text>Legislation
-is the only means by which the club can be registered as a building
-society conveniently and without the risk of adverse tax and other
-consequences:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="yes">10</label>
-          <para>
-            <text>The objects
-of this Act can be obtained only by legislation.</text>
-          </para>
-        </subprov>
+        <para xml:lang="en-NZ">
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>The Sydenham Money Club was created in 1882 and registered in 1885 under the <citation jurisdiction="nz">Friendly Societies Act 1882</citation>:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>On the coming into force of the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159761" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605848" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162618" atidlm:sourceXmlId="DLM605848" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605848" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/preamble[1]/preamble-block[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, the club was deemed to be registered under that Act:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>The club has not, since its registration under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159762" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605849" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162619" atidlm:sourceXmlId="DLM605849" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605849" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/preamble[1]/preamble-block[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, been able to comply with the strict terms of that Act:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">4</label>
+            <para xml:lang="en-NZ">
+              <text>The <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159763" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605850" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162620" atidlm:sourceXmlId="DLM605850" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605850" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/preamble[1]/preamble-block[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> does not permit a credit union to change its status to that of another legal entity (for example, a credit union cannot become registered as a company or as a building society):</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">5</label>
+            <para xml:lang="en-NZ">
+              <text>The club wishes to be registered as a building society under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159764" atidlm:branchLabel="_NOVERSION_" atidlm:name="Building Societies Act 1965" atidlm:xmlId="DLM605851" atidlm:state="UNCHANGED"><atidlm:linkcontent>Building Societies Act 1965</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162621" atidlm:sourceXmlId="DLM605851" atidlm:targetKey="2374605" atidlm:targetXmlId="DLM367767" atidlm:targetName="Building Societies Act 1965" atidlm:sourceName="DLM605851" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM367767.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/preamble[1]/preamble-block[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> with the name <quote.in>SMC Building Society</quote.in> and with the initial shares in the society held by the members of the club:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">6</label>
+            <para xml:lang="en-NZ">
+              <text>The registration of the club as a building society may result in the club and the members of the club becoming liable for the payment of taxes and duties:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">7</label>
+            <para xml:lang="en-NZ">
+              <text>It is not appropriate that, on the conversion of the club into a building society, taxes and duties be incurred or be payable solely as a result of a change in the legal status of the club:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">8</label>
+            <para xml:lang="en-NZ">
+              <text>The club wishes to make provision for other matters in connection with its registration as a building society:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">9</label>
+            <para xml:lang="en-NZ">
+              <text>Legislation is the only means by which the club can be registered as a building society conveniently and without the risk of adverse tax and other consequences:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">10</label>
+            <para xml:lang="en-NZ">
+              <text>The objects of this Act can be obtained only by legislation:</text>
+            </para>
+          </label-para>
+        </para>
       </preamble-block>
     </preamble>
+    <enactment>The Parliament of New Zealand therefore enacts as follows:</enactment>
   </front>
   <body id="DLM120342" prov-type="section" xml:lang="en-NZ">
     <prov id="DLM120343" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -118,8 +86,7 @@ of this Act can be obtained only by legislation.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="no"/>
           <para xml:lang="en-NZ">
-            <text>This Act is
-the Sydenham Money Club Act 2001.</text>
+            <text>This Act is the Sydenham Money Club Act 2001.</text>
           </para>
         </subprov>
       </prov.body>
@@ -131,9 +98,7 @@ the Sydenham Money Club Act 2001.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="no"/>
           <para xml:lang="en-NZ">
-            <text>This Act comes
-into force on the day after the date on which it receives the Royal
-assent.</text>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
           </para>
         </subprov>
       </prov.body>
@@ -145,12 +110,10 @@ assent.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>In this Act,
-unless the context otherwise requires,—</text>
+            <text>In this Act, unless the context otherwise requires,—</text>
             <def-para id="DLM120346" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120347" xml:lang="en-NZ">appointed day</def-term> means the date stated in the certificate of incorporation issued
-under <citation jurisdiction="nz"><intref href="DLM120382">section 8</intref></citation></text>
+                <text><def-term id="DLM120347" xml:lang="en-NZ">appointed day</def-term> means the date stated in the certificate of incorporation issued under <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159765" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 8" atidlm:xmlId="DLM605852" atidlm:state="UNCHANGED"><atidlm:linkcontent>8</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162622" atidlm:sourceXmlId="DLM605852" atidlm:targetKey="980610" atidlm:targetXmlId="DLM120382" atidlm:targetName="prov 8" atidlm:sourceName="DLM605852" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]/prov.body[1]/subprov[1]/para[1]/def-para[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para appointed day" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
               </para>
             </def-para>
             <def-para id="DLM120348" xml:lang="en-NZ">
@@ -159,28 +122,25 @@ under <citation jurisdiction="nz"><intref href="DLM120382">section 8</intref></c
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>until the appointed day, the directors
-of the club; and</text>
+                    <text>until the appointed day, the directors of the club; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">b</label>
                   <para xml:lang="en-NZ">
-                    <text>on and after the appointed day, the directors
-of the society</text>
+                    <text>on and after the appointed day, the directors of the society</text>
                   </para>
                 </label-para>
               </para>
             </def-para>
             <def-para id="DLM120350" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120351" xml:lang="en-NZ">building society</def-term> means a building society registered under the <citation jurisdiction="nz"><leg-title href="DLM367767">Building Societies Act 1965</leg-title></citation></text>
+                <text><def-term id="DLM120351" xml:lang="en-NZ">building society</def-term> means a building society registered under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159766" atidlm:branchLabel="_NOVERSION_" atidlm:name="Building Societies Act 1965" atidlm:xmlId="DLM605853" atidlm:state="UNCHANGED"><atidlm:linkcontent>Building Societies Act 1965</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162623" atidlm:sourceXmlId="DLM605853" atidlm:targetKey="2374605" atidlm:targetXmlId="DLM367767" atidlm:targetName="Building Societies Act 1965" atidlm:sourceName="DLM605853" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM367767.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]/prov.body[1]/subprov[1]/para[1]/def-para[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para building society" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
               </para>
             </def-para>
             <def-para id="DLM120352" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120353" xml:lang="en-NZ">club</def-term> means the
-Sydenham Money Club and, where the context requires, its officers</text>
+                <text><def-term id="DLM120353" xml:lang="en-NZ">club</def-term> means the Sydenham Money Club and, where the context requires, its officers</text>
               </para>
             </def-para>
             <def-para id="DLM120354" xml:lang="en-NZ">
@@ -189,15 +149,13 @@ Sydenham Money Club and, where the context requires, its officers</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>until the appointed day, an officer of
-the club; and</text>
+                    <text>until the appointed day, an officer of the club; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">b</label>
                   <para xml:lang="en-NZ">
-                    <text>on and after the appointed day, a director
-of the society</text>
+                    <text>on and after the appointed day, a director of the society</text>
                   </para>
                 </label-para>
               </para>
@@ -208,10 +166,7 @@ of the society</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>an instrument (other than this Act) that
-creates, evidences, modifies, or extinguishes rights, interests, or
-liabilities or would do so if it or a copy of it were lodged, filed,
-or registered under any Act; and</text>
+                    <text>an instrument (other than this Act) that creates, evidences, modifies, or extinguishes rights, interests, or liabilities or would do so if it or a copy of it were lodged, filed, or registered under any Act; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
@@ -224,24 +179,17 @@ or registered under any Act; and</text>
             </def-para>
             <def-para id="DLM120358" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120359" xml:lang="en-NZ">liabilities</def-term> means
-liabilities, debts, charges, duties, and obligations (whether present
-or future, actual or contingent, or payable or to be observed or performed
-in New Zealand or elsewhere)</text>
+                <text><def-term id="DLM120359" xml:lang="en-NZ">liabilities</def-term> means liabilities, debts, charges, duties, and obligations (whether present or future, actual or contingent, or payable or to be observed or performed in New Zealand or elsewhere)</text>
               </para>
             </def-para>
             <def-para id="DLM120360" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120361" xml:lang="en-NZ">members' call units</def-term> means that part of the members' fund designated as the members'
-call units in the accounts of the club, representing the accumulated
-subscriptions of the members and in respect of which the club pays
-an amount referred to as a dividend in the accounts of the club</text>
+                <text><def-term id="DLM120361" xml:lang="en-NZ">members' call units</def-term> means that part of the members' fund designated as the members' call units in the accounts of the club, representing the accumulated subscriptions of the members and in respect of which the club pays an amount referred to as a dividend in the accounts of the club</text>
               </para>
             </def-para>
             <def-para id="DLM120362" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120363" xml:lang="en-NZ">property</def-term> means
-real or personal property and includes—</text>
+                <text><def-term id="DLM120363" xml:lang="en-NZ">property</def-term> means real or personal property and includes—</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
@@ -257,38 +205,29 @@ real or personal property and includes—</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">c</label>
                   <para xml:lang="en-NZ">
-                    <text>rights, interests, and claims in or to
-property, whether arising from or accruing under, or created or evidenced
-by, or the subject of, an instrument or otherwise, and whether liquidated
-or unliquidated, actual, contingent, or prospective</text>
+                    <text>rights, interests, and claims in or to property, whether arising from or accruing under, or created or evidenced by, or the subject of, an instrument or otherwise, and whether liquidated or unliquidated, actual, contingent, or prospective</text>
                   </para>
                 </label-para>
               </para>
             </def-para>
             <def-para id="DLM120364" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120365" xml:lang="en-NZ">Registrar</def-term> means
-the Registrar of Building Societies under the <citation jurisdiction="nz"><leg-title href="DLM367767">Building Societies Act 1965</leg-title></citation></text>
+                <text><def-term id="DLM120365" xml:lang="en-NZ">Registrar</def-term> means the Registrar of Building Societies under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159767" atidlm:branchLabel="_NOVERSION_" atidlm:name="Building Societies Act 1965" atidlm:xmlId="DLM605854" atidlm:state="UNCHANGED"><atidlm:linkcontent>Building Societies Act 1965</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162624" atidlm:sourceXmlId="DLM605854" atidlm:targetKey="2374605" atidlm:targetXmlId="DLM367767" atidlm:targetName="Building Societies Act 1965" atidlm:sourceName="DLM605854" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM367767.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]/prov.body[1]/subprov[1]/para[1]/def-para[10]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para Registrar" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
               </para>
             </def-para>
             <def-para id="DLM120366" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120367" xml:lang="en-NZ">rights</def-term> means
-all rights, powers, privileges, and immunities, whether actual, contingent,
-or prospective</text>
+                <text><def-term id="DLM120367" xml:lang="en-NZ">rights</def-term> means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective</text>
               </para>
             </def-para>
             <def-para id="DLM120368" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120369" xml:lang="en-NZ">rules</def-term> means
-the rules approved by the members of the club under <citation jurisdiction="nz"><intref href="DLM120380">section 6</intref></citation></text>
+                <text><def-term id="DLM120369" xml:lang="en-NZ">rules</def-term> means the rules approved by the members of the club under <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159768" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 6" atidlm:xmlId="DLM605855" atidlm:state="UNCHANGED"><atidlm:linkcontent>6</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162625" atidlm:sourceXmlId="DLM605855" atidlm:targetKey="980608" atidlm:targetXmlId="DLM120380" atidlm:targetName="prov 6" atidlm:sourceName="DLM605855" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]/prov.body[1]/subprov[1]/para[1]/def-para[12]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para rules" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
               </para>
             </def-para>
             <def-para id="DLM120370" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120371" xml:lang="en-NZ">scheme</def-term> means
-the scheme for the reconstitution of the club as a building society
-to be effected under this Act</text>
+                <text><def-term id="DLM120371" xml:lang="en-NZ">scheme</def-term> means the scheme for the reconstitution of the club as a building society to be effected under this Act</text>
               </para>
             </def-para>
             <def-para id="DLM120372" xml:lang="en-NZ">
@@ -297,35 +236,25 @@ to be effected under this Act</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>means a mortgage, charge (whether legal
-or equitable), debenture, bill of exchange, promissory note, guarantee,
-indemnity, defeasance, hypothecation, instrument by way of security,
-lien, pledge, or other security for the payment of money or for the
-discharge of any other obligation or liability and, whether on demand
-or not, present or future, actual or contingent; and</text>
+                    <text>means a mortgage, charge (whether legal or equitable), debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability and, whether on demand or not, present or future, actual or contingent; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">b</label>
                   <para xml:lang="en-NZ">
-                    <text>includes an agreement or undertaking
-to give or execute, whether on demand or not, any of the things referred
-to in paragraph (a)</text>
+                    <text>includes an agreement or undertaking to give or execute, whether on demand or not, any of the things referred to in <citation jurisdiction="nz">paragraph <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159769" atidlm:branchLabel="_NOVERSION_" atidlm:name="def-para security" atidlm:xmlId="DLM605856" atidlm:state="UNCHANGED"><atidlm:linkcontent>(a)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162626" atidlm:sourceXmlId="DLM605856" atidlm:targetKey="980600" atidlm:targetXmlId="DLM120372" atidlm:targetName="def-para security" atidlm:sourceName="DLM605856" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]/prov.body[1]/subprov[1]/para[1]/def-para[14]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para security" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
                   </para>
                 </label-para>
               </para>
             </def-para>
             <def-para id="DLM120374" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120375" xml:lang="en-NZ">society</def-term> means
-the club after it has been registered as a building society</text>
+                <text><def-term id="DLM120375" xml:lang="en-NZ">society</def-term> means the club after it has been registered as a building society</text>
               </para>
             </def-para>
             <def-para id="DLM120376" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM120377" xml:lang="en-NZ">undertaking</def-term> in
-relation to the club, means the property, rights, and liabilities
-of the club.</text>
+                <text><def-term id="DLM120377" xml:lang="en-NZ">undertaking</def-term> in relation to the club, means the property, rights, and liabilities of the club.</text>
               </para>
             </def-para>
           </para>
@@ -333,9 +262,7 @@ of the club.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>Depending
-on the context in which they are used, terms and expressions used,
-but not defined, in this Act have the same meanings as in the <citation jurisdiction="nz"><leg-title href="DLM59731">Friendly Societies and Credit Unions Act 1982</leg-title></citation> or in the <citation jurisdiction="nz"><leg-title href="DLM367767">Building Societies Act 1965</leg-title></citation>.</text>
+            <text>Depending on the context in which they are used, terms and expressions used, but not defined, in this Act have the same meanings as in the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159770" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605857" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162627" atidlm:sourceXmlId="DLM605857" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605857" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Interpretation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> or in the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159771" atidlm:branchLabel="_NOVERSION_" atidlm:name="Building Societies Act 1965" atidlm:xmlId="DLM605858" atidlm:state="UNCHANGED"><atidlm:linkcontent>Building Societies Act 1965</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162628" atidlm:sourceXmlId="DLM605858" atidlm:targetKey="2374605" atidlm:targetXmlId="DLM367767" atidlm:targetName="Building Societies Act 1965" atidlm:sourceName="DLM605858" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM367767.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Interpretation" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
       </prov.body>
@@ -347,9 +274,7 @@ but not defined, in this Act have the same meanings as in the <citation jurisdic
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="no"/>
           <para xml:lang="en-NZ">
-            <text>This Act binds
-the Crown and every person whose rights, obligations, and liabilities
-are affected by this Act.</text>
+            <text>This Act binds the Crown and every person whose rights, obligations, and liabilities are affected by this Act.</text>
           </para>
         </subprov>
       </prov.body>
@@ -361,10 +286,7 @@ are affected by this Act.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="no"/>
           <para xml:lang="en-NZ">
-            <text>The purpose
-of this Act is to reconstitute the club, at present a credit union
-under the <citation jurisdiction="nz"><leg-title href="DLM59731">Friendly Societies and Credit Unions Act 1982</leg-title></citation>, as a building society
-under the <citation jurisdiction="nz"><leg-title href="DLM367767">Building Societies Act 1965</leg-title></citation> with the name <amend.in quote="1">SMC Building Society</amend.in>.</text>
+            <text>The purpose of this Act is to reconstitute the club, at present a credit union under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159772" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605859" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162629" atidlm:sourceXmlId="DLM605859" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605859" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[5]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Purpose" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="5" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, as a building society under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159773" atidlm:branchLabel="_NOVERSION_" atidlm:name="Building Societies Act 1965" atidlm:xmlId="DLM605860" atidlm:state="UNCHANGED"><atidlm:linkcontent>Building Societies Act 1965</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162630" atidlm:sourceXmlId="DLM605860" atidlm:targetKey="2374605" atidlm:targetXmlId="DLM367767" atidlm:targetName="Building Societies Act 1965" atidlm:sourceName="DLM605860" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM367767.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[5]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Purpose" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="5" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> with the name <amend.in>SMC Building Society</amend.in>.</text>
           </para>
         </subprov>
       </prov.body>
@@ -376,60 +298,47 @@ under the <citation jurisdiction="nz"><leg-title href="DLM367767">Building Socie
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>The board
-may prepare a scheme for approval by the members of the club.</text>
+            <text>The board may prepare a scheme for approval by the members of the club.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>The board
-must give 15 working days' notice of a meeting of members of
-the club to vote on a special resolution to approve the scheme.</text>
+            <text>The board must give 15 working days' notice of a meeting of members of the club to vote on a special resolution to approve the scheme.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>The notice
-of meeting must be sent to each member of the club, at the last known
-address of the member, and be accompanied by—</text>
+            <text>The notice of meeting must be sent to each member of the club, at the last known address of the member, and be accompanied by—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>an explanation of the scheme and of the
-proposed rules dealing with the matters that are, in the opinion of
-the directors, likely to have material significance to the members
-in their capacity as members; and</text>
+                <text>an explanation of the scheme and of the proposed rules dealing with the matters that are, in the opinion of the directors, likely to have material significance to the members in their capacity as members; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>a statement of the manner in which the
-funds of the club will be allocated and distributed among members
-of the club; and</text>
+                <text>a statement of the manner in which the funds of the club will be allocated and distributed among members of the club; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">c</label>
               <para xml:lang="en-NZ">
-                <text>a statement that any member of the club
-may obtain a full copy of the rules on request; and</text>
+                <text>a statement that any member of the club may obtain a full copy of the rules on request; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">d</label>
               <para xml:lang="en-NZ">
-                <text>a statement as to the locations where
-a copy of the rules can be inspected; and</text>
+                <text>a statement as to the locations where a copy of the rules can be inspected; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">e</label>
               <para xml:lang="en-NZ">
-                <text>the date on which it is proposed that
-the scheme will take effect.</text>
+                <text>the date on which it is proposed that the scheme will take effect.</text>
               </para>
             </label-para>
           </para>
@@ -437,10 +346,7 @@ the scheme will take effect.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">4</label>
           <para xml:lang="en-NZ">
-            <text>The scheme,
-including the rules, is approved if the members pass a special resolution
-approving the scheme under <citation jurisdiction="nz"><extref href="DLM60251">section 82</extref> of the Friendly Societies and
-Credit Unions Act 1982</citation>.</text>
+            <text>The scheme, including the rules, is approved if the members pass a special resolution approving the scheme under <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159774" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 82" atidlm:xmlId="DLM605861" atidlm:state="UNCHANGED"><atidlm:linkcontent>82</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162631" atidlm:sourceXmlId="DLM605861" atidlm:targetKey="347724" atidlm:targetXmlId="DLM60251" atidlm:targetName="prov 82" atidlm:sourceName="DLM605861" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59827.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Approval of scheme" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159775" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605862" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162632" atidlm:sourceXmlId="DLM605862" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605862" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[6]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Approval of scheme" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
       </prov.body>
@@ -452,28 +358,23 @@ Credit Unions Act 1982</citation>.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>The board
-may apply to the Registrar to register the club as a building society
-under the <citation jurisdiction="nz"><leg-title href="DLM367767">Building Societies Act 1965</leg-title></citation> with the name <amend.in quote="1">SMC Building Society</amend.in>.</text>
+            <text>The board may apply to the Registrar to register the club as a building society under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159776" atidlm:branchLabel="_NOVERSION_" atidlm:name="Building Societies Act 1965" atidlm:xmlId="DLM605863" atidlm:state="UNCHANGED"><atidlm:linkcontent>Building Societies Act 1965</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162633" atidlm:sourceXmlId="DLM605863" atidlm:targetKey="2374605" atidlm:targetXmlId="DLM367767" atidlm:targetName="Building Societies Act 1965" atidlm:sourceName="DLM605863" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM367767.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application for registration" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="7" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> with the name <amend.in>SMC Building Society</amend.in>.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>The application
-must—</text>
+            <text>The application must—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>be signed by 3 directors of the
-club; and</text>
+                <text>be signed by 3 directors of the club; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>specify the date on which the board proposes
-that the scheme take effect.</text>
+                <text>specify the date on which the board proposes that the scheme take effect.</text>
               </para>
             </label-para>
           </para>
@@ -481,28 +382,23 @@ that the scheme take effect.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>The application
-must be accompanied by—</text>
+            <text>The application must be accompanied by—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>the rules of the society that comply
-with <citation jurisdiction="nz"><extref href="DLM371389">section 17</extref> of the Building Societies Act
-1965</citation> and that are approved by the members of the club under <citation jurisdiction="nz"><intref href="DLM120380">section 6</intref></citation>; and</text>
+                <text>the rules of the society that comply with <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159777" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 17" atidlm:xmlId="DLM605864" atidlm:state="UNCHANGED"><atidlm:linkcontent>17</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162634" atidlm:sourceXmlId="DLM605864" atidlm:targetKey="2376828" atidlm:targetXmlId="DLM371389" atidlm:targetName="prov 17" atidlm:sourceName="DLM605864" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM371360.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application for registration" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="7" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159778" atidlm:branchLabel="_NOVERSION_" atidlm:name="Building Societies Act 1965" atidlm:xmlId="DLM605865" atidlm:state="UNCHANGED"><atidlm:linkcontent>Building Societies Act 1965</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162635" atidlm:sourceXmlId="DLM605865" atidlm:targetKey="2374605" atidlm:targetXmlId="DLM367767" atidlm:targetName="Building Societies Act 1965" atidlm:sourceName="DLM605865" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM367767.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application for registration" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="7" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> and that are approved by the members of the club under <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159779" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 6" atidlm:xmlId="DLM605866" atidlm:state="UNCHANGED"><atidlm:linkcontent>6</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162636" atidlm:sourceXmlId="DLM605866" atidlm:targetKey="980608" atidlm:targetXmlId="DLM120380" atidlm:targetName="prov 6" atidlm:sourceName="DLM605866" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application for registration" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="7" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>a certificate signed by not less than
-3 directors of the club certifying that the requirements of <citation jurisdiction="nz"><intref href="DLM120380">section 6</intref></citation> have been met; and</text>
+                <text>a certificate signed by not less than 3 directors of the club certifying that the requirements of <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159780" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 6" atidlm:xmlId="DLM605867" atidlm:state="UNCHANGED"><atidlm:linkcontent>6</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162637" atidlm:sourceXmlId="DLM605867" atidlm:targetKey="980608" atidlm:targetXmlId="DLM120380" atidlm:targetName="prov 6" atidlm:sourceName="DLM605867" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application for registration" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="7" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> have been met; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">c</label>
               <para xml:lang="en-NZ">
-                <text>a copy of the resolution approving the
-scheme under <citation jurisdiction="nz"><intref href="DLM120380">section 6(4)</intref></citation>.</text>
+                <text>a copy of the resolution approving the scheme under <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159781" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 6" atidlm:xmlId="DLM605868" atidlm:state="UNCHANGED"><atidlm:linkcontent>6(4)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162638" atidlm:sourceXmlId="DLM605868" atidlm:targetKey="980608" atidlm:targetXmlId="DLM120380" atidlm:targetName="prov 6" atidlm:sourceName="DLM605868" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application for registration" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="7" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
               </para>
             </label-para>
           </para>
@@ -516,20 +412,17 @@ scheme under <citation jurisdiction="nz"><intref href="DLM120380">section 6(4)</
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>As soon as
-practicable after receiving an application that complies with <citation jurisdiction="nz"><intref href="DLM120381">section 7</intref></citation>, the Registrar must—</text>
+            <text>As soon as practicable after receiving an application that complies with <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159782" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 7" atidlm:xmlId="DLM605869" atidlm:state="UNCHANGED"><atidlm:linkcontent>7</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162800" atidlm:sourceXmlId="DLM605869" atidlm:targetKey="980609" atidlm:targetXmlId="DLM120381" atidlm:targetName="prov 7" atidlm:sourceName="DLM605869" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[8]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Reconstitution of club as building society" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, the Registrar must—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>register the application and accompanying
-documents; and</text>
+                <text>register the application and accompanying documents; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>issue a certificate of incorporation
-for the society with the name <quote.in quote="1">SMC Building Society</quote.in>.</text>
+                <text>issue a certificate of incorporation for the society with the name <quote.in>SMC Building Society</quote.in>.</text>
               </para>
             </label-para>
           </para>
@@ -537,22 +430,17 @@ for the society with the name <quote.in quote="1">SMC Building Society</quote.in
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>The certificate
-must state, as the date of incorporation of the society, the later
-of—</text>
+            <text>The certificate must state, as the date of incorporation of the society, the later of—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>the date specified in the application
-as the date on which the board proposes that the scheme take effect;
-or</text>
+                <text>the date specified in the application as the date on which the board proposes that the scheme take effect; or</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>the date on which application is made
-to the Registrar.</text>
+                <text>the date on which application is made to the Registrar.</text>
               </para>
             </label-para>
           </para>
@@ -560,27 +448,23 @@ to the Registrar.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>On and after
-the date stated in the certificate of incorporation,—</text>
+            <text>On and after the date stated in the certificate of incorporation,—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>the club ceases to be a credit union
-registered under the <citation jurisdiction="nz"><leg-title href="DLM59731">Friendly Societies and Credit Unions Act 1962</leg-title></citation>; and</text>
+                <text>the club ceases to be a credit union registered under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159783" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605870" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1962</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162801" atidlm:sourceXmlId="DLM605870" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605870" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[8]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Reconstitution of club as building society" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>the club is a building society registered
-under the <citation jurisdiction="nz"><leg-title href="DLM367767">Building Societies Act 1965</leg-title></citation>; and</text>
+                <text>the club is a building society registered under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159784" atidlm:branchLabel="_NOVERSION_" atidlm:name="Building Societies Act 1965" atidlm:xmlId="DLM605871" atidlm:state="UNCHANGED"><atidlm:linkcontent>Building Societies Act 1965</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162802" atidlm:sourceXmlId="DLM605871" atidlm:targetKey="2374605" atidlm:targetXmlId="DLM367767" atidlm:targetName="Building Societies Act 1965" atidlm:sourceName="DLM605871" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM367767.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[8]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Reconstitution of club as building society" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">c</label>
               <para xml:lang="en-NZ">
-                <text>the <citation jurisdiction="nz"><leg-title href="DLM367767">Building Societies Act 1965</leg-title></citation>, except <citation jurisdiction="nz"><extref href="DLM371632">section 29</extref></citation>, applies to the
-society.</text>
+                <text>the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159785" atidlm:branchLabel="_NOVERSION_" atidlm:name="Building Societies Act 1965" atidlm:xmlId="DLM605872" atidlm:state="UNCHANGED"><atidlm:linkcontent>Building Societies Act 1965</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162803" atidlm:sourceXmlId="DLM605872" atidlm:targetKey="2374605" atidlm:targetXmlId="DLM367767" atidlm:targetName="Building Societies Act 1965" atidlm:sourceName="DLM605872" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM367767.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[8]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Reconstitution of club as building society" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, except <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159786" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 29" atidlm:xmlId="DLM605873" atidlm:state="UNCHANGED"><atidlm:linkcontent>29</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162804" atidlm:sourceXmlId="DLM605873" atidlm:targetKey="2376804" atidlm:targetXmlId="DLM371632" atidlm:targetName="prov 29" atidlm:sourceName="DLM605873" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM371360.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[8]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Reconstitution of club as building society" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, applies to the society.</text>
               </para>
             </label-para>
           </para>
@@ -588,19 +472,13 @@ society.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">4</label>
           <para xml:lang="en-NZ">
-            <text>The Registrar
-must, as soon as practicable after issuing the certificate of incorporation,
-send a copy of the certificate to the Registrar of Friendly Societies
-and Credit Unions.</text>
+            <text>The Registrar must, as soon as practicable after issuing the certificate of incorporation, send a copy of the certificate to the Registrar of Friendly Societies and Credit Unions.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">5</label>
           <para xml:lang="en-NZ">
-            <text>The Registrar
-of Friendly Societies and Credit Unions must, on receiving the copy
-of the certificate, cancel the registration of the club as a credit
-union under the <citation jurisdiction="nz"><leg-title href="DLM59731">Friendly Societies and Credit Unions Act 1982</leg-title></citation>.</text>
+            <text>The Registrar of Friendly Societies and Credit Unions must, on receiving the copy of the certificate, cancel the registration of the club as a credit union under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159787" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605874" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162805" atidlm:sourceXmlId="DLM605874" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605874" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[8]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Reconstitution of club as building society" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="8" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
       </prov.body>
@@ -612,37 +490,29 @@ union under the <citation jurisdiction="nz"><leg-title href="DLM59731">Friendly 
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="no"/>
           <para xml:lang="en-NZ">
-            <text>On the appointed
-day,—</text>
+            <text>On the appointed day,—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>the subscribed capital of the society
-is represented by shares in the society that are deemed to have been
-issued, in the manner provided in the scheme, to every person who
-was a member of the club immediately before the appointed day; and</text>
+                <text>the subscribed capital of the society is represented by shares in the society that are deemed to have been issued, in the manner provided in the scheme, to every person who was a member of the club immediately before the appointed day; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>the rules of the society are the rules
-that are approved under <citation jurisdiction="nz"><intref href="DLM120380">section 6</intref></citation>; and</text>
+                <text>the rules of the society are the rules that are approved under <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159788" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 6" atidlm:xmlId="DLM605875" atidlm:state="UNCHANGED"><atidlm:linkcontent>6</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162806" atidlm:sourceXmlId="DLM605875" atidlm:targetKey="980608" atidlm:targetXmlId="DLM120380" atidlm:targetName="prov 6" atidlm:sourceName="DLM605875" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[9]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Structure of society" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="9" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">c</label>
               <para xml:lang="en-NZ">
-                <text>the directors of the society hold office
-on the terms and conditions set out in the rules; and</text>
+                <text>the directors of the society hold office on the terms and conditions set out in the rules; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">d</label>
               <para xml:lang="en-NZ">
-                <text>the directors of the society are the
-directors of the club who held office immediately before the appointed
-day.</text>
+                <text>the directors of the society are the directors of the club who held office immediately before the appointed day.</text>
               </para>
             </label-para>
           </para>
@@ -656,8 +526,7 @@ day.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="no"/>
           <para xml:lang="en-NZ">
-            <text>On the appointed
-day, the undertaking of the club belongs to, and vests in, the society.</text>
+            <text>On the appointed day, the undertaking of the club belongs to, and vests in, the society.</text>
           </para>
         </subprov>
       </prov.body>
@@ -669,19 +538,13 @@ day, the undertaking of the club belongs to, and vests in, the society.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>The relationship
-between the club and a member in the member's capacity as a depositor
-or investor becomes, on and after the appointed day, the same relationship
-between the society and a member in the same capacity.</text>
+            <text>The relationship between the club and a member in the member's capacity as a depositor or investor becomes, on and after the appointed day, the same relationship between the society and a member in the same capacity.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>The same rights
-and liabilities, including rights of set-off, continue to exist between
-the society and a member as existed between the club and the member
-immediately before the appointed day.</text>
+            <text>The same rights and liabilities, including rights of set-off, continue to exist between the society and a member as existed between the club and the member immediately before the appointed day.</text>
           </para>
         </subprov>
       </prov.body>
@@ -693,24 +556,13 @@ immediately before the appointed day.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>This section
-applies to the following instruments, namely, contracts, agreements,
-guarantees, conveyances, deeds, leases, licences, and other instruments,
-undertakings, and notices (whether in writing or not) entered into
-by, made with, given to or by, or addressed to the club (whether alone
-or with another person) before the appointed day and subsisting immediately
-before the appointed day.</text>
+            <text>This section applies to the following instruments, namely, contracts, agreements, guarantees, conveyances, deeds, leases, licences, and other instruments, undertakings, and notices (whether in writing or not) entered into by, made with, given to or by, or addressed to the club (whether alone or with another person) before the appointed day and subsisting immediately before the appointed day.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>The instruments
-to which this section applies are, on and after the appointed day,
-binding on, and enforceable by, against, or in favour of, the society
-as if the society and not the club had been the person by whom they
-were entered into, with whom they were made, or to or by whom they
-were given or addressed.</text>
+            <text>The instruments to which this section applies are, on and after the appointed day, binding on, and enforceable by, against, or in favour of, the society as if the society and not the club had been the person by whom they were entered into, with whom they were made, or to or by whom they were given or addressed.</text>
           </para>
         </subprov>
       </prov.body>
@@ -722,22 +574,13 @@ were given or addressed.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>A security
-held by the club as security for a debt or other liability to the
-club incurred before the appointed day is, on and after the appointed
-day, available to the society as security for the discharge of that
-debt or liability. If the security extends to future or prospective
-debts or liabilities, it is available as security for the discharge
-of debts or liabilities to the society incurred on or after the appointed
-day.</text>
+            <text>A security held by the club as security for a debt or other liability to the club incurred before the appointed day is, on and after the appointed day, available to the society as security for the discharge of that debt or liability. If the security extends to future or prospective debts or liabilities, it is available as security for the discharge of debts or liabilities to the society incurred on or after the appointed day.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>The society
-is entitled to the same rights and priorities and is subject to the
-same liabilities in relation to the security as the club.</text>
+            <text>The society is entitled to the same rights and priorities and is subject to the same liabilities in relation to the security as the club.</text>
           </para>
         </subprov>
       </prov.body>
@@ -749,10 +592,7 @@ same liabilities in relation to the security as the club.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="no"/>
           <para xml:lang="en-NZ">
-            <text>A reference
-(express or implied) to the club in an instrument made, given, passed,
-or executed before the appointed day must, on and after the appointed
-day, be read as a reference to the society.</text>
+            <text>A reference (express or implied) to the club in an instrument made, given, passed, or executed before the appointed day must, on and after the appointed day, be read as a reference to the society.</text>
           </para>
         </subprov>
       </prov.body>
@@ -764,19 +604,13 @@ day, be read as a reference to the society.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>An action,
-arbitration, proceeding, or a cause of action that was pending or
-that existed by, against, or in favour of the club or to which the
-club was a party before the appointed day may, on and after the appointed
-day, be continued and enforced by, against, or in favour of, the society.</text>
+            <text>An action, arbitration, proceeding, or a cause of action that was pending or that existed by, against, or in favour of the club or to which the club was a party before the appointed day may, on and after the appointed day, be continued and enforced by, against, or in favour of, the society.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>It is not
-necessary to amend an application, notice, or other document to continue
-the action, arbitration, proceeding, or cause of action.</text>
+            <text>It is not necessary to amend an application, notice, or other document to continue the action, arbitration, proceeding, or cause of action.</text>
           </para>
         </subprov>
       </prov.body>
@@ -788,45 +622,35 @@ the action, arbitration, proceeding, or cause of action.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="no"/>
           <para xml:lang="en-NZ">
-            <text>Nothing in this
-Act, and nothing done under this Act,—</text>
+            <text>Nothing in this Act, and nothing done under this Act,—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>places the club, the society, or any
-other person in breach of contract or confidence, or makes any of
-them liable for a civil wrong; or</text>
+                <text>places the club, the society, or any other person in breach of contract or confidence, or makes any of them liable for a civil wrong; or</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>entitles a person to terminate or cancel
-a contract or arrangement or to accelerate the performance of an obligation;
-or</text>
+                <text>entitles a person to terminate or cancel a contract or arrangement or to accelerate the performance of an obligation; or</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">c</label>
               <para xml:lang="en-NZ">
-                <text>places the club, the society, or any
-other person in breach of an enactment, a rule of law, or a provision
-of a contract that prohibits, restricts, or regulates the assignment
-or transfer of property or the disclosure of information; or</text>
+                <text>places the club, the society, or any other person in breach of an enactment, a rule of law, or a provision of a contract that prohibits, restricts, or regulates the assignment or transfer of property or the disclosure of information; or</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">d</label>
               <para xml:lang="en-NZ">
-                <text>releases a surety from an obligation;
-or</text>
+                <text>releases a surety from an obligation; or</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">e</label>
               <para xml:lang="en-NZ">
-                <text>invalidates or discharges a contract
-or security.</text>
+                <text>invalidates or discharges a contract or security.</text>
               </para>
             </label-para>
           </para>
@@ -840,44 +664,31 @@ or security.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>On and after
-the appointed day, each employee of the club is an employee of the
-society.</text>
+            <text>On and after the appointed day, each employee of the club is an employee of the society.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>For the purposes
-of any enactment, rule of law, contract, or agreement relating to
-an employee, the contract of employment of the employee is unbroken
-and a period of service with the club must be treated as a period
-of service with the society.</text>
+            <text>For the purposes of any enactment, rule of law, contract, or agreement relating to an employee, the contract of employment of the employee is unbroken and a period of service with the club must be treated as a period of service with the society.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>The terms
-and conditions of employment of the employee are the same as the terms
-and conditions of his or her employment with the club immediately
-before the appointed day, but they may be varied in the same manner.</text>
+            <text>The terms and conditions of employment of the employee are the same as the terms and conditions of his or her employment with the club immediately before the appointed day, but they may be varied in the same manner.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">4</label>
           <para xml:lang="en-NZ">
-            <text>An employee
-is not entitled to receive a payment or other benefit because the
-employee has, as a result of this Act, ceased to be an employee of
-the club.</text>
+            <text>An employee is not entitled to receive a payment or other benefit because the employee has, as a result of this Act, ceased to be an employee of the club.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">5</label>
           <para xml:lang="en-NZ">
-            <text>This section
-applies despite anything else in this Act.</text>
+            <text>This section applies despite anything else in this Act.</text>
           </para>
         </subprov>
       </prov.body>
@@ -889,39 +700,25 @@ applies despite anything else in this Act.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>On and after
-the appointed day, the society is the same legal entity as the club
-for the purposes of the Acts specified in <citation jurisdiction="nz">the <extref href="DLM359333">Schedule</extref> of the Tax Administration Act
-1994</citation>.</text>
+            <text>On and after the appointed day, the Society is the same legal entity as the Club for the purposes of the Acts specified in the Schedule of the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159789" atidlm:branchLabel="_NOVERSION_" atidlm:name="Tax Administration Act 1994" atidlm:xmlId="DLM605876" atidlm:state="UNCHANGED"><atidlm:linkcontent>Tax Administration Act 1994</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162807" atidlm:sourceXmlId="DLM605876" atidlm:targetKey="1884207" atidlm:targetXmlId="DLM348342" atidlm:targetName="Tax Administration Act 1994" atidlm:sourceName="DLM605876" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM348342.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[18]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxes and duties" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="18" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>Shares issued
-to members on the appointed day in accordance with the scheme are
-shares of the same class, within the meaning of that expression in <insertwords><citation jurisdiction="nz"><extref href="DLM1520575">section YA 1</extref> of the Income Tax Act 2007</citation></insertwords>.</text>
+            <text>Shares issued to members on the appointed day in accordance with the scheme are shares of the same class, within the meaning of that expression in <citation jurisdiction="nz">section OB 1 of the Income Tax Act 1994</citation>.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>For the purposes
-of the definition of available subscribed capital in <insertwords><citation jurisdiction="nz"><extref href="DLM1520575">section YA 1</extref> of the Income Tax Act 2007</citation></insertwords>, the club is deemed to have received an aggregate
-amount of consideration, in respect of shares issued to members on
-the appointed day in accordance with the scheme, equal to the aggregate
-amount of the members' call units on the appointed day.</text>
+            <text>For the purposes of the definition of <emphasis style="bold">available subscribed capital</emphasis> in <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159790" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov OB 1" atidlm:xmlId="DLM605877" atidlm:state="UNCHANGED"><atidlm:linkcontent>OB 1</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162808" atidlm:sourceXmlId="DLM605877" atidlm:targetKey="1639783" atidlm:targetXmlId="DLM271382" atidlm:targetName="prov OB 1" atidlm:sourceName="DLM605877" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM271381.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[18]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxes and duties" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="18" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <insertwords><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159791" atidlm:branchLabel="_NOVERSION_" atidlm:name="Income Tax Act 2004" atidlm:xmlId="DLM605878" atidlm:state="UNCHANGED"><atidlm:linkcontent>Income Tax Act 2004</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162809" atidlm:sourceXmlId="DLM605878" atidlm:targetKey="1426408" atidlm:targetXmlId="DLM245341" atidlm:targetName="Income Tax Act 2004" atidlm:sourceName="DLM605878" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM245341.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[18]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxes and duties" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="18" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></insertwords></citation>, the club is deemed to have received an aggregate amount of consideration, in respect of shares issued to members on the appointed day in accordance with the scheme, equal to the aggregate amount of the members' call units on the appointed day.</text>
           </para>
         </subprov>
       </prov.body>
       <notes>
         <history>
-          <history-note id="DLM1272468"><amended-provision>Section 18(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008</amendment-date> (effective for 2008–09
-income year and later), by <amending-provision href="DLM1523176">section ZA 2(1)</amending-provision> of the <amending-leg>Income
-Tax Act 2007</amending-leg> (2007 No 97).</history-note>
-          <history-note id="DLM1272469"><amended-provision>Section 18(3)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008</amendment-date> (effective for 2008–09
-income year and later), by <amending-provision href="DLM1523176">section ZA 2(1)</amending-provision> of the <amending-leg>Income
-Tax Act 2007</amending-leg> (2007 No 97).</history-note>
+          <history-note id="DLM120393">Subsection <amended-provision>(3)</amended-provision> was <amending-operation>amended</amending-operation>, as from <amendment-date>1 April 2005</amendment-date>, by section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159792" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov YA 2" atidlm:xmlId="DLM605879" atidlm:state="UNCHANGED"><atidlm:linkcontent>YA 2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="162810" atidlm:sourceXmlId="DLM605879" atidlm:targetKey="1648402" atidlm:targetXmlId="DLM277147" atidlm:targetName="prov YA 2" atidlm:sourceName="DLM605879" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM277144.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[18]/notes[1]/history[1]/history-note[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> <amending-leg>Income Tax Act 2004</amending-leg> (2004 No 35) <amending-instruction>by substituting the words <quote.in>Income Tax Act 2004</quote.in> for the words <quote.in>Income Tax Act 1994</quote.in></amending-instruction>.</history-note>
         </history>
       </notes>
     </prov>
@@ -932,26 +729,19 @@ Tax Act 2007</amending-leg> (2007 No 97).</history-note>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>The society
-must comply with <citation jurisdiction="nz"><extref href="DLM372035">sections 90 to 97A</extref> of the Building Societies Act
-1965</citation> and with the <citation jurisdiction="nz"><leg-title href="DLM323597">Financial Reporting Act 1993</leg-title></citation> for the financial
-year ending with the close of 31 December 2001 as if the society
-and the club were the same legal entity during that period.</text>
+            <text>The society must comply with <citation jurisdiction="nz">sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159793" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 90" atidlm:xmlId="DLM605880" atidlm:state="UNCHANGED"><atidlm:linkcontent>90 to 97A</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162811" atidlm:sourceXmlId="DLM605880" atidlm:targetKey="2380444" atidlm:targetXmlId="DLM372035" atidlm:targetName="prov 90" atidlm:sourceName="DLM605880" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM371798.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Financial reporting" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="19" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159794" atidlm:branchLabel="_NOVERSION_" atidlm:name="Building Societies Act 1965" atidlm:xmlId="DLM605881" atidlm:state="UNCHANGED"><atidlm:linkcontent>Building Societies Act 1965</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162812" atidlm:sourceXmlId="DLM605881" atidlm:targetKey="2374605" atidlm:targetXmlId="DLM367767" atidlm:targetName="Building Societies Act 1965" atidlm:sourceName="DLM605881" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM367767.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Financial reporting" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="19" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> and with the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159795" atidlm:branchLabel="_NOVERSION_" atidlm:name="Financial Reporting Act 1993" atidlm:xmlId="DLM605882" atidlm:state="UNCHANGED"><atidlm:linkcontent>Financial Reporting Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162813" atidlm:sourceXmlId="DLM605882" atidlm:targetKey="1673205" atidlm:targetXmlId="DLM323597" atidlm:targetName="Financial Reporting Act 1993" atidlm:sourceName="DLM605882" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM323597.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Financial reporting" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="19" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> for the financial year ending with the close of 31 December 2001 as if the society and the club were the same legal entity during that period.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>Nothing in <citation jurisdiction="nz"><extref href="DLM60828">sections 119 to 129</extref> of the Friendly Societies and
-Credit Unions Act 1982</citation> applies to the society or the club
-on and after the appointed day.</text>
+            <text>Nothing in <citation jurisdiction="nz">sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159796" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 119" atidlm:xmlId="DLM605883" atidlm:state="UNCHANGED"><atidlm:linkcontent>119 to 129</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162814" atidlm:sourceXmlId="DLM605883" atidlm:targetKey="349048" atidlm:targetXmlId="DLM60828" atidlm:targetName="prov 119" atidlm:sourceName="DLM605883" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM60280.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Financial reporting" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="19" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159797" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605884" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162815" atidlm:sourceXmlId="DLM605884" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605884" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Financial reporting" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="19" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> applies to the society or the club on and after the appointed day.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>Subsections
-(1) and (2) do not limit <citation jurisdiction="nz"><intref href="DLM120382">section 8</intref></citation>.</text>
+            <text><citation jurisdiction="nz">Subsections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="159798" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 19" atidlm:xmlId="DLM605885" atidlm:state="UNCHANGED"><atidlm:linkcontent>(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162816" atidlm:sourceXmlId="DLM605885" atidlm:targetKey="980622" atidlm:targetXmlId="DLM120394" atidlm:targetName="prov 19" atidlm:sourceName="DLM605885" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Financial reporting" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="19" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160800" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 19" atidlm:xmlId="DLM605886" atidlm:state="UNCHANGED"><atidlm:linkcontent>(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162817" atidlm:sourceXmlId="DLM605886" atidlm:targetKey="980622" atidlm:targetXmlId="DLM120394" atidlm:targetName="prov 19" atidlm:sourceName="DLM605886" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Financial reporting" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="19" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> do not limit <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160801" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 8" atidlm:xmlId="DLM605887" atidlm:state="UNCHANGED"><atidlm:linkcontent>8</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162818" atidlm:sourceXmlId="DLM605887" atidlm:targetKey="980610" atidlm:targetXmlId="DLM120382" atidlm:targetName="prov 8" atidlm:sourceName="DLM605887" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[19]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Financial reporting" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="19" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
       </prov.body>
@@ -963,28 +753,23 @@ on and after the appointed day.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>Subsection
-(2) applies to an instrument, whether or not it comprises an instrument
-of transfer,—</text>
+            <text><citation jurisdiction="nz">Subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160802" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 20" atidlm:xmlId="DLM605888" atidlm:state="UNCHANGED"><atidlm:linkcontent>(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162819" atidlm:sourceXmlId="DLM605888" atidlm:targetKey="980624" atidlm:targetXmlId="DLM120395" atidlm:targetName="prov 20" atidlm:sourceName="DLM605888" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[20]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Registers" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="20" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> applies to an instrument, whether or not it comprises an instrument of transfer,—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>executed or purporting to be executed
-by the society; and</text>
+                <text>executed or purporting to be executed by the society; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>relating to any property held immediately
-before the appointed day by the club; and</text>
+                <text>relating to any property held immediately before the appointed day by the club; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">c</label>
               <para xml:lang="en-NZ">
-                <text>containing a recital that the property
-has become vested in the society under this Act.</text>
+                <text>containing a recital that the property has become vested in the society under this Act.</text>
               </para>
             </label-para>
           </para>
@@ -992,42 +777,31 @@ has become vested in the society under this Act.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>The presentation
-to a Registrar or another person of an instrument to which this subsection
-applies is, in the absence of evidence to the contrary, sufficient
-evidence that the property is vested in the society.</text>
+            <text>The presentation to a Registrar or another person of an instrument to which this subsection applies is, in the absence of evidence to the contrary, sufficient evidence that the property is vested in the society.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>A director
-of the society may sign a certificate stating that a security issued
-by a person or any rights or interests in property of a person have,
-under this Act, vested in the society.</text>
+            <text>A director of the society may sign a certificate stating that a security issued by a person or any rights or interests in property of a person have, under this Act, vested in the society.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">4</label>
           <para xml:lang="en-NZ">
-            <text>On presentation
-of the certificate to the person named in it, the person must register,
-or authorise the registration of, the society as the holder of that
-security or as the person entitled to the rights or interests.</text>
+            <text>On presentation of the certificate to the person named in it, the person must register, or authorise the registration of, the society as the holder of that security or as the person entitled to the rights or interests.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">5</label>
           <para xml:lang="en-NZ">
-            <text>In subsection
-(3), <def-term id="DLM120396" xml:lang="en-NZ">security</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM26805">section 2(1)</extref> of the Securities Act 1978</citation>.</text>
+            <text>In <citation jurisdiction="nz">subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160803" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 20" atidlm:xmlId="DLM605889" atidlm:state="UNCHANGED"><atidlm:linkcontent>(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162820" atidlm:sourceXmlId="DLM605889" atidlm:targetKey="980624" atidlm:targetXmlId="DLM120395" atidlm:targetName="prov 20" atidlm:sourceName="DLM605889" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[20]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Registers" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="20" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, <def-term id="DLM120396" xml:lang="en-NZ">security</def-term> has the same meaning as in <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160804" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 2" atidlm:xmlId="DLM605890" atidlm:state="UNCHANGED"><atidlm:linkcontent>2(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162821" atidlm:sourceXmlId="DLM605890" atidlm:targetKey="117406" atidlm:targetXmlId="DLM26805" atidlm:targetName="prov 2" atidlm:sourceName="DLM605890" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM25999.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[20]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Registers" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="20" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160805" atidlm:branchLabel="_NOVERSION_" atidlm:name="Securities Act 1978" atidlm:xmlId="DLM605891" atidlm:state="UNCHANGED"><atidlm:linkcontent>Securities Act 1978</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162822" atidlm:sourceXmlId="DLM605891" atidlm:targetKey="117400" atidlm:targetXmlId="DLM25999" atidlm:targetName="Securities Act 1978" atidlm:sourceName="DLM605891" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM25999.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[20]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Registers" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="20" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">6</label>
           <para xml:lang="en-NZ">
-            <text>Apart from
-this section, this Act does not affect the application of the <citation jurisdiction="nz"><leg-title href="DLM269031">Land Transfer Act 1952</leg-title></citation>.</text>
+            <text>Apart from this section, this Act does not affect the application of the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160806" atidlm:branchLabel="_NOVERSION_" atidlm:name="Land Transfer Act 1952" atidlm:xmlId="DLM605892" atidlm:state="UNCHANGED"><atidlm:linkcontent>Land Transfer Act 1952</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162823" atidlm:sourceXmlId="DLM605892" atidlm:targetKey="1837649" atidlm:targetXmlId="DLM269031" atidlm:targetName="Land Transfer Act 1952" atidlm:sourceName="DLM605892" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM269031.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[20]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Registers" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="20" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
       </prov.body>
@@ -1039,23 +813,17 @@ this section, this Act does not affect the application of the <citation jurisdic
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>Despite <citation jurisdiction="nz"><extref href="DLM60298">section 106(1)</extref> of the Friendly Societies and
-Credit Unions Act 1982</citation>,—</text>
+            <text>Despite <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160807" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 106" atidlm:xmlId="DLM605893" atidlm:state="UNCHANGED"><atidlm:linkcontent>106(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162824" atidlm:sourceXmlId="DLM605893" atidlm:targetKey="349018" atidlm:targetXmlId="DLM60298" atidlm:targetName="prov 106" atidlm:sourceName="DLM605893" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM60280.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[21]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Validations" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="21" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160808" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605894" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162825" atidlm:sourceXmlId="DLM605894" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605894" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[21]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Validations" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="21" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>,—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>persons are and have always been entitled
-to be members of the club even though those persons are or were not
-individuals:</text>
+                <text>persons are and have always been entitled to be members of the club even though those persons are or were not individuals:</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>every act of the club or of an officer
-of the club on and after 1 April 1983 is, and has always been,
-lawful even though persons, other than individuals, are or have been
-members of the club.</text>
+                <text>every act of the club or of an officer of the club on and after 1 April 1983 is, and has always been, lawful even though persons, other than individuals, are or have been members of the club.</text>
               </para>
             </label-para>
           </para>
@@ -1063,26 +831,17 @@ members of the club.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>Despite <citation jurisdiction="nz"><extref href="DLM60298">section 106(3)</extref> of the Friendly Societies and
-Credit Unions Act 1982</citation>,—</text>
+            <text>Despite <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160809" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 106" atidlm:xmlId="DLM605895" atidlm:state="UNCHANGED"><atidlm:linkcontent>106(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162826" atidlm:sourceXmlId="DLM605895" atidlm:targetKey="349018" atidlm:targetXmlId="DLM60298" atidlm:targetName="prov 106" atidlm:sourceName="DLM605895" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM60280.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[21]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Validations" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="21" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160810" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605896" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162827" atidlm:sourceXmlId="DLM605896" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605896" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[21]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Validations" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="21" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>,—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>an interest of a member of the club or
-any claim to an interest by a member of the club in the shares of
-the club, whether before or after the coming into force of this Act,
-is, and has always been, lawful even though the amount of the interest
-exceeds or exceeded the amount stated in or declared under that subsection:</text>
+                <text>an interest of a member of the club or any claim to an interest by a member of the club in the shares of the club, whether before or after the coming into force of this Act, is, and has always been, lawful even though the amount of the interest exceeds or exceeded the amount stated in or declared under that subsection:</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>every act of the club or of an officer
-of the club on and after 1 April 1983 is, and has always been,
-lawful even though the amount of an interest of a member of the club
-or a claim of a member of the club in the shares of the club exceeded
-the amount stated in or declared under that subsection.</text>
+                <text>every act of the club or of an officer of the club on and after 1 April 1983 is, and has always been, lawful even though the amount of an interest of a member of the club or a claim of a member of the club in the shares of the club exceeded the amount stated in or declared under that subsection.</text>
               </para>
             </label-para>
           </para>
@@ -1090,23 +849,17 @@ the amount stated in or declared under that subsection.</text>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>Despite <citation jurisdiction="nz"><extref href="DLM60806">sections 108</extref> and <extref href="DLM60808">109</extref> of the Friendly Societies and
-Credit Unions Act 1982</citation>,—</text>
+            <text>Despite <citation jurisdiction="nz">sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160811" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 108" atidlm:xmlId="DLM605897" atidlm:state="UNCHANGED"><atidlm:linkcontent>108</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="162828" atidlm:sourceXmlId="DLM605897" atidlm:targetKey="349026" atidlm:targetXmlId="DLM60806" atidlm:targetName="prov 108" atidlm:sourceName="DLM605897" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM60280.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[21]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Validations" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="21" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> and 109 of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="160812" atidlm:branchLabel="_NOVERSION_" atidlm:name="Friendly Societies And Credit Unions Act 1982" atidlm:xmlId="DLM605898" atidlm:state="UNCHANGED"><atidlm:linkcontent>Friendly Societies and Credit Unions Act 1982</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="162829" atidlm:sourceXmlId="DLM605898" atidlm:targetKey="345400" atidlm:targetXmlId="DLM59731" atidlm:targetName="Friendly Societies And Credit Unions Act 1982" atidlm:sourceName="DLM605898" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM59731.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM120337.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[21]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Validations" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="21" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM120337" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="2" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Sydenham Money Club Act 2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2001" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>,—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>every deposit or loan made to the club
-is, and has always been, lawfully made even though the deposit or
-loan was made by a person who was not a member of the club:</text>
+                <text>every deposit or loan made to the club is, and has always been, lawfully made even though the deposit or loan was made by a person who was not a member of the club:</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>every act of the club or of an officer
-of the club on and after 1 April 1983 is, and has always been,
-lawful even though a deposit or loan was made to the club by a person
-who was not a member of the club.</text>
+                <text>every act of the club or of an officer of the club on and after 1 April 1983 is, and has always been, lawful even though a deposit or loan was made to the club by a person who was not a member of the club.</text>
               </para>
             </label-para>
           </para>
@@ -1115,245 +868,28 @@ who was not a member of the club.</text>
     </prov>
   </body>
   <end id="DLM120398" xml:lang="en-NZ">
-    <end.reprint-note id="DLM2505001">
-      <reprint.index>
-        <heading>Contents</heading>
-        <para>
-          <list>
-            <item>
-              <label auto.number="no" denominator="no">1</label>
-              <para>
-                <text>General</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">2</label>
-              <para>
-                <text>Status
-of reprints</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">3</label>
-              <para>
-                <text>How
-reprints are prepared</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">4</label>
-              <para>
-                <text>Changes
-made under section 17C of the Acts and Regulations Publication Act
-1989</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">5</label>
-              <para>
-                <text>List
-of amendments incorporated in this reprint (most recent first)</text>
-              </para>
-            </item>
-          </list>
-        </para>
-      </reprint.index>
-      <reprint.notes>
-        <heading>Notes</heading>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">1</label>
-          <heading>General</heading>
-          <para>
-            <text>This is a reprint of the Sydenham Money Club Act 2001.
-The reprint incorporates all the amendments to the Act as at 1 April
-2008, as specified in the list of amendments at the end of these notes.</text>
-          </para>
-          <para>
-            <text>Relevant provisions of any amending enactments that have
-yet to come into force or that contain relevant transitional or savings
-provisions are also included, after the principal enactment, in chronological
-order.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">2</label>
-          <heading>Status of reprints</heading>
-          <para>
-            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref> of the Acts and Regulations Publication Act
-1989</citation>, reprints are presumed to correctly state, as at the
-date of the reprint, the law enacted by the principal enactment and
-by the amendments to that enactment. This presumption applies even
-though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations
-Publication Act 1989</citation> have been made in the reprint.</text>
-          </para>
-          <para>
-            <text>This presumption may be rebutted by producing the official
-volumes of statutes or statutory regulations in which the principal
-enactment and its amendments are contained.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">3</label>
-          <heading>How reprints are prepared</heading>
-          <para>
-            <text>A number of editorial conventions are followed in the
-preparation of reprints. For example, the enacting words are not included
-in Acts, and provisions that are repealed or revoked are omitted.
-For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/editorial-conventions/
-or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts
-and Ordinances and Statutory Regulations and Deemed Regulations in
-Force</emphasis>.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">4</label>
-          <heading>Changes made under section 17C of the Acts and Regulations
-Publication Act 1989</heading>
-          <para>
-            <text><citation jurisdiction="nz"><extref href="DLM195466">Section
-17C</extref> of the Acts and Regulations Publication Act 1989</citation> authorises the making of editorial changes in a reprint as set out
-in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref> and <extref href="DLM195470">17E</extref></citation> of that Act
-so that, to the extent permitted, the format and style of the reprinted
-enactment is consistent with current legislative drafting practice.
-Changes that would alter the effect of the legislation are not permitted.</text>
-          </para>
-          <para>
-            <text>A new format of legislation was introduced on 1 January
-2000. Changes to legislative drafting style have also been made since
-1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of
-the Acts and Regulations Publication Act 1989</citation>, all legislation
-reprinted after 1 January 2000 is in the new format for legislation
-and reflects current drafting practice at the time of the reprint.</text>
-          </para>
-          <para>
-            <text>In outline, the editorial changes made in reprints under
-the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act
-1989</citation> are set out below, and they have been applied, where
-relevant, in the preparation of this reprint:</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>layout of provisions, including:</text>
-                  <list>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>indentation</text>
-                      </para>
-                    </item>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>position of section headings (eg, the number and heading now appear
-above the section)</text>
-                      </para>
-                    </item>
-                  </list>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of definitions (eg, the defined term now appears in bold type,
-without quotation marks)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>position of the date of assent (it now appears on the front page
-of each Act)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>punctuation (eg, colons are not used after definitions)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>Parts numbered with roman numerals are replaced with arabic numerals,
-and all cross-references are changed accordingly</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>case and appearance of letters and words, including:</text>
-                  <list>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>format of headings (eg, headings where each word formerly appeared
-with an initial capital letter followed by small capital letters are
-amended so that the heading appears in bold, with only the first word
-(and any proper nouns) appearing with an initial capital letter)</text>
-                      </para>
-                    </item>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>small capital letters in section and subsection references are now
-capital letters</text>
-                      </para>
-                    </item>
-                  </list>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule),
-and all cross-references are changed accordingly</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>running heads (the information that appears at the top of each page)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of two-column schedules of consequential amendments, and schedules
-of repeals (eg, they are rearranged into alphabetical order, rather
-than chronological).</text>
-                </para>
-              </item>
-            </list>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">5</label>
-          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
-          <reprint.amend>
-            <citation jurisdiction="nz">Income Tax Act 2007 (2007
-No 97): <extref href="DLM1523176">section ZA 2(1)</extref></citation>
-          </reprint.amend>
-        </reprint.note>
-      </reprint.notes>
-    </end.reprint-note>
+    <leg-history id="DLM120399">
+      <heading xml:lang="en-NZ">Legislative history</heading>
+      <history-item>
+        <date>29 March 2001</date>
+        <description>Introduction (Bill 114-1)</description>
+      </history-item>
+      <history-item>
+        <date>2 May 2001</date>
+        <description>First reading and referral to Commerce Committee</description>
+      </history-item>
+      <history-item>
+        <date>22 August 2001</date>
+        <description>Reported from Commerce Committee (Bill 114-2)</description>
+      </history-item>
+      <history-item>
+        <date>3 October 2001</date>
+        <description>Second reading</description>
+      </history-item>
+      <history-item>
+        <date>17 October 2001</date>
+        <description>Committee of the whole House, third reading</description>
+      </history-item>
+    </leg-history>
   </end>
 </act>
