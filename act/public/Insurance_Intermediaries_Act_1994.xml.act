@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM331828" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="41" act.type="public" date.as.at="2007-12-03" date.assent="1994-07-01" date.first.valid="2007-09-18" stage="reprint" year="1994" prospective.consolidation="F">
+<act id="DLM331828" in.amend="false" xml:lang="en-NZ" irdnumbering="no" act.no="41" act.type="public" date.as.at="2007-09-03" date.assent="1994-07-01" date.first.valid="2007-09-18" stage="reprint" year="1994">
   <cover id="DLM331829">
-    <reprint-date>2007-12-03</reprint-date>
     <title xml:lang="en-NZ">Insurance Intermediaries Act 1994</title>
     <assent>1994-07-01</assent>
-    <commencement>1 July 1994</commencement>
     <cover.reprint-note>
-      <para xml:lang="en-NZ">
-        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
-      </para>
-      <para>
-        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
-      </para>
-      <admin-office>This Act is administered by the <ministry>Ministry of Justice</ministry>.</admin-office>
+      <para xml:lang="en-NZ"/>
+      <admin-office>This Act is administered in the <ministry>Department of Justice</ministry>.</admin-office>
     </cover.reprint-note>
   </cover>
   <contents>
@@ -25,6 +18,7 @@
         <text>An Act to effect certain reforms in the law governing insurance intermediaries</text>
       </para>
     </long-title>
+    <enactment>BE IT ENACTED by the Parliament of New Zealand as follows:</enactment>
   </front>
   <body id="DLM331832" prov-type="section" xml:lang="en-NZ">
     <prov id="DLM331833" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -49,59 +43,59 @@
             <text>In this Act, unless the context otherwise requires,—</text>
             <def-para id="DLM331835" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM331836" xml:lang="en-NZ">arrange</def-term>, in relation to contracts of insurance, includes negotiating, soliciting, or procuring any such contract</text>
+                <text><def-term id="DLM331836" xml:lang="en-NZ">Arrange</def-term>, in relation to contracts of insurance, includes negotiating, soliciting, or procuring any such contract</text>
               </para>
             </def-para>
             <def-para id="DLM331837" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM331838" xml:lang="en-NZ">broker</def-term>, in relation to an insurer, means a person—</text>
+                <text><def-term id="DLM331838" xml:lang="en-NZ">Broker</def-term>, in relation to an insurer, means a person—</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>who carries on the business of arranging contracts of insurance (whether or not the business is the person's principal business or is carried on in connection with any other business); and</text>
+                    <text>Who carries on the business of arranging contracts of insurance (whether or not the business is the person's principal business or is carried on in connection with any other business); and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">b</label>
                   <para xml:lang="en-NZ">
-                    <text>who is not the employee of the insurer; and</text>
+                    <text>Who is not the employee of the insurer; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">c</label>
                   <para xml:lang="en-NZ">
-                    <text>who is not appointed, under a signed agreement, as the agent for the insurer for the purposes of receiving money due to the insurer from the insured and due to the insured from the insurer</text>
+                    <text>Who is not appointed, under a signed agreement, as the agent for the insurer for the purposes of receiving money due to the insurer from the insured and due to the insured from the insurer:</text>
                   </para>
                 </label-para>
               </para>
             </def-para>
             <def-para id="DLM331839" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM331840" xml:lang="en-NZ">contract of insurance</def-term> includes a proposed contract of insurance</text>
+                <text><def-term id="DLM331840" xml:lang="en-NZ">Contract of insurance</def-term> includes a proposed contract of insurance</text>
               </para>
             </def-para>
             <def-para id="DLM331841" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM331842" xml:lang="en-NZ">insurance broking client account</def-term> means an account established and maintained in accordance with <citation jurisdiction="nz"><intref href="DLM331875">section 14</intref></citation></text>
+                <text><def-term id="DLM331842" xml:lang="en-NZ">Insurance broking client account</def-term> means an account established and maintained in accordance with <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425032" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 14" atidlm:xmlId="DLM869119" atidlm:state="UNCHANGED"><atidlm:linkcontent>14</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432247" atidlm:sourceXmlId="DLM869119" atidlm:targetKey="1715800" atidlm:targetXmlId="DLM331875" atidlm:targetName="prov 14" atidlm:sourceName="DLM869119" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331828.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[2]/prov.body[1]/subprov[1]/para[1]/def-para[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para Insurance broking client account" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation></text>
               </para>
             </def-para>
             <def-para id="DLM331843" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM331844" xml:lang="en-NZ">insurance intermediary</def-term>—</text>
+                <text><def-term id="DLM331844" xml:lang="en-NZ">Insurance intermediary</def-term>—</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>means a person—</text>
+                    <text>Means a person—</text>
                     <label-para skeleton="no" xml:lang="en-NZ">
                       <label auto.number="no" denominator="yes">i</label>
                       <para xml:lang="en-NZ">
-                        <text>who for reward arranges contracts of insurance in New Zealand or elsewhere; and</text>
+                        <text>Who for reward arranges contracts of insurance in New Zealand or elsewhere; and</text>
                       </para>
                     </label-para>
                     <label-para skeleton="no" xml:lang="en-NZ">
                       <label auto.number="no" denominator="yes">ii</label>
                       <para xml:lang="en-NZ">
-                        <text>who does so as the employee of or agent for 1 or more insurers or as the agent for the insured; and</text>
+                        <text>Who does so as the employee of or agent for one or more insurers or as the agent for the insured; and</text>
                       </para>
                     </label-para>
                   </para>
@@ -109,34 +103,34 @@
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">b</label>
                   <para xml:lang="en-NZ">
-                    <text>includes a broker</text>
+                    <text>Includes a broker:</text>
                   </para>
                 </label-para>
               </para>
             </def-para>
             <def-para id="DLM331845" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM331846" xml:lang="en-NZ">insured</def-term> means any person who has entered into, or who proposes to enter into, a contract of insurance with an insurer, and includes any person who is entitled to the whole or part of the benefit of the contract of insurance</text>
+                <text><def-term id="DLM331846" xml:lang="en-NZ">Insured</def-term> means any person who has entered into, or who proposes to enter into, a contract of insurance with an insurer, and includes any person who is entitled to the whole or part of the benefit of the contract of insurance</text>
               </para>
             </def-para>
             <def-para id="DLM331847" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM331848" xml:lang="en-NZ">insurer</def-term>, in relation to a contract of insurance, means the person by whom or on whose behalf the risk, or a part of the risk, to which the contract relates is accepted</text>
+                <text><def-term id="DLM331848" xml:lang="en-NZ">Insurer</def-term>, in relation to a contract of insurance, means the person by whom or on whose behalf the risk, or a part of the risk, to which the contract relates is accepted</text>
               </para>
             </def-para>
             <def-para id="DLM331849" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM331850" xml:lang="en-NZ">person</def-term> includes a body of persons whether incorporated or not</text>
+                <text><def-term id="DLM331850" xml:lang="en-NZ">Person</def-term> includes a body of persons whether incorporated or not</text>
               </para>
             </def-para>
             <def-para id="DLM331851" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM331852" xml:lang="en-NZ">premium</def-term> includes an instalment of a premium</text>
+                <text><def-term id="DLM331852" xml:lang="en-NZ">Premium</def-term> includes an instalment of a premium</text>
               </para>
             </def-para>
             <def-para id="DLM331853" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM331854" xml:lang="en-NZ">prescribed</def-term> means prescribed by regulations made under <citation jurisdiction="nz"><intref href="DLM331881">section 18</intref></citation>.</text>
+                <text><def-term id="DLM331854" xml:lang="en-NZ">Prescribed</def-term> means prescribed by regulations made under <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425033" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 18" atidlm:xmlId="DLM869120" atidlm:state="UNCHANGED"><atidlm:linkcontent>18</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432248" atidlm:sourceXmlId="DLM869120" atidlm:targetKey="1716600" atidlm:targetXmlId="DLM331881" atidlm:targetName="prov 18" atidlm:sourceName="DLM869120" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331880.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331828.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[2]/prov.body[1]/subprov[1]/para[1]/def-para[10]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para Prescribed" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation>.</text>
               </para>
             </def-para>
           </para>
@@ -149,7 +143,7 @@
         </subprov>
       </prov.body>
       <cf>
-        <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984 s 9 (Aust)</citation>
+        <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 9 (Australia)</citation>
       </cf>
     </prov>
     <prov id="DLM331855" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -164,892 +158,727 @@
         </subprov>
       </prov.body>
     </prov>
-    <crosshead id="DLM2251751" toc="yes">Payments to insurance intermediaries</crosshead>
-    <prov id="DLM331857" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">4</label>
-      <heading xml:lang="en-NZ">Payment by insured to intermediary to be discharge of insured's liability to insurer</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
-            <text>Any money paid by or on behalf of an insured to an insurance intermediary, whether in respect of a premium or otherwise, under or in relation to any contract of insurance that has been arranged or effected, or that is to be arranged or effected, by the insurance intermediary shall be a discharge, as between the insured and the insurer, of the liability of the insured to pay that money to the insurer.</text>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 14(1), (2) (Aust)</cf>
-    </prov>
-    <prov id="DLM331858" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">5</label>
-      <heading xml:lang="en-NZ">Payment by insurer to intermediary not to be discharge of insurer's liability to insured</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
-            <text>Any money paid by or on behalf of an insurer to an insurance intermediary, whether in respect of a claim, return of premiums, or otherwise, under or in relation to any contract of insurance shall not discharge the liability of the insurer to pay that money to the insured.</text>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 14(3) (Aust)</cf>
-    </prov>
-    <prov id="DLM331859" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">6</label>
-      <heading xml:lang="en-NZ">Prohibition on contracting-out</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">1</label>
-          <para xml:lang="en-NZ">
-            <text>An agreement, in so far as it purports to modify, restrict, or exclude the operation of <citation jurisdiction="nz"><intref href="DLM331857">section 4</intref> or <intref href="DLM331858">section 5</intref></citation>, shall be void.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">2</label>
-          <para xml:lang="en-NZ">
-            <text>Subsection (1) does not render void an agreement between an insurance intermediary and an insured in so far as the agreement allows the insurance intermediary to set off, against money payable to the insured, money payable by the insured to the insurance intermediary in respect of premiums.</text>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 14(4), (5) (Aust)</cf>
-    </prov>
-    <prov id="DLM331860" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">7</label>
-      <heading xml:lang="en-NZ">Contracts governed by foreign law</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
-            <text><citation jurisdiction="nz"><intref href="DLM331857">Sections 4 to 6</intref></citation> have effect despite the proper law of any contract being the law of a country other than New Zealand.</text>
-          </para>
-        </subprov>
-      </prov.body>
-    </prov>
-    <crosshead id="DLM2251752" toc="yes">Duties of brokers in relation to premiums</crosshead>
-    <prov id="DLM331862" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">8</label>
-      <heading xml:lang="en-NZ">Duties of broker in relation to premiums</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">1</label>
-          <para xml:lang="en-NZ">
-            <text>Every broker who receives a sum of money by way of premium in connection with a contract of insurance shall, if the risk, or a part of the risk, to which the contract relates is accepted by or on behalf of an insurer, pay to the insurer within the relevant period either—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>an amount equal to so much of the money as does not exceed the amount of the premium to be paid; or</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>where the broker has not been informed of, and has not otherwise ascertained, the amount of the premium to be paid, whichever is the smaller amount of—</text>
-                <label-para skeleton="no" xml:lang="en-NZ">
-                  <label auto.number="no" denominator="yes">i</label>
-                  <para xml:lang="en-NZ">
-                    <text>the sum of money so received; or</text>
-                  </para>
-                </label-para>
-                <label-para skeleton="no" xml:lang="en-NZ">
-                  <label auto.number="no" denominator="yes">ii</label>
-                  <para xml:lang="en-NZ">
-                    <text>75% of the amount fairly estimated by the broker to be the premium that is to be paid or, where the premium is payable in respect of a renewal of a contract of insurance, 75% of the previous year's premium for the risk or of the last instalment of the year's premium, as the case may be.</text>
-                  </para>
-                </label-para>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">2</label>
-          <para xml:lang="en-NZ">
-            <text>For the purposes of this section, <def-term id="DLM331863" xml:lang="en-NZ">relevant period</def-term> means—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>the period of 50 days after the end of the month in which the cover provided by the insurer under the contract commences to have effect; or</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>where the sum of money is an instalment of a premium, the period of 50 days after the end of the first month to which the instalment relates.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">3</label>
-          <para xml:lang="en-NZ">
-            <text>Nothing in this section prevents—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>an insurer from making a contract or arrangement with a broker providing for the variation of the relevant period:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>an insurer from authorising a broker in writing to pay on behalf of the insurer, out of the money received by the broker as a premium in respect of a contract of insurance arranged with the insurer, any charges required by law to be paid by the insurer in respect of the contract:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">c</label>
-              <para xml:lang="en-NZ">
-                <text>a broker from exercising any legal right available to the broker to deduct from any money payable by the broker to the insurer any remuneration payable by the insurer to the broker in relation to a contract of insurance.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">4</label>
-          <para xml:lang="en-NZ">
-            <text>Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>in the case of an individual, to a fine not exceeding $5,000:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>in the case of a body corporate, to a fine not exceeding $10,000.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 27(1), (2), (4), (6), (12) (Aust)</cf>
-    </prov>
-    <prov id="DLM331864" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">9</label>
-      <heading xml:lang="en-NZ">Payment by broker to another insurance intermediary may constitute payment to insurer</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
-            <text>Where—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>a broker receives money by way of premium in connection with a contract of insurance from or on behalf of an insured; and</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>another insurance intermediary accepts as agent for an insurer the risk, or a part of the risk, to which the contract relates,—</text>
-              </para>
-            </label-para>
-            <text>then, for the purpose of the application of <citation jurisdiction="nz"><intref href="DLM331862">section 8</intref></citation> to the broker, payment of the premium, or part of the premium, as the case may be, by the broker to the intermediary shall be taken to constitute payment of the premium or part of the premium by the broker to the insurer.</text>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 27(7) (Aust)</cf>
-    </prov>
-    <prov id="DLM331865" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">10</label>
-      <heading xml:lang="en-NZ">Duty to notify insurer if premium not paid</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">1</label>
-          <para xml:lang="en-NZ">
-            <text>Where the amount of the premium payable in respect of a contract of insurance has not been received by the broker at the expiration of the relevant period within the meaning of <citation jurisdiction="nz"><intref href="DLM331862">section 8(2)</intref></citation>, the broker shall notify the insurer in writing, within 7 days after the day on which the relevant period expired, that the premium has not been received.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">2</label>
-          <para xml:lang="en-NZ">
-            <text>Subsection (1) shall not apply if the amount of the premium is received by the broker before the broker notifies the insurer in accordance with that subsection.</text>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 27(3) (Aust)</cf>
-    </prov>
-    <prov id="DLM331866" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">11</label>
-      <heading xml:lang="en-NZ">Notification by broker to another insurance intermediary may constitute notice to insurer</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
-            <text>Where—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>a broker is required to notify an insurer in accordance with <citation jurisdiction="nz"><intref href="DLM331865">section 10</intref></citation>; and</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>another insurance intermediary accepts as agent for the insurer the risk, or a part of the risk, to which the contract relates,—</text>
-              </para>
-            </label-para>
-            <text>then, for the purpose of the application of <citation jurisdiction="nz"><intref href="DLM331865">section 10</intref></citation> to the broker, notification by the broker to the intermediary shall be taken to constitute notification by the broker to the insurer.</text>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 27(8) (Aust)</cf>
-    </prov>
-    <prov id="DLM331867" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">12</label>
-      <heading xml:lang="en-NZ">Lloyd's brokers</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">1</label>
-          <para xml:lang="en-NZ">
-            <text>Where—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>a broker is required by any provision of <citation jurisdiction="nz"><intref href="DLM331862">section 8</intref> or <intref href="DLM331865">section 10</intref></citation> to pay an amount to, or to notify, an insurer; and</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>under the contract of insurance concerned, the insurer is an underwriting member of Lloyd's,—</text>
-              </para>
-            </label-para>
-            <text>it shall be sufficient compliance with that provision if the broker pays the amount to, or notifies, as the case may be, the Lloyd's broker concerned.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">2</label>
-          <para xml:lang="en-NZ">
-            <text>In this section,—</text>
-            <def-para id="DLM331868" xml:lang="en-NZ">
-              <para xml:lang="en-NZ">
-                <text><def-term id="DLM331869" xml:lang="en-NZ">Lloyd's</def-term> means the society of that name incorporated by the Imperial Act known as the Lloyd's Act 1871</text>
-              </para>
-            </def-para>
-            <def-para id="DLM331870" xml:lang="en-NZ">
-              <para xml:lang="en-NZ">
-                <text><def-term id="DLM331871" xml:lang="en-NZ">Lloyd's underwriter</def-term> means an underwriting member of Lloyd's.</text>
-              </para>
-            </def-para>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance Act 1973 s 3(1) (Aust); Insurance (Agents and Brokers) Act 1984 s 27(13), (14) (Aust); Statute Law (Miscellaneous Provisions) Act (No 2) 1986 Schedule 1 (Aust)</cf>
-    </prov>
-    <crosshead id="DLM2251753" toc="yes">Duties of brokers in relation to payments due to insured</crosshead>
-    <prov id="DLM331873" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">13</label>
-      <heading xml:lang="en-NZ">Duties of broker in relation to payments due to insured</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">1</label>
-          <para xml:lang="en-NZ">
-            <text>Subject to subsection (2), where a broker receives money from, or on behalf of, an insurer for payment to, or on behalf of, an insured, the broker shall pay that money to, or on behalf of, the insured within 7 days after the day on which the broker received the money.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">2</label>
-          <para xml:lang="en-NZ">
-            <text>Where a broker receives from, or on behalf of, an insurer a cheque that is expressed to be payable to a particular insured, the broker shall send that cheque immediately to, or on behalf of, the insured.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">3</label>
-          <para xml:lang="en-NZ">
-            <text>Nothing in subsection (1) prevents—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>an insured from making a contract or arrangement with a broker providing for the broker to pay an amount to or on behalf of the insured before being required to do so by that subsection; or</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>a broker from exercising any legal right available to the broker to deduct from any money payable by the broker to the insured any money payable by the insured to the broker in connection with a contract of insurance.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">4</label>
-          <para xml:lang="en-NZ">
-            <text>Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>in the case of an individual, to a fine not exceeding $5,000:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>in the case of a body corporate, to a fine not exceeding $10,000.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>
-        <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984 s 27(10), (11), (12) (Aust)</citation>
-      </cf>
-    </prov>
-    <crosshead id="DLM2251754" toc="yes">Insurance broking client accounts</crosshead>
-    <prov id="DLM331875" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">14</label>
-      <heading xml:lang="en-NZ">Broker to operate insurance broking client account</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">1</label>
-          <para xml:lang="en-NZ">
-            <text>Every broker shall establish and maintain 1 or more insurance broking client accounts with a financial institution in New Zealand.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">2</label>
-          <para xml:lang="en-NZ">
-            <text>A broker may establish and maintain 1 or more insurance broking client accounts outside New Zealand with 1 or more overseas financial institutions.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">3</label>
-          <para xml:lang="en-NZ">
-            <text>Every insurance broking client account shall be a cheque account.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">4</label>
-          <para xml:lang="en-NZ">
-            <text>Every broker shall ensure that the following money is paid, immediately after it is received, into an insurance broking client account:</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>all money received from or on behalf of an insured for or on account of an insurer in connection with a contract of insurance arranged or to be arranged by the broker:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>all money received from or on behalf of an insurer for or on account of an insured (except any cheque which is expressed to be payable to a particular insured and which is immediately sent to, or on behalf of, the insured):</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">c</label>
-              <para xml:lang="en-NZ">
-                <text>any money by way of realisation of investments that is to be paid into the account in accordance with <citation jurisdiction="nz"><intref href="DLM331876">section 15</intref></citation>:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">d</label>
-              <para xml:lang="en-NZ">
-                <text>any other money that is required by regulations made under that section to be paid into the account.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">5</label>
-          <para xml:lang="en-NZ">
-            <text>Every broker shall ensure that no money is paid out of the broker's insurance broking client account except—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>for making a payment required or authorised by this Act; or</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>for making an investment in accordance with this Act; or</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">c</label>
-              <para xml:lang="en-NZ">
-                <text>for withdrawing money paid into the account in error; or</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">d</label>
-              <para xml:lang="en-NZ">
-                <text>otherwise in accordance with regulations made under this Act.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">6</label>
-          <para xml:lang="en-NZ">
-            <text>Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>in the case of an individual, to a fine not exceeding $10,000:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>in the case of a body corporate, to a fine not exceeding $20,000.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 26(1) (Aust)</cf>
-    </prov>
-    <prov id="DLM331876" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">15</label>
-      <heading xml:lang="en-NZ">Investment of broking money</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">1</label>
-          <para xml:lang="en-NZ">
-            <text>Subject to subsection (2), money in an insurance broking client account may be invested in accordance with the provisions of the <citation jurisdiction="nz"><leg-title href="DLM304703">Trustee Act 1956</leg-title></citation> as to the investment of trust funds, except that no money may be invested in equity securities within the meaning of that term in <citation jurisdiction="nz"><extref href="DLM26805">section 2</extref> of the Securities Act 1978</citation>.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">2</label>
-          <para xml:lang="en-NZ">
-            <text>No money paid by or on behalf of an insured by way of premium in connection with a contract of insurance that is to be arranged or effected shall be invested until the risk to which the contract relates is accepted by or on behalf of the insurer.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">3</label>
-          <para xml:lang="en-NZ">
-            <text>Every broker shall pay money received from the realisation of any investment into an insurance broking client account.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">4</label>
-          <para xml:lang="en-NZ">
-            <text>If, upon the realisation of any investment, the amount received in respect of the realisation is less than the amount invested, the broker shall pay into the account from which the money was withdrawn for investment an amount equal to the difference between the amount invested and the amount received.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">5</label>
-          <para xml:lang="en-NZ">
-            <text>If, upon the realisation of any investment, the amount received in respect of the realisation is more than the amount invested, the broker may retain for his or her own benefit the amount by which the amount received exceeds the amount invested and need not pay it into, or retain it in, an insurance broking client account.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">6</label>
-          <para xml:lang="en-NZ">
-            <text>Interest or other income received by a broker from an insurance broking client account may be retained by the broker for his or her own benefit and need not be paid into an insurance broking client account.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">7</label>
-          <para xml:lang="en-NZ">
-            <text>Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>in the case of an individual, to a fine not exceeding $10,000:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>in the case of a body corporate, to a fine not exceeding $20,000.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 26(4)–(8) (Aust)</cf>
-    </prov>
-    <prov id="DLM331877" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">16</label>
-      <heading xml:lang="en-NZ">Broking money not capable of being attached, etc</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
-            <text>No money that is payable, or that has been paid, into an insurance broking client account in accordance with <citation jurisdiction="nz"><intref href="DLM331875">section 14</intref> or <intref href="DLM331876">section 15</intref></citation>, and no property in which any such money has been invested, shall be liable to be attached or taken in execution or made subject to a set-off, charge, or charging order or to any process of a like nature, except at the suit of a person entitled to that money under this Act.</text>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 26(9), (10) (Aust)</cf>
-    </prov>
-    <crosshead id="DLM2251755" toc="yes">Distribution of insurance broking client account money on insolvency</crosshead>
-    <prov id="DLM331879" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">17</label>
+    <part id="DLM331856" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-03" act.no="41" act.type="public" date.as.at="2007-09-03" date.assent="1994-07-01" stage="reprint" year="1994">
+      <heading xml:lang="en-NZ">Payments to insurance intermediaries</heading>
+      <prov id="DLM331857" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading xml:lang="en-NZ">Payment by insured to intermediary to be discharge of insured's liability to insurer</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>Any money paid by or on behalf of an insured to an insurance intermediary, whether in respect of a premium or otherwise, under or in relation to any contract of insurance that has been arranged or effected, or that is to be arranged or effected, by the insurance intermediary shall be a discharge, as between the insured and the insurer, of the liability of the insured to pay that money to the insurer.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 14(1), (2) (Australia)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM331858" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">5</label>
+        <heading xml:lang="en-NZ">Payment by insurer to intermediary not to be discharge of insurer's liability to insured</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>Any money paid by or on behalf of an insurer to an insurance intermediary, whether in respect of a claim, return of premiums, or otherwise, under or in relation to any contract of insurance shall not discharge the liability of the insurer to pay that money to the insured.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 14(3) (Australia)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM331859" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">6</label>
+        <heading xml:lang="en-NZ">Prohibition on contracting-out</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>An agreement, in so far as it purports to modify, restrict, or exclude the operation of <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425034" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 4" atidlm:xmlId="DLM869121" atidlm:state="UNCHANGED"><atidlm:linkcontent>4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432249" atidlm:sourceXmlId="DLM869121" atidlm:targetKey="1714600" atidlm:targetXmlId="DLM331857" atidlm:targetName="prov 4" atidlm:sourceName="DLM869121" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331856.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331856.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[1]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Prohibition on contracting-out" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> or section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425035" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 5" atidlm:xmlId="DLM869122" atidlm:state="UNCHANGED"><atidlm:linkcontent>5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432250" atidlm:sourceXmlId="DLM869122" atidlm:targetKey="1714601" atidlm:targetXmlId="DLM331858" atidlm:targetName="prov 5" atidlm:sourceName="DLM869122" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331856.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331856.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[1]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Prohibition on contracting-out" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation>, shall be void.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text><citation jurisdiction="nz">Subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425036" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 6" atidlm:xmlId="DLM869123" atidlm:state="UNCHANGED"><atidlm:linkcontent>(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432251" atidlm:sourceXmlId="DLM869123" atidlm:targetKey="1714602" atidlm:targetXmlId="DLM331859" atidlm:targetName="prov 6" atidlm:sourceName="DLM869123" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331856.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331856.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[1]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Prohibition on contracting-out" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="6" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this section</citation> does not render void an agreement between an insurance intermediary and an insured in so far as the agreement allows the insurance intermediary to set off, against money payable to the insured, money payable by the insured to the insurance intermediary in respect of premiums.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 14(4), (5) (Australia)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM331860" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">7</label>
+        <heading xml:lang="en-NZ">Contracts governed by foreign law</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text><citation jurisdiction="nz">Sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425037" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 4" atidlm:xmlId="DLM869124" atidlm:state="UNCHANGED"><atidlm:linkcontent>4 to 6</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432252" atidlm:sourceXmlId="DLM869124" atidlm:targetKey="1714600" atidlm:targetXmlId="DLM331857" atidlm:targetName="prov 4" atidlm:sourceName="DLM869124" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331856.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331856.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[1]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Contracts governed by foreign law" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="7" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation> have effect despite the proper law of any contract being the law of a country other than New Zealand.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+    <part id="DLM331861" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-03" act.no="41" act.type="public" date.as.at="2007-09-03" date.assent="1994-07-01" stage="reprint" year="1994">
+      <heading xml:lang="en-NZ">Duties of brokers in relation to premiums</heading>
+      <prov id="DLM331862" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">8</label>
+        <heading xml:lang="en-NZ">Duties of broker in relation to premiums</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Every broker who receives a sum of money by way of premium in connection with a contract of insurance shall, if the risk, or a part of the risk, to which the contract relates is accepted by or on behalf of an insurer, pay to the insurer within the relevant period either—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>An amount equal to so much of the money as does not exceed the amount of the premium to be paid; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>Where the broker has not been informed of, and has not otherwise ascertained, the amount of the premium to be paid, whichever is the smaller amount of—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para xml:lang="en-NZ">
+                      <text>The sum of money so received; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para xml:lang="en-NZ">
+                      <text>75 percent of the amount fairly estimated by the broker to be the premium that is to be paid or, where the premium is payable in respect of a renewal of a contract of insurance, 75 percent of the previous year's premium for the risk or of the last instalment of the year's premium, as the case may be.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>For the purposes of this section, <def-term id="DLM331863" xml:lang="en-NZ">relevant period</def-term> means—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>The period of 50 days after the end of the month in which the cover provided by the insurer under the contract commences to have effect; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>Where the sum of money is an instalment of a premium, the period of 50 days after the end of the first month to which the instalment relates.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>Nothing in this section prevents—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>An insurer from making a contract or arrangement with a broker providing for the variation of the relevant period:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>An insurer from authorising a broker in writing to pay on behalf of the insurer, out of the money received by the broker as a premium in respect of a contract of insurance arranged with the insurer, any charges required by law to be paid by the insurer in respect of the contract:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>A broker from exercising any legal right available to the broker to deduct from any money payable by the broker to the insurer any remuneration payable by the insurer to the broker in relation to a contract of insurance.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">4</label>
+            <para xml:lang="en-NZ">
+              <text>Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>In the case of an individual, to a fine not exceeding $5,000:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>In the case of a body corporate, to a fine not exceeding $10,000.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 27(1), (2), (4), (6), (12) (Australia)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM331864" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">9</label>
+        <heading xml:lang="en-NZ">Payment by broker to another insurance intermediary may constitute payment to insurer</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>Where—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>A broker receives money by way of premium in connection with a contract of insurance from or on behalf of an insured; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>Another insurance intermediary accepts as agent for an insurer the risk, or a part of the risk, to which the contract relates,—</text>
+                </para>
+              </label-para>
+              <text>then, for the purpose of the application of <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425038" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 8" atidlm:xmlId="DLM869125" atidlm:state="UNCHANGED"><atidlm:linkcontent>8</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432253" atidlm:sourceXmlId="DLM869125" atidlm:targetKey="1714801" atidlm:targetXmlId="DLM331862" atidlm:targetName="prov 8" atidlm:sourceName="DLM869125" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Payment by broker to another insurance intermediary may constitute payment to insurer" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="9" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation> to the broker, payment of the premium, or part of the premium, as the case may be, by the broker to the intermediary shall be taken to constitute payment of the premium or part of the premium by the broker to the insurer.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 27(7) (Australia)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM331865" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">10</label>
+        <heading xml:lang="en-NZ">Duty to notify insurer if premium not paid</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Where the amount of the premium payable in respect of a contract of insurance has not been received by the broker at the expiration of the relevant period within the meaning of <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425039" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 8" atidlm:xmlId="DLM869126" atidlm:state="UNCHANGED"><atidlm:linkcontent>8(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432254" atidlm:sourceXmlId="DLM869126" atidlm:targetKey="1714801" atidlm:targetXmlId="DLM331862" atidlm:targetName="prov 8" atidlm:sourceName="DLM869126" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Duty to notify insurer if premium not paid" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="10" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation>, the broker shall notify the insurer in writing, within 7 days after the day on which the relevant period expired, that the premium has not been received.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text><citation jurisdiction="nz">Subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425040" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 10" atidlm:xmlId="DLM869127" atidlm:state="UNCHANGED"><atidlm:linkcontent>(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432255" atidlm:sourceXmlId="DLM869127" atidlm:targetKey="1714803" atidlm:targetXmlId="DLM331865" atidlm:targetName="prov 10" atidlm:sourceName="DLM869127" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Duty to notify insurer if premium not paid" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="10" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this section</citation> shall not apply if the amount of the premium is received by the broker before the broker notifies the insurer in accordance with that subsection.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 27(3) (Australia)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM331866" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">11</label>
+        <heading xml:lang="en-NZ">Notification by broker to another insurance intermediary may constitute notice to insurer</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>Where—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>A broker is required to notify an insurer in accordance with <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425041" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 10" atidlm:xmlId="DLM869128" atidlm:state="UNCHANGED"><atidlm:linkcontent>10</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432256" atidlm:sourceXmlId="DLM869128" atidlm:targetKey="1714803" atidlm:targetXmlId="DLM331865" atidlm:targetName="prov 10" atidlm:sourceName="DLM869128" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Notification by broker to another insurance intermediary may constitute notice to insurer" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation>; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>Another insurance intermediary accepts as agent for the insurer the risk, or a part of the risk, to which the contract relates,—</text>
+                </para>
+              </label-para>
+              <text>then, for the purpose of the application of <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425042" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 10" atidlm:xmlId="DLM869129" atidlm:state="UNCHANGED"><atidlm:linkcontent>10</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432257" atidlm:sourceXmlId="DLM869129" atidlm:targetKey="1714803" atidlm:targetXmlId="DLM331865" atidlm:targetName="prov 10" atidlm:sourceName="DLM869129" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Notification by broker to another insurance intermediary may constitute notice to insurer" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="11" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation> to the broker, notification by the broker to the intermediary shall be taken to constitute notification by the broker to the insurer.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 27(8) (Australia)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM331867" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">12</label>
+        <heading xml:lang="en-NZ">Lloyd's brokers</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Where—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>A broker is required by any provision of <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425043" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 8" atidlm:xmlId="DLM869130" atidlm:state="UNCHANGED"><atidlm:linkcontent>8</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432258" atidlm:sourceXmlId="DLM869130" atidlm:targetKey="1714801" atidlm:targetXmlId="DLM331862" atidlm:targetName="prov 8" atidlm:sourceName="DLM869130" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[5]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Lloyd's brokers" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="12" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> or section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425044" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 10" atidlm:xmlId="DLM869131" atidlm:state="UNCHANGED"><atidlm:linkcontent>10</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432259" atidlm:sourceXmlId="DLM869131" atidlm:targetKey="1714803" atidlm:targetXmlId="DLM331865" atidlm:targetName="prov 10" atidlm:sourceName="DLM869131" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331861.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[2]/prov[5]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Lloyd's brokers" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="12" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation> to pay an amount to, or to notify, an insurer; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>Under the contract of insurance concerned, the insurer is an underwriting member of Lloyd's,—</text>
+                </para>
+              </label-para>
+              <text>it shall be sufficient compliance with that provision if the broker pays the amount to, or notifies, as the case may be, the Lloyd's broker concerned.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>In this section,—</text>
+              <def-para id="DLM331868" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM331869" xml:lang="en-NZ">Lloyd's</def-term> means the society of that name incorporated by the Imperial Act known as the <citation jurisdiction="uk">Lloyd's Act 1871</citation></text>
+                </para>
+              </def-para>
+              <def-para id="DLM331870" xml:lang="en-NZ">
+                <para xml:lang="en-NZ">
+                  <text><def-term id="DLM331871" xml:lang="en-NZ">Lloyd's underwriter</def-term> means an underwriting member of Lloyd's.</text>
+                </para>
+              </def-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf><citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 27(13), (14) (Australia)</citation>; <citation jurisdiction="other">Statute Law (Miscellaneous Provisions) Act (No 2) 1986, Schedule 1 (Australia)</citation>; <citation jurisdiction="other">Insurance Act 1973, s 3(1) (Australia)</citation></cf>
+      </prov>
+    </part>
+    <part id="DLM331872" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-03" act.no="41" act.type="public" date.as.at="2007-09-03" date.assent="1994-07-01" stage="reprint" year="1994">
+      <heading xml:lang="en-NZ">Duties of brokers in relation to payments due to insured</heading>
+      <prov id="DLM331873" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">13</label>
+        <heading xml:lang="en-NZ">Duties of broker in relation to payments due to insured</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Subject to <citation jurisdiction="nz">subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425045" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 13" atidlm:xmlId="DLM869132" atidlm:state="UNCHANGED"><atidlm:linkcontent>(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432260" atidlm:sourceXmlId="DLM869132" atidlm:targetKey="1715200" atidlm:targetXmlId="DLM331873" atidlm:targetName="prov 13" atidlm:sourceName="DLM869132" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331872.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331872.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[3]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Duties of broker in relation to payments due to insured" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="13" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this section</citation>, where a broker receives money from, or on behalf of, an insurer for payment to, or on behalf of, an insured, the broker shall pay that money to, or on behalf of, the insured within 7 days after the day on which the broker received the money.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>Where a broker receives from, or on behalf of, an insurer a cheque that is expressed to be payable to a particular insured, the broker shall send that cheque immediately to, or on behalf of, the insured.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>Nothing in <citation jurisdiction="nz">subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425046" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 13" atidlm:xmlId="DLM869133" atidlm:state="UNCHANGED"><atidlm:linkcontent>(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432261" atidlm:sourceXmlId="DLM869133" atidlm:targetKey="1715200" atidlm:targetXmlId="DLM331873" atidlm:targetName="prov 13" atidlm:sourceName="DLM869133" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331872.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331872.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[3]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Duties of broker in relation to payments due to insured" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="13" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this section</citation> prevents—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>An insured from making a contract or arrangement with a broker providing for the broker to pay an amount to or on behalf of the insured before being required to do so by that subsection; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>A broker from exercising any legal right available to the broker to deduct from any money payable by the broker to the insured any money payable by the insured to the broker in connection with a contract of insurance.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">4</label>
+            <para xml:lang="en-NZ">
+              <text>Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>In the case of an individual, to a fine not exceeding $5,000:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>In the case of a body corporate, to a fine not exceeding $10,000.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 27(10), (11), (12) (Australia)</citation>
+        </cf>
+      </prov>
+    </part>
+    <part id="DLM331874" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-03" act.no="41" act.type="public" date.as.at="2007-09-03" date.assent="1994-07-01" stage="reprint" year="1994">
+      <heading xml:lang="en-NZ">Insurance broking client accounts</heading>
+      <prov id="DLM331875" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">14</label>
+        <heading xml:lang="en-NZ">Broker to operate insurance broking client account</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Every broker shall establish and maintain one or more insurance broking client accounts with a financial institution in New Zealand.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>A broker may establish and maintain one or more insurance broking client accounts outside New Zealand with one or more overseas financial institutions.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>Every insurance broking client account shall be a cheque account.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">4</label>
+            <para xml:lang="en-NZ">
+              <text>Every broker shall ensure that the following money is paid, immediately after it is received, into an insurance broking client account:</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>All money received from or on behalf of an insured for or on account of an insurer in connection with a contract of insurance arranged or to be arranged by the broker:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>All money received from or on behalf of an insurer for or on account of an insured (except any cheque which is expressed to be payable to a particular insured and which is immediately sent to, or on behalf of, the insured):</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>Any money by way of realisation of investments that is to be paid into the account in accordance with <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425047" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 15" atidlm:xmlId="DLM869134" atidlm:state="UNCHANGED"><atidlm:linkcontent>15</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432262" atidlm:sourceXmlId="DLM869134" atidlm:targetKey="1715801" atidlm:targetXmlId="DLM331876" atidlm:targetName="prov 15" atidlm:sourceName="DLM869134" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[4]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Broker to operate insurance broking client account" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="14" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation>:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">d</label>
+                <para xml:lang="en-NZ">
+                  <text>Any other money that is required by regulations made under that section to be paid into the account.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">5</label>
+            <para xml:lang="en-NZ">
+              <text>Every broker shall ensure that no money is paid out of the broker's insurance broking client account except—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>For making a payment required or authorised by this Act; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>For making an investment in accordance with this Act; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>For withdrawing money paid into the account in error; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">d</label>
+                <para xml:lang="en-NZ">
+                  <text>Otherwise in accordance with regulations made under this Act.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">6</label>
+            <para xml:lang="en-NZ">
+              <text>Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>In the case of an individual, to a fine not exceeding $10,000:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>In the case of a body corporate, to a fine not exceeding $20,000.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 26(1) (Australia)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM331876" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">15</label>
+        <heading xml:lang="en-NZ">Investment of broking money</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>Subject to <citation jurisdiction="nz">subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425048" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 15" atidlm:xmlId="DLM869135" atidlm:state="UNCHANGED"><atidlm:linkcontent>(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432263" atidlm:sourceXmlId="DLM869135" atidlm:targetKey="1715801" atidlm:targetXmlId="DLM331876" atidlm:targetName="prov 15" atidlm:sourceName="DLM869135" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[4]/prov[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Investment of broking money" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="15" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this section</citation>, money in an insurance broking client account may be invested in accordance with the provisions of The <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425049" atidlm:branchLabel="_NOVERSION_" atidlm:name="Trustee Act 1956" atidlm:xmlId="DLM869136" atidlm:state="UNCHANGED"><atidlm:linkcontent>Trustee Act 1956</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="432264" atidlm:sourceXmlId="DLM869136" atidlm:targetKey="2000805" atidlm:targetXmlId="DLM304703" atidlm:targetName="Trustee Act 1956" atidlm:sourceName="DLM869136" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM304703.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[4]/prov[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Investment of broking money" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="15" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> as to the investment of trust funds, except that no money may be invested in equity securities within the meaning of that term in <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425050" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 2" atidlm:xmlId="DLM869137" atidlm:state="UNCHANGED"><atidlm:linkcontent>2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432265" atidlm:sourceXmlId="DLM869137" atidlm:targetKey="117406" atidlm:targetXmlId="DLM26805" atidlm:targetName="prov 2" atidlm:sourceName="DLM869137" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM25999.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[4]/prov[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Investment of broking money" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="15" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425051" atidlm:branchLabel="_NOVERSION_" atidlm:name="Securities Act 1978" atidlm:xmlId="DLM869138" atidlm:state="UNCHANGED"><atidlm:linkcontent>Securities Act 1978</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="432266" atidlm:sourceXmlId="DLM869138" atidlm:targetKey="117400" atidlm:targetXmlId="DLM25999" atidlm:targetName="Securities Act 1978" atidlm:sourceName="DLM869138" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM25999.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[4]/prov[2]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Investment of broking money" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="15" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>No money paid by or on behalf of an insured by way of premium in connection with a contract of insurance that is to be arranged or effected shall be invested until the risk to which the contract relates is accepted by or on behalf of the insurer.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>Every broker shall pay money received from the realisation of any investment into an insurance broking client account.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">4</label>
+            <para xml:lang="en-NZ">
+              <text>If, upon the realisation of any investment, the amount received in respect of the realisation is less than the amount invested, the broker shall pay into the account from which the money was withdrawn for investment an amount equal to the difference between the amount invested and the amount received.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">5</label>
+            <para xml:lang="en-NZ">
+              <text>If, upon the realisation of any investment, the amount received in respect of the realisation is more than the amount invested, the broker may retain for his or her own benefit the amount by which the amount received exceeds the amount invested and need not pay it into, or retain it in, an insurance broking client account.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">6</label>
+            <para xml:lang="en-NZ">
+              <text>Interest or other income received by a broker from an insurance broking client account may be retained by the broker for his or her own benefit and need not be paid into an insurance broking client account.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">7</label>
+            <para xml:lang="en-NZ">
+              <text>Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>In the case of an individual, to a fine not exceeding $10,000:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>In the case of a body corporate, to a fine not exceeding $20,000.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 26(4)-(8) (Australia)</citation>
+        </cf>
+      </prov>
+      <prov id="DLM331877" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">16</label>
+        <heading xml:lang="en-NZ">Broking money not capable of being attached, etc</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>No money that is payable, or that has been paid, into an insurance broking client account in accordance with <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425052" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 14" atidlm:xmlId="DLM869139" atidlm:state="UNCHANGED"><atidlm:linkcontent>14</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432267" atidlm:sourceXmlId="DLM869139" atidlm:targetKey="1715800" atidlm:targetXmlId="DLM331875" atidlm:targetName="prov 14" atidlm:sourceName="DLM869139" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[4]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Broking money not capable of being attached, etc" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> or section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425053" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 15" atidlm:xmlId="DLM869140" atidlm:state="UNCHANGED"><atidlm:linkcontent>15</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432268" atidlm:sourceXmlId="DLM869140" atidlm:targetKey="1715801" atidlm:targetXmlId="DLM331876" atidlm:targetName="prov 15" atidlm:sourceName="DLM869140" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331874.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[4]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Broking money not capable of being attached, etc" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="16" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation>, and no property in which any such money has been invested, shall be liable to be attached or taken in execution or made subject to a set-off, charge, or charging order or to any process of a like nature, except at the suit of a person entitled to that money under this Act.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 26(9), (10) (Australia)</citation>
+        </cf>
+      </prov>
+    </part>
+    <part id="DLM331878" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-03" act.no="41" act.type="public" date.as.at="2007-09-03" date.assent="1994-07-01" stage="reprint" year="1994">
       <heading xml:lang="en-NZ">Distribution of insurance broking client account money on insolvency</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">1</label>
-          <para xml:lang="en-NZ">
-            <text>This section applies to and in relation to a broker—</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>who has been adjudged bankrupt; or</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>that is a company to which <citation jurisdiction="nz">section 199N(1) of the Companies Act 1955</citation> or <citation jurisdiction="nz"><extref href="DLM323259">section 385(1)</extref> of the Companies Act 1993</citation> applies; or</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">c</label>
-              <para xml:lang="en-NZ">
-                <text>who is deceased and whose estate is being administered under <insertwords><citation jurisdiction="nz"><extref href="DLM387732">Part 6</extref> of the Insolvency Act 2006</citation></insertwords>; or</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">d</label>
-              <para xml:lang="en-NZ">
-                <text>that is a corporation or an associated person or a subsidiary of a corporation to which an Order in Council made under <citation jurisdiction="nz"><extref href="DLM144942">section 38</extref> of the Corporations (Investigation and Management) Act 1989</citation> applies; or</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">e</label>
-              <para xml:lang="en-NZ">
-                <text>that is a registered bank or an associated person of a registered bank or a subsidiary of a registered bank to which an Order in Council made under <citation jurisdiction="nz"><extref href="DLM201224">section 117</extref> of the Reserve Bank of New Zealand Act 1989</citation> applies.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">2</label>
-          <para xml:lang="en-NZ">
-            <text>This section applies notwithstanding anything to the contrary contained in the Insolvency Act 1967 <insertwords>or the <citation jurisdiction="nz"><extref href="DLM385298">Insolvency Act 2006</extref></citation></insertwords> or the Companies Act 1955 or the Companies Act 1993.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">3</label>
-          <para xml:lang="en-NZ">
-            <text>Money in an insurance broking client account of a broker, and property in which money has been invested, shall be treated as though it was subject to a trust in favour of the persons entitled to the money or property, as the case may be.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">4</label>
-          <para xml:lang="en-NZ">
-            <text>Money from such an account shall be paid as follows:</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>first, money that has been paid into the account in error shall be withdrawn from the account:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>secondly, insureds shall be paid the amounts they are entitled to receive from the money in the account in respect of claims made pursuant to contracts of insurance:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">c</label>
-              <para xml:lang="en-NZ">
-                <text>thirdly, insureds shall be paid the amounts (other than amounts to which paragraph (b) applies) that they are entitled to receive from the money in the account:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">d</label>
-              <para xml:lang="en-NZ">
-                <text>fourthly, after all payments have been made under paragraphs (b) and (c), insurers shall be paid the amounts they are entitled to receive from the money in the account.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">5</label>
-          <para xml:lang="en-NZ">
-            <text>If the money in the account that is available to make payments required under a particular paragraph (other than paragraph (a)) of subsection (4) are not sufficient to meet those payments in full, the payments required under the paragraph concerned shall be made proportionally.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">6</label>
-          <para xml:lang="en-NZ">
-            <text>All money remaining after all payments have been made under subsection (4) shall be taken to be money payable to the broker.</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="yes">7</label>
-          <para xml:lang="en-NZ">
-            <text>Nothing in the preceding provisions of this section prevents money in the account being invested in accordance with this Act by a person, other than the broker, who has lawful custody or control of the money.</text>
-          </para>
-        </subprov>
-      </prov.body>
-      <cf>Insurance (Agents and Brokers) Act 1984 s 28 (Aust)</cf>
-      <notes>
-        <history>
-          <history-note id="DLM1115948"><amended-provision>Section 17(1)(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>3 December 2007</amendment-date>, by <amending-provision href="DLM387857">section 445</amending-provision> of the <amending-leg>Insolvency Act 2006</amending-leg> (2006 No 55).</history-note>
-          <history-note id="DLM1115949"><amended-provision>Section 17(2)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>3 December 2007</amendment-date>, by <amending-provision href="DLM387857">section 445</amending-provision> of the <amending-leg>Insolvency Act 2006</amending-leg> (2006 No 55).</history-note>
-        </history>
-      </notes>
-    </prov>
-    <crosshead id="DLM2251756" toc="yes">Miscellaneous provisions</crosshead>
-    <prov id="DLM331881" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">18</label>
-      <heading xml:lang="en-NZ">Regulations</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
-            <text>The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:</text>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">a</label>
-              <para xml:lang="en-NZ">
-                <text>specifying the duties and obligations of brokers in relation to insurance broking client accounts, including obligations to make payments into those accounts:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">b</label>
-              <para xml:lang="en-NZ">
-                <text>providing for the protection of money deposited in insurance broking client accounts or invested from claims by persons other than the person for whom, or on whose behalf, the money is held:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">c</label>
-              <para xml:lang="en-NZ">
-                <text>restricting the combining of any insurance broking client account with any other account or the combining of any property in which money from such an account is invested with any other property:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">d</label>
-              <para xml:lang="en-NZ">
-                <text>providing for the audit and inspection of the books, accounts, and records kept by brokers:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">e</label>
-              <para xml:lang="en-NZ">
-                <text>exempting any broker, or class of broker, from any requirements relating to any such audit or inspection:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">f</label>
-              <para xml:lang="en-NZ">
-                <text>prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amounts of the fines that may be imposed in respect of any such offences:</text>
-              </para>
-            </label-para>
-            <label-para skeleton="no" xml:lang="en-NZ">
-              <label auto.number="no" denominator="yes">g</label>
-              <para xml:lang="en-NZ">
-                <text>providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.</text>
-              </para>
-            </label-para>
-          </para>
-        </subprov>
-      </prov.body>
-    </prov>
-    <prov id="DLM331882" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">19</label>
-      <heading xml:lang="en-NZ">Act not to apply to contracts of reinsurance</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
-            <text>This Act shall not apply to or in relation to contracts or proposed contracts of reinsurance.</text>
-          </para>
-        </subprov>
-      </prov.body>
-    </prov>
-    <prov id="DLM331883" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
-      <label auto.number="no" denominator="yes">20</label>
-      <heading xml:lang="en-NZ">Application of section 10 of Insurance Law Reform Act 1977</heading>
-      <prov.body>
-        <subprov skeleton="no" xml:lang="en-NZ">
-          <label auto.number="no" denominator="no"/>
-          <para xml:lang="en-NZ">
-            <text>Nothing in <citation jurisdiction="nz"><extref href="DLM442556">section 10</extref> of the Insurance Law Reform Act 1977</citation> (which deems a representative of an insurer to be the agent of the insurer in certain circumstances) shall limit any provisions of this Act and the provisions of this Act shall prevail in any case where they are in conflict with the provisions of that section.</text>
-          </para>
-        </subprov>
-      </prov.body>
-    </prov>
+      <prov id="DLM331879" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">17</label>
+        <heading xml:lang="en-NZ">Distribution of insurance broking client account money on insolvency</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">1</label>
+            <para xml:lang="en-NZ">
+              <text>This section applies to and in relation to a broker—</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>Who has been adjudged bankrupt; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>That is a company to which <citation jurisdiction="nz">section 199N(1) of The Companies Act 1955</citation> or <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425054" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 385" atidlm:xmlId="DLM869141" atidlm:state="UNCHANGED"><atidlm:linkcontent>385(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432269" atidlm:sourceXmlId="DLM869141" atidlm:targetKey="1668437" atidlm:targetXmlId="DLM323259" atidlm:targetName="prov 385" atidlm:sourceName="DLM869141" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM323230.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425055" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM869142" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="432270" atidlm:sourceXmlId="DLM869142" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM869142" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> applies; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>Who is deceased and whose estate is being administered under <citation jurisdiction="nz">Part <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425056" atidlm:branchLabel="_NOVERSION_" atidlm:name="part 17 Administration of insolvent deceased estates" atidlm:xmlId="DLM869143" atidlm:state="UNCHANGED"><atidlm:linkcontent>17</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432271" atidlm:sourceXmlId="DLM869143" atidlm:targetKey="2475621" atidlm:targetXmlId="DLM383779" atidlm:targetName="part 17 Administration of insolvent deceased estates" atidlm:sourceName="DLM869143" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM383779.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425057" atidlm:branchLabel="_NOVERSION_" atidlm:name="Insolvency Act 1967" atidlm:xmlId="DLM869144" atidlm:state="UNCHANGED"><atidlm:linkcontent>Insolvency Act 1967</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="432272" atidlm:sourceXmlId="DLM869144" atidlm:targetKey="2464431" atidlm:targetXmlId="DLM382333" atidlm:targetName="Insolvency Act 1967" atidlm:sourceName="DLM869144" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM382333.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">d</label>
+                <para xml:lang="en-NZ">
+                  <text>That is a corporation or an associated person or a subsidiary of a corporation to which an Order in Council made under <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425058" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 38" atidlm:xmlId="DLM869145" atidlm:state="UNCHANGED"><atidlm:linkcontent>38</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432273" atidlm:sourceXmlId="DLM869145" atidlm:targetKey="816828" atidlm:targetXmlId="DLM144942" atidlm:targetName="prov 38" atidlm:sourceName="DLM869145" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144941.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425059" atidlm:branchLabel="_NOVERSION_" atidlm:name="Corporations (Investigation and Management) Act 1989" atidlm:xmlId="DLM869146" atidlm:state="UNCHANGED"><atidlm:linkcontent>Corporations (Investigation and Management) Act 1989</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="432274" atidlm:sourceXmlId="DLM869146" atidlm:targetKey="814008" atidlm:targetXmlId="DLM144263" atidlm:targetName="Corporations (Investigation and Management) Act 1989" atidlm:sourceName="DLM869146" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144263.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> applies; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">e</label>
+                <para xml:lang="en-NZ">
+                  <text>That is a registered bank or an associated person of a registered bank or a subsidiary of a registered bank to which an Order in Council made under <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425060" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 117" atidlm:xmlId="DLM869147" atidlm:state="UNCHANGED"><atidlm:linkcontent>117</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432275" atidlm:sourceXmlId="DLM869147" atidlm:targetKey="1090312" atidlm:targetXmlId="DLM201224" atidlm:targetName="prov 117" atidlm:sourceName="DLM869147" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM200324.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425061" atidlm:branchLabel="_NOVERSION_" atidlm:name="Reserve Bank of New Zealand Act 1989" atidlm:xmlId="DLM869148" atidlm:state="UNCHANGED"><atidlm:linkcontent>Reserve Bank of New Zealand Act 1989</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="432276" atidlm:sourceXmlId="DLM869148" atidlm:targetKey="1079888" atidlm:targetXmlId="DLM199363" atidlm:targetName="Reserve Bank of New Zealand Act 1989" atidlm:sourceName="DLM869148" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM199363.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> applies.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">2</label>
+            <para xml:lang="en-NZ">
+              <text>This section applies notwithstanding anything to the contrary contained in The <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425062" atidlm:branchLabel="_NOVERSION_" atidlm:name="Insolvency Act 1967" atidlm:xmlId="DLM869149" atidlm:state="UNCHANGED"><atidlm:linkcontent>Insolvency Act 1967</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="432277" atidlm:sourceXmlId="DLM869149" atidlm:targetKey="2464431" atidlm:targetXmlId="DLM382333" atidlm:targetName="Insolvency Act 1967" atidlm:sourceName="DLM869149" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM382333.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> or The <citation jurisdiction="nz">Companies Act 1955</citation> or The <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425063" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM869150" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="432278" atidlm:sourceXmlId="DLM869150" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM869150" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">3</label>
+            <para xml:lang="en-NZ">
+              <text>Money in an insurance broking client account of a broker, and property in which money has been invested, shall be treated as though it was subject to a trust in favour of the persons entitled to the money or property, as the case may be.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">4</label>
+            <para xml:lang="en-NZ">
+              <text>Money from such an account shall be paid as follows:</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>First, money that has been paid into the account in error shall be withdrawn from the account:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>Secondly, insureds shall be paid the amounts they are entitled to receive from the money in the account in respect of claims made pursuant to contracts of insurance:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>Thirdly, insureds shall be paid the amounts (other than amounts to which <citation jurisdiction="nz">paragraph <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425064" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 17" atidlm:xmlId="DLM869151" atidlm:state="UNCHANGED"><atidlm:linkcontent>(b)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432360" atidlm:sourceXmlId="DLM869151" atidlm:targetKey="1716200" atidlm:targetXmlId="DLM331879" atidlm:targetName="prov 17" atidlm:sourceName="DLM869151" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this subsection</citation> applies) that they are entitled to receive from the money in the account:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">d</label>
+                <para xml:lang="en-NZ">
+                  <text>Fourthly, after all payments have been made under <citation jurisdiction="nz">paragraphs <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425065" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 17" atidlm:xmlId="DLM869152" atidlm:state="UNCHANGED"><atidlm:linkcontent>(b)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432361" atidlm:sourceXmlId="DLM869152" atidlm:targetKey="1716200" atidlm:targetXmlId="DLM331879" atidlm:targetName="prov 17" atidlm:sourceName="DLM869152" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425066" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 17" atidlm:xmlId="DLM869153" atidlm:state="UNCHANGED"><atidlm:linkcontent>(c)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432362" atidlm:sourceXmlId="DLM869153" atidlm:targetKey="1716200" atidlm:targetXmlId="DLM331879" atidlm:targetName="prov 17" atidlm:sourceName="DLM869153" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this subsection</citation>, insurers shall be paid the amounts they are entitled to receive from the money in the account.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">5</label>
+            <para xml:lang="en-NZ">
+              <text>If the money in the account that is available to make payments required under a particular paragraph (other than <citation jurisdiction="nz">paragraph <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425067" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 17" atidlm:xmlId="DLM869154" atidlm:state="UNCHANGED"><atidlm:linkcontent>(a)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432363" atidlm:sourceXmlId="DLM869154" atidlm:targetKey="1716200" atidlm:targetXmlId="DLM331879" atidlm:targetName="prov 17" atidlm:sourceName="DLM869154" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link>) of subsection (4) of this section</citation> are not sufficient to meet those payments in full, the payments required under the paragraph concerned shall be made proportionally.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">6</label>
+            <para xml:lang="en-NZ">
+              <text>All money remaining after all payments have been made under <citation jurisdiction="nz">subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425068" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 17" atidlm:xmlId="DLM869155" atidlm:state="UNCHANGED"><atidlm:linkcontent>(4)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432364" atidlm:sourceXmlId="DLM869155" atidlm:targetKey="1716200" atidlm:targetXmlId="DLM331879" atidlm:targetName="prov 17" atidlm:sourceName="DLM869155" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331878.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[5]/prov[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Distribution of insurance broking client account money on insolvency" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="17" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this section</citation> shall be taken to be money payable to the broker.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="yes">7</label>
+            <para xml:lang="en-NZ">
+              <text>Nothing in the preceding provisions of this section prevents money in the account being invested in accordance with this Act by a person, other than the broker, who has lawful custody or control of the money.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>
+          <citation jurisdiction="other">Insurance (Agents and Brokers) Act 1984, s 28 (Australia)</citation>
+        </cf>
+      </prov>
+    </part>
+    <part id="DLM331880" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-03" act.no="41" act.type="public" date.as.at="2007-09-03" date.assent="1994-07-01" stage="reprint" year="1994">
+      <heading xml:lang="en-NZ">Miscellaneous provisions</heading>
+      <prov id="DLM331881" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">18</label>
+        <heading xml:lang="en-NZ">Regulations</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:</text>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">a</label>
+                <para xml:lang="en-NZ">
+                  <text>Specifying the duties and obligations of brokers in relation to insurance broking client accounts, including obligations to make payments into those accounts:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">b</label>
+                <para xml:lang="en-NZ">
+                  <text>Providing for the protection of money deposited in insurance broking client accounts or invested from claims by persons other than the person for whom, or on whose behalf, the money is held:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">c</label>
+                <para xml:lang="en-NZ">
+                  <text>Restricting the combining of any insurance broking client account with any other account or the combining of any property in which money from such an account is invested with any other property:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">d</label>
+                <para xml:lang="en-NZ">
+                  <text>Providing for the audit and inspection of the books, accounts, and records kept by brokers:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">e</label>
+                <para xml:lang="en-NZ">
+                  <text>Exempting any broker, or class of broker, from any requirements relating to any such audit or inspection:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">f</label>
+                <para xml:lang="en-NZ">
+                  <text>Prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amounts of the fines that may be imposed in respect of any such offences:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">g</label>
+                <para xml:lang="en-NZ">
+                  <text>Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM331882" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">19</label>
+        <heading xml:lang="en-NZ">Act not to apply to contracts of reinsurance</heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>This Act shall not apply to or in relation to contracts or proposed contracts of reinsurance.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM331883" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
+        <label auto.number="no" denominator="yes">20</label>
+        <heading xml:lang="en-NZ">Application of <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425069" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 10" atidlm:xmlId="DLM869156" atidlm:state="UNCHANGED"><atidlm:linkcontent>10</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432365" atidlm:sourceXmlId="DLM869156" atidlm:targetKey="2901421" atidlm:targetXmlId="DLM442556" atidlm:targetName="prov 10" atidlm:sourceName="DLM869156" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM442535.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331880.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[6]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application of section 10 of Insurance Law Reform Act 1977" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="20" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425070" atidlm:branchLabel="_NOVERSION_" atidlm:name="Insurance Law Reform Act 1977" atidlm:xmlId="DLM869157" atidlm:state="UNCHANGED"><atidlm:linkcontent>Insurance Law Reform Act 1977</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="432366" atidlm:sourceXmlId="DLM869157" atidlm:targetKey="2901400" atidlm:targetXmlId="DLM442535" atidlm:targetName="Insurance Law Reform Act 1977" atidlm:sourceName="DLM869157" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM442535.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331880.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[6]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application of section 10 of Insurance Law Reform Act 1977" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="20" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></heading>
+        <prov.body>
+          <subprov skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no"/>
+            <para xml:lang="en-NZ">
+              <text>Nothing in <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425071" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 10" atidlm:xmlId="DLM869158" atidlm:state="UNCHANGED"><atidlm:linkcontent>10</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="432367" atidlm:sourceXmlId="DLM869158" atidlm:targetKey="2901421" atidlm:targetXmlId="DLM442556" atidlm:targetName="prov 10" atidlm:sourceName="DLM869158" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM442535.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331880.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[6]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application of section 10 of Insurance Law Reform Act 1977" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="20" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="425072" atidlm:branchLabel="_NOVERSION_" atidlm:name="Insurance Law Reform Act 1977" atidlm:xmlId="DLM869159" atidlm:state="UNCHANGED"><atidlm:linkcontent>Insurance Law Reform Act 1977</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="432368" atidlm:sourceXmlId="DLM869159" atidlm:targetKey="2901400" atidlm:targetXmlId="DLM442535" atidlm:targetName="Insurance Law Reform Act 1977" atidlm:sourceName="DLM869159" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM442535.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM331880.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/part[6]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application of section 10 of Insurance Law Reform Act 1977" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="20" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM331828" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="41" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Insurance Intermediaries Act 1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> (which deems a representative of an insurer to be the agent of the insurer in certain circumstances) shall limit any provisions of this Act and the provisions of this Act shall prevail in any case where they are in conflict with the provisions of that section.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
   </body>
-  <end id="DLM1115950">
-    <end.reprint-note id="DLM3317500">
-      <reprint.index>
-        <heading>Contents</heading>
-        <para>
-          <list>
-            <item>
-              <label auto.number="no" denominator="no">1</label>
-              <para>
-                <text>General</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">2</label>
-              <para>
-                <text>Status of reprints</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">3</label>
-              <para>
-                <text>How reprints are prepared</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">4</label>
-              <para>
-                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">5</label>
-              <para>
-                <text>List of amendments incorporated in this reprint (most recent first)</text>
-              </para>
-            </item>
-          </list>
-        </para>
-      </reprint.index>
-      <reprint.notes>
-        <heading>Notes</heading>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">1</label>
-          <heading>General</heading>
-          <para>
-            <text>This is a reprint of the Insurance Intermediaries Act 1994. The reprint incorporates all the amendments to the Act as at 3 December 2007, as specified in the list of amendments at the end of these notes.</text>
-          </para>
-          <para>
-            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">2</label>
-          <heading>Status of reprints</heading>
-          <para>
-            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
-          </para>
-          <para>
-            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">3</label>
-          <heading>How reprints are prepared</heading>
-          <para>
-            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">4</label>
-          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
-          <para>
-            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
-          </para>
-          <para>
-            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
-          </para>
-          <para>
-            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>layout of provisions, including:</text>
-                  <list>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>indentation</text>
-                      </para>
-                    </item>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
-                      </para>
-                    </item>
-                  </list>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>punctuation (eg, colons are not used after definitions)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>case and appearance of letters and words, including:</text>
-                  <list>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
-                      </para>
-                    </item>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>small capital letters in section and subsection references are now capital letters</text>
-                      </para>
-                    </item>
-                  </list>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>running heads (the information that appears at the top of each page)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
-                </para>
-              </item>
-            </list>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">5</label>
-          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
-          <reprint.amend>
-            <citation jurisdiction="nz">Insolvency Act 2006 (2006 No 55): <extref href="DLM387857">section 445</extref></citation>
-          </reprint.amend>
-        </reprint.note>
-      </reprint.notes>
-    </end.reprint-note>
-  </end>
 </act>
