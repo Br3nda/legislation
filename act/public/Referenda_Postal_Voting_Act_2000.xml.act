@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM73880" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" date.first.valid="2007-09-18" stage="reprint" year="2000" prospective.consolidation="F">
+<act id="DLM73880" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" date.first.valid="2007-09-18" stage="reprint" year="2000">
   <cover id="DLM73881">
-    <reprint-date>2010-10-01</reprint-date>
+    <reprint-date>2009-01-24</reprint-date>
     <title xml:lang="en-NZ">Referenda (Postal Voting) Act 2000</title>
     <assent>2000-11-14</assent>
     <commencement>see section 2</commencement>
@@ -44,7 +44,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM73886" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" stage="reprint" year="2000" prospective.consolidation="F">
+    <part id="DLM73886" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">1</label>
       <heading xml:lang="en-NZ">Preliminary provisions</heading>
       <prov id="DLM73887" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -468,7 +468,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM74569" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" stage="reprint" year="2000" prospective.consolidation="F">
+    <part id="DLM74569" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">2</label>
       <heading xml:lang="en-NZ">Voting paper for postal voting</heading>
       <prov id="DLM74570" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -631,23 +631,23 @@
         </cf>
       </prov>
     </part>
-    <part id="DLM74572" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" stage="reprint" year="2000" prospective.consolidation="F">
+    <part id="DLM74572" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">3</label>
       <heading xml:lang="en-NZ">Officials</heading>
       <prov id="DLM74573" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">8</label>
         <heading xml:lang="en-NZ">Returning Officer</heading>
         <prov.body>
-          <subprov skeleton="no">
+          <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>The Electoral Commission must designate an Electoral Commissioner to be the Returning Officer for a referendum.</text>
+            <para xml:lang="en-NZ">
+              <text>The Chief Electoral Officer referred to in <citation jurisdiction="nz"><extref href="DLM308159">section 18</extref> of the Electoral Act 1993</citation> is the Returning Officer for a referendum.</text>
             </para>
           </subprov>
-          <subprov skeleton="no">
+          <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>The Returning Officer is, under the direction of the Electoral Commission, charged with the duty of implementing this Act, except <citation jurisdiction="nz"><intref href="DLM74578">Part 4</intref></citation>.</text>
+            <para xml:lang="en-NZ">
+              <text>The Returning Officer is, under the direction of the Secretary for Justice, charged with the duty of implementing this Act, except <citation jurisdiction="nz"><intref href="DLM74578">Part 4</intref></citation>.</text>
             </para>
           </subprov>
           <subprov skeleton="no" xml:lang="en-NZ">
@@ -660,12 +660,6 @@
         <cf>
           <citation jurisdiction="nz">1997 No 13 <extref href="DLM408652">s 7</extref></citation>
         </cf>
-        <notes>
-          <history>
-            <history-note id="DLM3290400"><amended-provision>Section 8(1)</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 October 2010</amendment-date>, by <amending-provision href="DLM2469790">section 32(2)(b)</amending-provision> of the <amending-leg>Electoral (Administration) Amendment Act 2010</amending-leg> (2010 No 26).</history-note>
-            <history-note id="DLM3290401"><amended-provision>Section 8(2)</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>1 October 2010</amendment-date>, by <amending-provision href="DLM2469790">section 32(2)(b)</amending-provision> of the <amending-leg>Electoral (Administration) Amendment Act 2010</amending-leg> (2010 No 26).</history-note>
-          </history>
-        </notes>
       </prov>
       <prov id="DLM74574" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">9</label>
@@ -830,7 +824,7 @@
         </cf>
       </prov>
     </part>
-    <part id="DLM74578" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" stage="reprint" year="2000" prospective.consolidation="F">
+    <part id="DLM74578" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">4</label>
       <heading xml:lang="en-NZ">Rolls of electors</heading>
       <crosshead id="DLM74579" toc="yes" xml:lang="en-NZ">Purpose of rolls</crosshead>
@@ -1630,7 +1624,7 @@
         </cf>
       </prov>
     </part>
-    <part id="DLM74601" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" stage="reprint" year="2000" prospective.consolidation="F">
+    <part id="DLM74601" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">5</label>
       <heading xml:lang="en-NZ">Conduct of referendum</heading>
       <prov id="DLM74602" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -2907,7 +2901,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM74638" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" stage="reprint" year="2000" prospective.consolidation="F">
+    <part id="DLM74638" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">6</label>
       <heading xml:lang="en-NZ">Application for inquiry into conduct of referendum</heading>
       <crosshead id="DLM74639" toc="yes" xml:lang="en-NZ">Applicants</crosshead>
@@ -3219,7 +3213,7 @@
         </cf>
       </prov>
     </part>
-    <part id="DLM74655" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" stage="reprint" year="2000" prospective.consolidation="F">
+    <part id="DLM74655" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">7</label>
       <heading xml:lang="en-NZ">Offences</heading>
       <prov id="DLM74656" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -4187,7 +4181,7 @@
         </cf>
       </prov>
     </part>
-    <part id="DLM74673" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" stage="reprint" year="2000" prospective.consolidation="F">
+    <part id="DLM74673" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">8</label>
       <heading xml:lang="en-NZ">Miscellaneous provisions</heading>
       <prov id="DLM74674" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -4356,7 +4350,7 @@
         </cf>
       </prov>
     </part>
-    <part id="DLM74678" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" stage="reprint" year="2000" prospective.consolidation="F">
+    <part id="DLM74678" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-09-18" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">9</label>
       <heading xml:lang="en-NZ">Amendments to Citizens Initiated Referenda Act 1993</heading>
       <prov id="DLM74679" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -4671,7 +4665,7 @@
     </part>
   </body>
   <schedule.group xml:lang="en-NZ">
-    <schedule id="DLM75070" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" date.first.valid="2007-09-18" stage="reprint" year="2000" prospective.consolidation="F">
+    <schedule id="DLM75070" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" date.first.valid="2007-09-18" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">1</label>
       <heading xml:lang="en-NZ">Forms</heading>
       <schedule.forms>
@@ -4981,7 +4975,7 @@
         </form>
       </schedule.forms>
     </schedule>
-    <schedule id="DLM75074" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" date.first.valid="2007-09-18" stage="reprint" year="2000" prospective.consolidation="F">
+    <schedule id="DLM75074" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" date.first.valid="2007-09-18" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">2</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -5000,7 +4994,7 @@
         </schedule.amendments.group2>
       </schedule.amendments>
     </schedule>
-    <schedule deletion-status="repealed" id="DLM75077" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" date.first.valid="2007-09-18" stage="reprint" year="2000" prospective.consolidation="F">
+    <schedule deletion-status="repealed" id="DLM75077" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" date.first.valid="2007-09-18" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">3</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -5014,7 +5008,7 @@
         </history>
       </notes>
     </schedule>
-    <schedule id="DLM75079" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="48" act.type="public" date.as.at="2010-10-01" date.assent="2000-11-14" date.first.valid="2007-09-18" stage="reprint" year="2000" prospective.consolidation="F">
+    <schedule id="DLM75079" in.amend="false" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" act.no="48" act.type="public" date.as.at="2009-01-24" date.assent="2000-11-14" date.first.valid="2007-09-18" stage="reprint" year="2000">
       <label auto.number="no" denominator="yes">4</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -5032,7 +5026,7 @@
     </schedule>
   </schedule.group>
   <end id="DLM75081" xml:lang="en-NZ">
-    <end.reprint-note id="DLM3293400">
+    <end.reprint-note id="DLM2764501">
       <reprint.index>
         <heading>Contents</heading>
         <para>
@@ -5073,43 +5067,43 @@
       <reprint.notes>
         <heading>Notes</heading>
         <reprint.note>
-          <label denominator="yes" auto.number="no">1</label>
+          <label auto.number="no" denominator="yes">1</label>
           <heading>General</heading>
           <para>
-            <text>This is a reprint of the Referenda (Postal Voting) Act 2000. The reprint incorporates all the amendments to the Act as at 1 October 2010, as specified in the list of amendments at the end of these notes.</text>
+            <text>This is a reprint of the Referenda (Postal Voting) Act 2000. The reprint incorporates all the amendments to the Act as at 24 January 2009, as specified in the list of amendments at the end of these notes.</text>
           </para>
           <para>
-            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
+            <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
           </para>
         </reprint.note>
         <reprint.note>
-          <label denominator="yes" auto.number="no">2</label>
+          <label auto.number="no" denominator="yes">2</label>
           <heading>Status of reprints</heading>
           <para>
-            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref> of the Acts and Regulations Publication Act 1989</citation>, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in the reprint.</text>
           </para>
           <para>
             <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
           </para>
         </reprint.note>
         <reprint.note>
-          <label denominator="yes" auto.number="no">3</label>
+          <label auto.number="no" denominator="yes">3</label>
           <heading>How reprints are prepared</heading>
           <para>
-            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
           </para>
         </reprint.note>
         <reprint.note>
-          <label denominator="yes" auto.number="no">4</label>
+          <label auto.number="no" denominator="yes">4</label>
           <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref> and <extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
           </para>
           <para>
-            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation>, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
           </para>
           <para>
-            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
             <list>
               <item>
                 <label auto.number="no" denominator="no">•</label>
@@ -5215,11 +5209,8 @@
           </para>
         </reprint.note>
         <reprint.note>
-          <label denominator="yes" auto.number="no">5</label>
-          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
-          <reprint.amend>
-            <citation jurisdiction="nz">Electoral (Administration) Amendment Act 2010 (2010 No 26): <extref href="DLM2469790">section 32(2)(b)</extref></citation>
-          </reprint.amend>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
           <reprint.amend>
             <citation jurisdiction="nz">Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): <extref href="DLM1048943">section 47</extref></citation>
           </reprint.amend>
