@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM118914" in.amend="false" instructing.office="Unknown dept" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="3" act.type="private" date.as.at="2008-04-01" date.assent="1998-10-06" date.first.valid="2007-09-18" stage="reprint" year="1998">
+<act id="DLM118914" in.amend="false" xml:lang="en-NZ" irdnumbering="no" act.no="3" act.type="private" date.as.at="2007-09-03" date.assent="1998-10-06" date.first.valid="2007-09-18" stage="reprint" year="1998">
   <cover id="DLM118915">
-    <reprint-date>2008-04-01</reprint-date>
     <title xml:lang="en-NZ">Public Service Investment Society Limited Act 1998</title>
     <assent>1998-10-06</assent>
-    <commencement>6 October 1998</commencement>
-    <cover.reprint-note>
-      <para>
-        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in this reprint.</text>
-      </para>
-      <para>
-        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
-      </para>
-    </cover.reprint-note>
   </cover>
   <contents>
     <heading xml:lang="en-NZ">Contents</heading>
@@ -21,71 +11,72 @@
   <front id="DLM118916" xml:lang="en-NZ">
     <long-title id="DLM118917" toc="yes" xml:lang="en-NZ">
       <para xml:lang="en-NZ">
-        <text>An Act to enable The Public Service Investment Society Limited to be registered as a company under the Companies Act 1993</text>
+        <text>An Act to enable The Public Service Investment Society Limited to be registered as a company under <citation jurisdiction="nz">The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158240" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM604128" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160490" atidlm:sourceXmlId="DLM604128" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM604128" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="long-title" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/long-title[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="long-title" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="long-title" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
       </para>
     </long-title>
     <preamble id="DLM118918" xml:lang="en-NZ">
-      <heading>Preamble</heading>
+      <heading xml:lang="en-NZ">Preamble</heading>
       <preamble-block id="DLM118919" xml:lang="en-NZ">
-        <para>
-          <text>Whereas:</text>
+        <para xml:lang="en-NZ">
+          <text>WHEREAS:</text>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no">A.</label>
+            <para xml:lang="en-NZ">
+              <text>The Public Service Investment Society Limited is a society incorporated under <citation jurisdiction="nz">The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158241" atidlm:branchLabel="_NOVERSION_" atidlm:name="Industrial and Provident Societies Act 1908" atidlm:xmlId="DLM604129" atidlm:state="UNCHANGED"><atidlm:linkcontent>Industrial and Provident Societies Act 1908</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160491" atidlm:sourceXmlId="DLM604129" atidlm:targetKey="1192895" atidlm:targetXmlId="DLM144405" atidlm:targetName="Industrial and Provident Societies Act 1908" atidlm:sourceName="DLM604129" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/preamble[1]/preamble-block[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> with approximately 130,000 members:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no">B.</label>
+            <para xml:lang="en-NZ">
+              <text>The society wishes to be registered as a company under <citation jurisdiction="nz">The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158242" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM604130" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160492" atidlm:sourceXmlId="DLM604130" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM604130" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/preamble[1]/preamble-block[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> with the initial shares in the company held by the members of the society:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no">C.</label>
+            <para xml:lang="en-NZ">
+              <text><citation jurisdiction="nz">Section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158243" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 14A" atidlm:xmlId="DLM604131" atidlm:state="UNCHANGED"><atidlm:linkcontent>14A</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160493" atidlm:sourceXmlId="DLM604131" atidlm:targetKey="1192919" atidlm:targetXmlId="DLM144629" atidlm:targetName="prov 14A" atidlm:sourceName="DLM604131" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/preamble[1]/preamble-block[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158244" atidlm:branchLabel="_NOVERSION_" atidlm:name="Industrial and Provident Societies Act 1908" atidlm:xmlId="DLM604132" atidlm:state="UNCHANGED"><atidlm:linkcontent>Industrial and Provident Societies Act 1908</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160494" atidlm:sourceXmlId="DLM604132" atidlm:targetKey="1192895" atidlm:targetXmlId="DLM144405" atidlm:targetName="Industrial and Provident Societies Act 1908" atidlm:sourceName="DLM604132" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/preamble[1]/preamble-block[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> enables industrial and provident societies to be registered as companies, but requires an application for registration as a company to be signed by all the initial shareholders:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no">D.</label>
+            <para xml:lang="en-NZ">
+              <text>It is impracticable for the society to obtain the signatures of all its members to an application for registration as a company:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no">E.</label>
+            <para xml:lang="en-NZ">
+              <text>Registration of the society as a company in accordance with <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158245" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 14A" atidlm:xmlId="DLM604133" atidlm:state="UNCHANGED"><atidlm:linkcontent>14A</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160495" atidlm:sourceXmlId="DLM604133" atidlm:targetKey="1192919" atidlm:targetXmlId="DLM144629" atidlm:targetName="prov 14A" atidlm:sourceName="DLM604133" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/preamble[1]/preamble-block[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158246" atidlm:branchLabel="_NOVERSION_" atidlm:name="Industrial and Provident Societies Act 1908" atidlm:xmlId="DLM604134" atidlm:state="UNCHANGED"><atidlm:linkcontent>Industrial and Provident Societies Act 1908</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160496" atidlm:sourceXmlId="DLM604134" atidlm:targetKey="1192895" atidlm:targetXmlId="DLM144405" atidlm:targetName="Industrial and Provident Societies Act 1908" atidlm:sourceName="DLM604134" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/front[1]/preamble[1]/preamble-block[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="preamble-block" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> may result in the company becoming liable for the payment of taxes and duties:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no">F.</label>
+            <para xml:lang="en-NZ">
+              <text>It is not considered appropriate that liability for taxes and duties should be incurred as a result solely of a change in the legal status of the society:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no">G.</label>
+            <para xml:lang="en-NZ">
+              <text>The society wishes that provision is made for other matters in connection with its registration as a company:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no">H.</label>
+            <para xml:lang="en-NZ">
+              <text>Legislation is the only means by which the society can be registered as a company conveniently and without the risk of adverse tax and other consequences:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no" xml:lang="en-NZ">
+            <label auto.number="no" denominator="no">I.</label>
+            <para xml:lang="en-NZ">
+              <text>The objects of this Act can be attained only by legislation:</text>
+            </para>
+          </label-para>
         </para>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="no">A</label>
-          <para xml:lang="en-NZ">
-            <text>The Public Service Investment Society Limited is a society incorporated under <citation jurisdiction="nz">the <leg-title href="DLM144405">Industrial and Provident Societies Act 1908</leg-title></citation> with approximately 130,000 members:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="no">B</label>
-          <para xml:lang="en-NZ">
-            <text>The society wishes to be registered as a company under <citation jurisdiction="nz">the <leg-title href="DLM319569">Companies Act 1993</leg-title></citation> with the initial shares in the company held by the members of the society:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="no">C</label>
-          <para xml:lang="en-NZ">
-            <text><citation jurisdiction="nz"><extref href="DLM144629">Section 14A</extref> of the Industrial and Provident Societies Act 1908</citation> enables industrial and provident societies to be registered as companies, but requires an application for registration as a company to be signed by all the initial shareholders:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="no">D</label>
-          <para xml:lang="en-NZ">
-            <text>It is impracticable for the society to obtain the signatures of all its members to an application for registration as a company:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="no">E</label>
-          <para xml:lang="en-NZ">
-            <text>Registration of the society as a company in accordance with <citation jurisdiction="nz"><extref href="DLM144629">section 14A</extref> of the Industrial and Provident Societies Act 1908</citation> may result in the company becoming liable for the payment of taxes and duties:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="no">F</label>
-          <para xml:lang="en-NZ">
-            <text>It is not considered appropriate that liability for taxes and duties should be incurred as a result solely of a change in the legal status of the society:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="no">G</label>
-          <para xml:lang="en-NZ">
-            <text>The society wishes that provision is made for other matters in connection with its registration as a company:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="no">H</label>
-          <para xml:lang="en-NZ">
-            <text>Legislation is the only means by which the society can be registered as a company conveniently and without the risk of adverse tax and other consequences:</text>
-          </para>
-        </subprov>
-        <subprov skeleton="no">
-          <label auto.number="no" denominator="no">I</label>
-          <para xml:lang="en-NZ">
-            <text>The objects of this Act can be attained only by legislation.</text>
-          </para>
-        </subprov>
       </preamble-block>
     </preamble>
+    <enactment>BE IT THEREFORE ENACTED by the Parliament of New Zealand as follows:</enactment>
   </front>
   <body id="DLM118920" prov-type="section" xml:lang="en-NZ">
     <prov id="DLM118921" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -110,89 +101,89 @@
             <text>In this Act, unless the context otherwise requires,—</text>
             <def-para id="DLM118923" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM118924" xml:lang="en-NZ">board</def-term> means the board of the society</text>
+                <text><def-term id="DLM118924" xml:lang="en-NZ">Board</def-term> means the board of the society</text>
               </para>
             </def-para>
             <def-para id="DLM118925" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM118926" xml:lang="en-NZ">company</def-term> means the company that exists on the registration of the society as a company in accordance with this Act</text>
+                <text><def-term id="DLM118926" xml:lang="en-NZ">Company</def-term> means the company that exists on the registration of the society as a company in accordance with this Act</text>
               </para>
             </def-para>
             <def-para id="DLM118927" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM118928" xml:lang="en-NZ">instrument</def-term> includes—</text>
+                <text><def-term id="DLM118928" xml:lang="en-NZ">Instrument</def-term> includes—</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>an instrument that creates, evidences, modifies, or extinguishes rights, interests, or liabilities or would do so if it or a copy of it were lodged, filed, or registered under an Act; and</text>
+                    <text>An instrument that creates, evidences, modifies, or extinguishes rights, interests, or liabilities or would do so if it or a copy of it were lodged, filed, or registered under an Act; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">b</label>
                   <para xml:lang="en-NZ">
-                    <text>a judgment, order, or process of a court</text>
+                    <text>A judgment, order, or process of a court:</text>
                   </para>
                 </label-para>
               </para>
             </def-para>
             <def-para id="DLM118929" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM118930" xml:lang="en-NZ">liabilities</def-term> means liabilities, debts, charges, duties, and obligations (whether present or future, actual or contingent, or payable or to be observed or performed in New Zealand or elsewhere)</text>
+                <text><def-term id="DLM118930" xml:lang="en-NZ">Liabilities</def-term> means liabilities, debts, charges, duties, and obligations (whether present or future, actual or contingent, or payable or to be observed or performed in New Zealand or elsewhere)</text>
               </para>
             </def-para>
             <def-para id="DLM118931" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM118932" xml:lang="en-NZ">property</def-term> means real or personal property; and includes—</text>
+                <text><def-term id="DLM118932" xml:lang="en-NZ">Property</def-term> means real or personal property; and includes—</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>choses in action and money:</text>
+                    <text>Choses in action and money:</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">b</label>
                   <para xml:lang="en-NZ">
-                    <text>goodwill:</text>
+                    <text>Goodwill:</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">c</label>
                   <para xml:lang="en-NZ">
-                    <text>rights, interests, and claims in or to property, whether arising from, accruing under, created or evidenced by, or the subject of, an instrument and whether liquidated or unliquidated, actual, contingent, or prospective</text>
+                    <text>Rights, interests, and claims in or to property, whether arising from, accruing under, created or evidenced by, or the subject of, an instrument and whether liquidated or unliquidated, actual, contingent, or prospective:</text>
                   </para>
                 </label-para>
               </para>
             </def-para>
             <def-para id="DLM118933" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM118934" xml:lang="en-NZ">rights</def-term> means rights, powers, privileges, and immunities, whether actual, contingent, or prospective</text>
+                <text><def-term id="DLM118934" xml:lang="en-NZ">Rights</def-term> means rights, powers, privileges, and immunities, whether actual, contingent, or prospective</text>
               </para>
             </def-para>
             <def-para id="DLM118935" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM118936" xml:lang="en-NZ">security</def-term>—</text>
+                <text><def-term id="DLM118936" xml:lang="en-NZ">Security</def-term>—</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">a</label>
                   <para xml:lang="en-NZ">
-                    <text>means a mortgage, charge (whether legal or equitable), debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of an obligation or liability and whether on demand or not, present or future, actual or contingent; and</text>
+                    <text>Means a mortgage, charge (whether legal or equitable), debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of an obligation or liability and whether on demand or not, present or future, actual or contingent; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">b</label>
                   <para xml:lang="en-NZ">
-                    <text>includes an agreement or undertaking to give or execute whether on demand or not any of the things referred to in paragraph (a)</text>
+                    <text>Includes an agreement or undertaking to give or execute whether on demand or not any of the things referred to in <citation jurisdiction="nz">paragraph <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158247" atidlm:branchLabel="_NOVERSION_" atidlm:name="def-para Security" atidlm:xmlId="DLM604135" atidlm:state="UNCHANGED"><atidlm:linkcontent>(a)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160497" atidlm:sourceXmlId="DLM604135" atidlm:targetKey="974621" atidlm:targetXmlId="DLM118935" atidlm:targetName="def-para Security" atidlm:sourceName="DLM604135" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[2]/prov.body[1]/subprov[1]/para[1]/def-para[7]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para Security" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>:</text>
                   </para>
                 </label-para>
               </para>
             </def-para>
             <def-para id="DLM118937" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM118938" xml:lang="en-NZ">society</def-term> means The Public Service Investment Society Limited, a society registered under <citation jurisdiction="nz">the <leg-title href="DLM144405">Industrial and Provident Societies Act 1908</leg-title></citation></text>
+                <text><def-term id="DLM118938" xml:lang="en-NZ">Society</def-term> means The Public Service Investment Society Limited, a society registered under <citation jurisdiction="nz">The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158248" atidlm:branchLabel="_NOVERSION_" atidlm:name="Industrial and Provident Societies Act 1908" atidlm:xmlId="DLM604136" atidlm:state="UNCHANGED"><atidlm:linkcontent>Industrial and Provident Societies Act 1908</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160498" atidlm:sourceXmlId="DLM604136" atidlm:targetKey="1192895" atidlm:targetXmlId="DLM144405" atidlm:targetName="Industrial and Provident Societies Act 1908" atidlm:sourceName="DLM604136" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[2]/prov.body[1]/subprov[1]/para[1]/def-para[8]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="def-para" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="def-para Society" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
               </para>
             </def-para>
             <def-para id="DLM118939" xml:lang="en-NZ">
               <para xml:lang="en-NZ">
-                <text><def-term id="DLM118940" xml:lang="en-NZ">undertaking</def-term> means the property, rights, and liabilities of the society.</text>
+                <text><def-term id="DLM118940" xml:lang="en-NZ">Undertaking</def-term> means the property, rights, and liabilities of the society.</text>
               </para>
             </def-para>
           </para>
@@ -206,13 +197,13 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>The society may, by special resolution, decide to apply to be registered as a company under <citation jurisdiction="nz">the <leg-title href="DLM319569">Companies Act 1993</leg-title></citation>.</text>
+            <text>The society may, by special resolution, decide to apply to be registered as a company under <citation jurisdiction="nz">The <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158249" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM604137" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160499" atidlm:sourceXmlId="DLM604137" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM604137" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Society may decide to be registered as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text>The special resolution must be passed in the manner prescribed by <citation jurisdiction="nz"><extref href="DLM144624">section 14</extref> of the Industrial and Provident Societies Act 1908</citation>.</text>
+            <text>The special resolution must be passed in the manner prescribed by <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158250" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 14" atidlm:xmlId="DLM604138" atidlm:state="UNCHANGED"><atidlm:linkcontent>14</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160500" atidlm:sourceXmlId="DLM604138" atidlm:targetKey="1192917" atidlm:targetXmlId="DLM144624" atidlm:targetName="prov 14" atidlm:sourceName="DLM604138" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Society may decide to be registered as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158251" atidlm:branchLabel="_NOVERSION_" atidlm:name="Industrial and Provident Societies Act 1908" atidlm:xmlId="DLM604139" atidlm:state="UNCHANGED"><atidlm:linkcontent>Industrial and Provident Societies Act 1908</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160501" atidlm:sourceXmlId="DLM604139" atidlm:targetKey="1192895" atidlm:targetXmlId="DLM144405" atidlm:targetName="Industrial and Provident Societies Act 1908" atidlm:sourceName="DLM604139" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Society may decide to be registered as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
       </prov.body>
@@ -224,13 +215,13 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>The board may, at any time, deliver to the Registrar of Companies a copy of the special resolution and an application for registration under <citation jurisdiction="nz"><extref href="DLM320111">section 12</extref> of the Companies Act 1993</citation>.</text>
+            <text>The board may, at any time, deliver to the Registrar of Companies a copy of the special resolution and an application for registration under <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158252" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 12" atidlm:xmlId="DLM604140" atidlm:state="UNCHANGED"><atidlm:linkcontent>12</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160502" atidlm:sourceXmlId="DLM604140" atidlm:targetKey="1638804" atidlm:targetXmlId="DLM320111" atidlm:targetName="prov 12" atidlm:sourceName="DLM604140" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM320106.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Registration as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="4" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158253" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM604141" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160503" atidlm:sourceXmlId="DLM604141" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM604141" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Registration as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="4" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">2</label>
           <para xml:lang="en-NZ">
-            <text><citation jurisdiction="nz"><extref href="DLM320111">Section 12(1)(d)</extref> of the Companies Act 1993</citation> (which requires the initial shareholders to consent in writing to becoming shareholders) does not apply to the application. Instead, the application and any other documents required to accompany it may be signed by 2 members of the board.</text>
+            <text><citation jurisdiction="nz">Section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158254" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 12" atidlm:xmlId="DLM604142" atidlm:state="UNCHANGED"><atidlm:linkcontent>12(1)(d)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160504" atidlm:sourceXmlId="DLM604142" atidlm:targetKey="1638804" atidlm:targetXmlId="DLM320111" atidlm:targetName="prov 12" atidlm:sourceName="DLM604142" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM320106.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Registration as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="4" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158255" atidlm:branchLabel="_NOVERSION_" atidlm:name="Companies Act 1993" atidlm:xmlId="DLM604143" atidlm:state="UNCHANGED"><atidlm:linkcontent>Companies Act 1993</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160505" atidlm:sourceXmlId="DLM604143" atidlm:targetKey="1637803" atidlm:targetXmlId="DLM319569" atidlm:targetName="Companies Act 1993" atidlm:sourceName="DLM604143" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM319569.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Registration as company" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="4" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> (which requires the initial shareholders to consent in writing to becoming shareholders) does not apply to the application. Instead, the application and any other documents required to accompany it may be signed by 2 members of the board.</text>
           </para>
         </subprov>
         <subprov skeleton="no" xml:lang="en-NZ">
@@ -240,13 +231,13 @@
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>register the application; and</text>
+                <text>Register the application; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>issue a certificate of incorporation.</text>
+                <text>Issue a certificate of incorporation.</text>
               </para>
             </label-para>
           </para>
@@ -360,31 +351,31 @@
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>places the society, the company, or any other person in breach of contract or confidence or makes any of them liable for a civil wrong; or</text>
+                <text>Places the society, the company, or any other person in breach of contract or confidence or makes any of them liable for a civil wrong; or</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>entitles a person to terminate or cancel a contract or arrangement or to accelerate the performance of an obligation; or</text>
+                <text>Entitles a person to terminate or cancel a contract or arrangement or to accelerate the performance of an obligation; or</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">c</label>
               <para xml:lang="en-NZ">
-                <text>places the society, the company, or any other person in breach of an enactment, a rule of law, or a provision of a contract that prohibits, restricts, or regulates the assignment or transfer of property or the disclosure of information; or</text>
+                <text>Places the society, the company, or any other person in breach of an enactment, a rule of law, or a provision of a contract that prohibits, restricts, or regulates the assignment or transfer of property or the disclosure of information; or</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">d</label>
               <para xml:lang="en-NZ">
-                <text>releases a surety from an obligation; or</text>
+                <text>Releases a surety from an obligation; or</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">e</label>
               <para xml:lang="en-NZ">
-                <text>invalidates or discharges a contract or security.</text>
+                <text>Invalidates or discharges a contract or security.</text>
               </para>
             </label-para>
           </para>
@@ -434,27 +425,27 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">1</label>
           <para xml:lang="en-NZ">
-            <text>For the purposes of the Inland Revenue Acts (as that term is defined in <citation jurisdiction="nz"><extref href="DLM348353">section 3</extref> of the Tax Administration Act 1994</citation>),—</text>
+            <text>For the purposes of the Inland Revenue Acts (as that term is defined in <citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158256" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 3" atidlm:xmlId="DLM604144" atidlm:state="UNCHANGED"><atidlm:linkcontent>3</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160506" atidlm:sourceXmlId="DLM604144" atidlm:targetKey="1890380" atidlm:targetXmlId="DLM348353" atidlm:targetName="prov 3" atidlm:sourceName="DLM604144" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM348350.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[13]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxes and duties" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="13" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158257" atidlm:branchLabel="_NOVERSION_" atidlm:name="Tax Administration Act 1994" atidlm:xmlId="DLM604145" atidlm:state="UNCHANGED"><atidlm:linkcontent>Tax Administration Act 1994</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160507" atidlm:sourceXmlId="DLM604145" atidlm:targetKey="1884207" atidlm:targetXmlId="DLM348342" atidlm:targetName="Tax Administration Act 1994" atidlm:sourceName="DLM604145" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM348342.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[13]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxes and duties" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="13" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>),—</text>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>the society and the company are the same person; and</text>
+                <text>The society and the company are the same person; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>a transaction entered into by, and an act of, the society must be treated—</text>
+                <text>A transaction entered into by, and an act of, the society must be treated—</text>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">i</label>
                   <para xml:lang="en-NZ">
-                    <text>as having been entered into by, or as an act of, the company; and</text>
+                    <text>As having been entered into by, or as an act of, the company; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no" xml:lang="en-NZ">
                   <label auto.number="no" denominator="yes">ii</label>
                   <para xml:lang="en-NZ">
-                    <text>as having been entered into, or performed by, the company at the time it was entered into, or performed by, the society.</text>
+                    <text>As having been entered into, or performed by, the company at the time it was entered into, or performed by, the society.</text>
                   </para>
                 </label-para>
               </para>
@@ -468,13 +459,13 @@
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">a</label>
               <para xml:lang="en-NZ">
-                <text>the person acquired the voting interest or the market value interest in the company after its registration; and</text>
+                <text>The person acquired the voting interest or the market value interest in the company after its registration; and</text>
               </para>
             </label-para>
             <label-para skeleton="no" xml:lang="en-NZ">
               <label auto.number="no" denominator="yes">b</label>
               <para xml:lang="en-NZ">
-                <text>immediately prior to the cancellation of the registration of the society the person was a member of the society and the interest in the company was acquired solely by virtue of that membership.</text>
+                <text>Immediately prior to the cancellation of the registration of the society the person was a member of the society and the interest in the company was acquired solely by virtue of that membership.</text>
               </para>
             </label-para>
           </para>
@@ -482,24 +473,24 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>The terms <def-term id="DLM118952" xml:lang="en-NZ">voting interest</def-term> and <def-term id="DLM118953" xml:lang="en-NZ">market value interest</def-term> have the same meanings as they have in <citation jurisdiction="nz">the <insertwords><citation jurisdiction="nz">Income Tax Act 2007</citation></insertwords></citation>.</text>
+            <text>The terms <def-term id="DLM118952" xml:lang="en-NZ">voting interest</def-term> and <def-term id="DLM118953" xml:lang="en-NZ">market value interest</def-term> have the same meanings as they have in <citation jurisdiction="nz">The <insertwords><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158258" atidlm:branchLabel="_NOVERSION_" atidlm:name="Income Tax Act 2004" atidlm:xmlId="DLM604146" atidlm:state="UNCHANGED"><atidlm:linkcontent>Income Tax Act 2004</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160508" atidlm:sourceXmlId="DLM604146" atidlm:targetKey="1426408" atidlm:targetXmlId="DLM245341" atidlm:targetName="Income Tax Act 2004" atidlm:sourceName="DLM604146" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM245341.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[13]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Taxes and duties" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="13" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></insertwords></citation>.</text>
           </para>
         </subprov>
       </prov.body>
       <notes>
         <history>
-          <history-note id="DLM1273701"><amended-provision>Section 13(3)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008</amendment-date> (effective for 2008–09 income year and later), by <amending-provision href="DLM1523176">section ZA 2(1)</amending-provision> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
+          <history-note id="DLM118954">Subsection <amended-provision>(3)</amended-provision> was <amending-operation>amended</amending-operation>, as from <amendment-date>1 April 2005</amendment-date>, by section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158259" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov YA 2" atidlm:xmlId="DLM604147" atidlm:state="UNCHANGED"><atidlm:linkcontent>YA 2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="160509" atidlm:sourceXmlId="DLM604147" atidlm:targetKey="1648402" atidlm:targetXmlId="DLM277147" atidlm:targetName="prov YA 2" atidlm:sourceName="DLM604147" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM277144.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[13]/notes[1]/history[1]/history-note[1]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="history-note" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> <amending-leg>Income Tax Act 2004</amending-leg> (2004 No 35) <amending-instruction>by substituting the words <quote.in>Income Tax Act 2004</quote.in> for the words <quote.in>Income Tax Act 1994</quote.in></amending-instruction>.</history-note>
         </history>
       </notes>
     </prov>
     <prov id="DLM118955" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">14</label>
-      <heading xml:lang="en-NZ">Application of sections 14A and 14B of Industrial and Provident Societies Act 1908</heading>
+      <heading xml:lang="en-NZ">Application of <citation jurisdiction="nz">sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158260" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 14A" atidlm:xmlId="DLM604148" atidlm:state="UNCHANGED"><atidlm:linkcontent>14A</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160510" atidlm:sourceXmlId="DLM604148" atidlm:targetKey="1192919" atidlm:targetXmlId="DLM144629" atidlm:targetName="prov 14A" atidlm:sourceName="DLM604148" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[14]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application of sections 14A and 14B of Industrial and Provident Societies Act 1908" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="14" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158261" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 14B" atidlm:xmlId="DLM604149" atidlm:state="UNCHANGED"><atidlm:linkcontent>14B</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160511" atidlm:sourceXmlId="DLM604149" atidlm:targetKey="1192921" atidlm:targetXmlId="DLM144631" atidlm:targetName="prov 14B" atidlm:sourceName="DLM604149" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[14]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application of sections 14A and 14B of Industrial and Provident Societies Act 1908" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="14" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158262" atidlm:branchLabel="_NOVERSION_" atidlm:name="Industrial and Provident Societies Act 1908" atidlm:xmlId="DLM604150" atidlm:state="UNCHANGED"><atidlm:linkcontent>Industrial and Provident Societies Act 1908</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160512" atidlm:sourceXmlId="DLM604150" atidlm:targetKey="1192895" atidlm:targetXmlId="DLM144405" atidlm:targetName="Industrial and Provident Societies Act 1908" atidlm:sourceName="DLM604150" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[14]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application of sections 14A and 14B of Industrial and Provident Societies Act 1908" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="14" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></heading>
       <prov.body>
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="no"/>
           <para xml:lang="en-NZ">
-            <text><citation jurisdiction="nz"><extref href="DLM144629">Sections 14A</extref> and <extref href="DLM144631">14B</extref> of the Industrial and Provident Societies Act 1908</citation> do not apply to the society or the company.</text>
+            <text><citation jurisdiction="nz">Sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158263" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 14A" atidlm:xmlId="DLM604151" atidlm:state="UNCHANGED"><atidlm:linkcontent>14A</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160513" atidlm:sourceXmlId="DLM604151" atidlm:targetKey="1192919" atidlm:targetXmlId="DLM144629" atidlm:targetName="prov 14A" atidlm:sourceName="DLM604151" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[14]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application of sections 14A and 14B of Industrial and Provident Societies Act 1908" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="14" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158264" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 14B" atidlm:xmlId="DLM604152" atidlm:state="UNCHANGED"><atidlm:linkcontent>14B</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="160514" atidlm:sourceXmlId="DLM604152" atidlm:targetKey="1192921" atidlm:targetXmlId="DLM144631" atidlm:targetName="prov 14B" atidlm:sourceName="DLM604152" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[14]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application of sections 14A and 14B of Industrial and Provident Societies Act 1908" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="14" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="158265" atidlm:branchLabel="_NOVERSION_" atidlm:name="Industrial and Provident Societies Act 1908" atidlm:xmlId="DLM604153" atidlm:state="UNCHANGED"><atidlm:linkcontent>Industrial and Provident Societies Act 1908</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="leg-title" atidlm:isIncludeOrRef="1" atidlm:seqNum="160515" atidlm:sourceXmlId="DLM604153" atidlm:targetKey="1192895" atidlm:targetXmlId="DLM144405" atidlm:targetName="Industrial and Provident Societies Act 1908" atidlm:sourceName="DLM604153" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM144405.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM118914.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[14]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Application of sections 14A and 14B of Industrial and Provident Societies Act 1908" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="14" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM118914" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Public Service Investment Society Limited Act 1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="1998" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> do not apply to the society or the company.</text>
           </para>
         </subprov>
       </prov.body>
@@ -517,197 +508,4 @@
       </prov.body>
     </prov>
   </body>
-  <end id="DLM1273702">
-    <end.reprint-note id="DLM2831603">
-      <reprint.index>
-        <heading>Contents</heading>
-        <para>
-          <list>
-            <item>
-              <label auto.number="no" denominator="no">1</label>
-              <para>
-                <text>General</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">2</label>
-              <para>
-                <text>Status of reprints</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">3</label>
-              <para>
-                <text>How reprints are prepared</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">4</label>
-              <para>
-                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">5</label>
-              <para>
-                <text>List of amendments incorporated in this reprint (most recent first)</text>
-              </para>
-            </item>
-          </list>
-        </para>
-      </reprint.index>
-      <reprint.notes>
-        <heading>Notes</heading>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">1</label>
-          <heading>General</heading>
-          <para>
-            <text>This is a reprint of the Public Service Investment Society Limited Act 1998. The reprint incorporates all the amendments to the Act as at 1 April 2008, as specified in the list of amendments at the end of these notes.</text>
-          </para>
-          <para>
-            <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">2</label>
-          <heading>Status of reprints</heading>
-          <para>
-            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref> of the Acts and Regulations Publication Act 1989</citation>, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in the reprint.</text>
-          </para>
-          <para>
-            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">3</label>
-          <heading>How reprints are prepared</heading>
-          <para>
-            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">4</label>
-          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
-          <para>
-            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref> and <extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
-          </para>
-          <para>
-            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation>, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
-          </para>
-          <para>
-            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>layout of provisions, including:</text>
-                  <list>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>indentation</text>
-                      </para>
-                    </item>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
-                      </para>
-                    </item>
-                  </list>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>punctuation (eg, colons are not used after definitions)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>case and appearance of letters and words, including:</text>
-                  <list>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
-                      </para>
-                    </item>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>small capital letters in section and subsection references are now capital letters</text>
-                      </para>
-                    </item>
-                  </list>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>running heads (the information that appears at the top of each page)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
-                </para>
-              </item>
-            </list>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">5</label>
-          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
-          <reprint.amend>
-            <citation jurisdiction="nz">Income Tax Act 2007 (2007 No 97): <amending-provision href="DLM1523176">section ZA 2(1)</amending-provision></citation>
-          </reprint.amend>
-        </reprint.note>
-      </reprint.notes>
-    </end.reprint-note>
-  </end>
 </act>
