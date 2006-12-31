@@ -1,251 +1,1156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM1099900" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2008" bill.no="183" bill.type="government" stage="2" year="2007">
+<bill id="DLM1099900" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2007" bill.no="183" bill.type="government" stage="1" year="2007">
   <billdetail>
     <title>Children, Young Persons, and Their Families Amendment Bill (No 6)</title>
     <billtype xml:lang="en-NZ">Government Bill</billtype>
-    <repnote>As reported from the Social Services Committee</repnote>
-    <commentary id="DLM1485500" in.amend="false" irdnumbering="no" official="yes" bill.no="183" bill.type="government" stage="2" year="2007">
-      <heading>Commentary</heading>
-      <comm.lev1>
-        <heading>Recommendation</heading>
+    <explnote id="DLM1099901" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="183" bill.type="government" stage="1" year="2007">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
         <para>
-          <text>The Social Services Committee has examined the Children, Young Persons, and Their Families Amendment Bill (No 6) and recommends, by majority, that it be passed with the amendments shown.</text>
+          <text>The Bill amends the Children, Young Persons, and Their Families Act 1989 (the <def-term id="DLM1099902">Act</def-term>) to give better effect to the Act’s objectives and principles, enable or direct best practice, and strengthen the effectiveness of family group conferences. The Bill covers care and protection of, and offending by, children and young persons.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Introduction</heading>
+        <explnote.subhead1>Background</explnote.subhead1>
         <para>
-          <text>This bill makes changes to the Children, Young Persons, and Their Families Act 1989 (the principal Act), relating to the care and protection of children and young persons, youth justice, and child offending, and addresses out-of-home care for children and young persons with disabilities. It also increases the upper age covered by the care and protection and youth justice systems to include young persons aged 17.</text>
+          <text>The Act provides the foundation for government action to protect vulnerable children and young persons. It determines the basis and the nature of government intervention to protect and help children and young persons who are being abused or neglected, who have problem behaviour, or who commit an offence. The Act states principles that guide action taken under the Act, and ensures family participation in decisions that affect children and young persons through the family group conference.</text>
         </para>
         <para>
-          <text>The recommended amendments set out below would not make major changes to the bill, but would rather clarify its intentions and address some important omissions.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Access to complaints procedures</heading>
-        <para>
-          <text>Clause 5(1) requires the chief executive to have procedures to address complaints from children, young persons, or their family groups. We recommend that this clause be amended to clarify that caregivers would also be able to access these complaints procedures. This amendment would ensure that caregivers are a priority for Child, Youth and Family; we believe that their right to make complaints regarding children in their care should be made absolutely clear in the bill. We also recommend amending clause 5 to define “caregiver” as a person or organisation in whose charge the chief executive has placed a child or young person under section 362 of the principal Act.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Responses to reports of child abuse</heading>
-        <para>
-          <text>Clause 10 is intended to ensure a proper response to each child abuse report received, and to allow the responses of Child, Youth and Family to be co-ordinated with those of non-governmental organisations. We recommend amending new section 17B(e) as inserted by clause 10 to insert “or member of the police”. New section 17B requires social workers or members of the police to bear in mind certain matters when responding to child abuse reports, but paragraph (e) inadvertently omits to mention members of the police when requiring them to have regard to any other matters they may deem relevant. </text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>New procedures for dealing with child offending</heading>
-        <para>
-          <text>We recommend several amendments to clause 18 regarding offending by children. </text>
+          <text>The period since the passage of the Act has seen rapid development in relevant practice, and the enactment of modern child welfare legislation overseas, with many jurisdictions adopting and adapting key elements of New Zealand’s legislation. The Act also predates significant relevant developments such as New Zealand’s ratification in 1993 of the United Nations Convention on the Rights of the Child (which was opened for signature in 1989), and the enactment of the Sentencing Act 2002, Victims’ Rights Act 2002, and Care of Children Act 2004.</text>
         </para>
         <para>
-          <text>We are aware that new section 73F as inserted by clause 18 might be interpreted to mean that civil proceedings as well as criminal proceedings must be commenced using an information under the Summary Proceedings Act 1981. As it may be inappropriate to commence proceedings in a civil jurisdiction this way, we recommend that new section 73F(2) to (5) be omitted, and consider this issue would be dealt with better by an amendment to the Family Court Rules.</text>
+          <text>In looking at how care and protection and youth justice legislation has developed overseas since 1989, a number of areas have been identified where elements found in our legislation have been incorporated and, in some cases, strengthened or expanded. This was most evident in the following areas:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>collaboration between agencies:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>complaints resolution and professional practice reviews:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the participation of children and young persons in matters affecting them:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>young persons’ transition from care to independence.</text>
+              </para>
+            </item>
+          </list>
         </para>
         <para>
-          <text>We also recommend an amendment to new section 73I in clause 18 requiring the Court, where practicable, to appoint for a child offender in criminal cases a barrister and solicitor who is qualified for appointment as a youth advocate under the principal Act. We believe that this amendment is necessary for practical reasons, as youth advocates are more likely than most lawyers who appear in the Family Court to be experienced in criminal proceedings. Furthermore, given that offending must be proved to a criminal standard, experienced criminal lawyers should, where possible, represent children charged with committing criminal offences.</text>
+          <text>A large number of amendments were suggested in consultation with practitioners and stakeholders. The following aspects of the Act were identified as needing to be updated or improved:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the upper age covered by the Act (including 17-year-olds in the definition of young person for provisions of the Act):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>information sharing between agencies:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the role of the chief social worker:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>care and protection family group conference processes:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the disability provisions:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>how child offending is dealt with:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>youth justice, including victim provisions and Youth Court orders.</text>
+              </para>
+            </item>
+          </list>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Young people charged jointly with adults</heading>
+        <explnote.subhead1>Main changes to existing law</explnote.subhead1>
+        <explnote.subhead2>Changes that impact across principal Act</explnote.subhead2>
         <para>
-          <text>Clause 33 of the bill amends section 277, which currently states that the Youth Court can decide where a preliminary hearing of proceedings involving a young person jointly charged with an adult can be heard. We are concerned that this would result in significant disadvantage to young people, and therefore we recommend amending section 277 so that it is subject to section 274. This should make it clear that cases where a young person is jointly charged with an adult for purely indictable offences, and cases tried by a jury, must be heard in the Youth Court and not an adult Court. We note previous uncertainty regarding the interaction of sections 274 and 277 as they relate to this issue, and believe this change would clarify the matter and prevent further confusion.</text>
+          <text>The Act is amended to—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>increase the upper age in the definition of a young person to include 17-year-olds:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>require the chief executive of the Ministry of Social Development (<def-term id="DLM1099903">MSD</def-term>) to prepare and implement policies and procedures to promptly and appropriately address and resolve individual complaints by children, young persons, and their families, whanau, or family groups:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>ensure the chief executive of MSD prepares and implements procedures for reviews of professional best practice under the Act: this amendment will support Child, Youth and Family rapidly and accurately identifying areas for practice development or improvement:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>ensure that at all times an employee is appointed or designated as the chief social worker.</text>
+              </para>
+            </item>
+          </list>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Remission from custodial orders</heading>
+        <explnote.subhead2>Changes to care and protection provisions</explnote.subhead2>
         <para>
-          <text>We recommend a change to new clause 46 dealing with the convening or reconvening of family group conferences to consider a young offender’s early release from custodial orders, to make its intention clearer. As introduced, new section 314B(3)  requires a youth justice co-ordinator to convene or reconvene a family group conference once an extended supervision with residence order is made; and it is unclear whether this requirement could be waived in the specific circumstances set out in section 248 as to when a conference can be waived. To clear up any confusion, we recommend amending new section 314B(3) so that section 248 would not apply to family group conferences convened or reconvened pursuant to new section 314A(3)(a). This would make it clear that conferences convened or reconvened under new section 314A(3)(a) could not be waived under any circumstances. </text>
+          <text>The Act is amended to—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>make clear when government and non-government organisations can appropriately share information about the safety, welfare, and wellbeing of children and young persons, and to protect people who assist inquiries, under the Act, about children or young persons:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>reinforce the important role of service collaboration and information sharing amongst agencies, both government and non-government, to enable those agencies to consider the needs of children and young persons and provide appropriate responses when care and protection concerns are reported:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>strengthen participation of children and young persons in all care and protection processes, and especially around family group conference planning, orders, and reviews:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>ensure family group conferences are timely, well-informed, and managed to achieve the best outcomes for children and young persons:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>improve support for young persons leaving the long-term care of the State as they make the transition from care to independence.</text>
+              </para>
+            </item>
+          </list>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Liquor infringement notices</heading>
+        <explnote.subhead2>Changes to disabled children and young persons provisions</explnote.subhead2>
         <para>
-          <text>At present there is uncertainty over whether young people under the age of 17 should be prosecuted in the Youth Court or an adult court for an offence resulting in a liquor infringement notice. These notices are issued when someone under 18 years of age is caught purchasing liquor from licensed premises, found in a restricted area on licensed premises, or caught drinking liquor in a public place. As these notices are meant to be diversionary in effect, we recommend amending the bill by inserting new clauses 32A and 54A to make it clear that non-imprisonable offences under the Sale of Liquor Act 1989 and under section 38(3) of the Summary Offences Act for which an infringement notice may be given will not come under the jurisdiction of the Youth Court, but an adult court. </text>
+          <text>The Act is amended to improve and clarify the current provisions for disabled children and young persons in out-of-home placement. The amendments will ensure other family support and care options are properly explored before agreements for long-term out-of-family care are entered into. Where agreements for out-of-family care are required, the changes will ensure regular family group conference review and monitoring of placements. These amendments will ensure the disability provisions reflect better the Act’s principles.</text>
         </para>
+        <explnote.subhead2>Changes to child offender and youth justice provisions</explnote.subhead2>
         <para>
-          <text>We believe this amendment would make the use of such notices more effective, as the Police would be able to deal with these offences more quickly than the youth aid process allows, and more able than they are at present to ensure the offending has a consequence for the offender. We also note that such an amendment would bring liquor infringement notices into line with the way traffic infringement notices for young persons are dealt with by the courts.</text>
+          <text>The Act is amended to—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>improve the child offender provisions by grouping and simplifying them:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>clarify applicable principles and options available for holding child offenders accountable:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>address the role of adults in child offending:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>strengthen victims’ provisions:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>assist young persons, their families, and victims to achieve more effective outcomes:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>enhance Youth Court orders by—</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>introducing 2 new Youth Court orders—an extended supervision with residence order and an extended supervision with activity order:</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>increasing the flexibility of the Youth Court and removing the need for the young person’s consent to community based orders:</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>enabling the Youth Court to make orders in a more timely and effective manner when discharging proceedings against a young person:</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>making the remission of supervision with residence orders subject to further conditions (about the young person’s behaviour and adherence to his or her plan).</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+            </item>
+          </list>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Victims offered information on offender’s progress</heading>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 1</emphasis> specifies the Title the Bill will have when enacted.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 2</emphasis> is the commencement clause. Specified provisions come into force on a date to be appointed (because the completion date of necessary preparatory work cannot currently be predicted accurately). These provisions relate to the following 7 matters:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>including 17-year-olds in the definition of young person for provisions on care or protection:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>including 17-year-olds in the definition of young person for provisions on youth justice:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>child offending:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>young persons’ transition from care to independence:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>split sentencing in the Youth Court for supervision with activity orders and supervision with residence orders:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the new extended supervision with activity order:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the new extended supervision with residence order.</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 51(4)</emphasis>, which amends section 10A(a) of the Summary Offences Act 1981, comes into force when 17-year-olds are, for all or any purposes, first included in the definition of young person.</text>
+          </para>
+        </clause.desc>
         <para>
-          <text>We recommend that clause 32 be amended so that the title of new section 269A clearly indicates that the chief executive has a duty to inform victims of a child or young offender’s progress, if the victims so wish. As it currently stands, the section title could be interpreted to mean the chief executive has discretionary power, rather than a duty, to inform. This amendment would also make it clear that victims do not have to receive information if they do not want to, a point we consider should be made clearer since some victims would undoubtedly not wish to be kept informed at all.</text>
+          <text>All other provisions come into force 3 months after the date on which the Bill receives the Royal assent.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Victims entitled to effectiveness reports</heading>
-        <para>
-          <text>We recommend that clause 47, which allows the informant and the victim of a child or youth offender to receive a copy of an effectiveness report, be amended to clarify that section 339 of the principal Act applies to these reports.  Section 339 enables a court to limit the disclosure of reports provided to it, and we believe that making effectiveness reports subject to this section would afford some judicial protection for young offenders’ privacy, particularly if some information in the report is irrelevant or should not be disclosed. </text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Commencement clause</heading>
-        <para>
-          <text>We recommend amending clause 2 to provide for clause 10 of the bill, which deals with responding to reports of child abuse, to come into force on 1 August 2009, rather than three months after the date on which the bill receives the Royal assent, as is currently stated in clause 2(5). Child and family assessments will be available from all Child, Youth and Family sites by July 2009. It is therefore important that differential response provisions come into force at the same time. We also recommend that clause 2 be amended so that new clause 53A comes into force on 1 August 2009. New clause 53A is a consequential amendment relating to new sections 17 and 17A, which deal with initial assessments to reports of child abuse and actions following the initial assessments. In addition, we recommend that the commencement date for the other provisions of the bill covered by clause 2(5) be changed to 1 April 2009, rather than three months after the date on which the bill receives Royal assent, to ensure that the legislation would come into force on a fixed and convenient date.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Transitional and technical amendments</heading>
-        <para>
-          <text>We recommend a number of transitional and technical amendments. </text>
-        </para>
-        <comm.lev2>
-          <heading>Technical amendments</heading>
+        <clause.desc>
           <para>
-            <text>We recommend that new section 73G of clause 18 be amended to clarify that the reference to “criminal proceedings” in youth justice principles should be interpreted as including reference to child offender proceedings under new section 73F. We also recommend that new section 73N of this clause be amended to clarify that the new grounds for making restraining orders against an adult who has promoted, directed, induced, or profited from child offending are additional to, not substituted for, existing powers for making a restraining order as set out in section 87 of the principal Act.</text>
+            <text><emphasis style="italic">Clause 3</emphasis> specifies the principal Act amended. (A reference in this analysis to a section is, unless stated otherwise, a reference to a section of the principal Act.)</text>
+          </para>
+        </clause.desc>
+        <explnote.part id="DLM1099904">
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>Substantive amendments to principal Act</heading>
+          <explnote.crosshead>Definitions amended and inserted</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4(1), (2), and (3)</emphasis> amend the definition of young person to raise the upper age to 18 years. This extends the coverage of the principal Act to include 17-year-olds, bringing the principal Act into line with the United Nations Convention on the Rights of the Child. (For the purposes of that Convention, a child means a human being below the age of 18 years unless under the law applicable to the child, majority is attained earlier: article 1.)</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4(1)</emphasis> substitutes in section 2(1) a new definition of <def-term id="DLM1099905">young person</def-term>. The new definition does not make any substantive change. Its purpose is only to enable the term to have different meanings in different provisions (which may occur if <emphasis style="italic">clauses 4(2) and (3)</emphasis> are brought into force on different dates). (<emphasis style="italic">Clause 51(1) and Part 1 of Schedule 1</emphasis> make related consequential amendments.)</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4(2)</emphasis> includes 17-year-olds in the definition of young person for provisions on care or protection. (<emphasis style="italic">Clause 51(2) and (4) and Part 2 of Schedule 1</emphasis> make related consequential amendments.)</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4(3)</emphasis> includes 17-year-olds in the definition of young person for provisions on youth justice. (<emphasis style="italic">Clause 51(3) and (4) and Parts 3 and 4 of Schedule 1</emphasis> make related consequential amendments.)</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4(4)</emphasis> inserts in section 2(1) the following definitions:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>chief social worker (used, for example, in <emphasis style="italic">new section 7B</emphasis> inserted by <emphasis style="italic">clause 6</emphasis>):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>child and family assessment (used, for example, in <emphasis style="italic">new sections 17A, 17B, 17D, and 17F</emphasis> inserted by <emphasis style="italic">clause 10</emphasis>).</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Duties of chief executive</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5(1)</emphasis> amends section 7(2) to place a new duty on the chief executive to have procedures in place to receive, hear, determine, and address complaints from children and young persons in respect of whom action has been taken under the principal Act, or their families, whanau, or family groups.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5(2)</emphasis> adds a <emphasis style="italic">new section 7(3)</emphasis>, which recognises that the chief executive may arrange for reviews of practices and procedures under <emphasis style="italic">new section 7C</emphasis> (inserted by <emphasis style="italic">clause 6</emphasis>).</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Appointment and functions of chief social worker, practice reviews, and provision of services</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> inserts <emphasis style="italic">new sections 7A to 7C</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <para>
+            <text><emphasis style="italic">New section 7A</emphasis> provides for the formal appointment or designation of a chief social worker by the chief executive and sets out the chief social worker’s functions. These include the conduct of practice reviews.</text>
           </para>
           <para>
-            <text>In addition, we recommend inserting new clause 32B to amend section 274(2)(a) of the principal Act to provide for the application of Part 5A of the Summary Proceedings Act to preliminary hearings in the Youth Court.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Transitional amendments</heading>
-          <para>
-            <text>We recommend inserting clause 75, which creates a regulation-making power to provide for transitional and savings provisions relating to the effect on 17-year-olds currently before the courts of raising the upper age of the definition of a “young person”. It would be possible to apply regulations to any stage of criminal proceedings prior to sentencing, and regulations would be able to specify the court the proceedings are to continue in, limit the sentencing powers of the court, apply provisions to the District and High Courts as though they were Youth Courts, and allow different treatment based on specified criteria. The purpose of any regulation made under this clause would be to ensure that 17-year-olds currently before a court gain the benefit of reduced penalties as required by the New Zealand Bill of Rights Act 1990 and the Sentencing Act 2002. The regulation-making power would expire three years after it came into force, although there is no requirement for regulations to have an expiry date. We were told this amendment could only improve the prospects of the young people it would affect. The clerk of committee raised a concern about the appropriateness of using regulations for this purpose and we questioned the policy advisers and Parliamentary Counsel about it. We were assured that young people affected by this clause would not suffer disadvantage because of it, but rather that their position would be safeguarded. We consider that the law should ensure it protects the best interests of young people.</text>
+            <text><emphasis style="italic">New section 7B</emphasis> gives the chief social worker the ability to delegate his or her statutory functions to any other suitable employee of the department.</text>
           </para>
           <para>
-            <text>We also recommend a number of other transitional amendments to the bill.</text>
+            <text><emphasis style="italic">New section 7C</emphasis> provides for the conduct of reviews of the department’s practices under this Act. Under <emphasis style="italic">new section 7C(1)</emphasis> the chief executive may arrange for the chief social worker or another person to conduct a review if a review is in the public interest, or is required to improve the professional performance of social workers or other employees of the department, or a review would promote the best interests of children and young persons, or their families or family groups. <emphasis style="italic">New section 7C(2)</emphasis> makes it clear that a practice includes a procedure, and a policy of the department that applies to a practice or procedure, including any practice in relation to a particular case or class of case. <emphasis style="italic">New section 7C(3)</emphasis> provides protection from liability for persons conducting reviews regardless of whether or not a person is an employee of the department. Under <emphasis style="italic">new section 7C(4) and (5)</emphasis>, evidence given in the course of a review is privileged and confidential and publication of review proceedings is limited. <emphasis style="italic">New section 7C(7)</emphasis> makes it an offence to publish confidential information or particulars that identify a person subject to, or who participates in, a review.</text>
           </para>
-        </comm.lev2>
-      </comm.lev1>
-      <comm.appendix>
-        <heading>Appendix</heading>
-        <comm.lev2>
-          <heading>Committee process</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 7</emphasis> is a transitional provision relating to the office of chief social worker under <emphasis style="italic">new section 7A</emphasis> (inserted by <emphasis style="italic">clause 6</emphasis>).</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Views of child or young person</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 8</emphasis> substitutes a <emphasis style="italic">new section 11</emphasis> that re-enacts, but also extends, section 11 (which requires Courts and counsel to encourage and assist children and young people to participate in Family Court or Youth Court proceedings under the principal Act). The extensions relate to the processes affected and views of children and young people. Under <emphasis style="italic">new section 11(2)</emphasis>, in any Court proceedings or planning or other process in <emphasis style="italic">new section 11(1)</emphasis>,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the child or young person must be encouraged and assisted to participate in the proceedings or process to the degree appropriate to his or her age and level of maturity unless that participation would, in the opinion of the person specified in <emphasis style="italic">new section 11(3)</emphasis>, be inappropriate having regard to the matters to be heard or considered; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>the child or young person must be given reasonable opportunities to express views on matters affecting the child or young person; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>any views the child or young person expresses (either directly or through a representative) must be taken into account.</text>
+                </para>
+              </label-para>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 11(3)</emphasis> specifies who must perform the duties imposed by <emphasis style="italic">new section 11(2)(a) and (b)</emphasis>. <emphasis style="italic">New section 11(4)</emphasis> ensures <emphasis style="italic">new section 11</emphasis> is not limited by section 5(d) (which sets out a principle relating to ascertaining, considering, and giving weight to the wishes of the child or young person). <emphasis style="italic">Clause 52</emphasis> makes to sections 144 and 187 amendments consequential on <emphasis style="italic">new section 11</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Protection for supplier of information</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9</emphasis> substitutes a <emphasis style="italic">new section 16</emphasis> that re-enacts, but also extends, section 16 (which currently provides protection for persons reporting ill-treatment or neglect of a child or young person). The protection against civil, criminal, or disciplinary proceedings is expanded to cover everyone who provides information at other stages of the care or protection process. The heading to the section is amended to reflect this expanded protection. Protection is, however, limited and only applies to information disclosed or supplied in good faith and in the circumstances set out in this section.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Responses to reports of child abuse</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 10</emphasis> repeals section 17 and substitutes <emphasis style="italic">new sections 17 to 17F</emphasis>.</text>
+            </para>
+          </clause.desc>
           <para>
-            <text>The Children, Young Persons, and Their Families Amendment Bill (No 6) was referred to the committee on 5 March 2008. The closing date for submissions was 28 April 2008. We received and considered 41 submissions from interested groups and individuals. We heard 26 submissions.</text>
+            <text><emphasis style="italic">New section 17</emphasis> provides for the initial assessment of a report of ill-treatment or neglect of a child or young person under section 15. The social worker or member of police who receives the report must undertake, or arrange for the undertaking of, the assessment. Information held or obtained by the department or police for the purposes of the assessment that relates to the child or young person or to his or her parents or guardians or caregiver may be referred to when undertaking the assessment. No further action is required on a report in certain circumstances.</text>
           </para>
           <para>
-            <text>We received advice from the Ministry of Social Development. </text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Committee membership</heading>
-          <para>
-            <text>Russell Fairbrother (Chairperson)</text>
-          </para>
-          <para>
-            <text>Judith Collins (Deputy Chairperson)</text>
-          </para>
-          <para>
-            <text>Sue Bradford</text>
-          </para>
-          <para>
-            <text>Bob Clarkson</text>
-          </para>
-          <para>
-            <text>Hon George Hawkins</text>
+            <text><emphasis style="italic">New section 17A</emphasis> sets out the process following an initial assessment. If a social worker is required to take action he or she must take 1 or more of the following actions as the social worker considers appropriate:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>undertake or arrange for the undertaking of an investigation or a child and family assessment; or</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>refer the child or young person to some other person, body, organisation, or department (working alone or collaboratively) for the purposes of assessing the need for and, where appropriate, providing services, facilities, or assistance (which may be provided to the child’s or young person’s parents, guardians, or caregiver as well as the child or young person).</text>
+                </para>
+              </item>
+            </list>
           </para>
           <para>
-            <text>Dr Paul Hutchison</text>
+            <text>If a member of police received the report under section 15, he or she, or any other member of the police, must either—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>undertake or arrange for the undertaking of an investigation; or</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>refer the report and initial assessment to a social worker to take action as set out above.</text>
+                </para>
+              </item>
+            </list>
           </para>
           <para>
-            <text>Hon Steve Maharey</text>
+            <text>If an investigation is undertaken, a care and protection resource panel must be consulted in relation to that investigation.</text>
           </para>
           <para>
-            <text>Lynne Pillay</text>
+            <text>As soon as practicable after the initial assessment has been completed or a decision has been made to take or not to take action, the person who made the report must be informed as to whether any further action has been taken in respect of the report.</text>
           </para>
           <para>
-            <text>Heather Roy</text>
+            <text><emphasis style="italic">New section 17B</emphasis> sets out the matters a social worker must have regard to when deciding what actions are appropriate to the circumstances of a particular case.</text>
           </para>
           <para>
-            <text>Katrina Shanks</text>
+            <text><emphasis style="italic">New section 17C</emphasis> provides that a care and protection co-ordinator must be notified if, after an investigation under <emphasis style="italic">new section 17A(1)(a)</emphasis>, the social worker or member of the police believes as a result of that investigation that the child or young person is in need of care and protection.</text>
           </para>
           <para>
-            <text>Judy Turner</text>
+            <text><emphasis style="italic">New section 17D</emphasis> specifies matters relating to a child and family assessment under <emphasis style="italic">new section 17A(1)(b)</emphasis>. An assessor undertaking a child and family assessment must consider the child’s or young person’s health and education needs (<emphasis style="italic">new section 17D(2)</emphasis>). During the course of an assessment, an assessor may, by agreement, provide or arrange for the provision of a variety of services to the child or young person and his or her parents, guardian, or caregiver (<emphasis style="italic">new section 17D(3)</emphasis>).</text>
           </para>
           <para>
-            <text/>
+            <text>Under <emphasis style="italic">new section 17E</emphasis>, an assessor who is not a social worker may refer a report back, for further action, to the social worker who arranged for the assessment to be undertaken. The social worker may decide no further action is required on the report or take 1 or more of the actions specified in <emphasis style="italic">new section 17A(1)</emphasis>.</text>
           </para>
-        </comm.lev2>
-      </comm.appendix>
-    </commentary>
+          <para>
+            <text><emphasis style="italic">New section 17F</emphasis> provides that if, after the completion of a child and family assessment, an assessor believes on reasonable grounds that the child or young person is in need of care or protection (other than as a result of the child’s or young person’s offending) then the assessor must, in the case of an assessor who is a social worker, notify a care and protection co-ordinator of that belief. If the assessor is not a social worker then the assessor must, as soon as practicable, notify a social worker or refer the matter to a care and protection co-ordinator under section 19.</text>
+          </para>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 53</emphasis> makes to the Criminal Records (Clean Slate) Act 2004 an amendment that is consequential on <emphasis style="italic">new sections 17 to 17F</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Family group conferences</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 11</emphasis> inserts <emphasis style="italic">new section 20A. New section 20A</emphasis> imposes a time limit of 30 days for completing care and protection family group conferences so far as is practicable and is consistent with section 6.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Consultation with child or young person on convening care and protection family group conference</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 12</emphasis> re-enacts, in a more modern form, section 21. <emphasis style="italic">New section 21</emphasis> also extends section 21 so that a care and protection co-ordinator must consult the child or young person if practicable (as well his or her family, whanau, or family group) on the convening of a care and protection family group conference.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Care and protection family group conference: support persons for child or young person, and who may attend reconvened conference</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 13(1), (2), and (4)</emphasis> amend section 22. The amendments—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>include among the persons entitled to attend a care and protection family group conference a person who attends the conference at the request of, and for the purpose only of supporting during the conference, the child or young person; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>give the care and protection co-ordinator the power to exclude from attendance a support person described above or a person who the family, whanau, or family group wishes to attend if, in his or her opinion, the person’s attendance would not be in the interests of the child or young person or their attendance would be undesirable for any other reason; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>ensure that a support person of that kind is not a member of the conference.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 13(3)</emphasis> also amends section 22. In the High Court case of <emphasis style="italic">CMP v Director-General of Social Welfare</emphasis> [1997] NZFLR 1, Elias J held that a person entitled to attend family group conferences and who did not attend 1 or more of the family group conference meetings was not entitled to attend the reconvened conference. This amendment provides that a person entitled to attend a family group conference is not prevented from attending any subsequent meetings of the conference or any reconvened conference by reason of non-attendance at 1 or more meetings of the conference. The amendment also makes it clear that if a care and protection co-ordinator proposes to invite a person who did not attend a previous meeting or meetings, he or she is required to consult in accordance with section 21 on that person’s attendance in order to determine whether that person is in fact an entitled person within the meaning of section 22.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Health and education advice</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 14</emphasis> amends section 23, which requires a care and protection co-ordinator to ensure that relevant information and advice are made available to a care and protection family group conference. The amendment ensures that the information and advice to be made available include information and advice relating to the health and education needs of every child or young person in respect of whom the conference is convened.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Functions of family group conference</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 15</emphasis> amends section 28 to provide that an inability for a family group conference to unanimously agree that a child or young person is in need of care and protection does not affect the ability of the conference to make decisions and recommendations or to formulate plans.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Views of child or young person</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 16</emphasis> makes provision for the child’s or young person’s views to be included in care and protection plans formulated by a family group conference.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Sharing of information by government and non-government bodies and organisations</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 17</emphasis> inserts a <emphasis style="italic">new section 66A</emphasis> that allows government and non-government bodies and organisations, in certain circumstances, to share with each other information relating to the care and protection of children and young persons subject to the principal Act. Before disclosing the information, the body or organisation concerned must believe on reasonable grounds that the disclosure is necessary to enable the other body or organisation to act for the child or young person in a manner that will promote the child’s or young person’s welfare and interests.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Child offending</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 18</emphasis> inserts <emphasis style="italic">new sections 73A to 73O</emphasis> on child offending. These new sections help to group and make clearer the provisions of the principal Act that specify, or affect, the procedures for dealing with offending (other than murder or manslaughter) by a child of or over the age of 10 years and under 14 years.</text>
+            </para>
+          </clause.desc>
+          <para>
+            <text><emphasis style="italic">New section 73A</emphasis> ensures that <emphasis style="italic">new sections 73B to 73O</emphasis> apply only to children of or over the age of 10 years and under 14 years.</text>
+          </para>
+          <para>
+            <text><emphasis style="italic">New section 73B</emphasis>, which is intended only as a guide, is an overview of the provisions of the principal Act that specify, or affect, the procedures for dealing with offending (other than murder or manslaughter) by a child of or over 10 years and under 14 years.</text>
+          </para>
+          <para>
+            <text><emphasis style="italic">New section 73C</emphasis> requires an enforcement officer to refer child offending cases to a youth justice co-ordinator. It re-enacts and replaces section 18(3) (repealed by <emphasis style="italic">clause 54(1)</emphasis>).</text>
+          </para>
+          <para>
+            <text><emphasis style="italic">New section 73D</emphasis> prevents an application under <emphasis style="italic">new section 73F</emphasis> (for a determination under <emphasis style="italic">new section 73E</emphasis>) from being made unless a family group conference has been held. It replaces section 70 in so far as that section relates to applications for a declaration that a child is in need of care and protection on the ground specified in section 14(1)(e). (Section 70 is consequentially amended by <emphasis style="italic">clause 54(1)</emphasis>.)</text>
+          </para>
+          <para>
+            <text><emphasis style="italic">New sections 73E to 73O</emphasis> are provisions relating to—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>applications for a determination, under <emphasis style="italic">new section 73E</emphasis>, that a child is in need of care or protection on the ground specified in section 14(1)(e) (a determination of this kind is to replace a declaration to that effect under section 67); and</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>orders that may be made by the Court after it has made a determination under <emphasis style="italic">new section 73E</emphasis>—these orders are now to be specified in <emphasis style="italic">new sections 73M and 73N</emphasis>, which, in relation to child offending, replace sections 83 and 84. (Section 84 is to be repealed by <emphasis style="italic">clause 54(1)</emphasis>.)</text>
+                </para>
+              </item>
+            </list>
+          </para>
+          <para>
+            <text>However, <emphasis style="italic">new section 73M</emphasis> also amends section 84 to provide for the enforcement of orders directing a child, or a parent or guardian of a child, to pay reparation to a person suffering the emotional harm or loss of or damage to property because of the child’s offending. The amendments (and the related consequential amendment made by <emphasis style="italic">clause 54(2)</emphasis>) have the effect that—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>reparation orders are not to be enforced under section 293 but under <emphasis style="italic">new section 73M(5)</emphasis>:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>enforcing reparation orders will be the responsibility of a Family Court, and not of a Youth Court:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>a child brought before the Court under section 88 of the Summary Proceedings Act 1957 (under which fines and other sums payable on conviction may be enforced) may be accompanied by a parent or guardian or other person having the care of the child concerned:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the child’s name may not be published under section 87A of the Summary Proceedings Act 1957 as part of the enforcement.</text>
+                </para>
+              </item>
+            </list>
+          </para>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 19</emphasis> amends section 104(3), which relates to the effect of a custody order under section 101. Under section 104(2), the order gives an authorised person (a member of the police, a social worker, or any other person authorised in that behalf by the chief executive) authority to place the child or young person to whom the order relates with a person or in a residence. The amendment enables the authorised person to exercise that authority to return a child in breach of a condition (imposed under <emphasis style="italic">new section 73K(1)</emphasis>) of the order to the person with whom, or residence at which, the child should be in order to comply with the condition.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Views of child or young person</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 20</emphasis> amends section 130. Section 130 specifies the required content of a plan prepared pursuant to section 128. (Section 128 requires a Family Court to obtain and consider a plan for a child or young person before making certain orders.) The amendment requires a plan, wherever practicable, to contain the child’s or young person’s views on the matters covered by the plan.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Child offending</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 21</emphasis> amends section 134, which requires the Family Court, on making one of a number of specified orders, to set a date for the review of a plan prepared under section 128. The amendment relates to the review date to be set if the specified order is made in respect of a child determined to be in need of care or protection on the ground in section 14(1)(e). It ensures that the review date is not later than 6 months after the making of the order unless the Court, having regard to whether the offending behaviour that led to the order being made has ceased, otherwise directs.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Agreements for temporary care of children and young persons</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 22</emphasis> amends section 139 (which provides for agreements for temporary care of children and young persons) by providing that agreements may be extended for periods of up to 28 days if—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a family group conference is required to be convened or reconvened under Part 2; or</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>an application to a Court has been made under Part 2 that includes or is accompanied by an application relating to the custody of the child or young person pending the determination of proceedings.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Transition from care to independence</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 23</emphasis> amends section 140 to make extended care agreements possible for young persons aged 15 years and above for the purpose of enabling the young person to move from care to independence. At present extended care agreements are only available to young persons placed in the care of the chief executive, an iwi social service, a cultural social service, or a child and family support service. This amendment extends the availability of extended care agreements to young persons placed in the care of any other person approved by the chief executive. An agreement may be extended for further periods of 12 months, but the extension must be approved at a family group conference (<emphasis style="italic">see clause 25(2)(b)</emphasis>, which adds a related <emphasis style="italic">new section 145(2)(c)</emphasis>) and cannot continue past the date the young person attains the age referred to in section 108(c).</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Disabled children and young persons, and transition from care to independence</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clauses 24 and 25</emphasis> amend sections 141 and 145 respectively. The amendments—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>reduce the period of extended care agreements for severely disabled children and young persons from 2 years to 1 year (<emphasis style="italic">see clause 24</emphasis>):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>ensure that before approving an agreement under section 141 or 142 (which relate to agreements for the care of disabled children and young persons), a family group conference would need to be satisfied that family supports funded by the Ministry of Health or provided by other disability services had been properly explored as an alternative to an out-of-home care agreement (<emphasis style="italic">new section 145(2A) and (2B)</emphasis>); and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>ensure that the care and protection co-ordinator is satisfied that an out-of-home placement is an appropriate care option within the objects and principles of the principal Act set out in sections 4, 5, 6, and 13 before an agreement can be entered into under section 141 or 142 (<emphasis style="italic">new section 145(1)(c)</emphasis>); and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>make, if the question arises, a family group conference compulsory in order to determine—</text>
+                    <list>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>whether an agreement under section 140, 141, or 142 should be entered into; or</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>whether an agreement under <emphasis style="italic">new section 140(1)(d)</emphasis> (added by <emphasis style="italic">clause 23(1)</emphasis>) or under section 141 or 142 should be extended or terminated early.</text>
+                        </para>
+                      </item>
+                    </list>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 26</emphasis> amends section 147. This section provides that a section 140 agreement for the extended care of children and young persons by the chief executive, an iwi social service, a cultural social service, or a child and family support service may only be entered into where the child or young person will return to the previous carer on the termination of the agreement. The amendment provides that if the purpose of the agreement is to enable a young person to move from care to independence then it is not necessary that it be intended that the young person return home on the termination of the agreement or that the parent or guardian will keep in contact.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Strengthening victims’ provisions</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 27</emphasis> substitutes a <emphasis style="italic">new section 208(g)</emphasis>. <emphasis style="italic">New section 208(g)</emphasis> re-enacts, but also reinforces, the principle stated in section 208(g). The reinforced principle is that measures for dealing with offending by children and young persons should not merely (as currently) have regard to, but should instead recognise properly, the interests of any victims of that offending (for example, by including consideration of whether reparation should be made to those victims).</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Consulting child or young person on who from family, etc, should attend youth justice family group conference, and strengthening victims’ provisions</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 28</emphasis> re-enacts and amends section 250, which relates to consultation on the convening of a youth justice family group conference. <emphasis style="italic">New section 250</emphasis> ensures that the youth justice co-ordinator convening the conference must,—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>if practicable, consult the child or young person in relation to the persons from the child’s or young person’s family, whanau, or family group who should attend the conference and, in convening the conference, take into account, in relation to that matter, the child’s or young person’s views; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>make all reasonable endeavours to consult with any victims of the offence or alleged offence to which the conference relates in relation to the date on which, and the time and place at which, the conference is to be held and, in convening the conference, take into account, in relation to those matters,—</text>
+                    <list>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>the views of the person or persons consulted; and</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>in particular, the needs of any victims of that kind.</text>
+                        </para>
+                      </item>
+                    </list>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Youth justice family group conferences, supervision orders, and strengthening victims’ provisions</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 29</emphasis> amends in 3 ways section 251 (which specifies who is entitled to attend a youth justice family group conference).</text>
+            </para>
+          </clause.desc>
+          <para>
+            <text>The amendment in <emphasis style="italic">clause 29(1)</emphasis> relates to family group conferences convened under <emphasis style="italic">new section 314A</emphasis> to consider the early release of a young person from custody before the expiry of an extended supervision with residence order. The amendment ensures that the manager of the residence in which the young person is in the chief executive’s custody, or a member of staff authorised by that manager, is entitled to attend the conference.</text>
+          </para>
+          <para>
+            <text>The amendment in <emphasis style="italic">clause 29(2)</emphasis> provides (like the amendment to section 22) that a person entitled to attend a family group conference is not prevented from attending any subsequent meetings of the conference or any reconvened conference by reason of non-attendance at 1 or more meetings of the conference.</text>
+          </para>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 29(3)</emphasis> substitutes a <emphasis style="italic">new section 251(2)</emphasis>, which applies if a youth justice family group conference is attended by a representative of a victim of the offence or alleged offence to which the conference relates. <emphasis style="italic">New section 251(2)</emphasis> ensures that support persons may accompany that representative of the victim.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Making information and advice on child’s or young person’s health and education available to youth justice family group conference</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 30</emphasis> re-enacts and extends section 255, which requires a youth justice co-ordinator to ensure that relevant information and advice are made available to a youth justice family group conference. The amendment ensures that the information and advice to be made available include information and advice relating to the health and education needs of every child or young person in respect of whom the conference is convened.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Consent of care and protection co-ordinator not required</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 31</emphasis> amends section 261 to remove the need for the prior consent of the care and protection co-ordinator in order for the youth justice conference to make decisions, recommendations, or plans relating to the care or protection of the child or young person in respect of whom the conference is convened. The amendment also requires the conference to have received advice and information on care and protection matters from the youth justice co-ordinator (under <emphasis style="italic">new section 255(1)</emphasis> substituted by <emphasis style="italic">clause 30</emphasis>) before it makes any such decisions, recommendations, or plans.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Strengthening victims’ provisions</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 32</emphasis> inserts a <emphasis style="italic">new section 269A</emphasis>, which relates to any action or steps to be taken or completed by the child or young person in respect of whom a family group conference was convened—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>under any decision, recommendation, or plan made or formulated by the family group conference and to which agreement is obtained under section 263; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>by way of penalty or reparation for an offence.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>Under <emphasis style="italic">new section 269A</emphasis> the chief executive must take reasonable steps—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>to ascertain whether any victim of the offence wishes to be notified of the child’s or young person’s progress in taking that action or completing those steps; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>if so, to ensure that that victim is notified from time to time of that progress.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>The chief executive’s duty under <emphasis style="italic">new section 269A</emphasis> must be performed by another person if that other person—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>was nominated for the purpose by the family group conference; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>has agreed to perform that duty.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Clarifying relationship between provisions</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 33</emphasis> amends section 277 (provisions applicable where a young person is charged jointly with a person who is not a young person) to ensure its text states clearly how it relates to section 274 (manner of dealing with purely indictable offences or where person elects jury trial). In <emphasis style="italic">R v Hudson</emphasis> [2007] NZCA 363 (27 August 2007), the Court of Appeal held that section 277 is subject to section 274. <emphasis style="italic">New section 277(6)</emphasis> also clarifies their relationship, but does so by ensuring that a reference in section 277 to proceedings includes a preliminary hearing to which section 274 applies. (<emphasis style="italic">Clause 55</emphasis> amends section 274 consequentially by adding a <emphasis style="italic">new section 274(3)</emphasis> which adverts to the effect of <emphasis style="italic">new section 277(6)</emphasis>.)</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Enhancing Youth Court orders and transfer to District Court for sentencing</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 34</emphasis> amends section 282, which gives the Youth Court power to discharge an information after an inquiry into the circumstances of the case. This section also provides that a Youth Court, when discharging an information, may, where the charge is proved, make an order under section 283(e) to (j). The Youth Court has adopted the practice of sentencing a young person to orders under section 283(e) to (j) and then adjourning the proceedings to see whether the young person complies with the family group conference plan before considering whether to discharge the information under section 282. The amendment expressly provides for this practice.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 35(1) and (2)</emphasis> amend section 283 to provide for the making of 2 new orders where a charge against a young person is proved. Those orders are an extended supervision with activity order and an extended supervision with residence order.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 35(3)</emphasis> amends section 283(o). Under section 283(o), where a charge against a young person is proved before a Youth Court, the Court may, subject to certain restrictions, enter a conviction and transfer the young person to a District Court for sentence or decision. However, currently a Youth Court may take those actions only in respect of a young person who is of or over the age of 15 years. The amendment enables a Youth Court also to take those actions in respect of a young person—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>who is of or over the age of 14 years; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>against whom the charge proved is a purely indictable offence.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Transfer to District Court for sentencing</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 36</emphasis> substitutes a <emphasis style="italic">new section 285(6)</emphasis>. <emphasis style="italic">New subsection 285(6)</emphasis> re-enacts section 285(6) but also amends it so that it empowers the Court, if specified conditions are met, to make an order under section 283(o) (that the young person be brought before a District Court for sentence or decision) not only in respect of a young person of or over the age of 15 years, but also in respect of a young person—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>who is of or over the age of 14 years; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>against whom the charge proved is a purely indictable offence.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Supervision orders</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 37</emphasis> inserts a <emphasis style="italic">new section 289A</emphasis>. This provision imposes a restriction on the imposition of the new extended supervision with activity order. The order may only be made where the nature and circumstances of the offence are such that the Court would have considered making a supervision with activity order but for the existence of this extended order. Furthermore, the order may only be made if the Youth Court considers that a supervision with activity order would not be adequate to reduce the risk of re-offending and would not provide the young person with a sufficient period of activity and supervision. Before making the order the young person must be assessed as being suitable for the order.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 38</emphasis> amends section 290, which imposes restrictions on the imposition of supervision with residence orders. The section is amended so that it also applies to the new extended supervision with residence order. The order is only available for purely indictable offences or where, because of the special circumstances of the young person’s offence, a supervision with residence order would clearly be inadequate. The Court must also be satisfied that a longer period in the custody of the chief executive is required.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Expiry of Youth Court orders</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 39</emphasis> substitutes a <emphasis style="italic">new section 296</emphasis>. <emphasis style="italic">New section 296(2)</emphasis> ensures specified orders made after the commencement of <emphasis style="italic">clause 39</emphasis> do not expire prematurely, and so are fully effective. Currently, under section 296, the specified orders expire 6 months after the young person concerned attains the age of 17 years. Premature expiry of orders is exacerbated by the fact that, under section 2(2), the age of a young person for the purposes of proceedings under the principal Act is not the young person’s actual age but is fixed as at the date of the offence. A young person may therefore already be aged 17 years when a Youth Court makes one of the specified orders.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Consent of young person not required</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 40</emphasis> amends section 298. At present a young person is required to consent to a community work order in order for the Youth Court to impose the order. The amendment removes this consent requirement.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Supervision orders</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 41</emphasis> amends section 307. At present a young person is required to consent to a supervision with activity order in order for the Youth Court to impose the order. The amendment removes this consent requirement. The section is also amended to allow the Court to delay making a supervision order under section 283(k) if it does not make an order under this section at the same time as making a supervision with activity order. Under a <emphasis style="italic">new subsection (2A)</emphasis>, the Court may fix a date when it will consider making the supervision order and may adjourn the proceedings to that date.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 42</emphasis> inserts a <emphasis style="italic">new section 307A</emphasis>. This new section provides for a new extended supervision with activity order. The order places the young person under the supervision of the chief executive for 3 to 6 months and is followed by a supervision order under section 283(k) to make the total combined sentence a maximum of 12 months. Under the extended supervision order the young person is required to do either or both of the following:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>attend and remain at a specified centre and take part in any activity required by the person in charge of the centre:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>undertake any specified programme or activity.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>Provision is also made allowing the Youth Court to adjourn proceedings to defer the making of the following supervision order. (<emphasis style="italic">Clause 56</emphasis> makes to the principal Act amendments that are consequential on <emphasis style="italic">new section 307A</emphasis>.)</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 43</emphasis> amends section 311 to allow the Youth Court to adjourn proceedings to defer the imposition of the supervision component of the existing supervision with residence order. It also inserts <emphasis style="italic">new subsection (2A)</emphasis>, which allows the Court to fix a date when it will consider making the supervision order and to adjourn the proceedings to that date.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 44</emphasis> inserts <emphasis style="italic">new sections 311A and 311B</emphasis>.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 311A</emphasis> provides for a new extended supervision with residence order. The order places the young person in the custody of the chief executive for 6 months and is followed by a supervision order for a period of between 6 to 12 months. (<emphasis style="italic">Clause 57</emphasis> makes to the principal Act amendments that are consequential on <emphasis style="italic">new section 311A</emphasis>.)</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 311B</emphasis> provides for the review of supervision orders made under <emphasis style="italic">new section 311A(2)</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 45</emphasis> amends section 314. This section provides for the release of a young person from custody before the expiry of a supervision with residence order if the chief executive is satisfied that the young person has not committed further offences and has not absconded during that time. The amendment imposes a new condition for early release. The young person’s behaviour and compliance with their plan must be sufficient to warrant early release.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 46</emphasis> inserts <emphasis style="italic">new sections 314A and 314B</emphasis>.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 314A</emphasis> provides for the release of a young person from custody before the expiry of an extended supervision with residence order. The criteria for early release are the same as those for early release under section 314. The young person is only eligible for early release after serving 4 months of the sentence. However, in order to ensure that the question of early release is considered by the Youth Court before the young person has served 4 months of their sentence, mandatory time frames are imposed for the convening of a family group conference to consider the issue. The chief executive must file a report with the Court, which gives the Court jurisdiction to consider the matter of early release. If the chief executive fails to file the report within the required time, an application may be made to the Court by the young person or a parent, guardian, or other person who, but for the order, would have care of the young person, or a barrister or solicitor representing the young person.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 314B</emphasis> contains provisions relating to the convening and reconvening of family group conferences to consider release under <emphasis style="italic">new section 314A</emphasis>. The manager of the residence, or his or her delegated representative, must be present at any family group conference convened to consider early release. The family group conference is convened to make recommendations on the appropriateness of early release and on the plan for the extended supervision component of the sentence (in particular, whether any conditions should be imposed).</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Strengthening victims’ provisions</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 47</emphasis> substitutes a <emphasis style="italic">new section 320(5)</emphasis> affecting a person who, or organisation that, furnishes a report to the Youth Court under section 320 on the effectiveness of certain orders. The person or organisation must currently copy the report to the appropriate youth justice co-ordinator, the young person to whom the report relates, and the barrister or solicitor or youth advocate representing that young person. Under <emphasis style="italic">new section 320(5)</emphasis>, the person or organisation must also copy the report to—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the informant in the proceedings in which the order was made; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>any victim of an offence in respect of which the order was made; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the parent or guardian or other carer of the young person.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 48</emphasis> inserts in section 329(1) <emphasis style="italic">new paragraphs (ca), (cb), and (cc)</emphasis>. The amendment expands the list of persons entitled to be present at a hearing in a Youth Court of proceedings relating to a child or young person. Under <emphasis style="italic">new paragraphs (ca), (cb), and (cc)</emphasis>, the following persons may, unless the Court directs otherwise, be present:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a victim of the offence or alleged offence, or a representative of that victim; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>if a victim is a child or young person, a parent or guardian of that child or young person, unless that parent or guardian is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the offence concerned; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>any reasonable number of people who accompany any of the persons described above to provide them with support.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Transition from care to independence</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 49</emphasis> inserts a new heading and <emphasis style="italic">new sections 386A to 386C</emphasis>. These provisions impose new duties on the chief executive and others in respect of certain qualifying persons.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 386A</emphasis> defines a person qualifying for advice and assistance, as referred to in <emphasis style="italic">new section 386B</emphasis>, as a person resident in New Zealand—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>who is a young person who is 15 years old or older and has been in the care or custody or sole guardianship of the chief executive, an iwi or cultural social service, or a child and family support service for at least 3 months; or</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>who is younger than 25 years old and who was, at any time after attaining the age of 15 years but while still a young person, in care or custody or sole guardianship of that kind for at least 3 months.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>The duties are owed only to those young persons who are, or were, in care or custody or sole guardianship pursuant to an order or agreement under Part 2. They do not apply to those who are, or were, in custody under the principal Act’s youth justice provisions.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 386B</emphasis> imposes a duty on the chief executive, an iwi or cultural social service, or a child or family support service to provide advice and assistance to the qualifying young person to enable the young person to move from care to independence. Once the person has left care or custody, the duty applies until the person reaches the age of 25 years. However, this additional duty is only owed by the chief executive. The duty is triggered by a request for advice and assistance by the person qualifying for advice and assistance. The chief executive is only required to provide or arrange such advice or assistance as the chief executive considers necessary to promote the welfare and independence of the young person concerned. The chief executive has a discretion to provide direct financial assistance in exceptional circumstances to those to whom the duty is owed if the chief executive considers that this is necessary to assist the transition of the person from care to independence. In considering whether financial assistance is necessary, the chief executive must consider what other financial assistance is available to the person.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 386C</emphasis> ensures that care arrangements can continue to enable a young person to finish secondary education without that education being disrupted by the termination of care. The chief executive must make any payments necessary to enable a placement to continue after the expiry of orders or agreements made under Part 2. The type and amount of the payments required are limited to the payments made immediately before the expiration of the agreement or order. The requirement to make the payments applies if the young person is enrolled in and attending full-time secondary education and extends until 31 December of the year in which the person turns 18 years of age.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Strengthening victims’ provisions</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 50</emphasis> inserts <emphasis style="italic">new sections 437A and 437B</emphasis>.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 437A</emphasis> requires the informant to give victims notice of decisions in Youth Court proceedings.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 437B</emphasis> requires the applicant under <emphasis style="italic">new section 73F</emphasis> for a determination under <emphasis style="italic">new section 73E</emphasis> to give victims notice of decisions in Family Court child offending proceedings.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM1099906">
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Consequential amendments</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 51(1) to (3)</emphasis> make amendments (set out in <emphasis style="italic">Schedule 1</emphasis>) that are consequential on—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the new definition in section 2(1) of young person (substituted by <emphasis style="italic">clause 4(1)</emphasis>); and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>amendments made to that definition by <emphasis style="italic">clause 4(2) and (3)</emphasis>.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>Amendments related to the new definition of young person (substituted by <emphasis style="italic">clause 4(1)</emphasis>) are in <emphasis style="italic">Part 1 of Schedule 1</emphasis>.</text>
+            </para>
+            <para>
+              <text>Amendments related to including 17-year-olds in that definition for provisions on care or protection are in <emphasis style="italic">Part 2 of Schedule 1</emphasis>.</text>
+            </para>
+            <para>
+              <text>Amendments related to including 17-year-olds in that definition for provisions on youth justice are in <emphasis style="italic">Parts 3 and 4 of Schedule 1</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 51(4)</emphasis> amends section 10A(a) of the Summary Offences Act 1981. That section makes it an offence for a paid or unpaid staff member of a residence under the principal Act to ill-treat or wilfully neglect a child who resides in that residence. The amendment ensures that the section applies to 17-year-old children from the time that 17-year-olds are, for all or any purposes, first included in the definition of young person in the principal Act.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 52</emphasis> makes to sections 144 and 187 (of the principal Act) amendments consequential on <emphasis style="italic">new section 11</emphasis> (child’s or young person’s participation and views) substituted by <emphasis style="italic">clause 8</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 53</emphasis> makes to the Criminal Records (Clean Slate) Act 2004 an amendment that is consequential on the enactment of <emphasis style="italic">new sections 17 to 17F</emphasis> (substituted by <emphasis style="italic">clause 10</emphasis>). The amendment ensures that a person, although eligible for the clean slate scheme, must state that he or she has a criminal record if that person’s criminal record or information about his or her criminal record is relevant to—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>an investigation of a report made under section 15; or</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a child and family assessment; or</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>any procedure under Part 2 arising out of the investigation or assessment.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 54</emphasis> makes to the principal Act amendments (set out in <emphasis style="italic">Schedule 2</emphasis>) that are consequential on the enactment of <emphasis style="italic">new sections 73A to 73O</emphasis> (inserted by <emphasis style="italic">clause 18</emphasis>). The amendments affect not only the principal Act (<emphasis style="italic">see Part 1 of Schedule 2</emphasis>), but also section 87A(1)(a) of the Summary Proceedings Act 1957 (<emphasis style="italic">see Part 2 of Schedule 2</emphasis> and the analysis of <emphasis style="italic">new section 73M</emphasis> inserted by <emphasis style="italic">clause 18</emphasis>).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 55</emphasis> makes to section 274 of the principal Act an amendment consequential on <emphasis style="italic">new section 277(6)</emphasis> (added by <emphasis style="italic">clause 33</emphasis>).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 56</emphasis> makes to the principal Act amendments (set out in <emphasis style="italic">Schedule 3</emphasis>) that are consequential on <emphasis style="italic">new section 307A</emphasis> (inserted by <emphasis style="italic">clause 42</emphasis>). <emphasis style="italic">New section 307A</emphasis> provides for a new extended supervision with activity order.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 57</emphasis> makes to the principal Act amendments (set out in <emphasis style="italic">Schedule 4</emphasis>) that are consequential on <emphasis style="italic">new section 311A</emphasis> (inserted by <emphasis style="italic">clause 44</emphasis>). <emphasis style="italic">New section 311A</emphasis> provides for a new extended supervision with residence order.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from a select committee</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM1099907">
     <member>Hon Ruth Dyson</member>
     <title>Children, Young Persons, and Their Families Amendment Bill (No 6)</title>
@@ -335,12 +1240,6 @@
             <text>However, every date appointed under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> must be after the day specified in <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable>.</text>
           </para>
         </subprov>
-        <subprov amend.level1="insert-majority" skeleton="no">
-          <label amend.level1="insert-majority" auto.number="no" denominator="yes">3A</label>
-          <para amend.level1="insert-majority">
-            <text><changeable><citation jurisdiction="nz">Sections 10 and 53A</citation></changeable> come into force on <changeable>1 August 2009</changeable>.</text>
-          </para>
-        </subprov>
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">4</label>
           <para>
@@ -362,7 +1261,7 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">5</label>
           <para>
-            <text>The rest of this Act comes into force on<struckoutwords amend.level1="struckout-majority"> the day that is 3 months after the date on which this Act receives the Royal assent.</struckoutwords><insertwords amend.level1="insert-majority"><changeable>1 April 2009</changeable>.</insertwords></text>
+            <text>The rest of this Act comes into force on the day that is 3 months after the date on which this Act receives the Royal assent.</text>
           </para>
         </subprov>
       </prov.body>
@@ -379,7 +1278,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM1099913" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="183" bill.type="government" stage="2" year="2007">
+    <part id="DLM1099913" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="183" bill.type="government" stage="1" year="2007">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Substantive amendments to principal Act</heading>
       <crosshead id="DLM1099914" toc="yes">Definitions amended and inserted</crosshead>
@@ -505,7 +1404,7 @@
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">i</label>
                       <para>
-                        <text>receive complaints by children and young persons in respect of whom action has been taken under this Act or their families, whanau,<struckoutwords amend.level1="struckout-majority"> or</struckoutwords> family groups<insertwords amend.level1="insert-majority">, or caregivers</insertwords>; and</text>
+                        <text>receive complaints by children and young persons in respect of whom action has been taken under this Act or their families, whanau, or family groups; and</text>
                       </para>
                     </label-para>
                     <label-para quote="1" skeleton="no">
@@ -529,18 +1428,12 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>Section 7 is amended by adding the following subsections:</text>
+              <text>Section 7 is amended by adding the following subsection:</text>
               <amend quote="1">
-                <subprov quote="1" skeleton="no">
+                <subprov skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">3</label>
                   <para>
                     <text>In performing all or any of his or her duties under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>, the chief executive may arrange for a review under <changeable><citation jurisdiction="nz">section 7C</citation></changeable> of any practice or procedure of the department.</text>
-                  </para>
-                </subprov>
-                <subprov amend.level1="insert-majority" quote="1" skeleton="no">
-                  <label amend.level1="insert-majority" auto.number="no" denominator="yes" quote="1">4</label>
-                  <para amend.level1="insert-majority">
-                    <text>For the purposes of this section, <def-term id="DLM1485501">caregivers</def-term> means persons or organisations in whose charge the chief executive has placed children or young persons under section 362.</text>
                   </para>
                 </subprov>
               </amend>
@@ -935,7 +1828,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>for the purposes of <insertwords amend.level1="insert-majority">an investigation under section 17</insertwords><struckoutwords amend.level1="struckout-majority">an initial assessment under <changeable><citation jurisdiction="nz">section 17</citation></changeable></struckoutwords><struckoutwords amend.level1="struckout-majority"> or an investigation or a child and family assessment under <changeable><citation jurisdiction="nz">section 17A</citation></changeable></struckoutwords>:</text>
+                            <text>for the purposes of an initial assessment under <changeable><citation jurisdiction="nz">section 17</citation></changeable> or an investigation or a child and family assessment under <changeable><citation jurisdiction="nz">section 17A</citation></changeable>:</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -1196,7 +2089,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">e</label>
                           <para>
-                            <text>any other matters that the social worker<insertwords amend.level1="insert-majority"> or member of the police</insertwords> considers relevant.</text>
+                            <text>any other matters that the social worker considers relevant.</text>
                           </para>
                         </label-para>
                       </para>
@@ -1645,7 +2538,7 @@
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
-                                <text>conduct an <insertwords amend.level1="insert-majority">investigation under section 17</insertwords><struckoutwords amend.level1="struckout-majority">initial assessment under <changeable><citation jurisdiction="nz">section 17</citation></changeable></struckoutwords> <struckoutwords amend.level1="struckout-majority">or an investigation or a child and family assessment under <changeable><citation jurisdiction="nz">section 17A</citation></changeable></struckoutwords>:</text>
+                                <text>conduct an initial assessment under <changeable><citation jurisdiction="nz">section 17</citation></changeable> or an investigation or a child and family assessment under <changeable><citation jurisdiction="nz">section 17A</citation></changeable>:</text>
                               </para>
                             </label-para>
                             <label-para quote="1" skeleton="no">
@@ -2041,7 +2934,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>An application for a determination and orders under <changeable><citation jurisdiction="nz">section 73E(1)</citation></changeable> in respect of a child may be made<insertwords amend.level1="insert-majority">, in accordance with the rules of Court,</insertwords> by—</text>
+                        <text>An application for a determination and orders under <changeable><citation jurisdiction="nz">section 73E(1)</citation></changeable> in respect of a child may be made by—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -2062,69 +2955,69 @@
                         </label-para>
                       </para>
                     </subprov>
-                    <subprov amend.level1="struckout-majority" quote="1" skeleton="no">
-                      <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">2</label>
-                      <para amend.level1="struckout-majority">
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
                         <text>An application for a determination and orders under <changeable><citation jurisdiction="nz">section 73E(1)</citation></changeable> in respect of a child may be made by filing an information—</text>
-                        <label-para amend.level1="struckout-majority" quote="1" skeleton="no">
-                          <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">a</label>
-                          <para amend.level1="struckout-majority">
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
                             <text>in form 1 of Schedule 2 of the Summary Proceedings Act 1957 (with any necessary modifications) and completed by the applicant as if the applicant were an informant; and</text>
                           </para>
                         </label-para>
-                        <label-para amend.level1="struckout-majority" quote="1" skeleton="no">
-                          <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">b</label>
-                          <para amend.level1="struckout-majority">
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
                             <text>alleging that the child has committed an offence or offences the number, nature, or magnitude of which is such as to give serious concern for the child’s wellbeing; and</text>
                           </para>
                         </label-para>
-                        <label-para amend.level1="struckout-majority" quote="1" skeleton="no">
-                          <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">c</label>
-                          <para amend.level1="struckout-majority">
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
                             <text>specifying the details of the alleged offending; and</text>
                           </para>
                         </label-para>
-                        <label-para amend.level1="struckout-majority" quote="1" skeleton="no">
-                          <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">d</label>
-                          <para amend.level1="struckout-majority">
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
                             <text>that may, but need not, contain an application under section 78 for an order for custody of the child pending the determination of the proceedings, or an application for interim orders under any of sections 86A, 88, and 92, or both.</text>
                           </para>
                         </label-para>
                       </para>
                     </subprov>
-                    <subprov amend.level1="struckout-majority" quote="1" skeleton="no">
-                      <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">3</label>
-                      <para amend.level1="struckout-majority">
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
                         <text>The following sections of the Summary Proceedings Act 1957 apply (with any necessary modifications) to an information referred to in <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>:</text>
-                        <label-para amend.level1="struckout-majority" quote="1" skeleton="no">
-                          <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">a</label>
-                          <para amend.level1="struckout-majority">
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
                             <text>section 14 (time for laying information):</text>
                           </para>
                         </label-para>
-                        <label-para amend.level1="struckout-majority" quote="1" skeleton="no">
-                          <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">b</label>
-                          <para amend.level1="struckout-majority">
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
                             <text>section 15 (information to be in prescribed form and upon oath):</text>
                           </para>
                         </label-para>
-                        <label-para amend.level1="struckout-majority" quote="1" skeleton="no">
-                          <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">c</label>
-                          <para amend.level1="struckout-majority">
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
                             <text>section 17 (information to contain sufficient particulars).</text>
                           </para>
                         </label-para>
                       </para>
                     </subprov>
-                    <subprov amend.level1="struckout-majority" quote="1" skeleton="no">
-                      <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">4</label>
-                      <para amend.level1="struckout-majority">
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
                         <text>An information referred to in <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> must be served under sections 152 to 155 (rather than under sections 24 to 29 of the Summary Proceedings Act 1957) as if it were an application for a declaration under section 67 that the child is in need of care or protection.</text>
                       </para>
                     </subprov>
-                    <subprov amend.level1="struckout-majority" quote="1" skeleton="no">
-                      <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">5</label>
-                      <para amend.level1="struckout-majority">
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
                         <text><changeable><citation jurisdiction="nz">Subsections (2) to (4)</citation></changeable> do not prevent an application for a determination and orders under <changeable><citation jurisdiction="nz">section 73E(1)</citation></changeable> in respect of a child from being made in accordance with rules of court of the kind referred to in section 448(2)(c).</text>
                       </para>
                     </subprov>
@@ -2150,12 +3043,6 @@
                             <text>the child to whom that application relates.</text>
                           </para>
                         </label-para>
-                      </para>
-                    </subprov>
-                    <subprov amend.level1="insert-majority" quote="1" skeleton="no">
-                      <label amend.level1="insert-majority" auto.number="no" denominator="yes" quote="1">1A</label>
-                      <para amend.level1="insert-majority">
-                        <text>In section 208 a reference to <emphasis style="bold">criminal proceedings</emphasis> includes an application under <changeable><citation jurisdiction="nz">section 73F</citation></changeable>.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -2188,16 +3075,10 @@
                   <label auto.number="no" denominator="yes" quote="1">73I</label>
                   <heading>Procedural provisions applying to application</heading>
                   <prov.body>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="no" quote="1">(1)</label>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="no"/>
                       <para>
                         <text>Part 3 (except sections 158, 170 to 177, 195, 197, and 199) applies to an application under <changeable><citation jurisdiction="nz">section 73F</citation></changeable> as if it were an application for a declaration under section 67 that the child is in need of care or protection.</text>
-                      </para>
-                    </subprov>
-                    <subprov amend.level1="insert-majority" quote="1" skeleton="no">
-                      <label amend.level1="insert-majority" auto.number="no" denominator="yes" quote="1">2</label>
-                      <para amend.level1="insert-majority">
-                        <text>Where the Court is required to appoint a barrister or solicitor under section 159, the Court must, if practicable, appoint a barrister or solicitor who is qualified to be appointed as a youth advocate under section 323.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -2525,7 +3406,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">e</label>
                           <para>
-                            <text>a restraining order under section 87 against a person<struckoutwords amend.level1="struckout-majority"> who the Court is satisfied has—</struckoutwords><insertwords amend.level1="insert-majority">, in particular, if the Court is satisfied that the person has—</insertwords></text>
+                            <text>a restraining order under section 87 against a person who the Court is satisfied has—</text>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
@@ -3215,7 +4096,7 @@
               <amend quote="1">
                 <prov id="DLM1100021" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                   <label auto.number="no" denominator="yes" quote="1">269A</label>
-                  <heading>Chief executive<struckoutwords amend.level1="struckout-majority"> may inform victims</struckoutwords><insertwords amend.level1="insert-majority"> to ascertain whether victims wish to be informed</insertwords> of progress in implementing decisions, recommendations, and plans</heading>
+                  <heading>Chief executive may inform victims of progress in implementing decisions, recommendations, and plans</heading>
                   <prov.body>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
@@ -3278,39 +4159,6 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov amend.level1="insert-majority" id="DLM1485502" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">32A</label>
-        <heading amend.level1="insert-majority">Jurisdiction of Youth Court</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="no"/>
-            <para amend.level1="insert-majority">
-              <text>Section 272(3) is amended by inserting the following paragraph after paragraph (b):</text>
-              <amend amend.level1="insert-majority" increment="1" quote="1">
-                <label-para quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">ba</label>
-                  <para>
-                    <text>an offence under the Sale of Liquor Act 1989 or section 38(3) of the Summary Offences Act 1981 that is not punishable by imprisonment and is one for which an infringement notice may be issued; or</text>
-                  </para>
-                </label-para>
-              </amend>
-              <follow-text amend.level1="insert-majority" space-before="no">.</follow-text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485503" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">32B</label>
-        <heading amend.level1="insert-majority">Manner of dealing with purely indictable offences or where person elects trial by jury</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>Section 274(2)(a) is amended by omitting <amend.in quote="1">Part 5</amend.in> and substituting <amend.in quote="1">Parts 5 and 5A</amend.in>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
       <crosshead id="DLM1100022" toc="yes">Clarifying relationship between provisions</crosshead>
       <prov id="DLM1100023" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">33</label>
@@ -3321,16 +4169,10 @@
             <para>
               <text>Section 277 is amended by adding the following subsection:</text>
               <amend quote="1">
-                <subprov amend.level1="struckout-majority" quote="1" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">6</label>
-                  <para amend.level1="struckout-majority">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">6</label>
+                  <para>
                     <text><emphasis style="bold">Proceedings</emphasis>, in this section, includes a preliminary hearing to which section 274 applies.</text>
-                  </para>
-                </subprov>
-                <subprov amend.level1="insert-majority" quote="1" skeleton="no">
-                  <label amend.level1="insert-majority" auto.number="no" denominator="yes" quote="1">6</label>
-                  <para amend.level1="insert-majority">
-                    <text>This section is subject to section 274.</text>
                   </para>
                 </subprov>
               </amend>
@@ -4225,7 +5067,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>Sections 247<insertwords amend.level1="insert-majority"> and 249</insertwords> to 271 apply with all necessary modifications to a family group conference convened or reconvened pursuant to <changeable><citation jurisdiction="nz">section 314A(3)(a)</citation></changeable>.</text>
+                        <text>Sections 247 to 271 apply with all necessary modifications to a family group conference convened or reconvened pursuant to <changeable><citation jurisdiction="nz">section 314A(3)(a)</citation></changeable>.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -4241,7 +5083,7 @@
         <heading>Report to be made to Court on effectiveness of certain orders</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="no">(1)</label>
+            <label auto.number="no" denominator="no"/>
             <para>
               <text>Section 320 is amended by repealing subsection (5) and substituting the following subsection:</text>
               <amend quote="1">
@@ -4285,20 +5127,6 @@
                         <text>the barrister or solicitor or youth advocate representing the young person.</text>
                       </para>
                     </label-para>
-                  </para>
-                </subprov>
-              </amend>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-majority">
-              <text>Section 320 is amended by adding the following subsection:</text>
-              <amend amend.level1="insert-majority" quote="1">
-                <subprov amend.level1="insert-majority" skeleton="no">
-                  <label amend.level1="insert-majority" auto.number="no" denominator="yes" quote="1">6</label>
-                  <para amend.level1="insert-majority">
-                    <text>Section 339 applies to every report furnished to the Court pursuant to this section.</text>
                   </para>
                 </subprov>
               </amend>
@@ -4598,7 +5426,7 @@
       <crosshead id="DLM1100066" toc="yes">Strengthening victims’ provisions</crosshead>
       <prov id="DLM1100067" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">50</label>
-        <heading>New sections<struckoutwords amend.level1="struckout-majority"> 437A and 437B</struckoutwords><insertwords amend.level1="insert-majority"> 437B and 437C</insertwords> inserted</heading>
+        <heading>New sections 437A and 437B inserted</heading>
         <prov.body>
           <subprov skeleton="no">
             <label auto.number="no" denominator="no"/>
@@ -4606,7 +5434,7 @@
               <text>The following sections are inserted after section 437:</text>
               <amend quote="1">
                 <prov id="DLM1100068" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                  <label auto.number="no" denominator="yes" quote="1">437B</label>
+                  <label auto.number="no" denominator="yes" quote="1">437A</label>
                   <heading>Notice of decisions in Youth Court proceedings to be given to victims</heading>
                   <prov.body>
                     <subprov skeleton="no">
@@ -4618,7 +5446,7 @@
                   </prov.body>
                 </prov>
                 <prov id="DLM1100069" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                  <label auto.number="no" denominator="yes" quote="1">437C</label>
+                  <label auto.number="no" denominator="yes" quote="1">437B</label>
                   <heading>Notice of decisions of Family Court in child offending proceedings to be given to victims</heading>
                   <prov.body>
                     <subprov skeleton="no">
@@ -4635,9 +5463,9 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM1100070" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="183" bill.type="government" stage="2" year="2007">
+    <part id="DLM1100070" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="183" bill.type="government" stage="1" year="2007">
       <label auto.number="no" denominator="yes">2</label>
-      <heading>Consequential amendments <insertwords amend.level1="insert-majority">and transitional provisions</insertwords></heading>
+      <heading>Consequential amendments</heading>
       <prov id="DLM1100071" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">51</label>
         <heading>Amendments consequential on amendments to section 2(1) (definition of young person)</heading>
@@ -4759,24 +5587,6 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov amend.level1="insert-majority" id="DLM1485504" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">53A</label>
-        <heading amend.level1="insert-majority">Amendments consequential on new sections 17 and 17A (initial assessments)</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">1</label>
-            <para amend.level1="insert-majority">
-              <text><changeable><citation jurisdiction="nz">Section 16(2)(b)</citation></changeable> of the principal Act (as substituted by <changeable><citation jurisdiction="nz">section 9</citation></changeable> of this Act) is amended by adding <amend.in quote="1">, or an initial assessment under <changeable><citation jurisdiction="nz">section 17</citation></changeable>, or an investigation or child and family assessment under <changeable><citation jurisdiction="nz">section 17A</citation></changeable>.</amend.in></text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-majority">
-              <text><changeable><citation jurisdiction="nz">Section 66A(2)(a)(i)</citation></changeable> of the principal Act (as inserted by <changeable><citation jurisdiction="nz">section 17</citation></changeable> of this Act) is amended by adding <amend.in quote="1">, or an initial assessment under <changeable><citation jurisdiction="nz">section 17</citation></changeable>, or an investigation or a child and family assessment under <changeable><citation jurisdiction="nz">section 17A</citation></changeable></amend.in>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
       <prov id="DLM1100074" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">54</label>
         <heading>Amendments consequential on new sections 73A to 73O (child offending)</heading>
@@ -4795,63 +5605,18 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov amend.level1="insert-majority" id="DLM1485505" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">54A</label>
-        <heading amend.level1="insert-majority">Summary Proceedings Act 1957 amended consequentially on amendment to section 272 of principal Act (jurisdiction of Youth Court)</heading>
+      <prov id="DLM1100075" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">55</label>
+        <heading>Amendment consequential on new section 277(6)</heading>
         <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">1</label>
-            <para amend.level1="insert-majority">
-              <text>This section amends the Summary Proceedings Act 1957.</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-majority">
-              <text>Section 20A(13) is amended by adding <amend.in quote="1">or an offence under the Sale of Liquor Act 1989 or section 38(3) of the Summary Offences Act 1981 that is not punishable by imprisonment and is one for which an infringement notice may be issued</amend.in>.</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">3</label>
-            <para amend.level1="insert-majority">
-              <text>Section 88(3AA) is amended by repealing paragraph (a) and substituting the following paragraph:</text>
-              <amend amend.level1="insert-majority" increment="1" quote="1">
-                <label-para amend.level1="insert-majority" quote="1" skeleton="no">
-                  <label amend.level1="insert-majority" auto.number="no" denominator="yes" quote="1">a</label>
-                  <para amend.level1="insert-majority">
-                    <text>the fine was imposed in respect of—</text>
-                    <label-para amend.level1="insert-majority" quote="1" skeleton="no">
-                      <label amend.level1="insert-majority" auto.number="no" denominator="yes" quote="1">i</label>
-                      <para amend.level1="insert-majority">
-                        <text>a traffic offence (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) not punishable by imprisonment; or</text>
-                      </para>
-                    </label-para>
-                    <label-para amend.level1="insert-majority" quote="1" skeleton="no">
-                      <label amend.level1="insert-majority" auto.number="no" denominator="yes" quote="1">ii</label>
-                      <para amend.level1="insert-majority">
-                        <text>an offence under the Sale of Liquor Act 1989 or section 38(3) of the Summary Offences Act 1981 that is not punishable by imprisonment and is one for which an infringement notice may be issued; and</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </label-para>
-              </amend>
-              <follow-text amend.level1="insert-majority" space-before="no">.</follow-text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="struckout-majority" id="DLM1100075" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="struckout-majority" auto.number="no" denominator="yes">55</label>
-        <heading amend.level1="struckout-majority">Amendment consequential on new section 277(6)</heading>
-        <prov.body>
-          <subprov amend.level1="struckout-majority" skeleton="no">
-            <label amend.level1="struckout-majority" auto.number="no" denominator="no"/>
-            <para amend.level1="struckout-majority">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
               <text>Section 274 is amended by adding the following subsection:</text>
-              <amend amend.level1="struckout-majority" quote="1">
-                <subprov amend.level1="struckout-majority" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes" quote="1">3</label>
-                  <para amend.level1="struckout-majority">
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">3</label>
+                  <para>
                     <text>A preliminary hearing to which this section applies is, under <changeable><citation jurisdiction="nz">section 277(6)</citation></changeable>, a proceeding for the purposes of section 277.</text>
                   </para>
                 </subprov>
@@ -4884,316 +5649,10 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov amend.level1="insert-majority" id="DLM1485506" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">58</label>
-        <heading amend.level1="insert-majority">Transitional provision for services, support, and custody orders</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">1</label>
-            <para amend.level1="insert-majority">
-              <text>This section applies to the following orders made before the commencement of <changeable><citation jurisdiction="nz">sections 4(2) and 51(2)</citation></changeable>:</text>
-              <label-para amend.level1="insert-majority" skeleton="no">
-                <label amend.level1="insert-majority" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="insert-majority">
-                  <text>a services order made under section 86(1) of the principal Act:</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-majority" skeleton="no">
-                <label amend.level1="insert-majority" auto.number="no" denominator="yes">b</label>
-                <para amend.level1="insert-majority">
-                  <text>a support order made under section 91(1) of the principal Act:</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-majority" skeleton="no">
-                <label amend.level1="insert-majority" auto.number="no" denominator="yes">c</label>
-                <para amend.level1="insert-majority">
-                  <text>a custody order made under section 101(1) of the principal Act.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-majority">
-              <text>An order described in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> expires when the child or young person attains the age of 18 years unless the order expires earlier or has already ceased to have effect.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485507" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">59</label>
-        <heading amend.level1="insert-majority">Transitional provision for applications for declaration that child or young person in need of care or protection</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>Every application made before the commencement of <changeable><citation jurisdiction="nz">sections 73A to 73O</citation></changeable> of the principal Act (as inserted by <changeable><citation jurisdiction="nz">section 18</citation></changeable> of this Act) for a declaration that a child or young person is in need of care or protection on the ground set out in section 14(1)(e) of that Act is to be continued as if it were an application for a determination and orders under <changeable><citation jurisdiction="nz">section 73F</citation></changeable> of that Act. </text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485508" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">60</label>
-        <heading amend.level1="insert-majority">Transitional provision for extended supervision with activity order</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>If a charge against a young person is proved before a Youth Court and that charge relates to an offence committed before the commencement of <changeable><citation jurisdiction="nz">sections 35(1) and 42</citation></changeable> of this Act, the Youth Court may make an extended supervision with activity order under <changeable><citation jurisdiction="nz">section 307A</citation></changeable> of the principal Act (as inserted by <changeable><citation jurisdiction="nz">section 42</citation></changeable>) only if the young person consents to the making of that order.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485509" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">61</label>
-        <heading amend.level1="insert-majority">Transitional provision for extended supervision with residence order</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>If a charge against a young person is proved before a Youth Court and that charge relates to an offence committed before the commencement of <changeable><citation jurisdiction="nz">sections 35(2) and 44</citation></changeable> of this Act, the Youth Court may make an extended supervision with residence order under <changeable><citation jurisdiction="nz">section 311A</citation></changeable> of the principal Act (as inserted by <changeable><citation jurisdiction="nz">section 44</citation></changeable>) only if the young person consents to the making of that order.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485510" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">62</label>
-        <heading amend.level1="insert-majority">Application of provision relating to time limits for family group conferences</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text><changeable><citation jurisdiction="nz">Section 20A</citation></changeable> of the principal Act (as inserted by <changeable><citation jurisdiction="nz">section 11</citation></changeable> of this Act) only applies to a family group conference required to be convened on or after the commencement of <changeable><citation jurisdiction="nz">section 11</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485511" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">63</label>
-        <heading amend.level1="insert-majority">Transitional provision relating to attendance at family group conferences</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>Section 22 of the principal Act (as amended by <changeable><citation jurisdiction="nz">section 13</citation></changeable> of this Act) applies to all family group conferences required to be convened under Part 2 of the principal Act, whether required to be convened or reconvened before, on, or after the commencement of <changeable><citation jurisdiction="nz">section 13</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485512" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">64</label>
-        <heading amend.level1="insert-majority">Application of provision relating to making information and advice available to family group conferences </heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">1</label>
-            <para amend.level1="insert-majority">
-              <text><changeable><citation jurisdiction="nz">Section 23</citation></changeable> of the principal Act (as amended by <changeable><citation jurisdiction="nz">section 14</citation></changeable> of this Act) only applies to a family group conference convened after the commencement of <changeable><citation jurisdiction="nz">section 14</citation></changeable>.</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-majority">
-              <text>Section 23 of the principal Act, as in force immediately before the commencement of <changeable><citation jurisdiction="nz">section 14</citation></changeable> of this Act, continues to apply to a family group conference convened before the commencement of <changeable><citation jurisdiction="nz">section 14</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485513" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">65</label>
-        <heading amend.level1="insert-majority">Transitional provision relating to functions of family group conferences</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>Section 28 of the principal Act (as amended by <changeable><citation jurisdiction="nz">section 15</citation></changeable> of this Act) applies to family group conferences that have been convened but not completed before the commencement of <changeable><citation jurisdiction="nz">section 15</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485514" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">66</label>
-        <heading amend.level1="insert-majority">Transitional provision relating to extending agreements for temporary care</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>Section 139 of the principal Act (as amended by <changeable><citation jurisdiction="nz">section 22</citation></changeable> of this Act) applies to agreements for temporary care entered into before the commencement of <changeable><citation jurisdiction="nz">section 22</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485515" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">67</label>
-        <heading amend.level1="insert-majority">Transitional provision relating to reduced maximum period for agreement for extended care of severely disabled </heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>Nothing in <changeable><citation jurisdiction="nz">section 24</citation></changeable> reduces the term of any agreement entered into under section 141 of the principal Act before the commencement of <changeable><citation jurisdiction="nz">section 24</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485516" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">68</label>
-        <heading amend.level1="insert-majority">Application of provision relating to consultation requirement on family group conferences</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">1</label>
-            <para amend.level1="insert-majority">
-              <text><changeable><citation jurisdiction="nz">Section 250</citation></changeable> of the principal Act (as substituted by <changeable><citation jurisdiction="nz">section 28</citation></changeable> of this Act) only applies to a family group conference required to be convened under Part 4 of the principal Act on or after the commencement of <changeable><citation jurisdiction="nz">section 28</citation></changeable>.</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-majority">
-              <text>Section 250 of the principal Act, as in force immediately before the commencement of <changeable><citation jurisdiction="nz">section 28</citation></changeable> of this Act, continues to apply to a family group conference required to be convened under Part 4 of the principal Act before the commencement of <changeable><citation jurisdiction="nz">section 28</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485517" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">69</label>
-        <heading amend.level1="insert-majority">Transitional provision relating to entitlement to attend family group conferences</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>If, before the commencement of this section, a person who is entitled to attend a family group conference does not attend that family group conference, then section 251 of the principal Act (as amended by <changeable><citation jurisdiction="nz">section 29</citation></changeable> of this Act) applies.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485518" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">70</label>
-        <heading amend.level1="insert-majority">Application of provision relating to provision of information and advice</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">1</label>
-            <para amend.level1="insert-majority">
-              <text><changeable><citation jurisdiction="nz">Section 255</citation></changeable> of the principal Act (as substituted by <changeable><citation jurisdiction="nz">section 30</citation></changeable> of this Act) only applies to a family group conference convened after the commencement of <changeable><citation jurisdiction="nz">section 30</citation></changeable>.</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-majority">
-              <text>Section 255 of the principal Act, as in force immediately before the commencement of <changeable><citation jurisdiction="nz">section 30</citation></changeable> of this Act, continues to apply to a family group conference convened before the commencement of <changeable><citation jurisdiction="nz">section 30</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485519" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">71</label>
-        <heading amend.level1="insert-majority">Application of provision relating to notification of victims</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text><changeable><citation jurisdiction="nz">Section 269A</citation></changeable> of the principal Act (as inserted by <changeable><citation jurisdiction="nz">section 32</citation></changeable> of this Act) only applies to decisions, recommendations, or plans made or formulated by a family group conference on or after the commencement of <changeable><citation jurisdiction="nz">section 32</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485520" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">72</label>
-        <heading amend.level1="insert-majority">Transitional provision relating to transfer of young person of or over age of 14 years and under age of 15 years to District Court</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>If a charge relating to an indictable offence against a young person who is of or over the age of 14 years and under the age of 15 years is proved before the Youth Court and that charge relates to an offence committed before the commencement of <changeable><citation jurisdiction="nz">section 35(3)</citation></changeable> of this Act, the Youth Court may enter a conviction and order that the young person be brought before a District Court for sentence or decision under section 283(o) of the principal Act (as amended by <changeable><citation jurisdiction="nz">section 35(3)</citation></changeable>) only with the young person's consent.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485521" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">73</label>
-        <heading amend.level1="insert-majority">Transitional provision relating to release of young person from chief executive's custody</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>The conditions for release from the chief executive's custody set out in section 314 of the principal Act, as in force immediately before the commencement of <changeable><citation jurisdiction="nz">section 45</citation></changeable> of this Act, continue to apply to a supervision with residence order made under section 311 of the principal Act before the commencement of <changeable><citation jurisdiction="nz">section 45</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485522" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">74</label>
-        <heading amend.level1="insert-majority">Transitional provision relating to provision of effectiveness report</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-majority">
-              <text>Section 320 of the principal Act (as amended by <changeable><citation jurisdiction="nz">section 47</citation></changeable> of this Act) applies to any report required to be furnished under section 320 that is not completed before the commencement of <changeable><citation jurisdiction="nz">section 47</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-majority" id="DLM1485523" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-majority" auto.number="no" denominator="yes">75</label>
-        <heading amend.level1="insert-majority">Regulations for transitional and savings purposes</heading>
-        <prov.body>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">1</label>
-            <para amend.level1="insert-majority">
-              <text>The Governor-General may, by Order in Council, make regulations prescribing transitional or savings provisions relating to <changeable><citation jurisdiction="nz">section 4(3)</citation></changeable> (which amends the definition of young person to increase the upper age to include persons of 17 years in relation to youth justice provisions in the principal Act) and <changeable><citation jurisdiction="nz">section 51(3), and Parts 3 and 4 of Schedule 1</citation></changeable> (which makes amendments consequential on amendments to the definition of young person).</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-majority">
-              <text>The purpose of regulations made under <changeable><citation jurisdiction="nz">section (1)</citation></changeable> is to ensure that persons aged 17 years who are subject to criminal proceedings before a District Court or the High Court on the date that <changeable><citation jurisdiction="nz">section 4(3), section 51(3), and Parts 3 and 4 of Schedule 1</citation></changeable> come into force receive the benefit of the principles set out in section 25(g) of the New Zealand Bill of Rights Act 1990 and section 6 of the Sentencing Act 2002, and to provide for related matters. </text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">3</label>
-            <para amend.level1="insert-majority">
-              <text>Any transitional or savings provision prescribed by regulations made under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> may, without limitation,—</text>
-              <label-para amend.level1="insert-majority" skeleton="no">
-                <label amend.level1="insert-majority" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="insert-majority">
-                  <text>apply to any stage of criminal proceedings before a District Court or the High Court before the defendant or accused has been sentenced:</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-majority" skeleton="no">
-                <label amend.level1="insert-majority" auto.number="no" denominator="yes">b</label>
-                <para amend.level1="insert-majority">
-                  <text>specify in which court the proceedings are to continue:</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-majority" skeleton="no">
-                <label amend.level1="insert-majority" auto.number="no" denominator="yes">c</label>
-                <para amend.level1="insert-majority">
-                  <text>despite the Sentencing Act 2002, limit the sentencing powers of the court in which the proceedings are to continue:</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-majority" skeleton="no">
-                <label amend.level1="insert-majority" auto.number="no" denominator="yes">d</label>
-                <para amend.level1="insert-majority">
-                  <text>apply provisions of the principal Act to criminal proceedings in a District Court or the High Court as if that court were a Youth Court and the judge of that court a Youth Court Judge:</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-majority" skeleton="no">
-                <label amend.level1="insert-majority" auto.number="no" denominator="yes">e</label>
-                <para amend.level1="insert-majority">
-                  <text>specify different treatment by reference to the stage of proceedings or the period between the commencement of the proceedings and the commencement of <changeable><citation jurisdiction="nz">section 4(3)</citation></changeable>.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-majority" skeleton="no">
-            <label amend.level1="insert-majority" auto.number="no" denominator="yes">4</label>
-            <para amend.level1="insert-majority">
-              <text>This section expires on the close of the day that is 3 years after the commencement of this section. </text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
     </part>
   </body>
   <schedule.group>
-    <schedule id="DLM1100078" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="183" bill.type="government" stage="2" year="2007">
+    <schedule id="DLM1100078" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="183" bill.type="government" stage="1" year="2007">
       <label auto.number="no" denominator="yes">1</label>
       <empowering-prov>
         <changeable>
@@ -5347,7 +5806,7 @@
         </schedule.amendments.group1>
       </schedule.amendments>
     </schedule>
-    <schedule id="DLM1100104" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="183" bill.type="government" stage="2" year="2007">
+    <schedule id="DLM1100104" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="183" bill.type="government" stage="1" year="2007">
       <label auto.number="no" denominator="yes">2</label>
       <empowering-prov>
         <changeable>
@@ -5632,7 +6091,7 @@
         </schedule.amendments.group1>
       </schedule.amendments>
     </schedule>
-    <schedule id="DLM1100145" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="183" bill.type="government" stage="2" year="2007">
+    <schedule id="DLM1100145" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="183" bill.type="government" stage="1" year="2007">
       <label auto.number="no" denominator="yes">3</label>
       <empowering-prov>
         <changeable>
@@ -5826,7 +6285,7 @@
         </schedule.amendments.group2>
       </schedule.amendments>
     </schedule>
-    <schedule id="DLM1100169" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="183" bill.type="government" stage="2" year="2007">
+    <schedule id="DLM1100169" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="183" bill.type="government" stage="1" year="2007">
       <label auto.number="no" denominator="yes">4</label>
       <empowering-prov>
         <changeable>
@@ -6050,18 +6509,4 @@
       </schedule.amendments>
     </schedule>
   </schedule.group>
-  <end id="DLM1485524">
-    <leg-history id="DLM1485525">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2007-12-03</date>
-        <description>Introduction (Bill 183–1)</description>
-      </history-item>
-      <history-item>
-        <date>2008-03-05</date>
-        <description>First reading and referral to Social Services Committee</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
-<!--End of file, do NOT remove.-->
