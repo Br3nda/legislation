@@ -1,203 +1,1056 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM1098300" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2008" bill.no="165" bill.type="government" stage="2" year="2007">
+<bill id="DLM1098300" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2007" bill.no="165" bill.type="government" stage="1" year="2007">
   <billdetail>
     <title>Corrections Amendment Bill (No 2)</title>
     <billtype xml:lang="en-NZ">Government Bill</billtype>
-    <repnote>As reported from the Law and Order Committee</repnote>
-    <commentary id="DLM1485300" in.amend="false" irdnumbering="no" official="yes" bill.no="165" bill.type="government" stage="2" year="2007">
-      <heading>Commentary</heading>
-      <comm.lev1>
-        <heading>Recommendation</heading>
+    <explnote id="DLM1098301" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="165" bill.type="government" stage="1" year="2007">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
         <para>
-          <text>The Law and Order Committee has examined the Corrections Amendment Bill (No 2) and recommends that it be passed with the amendments shown.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Introduction</heading>
-        <para>
-          <text>This bill makes a number of amendments to the Corrections Act 2004, which are intended to improve the operations of the corrections system. The amendments are needed to address issues with the existing legislation; the proposed changes would expand the existing framework and give better effect to its provisions. </text>
+          <text>This Bill makes a number of amendments to the Corrections Act 2004 (the <def-term id="DLM1098302">Act</def-term>) that are intended to improve the operations of the corrections system. The Act is relatively new and is generally working well. However, some amendments are needed to address issues that have arisen during the time since its passage. The proposed changes add to the existing framework and help give better effect to existing provisions. There have been 2 particular drivers for the changes included in the Bill—technological advances in forms of electronic communication since the passage of the Act, and the need to incrementally improve the control of contraband in prisons.</text>
         </para>
         <para>
-          <text>This commentary covers the key amendments that we recommend to the bill. It does not cover minor or technical amendments.</text>
+          <text>The main components of the Bill are—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>improvements to the control of contraband in prisons through additional search, detection, and offence provisions:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>a consistent approach to the monitoring of prisoners’ telephone calls and mail:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>a limitation on the Crown’s liability in an emergency situation (caused by an epidemic, civil defence emergency, or specific prison situation):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>information sharing about highest-risk offenders:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>new offence provisions relating to unauthorised communications with prisoners:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the use of firearms for animal and pest control in prison grounds:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provision for communion wine to be consumed in prisons:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>authority for the Department of Corrections (the <def-term id="DLM1098303">Department</def-term>) and its agents to electronically detect, monitor, disable, disrupt, and interfere with wireless transmissions within prison boundaries in order to prevent or stop unauthorised electronic communications, and the delivery, possession, or use of unauthorised electronic communication devices.</text>
+              </para>
+            </item>
+          </list>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Definitions</heading>
+        <explnote.subhead1>Contraband and drug use</explnote.subhead1>
         <para>
-          <text>We recommend amending the definition of “electronic communication device” in clause 4 of the bill, to allow for circumstances where prisoners may be permitted to use a telephone by their supervisors. </text>
+          <text>Contraband is a major concern in the prison system, with items such as drugs, alcohol, money, offensive weapons, and mobile telephones having the capacity to produce serious problems for prison management. Such items can present a direct threat to staff and prisoners, lead to stand-over tactics and assaults, and allow prisoners to subvert prison controls and organise further criminal activities outside the prison. A failure to control their entry and use in prisons also has a serious negative effect on perceptions, especially by staff and prisoners but also by the public, of the Department’s capacity to manage and control prisons.</text>
         </para>
         <para>
-          <text>We recommend that the definition of “officer” in clause 4 be amended so that the chief executive could designate any employee of the department to hold specific powers or carry out particular functions of an officer, as set out in specified provisions of the legislation. </text>
+          <text>In recent years a number of factors have impacted on the control of contraband in prisons, including the growth in the prison population and consequent increase in inexperienced staff members, gang involvement in prisons, drug and alcohol use and dependency, and the changing nature of contraband, with both drugs and electronic devices becoming smaller and easier to conceal.</text>
         </para>
         <para>
-          <text>We recommend that a subclause be added to clause 4 to include a national preventive mechanism, as defined by the Crimes of Torture Act 1989, in the definition of “official agency”. </text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Religious and spiritual needs </heading>
-        <para>
-          <text>We recommend that clause 6 be amended so that new section 79(3) allows the possible use of alcohol in both Christian and non-Christian religious ceremonies, and to make it clear that the provision authorises the consumption of only small quantities of alcohol in such religious ceremonies. New section 79(3), inserted by the bill, allows wine to be provided by prison chaplains and ministers of religion at church services attended by prisoners. </text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Possession, carriage, and use of firearms prohibited</heading>
-        <para>
-          <text>We recommend amending clause 7, which allows a sick or injured animal to be killed using a firearm for humane reasons. To ensure this is clear, we recommend inserting the words “sick or injured” before “animals”.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Authority to search property</heading>
-        <para>
-          <text>We recommend inserting new clause 8A to amend section 96 of the Corrections Act to clarify that the authority conferred by the Act to search items or places authorises the use of aids such as chemical substances, x-ray or imaging equipment, or other mechanical, electrical, or electronic devices.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Prisoner may be required to submit to drug or alcohol test</heading>
-        <para>
-          <text>We recommend inserting new clause 19(1) into the bill to amend section 124(2)(c)(i) by substituting “that has as one of its aims the reduction of” for “that aims to reduce”. It has been noted that the wording of the current provision that applies when a prisoner has agreed to be tested for drug or alcohol use on demand may be interpreted more restrictively than intended. Various programmes and arrangements will not be effective in rehabilitating or reintegrating the prisoner if he or she continues to use drugs or alcohol. In these cases it can be said that the reduction of drug and alcohol use is one of the aims of the action even though it is not the primary focus or the ultimate purpose. </text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Power of seizure </heading>
-        <para>
-          <text>We recommend inserting new clauses 21A and 21B to broaden the power of forfeiture applying to offences against discipline. In the current regulations there is a power to seize items that may be used as evidence of an offence against discipline, but the legislation allows items to be forfeited only if they are unauthorised. The recommended amendments would allow a hearing adjudicator or Visiting Justice to order the forfeiture of anything that had been used to commit a proven offence against discipline. Forfeiture of such items would be discretionary, and items not belonging to the prisoner who committed the offence could be returned to their rightful owners. This would align the legislation more closely with the general offences against the Corrections Act in section 150.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Unauthorised deliveries, communications, and recordings</heading>
-        <para>
-          <text>We recommend that clause 22(5) be amended by replacing “knowingly” with “without reasonable excuse” in section 141(1)(g). We believe that this would help the Courts to focus on the circumstances of the particular case, thereby reducing the likelihood that innocent behaviour would be captured.</text>
-        </para>
-        <para>
-          <text>We recommend amending clause 22(6) of the bill to change the penalties set out in section 141. We recommend that offences against sections 141(1)(b) and 141(1)(c), and attempts to commit them, incur a maximum fine of $5,000.</text>
-        </para>
-        <para>
-          <text>We also recommend that clause 22(7) be amended so that for offences committed by officers, staff members, or probation officers against new section 141(1)(g) the maximum term of imprisonment would be 12 months instead of three months.</text>
+          <text>A range of legislative and operational measures are already in place to reduce both the demand for contraband and its supply, and to improve the effectiveness of drug and alcohol testing. Operational steps that are currently being taken or planned for include—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>a strengthened response to gang-management issues in prisons:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>expanded drug detection dog teams in prisons:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>additional drug treatment units:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>best practice telephone-monitoring systems:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>cellphone detectors:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>implementation of a regional crime prevention information staffing model and a crime prevention database and network.</text>
+              </para>
+            </item>
+          </list>
         </para>
         <para>
-          <text>This change would ensure consistency in the maximum penalties that could be imposed on an officer, staff member, or probation officer, as the new offence in new section 141(1)(g) is similar to those applicable for the introduction of contraband under section 141(1)(a), (b), (c), or (d).</text>
+          <text>The extent of the amount of contraband being detected in prison indicates that, on their own, operational measures go only so far towards managing the problem and that some legislative enhancements are also needed.</text>
         </para>
-      </comm.lev1>
-      <comm.appendix>
-        <heading>Appendix</heading>
-        <comm.lev2>
-          <heading>Committee process</heading>
+        <para>
+          <text>The Bill—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>enhances existing search powers in relation to the strip searching of prisoners, and the searching of staff lockers and other parts of a prison set aside for the exclusive use of a person other than a prisoner:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provides for retesting if a sample provided by a prisoner during drug and alcohol testing is dilute, tainted, or otherwise contaminated:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provides for strip searching in those circumstances when a prisoner is to be retested, and before and after Parole Board hearings:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>strengthens the provisions around tampering with a sample or possessing items that could be used to tamper with a sample:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>introduces new provisions relating to unauthorised electronic communication devices.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.subhead1>Prisoner mail</explnote.subhead1>
+        <para>
+          <text>It is clear that letters containing threats, plans for further offending, and other prohibited communications are leaving prisons. Current legislation does not permit prison staff to screen prisoners’ mail without a reasonable-grounds test being met, and in most cases there are, on the face of it, no reasonable grounds to suspect that a particular letter may need to be withheld. The Act is inconsistent in its treatment of prisoners’ mail and telephone calls. All telephone calls may be screened and unlawful communications may be recorded and passed to the police or other enforcement agencies. In the absence of tighter controls, prisoners’ mail is likely to be seen as a relatively risk-free way to communicate prohibited messages once cellphones are clamped down on.</text>
+        </para>
+        <para>
+          <text>The Bill provides that all prisoner mail, other than mail that is currently exempt, can be read, but only for the purpose of determining whether mail should be withheld under section 108(1) (for example, on the grounds that it endangers the safety or welfare of any person).</text>
+        </para>
+        <explnote.subhead1>Emergency management</explnote.subhead1>
+        <para>
+          <text>At present the Crown and departmental agents and contractors may be liable for any breach of the Act or its regulations that is reasonably necessary or unavoidable during an epidemic, civil defence, or prison-specific emergency. In addition, it is unclear whether successful actions could be taken against the Crown for the continued detention of a prisoner past his or her release date while a prison is covered by a quarantine order issued under the Health Act 1956 during an epidemic emergency situation. There is no certainty that the provisions of the Health Act 1956 will override other legislation or that the common law doctrine of necessity will protect the Department from damages claims for actions taken in good faith in an emergency situation, both in respect of prisoners and others who happen to be in a prison when an emergency is declared.</text>
+        </para>
+        <para>
+          <text>Providing protection from liability during an emergency would provide some certainty and clarity around the steps that may be taken to manage prisons in the event of any emergency situation.</text>
+        </para>
+        <explnote.subhead1>Information sharing</explnote.subhead1>
+        <para>
+          <text>The Act provides for the release to the police of certain information on highest-risk offenders to assist in monitoring their compliance with release conditions. There are 3 problems with these provisions. First, the set of information may not allow the police on all occasions to adequately identify a particular prisoner so that the prisoner can be monitored. Second, the purpose for releasing the information, and the restriction of that information release only to the police, does not allow for consideration of the prisoner’s reintegration into the community. Third, the disclosure of information is limited to the police and it may be useful on occasion to also involve social agencies so that a full range of reintegration issues can be addressed.</text>
+        </para>
+        <para>
+          <text>The Bill allows information to be disclosed that is sufficient to allow a co-ordinated response by the Department, the police, and where appropriate, relevant social agencies. This is so that the best arrangements for the placement of a prisoner into the community can be made, taking into account the interests of the prisoner and community safety.</text>
+        </para>
+        <explnote.subhead1>Unauthorised communications with prisoners</explnote.subhead1>
+        <para>
+          <text>Sections 141 and 143 of the Act include offence provisions in relation to unauthorised communications with prisoners. These provisions do not prohibit unauthorised communications with a prisoner that may prejudice the well-being of a victim of a crime committed by that prisoner. This could result, for example, from the publication of details of the crime.</text>
+        </para>
+        <para>
+          <text>The Bill provides for prejudice to the well-being of the victim as an additional ground for the offence of unauthorised communications with prisoners.</text>
+        </para>
+        <explnote.subhead1>Firearms for animal and pest control</explnote.subhead1>
+        <para>
+          <text>The Act provides that nothing in the Act authorises an officer or a staff member to carry, possess, or use any firearm. There are, however, circumstances on prison farms and nurseries when it is desirable for staff members to be able to use firearms in the course of their duties—for example, putting down badly injured or ill animals, or for pest control of rabbits and hares. It is costly and impractical for the Department to alternatively make use of veterinarians for putting down severely injured animals.</text>
+        </para>
+        <para>
+          <text>The Bill provides for an amendment to allow the chief executive to empower staff members with a firearms licence to possess, carry, and use firearms, but only for the purposes of humanely killing animals, pest control, and for specified prison industry purposes, such as pet food production. Appropriate safeguards are provided for the use and storage of these firearms to ensure that they do not become available to prisoners.</text>
+        </para>
+        <explnote.subhead1>Exemptions for communion wine</explnote.subhead1>
+        <para>
+          <text>It is not lawful under the Act and the Corrections Regulations 2005 (the <def-term id="DLM1098304">regulations</def-term>) for a prison chaplain or priest to bring wine into a prison for the purpose of celebrating Mass or Holy Communion. It is also an offence against discipline for a prisoner to consume communion wine (or any alcohol) without the authority of a medical officer.</text>
+        </para>
+        <para>
+          <text>The Bill allows wine to be provided by prison chaplains and ministers of religion at church services attended by prisoners. This is consistent with freedom of religion and other rights of minorities affirmed under the New Zealand Bill of Rights Act 1990.</text>
+        </para>
+        <explnote.subhead1>Forfeiture of items</explnote.subhead1>
+        <para>
+          <text>The Act establishes a process whereby items connected to an offence can be seized. If items are seized from a person who is not a prisoner and the person is convicted of the offence, the Act also states that the item is forfeit to the Crown unless a Court orders otherwise. There is no equivalent forfeiture provision for items related to an offence against discipline committed by a prisoner. Additionally, there is nothing expressly authorising the Department to use or otherwise dispose of items that are forfeit.</text>
+        </para>
+        <para>
+          <text>The Bill would allow the forfeiture of items that have been seized in relation to offences and disciplinary offences (with appropriate protections), and empower the Department to use and dispose of forfeited items.</text>
+        </para>
+        <explnote.subhead1>Cellphone jamming</explnote.subhead1>
+        <para>
+          <text>The illicit use of cellphones in prisons has become increasingly difficult to manage through traditional search and seizure techniques. Within prison walls, cellphones have been used by prisoners to organise further criminal offending, to threaten and harass witnesses and others, and to arrange escapes.</text>
+        </para>
+        <para>
+          <text>Entry solutions, such as scanner devices at the entrance to a prison, do not completely prevent illicit cellphone activity. Disabling and interference (jamming) solutions appear to be the most effective method for dealing with the problem because they can completely eliminate cellphone coverage within prison boundaries.</text>
+        </para>
+        <para>
+          <text>The Department, Telecom, and Vodafone have been working together to arrive at solutions for monitoring and preventing cellphone use in prisons through electronic means.</text>
+        </para>
+        <para>
+          <text>Three solutions have been selected for implementation—a hard-wired detection solution, a disabling solution, and an interference solution. The suitability of a solution to a particular prison site will be fully assessed in the next stages of the project.</text>
+        </para>
+        <para>
+          <text>The Bill would provide an explicit authority for the Department to intercept, monitor, detect, disable, disrupt, and interfere with radio-based telecommunications within a prison in order to stop or prevent transmissions from cellphones (and other electronic communication devices), but only where this does not prevent the legitimate use of cellphones outside prison boundaries. The proposed amendment would state that no solution may be implemented that would result in harmful interference (as defined by the Radiocommunications Act 1989) outside prison boundaries. This means that members of the public would be able to use their cellphones outside prison boundaries.</text>
+        </para>
+        <para>
+          <text>Amendments are also proposed to authorise any incidental monitoring and to enable the Department to take the appropriate action if, for example, a prisoner was overheard making plans, by way of a cellphone, to commit a crime.</text>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
           <para>
-            <text>The Corrections Amendment Bill (No 2) was referred to the committee on 21 February 2008. The closing date for submissions was 8 April 2008. We received and considered three written submissions from interested groups and individuals. We heard one submission.</text>
+            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
           </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Committee membership</heading>
+        </clause.desc>
+        <clause.desc>
           <para>
-            <text>Ron Mark (Chairperson)</text>
+            <text><emphasis style="italic">Clause 2</emphasis> provides for the Bill (once enacted) to come into force on a date appointed by the Governor-General by Order in Council. One or more Orders in Council may be made bringing different provisions into force on different dates.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 3</emphasis> states that this Act amends the Corrections Act 2004.</text>
+          </para>
+        </clause.desc>
+        <explnote.part id="DLM1098305">
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>Amendments to Corrections Act 2004</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4(1)</emphasis> amends section 3(1) to insert a definition of electronic communication device. That definition extends to include any part of an electronic communication device, and any device that facilitates the functioning of an electronic communication device (for example, a cellphone recharger). <emphasis style="italic">New section 141A</emphasis>, as inserted by <emphasis style="italic">clause 23</emphasis>, will make it an imprisonable offence for a prisoner to knowingly, and without authority, use or possess an electronic communication device. <emphasis style="italic">Paragraph (d)</emphasis> of the definition of electronic communication device is, therefore, significant because it ensures that telephone facilities that prisoners can lawfully use are not caught by that definition.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4(2)</emphasis> amends paragraph (a)(v) of the definition of officer. The current provision specifies that an employee of the Department is an officer if the chief executive designates that person to carry out the powers and functions of an officer in respect of 2 or more prisons. The amendment replaces the reference to 2 or more prisons with a reference to 1 or more prisons.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4(3)</emphasis> omits references to independent contractor from the definition of staff member of a prison or staff member.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4(4) and (5)</emphasis> include in the definition of unauthorised item—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>an electronic communication device; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>any thing or substance that could be used to tamper with samples provided by prisoners for drug or alcohol testing.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5</emphasis> updates section 23(3) to include references to enforcement powers under sections 56 to 58 of the Misuse of Drugs Amendment Act 2005, and sections 200B, 200F, and 200G of the Summary Proceedings Act 1957. Section 23(3) lists statutory provisions that do not apply to a member of the armed forces, or an officer who is not also a member of the police, when acting in the capacity of an officer under the principal Act.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> amends section 79 to ensure that section 129(a) (which forbids the consumption of alcohol by prisoners other than on medical grounds) does not operate to prohibit the consumption of wine by a prisoner partaking in Holy Communion.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 7</emphasis> amends section 86, which currently prohibits the possession and use of firearms by officers and staff members. The amendment permits the use of firearms by officers or staff members authorised by the chief executive for the purposes of any prison industry, humane killing of animals, and pest control. Firearms, however, must not be used in the presence of prisoners, must not be stored in a prison, and may only be used by those officers or staff members who hold the appropriate licence.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 8</emphasis> amends the definition of strip search in section 90 to allow a person conducting the search to require the person being searched to lift or raise any part of his or her body (for example, rolls of fat, genitalia, or breasts).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9</emphasis> makes the following changes to section 98 (which relates to the search of prisoners and cells):</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a prisoner may be strip searched immediately after (as well as before) a hearing or examination before a Visiting Justice or a hearing adjudicator, or an appeal before a Visiting Justice (<emphasis style="italic">Clause 9(1)</emphasis>):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a prisoner may also be strip searched—</text>
+                    <list>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>before or after a hearing before the New Zealand Parole Board (<emphasis style="italic">Clause 9(2)</emphasis>); and</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>immediately before he or she submits to further drug or alcohol testing under <emphasis style="italic">new section 124(2)(d)</emphasis> (where the manager has reasonable grounds to believe that the prisoner’s previous sample was dilute, tainted, or contaminated) (<emphasis style="italic">Clause 9(3)</emphasis>).</text>
+                        </para>
+                      </item>
+                    </list>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 10</emphasis> relates to section 100(1), which currently authorises an officer who has reasonable grounds to suspect that there is an unauthorised item in any place in a prison set aside for the exclusive use of a person other than a prisoner (for example, a staff member’s locker). Section 100(1) is repealed and replaced by a new section that no longer requires that an officer have reasonable grounds to suspect that there is an unauthorised item in that place.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 11</emphasis> inserts <emphasis style="italic">new section 103A</emphasis>, which provides a definition of authorised officer. An authorised officer is a prison manager or officer authorised by the manager to open and read mail under sections 104 to <emphasis style="italic">110A</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clauses 12 and 13</emphasis> make consequential amendments to sections 104 and 106(2) to reflect the new definition of authorised officer.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 14</emphasis> repeals and replaces section 107(1). <emphasis style="italic">New section 107(1)</emphasis> permits an authorised officer to read correspondence between a prisoner and another person for the purpose of ascertaining whether it may be withheld under section 108(1). Currently, section 107(1) authorises only the prison manager to read prisoner correspondence and only in specified circumstances. <emphasis style="italic">New section 107(1)</emphasis> continues to be subject to the protections under the Act relating to mail between the prisoner and legal advisers, official agencies, and members of Parliament.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 15</emphasis> amends section 108(1) by adding new grounds for withholding prisoner correspondence, namely, if the manager believes on reasonable grounds that the correspondence is likely to—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>prejudice the maintenance of the law; or</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>breach an order of any court or constitute contempt of court.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clauses 16 and 17</emphasis> make consequential amendments to sections 109 and 110.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 18</emphasis> inserts <emphasis style="italic">new sections 110A to 110C</emphasis>.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 110A</emphasis> restricts an authorised officer from disclosing information obtained from prisoner correspondence unless—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the disclosure is made to another authorised officer for the purpose of making a decision under section 108(1) or (2), or paragraph (c) of <emphasis style="italic">new section 110A</emphasis>; or</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the officer believes on reasonable grounds that the disclosure—</text>
+                    <list>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>is necessary to avoid prejudice to the maintenance of the law by a public sector agency:</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>is necessary for the conduct of proceedings before a tribunal or a court:</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>is necessary to prevent or lessen a serious and imminent threat to public health or safety or to the life or health of any person:</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>is authorised by the Privacy Commissioner under section 54(1) of the Privacy Act 1993; or</text>
+                        </para>
+                      </item>
+                    </list>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the disclosure is required by law.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 110B</emphasis> requires the chief executive to ensure that prisoners are warned that their correspondence may be opened, read, and withheld.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 110C</emphasis> states that the Privacy Act 1993 applies to provisions in the Act relating to prisoner correspondence.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 19</emphasis> amends section 124(2), which describes the situations in which a prisoner may be required to submit to a drug or alcohol test. The amendment provides that a prisoner may also be required to submit to a test if the manager has reasonable grounds to believe that a sample given by that prisoner in a previous test is dilute, tainted, or contaminated.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 20</emphasis> consequentially amends section 128(1)(d) by changing a reference to electronic device to electronic communication device.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 21</emphasis> amends section 129(a), which makes it a disciplinary offence for a prisoner to use any drug or consume alcohol except as authorised by a medical officer. The amendment excepts the consumption of wine by prisoners when partaking in Holy Communion.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 22</emphasis> makes a number of substantive amendments to section 141.</text>
+            </para>
+          </clause.desc>
+          <para>
+            <text>Section 141(1) states the offences and penalties in respect of unauthorised deliveries, communications, and recordings.</text>
           </para>
           <para>
-            <text>Hon David Benson-Pope (Deputy Chairperson)</text>
+            <text>It is currently an offence under section 141(1)(e) for any person to hold any unauthorised communication with a prisoner if that communication may prejudice—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the maintenance of the law; or</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the safe custody of the prisoner; or</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the safety of any other person; or</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the security of any prison.</text>
+                </para>
+              </item>
+            </list>
           </para>
           <para>
-            <text>Chester Borrows</text>
+            <text>Section 141(1)(e) is extended so that it is also an offence for a person to hold any unauthorised communication with a prisoner if that communication may prejudice the well-being of any victim of an offence committed by that prisoner.</text>
           </para>
           <para>
-            <text>Martin Gallagher </text>
+            <text>Section 141(1)(f), which relates to unauthorised visual and sound recordings, is amended in a similar manner to section 141(1)(e).</text>
           </para>
           <para>
-            <text>Hon Darren Hughes</text>
+            <text><emphasis style="italic">New section 141(1)(g)</emphasis> makes it an offence for any person to knowingly have in his or her possession any unauthorised item in prison unless possession of that item is authorised under the Act or regulations or by the prison manager or chief executive.</text>
           </para>
           <para>
-            <text>Simon Power</text>
+            <text>Currently, a person who commits an offence against section 141(1) is liable on summary conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding $2,000, or to both.</text>
           </para>
           <para>
-            <text>Kate Wilkinson </text>
+            <text>The penalties for offences against provisions of section 141(1) are increased in respect of the commission or attempted commission of an offence against—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>section 141(1)(a) (bringing any thing into prison that is intended for the possession of a prisoner); or</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text><emphasis style="italic">new section 141(1)(g)</emphasis> (possessing unauthorised item in prison).</text>
+                </para>
+              </item>
+            </list>
           </para>
-        </comm.lev2>
-      </comm.appendix>
-    </commentary>
+          <para>
+            <text>A person who commits an offence against those provisions is liable on summary conviction to imprisonment for a term not exceeding 3 months, or a fine of up to $5000, or to both.</text>
+          </para>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 23</emphasis> inserts a <emphasis style="italic">new section 141A</emphasis>, which prohibits the unauthorised use or possession by a prisoner of any electronic communication device. A prisoner who commits an offence against <emphasis style="italic">new section 141A</emphasis> is liable on summary conviction to imprisonment for a term not exceeding 3 months, or a fine of up to $5000, or to both.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 24</emphasis> amends section 143, which prohibits unauthorised communications or deliveries from any person to a prisoner outside a prison.</text>
+            </para>
+          </clause.desc>
+          <para>
+            <text>The amendment increases the penalty for making unauthorised deliveries to a prisoner if the person making the delivery is an officer, staff member, or probation officer. The maximum term of imprisonment is increased from 3 months to 12 months, and the maximum fine is increased from $2,000 to $5,000.</text>
+          </para>
+          <para>
+            <text>The definition of restricted communication in section 143(3)(a) is consequentially amended as a result of the changes to section 141.</text>
+          </para>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 25</emphasis> amends section 146, which provides that a person who contravenes section 118 is liable on summary conviction to a fine not exceeding $2,000. Section 146 is amended to apply also to any person who contravenes <emphasis style="italic">new section 110A</emphasis> (restricting disclosure of prisoner mail).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 26</emphasis> amends section 150 (relating to power of seizure) to enable any thing that is forfeited to the Crown under section 150(2), 133, or 137 to be used or otherwise disposed of in any manner that the chief executive directs.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 27</emphasis> inserts a <emphasis style="italic">new heading</emphasis> and <emphasis style="italic">new sections 179A to 179E</emphasis>, which are mainly about limiting Crown liability in the following situations:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>an epidemic in respect of which the provisions of the Act or the regulations are modified by Order in Council under the Epidemic Preparedness Act 2006:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a prison emergency:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>an epidemic emergency affecting a prison or prisoners:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a state of emergency affecting a prison or prisoners.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 179A</emphasis> states that a prisoner who is eligible for release may be detained in the prison beyond his or her release date if the detention is pursuant to any order or requirement under section 70 or 79 of the Health Act 1956.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 179B</emphasis> is for the avoidance of doubt. The Crown is not liable to pay or compensate any person because of any detention in a prison pursuant to any order or requirement under the Health Act 1956.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 179C</emphasis> defines terms used in <emphasis style="italic">new sections 179D and 179E</emphasis>.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 179D</emphasis> requires the chief executive to notify the Minister of the existence of a prison emergency, or an epidemic emergency or state of emergency affecting a prison or prisoners.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 179E</emphasis> provides that there is no cause of action against the Crown or Crown servants for any harm or loss arising from—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>any act or omission by any person in the exercise of his or her functions, duties, or powers under a provision of the Act or the regulations that is modified by Order in Council under the Epidemic Preparedness Act 2006; or</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>any failure by any person to comply with any provision of the Act or the regulations during a prison emergency, or an epidemic emergency or state of emergency affecting a prison or prisoners, if it is impossible or unreasonable to comply with the Act or regulations in those circumstances.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>A person, however, may be granted leave to bring proceedings against the Crown if the High Court is satisfied that the person against whom proceedings are sought acted in bad faith or gross negligence.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 28</emphasis> inserts a <emphasis style="italic">new heading</emphasis> and <emphasis style="italic">new section 181A</emphasis>, which authorises the sharing of personal information about highest-risk offenders between specified agencies.</text>
+            </para>
+          </clause.desc>
+          <para>
+            <text><emphasis style="italic">New section 181A</emphasis> largely replicates the information-sharing provisions in section 182A (relating to child sex offenders). <emphasis style="italic">New section 181A(6)</emphasis> allows information disclosed under that section to be disclosed before the offender’s release from prison.</text>
+          </para>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 29</emphasis> makes consequential amendments to section 182 as a result of <emphasis style="italic">new section 181A</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 30</emphasis> amends section 182A (information sharing about child sex offenders) to allow information disclosed under that section to be disclosed before the offender’s release from prison.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 31</emphasis> inserts a <emphasis style="italic">new heading</emphasis> and <emphasis style="italic">new sections 189A to 189C</emphasis>. The purpose of these provisions is to stop or prevent—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>unauthorised electronic communications to or from a prisoner within prison boundaries; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the delivery, possession, or use of electronic communication devices by any person in contravention of section 141.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 189A</emphasis> defines terms used in <emphasis style="italic">new sections 189B and 189C</emphasis>.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 189B</emphasis> provides that a person authorised by the chief executive may, for the purpose of that section, use any equipment or device to detect, intercept, monitor, disable, disrupt, or interfere with radiocommunications within prison boundaries, as long as it does not cause harmful interference (within the meaning of section 2(1) of the Radiocommunications Act 1989) outside prison boundaries.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 189C</emphasis> allows a manager who reasonably believes that an unauthorised electronic communication relates to the commission or attempted commission of an offence to record that communication and give it to an enforcement officer, the chief executive, or any other employee of the Department.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM1098306">
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Amendments to other enactments</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 32</emphasis> amends section 216B(4) of the Crimes Act 1961 to ensure that the prohibitions against the use of interception devices under that section do not apply to interceptions authorised under <emphasis style="italic">new section 189B</emphasis> of the Corrections Act 2004.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clauses 33 and 34</emphasis> amend sections 17 and 18 of the Parole Act 2002 as a result of <emphasis style="italic">new section 179A</emphasis>.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+      <explnote.ris>
+        <heading>Regulatory impact statement</heading>
+        <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
+        <para>
+          <text>The amendments proposed in this paper are intended to—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>work alongside a variety of operational initiatives to improve the control of contraband in prisons through additional search, detection, and offence provisions:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provide for a consistent approach to the monitoring of prisoners’ telephone calls and mail:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>limit the Crown’s liability in relation to prisoners, and persons in prisons, in an emergency situation (caused by an epidemic, civil defence emergency, or specific prison situation):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>amend provisions relating to information sharing about highest-risk offenders:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provide for new offence provisions relating to unauthorised communications with prisoners:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>clarify the use of firearms for the humane destruction of animals and for pest control in prison grounds:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allow for the consumption of communion wine in prisons</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>permit the Department and its agents to electronically detect, monitor, disable, disrupt, and interfere with wireless transmissions within prison boundaries in order to stop or prevent unauthorised electronic communications and offences relating to the delivery, possession, or use of electronic communication devices.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
+        <para>
+          <text>The Department confirms that the principles of the Code of Good Regulatory Practice and the regulatory impact analysis requirements have been complied with. Consultation has occurred with relevant departments and Crown entities and the 2 main telecommunications providers, but not with staff unions and other outside organisations.</text>
+        </para>
+        <para>
+          <text>The Department considers that the level of analysis is adequate given the likely impacts of the proposals.</text>
+        </para>
+        <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
+        <para>
+          <text>The Act is relatively new and is generally working well. However, some amendments are needed to address issues that have arisen during the time since its passage. The major issues that the Bill addresses are as follows:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>contraband is a major concern in the prison system, with items such as drugs and alcohol, money, offensive weapons, and mobile telephones having the capacity to produce serious problems for prison management. They can present a direct threat to staff and prisoners, lead to stand-over tactics and assaults, and allow prisoners to subvert prison controls and organise illicit activities outside the prison:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>it is clear that letters dealing with further criminal offending, threats to individuals concerning their welfare and safety, and other harmful or unlawful matters are leaving prisons. Current legislation may not allow the opportunity for prison staff to screen these letters as mail may not be read without a reasonable grounds test being met. This is inconsistent with the treatment under the Act of prisoner phone calls, which may be monitored unless they privileged in some way (for example, they are calls to lawyers or official agencies):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>existing legislation does not provide adequate authority for the Department to detain prisoners who are eligible for release but are required to remain in a prison that is under an isolation or quarantine order during an epidemic situation:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the Act provides no exclusion from liability for the Crown, its agents, or contractors, for acts taken in good faith in an epidemic situation, a civil defence emergency, or a prison-specific emergency:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>while the Act provides for the Department to provide information to the police in relation to highest-risk offenders, this information is not sufficient to allow the police on all occasions to adequately identify a particular prisoner so that the prisoner can be monitored, or allow for the prisoner’s reintegration into the community to be considered:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>sections 141 and 143 of the Act, which set out the offence provisions in relation to unauthorised communications with prisoners, do not include prejudice to the well-being of a victim of a crime committed by a prisoner:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>there are circumstances on prison farms, and in prison nurseries and prison industries, when it is desirable for staff members to be able to use firearms in the course of their duties—for example, putting down badly injured or ill animals, or for pest control of rabbits, hares, and possums:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>it is an offence against discipline for a prisoner to consume communion wine (or any alcohol) without the authority of a medical officer:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>there are no forfeiture provisions in the Act for items related to an offence against discipline committed by a prisoner, or ability for the department to use or otherwise dispose of items that are forfeit:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the illicit use of cellphones in prisons (to organise further criminal offending, arrange for escapes and to threaten and harass witnesses) has become increasingly difficult to manage through traditional search and seizure techniques.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.ird-crosshead>Objectives</explnote.ird-crosshead>
+        <para>
+          <text>The objectives of the proposed amendments to the Act are to—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>work in tandem with operational improvements to reduce the problems caused in prisons by the use of drugs, alcohol, cellphones, and other contraband by increasing the effectiveness of the drug and alcohol testing procedure, making it more difficult to introduce contraband into prisons, and detecting and blocking cellphone use:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>enhance provisions permitting prison staff to screen prisoners’ mail to prevent unlawful or harmful communications leaving prisons:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provide that prisons under an isolation or quarantine order during an epidemic situation may detain any prisoner who is due for release:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provide an exclusion from liability for actions taken in good faith during epidemic situations, and civil defence and prison specific emergencies:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>put in place an information sharing regime that would allow the disclosure of information about highest-risk offenders to the police and other relevant agencies, with a view to addressing the rehabilitation needs of the prisoner and the safety of the community:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>amend the Act to include prejudice to the well-being of the victim as an additional ground for an offence of unauthorised communications with a prisoner:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allow Department of Corrections staff members to use firearms (in controlled circumstances) for the purposes of specified prison industries, humane killing of animals, and pest control:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allow prisoners to consume communion wine during the celebration of the Eucharist:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allow items related to an offence against discipline to be seized from prisoners, and to be forfeited to the Crown:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>amend the Act to make it clear that forfeited items may be disposed of by the Department:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>amend the Act to provide the Department and its agents with explicit authority to detect, monitor, disable, disrupt, and interfere with cellphone and other illicit radio-wave transmissions within prison boundaries.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.ird-crosshead>Alternative and preferred options</explnote.ird-crosshead>
+        <para>
+          <text>The preferred options set out in this paper have been selected because—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>they target the problems that have been defined:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>new costs in some areas (for example, drug retesting) are not significant:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>there are legislative precedents that provide ways for dealing with issues that have been raised:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>they are effective in dealing with the problem identified.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>One additional cost that might arise from the proposals is that the greater penalties and new offence relating to contraband (in particular, electronic communication devices) might lead to longer sentences and an increased number of prisoners. This is expected to be marginal as only 1 successful case is required for the new penalties to have an impact.</text>
+        </para>
+        <explnote.subhead1>Drugs and contraband</explnote.subhead1>
+        <para>
+          <text>The extent of contraband being detected in prison indicates that operational measures are not likely to be entirely successful and that some legislative refinements are needed.</text>
+        </para>
+        <para>
+          <text>Possible alternatives focussed on the prevention of contraband getting into prison might include—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>restricting visitor numbers:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>restricting contact visits:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>increasing to a greater degree the frequency and intrusiveness of prisoner and visitor searches:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>increasing the thoroughness and frequency of cell searches and searches of other parts of the prison.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>These alternatives involve an increase in resources or further restrictions on the rights of prisoners and visitors. They are broad-brush in approach, involving both those that are perceived as a risk and those that are not. An across the board limitation on the frequency of visitors is likely to be seen as an unnecessary restriction on the rights of prisoners and their families.</text>
+        </para>
+        <para>
+          <text>The preferred options are to—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>enhance existing search powers in relation to strip searching and staff lockers and other parts of a prison set aside for the exclusive use of a person other than a prisoner:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provide for retesting if a sample provided by a prisoner during drug and alcohol testing is diluted, tainted, spoiled or not a true sample:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provide for strip searching in those circumstances when a prisoner is to be retested or has attended a Parole Board hearing:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>strengthen the provisions around tampering with a sample or possessing items that could be used to tamper with a sample:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>introduce new provisions relating to unauthorised electronic communication devices (primarily cellphones).</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.subhead1>Prisoners’ mail</explnote.subhead1>
+        <para>
+          <text>Continuation of the status quo means that there would be restrictions on the ability of prison staff to screen prisoners’ mail. Unlawful and harmful letters would continue to leave prisons.</text>
+        </para>
+        <para>
+          <text>The preferred option is to permit authorised prison staff to screen mail for the purpose of detecting letters that need to be withheld or passed to the police. Privileged communications to lawyers, members of Parliament, and official agencies would not be read.</text>
+        </para>
+        <explnote.subhead1>Emergency management</explnote.subhead1>
+        <para>
+          <text>Under the status quo there is no certainty that the common law doctrine of necessity will protect the Department from claims for damages relating to actions taken in good faith in an emergency situation.</text>
+        </para>
+        <para>
+          <text>Providing protection from liability during an emergency would provide some certainty and clarity around the steps that may be taken to manage prisons in the event of any emergency situation.</text>
+        </para>
+        <para>
+          <text>The preferred option is to provide exemption from liability for the Crown for actions taken in good faith during an emergency situation (due to an epidemic, civil defence, or prison specific situation). This is considered necessary in the unique prison environment to allow staff to manage in difficult circumstances and to avoid large numbers of costly civil actions for damages against the Department.</text>
+        </para>
+        <para>
+          <text>In addition, without a legislative amendment, there will be a conflict between the provisions of the Parole Act 2002 and the Health Act 1956 (which provides for the detention of persons subject to a quarantine or isolation order during an epidemic emergency). The preferred option is to avoid additional actions for damages by making it clear that ex-prisoners will be required to remain in a prison in these circumstances.</text>
+        </para>
+        <explnote.subhead1>Information sharing</explnote.subhead1>
+        <para>
+          <text>The status quo would mean that highest-risk offenders would continue to be released from prison without the benefit of steps being able to be put in place that increase the likelihood of successful reintegration and policing efforts to support a safer community.</text>
+        </para>
+        <para>
+          <text>The preferred option is to amend the Act to allow sufficient information to be shared in advance of the prisoner’s release with the police and relevant social agencies for the purposes of monitoring compliance with the conditions of their release or home detention, and assisting with the rehabilitation and reintegration of highest-risk prisoners into the community. This would be done by way of information sharing provisions modelled on sections 182A to 182D of the Act, which deals with information sharing in respect of child sex offenders.</text>
+        </para>
+        <explnote.subhead1>Unauthorised communications with prisoners</explnote.subhead1>
+        <para>
+          <text>The status quo provides no specific protections for victims, while the proposed amendment would include prejudice to the well-being of the victim as an additional ground for an offence.</text>
+        </para>
+        <para>
+          <text>The preferred option is to add prejudice to the well-being of victims as an additional ground for the offence of unauthorised communications with prisoners.</text>
+        </para>
+        <explnote.subhead1>Use of firearms</explnote.subhead1>
+        <para>
+          <text>The status quo means that the Department would need to make alternative, off-site arrangements for the destruction of animals for prison industry (pet food) purposes, and call veterinarians in from some distance to put down severely injured animals. This would be costly, but also might be impractical. For example, it may not always be possible for a vet to travel from Taupo to Tongariro/Rangipo in a timely way, bearing in mind the operational requirements of the prison and the welfare of the animal.</text>
+        </para>
+        <para>
+          <text>The preferred option is to amend the Act to allow the chief executive of the Department to authorise staff members to possess, carry, and use firearms but only for the purposes of specified prison industries, the humane killing of animals, and pest control.</text>
+        </para>
+        <explnote.subhead1>Exemptions for communion wine</explnote.subhead1>
+        <para>
+          <text>The current situation is problematic because of the prohibitions on the consumption of alcohol in prisons set out in the Act.</text>
+        </para>
+        <para>
+          <text>The preferred option is to provide an exception for wine that is brought in and consumed in prisons during the celebration of the Eucharist. This is consistent with the freedom of religion and other rights of minorities affirmed under the New Zealand Bill of Rights Act 1990.</text>
+        </para>
+        <explnote.subhead1>Forfeiture of items</explnote.subhead1>
+        <para>
+          <text>The current position means that items that are seized and forfeited cannot be disposed of by the Department, and that items related to offences against discipline by prisoners cannot be seized.</text>
+        </para>
+        <para>
+          <text>The preferred option is to allow the forfeiture of items that have been seized (with appropriate protections), and empower the Department to use and dispose of forfeited items.</text>
+        </para>
+        <explnote.subhead1>Cellphone jamming</explnote.subhead1>
+        <para>
+          <text>The Act provides no explicit authority for the Department or its agents to detect, monitor, disable, disrupt, and interfere with wireless communications (typically cellphone calls) within prisons.</text>
+        </para>
+        <para>
+          <text>The preferred option is to amend the Act to allow the Department to jam cellphone communications within a prison. Legislative protections for the public would be included and provide that no cellphone jamming solution may be put in place that resulted in harmful interference (as defined in section 3 of the Radiocommunications Act 1989) outside prison boundaries.</text>
+        </para>
+        <para>
+          <text>No legislative amendments to the Radiocommunications Act 1989 to provide for departmental access to spectrum are proposed at this time. The necessary arrangements with spectrum right holders will be made according to the licensing arrangements of that Act.</text>
+        </para>
+        <explnote.ird-crosshead>Implementation and review</explnote.ird-crosshead>
+        <para>
+          <text>The Department is putting in place a formalised data collection and management system that will provide better quality and timely information to allow the success of these legislative and related operational issues to be monitored.</text>
+        </para>
+        <para>
+          <text>In relation to cellphone jamming, subject to funding, the joint project between the Department, Telecom, and Vodafone will move to the next phase and roll out the 3 preferred solutions to suitable prison sites. The project team will review the effectiveness of each solution and report on any matters associated with implementation.</text>
+        </para>
+        <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
+        <para>
+          <text>Relevant consultation has been carried out with the Treasury, the Ministry of Justice, the New Zealand Police, the Ministry of Social Development, Housing New Zealand Corporation, the Department of Internal Affairs, the Ministry of Health, the Privacy Commissioner, the Department of the Prime Minister and Cabinet, and the Ministry of Economic Development. Consultation has been carried out with Telecom and Vodafone over the cellphone jamming proposal.</text>
+        </para>
+        <para>
+          <text>There has been no consultation with unions representing prison staff or with other organisations interested in prisons.</text>
+        </para>
+      </explnote.ris>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from a select committee</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM1098307">
     <member>Hon Phil Goff</member>
     <title>Corrections Amendment Bill (No 2)</title>
@@ -247,7 +1100,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM1098313" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="165" bill.type="government" stage="2" year="2007">
+    <part id="DLM1098313" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="165" bill.type="government" stage="1" year="2007">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Amendments to Corrections Act 2004</heading>
       <prov id="DLM1098314" irdnumbering="no" skeleton="no" toc="yes">
@@ -329,7 +1182,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">ii</label>
                           <para>
-                            <text>any telephone facility or telephone system<struckoutwords amend.level1="struckout-unanimous"> authorised by the chief executive or a prison manager to be used in a prison, or by the Commissioner of Police to be used in a police jail</struckoutwords><insertwords amend.level1="insert-unanimous"> (whether inside or outside a prison) that a prisoner is permitted to use by a person under whose control or supervision the prisoner is</insertwords></text>
+                            <text>any telephone facility or telephone system authorised by the chief executive or a prison manager to be used in a prison, or by the Commissioner of Police to be used in a police jail</text>
                           </para>
                         </label-para>
                       </para>
@@ -344,36 +1197,6 @@
             <label auto.number="no" denominator="yes">2</label>
             <para>
               <text>Paragraph (a)(v) of the definition of <def-term id="DLM1098317">officer</def-term> in section 3(1) is amended by omitting <amend.in quote="1">of 2</amend.in> and substituting <amend.in quote="1">of 1</amend.in>.</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">2A</label>
-            <para amend.level1="insert-unanimous">
-              <text>Paragraph (a) of the definition of <def-term id="DLM1485301">officer</def-term> in section 3(1) is amended by omitting <amend.in quote="1">; but</amend.in> and also by adding the following subparagraph:</text>
-              <amend amend.level1="insert-unanimous" increment="2" quote="1">
-                <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">vi</label>
-                  <para amend.level1="insert-unanimous">
-                    <text>in respect of any provision, any employee of the department who the chief executive designates to carry out the powers and functions of an officer under that provision in respect of 1 or more prisons; but</text>
-                  </para>
-                </label-para>
-              </amend>
-              <follow-text amend.level1="insert-unanimous" space-before="no">.</follow-text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">2B</label>
-            <para amend.level1="insert-unanimous">
-              <text>The definition of <def-term id="DLM1485302">official agency</def-term> in section 3(1) is amended by adding <amend.in quote="1">; or</amend.in> and also by adding the following paragraph:</text>
-              <amend amend.level1="insert-unanimous" increment="1" quote="1">
-                <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">k</label>
-                  <para amend.level1="insert-unanimous">
-                    <text>a national preventive mechanism (as defined in section 16 of the Crimes of Torture Act 1989)</text>
-                  </para>
-                </label-para>
-              </amend>
-              <follow-text amend.level1="insert-unanimous" space-before="no">.</follow-text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -470,19 +1293,7 @@
                 <subprov skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">3</label>
                   <para>
-                    <text>Section 129(a) does not apply to a prisoner who<insertwords amend.level1="insert-unanimous">,</insertwords> during a religious service (whether inside or outside a prison)<insertwords amend.level1="insert-unanimous">,</insertwords><struckoutwords amend.level1="struckout-unanimous"> consumes wine provided at the service by a prison chaplain or minister of religion for the purposes of the Eucharist, Holy Communion, Mass, or Communion.</struckoutwords><insertwords amend.level1="insert-unanimous">—</insertwords></text>
-                    <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">a</label>
-                      <para amend.level1="insert-unanimous">
-                        <text>consumes a small quantity of wine provided at the service by a prison chaplain or minister of religion for the purposes of the Eucharist, Holy Communion, Mass, or Communion, with the express authority of the prison manager or chief executive; or</text>
-                      </para>
-                    </label-para>
-                    <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">b</label>
-                      <para amend.level1="insert-unanimous">
-                        <text>consumes a small quantity of wine or other alcohol provided at the service as part of the ritual of the religion in question, by the person conducting the service, with the express authority of the prison manager or chief executive.</text>
-                      </para>
-                    </label-para>
+                    <text>Section 129(a) does not apply to a prisoner who during a religious service (whether inside or outside a prison) consumes wine provided at the service by a prison chaplain or minister of religion for the purposes of the Eucharist, Holy Communion, Mass, or Communion.</text>
                   </para>
                 </subprov>
               </amend>
@@ -532,7 +1343,7 @@
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">b</label>
                       <para>
-                        <text>for the purpose of humanely killing<insertwords amend.level1="insert-unanimous"> sick or injured</insertwords> animals:</text>
+                        <text>for the purpose of humanely killing animals:</text>
                       </para>
                     </label-para>
                     <label-para quote="1" skeleton="no">
@@ -598,26 +1409,6 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov amend.level1="insert-unanimous" id="DLM1485303" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-unanimous" auto.number="no" denominator="no">8A</label>
-        <heading amend.level1="insert-unanimous">Authority to search property</heading>
-        <prov.body>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-unanimous">
-              <text>Section 96 is amended by adding the following subsection:</text>
-              <amend amend.level1="insert-unanimous" quote="1">
-                <subprov amend.level1="insert-unanimous" skeleton="no">
-                  <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes" quote="1">7</label>
-                  <para amend.level1="insert-unanimous">
-                    <text>Authority to search any cell or other place, vehicle, or item, includes the authority to use an aid or aids such as a chemical substance or x-ray or imaging equipment or some other mechanical, electrical, or electronic device, or other similar aid.</text>
-                  </para>
-                </subprov>
-              </amend>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
       <prov id="DLM1098326" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">9</label>
         <heading>Search of prisoners and cells</heading>
@@ -625,7 +1416,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>Section 98(6)(g) is amended by inserting <amend.in quote="1">or<insertwords amend.level1="insert-unanimous"> immediately</insertwords> after</amend.in> after <amend.in quote="1">immediately before</amend.in>.</text>
+              <text>Section 98(6)(g) is amended by inserting <amend.in quote="1">or after</amend.in> after <amend.in quote="1">immediately before</amend.in>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -785,13 +1576,13 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>Section 108(1)(d) is amended by omitting <amend.in quote="1">has read under section 107(1), and the manager believes on reasonable grounds that it</amend.in> and substituting <amend.in quote="1">believes on reasonable grounds</amend.in>.</text>
+              <text>Section 108(1)(d) is amended by omitting <amend.in quote="1">has read under section 107(1) and the manager believes on reasonable grounds that it</amend.in> and substituting <amend.in quote="1">believes on reasonable grounds</amend.in>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>Section 108(1)(d) is amended by adding <amend.in quote="1"><insertwords amend.level1="insert-unanimous">; or</insertwords></amend.in><insertwords amend.level1="insert-unanimous"> and also by adding</insertwords> the following subparagraphs:</text>
+              <text>Section 108(1)(d) is amended by adding the following subparagraphs:</text>
               <amend increment="2" quote="1">
                 <label-para quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">v</label>
@@ -972,14 +1763,8 @@
         <label auto.number="no" denominator="yes">19</label>
         <heading>Prisoner may be required to submit to drug or alcohol test</heading>
         <prov.body>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">1</label>
-            <para amend.level1="insert-unanimous">
-              <text>Section 124(2)(c)(i) is amended by omitting <amend.in quote="1">that aims to reduce</amend.in> and substituting <amend.in quote="1">that has as one of its aims the reduction of</amend.in>.</text>
-            </para>
-          </subprov>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
+            <label auto.number="no" denominator="no"/>
             <para>
               <text>Section 124(2) is amended by adding the following paragraph:</text>
               <amend increment="1" quote="1">
@@ -1018,46 +1803,6 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov amend.level1="insert-unanimous" id="DLM1485304" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">21A</label>
-        <heading amend.level1="insert-unanimous">Powers of hearing adjudicator in relation to offences against discipline</heading>
-        <prov.body>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-unanimous">
-              <text>Section 133(4) is amended by repealing paragraph (a) and substituting the following paragraph:</text>
-              <amend amend.level1="insert-unanimous" increment="1" quote="1">
-                <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">a</label>
-                  <para amend.level1="insert-unanimous">
-                    <text>any offence against section 128(1), 129, 130, or 131, the hearing adjudicator may, after giving the prisoner an opportunity to provide reasons why the order should not be made, and whether or not he or she imposes a penalty under subsection (3), order that any article or thing used to commit the offence or in respect of which the offence was committed be forfeited to the Crown:</text>
-                  </para>
-                </label-para>
-              </amend>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
-      <prov amend.level1="insert-unanimous" id="DLM1485305" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">21B</label>
-        <heading amend.level1="insert-unanimous">Powers of Visiting Justice in relation to offences by prisoners</heading>
-        <prov.body>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-unanimous">
-              <text>Section 137(4) is amended by repealing paragraph (a) and substituting the following paragraph:</text>
-              <amend amend.level1="insert-unanimous" increment="1" quote="1">
-                <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">a</label>
-                  <para amend.level1="insert-unanimous">
-                    <text>any offence against section 128(1), 129, 130, or 131, the Visiting Justice may, after giving the prisoner an opportunity to provide reasons why the order should not be made, and whether or not he or she imposes a penalty under subsection (3), order that any article or thing used to commit the offence or in respect of which the offence was committed be forfeited to the Crown:</text>
-                  </para>
-                </label-para>
-              </amend>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
       <prov id="DLM1098345" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">22</label>
         <heading>Unauthorised deliveries, communications, and recordings</heading>
@@ -1068,28 +1813,10 @@
               <text>The heading to section 141 is amended by omitting <amend.in quote="1"><emphasis style="bold">and recordings</emphasis></amend.in> and substituting <amend.in quote="1"><emphasis style="bold">recordings, and possession of unauthorised items</emphasis></amend.in>.</text>
             </para>
           </subprov>
-          <subprov amend.level1="struckout-unanimous" skeleton="no">
-            <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="struckout-unanimous">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
               <text>Section 141(1) is amended by omitting <amend.in quote="1">and is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both</amend.in>.</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-unanimous">
-              <text>Section 141(1) is amended by—</text>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="insert-unanimous">
-                  <text>omitting <amend.in quote="1">Every person</amend.in> and substituting <amend.in quote="1">Subject to <changeable><citation jurisdiction="nz">subsection (1AA)</citation></changeable>, every person</amend.in>; and</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">b</label>
-                <para amend.level1="insert-unanimous">
-                  <text>omitting <amend.in quote="1">and is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both</amend.in>.</text>
-                </para>
-              </label-para>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -1112,7 +1839,7 @@
                 <label-para quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">g</label>
                   <para>
-                    <text><struckoutwords amend.level1="struckout-unanimous">knowingly </struckoutwords><insertwords amend.level1="insert-unanimous">without reasonable excuse, </insertwords>has in his or her possession any unauthorised item while in<insertwords amend.level1="insert-unanimous"> a</insertwords> prison:</text>
+                    <text>knowingly has in his or her possession any unauthorised item while in prison:</text>
                   </para>
                 </label-para>
                 <label-para quote="1" skeleton="no">
@@ -1129,26 +1856,20 @@
             <para>
               <text>Section 141 is amended by inserting the following subsections after subsection (1):</text>
               <amend quote="1">
-                <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
-                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">1AA</label>
-                  <para amend.level1="insert-unanimous">
-                    <text>Subsection (1)(g) does not apply to a prisoner.</text>
-                  </para>
-                </subprov>
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">1A</label>
                   <para>
-                    <text>A person is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $5,000, or to both<insertwords amend.level1="insert-unanimous">,</insertwords> who—</text>
+                    <text>A person is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $5,000, or to both who—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
-                        <text>commits an offence against<struckoutwords amend.level1="struckout-unanimous"><changeable><citation jurisdiction="nz">subsection (1)(a) or (g)</citation></changeable></struckoutwords><insertwords amend.level1="insert-unanimous"> subsection (1)(a), (b), (c), or <changeable><citation jurisdiction="nz">(g)</citation></changeable></insertwords>; or</text>
+                        <text>commits an offence against <changeable><citation jurisdiction="nz">subsection (1)(a) or (g)</citation></changeable>; or</text>
                       </para>
                     </label-para>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">b</label>
                       <para>
-                        <text>commits an offence against <changeable><citation jurisdiction="nz">subsection (1)(h)</citation></changeable> by attempting to do any thing described in<struckoutwords amend.level1="struckout-unanimous"><changeable><citation jurisdiction="nz">subsection (1)(a) or (g)</citation></changeable></struckoutwords><insertwords amend.level1="insert-unanimous"> subsection (1)(a), (b), (c), or <changeable><citation jurisdiction="nz">(g)</citation></changeable></insertwords>.</text>
+                        <text>commits an offence against <changeable><citation jurisdiction="nz">subsection (1)(h)</citation></changeable> by attempting to do any thing described in <changeable><citation jurisdiction="nz">subsection (1)(a) or (g)</citation></changeable>.</text>
                       </para>
                     </label-para>
                   </para>
@@ -1156,17 +1877,17 @@
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">1B</label>
                   <para>
-                    <text>A person is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both<insertwords amend.level1="insert-unanimous">,</insertwords> who—</text>
+                    <text>A person is liable on summary conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both who—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
-                        <text>commits an offence against any of<struckoutwords amend.level1="struckout-unanimous"><changeable><citation jurisdiction="nz">subsection (1)(b) to (f)</citation></changeable></struckoutwords><insertwords amend.level1="insert-unanimous"> subsection (1)(d) to (f)</insertwords>; or</text>
+                        <text>commits an offence against any of <changeable><citation jurisdiction="nz">subsection (1)(b) to (f)</citation></changeable>; or</text>
                       </para>
                     </label-para>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">b</label>
                       <para>
-                        <text>commits an offence against <changeable><citation jurisdiction="nz">subsection (1)(h)</citation></changeable> by attempting to do any thing described in any of<struckoutwords amend.level1="struckout-unanimous"><changeable><citation jurisdiction="nz">subsection (1)(b) to (f)</citation></changeable></struckoutwords><insertwords amend.level1="insert-unanimous"> subsection (1)(d) to (f)</insertwords>.</text>
+                        <text>commits an offence against <changeable><citation jurisdiction="nz">subsection (1)(h)</citation></changeable> by attempting to do any thing described in any of <changeable><citation jurisdiction="nz">subsection (1)(b) to (f)</citation></changeable>.</text>
                       </para>
                     </label-para>
                   </para>
@@ -1174,28 +1895,10 @@
               </amend>
             </para>
           </subprov>
-          <subprov amend.level1="struckout-unanimous" skeleton="no">
-            <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">7</label>
-            <para amend.level1="struckout-unanimous">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">7</label>
+            <para>
               <text>Section 141(3) is amended by omitting <amend.in quote="1">subsection (1)</amend.in> and substituting <amend.in quote="1"><changeable><citation jurisdiction="nz">subsection (1A) or (1B)</citation></changeable></amend.in>.</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">7</label>
-            <para amend.level1="insert-unanimous">
-              <text>Section 141(3) is amended by—</text>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="insert-unanimous">
-                  <text>omitting <amend.in quote="1">subsection (1)</amend.in> and substituting <amend.in quote="1"><changeable><citation jurisdiction="nz">subsection (1A) or (1B)</citation></changeable></amend.in>; and</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">b</label>
-                <para amend.level1="insert-unanimous">
-                  <text>by omitting <amend.in quote="1">or (d)</amend.in> and substituting <amend.in quote="1">(d), or <changeable><citation jurisdiction="nz">(g)</citation></changeable></amend.in>.</text>
-                </para>
-              </label-para>
             </para>
           </subprov>
         </prov.body>
@@ -1580,7 +2283,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>any act or omission by any person that occurs while carrying out his or her functions<struckoutwords amend.level1="struckout-unanimous">, </struckoutwords><insertwords amend.level1="insert-unanimous">or </insertwords>duties<struckoutwords amend.level1="struckout-unanimous">, </struckoutwords>or<insertwords amend.level1="insert-unanimous"> exercising his or her</insertwords> powers under a provision of this Act or the regulations that has been modified by Order in Council under the Epidemic Preparedness Act 2006 while an epidemic notice is in force; or</text>
+                            <text>any act or omission by any person that occurs while carrying out his or her functions, duties, or powers under a provision of this Act or the regulations that has been modified by Order in Council under the Epidemic Preparedness Act 2006 while an epidemic notice is in force; or</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -1618,7 +2321,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">4</label>
                       <para>
-                        <text>The<struckoutwords amend.level1="struckout-unanimous"> Court</struckoutwords><insertwords amend.level1="insert-unanimous"> court</insertwords> must not grant leave unless it is satisfied that there are grounds for the contention that the act or omission, or failure, constitutes bad faith or gross negligence on the part of the person against whom proceedings are sought to be brought.</text>
+                        <text>The Court must not grant leave unless it is satisfied that there are grounds for the contention that the act or omission, or failure, constitutes bad faith or gross negligence on the part of the person against whom proceedings are sought to be brought.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -1738,7 +2441,7 @@
                         <text>For the purposes of this section,—</text>
                         <def-para id="DLM1098376" quote="1">
                           <para quote="1">
-                            <text><def-term id="DLM1098377">highest-risk offender</def-term> means any offender whom the chief executive considers, having regard,<struckoutwords amend.level1="struckout-unanimous"> amongst</struckoutwords><insertwords amend.level1="insert-unanimous"> among</insertwords> other matters, to the nature and seriousness of his or her offending, to be included in the class of offenders who pose the highest risk to public safety</text>
+                            <text><def-term id="DLM1098377">highest-risk offender</def-term> means any offender whom the chief executive considers, having regard, amongst other matters, to the nature and seriousness of his or her offending, to be included in the class of offenders who pose the highest risk to public safety</text>
                           </para>
                         </def-para>
                         <def-para id="DLM1098378" quote="1">
@@ -1961,7 +2664,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM1098395" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="165" bill.type="government" stage="2" year="2007">
+    <part id="DLM1098395" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="165" bill.type="government" stage="1" year="2007">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Amendments to other enactments</heading>
       <crosshead id="DLM1098396" toc="yes">Crimes Act 1961</crosshead>
@@ -2032,7 +2735,7 @@
               <text>Section 18 is amended by adding the following subsection:</text>
               <amend quote="1">
                 <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">4</label>
+                  <label auto.number="no" denominator="yes" quote="1">3</label>
                   <para>
                     <text>A prisoner to whom <changeable><citation jurisdiction="nz">section 179A</citation></changeable> of the Corrections Act 2004 applies—</text>
                     <label-para quote="1" skeleton="no">
@@ -2056,18 +2759,4 @@
       </prov>
     </part>
   </body>
-  <end id="DLM1485306">
-    <leg-history id="DLM1485307">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2007-12-03</date>
-        <description>Introduction (Bill 165–1)</description>
-      </history-item>
-      <history-item>
-        <date>2008-02-21</date>
-        <description>First reading and referral to Law and Order Committee</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
-<!--End of file, do NOT remove.-->
