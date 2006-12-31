@@ -1,0 +1,2322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill id="DLM1100196" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2007" bill.no="191" bill.type="government" stage="1" year="2007">
+  <billdetail>
+    <title>Electricity Industry Reform Amendment Bill</title>
+    <billtype xml:lang="en-NZ">Government Bill</billtype>
+    <explnote id="DLM1100197" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="191" bill.type="government" stage="1" year="2007">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
+        <para>
+          <text>The purpose of this Bill is to implement 3 main policy changes.</text>
+        </para>
+        <para>
+          <text>The first is to make it easier for owners of lines businesses to sell the output of the generation they were permitted to own under the 2001 and 2004 amendments to the Electricity Industry Reform Act 1998 (<def-term id="DLM1100198">EIRA</def-term>). The objective here is to encourage the owners of lines businesses to invest in permitted generation, especially generation from renewable energy sources.</text>
+        </para>
+        <para>
+          <text>This policy objective is achieved by—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allowing sales of electricity of up to 100% of the nominal annual output capacity of permitted generation. (Previously, allowed sales were the actual output of the generating station, which could be very variable over time, especially in the case of generation from a renewable energy source, making it difficult to retail to customers):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allowing electricity generated from permitted generation to be traded via financial hedges (to manage spot market risks):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>lowering the cost of corporate separation and compliance with arm’s-length rules by—</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>raising the threshold for requiring compliance to 10 MW (up from the higher of 5 MW or 2% of maximum demand):</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>allowing the same person to be a director of both lines and supply (generation and retailing) businesses, while requiring at least 1 independent director and not permitting executive directors:</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>allowing the same person to be a manager of both companies up to a threshold of 30 MW. (Joint staff and premises are permitted without limit.)</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The second main change is to narrow the scope of ownership separation requirements to focus on the geographic areas where there is potential for the exercise of market power and anti-competitive practices, namely, where lines and supply are co-located.</text>
+        </para>
+        <para>
+          <text>This is achieved by allowing owners of lines businesses to be involved in generation and retailing without limits outside of their lines area. Requirements for corporate separation and compliance with arm’s-length rules are also repealed outside of their lines area.</text>
+        </para>
+        <para>
+          <text>At the same time, existing ownership separation rules are retained where lines and supply are co-located. This is because co-owned, co-located lines and supply businesses have both the incentive and ability to lessen competition in retailing and local generation. Ownership separation removes this incentive and ability.</text>
+        </para>
+        <para>
+          <text>Where co-located cross-ownership of lines and supply is permitted in order to encourage investment in permitted generation, corporate separation and the requirement to act on an arm’s-length basis is retained in order to reduce the risks of anti-competitive behaviour.</text>
+        </para>
+        <para>
+          <text>The third main change is to amend the definition of renewables. Currently, the owner of a lines business may only invest without quantity limitations in <amend.in quote="1">new renewables</amend.in>, which are defined to exclude hydro and geothermal generation using traditional technologies. The new definition includes all renewables, to reflect the Government policy of encouraging the development of renewable energy.</text>
+        </para>
+        <para>
+          <text>The effect of the Bill is shown on the following table:</text>
+          <table align="left" fontsize="9" frame="none" id="DLM1100199" leading="9" pgwide="1">
+            <tgroup cols="8">
+              <colspec align="left" colname="1" colwidth="107.65pt"/>
+              <colspec colname="COLSPEC0" colwidth="9.04pt"/>
+              <colspec align="left" colname="2" colwidth="11.00pt"/>
+              <colspec align="left" colname="3" colwidth="63.00pt"/>
+              <colspec align="left" colname="4" colwidth="21.60pt"/>
+              <colspec colname="COLSPEC1" colwidth="13.55pt"/>
+              <colspec align="left" colname="5" colwidth="37.00pt"/>
+              <colspec align="left" colname="6" colwidth="59.36pt"/>
+              <thead>
+                <row>
+                  <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                    <emphasis style="bold">Generation inside network (or connected to grid but deemed local by Commerce Commission)</emphasis>
+                  </entry>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" nameend="4" namest="2" rowsep="0" valign="bottom">
+                    <emphasis style="bold">Selling inside network</emphasis>
+                  </entry>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" nameend="6" namest="5" rowsep="0" valign="bottom">
+                    <emphasis style="bold">Generation/selling outside network</emphasis>
+                  </entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry align="left" colsep="0" nameend="6" namest="1" rowsep="0" valign="top">
+                    <emphasis style="bold">Quantity</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" colsep="0" rowsep="0" valign="top">
+                    <para>
+                      <text>Restricted to the larger of 50MW or 20% of maximum demand commissioned after 20 May 2003</text>
+                    </para>
+                  </entry>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" nameend="4" namest="2" rowsep="0" valign="top">
+                    <para>
+                      <text>Can only sell up to nameplate capacity of qualifying generation</text>
+                    </para>
+                  </entry>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" nameend="6" namest="5" rowsep="0" valign="top">
+                    <para>
+                      <text> No limits</text>
+                    </para>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" colsep="0" rowsep="0" valign="top">
+                    <para>
+                      <text>The following generation is not counted towards the limit:</text>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>generation from renewable sources commissioned after 8 August 2001</text>
+                          </para>
+                        </item>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>generation from renewable sources and up to 20% fossil fuels</text>
+                          </para>
+                        </item>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>generation of 5MW or less if owned/operated before 23 June 1998 and continuously since</text>
+                          </para>
+                        </item>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>generation that is disregarded under section 19</text>
+                          </para>
+                        </item>
+                      </list>
+                    </para>
+                  </entry>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" nameend="4" namest="2" rowsep="0" valign="top">
+                    <para>
+                      <text>Generation can be deemed local for the purposes of the selling cap if connected to the grid, but only if—</text>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>determined by the Commerce Commission that the generation should be treated as being in the local network area; and</text>
+                          </para>
+                        </item>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>total capacity of all generation in which person has an involvement does not exceed 100MW</text>
+                          </para>
+                        </item>
+                      </list>
+                    </para>
+                  </entry>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" rowsep="0" valign="top"/>
+                  <entry align="left" colsep="0" rowsep="0" valign="top"/>
+                </row>
+                <row>
+                  <entry align="left" colsep="0" nameend="6" namest="1" rowsep="0" valign="top">
+                    <emphasis style="bold">Governance</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" colsep="0" nameend="4" namest="1" rowsep="0" valign="top">
+                    <para>
+                      <text>If more than 10MW nameplate capacity, must—</text>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>set up separate company (corporate separation)</text>
+                          </para>
+                        </item>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>comply with arm’s-length rules</text>
+                          </para>
+                        </item>
+                      </list>
+                    </para>
+                    <para>
+                      <text>But are allowed to have same directors on board of lines and supply businesses, provided there is at least one independent director.</text>
+                    </para>
+                    <para>
+                      <text>Above 30MW nameplate capacity—</text>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>managers of lines businesses cannot be a manager, director, or associate of, or be involved in, connected generation business</text>
+                          </para>
+                        </item>
+                      </list>
+                    </para>
+                  </entry>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" nameend="6" namest="5" rowsep="0" valign="top">
+                    <para>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>No ownership separation</text>
+                          </para>
+                        </item>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>No corporate separation/arm’s-length rules compliance</text>
+                          </para>
+                        </item>
+                      </list>
+                    </para>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" colsep="0" nameend="4" namest="1" rowsep="0" valign="top">
+                    <para>
+                      <text>For generation connected to grid, but deemed local—</text>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>total capacity of generation in which a person has an involvement can not exceed 100MW</text>
+                          </para>
+                        </item>
+                      </list>
+                    </para>
+                  </entry>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" rowsep="0" valign="top"/>
+                  <entry align="left" colsep="0" rowsep="0" valign="top"/>
+                </row>
+                <row>
+                  <entry align="left" colsep="0" nameend="6" namest="1" rowsep="0" valign="top">
+                    <emphasis style="bold">Exemptions</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" colsep="0" nameend="4" namest="1" rowsep="0" valign="top">Commerce Commission may exempt companies from any or all rules if the purposes of the Act (separation of lines and energy and competition) would be facilitated</entry>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" rowsep="0" valign="top"/>
+                  <entry align="left" colsep="0" rowsep="0" valign="top"/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clauses 1 to 3</emphasis> are the standard Title, commencement, and principal Act clauses.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 4</emphasis> amends the section that sets out the purpose of the Act, to better reflect current policy.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clauses 5 to 7</emphasis> relate to interpretation.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 8</emphasis> repeals section 17 and substitutes <emphasis style="italic">new sections 17 to 17F</emphasis>. The current section 17 is the main cross-ownership prohibition in EIRA, which is that no person involved in an electricity lines business may be involved in an electricity supply business, and vice versa. Section 17 is replaced by new rules that—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>allow lines companies to invest in generation and retailing outside their local network area, without restriction:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>retain the existing quantity restrictions on investment by lines companies in generation connected to their lines (namely, no limit on generation from renewable energy sources or reserve energy, and the higher of 50 MW or 20% of their load for other generation):</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>make it easier for lines companies to retail, within their local network area, the output of any generation they own within their local network area:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>raise to 10 MW the threshold at which corporate separation and arm’s-length rules apply.</text>
+                </para>
+              </item>
+            </list>
+          </para>
+          <para>
+            <text><emphasis style="italic">New section 17</emphasis> provides that, if a person breaches the connected generation cap in <emphasis style="italic">new section 17A</emphasis>, or the connected customers selling cap in <emphasis style="italic">new section 17C</emphasis>, ownership separation is required. This is enforceable under Part 3 of EIRA, by a variety of means, including court action for pecuniary penalties or for an order for divestment of assets. This is enforceable against either the lines company or the generator/retailer or both, if they are already corporately separate.</text>
+          </para>
+          <para>
+            <text>The connected generation cap in <emphasis style="italic">new section 17A</emphasis> is that each person’s connected generation must be commissioned on or after 20 May 2003, and must not have a total annual nominal capacity that exceeds the greater of—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>50 MW; or</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>20% of the maximum demand, in the immediately preceding 3 financial years, on the local network area.</text>
+                </para>
+              </item>
+            </list>
+          </para>
+          <para>
+            <text><emphasis style="italic">New section 17B</emphasis> sets out other small or encouraged connected generation, including renewable energy, which is now redefined to include hydro and geothermal energy. This small or encouraged generation does not count towards the connected generation cap in <emphasis style="italic">new section 17A</emphasis>.</text>
+          </para>
+          <para>
+            <text>The connected customers selling cap in <emphasis style="italic">new section 17C</emphasis> is that no person may sell to connected customers within the local network area more, in total, in a financial year, than the equivalent of the person’s qualifying generation, as defined in that section, within that same local network area.</text>
+          </para>
+          <para>
+            <text>Selling financial hedges to a connected customer will not count towards the selling cap.</text>
+          </para>
+          <para>
+            <text><emphasis style="italic">New section 17D</emphasis> sets the new threshold for corporate separation and arm’s-length rules for certain connected electricity businesses.</text>
+          </para>
+          <para>
+            <text>This section applies if a person is involved in more than 10 MW of connected generation or selling more than 87 600 MWh of electricity from qualifying generation to connected customers.</text>
+          </para>
+          <para>
+            <text><emphasis style="italic">New section 17E</emphasis> provides that the rules are that—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the businesses must be carried on in different companies:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the arm’s-length rules must be complied with.</text>
+                </para>
+              </item>
+            </list>
+          </para>
+          <para>
+            <text><emphasis style="italic">New section 17F</emphasis> continues an exemption for Transpower New Zealand Limited.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 9</emphasis> repeals section 18, which is the 20% aggregate cross-ownership rule. Currently, under section 18, several separate generator/retailers who compete in a lines area cannot buy more than 20% of the lines company (whether or not they are acting as a group or individually).</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 10</emphasis> replaces a heading.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 11</emphasis> amends section 19, which lists other involvements that are disregarded under the Act. For example, geothermal generation, and generation of reserve energy in accordance with the terms and conditions for that reserve energy set by the Commission, are authorised by this section.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 12</emphasis> repeals sections 22 to 46C. Many of the provisions of EIRA are now spent, being mainly the provisions that provided for the transition from vertically integrated electricity businesses to separated businesses and other outdated concepts like mirror trusts. In addition, the current exemptions for renewable energy have been moved, in amended form, to <emphasis style="italic">new section 17B</emphasis>.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clauses 13 to 15</emphasis> are consequential amendments.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 16</emphasis> repeals Part 4, which provided for the taxation consequences of the separation of vertically integrated lines and supply businesses after 1998. It is now spent.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 17</emphasis> repeals section 70(1)(c) and is consequential on the repeal in 2001 of the rules relating to agencies.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 18</emphasis> inserts <emphasis style="italic">new section 70A</emphasis>, which requires disclosure of electricity sold to connected customers, and <emphasis style="italic">new section 70B</emphasis>, which requires directors to report on compliance with the arm’s-length rules.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clauses 19 to 23</emphasis> repeal other spent provisions or make consequential amendments.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 24</emphasis> amends the arm’s-length rules (which apply to companies that are subject to corporate separation). The amendments—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>allow directors of a lines business to be directors of a supply business, in cases where the arm’s-length rules apply to companies, except that at least 1 director must be independent:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>allow managers of a lines business to be managers of a supply business if the connected generation is 30 MW or less.</text>
+                </para>
+              </item>
+            </list>
+          </para>
+          <para>
+            <text>Currently, neither the directors nor managers can be common to both businesses.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clauses 25 and 26</emphasis> make consequential amendments to the control provisions of the Commerce Act 1986.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 27</emphasis> makes consequential amendments to the provision of the Electricity Act 1992 relating to declarations of electricity operator status.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 28</emphasis> is a transitional provision.</text>
+          </para>
+        </clause.desc>
+      </explnote.group>
+      <explnote.ris>
+        <heading>Regulatory impact statement</heading>
+        <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
+        <para>
+          <text>In November 2006 Cabinet agreed to amend the Electricity Industry Reform Act 1998 to encourage investment in generation by lines businesses. This is referred to as the primary November 2006 Cabinet paper. A Regulatory Impact Statement (<def-term id="DLM1100400">RIS</def-term>) was prepared for this Cabinet paper.</text>
+        </para>
+        <para>
+          <text>Subsequently, in June 2007, the Cabinet Economic Development Committee considered further proposals to address concerns that arose during the drafting of the legislation. This is referred to as the June 2007 Cabinet paper. A RIS was prepared for this Cabinet paper.</text>
+        </para>
+        <para>
+          <text>These subsequent changes were necessary in order to ensure consistency of the prior agreed changes with the objective of the Act and to guard against unintended behaviour that may arise as a consequence of these changes concerning market power and corporate governance.</text>
+        </para>
+        <para>
+          <text>This RIS consolidates these 2 prior separate RIS documents.</text>
+        </para>
+        <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
+        <para>
+          <text>The Ministry of Economic Development (<def-term id="DLM1100401">MED</def-term>) confirms that the Code of Good Regulatory Practice and the regulatory impact analysis (<def-term id="DLM1100402">RIA</def-term>) requirements, including the consultation RIA requirements, have been complied with. A RIS was prepared and MED considers the RIS and the RIA analysis undertaken to be adequate. A draft RIS was circulated with the Cabinet paper for departmental consultation purposes.</text>
+        </para>
+        <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
+        <para>
+          <text>The Electricity Industry Reform Act 1998 (the <def-term id="DLM1100403">Act</def-term>) required full ownership separation between electricity lines (distribution and transmission) and electricity supply (retail and generation) businesses.</text>
+        </para>
+        <para>
+          <text>The Act has been amended twice. In 2001 the Act was amended to enable lines companies to invest in new renewable generation without limit, and to own any generation up to the higher of 5 MW or 2% of lines peak load, in order to encourage investment in renewable generation and allow lines companies to use generation to support lines functions where that is efficient. A 2004 amendment allowed lines companies to own generation up to 50 MW or 20% of peak load and unlimited reserve generation contracted to the Electricity Commission to improve security of supply.</text>
+        </para>
+        <para>
+          <text>In addition, changes made to the regulatory regime and market structure since 1998 collectively go some way toward safeguarding against potential abuse of market power. These include targeted price control and information disclosure requirements under Part 4A of the Commerce Act 1986, use-of-system agreements with retailers, and powers to regulate terms and conditions for access to lines by generators (regulations are still under development and should be in place at the end of 2006).</text>
+        </para>
+        <para>
+          <text>Currently, the Act allows lines companies to invest in unlimited quantities of new renewable generation and in new non-renewable generation up to 50 MW or 20% of lines peak load. Below a threshold of 5 MW or 2% of lines peak load, there are no requirements for line companies owning generation, but above this threshold lines companies must comply with corporate separation and arm’s-length rules.</text>
+        </para>
+        <para>
+          <text>Corporate separation requires lines companies to set up a separate legal entity for any cross-owned electricity supply business. Arm’s-length rules outline permitted governance arrangements for the 2 entities, including requirements for separate directorship and management, duties not to discriminate in favour of companies in common ownership, prohibitions on sharing information, and requirements for financial separation.</text>
+        </para>
+        <para>
+          <text>Lines companies also cannot currently hedge the output of their generation for risks related to electricity prices and trade in spot energy.</text>
+        </para>
+        <para>
+          <text>Lines companies may seek an exemption from any or all of these restrictions from the Commerce Commission. The criterion for approval of exemptions by the Commission is that the purposes of the Act (primarily to ensure effective separation of lines and generation/retailing and to promote competition in generation and retailing) would be facilitated.</text>
+        </para>
+        <para>
+          <text>Lines businesses have invested very little in generation since 1998, despite amendments to the Act to encourage investment. Lines businesses argue that this is because the corporate separation and arm’s-length rules are difficult to comply with, an inability to trade in hedges and financial instruments makes selling the output of their plant difficult, and seeking exemptions from the provisions of the Act is too challenging because of time taken and the uncertainty involved.</text>
+        </para>
+        <para>
+          <text>To facilitate investment in generation by lines companies, it is necessary to examine the legislative issues that lines companies state are barriers to their investment to see if current settings are appropriate or if there are unnecessary impediments to investment.</text>
+        </para>
+        <para>
+          <text>The second June 2007 Cabinet paper addressed issues that have arisen during the drafting of legislation to implement these prior decisions where those issues have the effect of extending the scope of the prior decisions and thereby require further Cabinet decision. The substantive issues to be considered included proposals to—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>modify the decision to allow the same person to be a director of cross-owned lines and supply companies in order to maintain the integrity of corporate separation; and</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allow the same person to be a manager of cross-owned lines and supply companies up to a threshold of 30 MW generation; and</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allow generation connected to the grid to count towards the level of permitted retailing; and</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>amend the definition of new renewable energy source by removing the restriction on hydro and geothermal generation energy sources and aligning the definition with that in the Resource Management Act 1991.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.ird-crosshead>Objectives</explnote.ird-crosshead>
+        <para>
+          <text>To facilitate lines companies investing in electricity generation by removing unnecessary barriers to investment without creating opportunities for unwarranted market power to arise.</text>
+        </para>
+        <explnote.subhead2>Alternative options for primary November 2006 Cabinet paper</explnote.subhead2>
+        <explnote.subhead2>Option 1: Removal of ownership separation requirements</explnote.subhead2>
+        <para>
+          <text>This option would completely remove the quantity restrictions on lines companies investing in generation and retail. (In effect the Act would be repealed). This option is not preferred, because removal of ownership separation requirements will not only increase investment in generation but will also increase the ability of lines companies to engage in anti-competitive behaviour, including cross-subsidies between line and supply businesses, may allow regional monopolies in the electricity market to emerge, and may lead to lines companies making risky or non-commercial investments.</text>
+        </para>
+        <explnote.subhead2>Option 2: Relaxation of rules relating to investment in generation and retailing</explnote.subhead2>
+        <para>
+          <text>There are a number of ways (sub-options) in which provisions of the Act could be relaxed (short of removing all restrictions) to facilitate lines companies investment in electricity generation. These are—</text>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">a</label>
+            <para>
+              <text>removing the requirements for corporate separation and/or the arm’s-length rules, and/or removing all restrictions on retailing. It is not recommended that these restrictions be fully removed as the risks involved are similar to the risks of removing ownership separation as under option 1:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
+            <para>
+              <text>introducing a net public-benefit test for exemptions. A net public-benefit test would be very time consuming and resource intensive, both for companies and for the Commerce Commission. It is not clear that the benefits of introducing such a test would exceed the significant increase in costs required to implement it:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>setting a time limit of 60 working days (or longer if agreed with the applicant) for consideration of exemption applications by the Commerce Commission. This would be consistent with time limits for similar exemption processes considered by the Commission and would reduce uncertainty and costs for applicants. However, the indicative cost of this proposal to the Commerce Commission is estimated at $300,000 to $500,000 and, given that few exemption requests are likely to be received, this additional cost is not merited. In addition, if other proposals are implemented, there are likely to be fewer exemptions sought anyway:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">d</label>
+            <para>
+              <text>allowing generation/retail companies owned by lines companies to trade in financial instruments (hedges) and spot energy. This would enable companies to better manage revenue flows from generation outputs and make generation projects easier and less costly to finance:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">e</label>
+            <para>
+              <text>raising the threshold at which corporate separation and arm’s-length rules apply to 10 MW generation. If this was the case, lines companies would only incur the substantial costs involved in corporate separation for relatively substantial investments:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">f</label>
+            <para>
+              <text>allowing cross-owned lines and supply businesses to appoint the same persons to their separate boards of directors. This proposal would reduce transaction and overhead costs and enable lines companies’ directors to maintain an overview of investment across all businesses:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">g</label>
+            <para>
+              <text>allowing lines companies to invest in generation and retail to customers outside their local lines region without limit without complying with corporate separation and arm’s-length rules (except accounting separation). This would allow lines companies to invest in generation where there was no conflict of interest with other generation in the local network, and where the lines company did not have access to privileged information about customers. A monitoring regime would be put in place to ensure cross-owned supply businesses only retail within their lines region the output of any generation owned within that lines region (that is, connected to local lines). This would likely be in the form of an audited statement to the Commerce Commission annually confirming that the quantity of electricity sold over a calendar year to customers connected to its lines does not exceed the limit of nominal generation capacity owned by the lines company and connected to its lines.</text>
+            </para>
+          </label-para>
+        </para>
+        <explnote.subhead1>Alternative options for June 2006 Cabinet paper</explnote.subhead1>
+        <para>
+          <text>The decision to amend the Act was taken by Cabinet in November 2006 (EDC Min (06) 20/18 refers). The options considered in this paper are extensions to the prior decisions that are necessary in order to ensure the policy is efficiently implemented.</text>
+        </para>
+        <para>
+          <text>For the recommended options, apart from the status quo, the following alternatives were considered:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>directors: an option would be to require more than 1 independent director. However, given the small size of many businesses, it was felt that this would be too onerous and that precluding executive directors would prove sufficient:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>managers: options were considered to set the threshold at levels above 30 MW generation, or at a percentage of network demand. Levels above 30 MW were judged to be too large, creating too great an opportunity for inappropriate information sharing. A change from a simple, fixed MW generation threshold to a percentage of demand would significantly increase the compliance and monitoring costs of the Commerce Commission:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>grid connection: an option was considered to extend this rule to cover generation connected to adjacent lines businesses. Such an extension would not be warranted because it would weaken the Act’s objective of controlling activities within a lines area.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.subhead1>Preferred options for primary November 2006 Cabinet paper</explnote.subhead1>
+        <explnote.subhead2>Option 3 (preferred option): relaxing some provisions of Act</explnote.subhead2>
+        <para>
+          <text>Officials recommend that some of the rules relating to investment in generation (<emphasis style="italic">see</emphasis> paragraphs (d), (e), (f), and (g) as outlined above in Option 2) are relaxed.</text>
+        </para>
+        <explnote.subhead1>Preferred options for June 2007 Cabinet paper</explnote.subhead1>
+        <para>
+          <text>The preferred options are—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>to maintain the integrity of corporate separation by requiring at least one independent director and by not allowing common executive directors:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>to allow the same person to be a manager of both companies, but only up to a generation threshold of 30 MW:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>to allow generation connected to the transmission grid to count towards the level of permitted retailing where the generation is clearly local:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>to amend the definition of new renewables by removing the restriction on hydro and geothermal generation energy sources and aligning it with the Resource Management Act 1991 definition.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.ird-crosshead>Statement of net benefit of proposal, including total regulatory costs (administrative, compliance, and economic costs) and benefits (including non-quantifiable benefits) of proposal, and other feasible options</explnote.ird-crosshead>
+        <explnote.subhead1>Government</explnote.subhead1>
+        <para>
+          <text>Facilitating lines companies’ investment in generation would help to achieve Government’s objectives as outlined in the Government Policy Statement. In particular, increased generation investment should enhance security of energy supply, and put downward pressure on electricity prices, through increasing competition.</text>
+        </para>
+        <para>
+          <text>There would be a small increase in costs for the Commerce Commission associated with monitoring cross-owned supply businesses retailing within the local lines region and annual certification of directors’ compliance with arm’s-length rules, which would be met within baselines.</text>
+        </para>
+        <para>
+          <text>The Commerce Commission has also indicated that it may seek additional funding through the Ministry of Economic Development in order to undertake its existing functions under the Act. Any request will be considered within the budget process.</text>
+        </para>
+        <explnote.subhead1>Lines companies and their cross-owned supply businesses</explnote.subhead1>
+        <para>
+          <text>The proposals will facilitate lines companies’ investment in generation. There will be benefits for lines companies that choose to invest in generation in terms of reducing transaction costs and providing greater certainty for investment by allowing directors to retain an overview of investments, reducing overhead costs for smaller levels of investment by raising the corporate separation generation threshold to 10 MW, better managing returns from investment through being able to use financial instruments such as hedges, enabling investment in situations where there are no incentives on lines companies to behave anti-competitively, and improving the synergies available through co-optimisation of investment between lines and generation. It should be noted that some lines companies would be worse off as a result of the removal of the 2% threshold. However, corporate separation costs will be similar for all lines businesses regardless of the size of the lines business.</text>
+        </para>
+        <para>
+          <text>For lines companies that choose not to invest in electricity generation, or which invest in electricity generation below the 5 MW generation threshold or 2% peak load threshold (to be raised to a 10 MW threshold), there will be no change in compliance costs. Those lines companies that choose to invest above the threshold will incur increased compliance costs. These are discussed in the business compliance cost statement. However, the benefit to lines companies of being able to invest in and sell generation is likely to be greater than the cost of compliance with requirements that enable them to do so.</text>
+        </para>
+        <explnote.subhead2>Generators/retailers</explnote.subhead2>
+        <para>
+          <text>There are risks that lines companies investing in generation may engage in anti-competitive practices, disadvantaging generator/retailers competing in the same markets, for example, through cross-subsidisation from their lines business to their supply business, or through concealing costs within their monopoly line charges. However, these risks are substantially reduced by the Commerce Commission monitoring the price threshold regime and information disclosure requirements set out in Part 4A of the Commerce Act 1986 and, therefore, will be able to be managed within existing regulatory frameworks, which have changed substantially since 1998.</text>
+        </para>
+        <explnote.subhead2>Transpower/transmission</explnote.subhead2>
+        <para>
+          <text>It is unlikely that the proposals in this paper will impact significantly on the transmission sector. If lines companies invest in electricity generation, it is likely to be within their own lines networks, or other distributed generation, and may lead to a reduced need for investment in the national grid.</text>
+        </para>
+        <explnote.subhead2>Society</explnote.subhead2>
+        <para>
+          <text>The proposal is likely to result in a net benefit for consumers. Increased investment in electricity generation will enhance security of electricity supply and increase supply and competition, which can act to ensure that delivered electricity costs and prices are subject to sustained downward pressure. In particular, there may be benefits for communities in remote areas, where local generation could contribute to economic development (eg, wood processing), and in cases where the cost of distributed generation is significantly lower than the costs of upgrading transmission, the proposal may lead to lower prices. Costs and risks of cross-subsidy and anti-competitive practices to consumers will be managed within existing regulatory frameworks.</text>
+        </para>
+        <explnote.ird-crosshead>Implementation and review</explnote.ird-crosshead>
+        <para>
+          <text>An amendment to the Electricity Industry Reform Act 1998 is category 4 on the legislative programme for 2007. The amendment is expected to be passed in early 2008.</text>
+        </para>
+        <explnote.ird-crosshead>Consultation for primary November 2006 Cabinet paper</explnote.ird-crosshead>
+        <para>
+          <text>The following government departments/agencies have been consulted on these proposals: the Treasury, Commerce Commission, Electricity Commission, Department of Prime Minister and Cabinet, Ministry for the Environment, Ministry of Consumer Affairs, and Energy Efficiency and the Conservation Authority.</text>
+        </para>
+        <para>
+          <text>Feedback received has not indicated any significant concerns with the proposals.</text>
+        </para>
+        <explnote.ird-crosshead>Consultation for June 2007 Cabinet paper</explnote.ird-crosshead>
+        <para>
+          <text>This paper was prepared in consultation with the Treasury, the Energy Efficiency and Conservation Authority, and the Commerce Commission.</text>
+        </para>
+        <para>
+          <text>There was consultation with interested parties in the electricity sector for a period of 3 weeks on the draft Bill.</text>
+        </para>
+        <explnote.ird-crosshead>Business compliance cost statement</explnote.ird-crosshead>
+        <para>
+          <text>For any lines companies investing in generation above the 5 MW or 2% peak load threshold (to be raised to a 10 MW threshold), there will be a compliance cost associated with a monitoring regime to ensure that their affiliated supply businesses are complying with requirements to retail within their local lines region only the output of any generation owned within that lines region (that is, connected to local lines). Lines companies would be required to provide an audited statement to the Commerce Commission each year confirming that the quantity of electricity sold over a calendar year to customers connected to its lines does not (on average over the 12-month period) exceed the limit of nominal generation capacity owned by the lines company and connected to its lines. The costs to lines companies would include the cost of keeping records of the quantity of electricity sold to customers connected to its lines, the cost of completing a statement, and the cost of obtaining an independent auditor to have that statement audited.</text>
+        </para>
+        <para>
+          <text>Compliance costs from the requirement for directors to certify on an annual basis that they are complying with arm’s-length rules will only be incurred if companies choose to share directors across the boards of lines and supply companies. If companies continue to maintain entirely separate boards, costs will remain the same. The compliance cost from certification will be small—directors will be required to sign a statement each year certifying that they will comply with arm’s-length rules and send this to the Commerce Commission. The Commerce Commission will work with lines companies to ensure that they understand how to comply with these new requirements.</text>
+        </para>
+      </explnote.ris>
+    </explnote>
+  </billdetail>
+  <cover id="DLM1100404">
+    <member>Hon David Parker</member>
+    <title>Electricity Industry Reform Amendment Bill</title>
+    <billtype xml:lang="en-NZ">Government Bill</billtype>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM1100405">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM1100406" prov-type="section">
+    <prov id="DLM1100407" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act is the Electricity Industry Reform Amendment Act <changeable>2007</changeable>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM1100408" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act comes into force on the 28th day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <part id="DLM1100409" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="191" bill.type="government" stage="1" year="2007">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Amendments to principal Act</heading>
+      <prov id="DLM1100410" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">3</label>
+        <heading>Principal Act amended</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>This <changeable><citation jurisdiction="nz">Part</citation></changeable> amends the Electricity Industry Reform Act 1998.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100411" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading>Purpose</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Section 2(1) is repealed and the following subsections are substituted:</text>
+              <amend quote="1">
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">1</label>
+                  <para>
+                    <text>The purpose of this Act is to better ensure that—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>costs and prices in the electricity industry are subject to sustained downward pressure; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>the benefits of efficient electricity pricing flow through to all classes of consumers; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">c</label>
+                      <para>
+                        <text>barriers to new investment in generation from renewable energy sources are limited.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">1A</label>
+                  <para>
+                    <text>The Act does this by—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>effectively separating electricity lines from generation and retail where those activities are co-located; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>promoting effective competition in electricity generation and retail; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">c</label>
+                      <para>
+                        <text>limiting barriers to new investment in generation from renewable energy sources.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section 2(2) is repealed and the following subsection substituted:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">2</label>
+                  <para>
+                    <text>The particular purpose of Parts 1 to 3 and 5 (separation of lines and supply) is—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>to prohibit certain involvements in electricity lines and electricity generation and retail that may create incentives or opportunities—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
+                          <para>
+                            <text>to inhibit competition in the electricity industry; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
+                          <para>
+                            <text>to cross-subsidise generation or retail activities from electricity lines; and</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>to restrict relationships between businesses that have involvements in electricity lines and electricity generation or retail that otherwise may not be at arm’s-length; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">c</label>
+                      <para>
+                        <text>to provide specified exemptions for new investment in generation from renewable energy sources.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>Section 2(5) is repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100412" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">5</label>
+        <heading>Interpretation</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>The definitions of <def-term id="DLM1100413">core assets</def-term>, <def-term id="DLM1100414">cross-involvement</def-term>, <def-term id="DLM1100415">customer co-operative</def-term>, <def-term id="DLM1100416">distributed generation</def-term>, <def-term id="DLM1100417">electricity business</def-term>, <def-term id="DLM1100418">electricity company</def-term>, <def-term id="DLM1100419">electricity lines business</def-term>, <def-term id="DLM1100420">electricity supply business</def-term>, <def-term id="DLM1100421">exempt person</def-term>, <def-term id="DLM1100422">existing cross-involvement</def-term>, <def-term id="DLM1100423">existing involvement</def-term>, <def-term id="DLM1100424">line</def-term>, <def-term id="DLM1100425">mirror co-operative</def-term>, <def-term id="DLM1100426">mirror trust</def-term>, <def-term id="DLM1100427">ownership separation rules</def-term>, <def-term id="DLM1100428">settling trust</def-term>, <def-term id="DLM1100429">transfer</def-term>, and <def-term id="DLM1100430">unseparated electricity business</def-term> in section 3(1) are repealed.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section 3(1) is amended by inserting the following definitions in their appropriate alphabetical order:</text>
+              <amend increment="1" quote="1">
+                <def-para id="DLM1100431" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100432">connected customer</def-term>, in respect of a person, means a consumer (within the meaning of that term in section 2(1) of the Electricity Act 1992) to whom that person sells electricity, if—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>the electricity is conveyed to that customer on a line in which the person is involved; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>the customer and the line are within the same local network area</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100433" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100434">connected customers selling cap</def-term> means the rule in <changeable><citation jurisdiction="nz">section 17C</citation></changeable></text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100435" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100436">connected electricity business</def-term> means a business to which <changeable><citation jurisdiction="nz">section 17D</citation></changeable> applies</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100437" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100438">connected generation</def-term>, in respect of a person, means generation in which the person is involved that is connected to a line in which the person is involved, if the generation and the line are within the same local network area</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100439" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100440">connected generation cap</def-term> means the rule in <changeable><citation jurisdiction="nz">section 17A</citation></changeable></text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100441" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100442">electricity business</def-term> means a business that does any of the things referred to in <changeable><citation jurisdiction="nz">section 7(1)(a) to (c)</citation></changeable></text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100443" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100444">financial year</def-term> means a period of 12 months ending on 31 March</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100445" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100446">line</def-term> means works that are used or intended to be used for the conveyance of electricity, and includes a wire or cable</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100447" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100448">local network</def-term> means lines, equipment, and plant that is used to convey electricity between the grid and a consumer or embedded generator or embedded network who are connected to that local network, and <def-term id="DLM1100449">local network area</def-term> has a corresponding meaning</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100450" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100451">ownership separation rules</def-term> means the rules in <changeable><citation jurisdiction="nz">sections 17 to 17F</citation></changeable> and section 20 (non-specific interests rule)</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100452" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100453">qualifying generation</def-term> has the same meaning as in <changeable><citation jurisdiction="nz">section 17C(2)</citation></changeable></text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100454" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100455">renewable energy source</def-term> means solar, wind, hydro, geothermal, biomass, tidal, wave, ocean current sources, or any other energy source that occurs naturally and the use of which will not permanently deplete New Zealand’s energy sources of that kind, because those sources are generally expected to be replenished by natural processes within 50 years or less of being used</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1100456" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1100457">sell</def-term> means any arrangement under which electricity is bought and sold, except financial hedge contracts, and <def-term id="DLM1100458">sell electricity</def-term> has a corresponding meaning</text>
+                  </para>
+                </def-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>Every reference in the principal Act to <amend.in quote="1">arms length rules</amend.in> is replaced by a reference to <amend.in quote="1">arm’s-length rules</amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>Section 3(3) is amended by omitting <amend.in quote="1">sections 4(2), 5(2), and 19</amend.in> and substituting <amend.in quote="1"><changeable><citation jurisdiction="nz">sections 17 to 17F</citation></changeable> and 19</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100459" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">6</label>
+        <heading>Sections 4 and 5 repealed</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Sections 4 and 5 are repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100460" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">7</label>
+        <heading>New sections 6 and 7 substituted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Sections 6 and 7 are repealed and the following sections substituted:</text>
+              <amend quote="1">
+                <prov id="DLM1100461" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">6</label>
+                  <heading>Meaning of business A and business B</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>Where section 20 uses the term business A, it refers to a business that would have to be ownership separated under <changeable><citation jurisdiction="nz">sections 17 to 17F</citation></changeable>, and the term business B then refers to a business from which business A must be separated under those sections.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>Where the rest of this Act uses the term business A, it refers to a business that is required to be carried out in 1 company under <changeable><citation jurisdiction="nz">sections 17D and 17E</citation></changeable>, and the term business B then refers to a business that is required to be carried out in another company under those sections.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>Where this Act applies to business A, it applies equally to business B, and vice versa.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>References to trust A and trust B have corresponding meanings and application.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM1100462" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">7</label>
+                  <heading>Meaning of involved</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>For the purposes of this Act, a person is <def-term id="DLM1100463">involved</def-term>—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>in a line if the person conveys electricity by the line, or owns or operates, directly or indirectly, the line or any other assets used in connection with the line, either alone or together with its associates and either on its own or another’s behalf:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>in any generation if the person generates electricity from the generator, or owns or operates, directly or indirectly, the generator or any other assets used in connection with the generator, either alone or together with its associates and either on its own or another’s behalf:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>in selling electricity to a customer if the person sells to the customer either on its own or another’s behalf:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>in any of the things referred to in <changeable><citation jurisdiction="nz">paragraphs (a) to (c)</citation></changeable> if the person—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>carries on a business that does any of those things, either alone or together with its associates and either on its own or another’s behalf; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>exceeds the 10% threshold in section 8 in respect of a business that does any of those things; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iii</label>
+                              <para>
+                                <text>has material influence over a business that does any of those things.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text><def-term id="DLM1100464">Involvement</def-term> has a corresponding meaning.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100465" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">8</label>
+        <heading>New headings and sections 17 to 17F substituted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Section 17 and the heading above section 17 are repealed and the following sections and headings substituted:</text>
+              <amend quote="1">
+                <crosshead id="DLM1100466" quote="1" toc="yes">Ownership separation</crosshead>
+                <prov id="DLM1100467" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">17</label>
+                  <heading>Ownership restrictions on connected electricity businesses</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>No person who breaches the connected generation cap may be involved in the relevant line, and vice versa.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>No person who breaches the connected customers selling cap may be involved in the relevant line, and vice versa.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM1100468" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">17A</label>
+                  <heading>Connected generation cap rule</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The connected generation cap is breached by a person if—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>any of the person’s connected generation was commissioned before 20 May 2003; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the person’s connected generation has a total capacity (determined according to nameplate or nameplates) that exceeds the greater of—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>50 MW; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>20% of the average of the maximum demand, in the immediately preceding 3 financial years, on the local network area.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>Generation where the total capacity (determined according to nameplate or nameplates) of the generator is 5 MW or less is counted for the purpose of this section (regardless of when it was commissioned) unless it falls within <changeable><citation jurisdiction="nz">section 17B(c)</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>This section is subject to <changeable><citation jurisdiction="nz">section 17B</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM1100469" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">17B</label>
+                  <heading>Small or encouraged connected generation not counted for purpose of connected generation cap</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="no"/>
+                      <para>
+                        <text>The following connected generation is not counted for the purpose of <changeable><citation jurisdiction="nz">section 17A</citation></changeable>:</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>generation commissioned on or after 8 August 2001 if the electricity generated from it is produced only from renewable energy sources:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>generation commissioned on or after 8 August 2001 if the electricity generated from it is produced partly from renewable energy sources, as long as fossil fuels provide no more of the total fuel energy input for the generator or generators comprising the generation plant in any 12-month period than—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>20%; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>any larger amount approved by the Minister (on the conditions, if any, he or she thinks fit) after first taking into account whether or not the generation uses new or advanced technology:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>generation where the total capacity (determined according to nameplate or nameplates) of the generator is 5 MW or less if the generation was owned or operated, directly or indirectly, by the relevant person—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>before 23 June 1998; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>continuously between that date and the date when the person seeks to count that generation for the purposes of <changeable><citation jurisdiction="nz">section 17A</citation></changeable>:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>generation that is disregarded under section 19.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM1100470" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">17C</label>
+                  <heading>Connected customers selling cap rule</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The connected customers selling cap is breached by a person if the person is involved in selling more electricity to connected customers within a local network area, in total, in a financial year, than the equivalent of the person’s qualifying generation within the local network area.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>The person’s <def-term id="DLM1100471">qualifying generation</def-term> is the sum of the total annual nominal MWh capacity of the following generation (calculated as if the generation were operated at total capacity (determined according to nameplate or nameplates) for 24 hours for 365 days per annum):</text>
+                        <eqn id="DLM1100472">
+                          <eqn-line>a + b + c</eqn-line>
+                          <para>
+                            <text>where—</text>
+                          </para>
+                          <variable-def>
+                            <variable>a</variable>
+                            <para>
+                              <text>is the person’s connected generation that is within the connected generation cap in <changeable><citation jurisdiction="nz">section 17A</citation></changeable>; and</text>
+                            </para>
+                          </variable-def>
+                          <variable-def>
+                            <variable>b</variable>
+                            <para>
+                              <text>is any connected generation referred to in <changeable><citation jurisdiction="nz">section 17B(a), (b), or (c)</citation></changeable> in which the person has an involvement; and</text>
+                            </para>
+                          </variable-def>
+                          <variable-def>
+                            <variable>c</variable>
+                            <para>
+                              <text>is any new generation referred to in <changeable><citation jurisdiction="nz">section 17B(a) or (b)</citation></changeable> that is connected to the national grid, if,—</text>
+                              <label-para skeleton="no">
+                                <label auto.number="no" denominator="yes">a</label>
+                                <para>
+                                  <text>on application by or on behalf of the person, the Commission has determined, by notice in the <emphasis style="italic">Gazette</emphasis>, that the generation should be treated as being within the local network area of the lines in which the person is involved; and</text>
+                                </para>
+                              </label-para>
+                              <label-para skeleton="no">
+                                <label auto.number="no" denominator="yes">b</label>
+                                <para>
+                                  <text>the total capacity (determined according to nameplate or nameplates) of all generation in which the person has an involvement does not exceed 100 MW.</text>
+                                </para>
+                              </label-para>
+                            </para>
+                          </variable-def>
+                        </eqn>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The Commission may not determine that any generation should be treated as being within more than 1 local network area.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <crosshead id="DLM1100473" quote="1" toc="yes">Corporate separation and arm’s-length rules</crosshead>
+                <prov id="DLM1100474" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">17D</label>
+                  <heading>When corporate separation and arm’s-length rules apply</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="no"/>
+                      <para>
+                        <text>The corporate separation and arm’s-length rules apply if a person has an involvement in—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>more than 10 MW (determined according to nameplate or nameplates) of connected generation (including any connected generation referred to in <changeable><citation jurisdiction="nz">section 17B</citation></changeable> and any generation that the Commission has determined under <changeable><citation jurisdiction="nz">section 17C(2)</citation></changeable> should be treated as being within the local network area); or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>selling more than 87 600 MWh (which is 10 MW operated at 24 hours for 365 days per annum) of qualifying generation to connected customers in a financial year.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM1100475" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">17E</label>
+                  <heading>What corporate separation and arm’s-length rules require</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The corporate separation rules require that every person or persons who carry on the connected electricity businesses must carry on the business involving the relevant line in a different company from the company that carries on the business involving the qualifying generation or the selling to connected customers.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>The arm’s-length rules require that every person who is involved in either of the connected electricity businesses must comply, and ensure that the person’s electricity businesses comply, with the arm’s-length rules.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <crosshead id="DLM1100476" quote="1" toc="yes">Exemption for Transpower</crosshead>
+                <prov id="DLM1100477" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">17F</label>
+                  <heading>Exemption for Transpower New Zealand Limited for purpose of deferring investment in national grid</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>In this section, unless the context otherwise requires, <def-term id="DLM1100478">Transpower</def-term> means Transpower New Zealand Limited and any subsidiary of or successor to that company.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>This section applies if, and to the extent to which, Transpower contracts with another person for that person to generate electricity for the purpose of deferring the need for investment by Transpower in the national grid.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>Transpower is not involved in that person’s electricity generation for the purposes of this Act.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100479" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">9</label>
+        <heading>Section 18 repealed</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Section 18 is repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100480" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">10</label>
+        <heading>New heading above section 19 substituted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>The heading above section 19 is repealed and the following heading substituted:</text>
+              <amend quote="1">
+                <crosshead id="DLM1100481" quote="1" toc="no">Scope of application of rules in this Part</crosshead>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100482" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">11</label>
+        <heading>Certain businesses and involvements to be disregarded</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Section 19(1) is amended by inserting the following paragraphs after paragraph (ga):</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">gb</label>
+                  <para>
+                    <text>that person is involved in the generation of reserve energy that is in accordance with the terms and conditions for that reserve energy set by the Commission, as those terms are defined in the Electricity Act 1992; or</text>
+                  </para>
+                </label-para>
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">gc</label>
+                  <para>
+                    <text>that person is involved in the generation of electricity that is solely for the person’s own consumption or for the consumption of that person’s associates; or</text>
+                  </para>
+                </label-para>
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">gd</label>
+                  <para>
+                    <text>that person is involved in the generation of electricity that does not have a total annual nominal capacity greater than 2.5 GWh per annum (determined according to nameplate or nameplates); or</text>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section 19 is amended by inserting the following subsection after subsection (1):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">1A</label>
+                  <para>
+                    <text>For the purposes of this Act, no account is to be taken of a person’s involvement in a line that—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>is not connected, directly or indirectly, to the national grid:</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>conveys electricity only from a generator to the national grid or from the national grid to a generator:</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">c</label>
+                      <para>
+                        <text>conveys less than 2.5 GWh per annum:</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">d</label>
+                      <para>
+                        <text>conveys electricity solely for the consumption of a person who is involved in the line or for the consumption of its associates:</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">e</label>
+                      <para>
+                        <text>conveys electricity (other than via the national grid) only from a generator to a local network or from a local network to a generator:</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">f</label>
+                      <para>
+                        <text>conveys electricity mostly in competition with another line or lines operated by another electricity business that is not an associate of a person who is involved in the first line, provided that the competition is actual competition and not potential competition.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100483" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">12</label>
+        <heading>Sections 22 to 46C and headings repealed</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Sections 22 to 46C and the headings above sections 22, 27, 28, 30, 31, 36, 37, 46, 46A, and 46C are repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100484" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">13</label>
+        <heading>Inadvertent contraventions</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Section 48 is amended by omitting <amend.in quote="1">(except for sections 25 and 36)</amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section 48 is amended by adding the following subsection:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">3</label>
+                  <para>
+                    <text>This section does not apply to a contravention of <changeable><citation jurisdiction="nz">section 17D or 17E</citation></changeable> (corporate separation and arm’s-length rules).</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100485" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">14</label>
+        <heading>Court may order divestiture of assets or voting securities</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Section 54 is amended by adding the following subsection:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">4</label>
+                  <para>
+                    <text>This section does not apply to a contravention of <changeable><citation jurisdiction="nz">section 17D or 17E</citation></changeable> (corporate separation and arm’s-length rules).</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100486" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">15</label>
+        <heading>Application of Commerce Act 1986 and Crown Entities Act 2004 provisions</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Section 58 is amended by inserting the following paragraph after paragraph (c):</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">ca</label>
+                  <para>
+                    <text>section 88A (when undertaking as to damages not required by Commission):</text>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100487" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">16</label>
+        <heading>Part 4 repealed</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Part 4 (which relates to separation of lines and supply—taxation) is repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100488" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">17</label>
+        <heading>Disclosure regime</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Section 70(1)(c) is repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100489" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">18</label>
+        <heading>New sections 70A and 70B inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>The following sections are inserted after section 70:</text>
+              <amend quote="1">
+                <prov id="DLM1100490" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">70A</label>
+                  <heading>Disclosure as to electricity sold to connected customers within local network area</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>Every person who sells electricity to connected customers must provide to the Commission, as soon as practicable after the end of each financial year, a statement that—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>shows the calculation of the person’s qualifying generation in respect of that financial year; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>sets out how much electricity the person sold to connected customers during that financial year; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>includes a certificate, signed by the directors of the electricity business, confirming that the quantity of electricity the person sold to connected customers during that financial year did not exceed the limit set out in <changeable><citation jurisdiction="nz">section 17C</citation></changeable>.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>The statement must be in the form prescribed by the Commission from time to time.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The statement must be audited by an independent chartered accountant.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>The statement must be published on an Internet website maintained by or on behalf of the electricity business so that it is available to the public at all reasonable times.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>Every person commits an offence who refuses or knowingly fails to provide the statement to the Commission.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                      <para>
+                        <text>Every person who commits an offence under <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable> is liable on summary conviction to a fine not exceeding $200,000.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM1100491" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">70B</label>
+                  <heading>Directors must report compliance with arm’s-length rules</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>Each director of a business to which the arm’s-length rules apply must provide to the Commission, no later than 31 March in each year, a statement confirming whether or not the director has complied with all of the arm’s-length rules during the preceding calendar year.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>The director must publish that statement on an Internet website maintained by or on behalf of the business so that it is available to the public at all reasonable times.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100492" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">19</label>
+        <heading>Sections 71 to 79 and heading above section 71 repealed</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Sections 71 to 79 and the heading above section 71 are repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100493" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">20</label>
+        <heading>Not interconnected under Commerce Act 1986</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Section 83 is amended by omitting <amend.in quote="1">an electricity lines business and an electricity supply business that do not have ownership separation</amend.in> and substituting <amend.in quote="1">businesses to which <changeable><citation jurisdiction="nz">section 17D and 17E</citation></changeable> (corporate separation and arm’s-length rules) apply</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100494" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">21</label>
+        <heading>Sections 84 and 85 repealed</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Sections 84 and 85 are repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100495" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">22</label>
+        <heading>Regulations</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Section 87(2)(a), (c), and (d) are repealed.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section 87(2)(f) is amended by omitting <amend.in quote="1">electricity lines businesses and electricity supply</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100496" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">23</label>
+        <heading>Part 8 repealed</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Part 8 (which relates to the split of the Electricity Corporation of New Zealand) is repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100497" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">24</label>
+        <heading>Schedule 1 amended</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Clause 1 of Schedule 1 is amended by repealing subclause (1) and substituting the following subclause:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">1</label>
+                  <para>
+                    <text>The objective of this schedule is to ensure that businesses referred to in <changeable><citation jurisdiction="nz">section 17D</citation></changeable> operate at arm’s-length.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Clause 2 of Schedule 1 is amended by repealing the heading above rule 7 and rules 7 to 9 and substituting the following headings and rules:</text>
+              <amend quote="1">
+                <crosshead id="DLM1100498" quote="1" toc="no">At least 1 independent director</crosshead>
+                <prov id="DLM1100499" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">
+                    <emphasis style="roman">7</emphasis>
+                  </label>
+                  <prov.body>
+                    <para>
+                      <text>At least 1 director of business A must—</text>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
+                        <para>
+                          <text>be neither a director nor a manager of business B; and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
+                        <para>
+                          <text>not be an associate of business B, other than by virtue of being a director of business A.</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </prov.body>
+                </prov>
+                <crosshead id="DLM1100500" quote="1" toc="no">No cross-directors who are executive directors</crosshead>
+                <prov id="DLM1100501" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">
+                    <emphasis style="roman">8</emphasis>
+                  </label>
+                  <prov.body>
+                    <para>
+                      <text>A director of business A may be a director of business B, but must not—</text>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
+                        <para>
+                          <text>manage business B on a day-to-day basis; or</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
+                        <para>
+                          <text>be an associate of business B, other than by virtue of being a director of business A or business B; or</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">c</label>
+                        <para>
+                          <text>be involved in business B (other than by having material influence over business B by virtue of being a director of business B).</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </prov.body>
+                </prov>
+                <crosshead id="DLM1100502" quote="1" toc="no">Separate management rule</crosshead>
+                <prov id="DLM1100503" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">
+                    <emphasis style="roman">9</emphasis>
+                  </label>
+                  <prov.body>
+                    <para>
+                      <text>(1)<field fill="space" fill-length="5"/>This clause applies if business A is involved in—</text>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
+                        <para>
+                          <text>more than 30 MW (determined according to nameplate or nameplates) of connected generation (including any connected generation referred to in <changeable><citation jurisdiction="nz">section 17B</citation></changeable> and any generation that the Commission has determined under <changeable><citation jurisdiction="nz">section 17C(2)</citation></changeable> should be treated as being within the local network area); or</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
+                        <para>
+                          <text>selling more than 262 800 MWh (which is 30 MW operated at 24 hours for 365 days per annum) of qualifying generation to connected customers.</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2</label>
+                        <para>
+                          <text>A manager of business A must not—</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
+                        <para>
+                          <text>be a manager of business B; or</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
+                        <para>
+                          <text>be an associate of business B, other than by virtue of being a manager of business A; or</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">c</label>
+                        <para>
+                          <text>be involved in the business of business B.</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>Clause 2 of Schedule 1 is amended by inserting the heading <amend.in quote="1"><emphasis style="italic">Managers must not be placed under certain obligations</emphasis></amend.in> above rule 10(1).</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>Rule 10(2) of clause 2 of Schedule 1 is amended by inserting <amend.in quote="1">, or a cross-director or a cross-manager,</amend.in> after <quote.in quote="1">common parent</quote.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text>Rule 11 of clause 2 of Schedule 1 is amended by adding the following subclauses as subclauses (2) and (3):</text>
+              <amend quote="1">
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">2</label>
+                  <para>
+                    <text>This rule does not prevent cross-directors under <changeable><citation jurisdiction="nz">rule 8</citation></changeable> from having access to normal board information.</text>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">3</label>
+                  <para>
+                    <text>A manager of business A who is not prohibited from being a manager of business B under <changeable><citation jurisdiction="nz">rule 9</citation></changeable> may use restricted information of both business A and business B, but only to the extent that the use does not contravene another of the arm’s-length rules.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">6</label>
+            <para>
+              <text>Clause 5 of Schedule 1 is repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+    <part id="DLM1100504" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="191" bill.type="government" stage="1" year="2007">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Amendments to other Acts and transitional provision</heading>
+      <prov id="DLM1100505" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">25</label>
+        <heading>Consequential amendments to Commerce Act 1986</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>This section and <changeable><citation jurisdiction="nz">section 26</citation></changeable> amend the Commerce Act 1986.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The definitions of <def-term id="DLM1100506">electricity business</def-term>, <def-term id="DLM1100507">electricity lines business</def-term>, and <def-term id="DLM1100508">involved</def-term> in section 57D(1) are repealed.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>Section 57D is amended by adding the following subsections:</text>
+              <amend quote="1">
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">3</label>
+                  <para>
+                    <text>In this Part, unless the context otherwise requires,—</text>
+                    <def-para id="DLM1100509" quote="1">
+                      <para quote="1">
+                        <text><def-term id="DLM1100510">electricity business</def-term> means an electricity lines business or an electricity supply business or an unseparated electricity business</text>
+                      </para>
+                    </def-para>
+                    <def-para id="DLM1100511" quote="1">
+                      <para quote="1">
+                        <text><def-term id="DLM1100512">electricity lines business</def-term> has the same meaning as in <changeable><citation jurisdiction="nz">section 57DAA</citation></changeable></text>
+                      </para>
+                    </def-para>
+                    <def-para id="DLM1100513" quote="1">
+                      <para quote="1">
+                        <text><def-term id="DLM1100514">electricity supply business</def-term> has the same meaning as in <changeable><citation jurisdiction="nz">section 57DAAB</citation></changeable>.</text>
+                      </para>
+                    </def-para>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">4</label>
+                  <para>
+                    <text>In relation to <changeable><citation jurisdiction="nz">sections 57DAA and 57DAAB</citation></changeable>,—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>limitations, exclusions, or exemptions under those sections may be applied cumulatively; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>references to an activity being carried out only or solely for a particular purpose or in a particular way must not be read as excluding reliance on any other limitation, exclusion, or exemption in either of those sections.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100515" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">26</label>
+        <heading>New sections 57DAA and 57DAAB inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>The following sections are inserted after section 57D:</text>
+              <amend quote="1">
+                <prov id="DLM1100516" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">57DAA</label>
+                  <heading>Meaning of electricity lines business</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>For the purposes of this Part, <def-term id="DLM1100517">electricity lines business</def-term>—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>means a business that conveys electricity by line in New Zealand; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>includes the ownership or operation, directly or indirectly, of lines in New Zealand or any other core assets of an electricity lines business.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>None of the following activities brings a person within <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>:</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>conveying, together with its associates (if any), less than 2.5 GWh per annum:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>conveying electricity solely for its own consumption or for the consumption of its associates:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>conveying electricity only from a generator to the national grid or from the national grid to a generator:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>conveying electricity (other than via the national grid) only from a generator to a local distribution network or from a local distribution network to a generator:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">e</label>
+                          <para>
+                            <text>conveying electricity by lines that are owned or operated by a business that also owns or operates a generator which generates electricity solely for the consumption of a local community, where both those lines and that generator are not connected, directly or indirectly, to the national grid:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">f</label>
+                          <para>
+                            <text>conveying electricity only by a line or lines that are mostly in competition with a line or lines operated by another electricity lines business that is not an associate of the person, provided that the competition is actual competition and not potential competition:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">g</label>
+                          <para>
+                            <text>owning or operating, directly or indirectly, lines referred to in any of <changeable><citation jurisdiction="nz">paragraphs (a) to (f)</citation></changeable> or any other core assets of an electricity lines business used in connection with those lines.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>Terms used in this definition have the same meanings as they did in the Electricity Industry Reform Act 1998 before the enactment of the <changeable><citation jurisdiction="nz">Electricity Industry Reform Amendment Act 2007</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM1100518" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">57DAAB</label>
+                  <heading>Meaning of electricity supply business</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>For the purposes of this Part, <def-term id="DLM1100519">electricity supply business</def-term>—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>means a business that—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>sells electricity in New Zealand:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>sells financial hedges for risks relating to the price of electricity in New Zealand:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iii</label>
+                              <para>
+                                <text>generates electricity in New Zealand:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iv</label>
+                              <para>
+                                <text>trades in rights to sell or generate electricity in New Zealand; and</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>includes the ownership or operation, directly or indirectly, of a generator in New Zealand or any other core generation assets; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>includes the ownership or operation, directly or indirectly, of any core assets of an electricity retail business, which include—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>the customer database relating to, and used for the purposes of, an electricity retail or electricity trading business; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>the benefit of a contract to sell electricity; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iii</label>
+                              <para>
+                                <text>the benefit of an undertaking from any other electricity supply business not to compete with the business.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>None of the following activities brings a person within <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>:</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>selling or generating less than 2.5 GWh per annum:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>generating or selling electricity solely for its own consumption or for the consumption of its associates:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>generating electricity solely for the consumption of a local community, where—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>the generator is owned or operated by a business that also conveys electricity by line; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>both those lines and that generator are not connected, directly or indirectly, to the national grid:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>selling electricity that is generated at a generator referred to in <changeable><citation jurisdiction="nz">paragraph (c)</citation></changeable> or <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable>:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">e</label>
+                          <para>
+                            <text>generating electricity from distributed generation, and selling the electricity generated, where—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>the generating capacity of the distributed generation is no more, at any one time, than the greater of 5 MW (determined according to nameplate or nameplates) and 2% of the maximum demand, in the immediately preceding financial year, of the lines to which the distributed generation is connected; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>the distributed generation is owned or operated by a business that also conveys electricity by line and that distributed generation is connected to those lines:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">f</label>
+                          <para>
+                            <text>selling financial transmission rights that hedge risks arising from the effects of losses and constraints on the national grid:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">g</label>
+                          <para>
+                            <text>owning or operating, directly or indirectly, a generator referred to in any of <changeable><citation jurisdiction="nz">paragraphs (b) to (f)</citation></changeable> or <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> or any other core generation assets used in connection with those generators.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>A person may, without coming within <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, generate electricity at a generator or generators that are existing, and capable of generating electricity, as at 23 June 1998, if the total generating capacity (determined according to nameplate) of the business, together with its associates (if any), is 5 MW or less.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>Transpower New Zealand Limited, and any subsidiary of or successor to that company, may, without coming within <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, contract with an electricity supply business for that electricity supply business to generate electricity for the purpose of deferring the need for investment by Transpower New Zealand Limited, or any subsidiary of or successor to that company, in the national grid.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>For the purposes of <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>,—</text>
+                        <def-para id="DLM1100520" quote="1">
+                          <para quote="1">
+                            <text><def-term id="DLM1100521">financial transmission right</def-term> means a financial instrument issued by the real time co-ordinator of electricity supply and demand in New Zealand that—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>is funded exclusively by the difference between purchaser payments and generator receipts on the sale and purchase of electricity in the wholesale market that arises from the effect of losses and constraints on the national grid; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>entitles the holder to receive, or requires the holder to make, payments in accordance with a formula based on prices for quantities of electricity at 1 or more points on the national grid</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </def-para>
+                        <def-para id="DLM1100522" quote="1">
+                          <para quote="1">
+                            <text><def-term id="DLM1100523">financial year</def-term> means a period of 12 months ending on 31 March</text>
+                          </para>
+                        </def-para>
+                        <def-para id="DLM1100524" quote="1">
+                          <para quote="1">
+                            <text><def-term id="DLM1100525">system</def-term> means all of the works over which a business conveys or intends to convey electricity.</text>
+                          </para>
+                        </def-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                      <para>
+                        <text>Other terms used in this definition have the same meanings as they did in the Electricity Industry Reform Act 1998 before the enactment of the <changeable><citation jurisdiction="nz">Electricity Industry Reform Amendment Act 2007</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100526" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">27</label>
+        <heading>Consequential amendment to Electricity Act 1992</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>This section amends the Electricity Act 1992.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section 4A is amended by repealing subsection (1) and substituting the following subsection:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">1</label>
+                  <para>
+                    <text>The Minister may, by notice in the <emphasis style="italic">Gazette</emphasis>, declare an electricity generator to be an electricity operator for the purposes of this Act, or any provision or provisions of this Act, if the Minister is satisfied—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>that the declaration is necessary to enable the person to commence or carry on an activity as an electricity generator; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>that the business interests in respect of which the declaration is made are confined to any or all of the works necessary to convey the electricity generated to an electricity installation owned by an electricity generator, electricity distributor, or a consumer.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1100527" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">28</label>
+        <heading>Saving of existing exemptions</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>This section applies to any exemption granted under section 81 of the Electricity Industry Reform Act 1998 in respect of a cross-involvement if the cross-involvement would continue to be unlawful after the enactment of this Act but for the exemption.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The exemption, and the conditions subject to which it was granted, continue to have effect in so far as they apply to the cross-involvement as if this Act had not been enacted.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+  </body>
+</bill>
