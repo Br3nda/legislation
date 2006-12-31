@@ -1,52 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1107569" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2006" pco.suffix="0005" stage="published" year="2006" raised.by="Members" sop.no="51">
-  <date>Thursday, 3 August 2006</date>
-  <billref>Criminal Procedure Bill</billref>
-  <body id="DLM1107570">
+<sop id="DLM1154385" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2007" pco.suffix="0002" stage="published" year="2007" raised.by="Members" sop.no="156">
+  <date>Tuesday, 6 November 2007</date>
+  <billref>Human Tissue Bill</billref>
+  <body id="DLM1154386">
     <heading>Proposed amendments</heading>
-    <motion>Kate Wilkinson, in committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1107571">
-      <clause.ref>Clause 7</clause.ref>
+    <motion>Tariana Turia, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1154387">
+      <clause.ref>Part 1, Clause 7(4)(b)</clause.ref>
       <sop.para>
-        <text>To omit new section 378A (line 32 on page 9 to line 25 on page 11).</text>
+        <text>To insert before <quote.in quote="1">under <changeable><citation jurisdiction="nz">section 34</citation></changeable></quote.in> (page 19) <amend.in quote="1">under <changeable><citation jurisdiction="nz">section 33A</citation></changeable> by a person on behalf of the individual’s whānau or extended family or</amend.in>.</text>
       </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1154388">
+      <clause.ref>Part 2, New clause 27CA</clause.ref>
       <sop.para>
-        <text>To add <amend.in quote="1">; and</amend.in> to new section 378B(2)(b) and add the following paragraph:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">c</label>
-            <para>
-              <text>it is obtained by DNA technology.</text>
-            </para>
-          </label-para>
+        <text>To insert the following clause after <emphasis style="italic">clause 27C</emphasis> (on page 52):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1154389" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">27CA</label>
+            <heading>When overriding objection on behalf of whānau or extended family may be assumed to comply with section 33A</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>A person who proposes to collect or use human tissue is entitled to assume that an overriding objection raised, to the collection or use, by a member of a whānau or extended family, and on its behalf, has been raised in accordance with <changeable><citation jurisdiction="nz">section 33A</citation></changeable> only if the person is satisfied, based on all information available to the person in the circumstances, that—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>the member has taken the steps to consult required by <changeable><citation jurisdiction="nz">section 33A(2)(a)</citation></changeable>; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>the member has formed the belief, and that belief is based on the reasonable grounds, required by <changeable><citation jurisdiction="nz">section 33A(2)(c)</citation></changeable>.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM1107572">
-      <clause.ref>Clause 8</clause.ref>
+    <sop.amend id="DLM1154390">
+      <clause.ref>Part 2, New clause 33A</clause.ref>
       <sop.para>
-        <text>To omit this clause (lines 34 to 39 on page 15).</text>
+        <text>To insert the following clause after <emphasis style="italic">clause 33</emphasis> (on page 58):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1154391" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">33A</label>
+            <heading>Overriding objection on behalf of individual’s whānau or extended family</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>This section applies if an individual has, before his or her death, given informed consent to any collection or use of tissue that is, or is from, his or her body.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>An objection to that collection or use of that tissue may be raised by a member, and on behalf, of that individual’s whānau or extended family if that member—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>takes all reasonably practicable steps to consult members of that whānau or extended family who represent all of the different interests (if any) of that whānau or extended family; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>takes those steps with a view to achieving general agreement on the matter; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>after taking those steps, believes on reasonable grounds that all capable members of that whānau or extended family accept, or would, if consulted personally, accept, that member’s raising an objection to that collection or use on behalf of that whānau or extended family.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>For the purposes of <changeable><citation jurisdiction="nz">sections 10, 20, and 27</citation></changeable>, an objection raised under this section overrides the informed consent given by the individual.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1154392">
+      <clause.ref>Schedules 1A and 1B</clause.ref>
+      <sop.para>
+        <text>To add (on pages 91 and 92) the following note: <amend.in quote="1">•Use is also prohibited if the informed consent given by an individual before his or her death is overridden by an overriding objection raised under <changeable><citation jurisdiction="nz">section 33A</citation></changeable> by a member, and on behalf, of that individual’s whānau or extended family.</amend.in></text>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1107573" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0005" stage="published" year="2006" raised.by="Members" sop.no="51">
+  <explnote id="DLM1154393" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2007" raised.by="Members" sop.no="156">
     <heading>Explanatory note</heading>
     <para>
-      <text>These amendments—</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>delete the provisions relating to tainted acquittals as an exception to the rule prohibiting double jeopardy, and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>tighten the <quote.in quote="1">new and compelling</quote.in> evidence exception to the rule prohibiting double jeopardy by restricting it to DNA evidence.</text>
-          </para>
-        </item>
-      </list>
+      <text>These amendments to the Human Tissue Bill apply when an individual has, before his or her death, given informed consent to any collection or use of tissue that is, or is from, his or her body. The amendments enable an overriding objection to the collection or use of that tissue to be raised by a member, and on behalf, of that individual’s whānau or extended family. The effect of the overriding objection is that the collection or use of the tissue is prohibited.</text>
     </para>
   </explnote>
 </sop>
