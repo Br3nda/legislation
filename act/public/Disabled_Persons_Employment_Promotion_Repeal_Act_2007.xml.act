@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM405993" in.amend="false" instructing.office="Labour" irdnumbering="no" year.imprint="2007" xml:lang="en-NZ" act.no="11" act.type="public" date.as.at="2007-03-27" date.assent="2007-03-27" date.first.valid="2007-03-28" stage="in-force" year="2007">
+<act id="DLM405993" in.amend="false" instructing.office="Labour" irdnumbering="no" year.imprint="2008" xml:lang="en-NZ" act.no="11" act.type="public" date.as.at="2008-04-01" date.assent="2007-03-27" date.first.valid="2007-03-28" stage="reprint" year="2007">
   <cover id="DLM405994">
+    <reprint-date>2008-04-01</reprint-date>
     <title xml:lang="en-NZ">Disabled Persons Employment Promotion Repeal Act 2007</title>
     <assent>2007-03-27</assent>
     <commencement>see section 2</commencement>
     <cover.reprint-note>
-      <para xml:lang="en-NZ"/>
+      <para xml:lang="en-NZ">
+        <text>Changes authorised by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="873601" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1000900 - prov 17C" atidlm:xmlId="DLM1241403" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 17C</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="631201" atidlm:sourceXmlId="DLM1241403" atidlm:targetKey="1048414" atidlm:targetXmlId="DLM195466" atidlm:targetName="prov 17C" atidlm:sourceName="DLM1241403" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195452.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM405993.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM405994" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Acts and Regulations Publication Act 1989</citation> have been made in this eprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Department of Labour</ministry>.</admin-office>
     </cover.reprint-note>
   </cover>
   <contents>
     <heading xml:lang="en-NZ">Contents</heading>
     <toc/>
   </contents>
-  <front id="DLM405995" xml:lang="en-NZ">
-    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
-  </front>
+  <front id="DLM405995" xml:lang="en-NZ"/>
   <body id="DLM405996" prov-type="section" xml:lang="en-NZ">
     <prov id="DLM405997" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">1</label>
@@ -28,7 +33,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM405998" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-03-28" act.no="11" act.type="public" date.as.at="2007-03-27" date.assent="2007-03-27" stage="in-force" year="2007">
+    <part id="DLM405998" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-03-28" act.no="11" act.type="public" date.as.at="2008-04-01" date.assent="2007-03-27" stage="reprint" year="2007">
       <label auto.number="no" denominator="yes">1</label>
       <heading xml:lang="en-NZ">Preliminary provisions</heading>
       <prov id="DLM405999" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
@@ -72,7 +77,7 @@
               <label-para skeleton="no" xml:lang="en-NZ">
                 <label auto.number="no" denominator="yes">b</label>
                 <para xml:lang="en-NZ">
-                  <text>provide for matters arising from the repeal of the Act until the expiry of the transitional period on 30 November 2007.</text>
+                  <text>provide for matters arising from the repeal of the Act until the expiry of the transitional period on 30 November 2007.</text>
                 </para>
               </label-para>
             </para>
@@ -112,9 +117,9 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM406411" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-03-28" act.no="11" act.type="public" date.as.at="2007-03-27" date.assent="2007-03-27" stage="in-force" year="2007">
+    <part id="DLM406411" in.amend="false" irdnumbering="no" toc="yes" xml:lang="en-NZ" date.first.valid="2007-03-28" act.no="11" act.type="public" date.as.at="2008-04-01" date.assent="2007-03-27" stage="reprint" year="2007">
       <label auto.number="no" denominator="yes">2</label>
-      <heading xml:lang="en-NZ">Repeal of Disabled Persons Employment Promotion Act 1960</heading>
+      <heading xml:lang="en-NZ">Repeal of <citation jurisdiction="nz">Disabled Persons Employment Promotion Act 1960</citation></heading>
       <prov id="DLM406412" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">6</label>
         <heading xml:lang="en-NZ">Repeal</heading>
@@ -171,10 +176,15 @@
           <subprov skeleton="no" xml:lang="en-NZ">
             <label auto.number="no" denominator="no"/>
             <para xml:lang="en-NZ">
-              <text>Despite the repeal of the Act, any nominal amounts derived by a disabled person from therapeutic activities undertaken in a sheltered workshop must continue to be treated as exempt income for the purpose of <citation jurisdiction="nz">section CB 6(a)(i) of the Income Tax Act 1994</citation> and <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="383424" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov CW 27" atidlm:xmlId="DLM828103" atidlm:state="UNCHANGED"><atidlm:linkcontent>section CW 27(1)(d)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="389951" atidlm:sourceXmlId="DLM828103" atidlm:targetKey="1449330" atidlm:targetXmlId="DLM248946" atidlm:targetName="prov CW 27" atidlm:sourceName="DLM828103" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM248520.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM406411.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM406416" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Income Tax Act 2004</citation>.</text>
+              <text>Despite the repeal of the Act, any nominal amounts derived by a disabled person from therapeutic activities undertaken in a sheltered workshop must continue to be treated as exempt income for the purpose of <citation jurisdiction="nz">section CB 6(a)(i) of the Income Tax Act 1994</citation> and <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="383424" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov CW 27" atidlm:xmlId="DLM828103" atidlm:state="UNCHANGED"><atidlm:linkcontent>section CW 27(1)(d)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="389951" atidlm:sourceXmlId="DLM828103" atidlm:targetKey="1449330" atidlm:targetXmlId="DLM248946" atidlm:targetName="prov CW 27" atidlm:sourceName="DLM828103" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM248520.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM406411.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM406416" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Income Tax Act 2004</citation> <insertwords>and <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1763010" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1994110 - prov CW 33" atidlm:xmlId="DLM1994112" atidlm:state="UNCHANGED"><atidlm:linkcontent>section CW 33(1)(d)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="934570" atidlm:sourceXmlId="DLM1994112" atidlm:targetKey="13259719" atidlm:targetXmlId="DLM1513240" atidlm:targetName="prov CW 33" atidlm:sourceName="DLM1994112" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1513125.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM406411.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM406416" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Income Tax Act 2007</citation></insertwords>.</text>
             </para>
           </subprov>
         </prov.body>
+        <notes>
+          <history>
+            <history-note id="DLM1241401"><amended-provision>Section 9</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>1 April 2008</amendment-date>, by <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1763011" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1994111 - prov ZA 2" atidlm:xmlId="DLM1994113" atidlm:state="UNCHANGED"><atidlm:linkcontent>section ZA 2(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="934571" atidlm:sourceXmlId="DLM1994113" atidlm:targetKey="13289803" atidlm:targetXmlId="DLM1523176" atidlm:targetName="prov ZA 2" atidlm:sourceName="DLM1994113" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1523173.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM406411.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1241401" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <amending-leg>Income Tax Act 2007</amending-leg> (2007 No 97).</history-note>
+          </history>
+        </notes>
       </prov>
       <prov id="DLM406417" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
         <label auto.number="no" denominator="yes">10</label>
@@ -209,18 +219,57 @@
     </part>
   </body>
   <end id="DLM406419" xml:lang="en-NZ">
-    <leg-history id="DLM406420">
-      <heading xml:lang="en-NZ">Legislative history</heading>
-      <history-item>
-        <date>20 March 2007</date>
-        <description>Divided from Disabled Persons Employment Promotion (Repeal and Related Matters) Bill (Bill 138-1) as Bill 138-2A</description>
-      </history-item>
-      <history-item>
-        <date>21 March 2007</date>
-        <description>Third reading</description>
-      </history-item>
-    </leg-history>
-    <admin-office>This Act is administered by the <ministry>Department of Labour</ministry>.</admin-office>
+    <end.reprint-note id="DLM1241402">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>About this eprint</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>List of amendments incorporated in this eprint (most recent first) </text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is an eprint of the Disabled Persons Employment Promotion Repeal Act 2007. It incorporates all the amendments to the Disabled Persons Employment Promotion Repeal Act 2007 as at 1 April 2008. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007. Relevant provisions of any amending enactments that contain transitional, savings, or application provisions are also included, after the Principal enactment, in chronological order.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>About this eprint</heading>
+          <para>
+            <text>This eprint has not been officialised. For more information about officialisation, please see <quote.in quote="1">Making online legislation official</quote.in> under <quote.in quote="1">Status of legislation on this site</quote.in> in the About section of this website.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>List of amendments incorporated in this eprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz">Income Tax Act 2007 (2007 No 97): section ZA 2(1)</citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
   </end>
 </act>
 <!--End of file, do NOT remove.-->
