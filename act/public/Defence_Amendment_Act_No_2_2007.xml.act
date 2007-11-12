@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act id="DLM1001879" in.amend="false" instructing.office="Defence" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="100" act.type="public" date.as.at="2009-07-01" date.assent="2007-11-13" date.first.valid="2009-07-01" stage="reprint" year="2007">
+<act id="DLM1001879" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" act.no="100" act.type="public" date.as.at="2007-11-23" date.assent="2007-11-13" date.first.valid="2009-07-01" stage="not-in-force" year="2007">
   <cover id="DLM1001880">
-    <reprint-date>2009-07-01</reprint-date>
     <title xml:lang="en-NZ">Defence Amendment Act (No 2) 2007</title>
     <assent>2007-11-13</assent>
-    <cover.reprint-note>
-      <para xml:lang="en-NZ">
-        <text>Changes authorised by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1989424" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1000900 - prov 17C" atidlm:xmlId="DLM2196730" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 17C</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1008864" atidlm:sourceXmlId="DLM2196730" atidlm:targetKey="1048414" atidlm:targetXmlId="DLM195466" atidlm:targetName="prov 17C" atidlm:sourceName="DLM2196730" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195452.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1001879.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1001880" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Acts and Regulations Publication Act 1989</citation> have been made in this eprint.</text>
-      </para>
-      <para>
-        <text>A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.</text>
-      </para>
-    </cover.reprint-note>
   </cover>
   <contents>
     <heading xml:lang="en-NZ">Contents</heading>
@@ -44,11 +35,6 @@
           </para>
         </subprov>
       </prov.body>
-      <notes>
-        <history>
-          <history-note id="DLM2196728"><amended-provision>Section 2</amended-provision>: Defence Amendment Act (No 2) 2007 <amending-operation>brought into force</amending-operation>, on <amendment-date>1 July 2009</amendment-date>, by the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1989425" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2196725 - Defence Amendment Act (No 2) 2007 Commencement Order 2008" atidlm:xmlId="DLM2196731" atidlm:state="UNCHANGED"><atidlm:linkcontent>Defence Amendment Act (No 2) 2007 Commencement Order 2008</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1008865" atidlm:sourceXmlId="DLM2196731" atidlm:targetKey="12973606" atidlm:targetXmlId="DLM1474800" atidlm:targetName="Defence Amendment Act (No 2) 2007 Commencement Order 2008" atidlm:sourceName="DLM2196731" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZReg/fragxyxz_DLM1474800.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1001879.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2196728" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> (SR 2008/235).</history-note>
-        </history>
-      </notes>
     </prov>
     <prov id="DLM1001885" irdnumbering="no" skeleton="no" toc="yes" xml:lang="en-NZ">
       <label auto.number="no" denominator="yes">3</label>
@@ -70,7 +56,17 @@
                   <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="624601" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1035600 - Defence Act 1990" atidlm:xmlId="DLM1035601" atidlm:state="UNCHANGED">
                     <atidlm:linkcontent>Defence Act 1990</atidlm:linkcontent>
                     <atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="547001" atidlm:sourceXmlId="DLM1035601" atidlm:targetKey="1109810" atidlm:targetXmlId="DLM204972" atidlm:targetName="Defence Act 1990" atidlm:sourceName="DLM1035601" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM204972.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1001879.xml" atidlm:state="UNCHANGED">
-                      <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1001885" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[3]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Heading" atidlm:value="Principal Act amended" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Label" atidlm:value="3" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM1001879" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="100" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Defence Amendment Act (No 2) 2007" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2007" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                      <atidlm:metadata atidlm:name="Revision_Number" atidlm:value="" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
                     </atidlm:resourcepair>
                   </atidlm:link>
                 </citation>
@@ -99,64 +95,24 @@
         <subprov skeleton="no" xml:lang="en-NZ">
           <label auto.number="no" denominator="yes">3</label>
           <para xml:lang="en-NZ">
-            <text>Every authority referred to in <citation jurisdiction="nz">section 49 of the principal Act</citation> continues to have and may exercise all its powers, functions, and duties under that section for the purpose of giving effect to <citation jurisdiction="nz">subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="585402" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 4" atidlm:xmlId="DLM1002087" atidlm:state="UNCHANGED"><atidlm:linkcontent>(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="532042" atidlm:sourceXmlId="DLM1002087" atidlm:targetKey="10139207" atidlm:targetXmlId="DLM1001886" atidlm:targetName="prov 4" atidlm:sourceName="DLM1002087" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM1001879.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1001879.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1001886" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+            <text>Every authority referred to in <citation jurisdiction="nz">section 49 of the principal Act</citation> continues to have and may exercise all its powers, functions, and duties under that section for the purpose of giving effect to <citation jurisdiction="nz">subsection <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="585402" atidlm:branchLabel="_NOVERSION_" atidlm:name="prov 4" atidlm:xmlId="DLM1002087" atidlm:state="UNCHANGED"><atidlm:linkcontent>(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="532042" atidlm:sourceXmlId="DLM1002087" atidlm:targetKey="10139207" atidlm:targetXmlId="DLM1001886" atidlm:targetName="prov 4" atidlm:sourceName="DLM1002087" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM1001879.xml" atidlm:sourceLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM1001879.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Name" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Amend" atidlm:value="false" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Context" atidlm:value="/act[1]/body[1]/prov[4]" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Element_Type" atidlm:value="prov" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Heading" atidlm:value="Redress of complaints" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Label" atidlm:value="4" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Id" atidlm:value="DLM1001879" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Number" atidlm:value="100" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Title" atidlm:value="Defence Amendment Act (No 2) 2007" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Legislation_Year" atidlm:value="2007" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/><atidlm:metadata atidlm:name="Revision_Number" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
       </prov.body>
     </prov>
   </body>
   <end id="DLM1001887" xml:lang="en-NZ">
-    <end.reprint-note id="DLM2196729">
-      <reprint.index>
-        <heading>Contents</heading>
-        <para>
-          <list>
-            <item>
-              <label auto.number="no" denominator="no">1</label>
-              <para>
-                <text>General</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">2</label>
-              <para>
-                <text>About this eprint</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">3</label>
-              <para>
-                <text>List of amendments incorporated in this eprint (most recent first) </text>
-              </para>
-            </item>
-          </list>
-        </para>
-      </reprint.index>
-      <reprint.notes>
-        <heading>Notes</heading>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">1</label>
-          <heading>General</heading>
-          <para>
-            <text>This is an eprint of the Defence Amendment Act (No 2) 2007. It incorporates all the amendments to the Act as at 1 July 2009. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007. Relevant provisions of any amending enactments that contain transitional, savings, or application provisions are also included, after the Principal enactment, in chronological order.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">2</label>
-          <heading>About this eprint</heading>
-          <para>
-            <text>This eprint has not been officialised. For more information about officialisation, please see <quote.in>Making online legislation official</quote.in> under <quote.in>Status of legislation on this site</quote.in> in the About section of this website.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">3</label>
-          <heading>List of amendments incorporated in this eprint<brk/>(most recent first)</heading>
-          <reprint.amend>
-            <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1989426" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2196725 - Defence Amendment Act (No 2) 2007 Commencement Order 2008" atidlm:xmlId="DLM2196732" atidlm:state="UNCHANGED"><atidlm:linkcontent>Defence Amendment Act (No 2) 2007 Commencement Order 2008</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1008866" atidlm:sourceXmlId="DLM2196732" atidlm:targetKey="12973606" atidlm:targetXmlId="DLM1474800" atidlm:targetName="Defence Amendment Act (No 2) 2007 Commencement Order 2008" atidlm:sourceName="DLM2196732" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZReg/fragxyxz_DLM1474800.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1001879.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2196729" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> (SR 2008/235)</citation>
-          </reprint.amend>
-        </reprint.note>
-      </reprint.notes>
-    </end.reprint-note>
+    <leg-history id="DLM1001888">
+      <heading xml:lang="en-NZ">Legislative history</heading>
+      <history-item>
+        <date>10 October 2007</date>
+        <description>Divided from Armed Forces Law Reform Bill (Bill 108-2) by committee of the whole House as Bill 108-3C</description>
+      </history-item>
+      <history-item>
+        <date>6 November 2007</date>
+        <description>Third reading</description>
+      </history-item>
+    </leg-history>
   </end>
 </act>
 <!--End of file, do NOT remove.-->
