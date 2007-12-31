@@ -1,196 +1,359 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1460100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="216">
-  <date>Tuesday, 29 July 2008</date>
-  <billref>Lawyers and Conveyancers Amendment Bill (No 2)</billref>
-  <body id="DLM1460101">
+<sop id="DLM1570008" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="229">
+  <date>Tuesday, 2 September 2008</date>
+  <billref>Employment Relations (Breaks and Infant Feeding) Amendment Bill</billref>
+  <body id="DLM1570009">
     <heading>Proposed amendments</heading>
-    <motion>Hon Annette King, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1460102">
-      <clause.ref>Clause 2</clause.ref>
+    <motion>Hon Trevor Mallard, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1570010">
+      <clause.ref>Clause 1</clause.ref>
       <sop.para>
-        <text>To omit <amend.in quote="1">comes into force on the commencement of section 9 of the principal Act</amend.in> (lines 6 and 7 on page 2) and substitute <amend.in quote="1">is deemed to have come into force on 1 August 2008</amend.in>.</text>
+        <text>To omit <amend.in quote="1">and Infant Feeding</amend.in> (lines 3 and 4 on page 2) and substitute <amend.in quote="1">, Infant Feeding, and Other Matters</amend.in>.</text>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM1460103">
-      <clause.ref>Clause 6 </clause.ref>
+    <sop.amend id="DLM1570011">
+      <clause.ref>Clause 2</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Subclause (2)</emphasis>: to omit <amend.in quote="1">subsection</amend.in> (line 15 on page 3) and substitute <amend.in quote="1">subsections</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (2)</emphasis>: <emphasis style="italic">new section 9(1A)(a)</emphasis>: to insert the following subparagraph after <emphasis style="italic">new subparagraph (i)</emphasis> (after line 21 on page 3):</text>
-        <instrument.amend close.quote="no" increment="2" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">ia</label>
-            <para>
-              <text>legal services to a member of the organisation that are not relevant to his or her or its membership of the organisation; or</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (2)</emphasis>: <emphasis style="italic">new section 9(1A)(b)</emphasis>: to insert the following subparagraph after <emphasis style="italic">new subparagraph (i)</emphasis> (after line 26 on page 3):</text>
-        <instrument.amend close.quote="no" increment="2" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">ia</label>
-            <para>
-              <text>legal services to a member of the union that are not relevant to his or her or its membership of the union; or</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (2)</emphasis>: to add the following <emphasis style="italic">new subsection</emphasis> (after line 28 on page 3):</text>
-        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
+        <text>To omit lines 6 and 7 on page 2 and substitute the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
           <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes" quote="1">1B</label>
+            <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>For the purposes of <changeable><citation jurisdiction="nz">subsection (1A)</citation></changeable>, legal services provided to a member of an employer organisation or, as the case requires, a union are relevant to his or her or its membership of the employer organisation or union if the legal services relate to—</text>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">a</label>
-                <para>
-                  <text>the member's rights, obligations, or liabilities in his or her capacity—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">i</label>
-                    <para>
-                      <text>as a member of the employer organisation or union; or</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">ii</label>
-                    <para>
-                      <text>as an employer or employee; or</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">b</label>
-                <para>
-                  <text>any matter concerning or arising out of any employment relationship (within the meaning of the Employment Relations Act 2000), including any former or prospective relationship of that kind; or</text>
-                </para>
-              </label-para>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">c</label>
-                <para>
-                  <text>any claim or action by or against the member under any enactment specified in section 236(4) of the Employment Relations Act 2000; or</text>
-                </para>
-              </label-para>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">d</label>
-                <para>
-                  <text>compliance with any enactment or other requirement governing the performance of the duties of the member in the conduct of the member's normal business or profession; or</text>
-                </para>
-              </label-para>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">e</label>
-                <para>
-                  <text>any question or matter concerning the member's professional liability, entitlement under any contract of insurance relating to professional liability, or compliance with professional standards.</text>
-                </para>
-              </label-para>
+              <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>However, <changeable><citation jurisdiction="nz">sections 5 and 6</citation></changeable> come into force on 1 April 2009.</text>
             </para>
           </subprov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
+    <sop.amend id="DLM1570012">
+      <clause.ref>Clause 4</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 12 to 20 on page 2) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1570013" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">4</label>
+            <heading>Purpose</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>The purpose of this Act is—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>to insert new <changeable><citation jurisdiction="nz">Parts 6C and 6D</citation></changeable> into the principal Act to—</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para>
+                          <text>require facilities and breaks to be provided, so far as is reasonable and practicable in the circumstances, for employees who wish to breastfeed in the workplace or during work periods; and</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para>
+                          <text>require employees to be provided with rest breaks and meal breaks; and</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>to make it a ground for a personal grievance for an employee's employment to be adversely affected because he or she is a member of a KiwiSaver scheme or a complying superannuation fund.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1570014">
+      <clause.ref>New clause 4A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 4</emphasis> (after line 20 on page 2):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1570015" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">4A</label>
+            <heading>Application</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>The amendments made by <changeable><citation jurisdiction="nz">sections 5A and 5B</citation></changeable>, to the extent that they relate to terms and conditions in employment agreements,—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>apply to employment agreements entered into on or after 2 September 2008; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>do not apply to employment agreements entered into before 2 September 2008; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>apply to variations of employment agreements entered into before 2 September 2008 if the variations were made on or after 2 September 2008.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>The amendments made by <changeable><citation jurisdiction="nz">sections 5A and 5B</citation></changeable>, to the extent that they relate to other matters, apply—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>only to matters occurring on or after 2 September 2008; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>whether or not an employee's employment agreement was entered into before 2 September 2008.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1570016">
+      <clause.ref>Clause 5: new section 69ZE</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (2)(a)</emphasis>: to omit <amend.in quote="1">rest period</amend.in> (line 24 on page 5) and substitute <amend.in quote="1">rest break</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (4)</emphasis>: to omit <amend.in quote="1">meal break</amend.in> (line 36 on page 5) and substitute <amend.in quote="1">meal breaks</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1570017">
+      <clause.ref>New clauses 5A and 5B</clause.ref>
+      <sop.para>
+        <text>To insert the following clauses after <emphasis style="italic">clause 5</emphasis> (after line 25 on page 6):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1570018" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">5A</label>
+            <heading>Personal grievance</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Section 103(1)(g) is amended by adding <amend.in quote="1">; or</amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section 103(1) is amended by adding the following paragraph:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">h</label>
+                      <para>
+                        <text>that the employee's employment has been adversely affected because the employee is a member of a KiwiSaver scheme within the meaning of section 4 of the KiwiSaver Act 2006 or a complying superannuation fund within the meaning of section YA 1 of the Income Tax Act 2007.</text>
+                      </para>
+                    </label-para>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1570019" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">5B</label>
+            <heading>New section 110A inserted</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>The following section is inserted after section 110:</text>
+                  <amend quote="1">
+                    <prov id="DLM1570020" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">110A</label>
+                      <heading>Membership of KiwiSaver scheme or complying superannuation fund</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>For the purposes of section 103(1)<changeable><citation jurisdiction="nz">(h) </citation></changeable>, an employee's employment is adversely affected if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the employee is a member of a KiwiSaver scheme within the meaning of section 4 of the KiwiSaver Act 2006 or a complying superannuation fund within the meaning of section YA 1 of the Income Tax Act 2007; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the employee's employer refuses or omits to offer or afford to that employee the same terms of employment, conditions of work, fringe benefits, or opportunities for training, promotion, and transfer as are made available for other employees of the same or substantially similar qualifications, experience, or skills (<def-term id="DLM1570021">comparable employees</def-term>) employed in the same or substantially similar circumstances; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the reason (wholly or in part) for the employer doing any of those things is that the employee is a member of a KiwiSaver scheme or a complying superannuation fund.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>Without limiting <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, an employee's employment is adversely affected if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the employee's salary or wages are less than the salary or wages of other comparable employees employed by the employee's employer; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the reason (wholly or in part) for the situation described in <changeable><citation jurisdiction="nz">paragraph (a)</citation></changeable> is that the employer has taken into account the compulsory contributions (within the meaning of section 101B(6) of the KiwiSaver Act 2006) the employer is required to make in relation to the employee.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>To avoid doubt, for the purposes of <changeable><citation jurisdiction="nz">subsection (2)(a)</citation></changeable>, an employee's salary or wages—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>do not include any amount that recognises (wholly or in part) compulsory contributions (within the meaning of section 101B(6) of the KiwiSaver Act 2006) made by the employer in relation to the employee; but</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>do include deductions made by an employer on behalf of the employee, being the employee's contributions to a KiwiSaver scheme or a complying superannuation fund.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1570022">
+      <clause.ref>New clause 7</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 6</emphasis> (after line 28 on page 6):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1570023" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">7</label>
+            <heading>Consequential amendment to KiwiSaver Act 2006</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>Section 101B of the KiwiSaver Act 2006 is amended by repealing subsection (5) and substituting the following subsection:</text>
+                  <amend quote="1">
+                    <subprov skeleton="no">
+                      <label auto.number="yes" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>For the avoidance of doubt,—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the duty of good faith described in section 4 of the Employment Relations Act 2000 always applies when parties to an employment relationship bargain for terms and conditions relating to compulsory contributions and associated matters; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text><changeable><citation jurisdiction="nz">sections 103(1)(h) and 110A</citation></changeable> of the Employment Relations Act 2000 apply in relation to the contractual terms and conditions of the parties to an employment relationship, subject to <changeable><citation jurisdiction="nz">section 4A </citation></changeable> of the Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act <changeable>2008 </changeable>.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM1460104" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="216">
+  <explnote id="DLM1570024" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="229">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Lawyers and Conveyancers Amendment Bill (No 2) to clarify that a lawyer employed by an employer organisation or by a union may not  provide legal services to a member of the organisation or the union if those services are not relevant to the person’s membership of the organisation or union. A <emphasis style="italic">new subsection (1B)</emphasis> is inserted into section 9 of the principal Act to specify cases of legal services that are relevant to a person’s membership of an employer organisation or a union. These are legal services that relate to—</text>
+      <text>This Supplementary Order Paper amends the Employment Relations (Breaks and Infant Feeding) Amendment Bill. The amendments relate principally to employees' membership of a KiwiSaver scheme or a complying superannuation fund.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 1</emphasis>, the Title clause, is amended to reflect that the Bill is not limited to breaks and infant feeding.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 2</emphasis>, the commencement clause, is redrafted so that—</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>the member’s rights, obligations, or liabilities in his or her capacity as a member or as an employer or employee:</text>
+            <text>the amendments made by the Supplementary Order Paper relating to Kiwisaver schemes and complying superannuation funds come into force on the day after the date on which the Bill receives the Royal assent; and</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>any matter concerning or arising out of an employment relationship, as defined in the Employment Relations Act 2000. That term covers a number of relationships that are relevant in the context of employment law, such as relationships between a union and an employer, between unions bargaining for the same collective agreement, or between employers bargaining for the same collective agreement:</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>any claim or action under an enactment specified in section 236 of the Employment Relations Act 2000. That section allows employers and employees to be represented by any person of their choice in claims and actions brought under a number of enactments listed in the section. The right to wider representation applies if the other party is the party’s employer or employee or if the action is taken in the Employment Relations Authority or the Employment Court. The enactments listed in the section are—</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the Employment Relations Act 2000:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the Equal Pay Act 1972:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the Holidays Act 2003:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the Human Rights Act 1993:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>Injury Prevention, Rehabilitation, and Compensation Act 2001:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the Minimum Wage Act 1983:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the Parental Leave and Employment Protection Act 1987:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the Police Act 1958:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the State Sector Act 1988:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the Wages Protection Act 1983:</text>
-                </para>
-              </item>
-            </list>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>compliance with any enactment or other requirement governing the performance of duties of the member in the conduct of the member's normal business or profession (for example, the statutory duties relating to licensed premises):</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>any question or matter concerning the member’s professional liability, entitlement under a contract of insurance, or compliance with professional standards.</text>
+            <text>the amendments in the rest of the Bill come into force on 1 April 2009.</text>
           </para>
         </item>
       </list>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 4</emphasis>, which sets out the purpose of the Bill, is redrafted to add a further purpose. This is to make it a ground for a personal grievance for an employee's employment to be adversely affected because he or she is a member of a KiwiSaver scheme or a complying superannuation fund.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 4A</emphasis> provides that the amendments made by <emphasis style="italic">new clauses 5A and 5B</emphasis>, to the extent that they relate to terms and conditions in employment agreements, apply—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>to employment agreements entered into on or after 2 September 2008; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>to variations of employment agreements entered into before  2 September 2008, but only if the variations were made on or after 2 September 2008.</text>
+          </para>
+        </item>
+      </list>
+    </para>
+    <para>
+      <text>The clause also provides that the amendments made by <emphasis style="italic">new clauses 5A and 5B</emphasis>, to the extent that they relate to other matters, apply only to matters occurring on or after 2 September 2008, whether or not an employee's employment agreement was entered into before 2 September 2008.</text>
+    </para>
+    <para>
+      <text>The amendments to <emphasis style="italic">clause 5</emphasis> are drafting amendments.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 5A</emphasis> amends section 103 of the principal Act, which specifies the grievances that constitute personal grievances for the purposes of the principal Act. The amendment inserts a new ground that an employee's employment has been adversely affected because the employee is a member of a KiwiSaver scheme under the KiwiSaver Act 2006 or a complying superannuation fund.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 5B</emphasis> inserts <emphasis style="italic">new section 110A</emphasis> in the principal Act. The new section specifies what behaviour by an employer constitutes the new ground for a personal grievance inserted by <emphasis style="italic">new clause 5A</emphasis>.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 7</emphasis> makes a consequential amendment to the KiwiSaver Act 2006.</text>
     </para>
   </explnote>
 </sop>
