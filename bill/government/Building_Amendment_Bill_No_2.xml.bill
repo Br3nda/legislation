@@ -1,253 +1,759 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM1524700" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="272" bill.type="government" stage="2" year="2008">
+<bill id="DLM1524700" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2008" bill.no="272" bill.type="government" stage="1" year="2008">
   <billdetail>
     <title>Building Amendment Bill (No 2)</title>
     <billtype>Government Bill</billtype>
-    <repnote>As reported from the Local Government and Environment Committee</repnote>
-    <commentary id="DLM2028300" in.amend="false" irdnumbering="no" official="yes" bill.no="272" bill.type="government" stage="2" year="2008">
-      <heading>Commentary</heading>
-      <comm.lev1>
-        <heading>Recommendation</heading>
+    <explnote id="DLM1524701" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="272" bill.type="government" stage="1" year="2008">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
         <para>
-          <text>The Local Government and Environment Committee has examined the Building Amendment Bill (No 2) and recommends that it be passed with the amendments shown.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Introduction</heading>
-        <para>
-          <text>The Building Amendment Bill (No 2) seeks to amend the Building Act 2004 to reduce compliance requirements under the principal Act and improve the efficiency of the building consent process by introducing national multiple-use approvals for houses to be replicated on a substantial scale, streamlining the approval process for minor changes to consented building plans, and removing the requirement for building consent applicants to obtain a project information memorandum from local authorities.</text>
+          <text>This Bill leverages off earlier reforms to improve quality in the construction sector by amending the Building Act 2004 to increase the flexibility and efficiency of the building consent process and facilitate an increased supply of affordable houses, while ensuring that quality homes and buildings are constructed.</text>
         </para>
         <para>
-          <text>This bill would refine some of the processes put in place in the principal Act to assist the building sector to respond to demands for more affordable housing without compromising building quality. </text>
+          <text>The Bill—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>extends the Department of Building and Housing’s functions and powers to allow it to issue national multiple-use approvals for dwellings and buildings that are to be replicated on a substantial scale (individual building methods or products will continue to be dealt with under the product certification scheme in the Act):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>reduces the statutory time frame for processing a building consent application from 20 working days to 10 working days where the application includes a national multiple-use approval:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>differentiates between major and minor variations to consented building work, to support best practice in managing amendments to building consents:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>makes it voluntary for an owner to obtain a project information memorandum from a building consent authority that is a territorial authority.</text>
+              </para>
+            </item>
+          </list>
         </para>
-        <para>
-          <text>We recommend very few changes to the bill as introduced. This commentary addresses the major issues considered and the recommended amendments. It does not discuss minor and technical amendments.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Customisation of national multiple-use approvals</heading>
-        <para>
-          <text>Clauses 15 and 16 of the bill amend the building consent application procedures, set out under section 45 of the principal Act, by streamlining the building consent process, allowing for the approval of both minor changes to consented building plans, and also to national multiple-use approval plans and specifications. In particular, clause 15(1) of the bill seeks to modify the building consent process for applicants who have obtained a national multiple-use approval. Clause 16 of the bill would insert a new section 45A into the principal Act to allow for minor variations to be made to building consents without formal amendment to the building consent. </text>
-        </para>
-        <para>
-          <text>We were concerned that clause 16, as introduced, does not make clear how the process for approving minor variations to consented building plans would apply to buildings that are part of a national multiple-use approval. We recommend amending clause 16 to insert a new section 45B into the principal Act. New section 45B would explicitly allow minor customisations (as prescribed in regulations) to be made to plans and specifications that have national multiple-use approval, both at the time of applying for a building consent and after a building consent has been issued. It would also clarify that any permitted minor customisations would fall within the scope of the national multiple-use approvals. We also recommend a minor amendment to clause 15 for consistency and clarity.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Minor variations and customisations</heading>
-        <para>
-          <text>We also recommend amendments to the definition of “minor variation” and the insertion of a new definition of “minor customisation” in clause 5 of the bill. The recommended amendments are designed to distinguish between:</text>
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">a</label>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 2</emphasis> is the commencement clause. Different sections come into force at different times, as follows:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the sections that modify the requirements in relation to project information memoranda come into force 6 months after the date on which the Act receives the Royal assent:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the sections that implement a national multiple-use approval regime, and that provide for a less formal method of making minor variations to a building consent, come into force on a date to be appointed by Order in Council:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the remainder of the Act (including the section that creates new regulation-making powers) comes into force on the day after the date on which the Act receives Royal assent.</text>
+                </para>
+              </item>
+            </list>
+          </para>
+          <para>
+            <text>The sections that relate to national multiple-use approvals and minor variations are to be brought into force by Order in Council in order to allow regulations to be made that will come into force at the same time. Those regulations will specify eligibility criteria for obtaining a national multiple-use approval, and define the sorts of changes that are minor variations.</text>
+          </para>
+        </clause.desc>
+        <explnote.part id="DLM1524702">
+          <label auto.number="no" denominator="yes">1  </label>
+          <heading>Preliminary provisions</heading>
+          <clause.desc>
             <para>
-              <text>minor changes that may be made to building consents that have been issued for buildings that do not have national multiple-use approval, without requiring a re-issue of the building consent (called “minor variations”); and</text>
+              <text><emphasis style="italic">Clause 3</emphasis> provides that the Bill amends the Building Act 2004 (the <def-term id="DLM1524703">principal Act</def-term>).</text>
             </para>
-          </label-para>
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">b</label>
+          </clause.desc>
+          <clause.desc>
             <para>
-              <text>minor changes that may be made to plans and specifications for which a national multiple-use approval is held when relying on those plans and specifications for the purposes of a building consent (called “minor customisations”).</text>
+              <text><emphasis style="italic">Clause 4</emphasis> sets out the purpose of the Bill, which is to reduce compliance requirements under the principal Act and to improve the efficiency of the building consent process.</text>
             </para>
-          </label-para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM1524704">
+          <label auto.number="no" denominator="yes">2  </label>
+          <heading>Amendments to principal Act</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5</emphasis> inserts definitions of the terms minor variation and national multiple-use approval in the interpretation clause.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> amends section 11, which describes the role of the chief executive of the Department of Building and Housing. The amendment inserts a new paragraph that refers to the chief executive's new role of determining applications for national multiple-use approvals.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 7</emphasis> amends section 15, which contains an outline of Part 2 of the principal Act. The changes insert a reference to the new multiple-use approval regime and make a consequential adjustment to wording to reflect the fact that it will no longer be mandatory to obtain a project information memorandum in all cases.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 8</emphasis> amends section 19 which sets out how compliance with the building code is established. A new paragraph is inserted into this section that provides that a current national multiple-use approval is a means of establishing compliance with the building code.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9</emphasis> inserts a new heading and <emphasis style="italic">new sections 30A to 30H</emphasis>, which relate to national multiple-use approvals.</text>
+            </para>
+            <amend.clause.desc>
+              <para>
+                <text><emphasis style="italic">New section 30A</emphasis> describes the purpose of a national multiple-use approval. A national multiple-use approval establishes that particular plans and specifications comply with the building code. It does not, however, confer the right to carry out building work that requires a building consent, without first obtaining a building consent.</text>
+              </para>
+            </amend.clause.desc>
+            <amend.clause.desc>
+              <para>
+                <text><emphasis style="italic">New section 30B</emphasis> describes how to apply for a national multiple-use approval. Applications must be made to the chief executive in writing. The section anticipates that regulations will be made that will prescribe the form and manner in which an application must be made, and the information that it must contain.</text>
+              </para>
+            </amend.clause.desc>
+            <amend.clause.desc>
+              <para>
+                <text><emphasis style="italic">New section 30C</emphasis> imposes additional requirements in cases where a national multiple-use approval is sought for plans and specifications that incorporate design work that has been declared to be restricted building work.</text>
+              </para>
+            </amend.clause.desc>
+            <amend.clause.desc>
+              <para>
+                <text><emphasis style="italic">New section 30D</emphasis> requires the chief executive to decide whether to accept an application for a national multiple-use approval for processing. The chief executive may refuse to accept an application that does not meet prescribed eligibility criteria, or that includes the use of banned building methods or products. The decision whether or not to accept an application must be made as soon as practicable after receipt of the application.</text>
+              </para>
+            </amend.clause.desc>
+            <amend.clause.desc>
+              <para>
+                <text><emphasis style="italic">New section 30E</emphasis> applies if the chief executive does accept an application for processing. In that case, the chief executive must then go on to decide whether or not to issue the national multiple-use approval. No time limit is provided within which the chief executive must make this decision.</text>
+              </para>
+            </amend.clause.desc>
+            <amend.clause.desc>
+              <para>
+                <text><emphasis style="italic">New section 30F</emphasis> provides for the issue of national multiple-use approvals. The chief executive must issue an approval if he or she is satisfied that—</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the application—</text>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>meets the requirements in the Act and any prescribed eligibility criteria; and</text>
+                          </para>
+                        </item>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>does not involve the use of banned building methods or products; and</text>
+                          </para>
+                        </item>
+                      </list>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>any prescribed fee has been paid; and</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the resulting building work, if properly completed, will comply with the building code.</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+              <para>
+                <text>A national multiple-use approval may be issued subject to a waiver or modification of the building code, and subject to 1 or more conditions.</text>
+              </para>
+            </amend.clause.desc>
+            <amend.clause.desc>
+              <para>
+                <text><emphasis style="italic">New section 30G</emphasis> provides that the chief executive must give the applicant written notice, including reasons, if the chief executive refuses to issue a national multiple-use approval.</text>
+              </para>
+            </amend.clause.desc>
+            <amend.clause.desc>
+              <para>
+                <text><emphasis style="italic">New section 30H</emphasis> allows the chief executive to suspend or revoke a national multiple-use approval in certain specified circumstances, and after giving the holder a reasonable opportunity to be heard. However, if the reason for the revocation or suspension is because of a change to the prescribed eligibility criteria or the building code, the revocation or suspension cannot take place until 3 months after that change comes into force.</text>
+              </para>
+            </amend.clause.desc>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 10</emphasis> amends section 31. The effect of the amendment is to remove the requirement for a territorial authority that is also a building consent authority to issue a project information memorandum whenever a building consent application is received.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 11</emphasis> amends section 35 which sets out the content of a project information memorandum. The change provides for project information memoranda to be issued in a form that will be prescribed by regulations.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text>Because a project information memorandum will no longer automatically be issued when a building consent is applied for, a number of consequential adjustments are made to sections that required documents to be attached to the project information memorandum. In particular:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><emphasis style="italic">Clause 12</emphasis> substitutes a <emphasis style="italic">new section 36</emphasis> which requires a development contribution notice to be provided to the building consent authority if no project information memorandum has been issued; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><emphasis style="italic">Clause 13</emphasis> amends section 37 to require territorial authorities to issue certificates relating to resource consents to the building consent authority if no project information memorandum has been issued; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><emphasis style="italic">Clause 14</emphasis> substitutes a <emphasis style="italic">new section 39</emphasis> which requires the territorial authority, in particular cases, to advise the New Zealand Historic Places Trust when it receives either an application for a project information memorandum or for a building consent (if no project information memorandum has been requested).</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 15</emphasis> amends section 45, which sets out how to apply for a building consent. The substantive change specifies what documents and information must be provided when applying for a building consent to which a national multiple-use approval relates, namely:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a copy of the national multiple-use approval; and</text>
+                  </para>
+                </item>
+              </list>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>details of any proposed minor variations to the plans and specifications to which that national multiple-use approval relates. (The Bill provides for regulations to be made that will define the sorts of variations that may be made on the basis that they are minor variations.)</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>The clause also substitutes new subsections in section 45 that clarify the requirements when an application for a building consent relates to plans and specifications that contain design work that has been declared to be restricted building work.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 16</emphasis> inserts <emphasis style="italic">new section 45A</emphasis>, which provides a new, and less formal, process for obtaining approval to a minor variation to a building consent. The Bill allows regulations to be made that will define the sorts of changes that are to be regarded as minor variations for the purposes of this section. When applying for a minor variation, the applicant will not be required to complete the prescribed form for applying for a building consent. When granting a minor variation, a building consent authority must record the fact in writing, but will not be required to issue an updated building consent.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 17</emphasis> amends section 48, which specifies how a building consent authority must process an application for a building consent. The change introduces a shorter time frame for processing applications that include plans and specifications in relation to which the applicant has obtained a national multiple-use approval. That shorter time is 10 working days, whereas the time limit for processing other applications is 20 working days.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 18</emphasis> makes consequential amendments to section 51, to reflect the fact that a project information memorandum will no longer automatically be issued as part of the building consent application process.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 19</emphasis> amends section 69, which specifies certain situations where a waiver or modification of the building code may only be granted by the chief executive. The amendment ensures that this section does not apply to waivers and modifications that are contained in a national multiple-use approval.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clauses 20 to 24</emphasis> make consequential amendments to reflect the fact that a project information memorandum will no longer automatically be issued as part of the building consent application process.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 25</emphasis> amends section 208 to provide that an applicant may appeal to the District Court against a decision of the chief executive to refuse to issue a national multiple-use approval.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 26</emphasis> consequentially amends section 212 by removing a reference to a territorial authority that is a building consent authority issuing project information memoranda before granting a building consent.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 27</emphasis> amends section 273 by inserting a requirement for the chief executive to keep a register of national multiple-use approvals, and <emphasis style="italic">clause 28</emphasis> amends section 274 to specify the purpose of the national multiple-use register and the sort of information that it must contain.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 29</emphasis> amends section 392, which lists circumstances in which no civil proceedings may be brought against a building consent authority. The amendment ensures that no civil proceedings may be brought for anything done in good faith in reliance on a current national multiple-use approval.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 30</emphasis> amends section 402, which sets out general regulation-making powers under the Act. The amendment inserts 3 new paragraphs that provide new regulation-making powers, namely powers to:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>prescribe eligibility criteria for national multiple-use approvals; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>define the sorts of minor variations that may be made to plans and specifications in relation to which a national multiple-use approval has been issued; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>define the sorts of minor variations that may be made to a building consent by the less formal process introduced in <emphasis style="italic">new section 45A</emphasis>.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+      <explnote.ris>
+        <heading>Regulatory impact statement</heading>
+        <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
+        <para>
+          <text>To improve the efficiency and effectiveness of the building consent process, amendments are proposed to the Building Act 2004, and associated regulations, to—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>extend the Department of Building and Housing’s functions to include an ability to issue national multiple-use consents/approvals:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>differentiate between major and minor variations to consented building work as a basis for a building consent authority (<def-term id="DLM1524705">BCA</def-term>) to improve management of amendments to building consents:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>make the requirement to obtain a Project Information Memorandum (<def-term id="DLM1524706">PIM</def-term>) voluntary and amend the building consent process to include a notification section on the building consent for resource consent issues and other important matters.</text>
+              </para>
+            </item>
+          </list>
         </para>
         <para>
-          <text>We recommend associated amendments to clauses 29 and 30 for clarity and consistency in the provisions that limit a building consent authority’s liability when relying on a national multiple-use approval and enable regulations to be made to define both minor variations and minor customisations.</text>
+          <text>These proposals above will reduce both direct and indirect costs to owners and developers associated with the construction process, while ensuring that quality homes and buildings are constructed. Multiple-use consenting will help drive improvements in housing costs and affordability through removing barriers to achieving potential economies of scale through volume builds.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Timeframes for processing applications</heading>
+        <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
         <para>
-          <text>The bill as introduced does not impose a timeframe on the Department of Building and Housing for processing national multiple-use approvals. We consider that the department should be required to process applications in a timely manner to provide applicants with certainty. </text>
+          <text>The Department of Building and Housing confirms that the principles of the Code of Good Regulatory Practice and the regulatory impact analysis requirements, including the consultation requirements, have been complied with.</text>
         </para>
         <para>
-          <text>Accordingly we recommend amending clause 9, new section 30E  to allow for a timeframe to be imposed by regulation on the Department of Building and Housing for processing applications for national multiple-use approvals. We recommend that the regulations when made impose a time limit of 40 working days.</text>
+          <text>The Department of Building and Housing considers the regulatory impact statement is adequate. The statement was circulated with the Cabinet paper for departmental consultation.</text>
+        </para>
+        <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
+        <explnote.subhead1>National multiple-use consents</explnote.subhead1>
+        <para>
+          <text>Building consent applications are assessed on a case-by-case basis by councils, even where the proposed building work is to be replicated within the same subdivision. Developers are required to wait for each building consent to be processed before work can proceed. Information from the Registered Master Builders Federation suggests that approximately 40% of all new homes in New Zealand are built by volume builders.</text>
         </para>
         <para>
-          <text>We acknowledge that the processing of national multiple-use approvals would be a new service provided by the department. We consider there should be room for adjusting the regulatory timeframe if warranted in the future. We accordingly recommend the insertion of a new clause 31 in the bill that inserts new section 402A into the principal Act requiring the regulatory timeframe to be reviewed within two years after the commencement of the regulations and a report to be made to the Minister on the findings of the review. </text>
+          <text>Efficiencies could be achieved if a system of national multiple-use consenting was introduced to provide for a streamlined approval process under the Building Act for buildings that are to be replicated several times on a nationwide basis. Under such a scheme the building design would be approved/consented on a national level, however a building consent would still be required for each new building at a local level as there are aspects of each building and each site that are unique (eg, ground conditions, foundations, connections to water and other utility services). District plan and resource consent issues would need to be addressed separately. Each building would also still be subject to inspection by the local BCA to ensure the building work complied with the building consent.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Other issues considered</heading>
         <para>
-          <text>We received 17 submissions on the bill, representing a range of interests, including local government, industry bodies, private companies, a Crown entity, and a community advocate group. We comment briefly on the main issues and concerns raised by submitters, which we consider do not warrant further changes to the bill.</text>
+          <text>Decision making by the local BCA where the building is to be located would therefore be limited to site specific matters and any customisation/variation of a multiple-use consent. This should reduce the time and effort required to process building consents for these buildings, resulting in quicker approvals (subject to the nature and magnitude of any customisation of a multiple-use consent). Another benefit of national multiple-use consenting is that it will give the designer/volume builder a degree of certainty.</text>
         </para>
-        <comm.lev2>
-          <heading>National multiple-use approvals</heading>
-          <para>
-            <text>Some submitters raised concerns that national multiple-use approvals might lead to a proliferation of standardised housing that is not designed with reference to the specific environment. While some of us share these concerns, we note that any national multiple-use approval would be submitted as part of a building consent application to local Building Consent Authorities, who would still need to consider urban design considerations. The national multiple-use approval would not affect any requirement to obtain resource consent for a building project.</text>
-          </para>
-          <para>
-            <text>Some submitters sought clarification of the distinction between national multiple-use approval and product certification. We note that product certification is a complementary scheme to national multiple-use approval. No amendment is recommended to the bill as introduced.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Project Information Memorandum </heading>
-          <para>
-            <text>Some submitters told us that transaction costs for Building Consent Authorities would not be reduced as a result of making a Project Information Memorandum (PIM) voluntary. We note that Building Consent Authorities will retain the flexibility for fixing fees for building consents, and consider that no amendment is necessary. </text>
-          </para>
-          <para>
-            <text>We note the concerns of the New Zealand Historic Places Trust (NZHPT) that their ability to monitor prospective building projects that may adversely affect historic places would be undermined if the PIM becomes a voluntary step in the consenting process. The NZHPT proposed that a new clause be inserted to require a Building Consent Authority to provide a copy of any building consent application to the trust where that application relates to a heritage building. We were advised that this proposal may increase building consent timeframes, costs, and uncertainty. We consider that the role of the NZHPT is adequately safeguarded by the provision that the local authority is required to notify the NZHPT on the basis of either the PIM or the building consent application. Accordingly, we recommend no further amendment to the bill.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Regulations</heading>
-          <para>
-            <text>Submitters also asked that the regulations contemplated under the bill define clearly and robustly what constitutes a minor variation (and customisation). They also sought reassurance that the process for developing regulations would be subject to consultation and completed promptly. We understand that the Department of Building and Housing intends to consult further as part of the process to develop regulations.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Issues outside the scope of the bill</heading>
-          <para>
-            <text>Some submitters raised concerns that applicants are not applying for resource consent at an early stage of the building planning process. We understand that the interface between processes under the Building Act 2004 and the Resource Management Act 1991 are subject to a review of the Building Act, and phase two of the review of the Resource Management Act.</text>
-          </para>
-          <para>
-            <text>We also heard from submitters who sought amendments to the principal Act that lie outside the scope of the bill. We note that the mechanisms provided in this bill will yield only a modest reduction of the total cost of building, but are aware that further amendments to the principal Act are contemplated as part of a wider review of the compliance requirements of the current legislative regime.</text>
-          </para>
-        </comm.lev2>
-      </comm.lev1>
-      <comm.appendix>
-        <heading>Appendix</heading>
-        <comm.lev2>
-          <heading>Committee process</heading>
-          <para>
-            <text>The Building Amendment Bill (No 2) was referred to the committee on 10 March 2009. The closing date for submissions was 9 April 2009. We received and considered 17 submissions from interested groups and individuals of which 6 were heard. </text>
-          </para>
-          <para>
-            <text>We received advice from the Department of Building and Housing.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Committee membership</heading>
-          <para>
-            <text>Chris Auchinvole (Chairperson)</text>
-          </para>
-          <para>
-            <text>Hon Steve Chadwick (until 5 May 2009)</text>
-          </para>
-          <para>
-            <text>David Garrett</text>
-          </para>
-          <para>
-            <text>Hon George Hawkins (from 6 May 2009)</text>
-          </para>
-          <para>
-            <text>Hon Shane Jones</text>
-          </para>
-          <para>
-            <text>Rahui Katene</text>
-          </para>
-          <para>
-            <text>Nikki Kaye</text>
-          </para>
-          <para>
-            <text>Sue Kedgley</text>
-          </para>
-          <para>
-            <text>Hon Nanaia Mahuta (until 5 May 2009)</text>
-          </para>
-          <para>
-            <text>Phil Twyford (from 6 May 2009)</text>
-          </para>
-          <para>
-            <text>Louise Upston</text>
-          </para>
-          <para>
-            <text>Nicky Wagner</text>
-          </para>
-          <para>
-            <text>Jonathan Young</text>
-          </para>
-        </comm.lev2>
-      </comm.appendix>
-    </commentary>
+        <para>
+          <text>An attractive option to delivering national multiple-use consenting would be for BCAs to cluster together to enable this to occur at a national level. However, under the current legislative framework it appears unlikely that this will occur in the foreseeable future. Even if legislation could be amended to facilitate voluntary BCA clustering, it is not certain that this would deliver multiple-use consenting on a national scale.</text>
+        </para>
+        <para>
+          <text>Because national multiple-use consenting is not a full end-to-end consenting process, it is important that any national consent/approval process integrates with local consenting and inspection processes by BCAs. Better management of variations to consented work will be necessary to facilitate the implementation of national multiple-use consenting.</text>
+        </para>
+        <explnote.subhead1>Amendments to building consents</explnote.subhead1>
+        <para>
+          <text>The existing legislation requires that amendments to building consents are to be made in the same way as an application for a building consent, with any necessary modifications. There are currently no specific requirements or guiding principles in the Act for differentiating between different types of variations to consented building work. This has allowed for a range of approaches to managing amendments to building consents by BCAs. In some cases, minor and major variations to a building consent are being required to go through the formal building consent application process. Concerns have been expressed by participants in the industry that the process for managing variations to building work is adding unnecessary costs and delays to the building process.</text>
+        </para>
+        <para>
+          <text>Variations to consented building work following the granting of a building consent are common. Some variations to building work may be minor, do not affect compliance with the New Zealand Building Code (the <def-term id="DLM1524707">Building Code</def-term>), and of themselves do not affect the granting of a Code Compliance Certificate. Others may be major and are likely to affect compliance with the Building Code. Therefore, some variations to consented building work require a formal amendment to the building consent, while others do not.</text>
+        </para>
+        <explnote.subhead1>Project Information Memorandum</explnote.subhead1>
+        <para>
+          <text>PIMs were intended to provide a one-stop-shop for all information relating to building work requiring building consent. It is important to note that a PIM is not a consent and does not require applicants to do anything. It was envisaged that the PIM would save owners/developers time and money by providing advance warning of issues that needed to be taken into account when developing plans for building work. For example, notification that the proposed work requires a resource consent. PIMs were also seen as having the advantage of requiring councils to implement a systematic approach to gathering data about aspects of their district that would be relevant to owners/developers (eg, areas of flood risk).</text>
+        </para>
+        <para>
+          <text>However, based on anecdotal information, a minority of PIMs are applied for prior to a building consent application being made. Consequently, the benefit of PIMs in providing advance warning when planning a building project is not realised in most cases. Obtaining and issuing PIMs imposes costs on the owner/developer in the form of—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>professional fees to advisors who either apply for the PIM on behalf of the owner and/or consider the content of the PIM and advise the owner of any issues arising:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>territorial authority fees for issuing the PIM:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>delays in commencing the building work (a PIM must be issued within 20 working days, but this period can be extended if the territorial authority asks for further information).</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>Different councils charge different fees for PIMs. For example, Auckland City Council charges $241 (including GST) for a stand alone PIM, or $204 (including GST) for a PIM that is issued at the same time as a building consent. Wellington City Council on the other hand charges fees for PIMs on a graduated scale relating to the value of proposed work (for work less than $5,000 the fee is $65 this rises to a fee of $455 for work over $250,000).</text>
+        </para>
+        <explnote.ird-crosshead>Objectives</explnote.ird-crosshead>
+        <para>
+          <text>The objective is to improve the effectiveness and efficiency of the building consent process while ensuring quality homes and buildings are constructed.</text>
+        </para>
+        <explnote.ird-crosshead>Alternative options</explnote.ird-crosshead>
+        <explnote.subhead1>National multiple-use consents</explnote.subhead1>
+        <para>
+          <text>In regard to national multiple-use consenting, the following alternative options have been considered:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>amending legislation to require BCAs to provide national multiple-use consenting; or</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>establishing a separate, stand alone entity to issue national multiple-use consents/approvals.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The first option above is not preferred because it is not certain that it would deliver national multiple-use consenting. The second option is not preferred because establishing another government building regulator would be a duplication of resources and would also be inconsistent with decisions in 2004 to consolidate building regulatory functions within a single government agency (the Department) to reduce problems and costs associated with regulatory fragmentation.</text>
+        </para>
+        <explnote.subhead1>Amendments to building consents</explnote.subhead1>
+        <para>
+          <text>In regard to better management of variations to consented building work, the following options have been considered:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>amending legislation to differentiate between major and minor variations to consented building work as a basis for BCAs to manage amendments to building consents in an appropriate and timely way; or</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>providing Departmental guidance, training and facilitation to BCAs and building consent applicants to support best practice.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The first option above is not preferred because it would only go so far in delivering best practice across all BCAs. There would still be grey areas where discretion and judgement needs to be exercised by BCAs in developing and implementing best practice. The second option is not preferred because Departmental leadership to date has influenced only some BCAs to adopt best practice, while others continue to take a conservative, less efficient approach based on the current legislation.</text>
+        </para>
+        <explnote.subhead1>Project Information Memorandum</explnote.subhead1>
+        <para>
+          <text>In regard to PIMs, the following options have been considered:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>amending legislation to make all PIMs voluntary with no threshold and no other provisos:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>amending legislation to set a threshold of dollar value for building work below which PIMs would be voluntary.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The first option is not preferred as there is a risk that in some cases important information included in the PIM, would not otherwise be brought to the attention of the owner or building consent applicant. In particular, this information would relate to requirements under the Resource Management Act and the Historic Places Act. The second option is not preferred as it would not target the risks identified.</text>
+        </para>
+        <explnote.ird-crosshead>Preferred option</explnote.ird-crosshead>
+        <para>
+          <text>The preferred option is to amend the Building Act 2004 and associated regulations to—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>extend the Department of Building and Housing’s functions to include an ability to issue national multiple-use consents/approvals. Reduce the statutory time frame for processing a building consent application from 20 days to 10 days if it includes a national multiple-use consent/approval:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>differentiate between major and minor variations to consented building work as a basis for BCAs to improve management of amendments to building consents, in conjunction with the Department of Building and Housing providing guidance, facilitation and training:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>make the requirement to obtain a Project Information Memorandum (PIM) voluntary and amend the building consent process to include a notification section on the building consent for resource consent issues and other important matters.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The costs and benefits of the preferred option are summarised in Table 1.</text>
+        </para>
+        <explnote.subhead1>Table 1: Costs and benefits of the preferred option</explnote.subhead1>
+        <para>
+          <table align="center" fontsize="9.5" frame="none" id="DLM1524708" leading="10.5">
+            <tgroup cols="5">
+              <colspec colname="col1" colwidth="0.17*"/>
+              <colspec colname="COLSPEC1" colwidth="3.01*"/>
+              <colspec colname="COLSPEC0" colwidth="12.57pt"/>
+              <colspec colname="col2" colwidth="0.18*"/>
+              <colspec colname="COLSPEC2" colwidth="3.01*"/>
+              <thead>
+                <row>
+                  <entry align="center" colsep="0" nameend="COLSPEC2" namest="col1" rowsep="0" valign="top">
+                    <emphasis style="bold">Government</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="center" colsep="0" nameend="COLSPEC1" namest="col1" rowsep="0" valign="top">
+                    <emphasis style="bold">Costs</emphasis>
+                  </entry>
+                  <entry colsep="0" rowsep="0" valign="top"/>
+                  <entry align="center" colsep="0" nameend="COLSPEC2" namest="col2" rowsep="0" valign="top">
+                    <emphasis style="bold">Benefits</emphasis>
+                  </entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry colsep="0" nameend="COLSPEC1" namest="col1" rowsep="0">
+                    <emphasis style="italic">National multiple-use consents</emphasis>
+                  </entry>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" nameend="COLSPEC2" namest="col2" rowsep="0">
+                    <emphasis style="italic">National multiple-use consents</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" morerows="2" rowsep="0">Establishment and operational costs of extending the Department’s functions to include an ability to issue national multiple-use consents. Establishment costs can be funded by the building levy and ongoing costs would be funded through application fees.</entry>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" rowsep="0">Less work required by BCAs to process building consents for volume built homes.</entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" nameend="COLSPEC2" namest="col2" rowsep="0">
+                    <emphasis style="italic">Amendments to building consents</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" rowsep="0">Appropriate level of scrutiny of variations to consented building work by BCAs.</entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" morerows="1" rowsep="0">Potential liability to the Crown for design failure of consented designs. However, it is anticipated that this risk is low.</entry>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" nameend="COLSPEC2" namest="col2" rowsep="0">
+                    <emphasis style="italic">Project Information Memorandum</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" rowsep="0">Less work required by BCAs in collating information for PIM in some cases.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <table align="center" fontsize="9.5" frame="none" id="DLM1524709" leading="10.5">
+            <tgroup cols="5">
+              <colspec colname="col1" colwidth="0.17*"/>
+              <colspec colname="COLSPEC1" colwidth="3.01*"/>
+              <colspec colname="COLSPEC0" colwidth="12.57pt"/>
+              <colspec colname="col2" colwidth="0.17*"/>
+              <colspec colname="COLSPEC2" colwidth="3.01*"/>
+              <thead>
+                <row>
+                  <entry align="center" colsep="0" nameend="COLSPEC2" namest="col1" rowsep="0" valign="top">
+                    <emphasis style="bold">Industry/Sector</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="center" colsep="0" nameend="COLSPEC1" namest="col1" rowsep="0" valign="top">
+                    <emphasis style="bold">Costs</emphasis>
+                  </entry>
+                  <entry colsep="0" rowsep="0" valign="top"/>
+                  <entry align="center" colsep="0" nameend="COLSPEC2" namest="col2" rowsep="0" valign="top">
+                    <emphasis style="bold">Benefits</emphasis>
+                  </entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry colsep="0" nameend="COLSPEC1" namest="col1" rowsep="0">
+                    <emphasis style="italic">National multiple-use consents</emphasis>
+                  </entry>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" nameend="COLSPEC2" namest="col2" rowsep="0">
+                    <emphasis style="italic">National multiple-use consents</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" morerows="2" rowsep="0">Application fees for volume builders that decide to use the national multiple-use consenting facility, based on full cost recovery. However, because this is a voluntary route, excessive costs to industry would be self limiting.</entry>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" rowsep="0">Reduced time and work required to obtain building consents for volume built homes.</entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" nameend="COLSPEC2" namest="col2" rowsep="0" valign="bottom">
+                    <emphasis style="italic">Amendments to building consents</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" rowsep="0">Reduced cost, time, and work required to obtain amendments to building consents.</entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" nameend="COLSPEC2" namest="col2" rowsep="0">
+                    <emphasis style="italic">Project Information Memorandum</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" rowsep="0">Reduced costs in applying for a PIM if decision made not to apply for one.</entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" nameend="COLSPEC2" namest="col2" rowsep="0">
+                    <emphasis style="italic">All initiatives</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" rowsep="0">Reduced construction costs in all sectors.</entry>
+                </row>
+                <row>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry align="left" colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0"/>
+                  <entry colsep="0" rowsep="0">•</entry>
+                  <entry align="justify" colsep="0" rowsep="0">Reduced construction costs in the residential sector resulting in improved housing affordability.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </para>
+        <para>
+          <text>The preferred option would provide a streamlined approval process for certain applications and would make 1 element of the Building Act 2004 optional but would otherwise not impact on the stock of regulation. The proposals do not overlap with existing rules or make any existing rules redundant.</text>
+        </para>
+        <explnote.ird-crosshead>Implementation and review</explnote.ird-crosshead>
+        <para>
+          <text>Amendments to the Building Act 2004 will be included in the earliest possible Building Amendment or Omnibus Bill. However, a vehicle would be required on the 2008 legislative programme.</text>
+        </para>
+        <para>
+          <text>The proposed amendments and regulations will be publicised to territorial authorities and the building sector through regular communications from the Department of Building and Housing. The amendments and regulations will also be included as part of the overall publicity about measures to address housing affordability.</text>
+        </para>
+        <para>
+          <text>The Department of Building and Housing will collect information from territorial authorities about the numbers of PIMs issued and the number of building consents issued that relate to national multiple-use consents.</text>
+        </para>
+        <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
+        <para>
+          <text>The following agencies have been consulted on the proposals in this paper:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Department of the Prime Minister and Cabinet:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Department of Internal Affairs:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Treasury:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Ministry for the Environment:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Ministry of Social Development:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Ministry of Health:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Housing New Zealand Corporation.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The State Services Commission has been informed.</text>
+        </para>
+        <para>
+          <text>Local Government New Zealand has also been consulted. Local Government New Zealand supports the proposals in the paper and they want to work through the practical implications of the proposals with government.</text>
+        </para>
+        <para>
+          <text>The proposals in this paper have also been subject to targeted consultation with selected territorial authorities and other participants from wider industry sector (this has included group home builders, the Registered Master Builders Federation and Certified Builders Association, and the New Zealand Institute of Architects). The general feedback from industry is positive but there is a concern about the detail of the proposals and caution about legislation becoming too restrictive. In regard to national multiple-use consenting, the importance of better managing variations to consented work was identified. Some concerns were raised about the impact national multiple-use consenting might have on future housing developments and land use.</text>
+        </para>
+        <para>
+          <text>As the development of the proposals proceeds, the Department of Building and Housing will continue to work closely with the local government sector and the wider industry.</text>
+        </para>
+      </explnote.ris>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from a select committee</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM1524710">
-    <member>Hon Maurice Williamson</member>
+    <member>Hon Shane Jones</member>
     <title>Building Amendment Bill (No 2)</title>
     <billtype>Government Bill</billtype>
   </cover>
@@ -295,7 +801,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM1524715" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="272" bill.type="government" stage="2" year="2008">
+    <part id="DLM1524715" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="272" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Preliminary provisions</heading>
       <prov id="DLM1524716" irdnumbering="no" skeleton="no" toc="yes">
@@ -335,7 +841,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM1524718" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="272" bill.type="government" stage="2" year="2008">
+    <part id="DLM1524718" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="272" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Amendments to principal Act</heading>
       <prov id="DLM1524719" irdnumbering="no" skeleton="no" toc="yes">
@@ -347,31 +853,21 @@
             <para>
               <text>Section 7 is amended by inserting the following definitions in their appropriate alphabetical order:</text>
               <amend increment="1" quote="1">
-                <def-para amend.level1="struckout-unanimous" id="DLM1524720" quote="1">
-                  <para amend.level1="struckout-unanimous" quote="1">
+                <def-para id="DLM1524720" quote="1">
+                  <para quote="1">
                     <text><def-term id="DLM1524721">minor variation</def-term> means,—</text>
-                    <label-para amend.level1="struckout-unanimous" quote="1" skeleton="no">
-                      <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes" quote="1">a</label>
-                      <para amend.level1="struckout-unanimous">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
                         <text>in relation to a national multiple-use approval, a minor modification, addition, or variation, permitted by regulations made under <changeable><citation jurisdiction="nz">section 402(1)(kb)</citation></changeable>, to the plans and specifications to which that national multiple-use approval relates; and</text>
                       </para>
                     </label-para>
-                    <label-para amend.level1="struckout-unanimous" quote="1" skeleton="no">
-                      <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes" quote="1">b</label>
-                      <para amend.level1="struckout-unanimous">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
                         <text>in relation to a building consent, a minor modification, addition, or variation, permitted by regulations made under <changeable><citation jurisdiction="nz">section 402(1)(kc)</citation></changeable>, to that building consent</text>
                       </para>
                     </label-para>
-                  </para>
-                </def-para>
-                <def-para amend.level1="insert-unanimous" id="DLM2027500" quote="1">
-                  <para amend.level1="insert-unanimous" quote="1">
-                    <text><def-term id="DLM2027501">minor customisation</def-term>, in relation to an application for a building consent that incorporates plans and specifications that have national multiple-use approval, means a minor modification, addition, or variation to those plans and specifications that is permitted by regulations made under <changeable><citation jurisdiction="nz">section 402(1)(kb)</citation></changeable></text>
-                  </para>
-                </def-para>
-                <def-para amend.level1="insert-unanimous" id="DLM2027502" quote="1">
-                  <para amend.level1="insert-unanimous" quote="1">
-                    <text><def-term id="DLM2027503">minor variation</def-term> means a minor modification, addition, or variation to a building consent that is permitted by regulations made under <changeable><citation jurisdiction="nz">section 402(1)(kc)</citation></changeable></text>
                   </para>
                 </def-para>
                 <def-para id="DLM1524722" quote="1">
@@ -422,7 +918,6 @@
                   </para>
                 </label-para>
               </amend>
-              <follow-text space-before="no">.</follow-text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -447,24 +942,18 @@
         <heading>How compliance with building code is established</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
+            <label auto.number="yes" denominator="yes"/>
             <para>
               <text>Section 19(1) is amended by inserting the following paragraph after paragraph (c):</text>
               <amend increment="1" quote="1">
                 <label-para quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">ca</label>
                   <para>
-                    <text>a current national multiple-use approval issued under <changeable><citation jurisdiction="nz">section 30F</citation></changeable>, if <struckoutwords amend.level1="struckout-unanimous">any </struckoutwords><insertwords amend.level1="insert-unanimous">every</insertwords> relevant condition in that national multiple-use approval is met:</text>
+                    <text>a current national multiple-use approval issued under <changeable><citation jurisdiction="nz">section 30F</citation></changeable>, if any relevant condition in that national multiple-use approval is met:</text>
                   </para>
                 </label-para>
               </amend>
               <follow-text space-before="no">.</follow-text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-unanimous">
-              <text>Section 19(1)(d) is amended by omitting <amend.in quote="1">any</amend.in> and substituting <amend.in quote="1">every</amend.in>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -699,22 +1188,10 @@
                         </label-para>
                       </para>
                     </subprov>
-                    <subprov amend.level1="struckout-unanimous" quote="1" skeleton="no">
-                      <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes" quote="1">2</label>
-                      <para amend.level1="struckout-unanimous">
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
                         <text>The chief executive may require further reasonable information in respect of the application before making the decision in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>.</text>
-                      </para>
-                    </subprov>
-                    <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
-                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">2</label>
-                      <para amend.level1="insert-unanimous">
-                        <text>If regulations made under <changeable><citation jurisdiction="nz">section 402(1)(kaa)</citation></changeable> are in force, the chief executive must make the decision referred to in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> within the period of time prescribed in those regulations.</text>
-                      </para>
-                    </subprov>
-                    <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
-                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">3</label>
-                      <para amend.level1="insert-unanimous">
-                        <text>The chief executive may require further reasonable information in respect of an application for a national multiple-use approval before making the decision referred to in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, and any prescribed period of time within which that decision must be made is suspended until the chief executive receives that information.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1112,11 +1589,11 @@
             <label auto.number="no" denominator="yes">1</label>
             <para>
               <text>Section 45(1) is amended by inserting the following paragraph after paragraph (b):</text>
-              <amend increment="1" quote="1">
+              <amend quote="1">
                 <label-para quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">ba</label>
                   <para>
-                    <text>if a national multiple-use approval has been issued<struckoutwords amend.level1="struckout-unanimous"> to the applicant</struckoutwords> in relation to some or all of the plans and specifications required under paragraph (b), be accompanied by—</text>
+                    <text>if a national multiple-use approval has been issued to the applicant in relation to some or all of the plans and specifications required under paragraph (b), be accompanied by—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">i</label>
                       <para>
@@ -1126,7 +1603,7 @@
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">ii</label>
                       <para>
-                        <text>details of any proposed minor <insertwords amend.level1="insert-unanimous">customisations</insertwords><struckoutwords amend.level1="struckout-unanimous"> variations to those plans and specifications</struckoutwords>; and</text>
+                        <text>details of any proposed minor variations to those plans and specifications; and</text>
                       </para>
                     </label-para>
                   </para>
@@ -1189,7 +1666,7 @@
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
-                        <text>in the case of a minor variation, be made in accordance with <changeable><citation jurisdiction="nz">section 45A</citation></changeable>; <struckoutwords amend.level1="struckout-unanimous">or </struckoutwords><insertwords amend.level1="insert-unanimous">and</insertwords></text>
+                        <text>in the case of a minor variation, be made in accordance with <changeable><citation jurisdiction="nz">section 45A</citation></changeable>; or</text>
                       </para>
                     </label-para>
                     <label-para quote="1" skeleton="no">
@@ -1207,12 +1684,12 @@
       </prov>
       <prov id="DLM1524746" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">16</label>
-        <heading>New <struckoutwords amend.level1="struckout-unanimous">section 45A </struckoutwords><insertwords amend.level1="insert-unanimous">sections 45A and 45B</insertwords> inserted</heading>
+        <heading>New section 45A inserted</heading>
         <prov.body>
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>The following <struckoutwords amend.level1="struckout-unanimous">section is </struckoutwords><insertwords amend.level1="insert-unanimous">sections are</insertwords> inserted after section 45:</text>
+              <text>The following section is inserted after section 45:</text>
               <amend quote="1">
                 <prov id="DLM1524747" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                   <label auto.number="no" denominator="yes" quote="1">45A</label>
@@ -1262,36 +1739,6 @@
                     </subprov>
                   </prov.body>
                 </prov>
-                <prov amend.level1="insert-unanimous" id="DLM2027504" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">45B</label>
-                  <heading amend.level1="insert-unanimous">Changes to plans and specifications that have national multiple-use approval</heading>
-                  <prov.body>
-                    <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
-                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">1</label>
-                      <para amend.level1="insert-unanimous">
-                        <text>When applying for a building consent in reliance on plans and specifications for which a national multiple-use approval has been issued, or for an amendment to such a building consent under <changeable><citation jurisdiction="nz">section 45(4)</citation></changeable>, changes may be made to those plans and specifications if—</text>
-                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">a</label>
-                          <para amend.level1="insert-unanimous">
-                            <text>the changes are permitted under the terms of the national multiple-use approval; or</text>
-                          </para>
-                        </label-para>
-                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">b</label>
-                          <para amend.level1="insert-unanimous">
-                            <text>the changes are minor customisations permitted by regulations made under <changeable><citation jurisdiction="nz">section 402(1)(kb)</citation></changeable>.</text>
-                          </para>
-                        </label-para>
-                      </para>
-                    </subprov>
-                    <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
-                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">2</label>
-                      <para amend.level1="insert-unanimous">
-                        <text>If any other changes are made to the plans and specifications referred to in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, the national multiple-use approval does not apply.</text>
-                      </para>
-                    </subprov>
-                  </prov.body>
-                </prov>
               </amend>
             </para>
           </subprov>
@@ -1331,7 +1778,7 @@
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
-                        <text>if the application includes plans and specifications in relation to which a national multiple-use approval has been issued<struckoutwords amend.level1="struckout-unanimous"> to the applicant</struckoutwords>, within 10 working days after receipt by the building consent authority of the application; <struckoutwords amend.level1="struckout-unanimous">or </struckoutwords><insertwords amend.level1="insert-unanimous">and</insertwords></text>
+                        <text>if the application includes plans and specifications in relation to which a national multiple-use approval has been issued to the applicant, within 10 working days after receipt by the building consent authority of the application; or</text>
                       </para>
                     </label-para>
                     <label-para quote="1" skeleton="no">
@@ -1386,7 +1833,7 @@
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">3</label>
                   <para>
-                    <text>If a building consent authority does not, within the time limit for <struckoutwords amend.level1="struckout-unanimous">issuing </struckoutwords><insertwords amend.level1="insert-unanimous">granting</insertwords> the building consent, receive from the territorial authority any document or information required for compliance with subsection (1)(b) <changeable><citation jurisdiction="nz">or (ba)</citation></changeable>, the building consent authority may <struckoutwords amend.level1="struckout-unanimous">issue </struckoutwords><insertwords amend.level1="insert-unanimous">grant</insertwords> the building consent despite that subsection.</text>
+                    <text>If a building consent authority does not, within the time limit for issuing the building consent, receive from the territorial authority any document or information required for compliance with subsection (1)(b) <changeable><citation jurisdiction="nz">or (ba)</citation></changeable>, the building consent authority may issue the building consent despite that subsection.</text>
                   </para>
                 </subprov>
                 <subprov quote="1" skeleton="no">
@@ -1608,7 +2055,7 @@
                 <label-para quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">ca</label>
                   <para>
-                    <text>a current national multiple-use approval issued under <changeable><citation jurisdiction="nz">section 30F</citation></changeable> <insertwords amend.level1="insert-unanimous">(including, in any particular case, any minor customisations permitted by regulations made under <changeable><citation jurisdiction="nz">section 402(1)(kb)</citation></changeable>)</insertwords>:</text>
+                    <text>a current national multiple-use approval issued under <changeable><citation jurisdiction="nz">section 30F</citation></changeable>:</text>
                   </para>
                 </label-para>
               </amend>
@@ -1632,18 +2079,10 @@
                     <text>prescribing eligibility criteria for national multiple-use approvals:</text>
                   </para>
                 </label-para>
-                <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">kaa</label>
-                  <para amend.level1="insert-unanimous">
-                    <text>
-                      <insertwords amend.level1="insert-unanimous">prescribing the period of time within which the chief executive must decide, under <changeable><citation jurisdiction="nz">section 30E(1)</citation></changeable>, whether to issue a national multiple-use approval:</insertwords>
-                    </text>
-                  </para>
-                </label-para>
                 <label-para quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">kb</label>
                   <para>
-                    <text>defining the minor <struckoutwords amend.level1="struckout-unanimous">variations </struckoutwords><insertwords amend.level1="insert-unanimous">customisations</insertwords> that may be made to plans and specifications in relation to which a national multiple-use approval has been issued when <struckoutwords amend.level1="struckout-unanimous">applying for, or determining an application for, </struckoutwords><insertwords amend.level1="insert-unanimous">incorporating those plans and specifications into</insertwords> a building consent:</text>
+                    <text>defining the minor variations that may be made to plans and specifications in relation to which a national multiple-use approval has been issued when applying for, or determining an application for, a building consent:</text>
                   </para>
                 </label-para>
                 <label-para quote="1" skeleton="no">
@@ -1658,58 +2097,7 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov amend.level1="insert-unanimous" id="DLM2027505" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">31</label>
-        <heading amend.level1="insert-unanimous">New section 402A inserted</heading>
-        <prov.body>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
-            <para amend.level1="insert-unanimous">
-              <text>The following section is inserted after section 402:</text>
-              <amend amend.level1="insert-unanimous" quote="1">
-                <prov amend.level1="insert-unanimous" id="DLM2027506" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">402A</label>
-                  <heading amend.level1="insert-unanimous">Chief executive must review regulations made under <changeable>section 402(1)(kaa)</changeable></heading>
-                  <prov.body>
-                    <subprov amend.level1="insert-unanimous" skeleton="no">
-                      <label amend.level1="insert-unanimous" auto.number="no" denominator="no"/>
-                      <para amend.level1="insert-unanimous">
-                        <text>The chief executive must, within 2 years after the commencement of regulations made under <changeable><citation jurisdiction="nz">section 402(1)(kaa)</citation></changeable>,—</text>
-                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">a</label>
-                          <para amend.level1="insert-unanimous">
-                            <text>review the prescribed period of time within which the chief executive must decide whether to issue a national multiple-use approval; and</text>
-                          </para>
-                        </label-para>
-                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">b</label>
-                          <para amend.level1="insert-unanimous">
-                            <text>prepare for the Minister a report on the findings of that review.</text>
-                          </para>
-                        </label-para>
-                      </para>
-                    </subprov>
-                  </prov.body>
-                </prov>
-              </amend>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
     </part>
   </body>
-  <end id="DLM2027507">
-    <leg-history id="DLM2027508">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2008-09-08</date>
-        <description>Introduction (Bill 272–1)</description>
-      </history-item>
-      <history-item>
-        <date>2009-03-10</date>
-        <description>First reading and referral to Local Government and Environment Committee</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
 <!--End of file, do NOT remove.-->
