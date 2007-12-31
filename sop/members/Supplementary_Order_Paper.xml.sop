@@ -1,22 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1461200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0006" stage="published" year="2008" raised.by="Members" sop.no="217">
-  <date>Wednesday, 30 July 2008</date>
-  <billref>Waste Minimisation Bill</billref>
-  <body id="DLM1461201">
-    <heading>Proposed amendment to Title clause</heading>
-    <motion>Nicky Wagner, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM1461202">
-      <clause.ref>Clause 1</clause.ref>
+<sop id="DLM1156600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Members" sop.no="173">
+  <date>Tuesday, 19 February 2008</date>
+  <billref>Waitakere Ranges Heritage Area Bill</billref>
+  <body id="DLM1156601">
+    <heading>Proposed amendments</heading>
+    <motion>Dr Pita Sharples, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1156602">
+      <clause.ref>Part 2</clause.ref>
+      <clause.ref>Clause 23B</clause.ref>
       <sop.para>
-        <text>To insert after <quote.in quote="1">Minimisation</quote.in>, the words <quote.in quote="1">and Resource Recovery</quote.in>. </text>
+        <text>To add the following new paragraph (after line 10 on page 36):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes" increment="1">d</label>
+            <para>
+              <text>consult with tangata whenua, namely Ngati Whatua and Te Kawerau A Maki.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1156603">
+      <clause.ref>Clause 24</clause.ref>
+      <sop.para>
+        <text>To omit subclause (1) and substitute the following subclauses (after line 7 on page 37):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>A deed of acknowledgement will acknowledge the particular historical, traditional, cultural or spiritual relationship of tangata whenua of the heritage area, namely Ngati Whatua and Te Kawerau A Maki, with any land in the heritage area.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1A</label>
+            <para>
+              <text>Parties to a deed of acknowledgement will be the Crown or a local authority and tangata whenua of the heritage area.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1B</label>
+            <para>
+              <text>A deed of acknowledgement will be entered into after consultation with, and with the agreement of, the parties to that deed.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To omit subclause (3)(a) and substitute the following subclause (after line 25 on page 37):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">a</label>
+            <para>
+              <text>records the Crown or relevant local authority’s acknowledgement referred to in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>; and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1156604">
+      <clause.ref>New crossheading and clause 28AA </clause.ref>
+      <sop.para>
+        <text>To insert the following new crossheading and clause after clause 28 (after line 2 on page 41):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <crosshead id="DLM1156800" toc="yes">Consultation processes with tangata whenua</crosshead>
+          <prov id="DLM1156605" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">28AA</label>
+            <heading>Consultation processes with tangata whenua</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>In addition to any specific opportunities for contribution identified in a deed of acknowledgment under <changeable><citation jurisdiction="nz">section 24(3)(d)</citation></changeable>, a local authority must establish and maintain processes to provide opportunities for Ngati Whatua and Te Kawerau A Maki to contribute to the decision-making processes of the local authority in their implementation of this Act.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1461203" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0006" stage="published" year="2008" raised.by="Members" sop.no="217">
+  <explnote id="DLM1156606" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Members" sop.no="173">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Waste Minimisation Bill. The proposed amendment adds <quote.in quote="1">Resource Recovery</quote.in> to the title to focus attention on the potential value of waste.</text>
+      <text>This Supplementary Order Paper amends the Waitakere Ranges Heritage Area Bill to solidify the requirement of consultation by the Crown or a local authority with tangata whenua, namely Ngati Whatua and Te Kawerau A Maki, in their implementation of this Act, and to ensure processes are established and maintained through which such consultation can occur. </text>
     </para>
   </explnote>
 </sop>
-<!--End of file, do NOT remove.-->
