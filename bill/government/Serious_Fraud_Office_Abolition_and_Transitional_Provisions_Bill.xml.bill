@@ -1,221 +1,389 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM1242200" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2008" bill.no="206" bill.type="government" stage="2" year="2008">
+<bill id="DLM1242200" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2008" bill.no="206" bill.type="government" stage="1" year="2008">
   <billdetail>
     <title>Serious Fraud Office (Abolition and Transitional Provisions) Bill</title>
     <billtype>Government Bill</billtype>
-    <repnote>As reported from the Law and Order Committee</repnote>
-    <commentary id="DLM1497900" in.amend="false" irdnumbering="no" official="yes" bill.no="206" bill.type="government" stage="2" year="2008">
-      <heading>Commentary</heading>
-      <comm.lev1>
-        <heading>Recommendation</heading>
+    <explnote id="DLM1242201" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="206" bill.type="government" stage="1" year="2008">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
+        <explnote.subhead1>Changed environment for serious fraud investigations</explnote.subhead1>
         <para>
-          <text>The Law and Order Committee has examined the Serious Fraud Office (Abolition and Transitional Provisions) Bill and recommends by majority that it be passed with the amendments shown.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Introduction</heading>
-        <para>
-          <text>This bill repeals the Serious Fraud Office Act 1990 and disestablishes the Serious Fraud Office (SFO). The functions of the Serious Fraud Office will be taken over by the Organised and Financial Crime Agency of New Zealand (OFCANZ), which will be hosted within the New Zealand Police.</text>
+          <text>The Serious Fraud Office (<def-term id="DLM1242202">SFO</def-term>) was created in 1990 following the 1987 share market crash and widespread public concern about corporate misconduct. It was modelled on the United Kingdom SFO, with the intention that this small, specialist multi-disciplinary agency would fill a gap between existing law enforcement and regulatory agencies. </text>
         </para>
         <para>
-          <text>This commentary covers the key amendments that we recommend to the bill. It does not cover minor or technical amendments.</text>
+          <text>Since 1990, the nature and scale of fraud offending has changed. Fraud is now made more complex by the impact of globalisation, computers, Internet access, and identity fraud, which provide for levels of anonymity and speed well beyond those of the 1990s.  While there does still exist a category of such fraud that is strictly the criminal abuse of commercial practice and is not covered by the taint of organised crime in the sense that it is generally perceived, there is a clear track of convergence between organised crime interests and the commercial world.  The more serious organised criminal enterprises are using commercial and financial expertise not just as devices to launder the proceeds of crime or to accrue assets, but also to utilise financial processes and decision makers within the system for criminal financial gain.</text>
         </para>
         <para>
-          <text>The development of the new Organised and Financial Crime Agency of New Zealand represents a significant opportunity for those presently engaged in the investigation of serious and complex fraud. It also offers a new mechanism to increase the attention given to serious and complex fraud, while significantly challenging those engaged in organised crime, whether of an international or domestic nature.</text>
+          <text>There are now 5 agencies that can address aspects of corporate fraud or white collar crime: the Inland Revenue Department, police, SFO, Securities Commission, and National Enforcement Unit (<def-term id="DLM1242203">NEU</def-term>) of the Ministry of Economic Development. In addition, reforms continue within the Ministry of Economic Development, Ministry of Justice, Reserve Bank of New Zealand and Treasury regarding financial products, providers, and anti-money laundering regulation.</text>
         </para>
         <para>
-          <text>Accordingly, this bill disestablishes the SFO so that its existing functions and powers can be reformed into a permanent Serious Fraud Taskforce within OFCANZ. This decision would provide an effective response to the changed environment and establish a more streamlined response to both fraud and organised crime. Combining the skills, abilities, tools, and resources of the two organisations to undertake the financial investigations required to more effectively combat organised crime and serious or complex fraud is a significant step forward.</text>
+          <text>Against that background, police have also further developed their capability to investigate and prosecute serious or complex fraud. The police now deal with fraud with a significant dedicated resource, including forensic accountants and detectives working in dedicated fraud squads such as the Company Fraud and General Fraud squads in the Auckland City District. The police employ document examiners, computer forensic staff, legal advisors, and forensic accountants.</text>
+        </para>
+        <explnote.subhead1>Integration of SFO into new Organised and Financial Crime Agency of New Zealand</explnote.subhead1>
+        <para>
+          <text>The development of a new Organised and Financial Crime Agency of New Zealand (<def-term id="DLM1242204">OFCANZ</def-term>) represents a significant opportunity for those presently engaged in the investigation of serious and complex fraud.  It also offers a new mechanism to increase the attention given to serious and complex fraud while significantly challenging those engaged in organised crime, whether of an international or domestic nature.</text>
         </para>
         <para>
-          <text>The inclusion of current SFO staff and expertise as part of the Financial Crime Group within OFCANZ will add to the critical mass needed to develop appropriate training and career opportunities to build the Police’s financial crime investigation capability generally. It is anticipated that this will lead to an improved ability to investigate commercial fraud wherever it occurs, and regardless of whether it meets the standard of “serious or complex”.</text>
+          <text>Accordingly, this Bill disestablishes the current SFO so that its existing functions and powers can be reformed into a permanent Serious Fraud Taskforce within OFCANZ. This decision provides an effective response to the changed environment and establishes a more streamlined response to both fraud and organised crime. Combining the skills, abilities, tools, and resources of the 2 organisations to undertake the financial investigations required to more effectively combat organised crime and serious or complex fraud is a significant step forward.</text>
         </para>
         <para>
-          <text>This integration would also allow the greatest degree of flexibility and coordination in the investigation of serious or complex fraud, while ensuring that the investigation of serious or complex fraud is identified as an ongoing priority within the Police. OFCANZ’s ability to combat serious or complex fraud would be substantially enhanced by the integration of the SFO.</text>
+          <text>This integration also allows the greatest degree of flexibility and coordination in the investigation of serious or complex fraud, while ensuring that the investigation of serious or complex fraud is identified as an ongoing priority within the police. OFCANZ's ability to combat serious or complex fraud will be substantially enhanced by the integration of the SFO.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Oversight</heading>
+        <explnote.subhead1>Transitional serious or complex fraud investigatory powers</explnote.subhead1>
         <para>
-          <text>We note that additional judicial oversight would be introduced regarding the powers to demand the production of documents, attendance at investigations, and answers to questions. We think this is appropriate, since failing to provide for such oversight would amount to the conferral of unusual powers on the Police. Judicial oversight would be consistent with the Police’s exercise of statutory powers in other criminal investigations.</text>
+          <text>The nature of crime is trending towards complex Internet transactions and document-based crime.  This change indicates that document production and limited compulsory examination powers should be added to the toolbox of police investigatory powers for the investigation of a range of crime types, including serious and corporate fraud and organised crime.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Production orders</heading>
         <para>
-          <text>We recommend amending clause 21 to clarify that there would be a requirement for a person to state to the best of his or her knowledge the location of a document, if he or she did not have the document. In the bill as introduced it is not clear that the penalty for failing to comply with a production order would extend to this requirement.</text>
+          <text>As part of the Government’s wider reform of all law enforcement search and surveillance powers, the Government’s Search and Surveillance Bill will therefore propose that document production and limited compulsory examination orders be established as part of the investigatory toolbox available to all criminal investigations.  These 2 powers have proven particularly useful when unravelling complex financial transactions and business structures that have been used for criminal purposes.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Delay of proceedings</heading>
         <para>
-          <text>We recommend amending clause 33 to prevent a judicial review resulting in an interim order that would delay the progress of the investigation. This amendment would align the bill more closely with section 21 of the Serious Fraud Office Act and clause 95 of the Criminal Proceeds (Recovery) Bill. It would still be possible to apply for a judicial review, but interim orders would not prevent a person from being required to comply with a production or examination order.</text>
+          <text>Accordingly, in order to ensure that OFCANZ retains the powers necessary to investigate serious and complex fraud in the period leading up to the final enactment of the wider search and surveillance regime, transitional document production and limited examination powers are provided for in this Bill.  These powers retain the current commercial fraud investigative capability, while also providing additional safeguards such as prior judicial approval and a better definition of those who may be subject to a compulsory examination.  As these transitional powers reflect the wider reforms contained in the Government’s Search and Surveillance Bill, there will be some temporary inconsistencies with the current law as it applies to other older search and surveillance powers.  However, these inconsistencies will not hamper the ability of OFCANZ to perform its functions and it is intended that these proposed transitional powers will expire upon Order in Council once the Government’s Search and Surveillance Bill is enacted and comes into force.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Schedule</heading>
-        <para>
-          <text>We recommend amending the Schedule so that the references in the Tax Administration Act 1994 to commissioners are clear. In the bill as introduced, the amendment to the Act refers to two commissioners and the drafting may cause confusion about whether the Inland Revenue Commissioner or the Police Commissioner is intended in each instance, since either would be possible in context.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Review</heading>
-        <para>
-          <text>We were concerned that there was no mechanism in this legislation to review the changes to the Serious Fraud Office’s investigation powers that would result from the passage of the bill. We understand that this bill includes transitional provisions, however, and were advised that the Search and Surveillance Bill, which is still to be introduced, is likely to include a review process to be undertaken five years after the enactment of the Search and Surveillance Bill. This review would examine the investigation powers under the new regime.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>New Zealand National Party minority view</heading>
-        <para>
-          <text>The National Party does not agree that it is desirable to host the Serious Fraud Office within the Police at the present time and will oppose the bill. This is for four reasons; timing; degradation of powers; current Police practice and capability; and process.</text>
-        </para>
-        <comm.lev2>
-          <heading>Timing </heading>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
           <para>
-            <text>There are currently ongoing investigations by the SFO in respect of collapsed finance companies. It is estimated that 175,000 people have invested in these companies. National members believe it is the wrong time to be removing the independent capability of our most engaged serious fraud investigating agency.</text>
+            <text><emphasis style="italic">Clause 1</emphasis> relates to the Title of the Bill.</text>
           </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Degradation of powers</heading>
+        </clause.desc>
+        <clause.desc>
           <para>
-            <text>The Director of the SFO has enjoyed powers to demand provision of documents, attendance at investigations, and answers to questions, since the inception of the office in 1990. This Bill removes these powers from the Director and requires the applications to be made before the court. The Police, the Law Commission, and those in support of the bill have stated that the removal of these powers is a relatively minor point. However National members believe their argument is insufficient to warrant change to the status quo.</text>
+            <text><emphasis style="italic">Clause 2</emphasis> provides that the sections on interpretation, designation and delegations come into force on the day after Royal assent. The remainder of the Bill comes into force 21 days after this date. This allows the designations and delegations required for the effective operation of the Act to be put into place prior to the Act coming into force.</text>
           </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Current Police practice and capability </heading>
-          <para>
-            <text>Fraud investigation has not been seen as a priority in the Police for ten years. There are currently only three offices within the Police dealing with serious fraud. Police acknowledged that they have concentrated on crimes against the person as a priority due to the need to ration resources. National believes that hosting the SFO within the Police at a time when capability is low and the preference is for investigating other categories of crime is not the best option for the office. The Police have expressed a desire to have the capability of the SFO support the Organised and Financial Crime Agency (OFCANZ). However the expertise of the SFO can be seconded from a stand-alone agency just as other agencies currently support the Police by secondment.</text>
-          </para>
-        </comm.lev2>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Process</heading>
-        <para>
-          <text>The committee heard that the decision was made to host the SFO within OFCANZ in September 2007. The announcement of this decision was made by press release. The SFO told the committee that they had been consulted two weeks prior to the public announcement. At the time of the announcement, the committee had been in the process of considering which agency should be the recovery body under the Criminal Proceeds (Recovery) Bill. National Party members of the committee believe that by making this announcement without requisite consultation, the Executive undermined the select committee process.</text>
-        </para>
-      </comm.lev1>
-      <comm.appendix>
-        <heading>Appendix</heading>
-        <comm.lev2>
-          <heading>Committee process</heading>
-          <para>
-            <text>The Serious Fraud Office (Abolition and Transitional Provisions) Bill was referred to the committee on 20 May 2008. The closing date for submissions was 20 June 2008. We received and considered seven submissions from interested groups and individuals. We heard four submissions.</text>
-          </para>
-          <para>
-            <text>We received advice from the Ministry of Justice, the New Zealand Police, and the New Zealand Law Commission.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Committee membership</heading>
-          <para>
-            <text>Ron Mark (Chairperson)</text>
-          </para>
-          <para>
-            <text>Hon David Benson-Pope (Deputy Chairperson)</text>
-          </para>
-          <para>
-            <text>Chester Borrows</text>
-          </para>
-          <para>
-            <text>Martin Gallagher</text>
-          </para>
-          <para>
-            <text>Hon Darren Hughes</text>
-          </para>
-          <para>
-            <text>Simon Power</text>
-          </para>
-          <para>
-            <text>Kate Wilkinson</text>
-          </para>
-        </comm.lev2>
-      </comm.appendix>
-    </commentary>
+        </clause.desc>
+        <explnote.part id="DLM1242205">
+          <label auto.number="no" denominator="yes">1 </label>
+          <heading>Preliminary provisions</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 3</emphasis> provides that the Act binds the Crown.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4</emphasis> sets out the purposes of the Bill. These are to—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>repeal the Serious Fraud Office Act 1990 (the <def-term id="DLM1242206">SFO Act</def-term>); and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>vest control of the Serious Fraud Office (<def-term id="DLM1242207">SFO</def-term>) documents in the police; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>provide for the issuing of production and examination orders by the courts for a transitional period to allow for the search and surveillance reforms based on the Law Commission’s report <emphasis style="italic">Search and Survellance Powers</emphasis> (NZLC R97, 30 June 2007) to be implemented; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>enable the police, during the transitional period, to conduct effective investigations into offending involving serious or complex fraud.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5</emphasis> defines terms used in the Bill. Some of the key terms are business context, Commissioner, entity, and evidentiary material.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM1242208">
+          <label auto.number="no" denominator="yes">2 </label>
+          <heading>Repeal of Serious Fraud Office Act 1990 and transitional matters</heading>
+          <explnote.subpart id="DLM1242209">
+            <label auto.number="no" denominator="yes">1</label>
+            <heading>Repeal of Serious Fraud Office Act 1990</heading>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 6</emphasis> repeals the Serious Fraud Office Act 1990.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 7</emphasis> sets out what happens to the documents of the SFO. The documents vest in the Commissioner of Police.  The protections relating to the secrecy of information that applied to information under the SFO Act will continue to apply.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 8</emphasis> allows the Commissioner to designate people who are eligible to be involved in the administration of the Act.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 9</emphasis> restricts employees of the SFO from being entitled to redundancy if they are offered equivalent employment within the police, or they are offered and accept other employment within the police. Equivalent employment is defined.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 10</emphasis> provides that certain of the appointment processes in the Police Act 1958 do not apply to the transfer of SFO staff to the police.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 11</emphasis> provides that any references to the SFO that exist or are in force at the commencement of this legislation must be read as references to the police.  Prosecutions underway at the commencement of the Act will be continued by the police.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 12</emphasis> allows the Governor-General to deal with savings or transitional matters connected to the abolition of the SFO by Order in Council.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 13</emphasis> sets out, for the avoidance of doubt, some matters that the abolition of the SFO does not affect. These are property, rights, or obligations of the Crown and the commencement or continuation of proceedings by or against the Crown.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 14</emphasis> makes consequential amendments to other Acts as set out in the <emphasis style="italic">Schedule</emphasis>.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 15</emphasis> provides for the continuation of the SFO Act in respect of specified matters. Any production and examination notices given before the commencement of the Act can be continued under the SFO Act. Any search warrants applied for can be granted and executed, and any search warrants obtained can be executed under the SFO Act. The indemnity of SFO members continues. </text>
+              </para>
+            </clause.desc>
+          </explnote.subpart>
+          <explnote.subpart id="DLM1242210">
+            <label auto.number="no" denominator="yes">2</label>
+            <heading>Orders assisting certain investigations during transitional period</heading>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 16</emphasis> sets an expiry for the subpart of 31 July 2011, or earlier as set out by Order in Council. These provisions will cease to apply once the search and surveillance reforms are implemented. Any matters pending at the expiry date will be determined as if the subpart had not expired.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 17</emphasis> sets out the matters to be considered in determining whether something is serious or complex fraud under the subpart. These are the suspected nature and consequences of the fraud, the suspected scale of the fraud, and the legal, factual, and evidential complexity of the matter.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 18</emphasis> sets out the conditions for making a production order. These are that there are reasonable grounds to suspect that—</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>an offence punishable by imprisonment has been committed; and</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the offence arises in the context of serious or complex fraud.</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+              <para>
+                <text>In addition, there have to be reasonable grounds to believe that the documents sought—</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>constitute evidentiary material in respect of the offence; and</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>are in the possession or control of the person against whom the order is sought.</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 19</emphasis> provides that the application for a production order must be made by the Commissioner or a delegate of the Commissioner on oath to a District Court Judge or a High Court Judge. The Commissioner or a delegate must approve the application. The clause also sets out the matters that need to be included in the application.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 20</emphasis> authorises a Judge to make a production order if the conditions set out in <emphasis style="italic">clause 18</emphasis> are met.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 21</emphasis> sets out the contents of a production order. The production order requires a person to provide specified documents. The order must specify the name of the person required to comply with the order, the grounds on which the order is made, the documents to be provided, and the time frame within which a person must comply with the order.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 22</emphasis> sets out that a production order is in force for the time specified in the order, which must not exceed 30 days.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 23</emphasis> sets out what happens to documents produced under a production order. They must be returned, but may be copied prior to return.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 24</emphasis> sets out the conditions for making an examination order. These are that there are reasonable grounds to suspect that—</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>an offence punishable by imprisonment has been committed; and</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the offence arises in the context of serious or complex fraud.</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+              <para>
+                <text>In addition, there have to be reasonable grounds to believe that the person being examined—</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>has evidentiary material in respect of the offence; and</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>has been given an opportunity to provide the information voluntarily but has not done so.</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 25</emphasis> provides that the application for an examination order must be made on oath to a District Court Judge or a High Court Judge. If there is a business relationship between the person or entity being investigated and the person to be examined, the Commissioner or a delegate must approve the application for the order. If there is no business relationship, the Commissioner as well as the Secretary for Justice must approve the application for the order. The approval of the Commissioner and the Secretary for Justice for that application must be given personally.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 26</emphasis> allows a District Court Judge or a High Court Judge to make an examination order if the conditions set out in <emphasis style="italic">clause 24</emphasis> are met. In addition, the Judge must be satisfied that it is reasonable to issue an examination order having regard to certain matters. These are the nature and seriousness of the offending, the nature of the information sought, the relationship between the person to be examined and the suspect, and any alternative ways to obtain the information.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 27</emphasis> sets out the contents of the examination order. The examination order requires a person to attend a meeting and answer questions. The order must specify the name of the person required to comply with the order, the grounds on which the order is made, the nature of the questions to be asked, who will conduct the examination (if it is to be conducted by a delegate of the Commissioner), and where and when the examination will take place (or how the time will be determined).</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 28</emphasis> allows a person attending an examination to be accompanied by a lawyer.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 29</emphasis> sets out that an examination order is in force for the time specified, which must not exceed 30 days.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 30</emphasis> sets out that the privilege against self-incrimination as provided in section 60 of the Evidence Act 2006 applies to production and examination orders. A District Court Judge is able to determine whether a particular claim of the privilege is valid. Section 63 of the Evidence Act 2006 (which requires disclosure in certain circumstances in civil proceedings) does not apply to production and examination orders.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 31</emphasis> sets out the legal professional privilege, medical privilege, and religious privilege in the Evidence Act 2006 that will apply if the person could assert the privilege in a criminal proceeding. A District Court Judge is able to determine whether a particular claim of privilege is valid and disallow the privilege if it would be disallowed in a proceeding under section 67(1) of the Evidence Act 2006. The clause also clarifies that legal professional privilege cannot be asserted in respect of accounting records for trust accounts or nominee companies. This is in line with the existing law on search warrants.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 32</emphasis> clarifies that persons do not incur any civil liability by complying with a production order or an examination order.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 33</emphasis> provides that any proceedings to review the exercise of powers or discharge of duty under the Act will not prevent the exercise or discharge of the power or duty.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 34</emphasis> provides that it is an offence to fail to comply with a production or examination order or to provide false or misleading information. The penalties are imprisonment not exceeding 12 months or a fine not exceeding $15,000, or both, for an individual; and a fine not exceeding $40,000 for a body corporate.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 35</emphasis> provides that all designated persons must observe the strictest secrecy in respect of information received from the exercise of a production or examination order, any search warrants obtained by a designated person, and any information derived from that information. Specified reasons for disclosure are set out and include the situation where the person who disclosed the information consents and where the information is used for the purpose of a prosecution. It is an offence punishable by a fine not exceeding $5,000 to knowingly contravene this clause. </text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 36</emphasis> provides that all designated persons must observe the strictest secrecy in respect of revenue information, being information subject to secrecy under the Tax Administration Act 1994 and information disclosed by the Commissioner of Inland Revenue. Specified reasons for disclosure are set out. It is an offence punishable by imprisonment not exceeding 6 months or a fine not exceeding $15,000 to knowingly contravene this clause.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 37</emphasis> authorises the disclosure of information protected under legislation (not being the Tax Administration Act 1994 or the Statistics Act 1975) to a designated person for the purpose of investigating or prosecuting serious or complex fraud. </text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 38</emphasis> provides that all designated persons must observe the strictest secrecy in relation to any information that is protected under any legislation (except the Tax Administration Act 1994). Specified reasons for disclosure are set out. It is an offence punishable by a fine not exceeding $5,000 to knowingly contravene this clause. </text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 39</emphasis> provides that anyone who discloses information under <emphasis style="italic">clause 35, 36</emphasis>, or <emphasis style="italic">38</emphasis> must inform the recipient that the recipient is under an obligation to observe the strictest secrecy in respect of that information.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 40</emphasis> provides that a person to whom information protected under <emphasis style="italic">clause 35, 36</emphasis>, or <emphasis style="italic">38</emphasis> is disclosed under the Act must not disclose that information to anyone else except as specified.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 41</emphasis> sets out requirements for written authorisations to disclose information.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 42</emphasis> sets out when the secrecy provisions no longer apply. This is when the information is released in court; or where the information has been disclosed on a specified ground and the Commissioner informs the person to whom the information was disclosed that the information is no longer protected. Such notice must only be given in specified cases.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 43</emphasis> provides that obligations as to secrecy continue after a person has ceased to be designated.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 44</emphasis> sets out ways in which orders and notices can be served.</text>
+              </para>
+            </clause.desc>
+          </explnote.subpart>
+          <explnote.subpart id="DLM1242211">
+            <label auto.number="no" denominator="yes">3</label>
+            <heading>Miscellaneous provisions</heading>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 45</emphasis> provides that the Commissioner can delegate powers, functions, or duties under the Act.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 46</emphasis> authorises forms to be prescribed by regulations.</text>
+              </para>
+            </clause.desc>
+          </explnote.subpart>
+        </explnote.part>
+      </explnote.group>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from a select committee</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM1242212">
     <member>Hon Annette King</member>
     <title>Serious Fraud Office (Abolition and Transitional Provisions) Bill</title>
@@ -259,7 +427,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM1242217" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="206" bill.type="government" stage="2" year="2008">
+    <part id="DLM1242217" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="206" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Preliminary provisions</heading>
       <prov id="DLM1242218" irdnumbering="no" skeleton="no" toc="yes">
@@ -476,10 +644,10 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM1242252" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="206" bill.type="government" stage="2" year="2008">
+    <part id="DLM1242252" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="206" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Repeal of Serious Fraud Office Act 1990 and transitional matters</heading>
-      <subpart id="DLM1242253" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="206" bill.type="government" stage="2" year="2008">
+      <subpart id="DLM1242253" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="206" bill.type="government" stage="1" year="2008">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Repeal of Serious Fraud Office Act 1990</heading>
         <prov id="DLM1242254" irdnumbering="no" skeleton="no" toc="yes">
@@ -800,7 +968,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart id="DLM1242268" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="206" bill.type="government" stage="2" year="2008">
+      <subpart id="DLM1242268" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="206" bill.type="government" stage="1" year="2008">
         <label auto.number="no" denominator="yes">2</label>
         <heading>Orders assisting certain investigations during transitional period</heading>
         <crosshead id="DLM1242269" toc="yes">Expiry</crosshead>
@@ -996,44 +1164,20 @@
           <label auto.number="no" denominator="yes">21</label>
           <heading>Contents of production order</heading>
           <prov.body>
-            <subprov amend.level1="struckout-majority" skeleton="no">
-              <label amend.level1="struckout-majority" auto.number="no" denominator="yes">1</label>
-              <para amend.level1="struckout-majority">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
                 <text>A production order must require the person against whom it is made to give the Commissioner, or a person identified in the order, any documents described in the order.</text>
-              </para>
-            </subprov>
-            <subprov amend.level1="insert-majority" skeleton="no">
-              <label amend.level1="insert-majority" auto.number="no" denominator="yes">1</label>
-              <para amend.level1="insert-majority">
-                <text>A production order must require the person against whom it is made (<def-term id="DLM1497901">person A</def-term>)—</text>
-                <label-para amend.level1="insert-majority" skeleton="no">
-                  <label amend.level1="insert-majority" auto.number="no" denominator="yes">a</label>
-                  <para amend.level1="insert-majority">
-                    <text>to give the Commissioner, or a person identified in the order, any documents described in the order that are in the possession or under the control of person A; and</text>
-                  </para>
-                </label-para>
-                <label-para amend.level1="insert-majority" skeleton="no">
-                  <label amend.level1="insert-majority" auto.number="no" denominator="yes">b</label>
-                  <para amend.level1="insert-majority">
-                    <text>if any of those documents are not, or are no longer, in the possession or under the control of person A, to disclose, to the best of person A's knowledge or belief, the location of those documents to the Commissioner or to the person identified in the order.</text>
-                  </para>
-                </label-para>
               </para>
             </subprov>
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
               <para>
                 <text>The production order must set out the following:</text>
-                <label-para amend.level1="struckout-majority" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes">a</label>
-                  <para amend.level1="struckout-majority">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
                     <text>the name of the person required to comply with the order:</text>
-                  </para>
-                </label-para>
-                <label-para amend.level1="insert-majority" skeleton="no">
-                  <label amend.level1="insert-majority" auto.number="no" denominator="yes">a</label>
-                  <para amend.level1="insert-majority">
-                    <text>the name of person A:</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
@@ -1065,7 +1209,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">4</label>
               <para>
-                <text>If <struckoutwords amend.level1="struckout-majority">the production order is made against </struckoutwords><insertwords amend.level1="insert-majority">person A is </insertwords>a body corporate or an unincorporated body, the  order may specify an individual (whether by name or by reference to a position held in the body) who is to comply with the order as the body’s representative.</text>
+                <text>If the production order is made against a body corporate or an unincorporated body, the  order may specify an individual (whether by name or by reference to a position held in the body) who is to comply with the order as the body’s representative.</text>
               </para>
             </subprov>
           </prov.body>
@@ -1087,7 +1231,7 @@
           <heading>Documents produced under production order</heading>
           <prov.body>
             <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
+              <label auto.number="no" denominator="yes">1</label>
               <para>
                 <text>When any document is produced in compliance with a production order, the Commissioner or a delegate of the Commissioner may do 1 or more of the following things:</text>
                 <label-para skeleton="no">
@@ -1110,9 +1254,9 @@
                 </label-para>
               </para>
             </subprov>
-            <subprov amend.level1="struckout-majority" skeleton="no">
-              <label amend.level1="struckout-majority" auto.number="no" denominator="yes">2</label>
-              <para amend.level1="struckout-majority">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
                 <text>If any person is required to produce any document under a production order and fails to do so, the Commissioner or a delegate of the Commissioner may require that person to state to the best of his of her knowledge or belief where the document is.</text>
               </para>
             </subprov>
@@ -1526,132 +1670,89 @@
             </subprov>
           </prov.body>
         </prov>
-        <prov amend.level1="struckout-majority" id="DLM1242289" irdnumbering="no" skeleton="no" toc="yes">
-          <label amend.level1="struckout-majority" auto.number="no" denominator="yes">33</label>
-          <heading amend.level1="struckout-majority">Effect of proceedings</heading>
+        <prov id="DLM1242289" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">33</label>
+          <heading>Effect of proceedings</heading>
           <prov.body>
-            <subprov amend.level1="struckout-majority" skeleton="no">
-              <label amend.level1="struckout-majority" auto.number="no" denominator="yes">1</label>
-              <para amend.level1="struckout-majority">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
                 <text>This section applies when any proceeding has been commenced in any court in respect of—</text>
-                <label-para amend.level1="struckout-majority" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes">a</label>
-                  <para amend.level1="struckout-majority">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
                     <text>the exercise of any power conferred by this Act; or</text>
                   </para>
                 </label-para>
-                <label-para amend.level1="struckout-majority" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes">b</label>
-                  <para amend.level1="struckout-majority">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
                     <text>the discharge of any duty imposed by this Act.</text>
                   </para>
                 </label-para>
               </para>
             </subprov>
-            <subprov amend.level1="struckout-majority" skeleton="no">
-              <label amend.level1="struckout-majority" auto.number="no" denominator="yes">2</label>
-              <para amend.level1="struckout-majority">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
                 <text>Until a final decision in relation to the proceeding is given, the power or duty to which the proceeding relates may be, or may continue to be, exercised or discharged as if the proceeding had not been commenced, and no person is excused from fulfilling any obligation under this Act by reason of that proceeding.</text>
               </para>
             </subprov>
-            <subprov amend.level1="struckout-majority" skeleton="no">
-              <label amend.level1="struckout-majority" auto.number="no" denominator="yes">3</label>
-              <para amend.level1="struckout-majority">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
                 <text><changeable><citation jurisdiction="nz">Subsection (2)</citation></changeable> has effect despite any interim order made in the proceeding unless the High Court is satisfied that—</text>
-                <label-para amend.level1="struckout-majority" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes">a</label>
-                  <para amend.level1="struckout-majority">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
                     <text>it is highly likely from the evidence before the court that the exercise or discharge of the power or duty would be found to be unlawful; and</text>
                   </para>
                 </label-para>
-                <label-para amend.level1="struckout-majority" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes">b</label>
-                  <para amend.level1="struckout-majority">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
                     <text>the applicant would suffer harm from the exercise or discharge of the power or duty; and</text>
                   </para>
                 </label-para>
-                <label-para amend.level1="struckout-majority" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes">c</label>
-                  <para amend.level1="struckout-majority">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
                     <text>if the power or duty is exercised or discharged before a final decision is made in the proceeding, none of the remedies specified in <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>, or any combination of those remedies, could subsequently provide an adequate remedy for that harm.</text>
                   </para>
                 </label-para>
               </para>
             </subprov>
-            <subprov amend.level1="struckout-majority" skeleton="no">
-              <label amend.level1="struckout-majority" auto.number="no" denominator="yes">4</label>
-              <para amend.level1="struckout-majority">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">4</label>
+              <para>
                 <text>The remedies are as follows:</text>
-                <label-para amend.level1="struckout-majority" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes">a</label>
-                  <para amend.level1="struckout-majority">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
                     <text>any remedy that the court may grant in making a final decision in relation to the proceeding (for example, a declaration):</text>
                   </para>
                 </label-para>
-                <label-para amend.level1="struckout-majority" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes">b</label>
-                  <para amend.level1="struckout-majority">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
                     <text>any damages that the applicant may be able to claim in concurrent or subsequent proceedings:</text>
                   </para>
                 </label-para>
-                <label-para amend.level1="struckout-majority" skeleton="no">
-                  <label amend.level1="struckout-majority" auto.number="no" denominator="yes">c</label>
-                  <para amend.level1="struckout-majority">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
                     <text>any opportunity that the applicant may have, as defendant in a criminal proceeding, to challenge the admissiblity of any  evidence obtained as a result of the exercise or discharge of the power or duty. </text>
                   </para>
                 </label-para>
               </para>
             </subprov>
-            <subprov amend.level1="struckout-majority" skeleton="no">
-              <label amend.level1="struckout-majority" auto.number="no" denominator="yes">5</label>
-              <para amend.level1="struckout-majority">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">5</label>
+              <para>
                 <text>This section applies despite any other provision of any Act or rule of law or equity.</text>
               </para>
             </subprov>
           </prov.body>
-        </prov>
-        <prov amend.level1="insert-majority" id="DLM1497902" irdnumbering="no" skeleton="no" toc="yes">
-          <label amend.level1="insert-majority" auto.number="no" denominator="no">33</label>
-          <heading amend.level1="insert-majority">Effect of proceedings challenging powers and duties under this subpart</heading>
-          <prov.body>
-            <subprov amend.level1="insert-majority" skeleton="no">
-              <label amend.level1="insert-majority" auto.number="no" denominator="yes">1</label>
-              <para amend.level1="insert-majority">
-                <text>This section applies if any person makes any challenge in any proceeding in any court in respect of—</text>
-                <label-para amend.level1="insert-majority" skeleton="no">
-                  <label amend.level1="insert-majority" auto.number="no" denominator="yes">a</label>
-                  <para amend.level1="insert-majority">
-                    <text>the exercise of any power conferred by this subpart:</text>
-                  </para>
-                </label-para>
-                <label-para amend.level1="insert-majority" skeleton="no">
-                  <label amend.level1="insert-majority" auto.number="no" denominator="yes">b</label>
-                  <para amend.level1="insert-majority">
-                    <text>the discharge of any duty imposed by this subpart.</text>
-                  </para>
-                </label-para>
-              </para>
-            </subprov>
-            <subprov amend.level1="insert-majority" skeleton="no">
-              <label amend.level1="insert-majority" auto.number="no" denominator="yes">2</label>
-              <para amend.level1="insert-majority">
-                <text>If this section applies, until a final decision (as described in <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>) in relation to those proceedings is given, the power or duty may be, or may continue to be, exercised or discharged as if no such proceedings of that kind had been commenced, and no person is excused from fulfilling any obligation under this subpart by reason of those proceedings.</text>
-              </para>
-            </subprov>
-            <subprov amend.level1="insert-majority" skeleton="no">
-              <label amend.level1="insert-majority" auto.number="no" denominator="yes">3</label>
-              <para amend.level1="insert-majority">
-                <text>This section applies despite any other provision of any enactment or rule of law or equity.</text>
-              </para>
-            </subprov>
-            <subprov amend.level1="insert-majority" skeleton="no">
-              <label amend.level1="insert-majority" auto.number="no" denominator="yes">4</label>
-              <para amend.level1="insert-majority">
-                <text>A final decision does not include a decision in proceedings for an interim order under section 8 of the Judicature Amendment Act 1972.</text>
-              </para>
-            </subprov>
-          </prov.body>
-          <cf amend.level1="insert-majority">1990 No 51 s 21</cf>
         </prov>
         <prov id="DLM1242290" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">34</label>
@@ -1789,7 +1890,7 @@
         </prov>
         <prov id="DLM1242293" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">36</label>
-          <heading>Secrecy of information protected under <struckoutwords amend.level1="struckout-majority">Inland Revenue Department Act 1974 </struckoutwords><insertwords amend.level1="insert-majority">Tax Administration Act 1994</insertwords></heading>
+          <heading>Secrecy of information protected under Inland Revenue Department Act 1974</heading>
           <prov.body>
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
@@ -2212,7 +2313,7 @@
           <cf>1990 No 51 s 52</cf>
         </prov>
       </subpart>
-      <subpart id="DLM1242304" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="206" bill.type="government" stage="2" year="2008">
+      <subpart id="DLM1242304" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="206" bill.type="government" stage="1" year="2008">
         <label auto.number="no" denominator="yes">3</label>
         <heading>Miscellaneous provisions</heading>
         <prov id="DLM1242305" irdnumbering="no" skeleton="no" toc="yes">
@@ -2333,7 +2434,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule id="DLM1242307" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="206" bill.type="government" stage="2" year="2008">
+    <schedule id="DLM1242307" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="206" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes"/>
       <empowering-prov>
         <changeable>
@@ -2383,55 +2484,17 @@
         </schedule.amendments.group2>
         <schedule.amendments.group2 id="DLM1242315" toc="yes">
           <heading>Summary Proceedings Act 1957 (1957 No 87)</heading>
-          <para amend.level1="struckout-majority">
+          <para>
             <text>Item relating to the Serious Fraud Office Act 1990 in Part 2 of Schedule 1: omit.</text>
-          </para>
-          <para amend.level1="insert-majority">
-            <text>Part 2 of Schedule 1: omit the item relating to the Serious Fraud Office Act 1990 and substitute the following item:</text>
-            <amend amend.level1="insert-majority" quote="1">
-              <para amend.level1="insert-majority" quote="1">
-                <table align="center" amend.level1="insert-majority" fontsize="9.5" frame="none" id="DLM1497903" leading="10.5">
-                  <tgroup align="justify" cols="3">
-                    <colspec colname="col1" colsep="0" colwidth="1.36*"/>
-                    <colspec align="center" colname="col2" colsep="0" colwidth="0.33*"/>
-                    <colspec colname="col3" colsep="0" colwidth="1.31*"/>
-                    <tbody>
-                      <row amend.level1="insert-majority">
-                        <entry amend.level1="insert-majority">Serious Fraud Office (Abolition and Transitional Provisions) Act <changeable>2008</changeable></entry>
-                        <entry amend.level1="insert-majority">34</entry>
-                        <entry amend.level1="insert-majority">Failing to comply with orders</entry>
-                      </row>
-                    </tbody>
-                  </tgroup>
-                </table>
-              </para>
-            </amend>
           </para>
         </schedule.amendments.group2>
         <schedule.amendments.group2 id="DLM1242316" toc="yes">
           <heading>Tax Administration Act 1994 (1994 No 166)</heading>
-          <para amend.level1="struckout-majority">
+          <para>
             <text>Section 81(4)(c): omit <amend.in quote="1">the Director of the Serious Fraud Office</amend.in> and substitute: <amend.in quote="1">the Commissioner of Police or any member of the police authorised by that Commissioner for the purpose</amend.in>.</text>
-          </para>
-          <para amend.level1="insert-majority">
-            <text>Section 81(4)(c): omit <amend.in quote="1">Divulging or communicating any matter or thing to the Director of the Serious Fraud Office, or producing in any Court any book or document, that the Commissioner considers desirable for the purposes of any investigation or prosecution in relation to any suspected inland revenue offence,</amend.in> and substitute <amend.in quote="1">divulging or communicating any matter or thing to the Commissioner of Police, or producing in any Court any book or document, that the Commissioner of Inland Revenue considers desirable for the purposes of any investigation or prosecution in relation to any suspected inland revenue offence,</amend.in>.</text>
           </para>
         </schedule.amendments.group2>
       </schedule.amendments>
     </schedule>
   </schedule.group>
-  <end id="DLM1497904">
-    <leg-history id="DLM1497905">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2008-04-24</date>
-        <description>Introduction (Bill 206–1)</description>
-      </history-item>
-      <history-item>
-        <date>2008-05-20</date>
-        <description>First reading and referral to Law and Order Committee</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
-<!--End of file, do NOT remove.-->
