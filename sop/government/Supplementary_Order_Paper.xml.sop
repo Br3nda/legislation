@@ -1,47 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1193400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0003" stage="published" year="2008" raised.by="Government" sop.no="181">
-  <date>Tuesday, 11 March 2008</date>
-  <billref>Misuse of Drugs (Classification of BZP) Amendment Bill</billref>
-  <body id="DLM1193401">
+<sop id="DLM1367900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="204">
+  <date>Tuesday, 17 June 2008</date>
+  <billref>Summary Offences (Tagging and Graffiti Vandalism) Amendment Bill</billref>
+  <body id="DLM1367901">
     <heading>Proposed amendment</heading>
-    <motion>Dr Paul Hutchison, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM1193402">
-      <clause.ref>Part 1</clause.ref>
+    <motion>Hon Annette King, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM1367902">
+      <clause.ref>New Part 3</clause.ref>
       <sop.para>
-        <text>To insert after clause 5 the following new clause (after line 14 on page 2):</text>
+        <text>To add the following Part after line 31 on page 5:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1193403" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">5A</label>
-            <heading>Review of classification</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>The operation of the clauses added to Part 1 of Schedule 3 by Schedule 1 of this Act and the items inserted into clause 1 of Schedule 5 by Schedule 2 of this Act must be reviewed within 2 years and 6 months from the date of enactment of this Act.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>This must be undertaken by the Expert Advisory Committee on Drugs established under section 5AA of the Misuse of Drugs Act 1975.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>A report on the effects of the reclassification of BZP and related substances must be presented to the House of Representatives by the Expert Advisory Committee on Drugs within 1 month of the end of the period in <emphasis style="bold">subsection (1)</emphasis>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
+          <part id="DLM1367903" in.amend="false" irdnumbering="no" raised.by="Government" sop.no="204" toc="yes" year="2008">
+            <label auto.number="no" denominator="yes"> 3</label>
+            <heading>Repeal</heading>
+            <prov id="DLM1367904" irdnumbering="no" skeleton="no" toc="yes">
+              <label auto.number="no" denominator="yes">7</label>
+              <heading>Manukau City Council (Control of Graffiti) Act 2008 repealed</heading>
+              <prov.body>
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes"/>
+                  <para>
+                    <text>The Manukau City Council (Control of Graffiti) Act 2008 (2008 No 2 (L)) is repealed.</text>
+                  </para>
+                </subprov>
+              </prov.body>
+            </prov>
+          </part>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1193404" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2008" raised.by="Government" sop.no="181">
+  <explnote id="DLM1367905" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="204">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Misuse of Drugs (Classification of BZP) Amendment Bill. The amendment requires that the effects of the reclassification of BZP be monitored by the Expert Advisory Committee on Drugs and that this Committee present a report to the House of Representatives within a specified time. There has been great concern from submitters and the select committee report, as to what is the effect of the reclassification (including social effects). There is a widespread view that action against illicit drug use should be on an evidence base.</text>
+      <text>The amendment set out in this Supplementary Order Paper adds to the Bill a new <emphasis style="italic">Part 3</emphasis>. The new Part contains a single provision repealing the Manukau City Council (Control of Graffiti) Act 2008, which applies only within the district of the City of Manukau. That Act contains a number of provisions whose effect is similar to provisions in the Bill, which will apply throughout New Zealand.</text>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
