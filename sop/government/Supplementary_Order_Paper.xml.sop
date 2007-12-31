@@ -1,73 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1570008" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="229">
-  <date>Tuesday, 2 September 2008</date>
-  <billref>Employment Relations (Breaks and Infant Feeding) Amendment Bill</billref>
-  <body id="DLM1570009">
+<sop id="DLM1399600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="209">
+  <date>Tuesday, 1 July 2008</date>
+  <billref>Land Transport Management Amendment Bill</billref>
+  <body id="DLM1399601">
     <heading>Proposed amendments</heading>
-    <motion>Hon Trevor Mallard, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1570010">
-      <clause.ref>Clause 1</clause.ref>
-      <sop.para>
-        <text>To omit <amend.in quote="1">and Infant Feeding</amend.in> (lines 3 and 4 on page 2) and substitute <amend.in quote="1">, Infant Feeding, and Other Matters</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1570011">
+    <motion>Hon Annette King, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1399602">
       <clause.ref>Clause 2</clause.ref>
       <sop.para>
-        <text>To omit lines 6 and 7 on page 2 and substitute the following:</text>
+        <text>To omit this clause (lines 5 to 9 on page 8) and substitute the following clause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
+          <prov id="DLM1399603" irdnumbering="no" skeleton="no" toc="yes">
             <label auto.number="no" denominator="yes">2</label>
+            <heading>Commencement</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>This Act comes into force on <changeable>1 August 2008</changeable>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399604">
+      <clause.ref>Clause 5: new section 4</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><changeable><citation jurisdiction="nz">99(1)(f)</citation></changeable></amend.in> (line 7 on page 9) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">99(1)(g)</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399605">
+      <clause.ref>Clause 6</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (3)</emphasis>: new definition of <def-term id="DLM1399606">regional land transport strategy</def-term>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 74</citation></changeable></amend.in> (line 8 on page 10) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">Part 3</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399607">
+      <clause.ref>Clause 11: new section 10(2)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (d)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">(c)</citation></changeable>.</amend.in> (line 37 on page 18) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">(c)</citation></changeable>:</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following paragraph after <emphasis style="italic">paragraph (d)</emphasis> (after line 37 on page 18) :</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" increment="1" quote="1">e</label>
             <para>
-              <text>However, <changeable><citation jurisdiction="nz">sections 5 and 6</citation></changeable> come into force on 1 April 2009.</text>
+              <text>any other public money provided to meet expenses or capital expenditure, incurred or to be incurred in accordance with an appropriation or other authority by or under an Act in respect of approved activities or combinations of activities of a type described in <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable>.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399608">
+      <clause.ref>Clause 13: new section 16</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1)(d) and (e)</emphasis>: to omit these paragraphs (lines 33 to 38 on page 27 and lines 1 to 8 on page 28) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">d</label>
+            <para>
+              <text>an assessment of each activity or combination of activities, prepared in accordance with <changeable><citation jurisdiction="nz">subsection (4A)</citation></changeable> by the organisation that identified or proposed the activity or combination of activities under <changeable><citation jurisdiction="nz">paragraph (a) or (b)</citation></changeable>, to include—</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">i</label>
+                <para>
+                  <text>the objective or objectives to be achieved; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                <para>
+                  <text>an estimate of the total cost and the cost for each year; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">iii</label>
+                <para>
+                  <text>the expected duration; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">iv</label>
+                <para>
+                  <text>any proposed sources of funding other than the national land transport fund (including, but not limited to, tolls, regional fuel taxes, funding from approved organisations, and contributions from other parties); and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">v</label>
+                <para>
+                  <text>any other relevant information.</text>
+                </para>
+              </label-para>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following subsection after <emphasis style="italic">subsection (4)</emphasis> (after line 14 on page 29):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">4A</label>
+            <para>
+              <text>The assessment under <changeable><citation jurisdiction="nz">subsection (1)(d)</citation></changeable> must be in a form and contain the detail required by the regional transport committee, taking account of any prescription made by the Agency under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>.</text>
             </para>
           </subprov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM1570012">
-      <clause.ref>Clause 4</clause.ref>
+    <sop.amend id="DLM1399609">
+      <clause.ref>Clause 13: new section 16A</clause.ref>
       <sop.para>
-        <text>To omit this clause (lines 12 to 20 on page 2) and substitute the following clause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1570013" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">4</label>
-            <heading>Purpose</heading>
+        <text><emphasis style="italic">Subsection (1)(a)(iii)</emphasis>: to omit <amend.in quote="1">include</amend.in> (line 37 on page 29) and substitute <amend.in quote="1">see included</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1)(c) to (e)</emphasis>: to omit these paragraphs (lines 5 to 19 on page 30) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">c</label>
+            <para>
+              <text>an assessment of each activity or combination of activities, prepared in accordance with <changeable><citation jurisdiction="nz">subsection (4A)</citation></changeable> by the organisation that proposed the activity or combination of activities under <changeable><citation jurisdiction="nz">paragraph (a)</citation></changeable>, to include—</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">i</label>
+                <para>
+                  <text>the objective or objectives to be achieved; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                <para>
+                  <text>an estimate of the total cost and the cost for each year; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">iii</label>
+                <para>
+                  <text>the expected duration; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">iv</label>
+                <para>
+                  <text>any proposed sources of funding other than the national land transport fund (including, but not limited to, tolls, regional fuel taxes, funding from approved organisations, and contributions from other parties); and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">v</label>
+                <para>
+                  <text>any other relevant information.</text>
+                </para>
+              </label-para>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following paragraph after <emphasis style="italic">subsection (3)(b)</emphasis> (after line 34 on page 30):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">ba</label>
+            <para>
+              <text>a list of each activity or combination of activities that have been approved under <changeable><citation jurisdiction="nz">section 20</citation></changeable> but are not yet completed; and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (3)(i)</emphasis>: to omit this paragraph (lines 18 to 20 on page 31) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">i</label>
+            <para>
+              <text>a summary of the policy relating to significance adopted by ARTA under <changeable><citation jurisdiction="nz">section 103</citation></changeable>; and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following subsection after <emphasis style="italic">subsection (4)</emphasis> (after line 26 on page 31):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">4A</label>
+            <para>
+              <text>The assessment under <changeable><citation jurisdiction="nz">subsection (1)(c)</citation></changeable> must be in a form and contain the detail required by ARTA, taking account of any prescription made by the Agency under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399610">
+      <clause.ref>Clause 13: new section 18</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (3)</emphasis>: to omit this subsection (lines 7 to 15 on page 33) and substitute the following subsection:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">3</label>
+            <para>
+              <text>When consulting under <changeable><citation jurisdiction="nz">section 17</citation></changeable> and this section with respect to its regional land transport programme, ARTA need not consult any organisation or person referred to in <changeable><citation jurisdiction="nz">section 17</citation></changeable> about any activity or combination of activities in its regional land transport programme if an Auckland local authority has already consulted that organisation or person about the activity or combination of activities in the course of preparing that local authority’s current long-term council community plan or annual plan in accordance with the Local Government Act 2002.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399611">
+      <clause.ref>Clause 13: new section 18A</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Heading to new section 18A</emphasis>: to insert after <quote.in quote="1"><emphasis style="bold">programmes</emphasis></quote.in> (line 17 on page 33) <amend.in quote="1"><emphasis style="bold">prepared by regional transport committees</emphasis></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1A)</emphasis>: to omit this subsection (lines 23 to 29 on page 33) and substitute the following subsection:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">1A</label>
+            <para>
+              <text>If a regional transport committee decides not to include in its regional land transport programme an activity or combination of activities proposed by an approved organisation or the Agency, the regional transport committee must, at the same time as it lodges the programme with the regional council under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, give the approved organisation or the Agency (as the case may require) written advice of the decision and the reasons for the decision.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (4A)(a)</emphasis>: to insert after <quote.in quote="1">programme</quote.in> in the second place where it appears (line 25 on page 34) <amend.in quote="1">and forward it to the Agency</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following subsection after <emphasis style="italic">subsection (4B)</emphasis> (after line 36 on page 34):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">4C</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Section 18C</citation></changeable> applies, with the necessary modifications, to any programme or amended programme and statement of reasons forwarded under <changeable><citation jurisdiction="nz">subsection (4A)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (5)</emphasis>: to omit this subsection (lines 5 to 7 on page 35).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399612">
+      <clause.ref>Clause 13: new section 18AA</clause.ref>
+      <sop.para>
+        <text>To insert the following section after <emphasis style="italic">new section 18A</emphasis> (after line 7 on page 35):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <prov id="DLM1399613" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes" quote="1">18AA</label>
+            <heading>ARTA must give Agency reasons for not including in its regional land transport programme activities or combinations of activities proposed by Agency</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="no"/>
+                <label auto.number="yes" denominator="yes"/>
                 <para>
-                  <text>The purpose of this Act is—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>to insert new <changeable><citation jurisdiction="nz">Parts 6C and 6D</citation></changeable> into the principal Act to—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">i</label>
-                        <para>
-                          <text>require facilities and breaks to be provided, so far as is reasonable and practicable in the circumstances, for employees who wish to breastfeed in the workplace or during work periods; and</text>
-                        </para>
-                      </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">ii</label>
-                        <para>
-                          <text>require employees to be provided with rest breaks and meal breaks; and</text>
-                        </para>
-                      </label-para>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>to make it a ground for a personal grievance for an employee's employment to be adversely affected because he or she is a member of a KiwiSaver scheme or a complying superannuation fund.</text>
-                    </para>
-                  </label-para>
+                  <text>When forwarding its regional land transport programme to the Agency, ARTA must give the Agency written reasons for any decision not to include in its regional land transport programme an activity or combination of activities proposed by the Agency for inclusion in the programme.</text>
                 </para>
               </subprov>
             </prov.body>
@@ -75,35 +257,754 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM1570014">
-      <clause.ref>New clause 4A</clause.ref>
+    <sop.amend id="DLM1399614">
+      <clause.ref>Clause 13: new section 18B</clause.ref>
       <sop.para>
-        <text>To insert the following clause after <emphasis style="italic">clause 4</emphasis> (after line 20 on page 2):</text>
+        <text><emphasis style="italic">Subsections (2) and (3)</emphasis>: to omit these subsections (lines 28 to 33 on page 35) and substitute the following subsections:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">2</label>
+            <para>
+              <text>A variation may be prepared by a regional transport committee—</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">a</label>
+                <para>
+                  <text>at the request of an approved organisation or the Agency; or</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">b</label>
+                <para>
+                  <text>on the regional transport committee’s own motion.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">3</label>
+            <para>
+              <text>A variation may be prepared by ARTA—</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">a</label>
+                <para>
+                  <text>at the request of the Agency; or</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">b</label>
+                <para>
+                  <text>on ARTA’s own motion.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">3A</label>
+            <para>
+              <text>The regional transport committee or ARTA must consider any variation request promptly.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399615">
+      <clause.ref>Clause 13: new section 18BA(2)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">wishes</amend.in> (line 24 on page 36) and substitute <amend.in quote="1">has good reason</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399616">
+      <clause.ref>Clause 14: new section 19(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">other activities to be delivered by the Agency, and research, education, and training activities,</amend.in> (lines 29 to 31 on page 41) and substitute <amend.in quote="1">and research, education, training, and other activities that the Agency is responsible for delivering,</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399617">
+      <clause.ref>Clause 14: new section 19C(h)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">2004</quote.in> (line 29 on page 44) <amend.in quote="1">or any other Act</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399618">
+      <clause.ref>Clause 14: new section 19E(2)</clause.ref>
+      <sop.para>
+        <text>To omit this subsection (lines 22 to 25 on page 45).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399619">
+      <clause.ref>Clause 15: new section 20</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (2)(a)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">subsection (3)</citation></changeable></amend.in> (line 5 on page 48) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">subsection (3A)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following subsection after <emphasis style="italic">subsection (3)</emphasis> (after line 33 on page 48):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">3A</label>
+            <para>
+              <text>Despite <changeable><citation jurisdiction="nz">subsections (2) and (3)</citation></changeable>, the Agency may approve for payment under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> any activity or combination of activities that, in the opinion of the Agency,—</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">a</label>
+                <para>
+                  <text>are in the urgent interests of public safety; or</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">b</label>
+                <para>
+                  <text>are necessary to effect immediate or temporary repair of damage caused by a sudden and unexpected event.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399620">
+      <clause.ref>Clause 15: new section 20E</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (5)</emphasis>: to omit <amend.in quote="1">is subject to</amend.in> (line 29 on page 51) and substitute <amend.in quote="1">may be requested under</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399621">
+      <clause.ref>New clause 15A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 15</emphasis> (after line 32 on page 52):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1570015" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">4A</label>
-            <heading>Application</heading>
+          <prov id="DLM1399622" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">15A</label>
+            <heading>Section 21 repealed</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>Section 21 is repealed.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399623">
+      <clause.ref>New clause 17A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 17</emphasis> (after line 13 on page 53):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1399624" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">17A</label>
+            <heading>Approval of public organisations</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>Section 23(1)(a) is amended by omitting <amend.in quote="1">section 10(2)(e)</amend.in> and substituting <amend.in quote="1"><changeable><citation jurisdiction="nz">section 10(3)(f)</citation></changeable></amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399625">
+      <clause.ref>Clause 19</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to omit this subclause (lines 12 to 15 on page 55) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>Section 25 is amended by repealing subsection (4) and substituting the following subsection:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">4</label>
+                  <para>
+                    <text>It is a condition of every procurement procedure that the Agency or an approved organisation must procure outputs from a provider other than the Agency or that organisation (as the case may require), or its employees.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399626">
+      <clause.ref>Clause 20</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (1AA)</emphasis> (after line 20 on page 55):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1AAA</label>
+            <para>
+              <text>Section 26(a) is amended by omitting <amend.in quote="1">activity class</amend.in> and substituting <amend.in quote="1">combination of activities</amend.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399627">
+      <clause.ref>Clause 21: heading to new section 26A</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><emphasis style="bold">variation of</emphasis></amend.in> (line 33 of page 55) and substitute <amend.in quote="1"><emphasis style="bold">approval of certain</emphasis></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399628">
+      <clause.ref>Clause 23B</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (3)</emphasis> (after line 23 on page 56):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">3A</label>
+            <para>
+              <text>Section 36(3) is amended by omitting <amend.in quote="1">Authority</amend.in> and substituting <amend.in quote="1">Agency</amend.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399629">
+      <clause.ref>Clause 31: new section 65A(1)(c)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">are not reasonably likely to</amend.in> (line 11 on page 59) and substitute <amend.in quote="1">will not reasonably</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399630">
+      <clause.ref>Clause 31: new section 65B(b)(iii)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">are not reasonably likely to</amend.in> (line 9 on page 60) and substitute <amend.in quote="1">will not reasonably</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399631">
+      <clause.ref>Clause 31: new section 65C</clause.ref>
+      <sop.para>
+        <text>To insert before the definition of <def-term id="DLM1399632">diesel</def-term> the following definition (before line 15 on page 60):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <def-para id="DLM1399633" quote="1">
+            <para quote="1">
+              <text><def-term id="DLM1399634">capital project</def-term> includes a group of capital projects</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+        <follow-text space-before="no">.</follow-text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New definition of <def-term id="DLM1399635">project agency</def-term></emphasis>: to omit <amend.in quote="1">Agency</amend.in> (line 19 on page 61) and substitute <amend.in quote="1">Agency:</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New definition of <def-term id="DLM1399636">project agency</def-term></emphasis>: to add the following paragraph (after line 19 on page 61):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">d</label>
+            <para>
+              <text>in the case of Auckland, and despite sections 9(1)(d) and 32(1)(a) of the Local Government (Auckland) Amendment Act 2004, includes the Auckland Regional Council</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+        <follow-text space-before="no">.</follow-text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399637">
+      <clause.ref>Clause 31: new section 65D</clause.ref>
+      <sop.para>
+        <text>To add the following subsection (after line 11 on page 62):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">4</label>
+            <para>
+              <text>To avoid doubt, all of the district of the Franklin District Council is—</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">a</label>
+                <para>
+                  <text>included in the Auckland region; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">b</label>
+                <para>
+                  <text>excluded from the Waikato region.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399638">
+      <clause.ref>Clause 31: new section 65E(1)(b)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">likely to be</amend.in> (line 21 on page 62).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399639">
+      <clause.ref>Clause 31: new section 65E(3)(b)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">likely to be</amend.in> (line 35 on page 62).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399640">
+      <clause.ref>Clause 31: new section 65G</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (4)</emphasis>: to omit this subsection (lines 3 to 5 on page 65) and substitute the following subsection:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">4</label>
+            <para>
+              <text>Despite <changeable><citation jurisdiction="nz">subsection (1)(d)</citation></changeable>,—</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">a</label>
+                <para>
+                  <text>in all cases no more than a maximum of 5 cents per litre of fuel may be used for carriageways for general traffic; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">b</label>
+                <para>
+                  <text>the total rate of any regional fuel tax scheme may not exceed—</text>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">i</label>
+                    <para>
+                      <text>2 cents per litre of fuel in <changeable>2009</changeable>; and</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">ii</label>
+                    <para>
+                      <text>5 cents per litre of fuel in <changeable>2010</changeable>.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399641">
+      <clause.ref>Clause 31: new section 65J(c)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">is not reasonably likely to</amend.in> (line 11 on page 67) and substitute <amend.in quote="1">will not reasonably</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399642">
+      <clause.ref>Clause 31: new section 65J</clause.ref>
+      <sop.para>
+        <text>To insert the following paragraphs after <emphasis style="italic">paragraph (c)</emphasis> (after line 13 on page 67):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" increment="1" quote="1">ca</label>
+            <para>
+              <text>forecast regional fuel tax revenue and regional fuel tax expenditure have been aligned; and</text>
+            </para>
+          </label-para>
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" increment="1" quote="1">cb</label>
+            <para>
+              <text>adequate consideration has been given to phasing the proposed regional fuel tax to mitigate the financial impact of the proposed regional fuel tax scheme on people resident in the region; and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+        <follow-text space-before="no">.</follow-text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399643">
+      <clause.ref>Clause 31: new section 65N(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">, with a maximum contribution of 5 cents per litre of fuel,</amend.in> (lines 18 and 19 on page 69).</text>
+      </sop.para>
+      <sop.para>
+        <text>To insert after <amend.in quote="1">priorities for the Auckland region</amend.in> (lines 20 and 21 on page 69) <amend.in quote="1">, provided that the responsible Ministers are satisfied that the projects are consistent with the Auckland regional land transport strategy</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399644">
+      <clause.ref>Clause 31: new section 65Q(1)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (b)</emphasis>: to omit this paragraph (lines 28 and 29 on page 71) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" increment="1" quote="1">b</label>
+            <para>
+              <text>the impact of the proposed regional fuel tax scheme on the national land transport programme.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to omit this paragraph (lines 30 to 32 on page 71) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">c</label>
+            <para>
+              <text>in respect of a proposed scheme amended under <changeable><citation jurisdiction="nz">section 65N(1)</citation></changeable>, whether the proposed scheme will—</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">i</label>
+                <para>
+                  <text>contribute to an affordable, integrated, safe, responsive, and sustainable land transport system; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                <para>
+                  <text>result in a net benefit to the Auckland region.</text>
+                </para>
+              </label-para>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399645">
+      <clause.ref>Clause 31: new section 65R</clause.ref>
+      <sop.para>
+        <text>To add the following subsection (after line 6 on page 73):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">3</label>
+            <para>
+              <text>If the regional transport committee decides to vary or replace a scheme in accordance with <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>, the allocation of regional fuel tax revenue to a capital project included in the scheme must not be reduced without the prior agreement of the relevant project agency.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399646">
+      <clause.ref>Clause 31: new section 65V(2)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">under</quote.in> (line 10 on page 76) <quote.in quote="1">Part 4 of</quote.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399647">
+      <clause.ref>Clause 32: new section 69(2)(a)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 9 to 16 on page 84) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">a</label>
+            <para>
+              <text>must include the following matters:</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">i</label>
+                <para>
+                  <text>the Crown’s outcomes and objectives in relation to land transport in New Zealand over a period of at least 30 financial years; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                <para>
+                  <text>the measurable targets to achieve those outcomes and objectives; and</text>
+                </para>
+              </label-para>
+            </para>
+          </label-para>
+        </instrument.amend>
+        <follow-text space-before="no">.</follow-text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399648">
+      <clause.ref>Clause 32: new section 71(d)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 19 to 21 on page 85).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399649">
+      <clause.ref>Clause 32: new section 74(4)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><changeable><citation jurisdiction="nz">Schedule 7</citation></changeable></amend.in> (line 33 on page 86) and substitute <amend.in quote="1">Despite <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable>, <changeable><citation jurisdiction="nz">Schedule 7</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399650">
+      <clause.ref>Clause 32: new section 77(n)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 16 to 18 on page 89) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">n</label>
+            <para>
+              <text>a summary of the policy relating to significance adopted by the regional transport committee under <changeable><citation jurisdiction="nz">section 103</citation></changeable>.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399651">
+      <clause.ref>Clause 32: new section 91A(2)(d)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">decline</quote.in> (line 25 on page 99) <amend.in quote="1">funding for</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399652">
+      <clause.ref>Clause 32: new section 99(1)(e)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 24 and 25 on page 106).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399653">
+      <clause.ref>Clause 32: new section 99(1)(g)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">agreement</amend.in> (line 32 on page 106) and substitute <amend.in quote="1">statement of intent</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399654">
+      <clause.ref>Clause 32: new section 102</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1)</emphasis>: to omit <quote.in quote="1">Every</quote.in> (line 6 on page 111) and substitute <amend.in quote="1">As soon as practicable after each triennial election, every</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (6)</emphasis>: to omit this subsection (lines 24 to 26 on page 112).</text>
+      </sop.para>
+      <sop.para>
+        <text>To add the following subsection (after line 19 on page 113):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">14</label>
+            <para>
+              <text>Nothing in this section or in <changeable><citation jurisdiction="nz">sections 103 and 104</citation></changeable> applies to the Auckland Regional Council or to Auckland's regional transport committee.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399655">
+      <clause.ref>Clause 32: new section 103</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1)</emphasis>: to omit <amend.in quote="1">(except the committee for the Auckland region)</amend.in> (lines 21 and 22 on page 113).</text>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following paragraph after <emphasis style="italic">subsection (1)(c)</emphasis> (after line 33 on page 113):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">d</label>
+            <para>
+              <text>to provide the regional council with any advice and assistance the regional council may request in relation to its transport responsibilities.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (2)</emphasis>: to omit this subsection (lines 1 to 6 on page 114) and substitute the following subsection:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">2</label>
+            <para>
+              <text>Each regional transport committee and ARTA must adopt a policy that determines significance in respect of variations made to regional land transport programmes and regional land transport strategies under <changeable><citation jurisdiction="nz">sections 18B and 81</citation></changeable> (as the case may require).</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399656">
+      <clause.ref>Clause 38: new section 79A(2)</clause.ref>
+      <sop.para>
+        <text>To omit the definition of <def-term id="DLM1399657">motor spirits</def-term> (lines 31 to 33 on page 117) and substitute the following definition:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <def-para id="DLM1399658" quote="1">
+            <para quote="1">
+              <text><def-term id="DLM1399659">motor spirits</def-term> means motor spirit and fuels containing motor spirit specified in Excise item numbers 99.75.05F, 99.75.23D, 99.75.29C, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E and Tariff items 2710.19.13, 2710.19.25, 2710.19.21, 2710.19.39, 2710.19.15, 2710.19.27, 2710.19.21, 2710.19.39, 2710.19.64, 2710.19.70, 2207.20.23, 2207.20.35, 3824.90.87, 3824.90.93, and 38.90.97 set out in <changeable><citation jurisdiction="nz">Schedule 3</citation></changeable>.</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399660">
+      <clause.ref>Schedule 1: new Schedule 7</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Clause 2(1)(a)</emphasis>: to omit <amend.in quote="1">Auckland's regional land transport strategy</amend.in> (lines 7 and 8 on page 121) and substitute <amend.in quote="1">a regional land transport strategy for the Auckland region</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 2(1)(b)</emphasis>: to omit <amend.in quote="1">approve</amend.in> (line 10 on page 121) and substitute <amend.in quote="1">after considering the strategy prepared by the regional transport committee, approve</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 5(1)(b)</emphasis>: to omit <amend.in quote="1">, taking into account any regional growth, economic, or land-use considerations</amend.in> (lines 6 to 8 on page 123).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 5(1)(d)</emphasis>: to omit <amend.in quote="1">growth, economic,</amend.in> (line 11 on page 123) and substitute <amend.in quote="1">economic</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 5(1)(g)</emphasis>: to omit this paragraph (lines 18 to 20 on page 123).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 5(1)(i)</emphasis>: to omit this paragraph (lines 24 to 26 on page 123) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">i</label>
+            <para>
+              <text>a statement that identifies any strategic option for which co-operation is required with other regions; and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+        <follow-text space-before="no">.</follow-text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 5(1)</emphasis>: to add <amend.in quote="1">; and</amend.in> and also to add the following paragraph (after line 36 on page 123):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">n</label>
+            <para>
+              <text>a summary of the policy relating to significance adopted by the regional transport committee in the Auckland region under <changeable><citation jurisdiction="nz">clause 11(5A)</citation></changeable>.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 5(2)</emphasis>: to add <amend.in quote="1">; and</amend.in> and also to add the following paragraph (after line 6 on page 124):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>include any regional passenger transport plan.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Heading to clause 11</emphasis>: to omit <amend.in quote="1"><emphasis style="bold">committees</emphasis></amend.in> (line 1 on page 129) and substitute <amend.in quote="1"><emphasis style="bold">committee</emphasis></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 11(5)</emphasis>: to omit this subclause (lines 26 to 32 on page 129) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">5</label>
+            <para>
+              <text>The functions of the regional transport committee in the Auckland region are to—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>prepare a regional land transport strategy for the Auckland region for approval by the Auckland Regional Council, and to prepare any variations to, and reports on, the strategy:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>carry out the responsibilities of the committee set out in <changeable><citation jurisdiction="nz">section 65E(3) and (4)</citation></changeable> in respect of the regional fuel tax scheme for the Auckland region.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 11</emphasis>: to insert the following subclause after <emphasis style="italic">subclause (5)</emphasis> (after line 32 on page 129):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">5A</label>
+            <para>
+              <text>The regional transport committee in the Auckland region must adopt a policy that determines significance in respect of variations made to regional land transport strategies under <changeable><citation jurisdiction="nz">clause 8</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399661">
+      <clause.ref>Schedule 2</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Clause 1(1)</emphasis>: to omit from the definition of <def-term id="DLM1399662">Authority</def-term><amend.in quote="1"><changeable>July</changeable></amend.in> (line 6 on page 133) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 1(1)</emphasis>: to omit from the definition of <def-term id="DLM1399663">land transport programme</def-term><amend.in quote="1"><changeable>July</changeable></amend.in> (line 19 on page 133) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 1(1)</emphasis>: to omit from the definition of <def-term id="DLM1399664">transferred employee</def-term><amend.in quote="1"><changeable>July</changeable></amend.in> (line 11 on page 134) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 1A(1)(a)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 31 on page 134) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 1A(1)(b)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 36 on page 134) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 1A(2)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 3 on page 135) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 1B</emphasis>: to omit this clause (lines 8 to 20 on page 135) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1399665" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">1B</label>
+            <heading>Crown may pay new Agency for certain liabilities incurred before 1 August 2008</heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">1</label>
                 <para>
-                  <text>The amendments made by <changeable><citation jurisdiction="nz">sections 5A and 5B</citation></changeable>, to the extent that they relate to terms and conditions in employment agreements,—</text>
+                  <text>This clause applies to all land transport revenue referred to in section 9(6) of the Land Transport Management Act 2003 (as in force immediately before <changeable>1 August 2008</changeable>) that has not been paid to the Authority before that date, in respect of the <changeable>2007/08</changeable> financial year.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Without limiting <changeable><citation jurisdiction="nz">clause 11(1)(d)</citation></changeable>, the Crown may, without further appropriation than this clause, pay to the new Agency an amount equal to the land transport revenue to which this clause applies, as if the <changeable>2007/08</changeable> financial year ended on <changeable>31 July 2008</changeable>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 2</emphasis>: to omit this clause (line 21 on page 135 to line 5 on page 136) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1324800" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">2</label>
+            <heading>Crown’s authority to pay for certain expenditure using land transport revenue</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>The Crown may use land transport revenue to pay to—</text>
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">a</label>
                     <para>
-                      <text>apply to employment agreements entered into on or after 2 September 2008; and</text>
+                      <text>the Secretary the following amount in each of the following financial years for the purposes of Waikato rail works:</text>
+                      <table align="left" fontsize="9" frame="none" id="DLM1324803" leading="9" pgwide="0">
+                        <tgroup align="left" cols="2">
+                          <colspec align="left" colname="2" colwidth="38.00mm"/>
+                          <colspec align="right" colname="3" colwidth="30.00mm"/>
+                          <tbody valign="top">
+                            <row>
+                              <entry align="left" colsep="0" rowsep="0" valign="top">
+                                <emphasis style="bold">Financial year</emphasis>
+                              </entry>
+                              <entry colsep="0" rowsep="0" valign="top">
+                                <emphasis style="bold">Amount ($)</emphasis>
+                              </entry>
+                            </row>
+                            <row>
+                              <entry align="left" colsep="0" rowsep="0" valign="top">2008/09</entry>
+                              <entry colsep="0" rowsep="0" valign="top">5,000,000</entry>
+                            </row>
+                            <row>
+                              <entry align="left" colsep="0" rowsep="0" valign="top">2009/10</entry>
+                              <entry colsep="0" rowsep="0" valign="top">5,000,000</entry>
+                            </row>
+                          </tbody>
+                        </tgroup>
+                      </table>
                     </para>
                   </label-para>
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">b</label>
                     <para>
-                      <text>do not apply to employment agreements entered into before 2 September 2008; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
-                    <para>
-                      <text>apply to variations of employment agreements entered into before 2 September 2008 if the variations were made on or after 2 September 2008.</text>
+                      <text>the Secretary to the Treasury the following amount in each of the following financial years for the purposes of upgrades and renewal of the below track Auckland rail infrastructure:</text>
+                      <table align="left" fontsize="9" frame="none" id="DLM1324804" leading="9" pgwide="0">
+                        <tgroup align="left" cols="2">
+                          <colspec align="left" colname="2" colwidth="38.00mm"/>
+                          <colspec align="right" colname="3" colwidth="30.00mm"/>
+                          <tbody valign="top">
+                            <row>
+                              <entry align="left" colsep="0" rowsep="0" valign="top">
+                                <emphasis style="bold">Financial year</emphasis>
+                              </entry>
+                              <entry colsep="0" rowsep="0" valign="top">
+                                <emphasis style="bold">Amount ($)</emphasis>
+                              </entry>
+                            </row>
+                            <row>
+                              <entry align="left" colsep="0" rowsep="0" valign="top">2008/09</entry>
+                              <entry colsep="0" rowsep="0" valign="top">155,000,000</entry>
+                            </row>
+                            <row>
+                              <entry align="left" colsep="0" rowsep="0" valign="top">2009/10</entry>
+                              <entry colsep="0" rowsep="0" valign="top">130,000,000</entry>
+                            </row>
+                          </tbody>
+                        </tgroup>
+                      </table>
                     </para>
                   </label-para>
                 </para>
@@ -111,249 +1012,752 @@
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">2</label>
                 <para>
-                  <text>The amendments made by <changeable><citation jurisdiction="nz">sections 5A and 5B</citation></changeable>, to the extent that they relate to other matters, apply—</text>
+                  <text>In respect of the <changeable>2008/09</changeable> and <changeable>2009/10</changeable> financial years, the amount referred to in <changeable><citation jurisdiction="nz">section 9(3)</citation></changeable> of the Land Transport Management Act 2003 is an amount equal to the land transport revenue for the relevant financial year less—</text>
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">a</label>
                     <para>
-                      <text>only to matters occurring on or after 2 September 2008; and</text>
+                      <text>any amounts that have been paid in respect of that year under <changeable><citation jurisdiction="nz">subclause (1)</citation></changeable>; and</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">b</label>
                     <para>
-                      <text>whether or not an employee's employment agreement was entered into before 2 September 2008.</text>
+                      <text>the amounts for that year that are referred to in <changeable><citation jurisdiction="nz">section 9(1) and (2)</citation></changeable> of the Land Transport Management Act 2003.</text>
                     </para>
                   </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>In each of the <changeable>2008/09</changeable> and <changeable>2009/10</changeable> financial years, the amounts paid under <changeable><citation jurisdiction="nz">subclause (1)</citation></changeable> must be deducted from the amount of land transport revenue that constitutes an inflow of the national land transport fund for the relevant financial year under <changeable><citation jurisdiction="nz">section 10(2)(a)</citation></changeable> of the Land Transport Management Act 2003.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>The Governor-General may, by Order in Council, reduce or increase any or all amounts or financial years specified in <changeable><citation jurisdiction="nz">subclause (1)</citation></changeable>, and this clause will apply or continue to apply (as the case may be), with the necessary modifications, in respect of any amended amount or financial year.</text>
                 </para>
               </subprov>
             </prov.body>
           </prov>
         </instrument.amend>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1570016">
-      <clause.ref>Clause 5: new section 69ZE</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Subsection (2)(a)</emphasis>: to omit <amend.in quote="1">rest period</amend.in> (line 24 on page 5) and substitute <amend.in quote="1">rest break</amend.in>.</text>
+        <text><emphasis style="italic">Clause 3(1)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 18 on page 136) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
       </sop.para>
       <sop.para>
-        <text><emphasis style="italic">Subsection (4)</emphasis>: to omit <amend.in quote="1">meal break</amend.in> (line 36 on page 5) and substitute <amend.in quote="1">meal breaks</amend.in>.</text>
+        <text><emphasis style="italic">Clause 3(1)(a)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 22 on page 136) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1570017">
-      <clause.ref>New clauses 5A and 5B</clause.ref>
       <sop.para>
-        <text>To insert the following clauses after <emphasis style="italic">clause 5</emphasis> (after line 25 on page 6):</text>
+        <text><emphasis style="italic">Clause 3(1)(b)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 26 on page 136) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 3(3)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 31 on page 136) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 4(1)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> in each place where it appears (lines 27 and 29 on page 137) and substitute in each case <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 4(2)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 32 on page 137) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 4(5)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 9 on page 138) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 5(1)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 10 on page 139) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 5(3)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 15 on page 139) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Heading to clause 7</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 9 on page 140) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 7</emphasis>: to omit <amend.in quote="1">section 20</amend.in> (lines 10 and 11 on page 140) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">sections 20 and 21</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 7</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 12 on page 140) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 8A(1)(c)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 30 on page 143) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 8A(2)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 20(2)(a) and (b)</citation></changeable></amend.in> (line 31 on page 143) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 20(2)(a), (b), (e), and (f)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 8B(2)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 20(2)(a) and (b)</citation></changeable></amend.in> (line 7 on page 144) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 20(2)(a), (b), (e), and (f)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 8C(1)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 15 on page 144) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 9</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 21 on page 144) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 9B(1)(a)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 9 on page 145) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 9D</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> in both places where it appears (line 35 on page 145 and line 2 on page 146) and substitute in each case <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 10B(2)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 87(1)(b) and (c)</citation></changeable></amend.in> (line 24 on page 147) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 87(1)(c) and (2)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 11(1)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 35 on page 147) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 11(1)(ea)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 15 on page 148) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 11(2)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 6 on page 149) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 12(1)(a)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 3 on page 150) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 12(2)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 12 on page 150) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 13(1)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 32 on page 150) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 13(2)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 1 on page 151) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 15</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 26 on page 151) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 16(1)</emphasis>: to omit <amend.in quote="1"><changeable>July</changeable></amend.in> (line 22 on page 152) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New clause 17A</emphasis>: to insert the following clause after <emphasis style="italic">clause 17</emphasis> (after line 14 on page 153):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1570018" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">5A</label>
-            <heading>Personal grievance</heading>
+          <prov id="DLM1399666" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">17A</label>
+            <heading>Responsibility for reports and accounts of former agencies from 1 July 2008</heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">1</label>
                 <para>
-                  <text>Section 103(1)(g) is amended by adding <amend.in quote="1">; or</amend.in>.</text>
+                  <text>The new Agency must include in its initial annual report the information in respect of each former agency for the period commencing <changeable>1 July 2008</changeable> and ending on <changeable>31 July 2008</changeable> that each former agency would have had to include in the former agency's annual report under section 151 of the Crown Entities Act 2004 had it continued in existence.</text>
                 </para>
               </subprov>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">2</label>
                 <para>
-                  <text>Section 103(1) is amended by adding the following paragraph:</text>
-                  <amend increment="1" quote="1">
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">h</label>
-                      <para>
-                        <text>that the employee's employment has been adversely affected because the employee is a member of a KiwiSaver scheme within the meaning of section 4 of the KiwiSaver Act 2006 or a complying superannuation fund within the meaning of section YA 1 of the Income Tax Act 2007.</text>
-                      </para>
-                    </label-para>
-                  </amend>
+                  <text>To avoid doubt, the new Agency may, if it so decides, present the information referred to in <changeable><citation jurisdiction="nz">subclause (1) </citation></changeable> in a combined form for the whole of the financial year ended <changeable>30 June 2009</changeable>.</text>
                 </para>
               </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM1570019" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">5B</label>
-            <heading>New section 110A inserted</heading>
-            <prov.body>
               <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
+                <label auto.number="no" denominator="yes">3</label>
                 <para>
-                  <text>The following section is inserted after section 110:</text>
-                  <amend quote="1">
-                    <prov id="DLM1570020" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                      <label auto.number="no" denominator="yes" quote="1">110A</label>
-                      <heading>Membership of KiwiSaver scheme or complying superannuation fund</heading>
-                      <prov.body>
-                        <subprov quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">1</label>
-                          <para>
-                            <text>For the purposes of section 103(1)<changeable><citation jurisdiction="nz">(h) </citation></changeable>, an employee's employment is adversely affected if—</text>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">a</label>
-                              <para>
-                                <text>the employee is a member of a KiwiSaver scheme within the meaning of section 4 of the KiwiSaver Act 2006 or a complying superannuation fund within the meaning of section YA 1 of the Income Tax Act 2007; and</text>
-                              </para>
-                            </label-para>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">b</label>
-                              <para>
-                                <text>the employee's employer refuses or omits to offer or afford to that employee the same terms of employment, conditions of work, fringe benefits, or opportunities for training, promotion, and transfer as are made available for other employees of the same or substantially similar qualifications, experience, or skills (<def-term id="DLM1570021">comparable employees</def-term>) employed in the same or substantially similar circumstances; and</text>
-                              </para>
-                            </label-para>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">c</label>
-                              <para>
-                                <text>the reason (wholly or in part) for the employer doing any of those things is that the employee is a member of a KiwiSaver scheme or a complying superannuation fund.</text>
-                              </para>
-                            </label-para>
-                          </para>
-                        </subprov>
-                        <subprov quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">2</label>
-                          <para>
-                            <text>Without limiting <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, an employee's employment is adversely affected if—</text>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">a</label>
-                              <para>
-                                <text>the employee's salary or wages are less than the salary or wages of other comparable employees employed by the employee's employer; and</text>
-                              </para>
-                            </label-para>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">b</label>
-                              <para>
-                                <text>the reason (wholly or in part) for the situation described in <changeable><citation jurisdiction="nz">paragraph (a)</citation></changeable> is that the employer has taken into account the compulsory contributions (within the meaning of section 101B(6) of the KiwiSaver Act 2006) the employer is required to make in relation to the employee.</text>
-                              </para>
-                            </label-para>
-                          </para>
-                        </subprov>
-                        <subprov quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">3</label>
-                          <para>
-                            <text>To avoid doubt, for the purposes of <changeable><citation jurisdiction="nz">subsection (2)(a)</citation></changeable>, an employee's salary or wages—</text>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">a</label>
-                              <para>
-                                <text>do not include any amount that recognises (wholly or in part) compulsory contributions (within the meaning of section 101B(6) of the KiwiSaver Act 2006) made by the employer in relation to the employee; but</text>
-                              </para>
-                            </label-para>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">b</label>
-                              <para>
-                                <text>do include deductions made by an employer on behalf of the employee, being the employee's contributions to a KiwiSaver scheme or a complying superannuation fund.</text>
-                              </para>
-                            </label-para>
-                          </para>
-                        </subprov>
-                      </prov.body>
-                    </prov>
-                  </amend>
+                  <text>For the purposes of <changeable><citation jurisdiction="nz">subclause (1)</citation></changeable>, section 45J(1) of the Public Finance Act 1989 does not apply to each former agency in respect of the period commencing <changeable>1 July 2008</changeable> and ending on <changeable>31 July 2008</changeable>.</text>
                 </para>
               </subprov>
             </prov.body>
           </prov>
         </instrument.amend>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1570022">
-      <clause.ref>New clause 7</clause.ref>
       <sop.para>
-        <text>To insert the following clause after <emphasis style="italic">clause 6</emphasis> (after line 28 on page 6):</text>
+        <text><emphasis style="italic">Clause 19</emphasis>: to omit <amend.in quote="1"><emphasis style="bold">July</emphasis></amend.in> (line 26 on page 153) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 20</emphasis>: to omit <amend.in quote="1"><emphasis style="bold">July</emphasis></amend.in> (line 31 on page 153) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 22(1)</emphasis>: to omit <amend.in quote="1"><emphasis style="bold">July</emphasis></amend.in> (line 17 on page 154) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 23(1)</emphasis>: to omit <amend.in quote="1"><emphasis style="bold">July</emphasis></amend.in> (line 27 on page 155) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 23(2)</emphasis>: to omit <amend.in quote="1"><emphasis style="bold">July</emphasis></amend.in> (line 36 on page 155) and substitute <amend.in quote="1"><changeable>August</changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399667">
+      <clause.ref>Part 1 of Schedule 3: Local Government Act 1974</clause.ref>
+      <sop.para>
+        <text>Item relating to the definition of <def-term id="DLM1399668">road</def-term>: to omit this item (lines 10 and 11 on page 175) and substitute the following item:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1570023" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">7</label>
-            <heading>Consequential amendment to KiwiSaver Act 2006</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>Section 101B of the KiwiSaver Act 2006 is amended by repealing subsection (5) and substituting the following subsection:</text>
-                  <amend quote="1">
-                    <subprov skeleton="no">
-                      <label auto.number="yes" denominator="yes" quote="1">5</label>
-                      <para>
-                        <text>For the avoidance of doubt,—</text>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">a</label>
-                          <para>
-                            <text>the duty of good faith described in section 4 of the Employment Relations Act 2000 always applies when parties to an employment relationship bargain for terms and conditions relating to compulsory contributions and associated matters; and</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">b</label>
-                          <para>
-                            <text><changeable><citation jurisdiction="nz">sections 103(1)(h) and 110A</citation></changeable> of the Employment Relations Act 2000 apply in relation to the contractual terms and conditions of the parties to an employment relationship, subject to <changeable><citation jurisdiction="nz">section 4A </citation></changeable> of the Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act <changeable>2008 </changeable>.</text>
-                          </para>
-                        </label-para>
-                      </para>
-                    </subprov>
-                  </amend>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
+          <para>
+            <text>Definition of <def-term id="DLM1399669">road</def-term> in section 315(1): to insert <amend.in quote="1">or the Government Roading Powers Act 1989</amend.in> after <quote.in quote="1">within the meaning of that Act</quote.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To omit <amend.in quote="1">Section 684(41A)</amend.in> (line 3 on page 176) and substitute <amend.in quote="1">Section 684(1)(41A)</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399670">
+      <clause.ref>Part 1 of Schedule 3</clause.ref>
+      <sop.para>
+        <text>To insert the following item after the item relating to the Local Government Act 1974 (after line 5 on page 176):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <schedule.amendments.group2 id="DLM1399671" toc="yes">
+            <heading>Local Government Amendment Act 1992 (1992 No 42)</heading>
+            <para>
+              <text>Section 89(2): to omit <amend.in quote="1">Transit New Zealand shall</amend.in> and substitute <amend.in quote="1">New Zealand Transport Agency must</amend.in>.</text>
+            </para>
+            <para>
+              <text>Section 89(2): to omit <amend.in quote="1">Transit New Zealand Act 1989</amend.in> and substitute <amend.in quote="1">Government Roading Powers Act 1989</amend.in>. </text>
+            </para>
+            <para>
+              <text>Section 89(3): to omit <amend.in quote="1">Transit New Zealand</amend.in> and substitute <amend.in quote="1">New Zealand Transport Agency</amend.in>.</text>
+            </para>
+            <para>
+              <text>Section 89(3)(a): to omit <amend.in quote="1">Transit New Zealand</amend.in> in each place where it appears and substitute <amend.in quote="1">New Zealand Transport Agency</amend.in> in each case.</text>
+            </para>
+            <para>
+              <text>Section 89(8): to omit <amend.in quote="1">Transit New Zealand</amend.in> and substitute <amend.in quote="1">New Zealand Transport Agency</amend.in>.</text>
+            </para>
+          </schedule.amendments.group2>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following item after the item relating to the Motor Vehicle Sales Act 2003 (after line 7 on page 177):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <schedule.amendments.group2 id="DLM1399672" toc="yes">
+            <heading>Ngai Tahu Claims Settlement Act 1998 (1998 No 97)</heading>
+            <para>
+              <text>Paragraph (c)(vi) of the definition of <def-term id="DLM1399673">relevant land</def-term> in section 48(1): omit <amend.in quote="1">Transit New Zealand</amend.in> and substitute <amend.in quote="1">New Zealand Transport Agency</amend.in>.</text>
+            </para>
+            <para>
+              <text>Section 396(5): omit <amend.in quote="1">Transit New Zealand</amend.in> and substitute <amend.in quote="1">New Zealand Transport Agency</amend.in>.</text>
+            </para>
+            <para>
+              <text>Part B of Schedule 7: omit <amend.in quote="1">Transit New Zealand</amend.in> from column 3 of the item relating to Kahutara and substitute <amend.in quote="1">New Zealand Transport Agency</amend.in>.</text>
+            </para>
+            <para>
+              <text>Schedule 111: omit <amend.in quote="1">Transit New Zealand</amend.in> from column 3 of the item relating to Oaro and substitute <amend.in quote="1">New Zealand Transport Agency</amend.in>.</text>
+            </para>
+          </schedule.amendments.group2>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399674">
+      <clause.ref>Part 1 of Schedule 3: Privacy Act 1993</clause.ref>
+      <sop.para>
+        <text>To add the following items (after line 22 on page 177):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Schedule 5: to insert <amend.in quote="1">Ministry of Transport</amend.in> after <quote.in quote="1">Ministry of Justice</quote.in> in each place where it appears in the column headed <quote.in quote="1"><emphasis style="bold">Access Available to</emphasis></quote.in>.</text>
+          </para>
+          <para>
+            <text>Schedule 5: omit the heading <amend.in quote="1"><emphasis style="italic">Ministry of Transport records</emphasis></amend.in> and substitute the heading <amend.in quote="1"><emphasis style="italic">Registrar of Motor Vehicles records</emphasis></amend.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399675">
+      <clause.ref>Part 1 of Schedule 3: Railways Act 2005</clause.ref>
+      <sop.para>
+        <text>Item relating to the definition of <def-term id="DLM1399676">network controller</def-term>: to omit <amend.in quote="1"><def-term id="DLM1399677">network controller</def-term></amend.in> (line 21 on page 178) and substitute <amend.in quote="1"><def-term id="DLM1399678">ordinary safety assessment</def-term></amend.in>.</text>
+        <instrument.amend close.quote="no" open.quote="no"/>
+      </sop.para>
+      <sop.para>
+        <text>Item relating to section 8(1): to omit <amend.in quote="1">Section 8(1)</amend.in> (line 32 on page 178) and substitute <amend.in quote="1">Section 8(2)</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>Item relating to section 96: to omit this item (lines 4 to 6 on page 184) and substitute the following items:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Section 96(a): omit <amend.in quote="1">the Director or by an officer of the Authority authorised in that capacity by the Director</amend.in> and substitute <amend.in quote="1">an officer of the Agency authorised in that capacity by the Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Section 96(b): omit <amend.in quote="1">the Director or by an officer of the Authority authorised in that capacity by the Director</amend.in> and substitute <amend.in quote="1">an officer of the Agency authorised in that capacity by the Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Section 96(c): omit <amend.in quote="1">the Director or by an officer of the Authority authorised in that capacity by the Director</amend.in> and substitute <amend.in quote="1">an officer of the Agency authorised in that capacity by the Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Section 96(d): omit <amend.in quote="1">the Director or by an officer of the Authority authorised in that capacity by the Director</amend.in> and substitute <amend.in quote="1">an officer of the Agency authorised in that capacity by the Agency</amend.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399679">
+      <clause.ref>Part 1 of Schedule 3: Reserves and other Lands Disposal and Public Bodies Empowering Act 1914</clause.ref>
+      <sop.para>
+        <text>To omit this item (lines 19 to 22 on page 184).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399680">
+      <clause.ref>Part 1 of Schedule 3: Road User Charges Act 1977</clause.ref>
+      <sop.para>
+        <text>Item relating to section 22: to insert after <quote.in quote="1">treated as</quote.in> (line 9 on page 185) <amend.in quote="1">land</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399681">
+      <clause.ref>Part 1 of Schedule 3: Transit New Zealand Act 1989</clause.ref>
+      <sop.para>
+        <text>To insert the following item after the item relating to section 1(1) (after line 6 on page 186):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Definition of <def-term id="DLM1399682">financial year</def-term> in section 2(1): omit <amend.in quote="1">Board and the Authority</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399683">
+      <clause.ref>Part 2 of Schedule 3: Heavy Motor Vehicle Regulations 1974</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">Regulation 16(1)(f)</amend.in> (line 32 on page 206) and substitute <amend.in quote="1">Regulation 16A(1)(f)</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To omit <amend.in quote="1">Regulation 16(2)</amend.in> (line 1 on page 207) and substitute <amend.in quote="1">Regulation 16A(2)</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399684">
+      <clause.ref>Part 2 of Schedule 3: Land Transport (Offences and Penalties) Regulations 1999</clause.ref>
+      <sop.para>
+        <text>Items relating to clauses 4 and 5: to omit these items (lines 11 to 14 on page 216) and substitute the following items:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Clause 4 of Part 2 of Schedule 3: omit <amend.in quote="1">LTNZ</amend.in> and substitute <amend.in quote="1">New Zealand Transport Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5 of Part 2 of Schedule 3: omit <amend.in quote="1">LTNZ</amend.in> and substitute <amend.in quote="1">New Zealand Transport Agency</amend.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399685">
+      <clause.ref>Part 2 of Schedule 3: Land Transport Rule: Dangerous Goods 2005 (45001/1)</clause.ref>
+      <sop.para>
+        <text>Item relating to the definition of <def-term id="DLM1399686">safety system</def-term>: to omit this item (lines 10 and 11 on page 218).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399687">
+      <clause.ref>Part 2 of Schedule 3 Part 2: Land Transport Rule: Operator Licensing 2007 (81001)</clause.ref>
+      <sop.para>
+        <text>To insert the following items after the last item relating to <quote.in quote="1">Objective of rule</quote.in> (after line 15 on page 225):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Clause 2.1: omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.2(3): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.2(5): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.2(8): omit <amend.in quote="1">the Director believes on reasonable grounds</amend.in> and substitute <amend.in quote="1">the Agency is satisfied on reasonable grounds</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.2(8): omit <amend.in quote="1">the Director may</amend.in> and substitute <amend.in quote="1">the Agency may</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.2(9): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Heading to clause 2.3: omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.3(1): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.3(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.3(4): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.3(5)(b): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.5(1): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.5(2): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.5(3): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.6: omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 3.2(4)(b): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 3.2(4)(c): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 3.2(6): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.2(1): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.2(9): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.3(2): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.6(5): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.6(6): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.8(3): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Heading to clause 4.9: omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.9(1): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.9(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.10(1): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.10(3): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.11(1): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.11(10): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(1): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(3): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(10): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(11): omit <amend.in quote="1">the Director believes on reasonable grounds</amend.in> and substitute <amend.in quote="1">the Agency is satisfied on reasonable grounds</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(11): omit <amend.in quote="1">the Director may</amend.in> and substitute <amend.in quote="1">the Agency may</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(12): omit <amend.in quote="1">the Director believes on reasonable grounds</amend.in> and substitute <amend.in quote="1">the Agency is satisfied on reasonable grounds</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(12): omit <amend.in quote="1">the Director may</amend.in> and substitute <amend.in quote="1">the Agency may</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(12): omit <amend.in quote="1">approved by the Director</amend.in> and substitute <amend.in quote="1">approved by the Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(13): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(14): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(15): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(16): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(17): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 4.13(18): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.2(1): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.4(3): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.4(5): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.5(1): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.5(5)(b): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.5(5)(c): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Heading to clause 5.7: omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.7(1): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.7(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.7(3): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.7(4): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 5.7(5): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 6.1(7): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 6.1(8): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 6.2: omit <amend.in quote="1">Director's</amend.in> and substitute <amend.in quote="1">Agency's</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 7.1(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 7.1(2): omit <amend.in quote="1">Director's</amend.in> and substitute <amend.in quote="1">Agency's</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 7.1(3): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 7.1(4): omit <amend.in quote="1">Director's</amend.in> and substitute <amend.in quote="1">Agency's</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.1: omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.2(1): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.2(3): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.3(3): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.3(5): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.3(7): omit <amend.in quote="1">the Director believes on reasonable grounds</amend.in> and substitute <amend.in quote="1">the Agency is satisfied on reasonable grounds</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.3(7): omit <amend.in quote="1">the Director may</amend.in> and substitute <amend.in quote="1">the Agency may</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.4(1): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.4(1): omit <amend.in quote="1">Director's</amend.in> and substitute <amend.in quote="1">Agency's</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.4(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(1)(b)(i): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(1)(b)(ii): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(1)(c): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(1)(j): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(1)(k): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(1)(l): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(1)(m): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(1)(n): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(1)(q): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(1)(s): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.5(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.6(1): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.7(1): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.7(2): omit <amend.in quote="1">The Director may</amend.in> and substitute <amend.in quote="1">The Agency may</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.7(2): omit <amend.in quote="1">in the opinion of the Director</amend.in> and substitute <amend.in quote="1">the Agency is satisfied</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.7(3)(a): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 8.7(3)(b): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 9.1(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 10.1(1): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 10.3(4)(b): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 10.3(4)(c): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 10.3(5): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 10.9(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 10.13(3)(b): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 11.1(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 11.1(4): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 11.2(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 11.2(4): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 11.3(5)(b): omit <amend.in quote="1">Director</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 11.3(5)(c): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 11.3(6): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following item after the definition of <def-term id="DLM1399688">New Zealand Transport Agency</def-term> item (after line 19 on page 225):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Definition of <def-term id="DLM1399689">approved taxi organisation</def-term> in Part 2: omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following items after the definition of <def-term id="DLM1399690">Authority</def-term> item (after line 20 on page 225):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Definition of <def-term id="DLM1399691">Director</def-term> in Part 2: revoke.</text>
+          </para>
+          <para>
+            <text>Paragraph (b) of the definition of <def-term id="DLM1399692">gross vehicle mass</def-term>: omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Definition of <def-term id="DLM1399693">licence or other document</def-term> in Part 2: omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Paragraph (b)(vii) of the definition of <def-term id="DLM1399694">vehicle recovery service</def-term> in Part 2: omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 1(b) of Schedule 2: omit <amend.in quote="1">Director of Land Transport</amend.in> and substitute <amend.in quote="1">New Zealand Transport Agency</amend.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399695">
+      <clause.ref>Part 2 of Schedule 3: Land Transport Rule: Seatbelts and Seatbelt Anchorages 2002 (32011)</clause.ref>
+      <sop.para>
+        <text>To insert the following item after the item relating to paragraph (b) (after line 11 on page 227):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Paragraph (b) of the definition of <def-term id="DLM1399696">mobility device</def-term> in Part 2: omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399697">
+      <clause.ref>Part 2 of Schedule 3: Land Transport Rule: Vehicle Equipment 2004 (32017)</clause.ref>
+      <sop.para>
+        <text>To insert the following items after the item heading (after line 18 on page 233):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Clause 2.7(5): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+          <para>
+            <text>Clause 2.7(10): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399698">
+      <clause.ref>Part 2 of Schedule 3: Land Transport Rule: Vehicle Standards Compliance 2002 (35001/1)</clause.ref>
+      <sop.para>
+        <text>To insert the following item after the item relating to clause 3.2(1) (after line 29 on page 235):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Clause 3.2(1): omit <amend.in quote="1">Director reasonably considers appropriate</amend.in> and substitute <amend.in quote="1">Agency reasonably considers appropriate</amend.in>.</text>
+          </para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To omit <amend.in quote="1">Paragraph (k)(ii)</amend.in> (line 30 on page 239) and substitute <amend.in quote="1">Paragraph (k)(iii)</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1399699">
+      <clause.ref>Part 2 of Schedule 3: Traffic Regulations 1976</clause.ref>
+      <sop.para>
+        <text>To insert the following item after the item relating to the definition of <def-term id="DLM1399700">vehicle compliance certifier</def-term> (after line 4 on page 244):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <text>Regulation 29(2): omit <amend.in quote="1">Director</amend.in> and substitute <amend.in quote="1">Agency</amend.in>.</text>
+          </para>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1570024" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="229">
+  <explnote id="DLM1399701" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="209">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Employment Relations (Breaks and Infant Feeding) Amendment Bill. The amendments relate principally to employees' membership of a KiwiSaver scheme or a complying superannuation fund.</text>
+      <text>This Supplementary Order Paper amends the Land Transport Management Amendment Bill.</text>
     </para>
     <para>
-      <text><emphasis style="italic">Clause 1</emphasis>, the Title clause, is amended to reflect that the Bill is not limited to breaks and infant feeding.</text>
+      <text>The amendment to <emphasis style="italic">clause 2</emphasis> specifies the proposed commencement date for the Bill.</text>
     </para>
     <para>
-      <text><emphasis style="italic">Clause 2</emphasis>, the commencement clause, is redrafted so that—</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the amendments made by the Supplementary Order Paper relating to Kiwisaver schemes and complying superannuation funds come into force on the day after the date on which the Bill receives the Royal assent; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the amendments in the rest of the Bill come into force on 1 April 2009.</text>
-          </para>
-        </item>
-      </list>
+      <text>The amendments to <emphasis style="italic">clauses 5 and 6</emphasis> change cross-references.</text>
     </para>
     <para>
-      <text><emphasis style="italic">Clause 4</emphasis>, which sets out the purpose of the Bill, is redrafted to add a further purpose. This is to make it a ground for a personal grievance for an employee's employment to be adversely affected because he or she is a member of a KiwiSaver scheme or a complying superannuation fund.</text>
+      <text>The amendments to <emphasis style="italic">clauses 11, 13 to 15A, 17A, 19, 20, 21, 23B, and 32</emphasis> refine various administrative or procedural provisions of the Bill.</text>
     </para>
     <para>
-      <text><emphasis style="italic">New clause 4A</emphasis> provides that the amendments made by <emphasis style="italic">new clauses 5A and 5B</emphasis>, to the extent that they relate to terms and conditions in employment agreements, apply—</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>to employment agreements entered into on or after 2 September 2008; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>to variations of employment agreements entered into before  2 September 2008, but only if the variations were made on or after 2 September 2008.</text>
-          </para>
-        </item>
-      </list>
+      <text>The amendments to <emphasis style="italic">clause 31</emphasis> refine the provisions regarding the proposed regional fuel tax scheme.</text>
     </para>
     <para>
-      <text>The clause also provides that the amendments made by <emphasis style="italic">new clauses 5A and 5B</emphasis>, to the extent that they relate to other matters, apply only to matters occurring on or after 2 September 2008, whether or not an employee's employment agreement was entered into before 2 September 2008.</text>
+      <text>The amendment to <emphasis style="italic">clause 38</emphasis> aligns the definition of motor spirits with the definition of motor spirits now found in the Biofuels Bill.</text>
     </para>
     <para>
-      <text>The amendments to <emphasis style="italic">clause 5</emphasis> are drafting amendments.</text>
+      <text>The amendments to <emphasis style="italic">Schedule 1</emphasis> refine the provisions in <emphasis style="italic">Schedule 1</emphasis> to provide better alignment with the provisions in the body of the Bill.</text>
     </para>
     <para>
-      <text><emphasis style="italic">New clause 5A</emphasis> amends section 103 of the principal Act, which specifies the grievances that constitute personal grievances for the purposes of the principal Act. The amendment inserts a new ground that an employee's employment has been adversely affected because the employee is a member of a KiwiSaver scheme under the KiwiSaver Act 2006 or a complying superannuation fund.</text>
+      <text>The amendments to <emphasis style="italic">Schedule 2</emphasis> replace <emphasis style="italic">clause 2</emphasis>, change various cross-references found in <emphasis style="italic">clauses 7, 8A(2), 8B(2), and 10B(2)</emphasis>, and align various clauses with the proposed commencement date for the Bill.</text>
     </para>
     <para>
-      <text><emphasis style="italic">New clause 5B</emphasis> inserts <emphasis style="italic">new section 110A</emphasis> in the principal Act. The new section specifies what behaviour by an employer constitutes the new ground for a personal grievance inserted by <emphasis style="italic">new clause 5A</emphasis>.</text>
-    </para>
-    <para>
-      <text><emphasis style="italic">New clause 7</emphasis> makes a consequential amendment to the KiwiSaver Act 2006.</text>
+      <text>The amendments to <emphasis style="italic">Schedule 3</emphasis> augment the list of consequential amendments found in those Schedules, primarily by changing “Director” to “Agency”, “Transit New Zealand” to “New Zealand Transport Agency”, and “Transit New Zealand Act 1989” to “Government Roading Powers Act 1989”.</text>
     </para>
   </explnote>
 </sop>
