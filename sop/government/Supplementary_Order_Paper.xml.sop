@@ -1,40 +1,1128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1367900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="204">
-  <date>Tuesday, 17 June 2008</date>
-  <billref>Summary Offences (Tagging and Graffiti Vandalism) Amendment Bill</billref>
-  <body id="DLM1367901">
-    <heading>Proposed amendment</heading>
-    <motion>Hon Annette King, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM1367902">
-      <clause.ref>New Part 3</clause.ref>
+<sop id="DLM1182600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="176">
+  <date>Tuesday, 4 March 2008</date>
+  <billref>Limited Partnerships Bill</billref>
+  <body id="DLM1182601">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Lianne Dalziel, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1182602">
+      <clause.ref>Clause 2</clause.ref>
       <sop.para>
-        <text>To add the following Part after line 31 on page 5:</text>
+        <text>To omit this clause (lines 8 and 9 on page 7) and substitute the following clause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <part id="DLM1367903" in.amend="false" irdnumbering="no" raised.by="Government" sop.no="204" toc="yes" year="2008">
-            <label auto.number="no" denominator="yes"> 3</label>
-            <heading>Repeal</heading>
-            <prov id="DLM1367904" irdnumbering="no" skeleton="no" toc="yes">
-              <label auto.number="no" denominator="yes">7</label>
-              <heading>Manukau City Council (Control of Graffiti) Act 2008 repealed</heading>
-              <prov.body>
-                <subprov skeleton="no">
-                  <label auto.number="yes" denominator="yes"/>
-                  <para>
-                    <text>The Manukau City Council (Control of Graffiti) Act 2008 (2008 No 2 (L)) is repealed.</text>
-                  </para>
-                </subprov>
-              </prov.body>
-            </prov>
-          </part>
+          <prov id="DLM1182603" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">2</label>
+            <heading>Commencement</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Parts 1 to 4 and the Schedule come into force on a date to be appointed by the Governor-General by Order in Council.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>The rest of this Act comes into force on 1 April 2008.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182604">
+      <clause.ref>Clause 4</clause.ref>
+      <sop.para>
+        <text>To insert the following definition after the definition of <def-term id="DLM1182605">Minister</def-term> (after line 28 on page 8):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM1182606">
+            <para>
+              <text><def-term id="DLM1182607">overseas limited partnership</def-term> means a partnership formed or incorporated outside New Zealand with—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>1 or more general partners who are liable for all of the debts and liabilities of the partnership; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>1 or more limited partners who have only limited liability for the debts and liabilities of the partnership</text>
+                </para>
+              </label-para>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To omit paragraph (b) of the definition of <def-term id="DLM1182608">public notice</def-term> (lines 8 to 21 on page 9) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
+            <para>
+              <text>in respect of public notice that must be given by any other person, publication in—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">i</label>
+                <para>
+                  <text>at least 1 issue of the <emphasis style="italic">Gazette</emphasis>; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">ii</label>
+                <para>
+                  <text>at least 1 issue of a newspaper circulating in the area in New Zealand in which is situated—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">A</label>
+                    <para>
+                      <text>the limited partnership's or overseas limited partnership's place of business; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">B</label>
+                    <para>
+                      <text>if the limited partnership or overseas limited partnership has more than 1 place of business, its principal place of business; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">C</label>
+                    <para>
+                      <text>in the case of a limited partnership that has no place of business or neither its place of business nor its principal place of business is known, its registered office</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182609">
+      <clause.ref>Clause 8</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (1)</emphasis> (after line 11 on page 10):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">1A</label>
+            <para>
+              <text>A person may not be both a general partner and a limited partner of the same limited partnership at the same time.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182610">
+      <clause.ref>Clause 17(1)</clause.ref>
+      <sop.para>
+        <text>To insert before <quote.in quote="1">partnership</quote.in> (line 13 on page 16) <amend.in quote="1">limited</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182611">
+      <clause.ref>Clause 19</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">A</amend.in> (line 11 on page 17) and substitute <amend.in quote="1">Subject to <changeable><citation jurisdiction="nz">section 26</citation></changeable>, a</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182612">
+      <clause.ref>Clause 20</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 20 to 23 on page 17).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182613">
+      <clause.ref>Clause 21(4)</clause.ref>
+      <sop.para>
+        <text>To add <amend.in quote="1"><changeable>and (1A)</changeable></amend.in> (line 3 on page 18).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182614">
+      <clause.ref>Clause 26</clause.ref>
+      <sop.para>
+        <text>To add the following subclause (after line 31 on page 19):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">3</label>
+            <para>
+              <text>A limited partner is not liable to a person who deals with a limited partnership for breach of <changeable><citation jurisdiction="nz">section 18(1)</citation></changeable> except to the extent provided by this section.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182615">
+      <clause.ref>Clause 27(2)(b)(i)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">general partner or limited</amend.in> (line 11 on page 20).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182616">
+      <clause.ref>Heading before clause 28</clause.ref>
+      <sop.para>
+        <text>To add <amend.in quote="1"><emphasis style="italic">or overseas limited partnership</emphasis></amend.in> (line 20 on page 20).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182617">
+      <clause.ref>Clause 29(2)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">limited partnership</quote.in> in the first place where it appears (line 22 on page 22) <amend.in quote="1">or an overseas limited partnership</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182618">
+      <clause.ref>Clause 30</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to insert after <quote.in quote="1">limited partnership</quote.in> (line 31 on page 22) <amend.in quote="1">or an overseas limited partnership</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)</emphasis>: to insert after <quote.in quote="1">limited partnership</quote.in> (line 1 on page 23) <amend.in quote="1">or an overseas limited partnership</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (4)</emphasis>: to insert after <quote.in quote="1">limited partnership</quote.in> in the first place where it appears (line 3 on page 23) <amend.in quote="1">or an overseas limited partnership</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (4)(b)</emphasis>: to insert after <quote.in quote="1">limited partnership</quote.in> (lines 6 and 7 on page 23) <amend.in quote="1">or overseas limited partnership</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (4)(c)</emphasis>: to insert after <quote.in quote="1">limited partnership</quote.in> in each place where it appears (lines 9 and 10 on page 23) <amend.in quote="1">or overseas limited partnership</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182619">
+      <clause.ref>Clause 33(2)(b)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">all the general partners agree</amend.in> (line 11 on page 25) and substitute <amend.in quote="1">approved by a resolution of the limited partnership</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182620">
+      <clause.ref>Clause 40(2)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">limited</amend.in> (line 18 on page 27).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182621">
+      <clause.ref>Clause 45(1)</clause.ref>
+      <sop.para>
+        <text>To insert the following paragraph after <emphasis style="italic">paragraph (c)</emphasis> (after line 24 on page 29):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">ca</label>
+            <para>
+              <text>state the date of birth of each proposed general partner (where applicable); and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (d)</emphasis>: to omit <amend.in quote="1">be accompanied by</amend.in> (line 25 on page 29) and substitute <amend.in quote="1">contain</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (d)</emphasis>: to omit <amend.in quote="1">birth,</amend.in>  (line 25 on page 29) and substitute <amend.in quote="1">birth (where applicable),</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182622">
+      <clause.ref>Clause 46</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">possible</amend.in> (line 5 on page 30) and substitute <amend.in quote="1">practicable</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182623">
+      <clause.ref>Clause 48(3)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">1982</quote.in> (line 3 on page 31) <amend.in quote="1">in relation to a request for official information,</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182624">
+      <clause.ref>Clause 50(3)(e)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">overseas</amend.in> (line 8 on page 32) and substitute <amend.in quote="1">in New Zealand</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182625">
+      <clause.ref>Clause 55(1)(b)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">due to a clerical error</amend.in> (lines 10 and 11 on page 33).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182626">
+      <clause.ref>Clause 55(2)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (a)</emphasis>: to insert after <quote.in quote="1">limited partnership</quote.in> in each place where it appears (lines 14 and 16 on page 33) <amend.in quote="1">or overseas limited partnership</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (b)(ii)</emphasis>: to insert after <quote.in quote="1">limited partnership</quote.in> (line 20 on page 33) <amend.in quote="1">or overseas limited partnership</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182627">
+      <clause.ref>Clause 57</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">limited partnership</quote.in> in the first place where it appears (line 18 on page 34) <amend.in quote="1">or an overseas limited partnership</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">limited partnership</quote.in> in the second place where it appears (line 19 on page 34) <amend.in quote="1">or overseas limited partnership</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182628">
+      <clause.ref>Clause 58</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)(a)</emphasis>: to add <amend.in quote="1">or an overseas limited partnership</amend.in> (line 25 on page 34).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)(c)</emphasis>: to insert after <quote.in quote="1">limited partnership</quote.in> (line 27 on page 34) <amend.in quote="1">or an overseas limited partnership</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to insert the following paragraph after <emphasis style="italic">paragraph (h)</emphasis> (after line 33 on page 34):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">ha</label>
+            <para>
+              <text>the name and address of the person authorised to accept service in New Zealand on behalf of the overseas limited partnership:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182629">
+      <clause.ref>Clause 59</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (b)</emphasis>: to add <amend.in quote="1">or an overseas limited partnership</amend.in> (line 15 on page 35).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to insert after <quote.in quote="1">limited partnership's</quote.in> (lines 16 and 17 on page 35) <amend.in quote="1">or an overseas limited partnership's</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (ca)</emphasis>: to add <amend.in quote="1">or an overseas limited partnership</amend.in> (line 19 on page 35).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182630">
+      <clause.ref>Clause 68(1)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (b)</emphasis>: to omit <amend.in quote="1">general</amend.in> (line 2 on page 39).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (d)</emphasis>: to omit <amend.in quote="1">limited partner</amend.in> (lines 8 and 9 on page 39) and substitute <amend.in quote="1">partner</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182631">
+      <clause.ref>Clause 68A</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">First subclause (3)</emphasis>: to omit <amend.in quote="1">(3)</amend.in>  (line 18 on page 40) and substitute <amend.in quote="1">(2A)</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182632">
+      <clause.ref>Clause 69</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit <amend.in quote="1">or in a form the use of which by the limited partnership has been approved by the Registrar pursuant to <changeable><citation jurisdiction="nz">subsection (9)</citation></changeable>, or as near to it as circumstances allow</amend.in> (lines 18 to 21 on page 41).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to add the following paragraph (after line 35 on page 41):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">i</label>
+            <para>
+              <text>any other prescribed information.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182633">
+      <clause.ref>Clause 70(1)</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">paragraph (c)</emphasis> (line 1 on page 43) and substitute the following paragraphs:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>a postal address of the limited partnership; or</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">d</label>
+            <para>
+              <text>an address of a partner of the limited partnership.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182634">
+      <clause.ref>Clause 74C(d)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">limited partners</amend.in> (line 31 on page 47) and substitute <amend.in quote="1">partners</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182635">
+      <clause.ref>Clause 78(1)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (ba)</emphasis>: to omit this paragraph (lines 18 and 19 on page 50).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to add <amend.in quote="1">or placed in liquidation</amend.in> (line 20 on page 50).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182636">
+      <clause.ref>Clause 80</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">268</quote.in> (line 23 on page 52) <amend.in quote="1">, 287</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to omit <amend.in quote="1">limited</amend.in> (line 32 on page 52).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182637">
+      <clause.ref>Clause 83(b)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">limited</amend.in> (line 31 on page 53).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182638">
+      <clause.ref>Clause 84A(5)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to omit <amend.in quote="1">limited</amend.in> (line 10 on page 55).</text>
+      </sop.para>
+      <sop.para>
+        <text>To add the following paragraph (after line 12 on page 55):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">e</label>
+            <para>
+              <text>a board were references to the general partners.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182639">
+      <clause.ref>Clause 84B</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">and section 328 (except section 328(3)(a))</amend.in> (line 15 on page 55).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to omit <amend.in quote="1">limited</amend.in> (line 21 on page 55).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182640">
+      <clause.ref>Clause 84C(c)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">limited</amend.in> (line 30 on page 55).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182641">
+      <clause.ref>Clause 84D(c)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">limited</amend.in> (line 8 on page 56).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182642">
+      <clause.ref>Clause 86</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 3 to 12 on page 57).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182643">
+      <clause.ref>Clause 87(3)</clause.ref>
+      <sop.para>
+        <text>To omit this subclause (lines 25 to 29 on page 57) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">3</label>
+            <para>
+              <text>An overseas limited partnership that changes its name overseas must apply under <changeable><citation jurisdiction="nz">section 30</citation></changeable> within 10 working days of the change to change the name with which it is registered in New Zealand to its overseas name.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182644">
+      <clause.ref>Clause 91(2)</clause.ref>
+      <sop.para>
+        <text>To omit this subclause (lines 25 to 29 on page 59) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>This section is subject to <changeable>section 29</changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182645">
+      <clause.ref>Clause 93(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">of</amend.in> in the second place where it appears (line 15 on page 60) and substitute <amend.in quote="1">if there is a change in</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (a)</emphasis>: to omit <amend.in quote="1">a change in</amend.in> (line 16 on page 60).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (b)</emphasis>: to omit <amend.in quote="1">a change in</amend.in> (line 19 on page 60).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to omit <amend.in quote="1">a change in</amend.in> (line 22 on page 60).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182646">
+      <clause.ref>Clause 95(3)</clause.ref>
+      <sop.para>
+        <text>To insert before <quote.in quote="1">limited partnership</quote.in> in the second place where it appears (lines 20 and 21 on page 61) <amend.in quote="1">overseas</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182647">
+      <clause.ref>Clause 95(6)(a)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">limited</amend.in>  (line 30 on page 61) and substitute <amend.in quote="1">overseas limited</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182648">
+      <clause.ref>Clause 97(1)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragaph (a)</emphasis>: to omit <amend.in quote="1">a limited</amend.in>  (line 26 on page 62) and substitute <amend.in quote="1">an overseas limited</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to omit <amend.in quote="1">limited</amend.in> (line 30 on page 62).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182649">
+      <clause.ref>Clause 97(2)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">made</quote.in> (line 34 on page 62) <amend.in quote="1">to the Court</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182650">
+      <clause.ref>Clause 97(3)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">limited overseas partnership</amend.in> (line 10 on page 63) and substitute <amend.in quote="1">overseas limited partnership</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182651">
+      <clause.ref>Clause 97(4)(a)</clause.ref>
+      <sop.para>
+        <text>To insert before <amend.in quote="1">limited</amend.in> (line 18 on page 63) <amend.in quote="1">overseas</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182652">
+      <clause.ref>Clause 100(1)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to omit <amend.in quote="1">register</amend.in>  (line 8 on page 65) and substitute <amend.in quote="1">registers</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (e)</emphasis>: to omit <amend.in quote="1">register</amend.in>  (line 13 on page 65) and substitute <amend.in quote="1">registers</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182653">
+      <clause.ref>New clause 103B</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 103A</emphasis> (after line 11 on page 66):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1182654" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">103B</label>
+            <heading>Other consequential amendments</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>The definition of <def-term id="DLM1182655">director</def-term> in section 2(1) of the Financial Reporting Act 1993 is amended by inserting <amend.in quote="1">or limited partnership</amend.in> after <quote.in quote="1">special partnership</quote.in> in each place where it appears.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>The definition of <def-term id="DLM1182656">director</def-term> in section 2(1) of the Insurance Companies (Ratings and Inspections) Act 1994 is amended by inserting <amend.in quote="1">or limited partnership</amend.in> after <quote.in quote="1">special partnership</quote.in> in each place where it appears.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>The definition of <def-term id="DLM1182657">director</def-term> in section 2(1) of the Securities Act 1978 is amended by inserting <amend.in quote="1">or limited partnership</amend.in> after <quote.in quote="1">special partnership</quote.in> in each place where it appears.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>The definition of <def-term id="DLM1182658">director</def-term> in section 2(1) of the Securities Markets Act 1988 is amended by inserting <amend.in quote="1">or limited partnership</amend.in> after <quote.in quote="1">special partnership</quote.in> in each place where it appears.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182659">
+      <clause.ref>Clause 106</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 28 and 29 on page 91) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182660">
+      <clause.ref>Clause 107</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 8 and 9 on page 92) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182661">
+      <clause.ref>Clause 108</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 12 and 13 on page 92) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182662">
+      <clause.ref>Clause 109</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 17 and 18 on page 92) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182663">
+      <clause.ref>Clause 110</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 28 and 29 on page 92) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182664">
+      <clause.ref>Clause 111</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 8 and 9 on page 93) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182665">
+      <clause.ref>Clause 112</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 19 and 20 on page 93) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182666">
+      <clause.ref>Clause 113</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 22 and 23 on page 94) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182667">
+      <clause.ref>Clause 114</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 26 and 27 on page 94) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182668">
+      <clause.ref>Clause 115</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 31 and 32 on page 94) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182669">
+      <clause.ref>Clause 116</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 3 and 4 on page 95) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182670">
+      <clause.ref>Clause 117</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 7 and 8 on page 95) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182671">
+      <clause.ref>Clause 118</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 9 to 13 on page 95) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1182672" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">118</label>
+            <heading>Attribution rule: calculation</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>In section GB 29(2)(b), <amend.in quote="1">section HR 1 (Partnerships and joint ventures)</amend.in> is replaced by <amend.in quote="1"><changeable><citation jurisdiction="nz">section HG 2 </citation></changeable> (Partnerships are transparent)</amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182673">
+      <clause.ref>Clause 119</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 1 and 2 on page 96) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182674">
+      <clause.ref>Clause 120</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 26 and 27 on page 96) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182675">
+      <clause.ref>Clause 121(1)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New section HG 2(4)</emphasis>: to omit <emphasis style="italic">paragraphs (b) to (e)</emphasis> (line 33 on page 98 to line 3 on page 99) and substitute the following paragraphs:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">b</label>
+            <para>
+              <text>supplementary dividends, to the extent to which subpart LP (Tax credits for supplementary dividends) applies:</text>
+            </para>
+          </label-para>
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">c</label>
+            <para>
+              <text>CTR additional dividends, to the extent to which subpart LQ (Tax credits of conduit tax relief companies) applies:</text>
+            </para>
+          </label-para>
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">d</label>
+            <para>
+              <text>imputation credits, to the extent to which section LE 6 (Partners in partnerships) applies:</text>
+            </para>
+          </label-para>
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">e</label>
+            <para>
+              <text>FDP credits, to the extent to which section LF 4 (Partners in partnerships) applies.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New section HG 11(2)</emphasis>: to omit <amend.in quote="1">limited partnership net deduction</amend.in> (line 21 on page 108) and substitute <amend.in quote="1">limited partnership deduction</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New section HG 11(8)(a)</emphasis>: to omit <amend.in quote="1">the income year and</amend.in> (line 3 on page 110).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New section HG 11(8)(b)</emphasis>: to omit <amend.in quote="1">not</amend.in> (line 13 on page 110).</text>
+      </sop.para>
+      <sop.para>
+        <text>Definition of <emphasis style="bold">limited partnership net deduction</emphasis> in <emphasis style="italic">new section HG 11(12)</emphasis>: to omit <amend.in quote="1"><emphasis style="bold">net</emphasis></amend.in> (line 19 on page 111).</text>
+      </sop.para>
+      <sop.para>
+        <text>Definition of <emphasis style="bold">limited partnership net deduction</emphasis> in <emphasis style="italic">new section HG 11(12)</emphasis> (as amended by this Supplementary Order Paper): to omit <amend.in quote="1">net loss that would arise</amend.in> (lines 20 and 21 on page 111) and substitute <amend.in quote="1">deductions that the partner would be allowed</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>List of defined terms in <emphasis style="italic">new section HG 11</emphasis>: to omit <amend.in quote="1">limited partnership net deduction</amend.in> (line 30 on page 111) and substitute <amend.in quote="1">limited partnership deduction</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182676">
+      <clause.ref>Clause 121(2)</clause.ref>
+      <sop.para>
+        <text>To omit this subclause (lines 11 and 12 on page 112) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182677">
+      <clause.ref>Clause 122</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 15 and 16 on page 112) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182678">
+      <clause.ref>Clause 123(1)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New section HZ 4(2)(b)</emphasis>: to omit <amend.in quote="1">chose</amend.in> (line 11 on page 114) and substitute <amend.in quote="1">choose</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182679">
+      <clause.ref>Clause 123(2)</clause.ref>
+      <sop.para>
+        <text>To omit this subclause (lines 21 and 22 on page 114) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182680">
+      <clause.ref>Clause 124</clause.ref>
+      <sop.para>
+        <text>To add the following subclause as <emphasis style="italic">subclause (2)</emphasis> (after line 25 on page 114):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner in a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182681">
+      <clause.ref>Clause 125</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section HG 11(7)</citation></changeable></amend.in> (line 29 on page 114) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section HG 11(12)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (7)(b)</emphasis>: to omit <amend.in quote="1">Partnership</amend.in> (lines 34 and 35 on page 115) and substitute <amend.in quote="1">Partnerships</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (14)</emphasis>: to omit <emphasis style="italic">paragraph (d)</emphasis> (lines 6 to 8 on page 118).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (15)</emphasis>: to omit this subclause (lines 9 and 10 on page 118) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">15</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsections (2) to (14)</citation></changeable> apply for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182682">
+      <clause.ref>Clause 126</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (3)</emphasis> (lines 22 and 23 on page 118) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">3</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsections (1) and (2)</citation></changeable> apply for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182683">
+      <clause.ref>Clause 127</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to omit this subclause (line 33 on page 118 to line 5 on page 119).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (4)</emphasis>: to omit this subclause (lines 9 and 10 on page 119) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">4</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsections (1) and (3)</citation></changeable> apply for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182684">
+      <clause.ref>Clause 128</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (3)</emphasis> (lines 22 and 23 on page 119) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">3</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsections (1) and (2)</citation></changeable> apply for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182685">
+      <clause.ref>Heading to Part 6</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><emphasis style="bold">Tax Administration Act 1994</emphasis></amend.in> (line 25 on page 119) and substitute <amend.in quote="1"><emphasis style="bold">other revenue Acts</emphasis></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182686">
+      <clause.ref>Clause 129</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 26 and 27 on page 119) and substitute the following heading and clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <crosshead id="DLM1182687" toc="yes">Tax Administration Act 1994</crosshead>
+          <prov id="DLM1182688" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">129</label>
+            <heading>Tax Administration Act 1994</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text><changeable><citation jurisdiction="nz">Sections 130 and 131 </citation></changeable> amend the Tax Administration Act 1994.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182689">
+      <clause.ref>Clause 130</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 1 and 2 on page 120) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182690">
+      <clause.ref>Clause 131</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 31 and 32 on page 120) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For a person who is not a limited partner of a limited partnership registered under the <changeable><citation jurisdiction="nz"> Limited Partnerships Act 2008</citation></changeable>, <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> applies for income years starting on and after 1 April 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182691">
+      <clause.ref>New heading and clause 132</clause.ref>
+      <sop.para>
+        <text>To add the following heading and clause after <emphasis style="italic">clause 131</emphasis> (after line 32 on page 120):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <crosshead id="DLM1182692" toc="yes">Goods and Services Tax Act 1985</crosshead>
+          <prov id="DLM1182693" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">132</label>
+            <heading>Interpretation</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>In section 2(1) of the Goods and Services Tax Act 1985, in the definition of <emphasis style="bold">company</emphasis>, <amend.in quote="1">elsewhere</amend.in> is replaced by <amend.in quote="1">elsewhere, and any limited partnership registered under the <changeable><citation jurisdiction="nz">Limited Partnerships Act 2008</citation></changeable></amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1182694">
+      <clause.ref>Schedule</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">of the business</amend.in> (line 5 on page 121).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to omit this paragraph (lines 15 to 17 on page 121) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>approving (including doing so as a member of an advisory committee of the limited partnership)—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">i</label>
+                <para>
+                  <text>a change in the senior employees of a general partner or of the limited partnership; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">ii</label>
+                <para>
+                  <text>a change of contractors engaged by a general partner or the limited partnership:</text>
+                </para>
+              </label-para>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (g)</emphasis>: to omit <amend.in quote="1">general or limited</amend.in> (line 27 on page 121).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (m)</emphasis>: to omit this paragraph (lines 13 to 16 on page 122) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">m</label>
+            <para>
+              <text>taking part in a decision to determine an actual or potential conflict of interest involving a partner (or partners) and the limited partnership:</text>
+            </para>
+          </label-para>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1367905" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="204">
+  <explnote id="DLM1182695" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="176">
     <heading>Explanatory note</heading>
     <para>
-      <text>The amendment set out in this Supplementary Order Paper adds to the Bill a new <emphasis style="italic">Part 3</emphasis>. The new Part contains a single provision repealing the Manukau City Council (Control of Graffiti) Act 2008, which applies only within the district of the City of Manukau. That Act contains a number of provisions whose effect is similar to provisions in the Bill, which will apply throughout New Zealand.</text>
+      <text>This Supplementary Order Paper makes a number of amendments to the Limited Partnerships Bill. The amendments to the non-tax clauses of the Bill are minor technical and grammatical corrections. There are no changes of substance. The Bill now has a split commencement clause—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>Parts 1 to 4 commence on a date to be specified by Order in Council:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>Parts 5 and 6 commence on 1 April 2008.</text>
+          </para>
+        </item>
+      </list>
+    </para>
+    <para>
+      <text>The amendments to the tax clauses of the Bill are all remedial drafting issues. The amendments have the following effects: </text>
+    </para>
+    <para>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amend, for all tax clauses, all application dates for income years starting on and after 1 April 2008, so that they do not apply to limited partners of limited partnerships that are registered under the proposed Limited Partnerships Act. Consequently, in conjunction with transitional provisions in the Income Tax 2007, limited partners of New Zealand registered limited partnerships are subject to the tax rules for limited partnerships from 1 April 2008 regardless of their balance dates:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>correct cross-references in <emphasis style="italic">clauses 118, 121, and 125</emphasis> of the Bill, correct a spelling mistake in <emphasis style="italic">clause 123</emphasis>, and remove extraneous text from <emphasis style="italic">clause 125</emphasis>:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>correct technical deficiencies in the calculations that limit deductions allowed to partners in limited partnerships:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>ensure that <emphasis style="italic">clause 127(2</emphasis>) does not clash with provisions in the Taxation (Business Taxation and Remedial Matters) Act 2007:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>consequentially clarify that limited partnerships are companies for GST purposes.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
-<!--End of file, do NOT remove.-->
