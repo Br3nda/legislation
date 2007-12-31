@@ -1,46 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1182328" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="177">
-  <date>Tuesday, 4 March 2008</date>
-  <billref>Misuse of Drugs (Classification of BZP) Amendment Bill</billref>
-  <body id="DLM1182329">
-    <heading>Proposed amendments</heading>
-    <motion>Hon Jim Anderton, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1182330">
-      <clause.ref>Clause 2</clause.ref>
+<sop id="DLM1559600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0003" stage="published" year="2008" raised.by="Government" sop.no="226">
+  <date>Tuesday, 26 August 2008</date>
+  <billref>Policing Bill</billref>
+  <body id="DLM1559601">
+    <heading>Proposed amendment</heading>
+    <motion>Hon Annette King, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM1559602">
+      <clause.ref>Clause 106G</clause.ref>
       <sop.para>
-        <text>To omit <amend.in quote="1">18 December 2007</amend.in> (line 2 on page 2) and substitute <amend.in quote="1">the seventh day after the date on which it receives the Royal assent</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1182331">
-      <clause.ref>Clause 6</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit <amend.in quote="1">before 18 June 2008</amend.in> (line 22 on page 2) and substitute <amend.in quote="1">within the period expiring at the end of 6 months after the date on which this Act comes into force</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (3)</emphasis>: to omit <amend.in quote="1">close of 17 June 2008</amend.in> (line 31 on page 2) and substitute <amend.in quote="1">end of 6 months after the date on which this Act comes into force</amend.in>.</text>
+        <text>To insert the following clause after clause 106F (after line 24 on page 63):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1559603" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">106G</label>
+            <heading>Sitting members of local authorities</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>A sitting member does not have to be treated as having vacated his or her position as a Police employee on the commencement of <changeable><citation jurisdiction="nz">section 97</citation></changeable>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>An elected sitting member does not have to be placed on leave of absence for the purposes of his or her candidature for election as a member of the local authority concerned at a future election if he or she has not, at some earlier  future election, failed to be elected as a member of the local authority concerned.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>An elected sitting member does not have to be treated as having vacated his or her position as a Police employee on being declared to be elected a member of the local authority concerned at a future election if he or she has not, at some earlier future election, failed to be elected as a member of the local authority concerned.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text><changeable><citation jurisdiction="nz">Subsections (1) to (3)</citation></changeable> override <changeable><citation jurisdiction="nz">section 97(2) and (3)</citation></changeable>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">5</label>
+                <para>
+                  <text>In this section,—</text>
+                  <def-para id="DLM1559604">
+                    <para>
+                      <text><def-term id="DLM1559605">elected sitting member</def-term> means a constable, authorised officer, or supervisor who, immediately before the commencement of <changeable><citation jurisdiction="nz">section 97</citation></changeable>, was an elected member of a local authority</text>
+                    </para>
+                  </def-para>
+                  <def-para id="DLM1559606">
+                    <para>
+                      <text><def-term id="DLM1559607">future election</def-term> means a triennial general election held under the Local Electoral Act 2001 after the commencement of <changeable><citation jurisdiction="nz">section 97</citation></changeable></text>
+                    </para>
+                  </def-para>
+                  <def-para id="DLM1559608">
+                    <para>
+                      <text><def-term id="DLM1559609">local authority</def-term> and <def-term id="DLM1559610">member of a local authority</def-term> have the meanings given by section 5(1) of the Local Electoral Act 2001</text>
+                    </para>
+                  </def-para>
+                  <def-para id="DLM1559611">
+                    <para>
+                      <text><def-term id="DLM1559612">local authority concerned</def-term>, in relation to a sitting member,—</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">a</label>
+                        <para>
+                          <text>means the local authority of which he or she was a member immediately before the commencement of <changeable><citation jurisdiction="nz">section 97</citation></changeable>; and</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">b</label>
+                        <para>
+                          <text>includes a successor to the local authority concerned</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </def-para>
+                  <def-para id="DLM1559613">
+                    <para>
+                      <text><def-term id="DLM1559614">sitting member</def-term> means a constable, authorised officer, or supervisor who, immediately before the commencement of <changeable><citation jurisdiction="nz">section 97</citation></changeable>, was a member of a local authority.</text>
+                    </para>
+                  </def-para>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1182332" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="177">
+  <explnote id="DLM1559615" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2008" raised.by="Government" sop.no="226">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Misuse of Drugs (Classification of BZP) Amendment Bill to—</text>
+      <text>This Supplementary Order Paper inserts into the Bill a new <emphasis style="italic">clause 106G</emphasis> preserving the position of Police employees who are sitting members of local authorities.</text>
+    </para>
+    <para>
+      <text>Neither elected nor appointed sitting members will have to leave the Police when the Bill comes into force.</text>
+    </para>
+    <para>
+      <text>For so long as they are not defeated at some future election, elected sitting members—</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>postpone the date that the Bill comes into force from 18 December 2007 to the seventh day after the date on which the Bill receives the Royal assent:</text>
+            <text>will continue to be able to campaign for re-election without having to go on leave of absence; and</text>
           </para>
         </item>
-      </list>
-      <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>consequentially adjust the 6–month amnesty expiry date.</text>
+            <text>will not have to leave the Police if re-elected.</text>
           </para>
         </item>
       </list>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
