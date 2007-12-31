@@ -1,48 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1575100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="234">
-  <date>Tuesday, 2 September 2008</date>
-  <billref>Disability (United Nations Convention on the Rights of Persons with Disabilities) Bill</billref>
-  <body id="DLM1575101">
+<sop id="DLM1404400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="211">
+  <date>Tuesday, 01 July 2008</date>
+  <billref>Land Transport Management Amendment Bill</billref>
+  <body id="DLM1404401">
     <heading>Proposed amendments</heading>
-    <motion>Hon Ruth Dyson, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1575102">
-      <clause.ref>Heading to Part 2</clause.ref>
+    <motion>Hon Michael Cullen, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1404402">
+      <clause.ref>New clause 41</clause.ref>
       <sop.para>
-        <text>To omit <amend.in quote="1"><emphasis style="bold">other</emphasis></amend.in> (line 12 on page 7).</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1575103">
-      <clause.ref>New heading and new clause 12A</clause.ref>
-      <sop.para>
-        <text>To insert the following heading and clause after <emphasis style="italic">clause 12</emphasis> (after line 14 on page 9):</text>
+        <text>To insert the following clause after <emphasis style="italic">clause 40</emphasis> (after line 6 on page 119):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <crosshead id="DLM1575104" toc="yes">Amendments to Juries Amendment Act 2008</crosshead>
-          <prov id="DLM1575105" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">12A</label>
-            <heading>Amendments to Juries Amendment Act 2008</heading>
+          <prov id="DLM1404403" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">41</label>
+            <heading>Existing rights under Government Superannuation Fund Act 1956 unaffected</heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">1</label>
                 <para>
-                  <text>This section amends the Juries Amendment Act <changeable>2008</changeable>.</text>
+                  <text>Despite any thing in any other Act or any change in the majority shareholding of the company, any person who, immediately before <changeable>30 June 2008</changeable>, is employed by the company and is a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, deemed to be an employee in the Government service so long as that person continues to be an employee of the company.</text>
                 </para>
               </subprov>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">2</label>
                 <para>
-                  <text>Section 11(1) is amended by omitting <amend.in quote="1">physical</amend.in> from new section 14B(3)(b) of the Juries Act 1981.</text>
+                  <text>The Government Superannuation Fund Act 1956 applies to that person in all respects as if that person's service as an employee of the company is Government service.</text>
                 </para>
               </subprov>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">3</label>
                 <para>
-                  <text>The heading to section 13 is amended by omitting <amend.in quote="1"><emphasis style="bold">physical</emphasis></amend.in>.</text>
+                  <text>Nothing in <changeable><citation jurisdiction="nz">subsections (1) and (2)</citation></changeable> entitles any person to become a contributor to the Government Superannuation Fund after that person has ceased to be a contributor.</text>
                 </para>
               </subprov>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">4</label>
                 <para>
-                  <text>Section 13(2) is amended by omitting <amend.in quote="1">physical</amend.in>.</text>
+                  <text>For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with this section, to all employees of the company who are contributors to the Government Superannuation Fund, <def-term id="DLM1404404">controlling authority</def-term>, in relation to the those employees, means the company's board.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">5</label>
+                <para>
+                  <text>For the purposes of this section, <def-term id="DLM1404405">company</def-term> means Toll NZ Consolidated Limited; and includes any successor company into which all or some of its assets, liabilities, and employees are transferred or merged, provided the Crown wholly owns (either directly or indirectly) the successor company or companies.</text>
                 </para>
               </subprov>
             </prov.body>
@@ -51,10 +50,10 @@
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1575106" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="234">
+  <explnote id="DLM1404406" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="211">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Juries Amendment Act 2008 (which is yet to come into force) to make the terminology consistent with the changes made to the Juries Act 1981 by clause 12 of the Bill. It also amends the Part 2 heading to facilitate the division of this Bill into 2 separate Bills.</text>
+      <text>This Supplementary Order Paper amends the Land Transport Management Amendment Bill. The amendment adds a <emphasis style="italic">new clause 41</emphasis> to the Bill. It provides that, despite any change in the majority shareholding of Toll NZ Consolidated Limited, the existing rights that its employees may have with respect to the Government Superannuation Fund are unaffected.</text>
     </para>
   </explnote>
 </sop>
