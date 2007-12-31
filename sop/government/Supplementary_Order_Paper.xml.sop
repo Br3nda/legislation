@@ -1,60 +1,463 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1404400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="211">
-  <date>Tuesday, 01 July 2008</date>
-  <billref>Land Transport Management Amendment Bill</billref>
-  <body id="DLM1404401">
-    <heading>Proposed amendments</heading>
-    <motion>Hon Michael Cullen, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1404402">
-      <clause.ref>New clause 41</clause.ref>
-      <sop.para>
-        <text>To insert the following clause after <emphasis style="italic">clause 40</emphasis> (after line 6 on page 119):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1404403" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">41</label>
-            <heading>Existing rights under Government Superannuation Fund Act 1956 unaffected</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>Despite any thing in any other Act or any change in the majority shareholding of the company, any person who, immediately before <changeable>30 June 2008</changeable>, is employed by the company and is a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, deemed to be an employee in the Government service so long as that person continues to be an employee of the company.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>The Government Superannuation Fund Act 1956 applies to that person in all respects as if that person's service as an employee of the company is Government service.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>Nothing in <changeable><citation jurisdiction="nz">subsections (1) and (2)</citation></changeable> entitles any person to become a contributor to the Government Superannuation Fund after that person has ceased to be a contributor.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
-                <para>
-                  <text>For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with this section, to all employees of the company who are contributors to the Government Superannuation Fund, <def-term id="DLM1404404">controlling authority</def-term>, in relation to the those employees, means the company's board.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
-                <para>
-                  <text>For the purposes of this section, <def-term id="DLM1404405">company</def-term> means Toll NZ Consolidated Limited; and includes any successor company into which all or some of its assets, liabilities, and employees are transferred or merged, provided the Crown wholly owns (either directly or indirectly) the successor company or companies.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
+<sop id="DLM1198309" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="186">
+  <date>Wednesday, 12 March 2008</date>
+  <billref>Statutes Amendment Bill (No 2)</billref>
+  <body id="DLM1198310">
+    <heading>Proposed motion to divide Bill into 14 Bills</heading>
+    <motion>Hon Lianne Dalziel, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198311" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act is the Biosecurity Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198312" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198313" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Cadastral Survey Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198314" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 3</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198315" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Crimes Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198316" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 4</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 4</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198317" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Criminal Investigations (Bodily Samples) Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198318" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 5</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 5</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198319" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the District Courts Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198320" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 6</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 6</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198321" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Fisheries Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198322" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 7</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 7</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198323" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Historic Places Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198324" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 8</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 8</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198325" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Misuse of Drugs Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198326" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 9</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 9</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198327" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the National Parks Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198328" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 10</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 10</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198329" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the New Zealand Horticulture Export Authority Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198330" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 11</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 11</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198331" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Radiocommunications Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198332" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 12</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 12</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198333" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Reserves Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198334" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 13</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 13</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198335" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Summary Proceedings Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198336" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 14</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 14</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198337" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Veterinarians Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198338" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote id="DLM1404406" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="211">
+  <explnote id="DLM1198339" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="186">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Land Transport Management Amendment Bill. The amendment adds a <emphasis style="italic">new clause 41</emphasis> to the Bill. It provides that, despite any change in the majority shareholding of Toll NZ Consolidated Limited, the existing rights that its employees may have with respect to the Government Superannuation Fund are unaffected.</text>
+      <text>This motion divides the Statutes Amendment Bill (No 2) into 14 separate Bills.</text>
     </para>
   </explnote>
 </sop>
-<!--End of file, do NOT remove.-->
