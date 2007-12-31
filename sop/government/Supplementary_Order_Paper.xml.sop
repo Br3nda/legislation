@@ -1,29 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1194000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="182">
-  <date>Tuesday, 11 March 2008</date>
-  <billref>Manukau City Council (Control of Graffiti) Bill</billref>
-  <body id="DLM1194001">
+<sop id="DLM1375000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0006" stage="published" year="2008" raised.by="Government" sop.no="206">
+  <date>Tuesday, 17 June 2008</date>
+  <billref>Criminal Procedure Bill</billref>
+  <body id="DLM1375001">
     <heading>Proposed amendments</heading>
-    <motion>Hon George Hawkins, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1194002">
-      <clause.ref>New clause 1A</clause.ref>
+    <motion>Hon Annette King, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1375002">
+      <clause.ref>Clause 92</clause.ref>
       <sop.para>
-        <text>To insert the following clause after <emphasis style="italic">clause 1</emphasis> (after line 3 on page 1):</text>
+        <text><emphasis style="italic">New section 180(3)</emphasis>: to omit paragraph (c) (line 17 on page 96) and substitute the following paragraphs:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">c</label>
+            <para>
+              <text>any written submissions; and</text>
+            </para>
+          </label-para>
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">d</label>
+            <para>
+              <text>any oral submissions made in accordance with <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New section 180(4) and (5)</emphasis>: to omit these subsections (lines 18 to 22 on page 96) and substitute the following subsections:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">4</label>
+            <para>
+              <text>A party who applies for an oral evidence order may make oral submissions to the Judge in support of that application.</text>
+            </para>
+          </subprov>
+          <subprov quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">5</label>
+            <para>
+              <text>If a party makes oral submissions under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>, the other party may also make oral submissions to the Judge on that application.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1375003">
+      <clause.ref>Heading above clause 95</clause.ref>
+      <sop.para>
+        <text>To insert after <amend.in quote="1"><emphasis style="italic">consequential amendments,</emphasis></amend.in> (line 20 on page 121) <amend.in quote="1"><emphasis style="italic">review provision</emphasis>,</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1375004">
+      <clause.ref>New clause 97A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 97</emphasis> (after line 28 on page 121):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1194003" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">1A</label>
-            <heading>Commencement</heading>
+          <prov id="DLM1375005" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">97A</label>
+            <heading>Review of new Part 5 of principal Act</heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">1</label>
                 <para>
-                  <text><changeable><citation jurisdiction="nz">Section 6</citation></changeable> comes into force on the day that is 3 months after the date on which this Act receives the Royal assent.</text>
+                  <text>The Solicitor-General, or any other person nominated by the Solicitor-General for the purpose, must as soon as practicable after the expiry of 2 years from the commencement of <changeable><citation jurisdiction="nz">Part 5</citation></changeable> of the principal Act (as inserted by <changeable><citation jurisdiction="nz">section 92 </citation></changeable> of this Act) conduct a review of the operation of <changeable><citation jurisdiction="nz">Part 5</citation></changeable>.</text>
                 </para>
               </subprov>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">2</label>
                 <para>
-                  <text>The rest of this Act comes into force on the day after the date on which it receives the Royal assent.</text>
+                  <text>The Solicitor-General or other person conducting the review must—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>consult with—</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para>
+                          <text>the New Zealand Law Society:</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para>
+                          <text>the Ministry of Justice:</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">iii</label>
+                        <para>
+                          <text>any other person or body he or she considers appropriate to consult with; and</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>report on the outcome of that review to the Minister of Justice within 6 months of commencing it; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>advise in that report whether <changeable><citation jurisdiction="nz">Part 5</citation></changeable> should be retained, amended, or replaced.</text>
+                    </para>
+                  </label-para>
                 </para>
               </subprov>
             </prov.body>
@@ -31,29 +110,48 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM1194004">
-      <clause.ref>Clause 2</clause.ref>
+    <sop.amend id="DLM1375006">
+      <clause.ref/>
       <sop.para>
-        <text>To omit this clause (lines 6 to 8 on page 1).</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1194005">
-      <clause.ref>Clause 15</clause.ref>
-      <sop.para>
-        <text>To omit this clause (lines 3 to 18 on page 9).</text>
+        <text/>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1194006" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="182">
+  <explnote id="DLM1375007" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0006" stage="published" year="2008" raised.by="Government" sop.no="206">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Manukau City Council (Control of Graffiti) Bill. The first amendment relates to the commencement clause. <emphasis style="italic">Clause 6</emphasis> requires that retailers of spray paint cans secure cans of spray paint so that members of the public cannot access them without the assistance of the seller or his or her employee or agent.</text>
+      <text>This Supplementary Order Paper amends the Criminal Procedure Bill in 2 respects.</text>
     </para>
     <para>
-      <text>The new commencement clause delays the commencement of this provision for 3 months so that affected retailers have time to alter their retail premises to comply with the Act.</text>
+      <text>First, it amends <emphasis style="italic">new section 180</emphasis> of the Summary Proceedings Act 1957 (inserted by <emphasis style="italic">clause 92</emphasis> of the Bill) to remove the provisions of that section that provide that parties to an application for an oral evidence order have no right to make oral submissions to a Judge, and that confer a residual discretion on the Judge to hear oral submissions if he or she thinks this is necessary. The Supplementary Order Paper provides, instead, that a party who applies for an oral evidence order has the right to make oral submissions to a Judge in support of the application, and if the applicant makes oral submissions the other party may also make oral submissions to the Judge on that application.</text>
     </para>
     <para>
-      <text>The second amendment omits <emphasis style="italic">clause 15</emphasis>. This clause requires persons detained for an offence under the Act by the police or an authorised person to provide their name, address, and the address and whereabouts of others who may be connected with the offence. This appears to infringe section 23(4) of the New Zealand Bill of Rights Act 1990, where any person detained for an offence or a suspected offence has the right to refrain from making a statement.</text>
+      <text>Secondly, the Supplementary Order Paper inserts a <emphasis style="italic">new clause 97A</emphasis> requiring the Solicitor-General, or a person nominated by the Solicitor-General, to review the operation of <emphasis style="italic">new Part 5</emphasis> of the Summary Proceedings Act 1957 as soon as practicable after it has been in operation for 2 years. The person conducting the review must—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>consult with the Ministry of Justice, the New Zealand Law Society, and any other person or body he or she considers appropriate to consult with; and</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>report on the outcome of the review to the Minister of Justice within 6 months of commencing it; and</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>advise in that report whether <emphasis style="italic">new Part 5</emphasis> of the Summary Proceedings Act 1957 should be retained, amended, or replaced.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
