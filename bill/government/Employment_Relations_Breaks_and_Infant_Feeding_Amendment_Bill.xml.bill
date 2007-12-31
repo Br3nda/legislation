@@ -1,200 +1,369 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM1229700" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2008" bill.no="205" bill.type="government" stage="2" year="2008">
+<bill id="DLM1229700" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2008" bill.no="205" bill.type="government" stage="1" year="2008">
   <billdetail>
     <title>Employment Relations (Breaks and Infant Feeding) Amendment Bill</title>
     <billtype>Government Bill</billtype>
-    <repnote>As reported from the Transport and Industrial Relations Committee</repnote>
-    <commentary id="DLM1439700" in.amend="false" irdnumbering="no" official="yes" bill.no="205" bill.type="government" stage="2" year="2008">
-      <heading>Commentary</heading>
-      <comm.lev1>
-        <heading>Recommendation</heading>
+    <explnote id="DLM1229701" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="205" bill.type="government" stage="1" year="2008">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
         <para>
-          <text>The Transport and Industrial Relations Committee has examined the Employment Relations (Breaks and Infant Feeding) Amendment Bill and recommends that it be passed with the amendments shown.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Introduction</heading>
-        <para>
-          <text>The purpose of this bill is to amend the Employment Relations Act 2000 to require employers to provide employees with meal and rest breaks, and with appropriate facilities and breaks for those who wish to breastfeed (or to express breast milk).</text>
+          <text>This Bill implements government policy to make legislative provision for the promotion and protection of infant feeding through breastfeeding and for rest and meal breaks. The Bill amends the Employment Relations Act 2000 (the <emphasis style="bold">Employment Relations Act</emphasis>) to require employers to provide facilities and breaks for employees who wish to breastfeed and to provide employees with rest and meal breaks.</text>
         </para>
         <para>
-          <text>The bill supports Government policy by protecting and promoting breastfeeding. The provisions regarding breastfeeding will also be supported by a code of employment practice.                     </text>
+          <text>The objective of these amendments is to create minimum standards for a modern workforce in respect of the protection and promotion of infant feeding through breastfeeding and the provision of rest and meal breaks. Further, these amendments support government policy concerning the choices of employees, particularly regarding their work-life balance and caring responsibilities.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Amendments</heading>
-        <comm.lev2>
-          <heading>Breastfeeding facilities and breaks</heading>
+        <explnote.subhead2>Infant feeding</explnote.subhead2>
+        <para>
+          <text>This Bill amends the Employment Relations Act to require employers to provide appropriate facilities and breaks for employees who wish to breastfeed (including expressing breast milk), as far as is reasonable and practicable. In determining what is reasonable and practicable, employers will be able to take into account their operational environment and resources. The breaks are unpaid unless the employee and employer agree otherwise.</text>
+        </para>
+        <para>
+          <text>The breastfeeding breaks are to be provided in addition to the rest and meal breaks described below. Where an employer and employee agree, however, the rest and meal breaks can also be used as breastfeeding breaks.</text>
+        </para>
+        <para>
+          <text>A code of employment practice must be approved by the Minister as soon as practicable after the commencement of the Bill. The purpose of the code would be to provide employers with guidance on how to fulfil their obligations concerning the provision of breastfeeding breaks and facilities.</text>
+        </para>
+        <para>
+          <text>Employers may be liable to a penalty imposed by the Employment Relations Authority if they do not comply with these requirements. The maximum penalty will be the amount currently provided in the Employment Relations Act, being $5,000 for individuals and $10,000 for a company or other corporation. The Authority will also have the power to order employers to comply with their obligations.</text>
+        </para>
+        <explnote.subhead2>Rest and meal breaks</explnote.subhead2>
+        <para>
+          <text>This Bill amends the Employment Relations Act to require employers to provide employees with paid rest breaks and unpaid meal breaks. Employees will be entitled to:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>one 10-minute rest break if they have worked 4 hours or less:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>one 10-minute rest break and one 30-minute meal break if they have worked more than 4 hours but not more than 6 hours; and</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>two 10-minute rest breaks and one 30-minute meal break if they have worked more than 6 hours but not more than 8 hours.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>If an employee has worked for more than 8 hours, the requirements above will apply as if their work period had started again at the end of the eighth hour.</text>
+        </para>
+        <para>
+          <text>Where an employee is entitled to one 10-minute rest break, the employer must provide that in the middle of the work period where reasonable and practicable. Where an employee is entitled to one 10-minute rest break and one 30-minute meal break, the employer must provide the rest break one-third of the way through the work period and the meal break two-thirds of the way through the work period where reasonable and practicable. Where an employee is entitled to two 10-minute rest breaks and one 30-minute meal break, the employer must provide the meal break in the middle of the work period, and the rest breaks halfway between the start of work and the meal break and the meal break and the finish of work where reasonable and practicable. Employees and employers, however, may agree to vary the timing of the breaks.</text>
+        </para>
+        <para>
+          <text>Employers may be liable to a penalty under the Employment Relations Act imposed by the Employment Relations Authority if they do not comply with these requirements. The maximum penalty will be the amount currently provided in the Employment Relations Act, as described above. The Authority will also have the power to order employers to comply with their obligations.</text>
+        </para>
+        <para>
+          <text>Employers and employees will be able to agree to enhanced or additional entitlements to rest and meal breaks.</text>
+        </para>
+        <para>
+          <text>The new rest and meal break entitlements will not apply to employees who are covered by other legislative or regulatory provisions for rest and meal breaks, where those other provisions are enhanced or additional to the entitlements in this Bill.</text>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
           <para>
-            <text>While new section 69Y requires the employer to provide facilities and breaks for employees who wish to breastfeed “so far as it is reasonable and practicable in the circumstances”, clause 4 omits these words. Some submitters believed that this creates an inconsistency.</text>
+            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
           </para>
           <para>
-            <text>We therefore recommend that the words “so far as is reasonable and practicable in the circumstances” be added to clause 4(a) so as to make it consistent with new section 69Y.</text>
+            <text><emphasis style="italic">Clause 2</emphasis> is the commencement clause. The Bill is to come into force 6 months after the date on which it receives the Royal assent.</text>
           </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Entitlement to rest breaks and meal breaks </heading>
-          <para>
-            <text>New section 69ZD(2), when read with new section 69ZD(5) and the definition of “work period” in section 69ZD, would entitle employees to a third 10-minute rest break in each working day if their work period (which includes breaks) were just over eight hours long. This is because no period of work is specified after which the entitlement would begin to apply. We therefore recommend that section 69ZD(2) be amended so that employees would become entitled to a 10-minute rest break after having worked for two hours or more, but not more than four hours. When read with section 69ZD(5), this would also mean that an employee would become entitled to a third 10-minute rest break if his or her work period were 10 hours or more.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Timing of rest breaks</heading>
-          <para>
-            <text>Many submitters were concerned that the bill is too prescriptive about when rest and meal breaks are to be taken.</text>
-          </para>
-          <para>
-            <text>The intention of section 69ZE(5) is to provide employers and employees with the flexibility to agree when rest and meal breaks are to be taken during the work period. Only in the absence of an agreement by both parties does the bill prescribe the timing of those breaks in sections 69ZE (1) to (4). </text>
-          </para>
-          <para>
-            <text>Many submitters were concerned, however, that section 69ZE(5) does not make it clear that the timing of rest and meal breaks may be agreed between employers and employees.</text>
-          </para>
-          <para>
-            <text>We recommend that section 69ZE(5) be deleted and new section 69ZE(1AA) inserted, to make it clear that rest and meal breaks are to be observed at times agreed between employers and employees or as specified by sections 69ZE(1) to (4) if no such agreement exists.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Relationship between Part and employment agreements</heading>
-          <para>
-            <text>We recommend that the bill be amended to clarify that section 69ZG, which provides that an employment agreement may not exclude, restrict, or reduce an employee’s statutory break entitlements, does not override the provisions of section 69ZE, which allows an employer and employee to agree about when during the work period the break entitlements are taken.</text>
-          </para>
-        </comm.lev2>
-      </comm.lev1>
-      <comm.appendix>
-        <heading>Appendix</heading>
-        <comm.lev2>
-          <heading>Committee process</heading>
-          <para>
-            <text>The Employment Relations (Breaks and Infant Feeding) Amendment Bill was referred to the committee on 9 April 2008. The closing date for submissions was 19 May 2008. We received and considered 46 submissions from interested groups and individuals. We heard 22 submissions, which included holding hearings in Auckland.</text>
-          </para>
-          <para>
-            <text>We received advice from the Department of Labour. </text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Committee membership</heading>
-          <para>
-            <text>Hon Mark Gosche (Chairperson)</text>
-          </para>
-          <para>
-            <text>Hon Maurice Williamson (Deputy Chairperson)</text>
-          </para>
-          <para>
-            <text>David Bennett</text>
-          </para>
-          <para>
-            <text>Peter Brown</text>
-          </para>
-          <para>
-            <text>Russell Fairbrother</text>
-          </para>
-          <para>
-            <text>Darien Fenton</text>
-          </para>
-          <para>
-            <text>Lesley Soper</text>
-          </para>
-          <para>
-            <text>Hon Judith Tizard</text>
-          </para>
-          <para>
-            <text>Kate Wilkinson</text>
-          </para>
-          <para>
-            <text>Pansy Wong</text>
-          </para>
-          <para>
-            <text>Sue Moroney replaced Hon Judith Tizard for this item of business.</text>
-          </para>
-        </comm.lev2>
-      </comm.appendix>
-    </commentary>
+        </clause.desc>
+        <explnote.part id="DLM1229702">
+          <label auto.number="no" denominator="yes">1 </label>
+          <heading>Preliminary provisions</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 3</emphasis> provides that the Bill amends the Employment Relations Act 2000.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4</emphasis> states the purpose of the Bill, which is to insert 2 new parts into the Employment Relations Act 2000 to—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>require facilities and breaks to be provided for employees who wish to breastfeed in the workplace or during work periods; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>require employees to be provided with rest breaks and meal breaks.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM1229703">
+          <label auto.number="no" denominator="yes">2 </label>
+          <heading>Amendments to principal Act</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5</emphasis> inserts <emphasis style="italic">new Parts 6C and 6D</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New Part 6C</emphasis>, comprising <emphasis style="italic">new sections 69X to 69ZB</emphasis>, deals with breastfeeding facilities and breaks.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69X</emphasis> contains definitions of breastfeeding and work period.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69Y</emphasis> states an employer's obligation to provide breastfeeding facilities and breaks.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69Z</emphasis> clarifies that breaks under this part are additional to breaks provided under <emphasis style="italic">new Part 6D</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69ZA</emphasis> requires the Minister of Labour, as soon as practicable after the commencement of <emphasis style="italic">new Part 6C</emphasis>, to approve a code of employment practice relating to an employer's obligation under <emphasis style="italic">new section 69Y</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69ZB</emphasis> provides that an employer who does not comply with <emphasis style="italic">new section 69Y</emphasis> is liable to a penalty imposed by the Employment Relations Authority.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New Part 6D</emphasis>, comprising <emphasis style="italic">new sections 69ZC to 69ZH</emphasis>, deals with rest breaks and meal breaks.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69ZC</emphasis> contains a definition of work period.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69ZD</emphasis> specifies an employee's entitlement to rest breaks and meal breaks according to the duration of an employee's work period.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69ZE</emphasis> specifies when, during an employee's work period, an employer is to provide rest breaks and meal breaks.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69ZF</emphasis> provides that an employer who does not comply with <emphasis style="italic">new sections 69ZD and 69ZE</emphasis> is liable to a penalty imposed by the Authority.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69ZG</emphasis> clarifies that <emphasis style="italic">new Part 6D</emphasis> does not prevent an employer providing an employee with enhanced or additional rest breaks and meal breaks.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 69ZH</emphasis> clarifies that where rest breaks or meal breaks are provided under another enactment, then whether the Part or the other enactment prevails is determined according to which provides additional or enhanced breaks.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> amends section 137(1)(a) (which specifies the matters in relation to which the Employment Relations Authority may issue compliance orders) to insert references to <emphasis style="italic">new Parts 6C and 6D</emphasis>.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+      <explnote.ris>
+        <heading>Regulatory impact statement</heading>
+        <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
+        <para>
+          <text>Breastfeeding is critical to providing the best start for infants and important to both infant and maternal health. Evidence suggests, however, that access to breastfeeding breaks and facilities in the workplace is mixed.</text>
+        </para>
+        <para>
+          <text>There is no explicit legal requirement for employees to have rest and meal breaks. While almost 93% of active collective agreements provide for rest and meal breaks, there are some problems regarding the organisation of work in specific sectors, which means that the actual provision of rest and meal breaks may be inadequate. Little is known about whether break provisions are included in individual employment agreements, which cover a majority of the workforce.</text>
+        </para>
+        <para>
+          <text>The proposed Employment Relations (Breaks and Infant Feeding) Amendment Bill (the <emphasis style="bold">Bill</emphasis>) seeks legislative amendments to promote and protect infant feeding by requiring employers to provide facilities and breaks for employees who wish to breastfeed, supported by a code of employment practice. The Bill would also provide an entitlement to minimum rest and meal break provisions.</text>
+        </para>
+        <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
+        <para>
+          <text>A regulatory impact statement (<emphasis style="bold">RIS</emphasis>) was not submitted at the time approval for the policy relating to the Bill was sought from Cabinet, due to the time frame allowed for the preparation of that paper. The Regulatory Impact Analysis Unit has therefore not reviewed the regulatory impact analysis (RIA) or RIS for adequacy as required for proposals that meet the economically significant criteria, as decisions have already been made. The Department of Labour considers the RIA and RIS to be adequate and that they comply with the Code of Good Regulatory Practice.</text>
+        </para>
+        <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
+        <explnote.subhead2>Infant feeding</explnote.subhead2>
+        <para>
+          <text>Breastfeeding is key to providing the best start for New Zealand infants, and important for both infant and maternal health. This was most recently reiterated in the Government Response to the Inquiry into Obesity and Type 2 Diabetes.<footnote id="DLM1229704"><para><text><emphasis style="italic">Government Response to the Inquiry into Obesity and Type 2 Diabetes 2007</emphasis>, Presented to the House of Representatives in accordance with Standing Order 253, November 2007, refer to Cabinet Minute (07) 42/4a.</text></para></footnote></text>
+        </para>
+        <para>
+          <text>Breastfeeding is a key indicator for Health Target 8 of the Health Targets 2007/08 to improve nutrition, increase physical activity, and reduce obesity.<footnote id="DLM1229705"><para><text>Minister of Health, 2007, <emphasis style="italic">Health Targets: Moving towards healthier futures 2007/08</emphasis>, Wellington, Ministry of Health.</text></para></footnote> A number of government initiatives are underway to protect, promote, and support breastfeeding:</text>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">a</label>
+            <para>
+              <text>establishing the National Breastfeeding Advisory Committee in 2006. The Committee provides advice on breastfeeding issues, including developing a national plan for breastfeeding. The plan is being finalised for wider public comment. It recognises the need for supportive workplace breastfeeding environments to influence breastfeeding duration:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
+            <para>
+              <text>implementing the Baby Friendly Hospital, and piloting the Baby Friendly Community Initiative. These initiatives aim to give women access to supportive hospital and community environments, educated health professionals, and personal education about breastfeeding:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>continuing the work programme to implement and monitor the <emphasis style="italic">International Code of Marketing of Breast-milk Substitutes in New Zealand: The Code in New Zealand</emphasis> (Ministry of Health, 2007):</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">d</label>
+            <para>
+              <text>providing policy in,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">i</label>
+                <para>
+                  <text><emphasis style="italic">Food and Nutrition Guidelines for Healthy Pregnant and Breastfeeding Women: A background paper</emphasis> (2006); and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">ii</label>
+                <para>
+                  <text><emphasis style="italic">Food and Nutrition Guidelines for Healthy Infants and Toddlers (Aged 0-2): A background paper</emphasis>, which is currently being updated and will be published by mid-2008:</text>
+                </para>
+              </label-para>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">e</label>
+            <para>
+              <text>promoting and supporting breastfeeding under the Healthy Eating–Healthy Action (<emphasis style="bold">HEHA</emphasis>) strategy and implementation plan. Specific initiatives undertaken by HEHA include a national breastfeeding promotion campaign which is due to be launched later this year. This campaign aims to increase the proportion of infants being partially breastfed beyond 6 months:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">f</label>
+            <para>
+              <text>providing several publications on breastfeeding, including a pamphlet on combining breastfeeding and work, and the Department of Labour guidelines (2005) <emphasis style="italic">Breastfeeding in the Workplace: An employer’s guide to making it work</emphasis>.</text>
+            </para>
+          </label-para>
+        </para>
+        <para>
+          <text>The main barriers to maintaining breastfeeding for New Zealand women are lack of community support and acceptance of breastfeeding in public, and women returning to work.</text>
+        </para>
+        <para>
+          <text>The evidence about problems with mothers' access to breastfeeding breaks and facilities in the workplace is mixed. The parental leave evaluation 2005/06 found that space for breastfeeding was offered by 69% of small and 41% of large employers. Overall, 63% of employers said they offered breastfeeding facilities. This contrasts with the 19% of mothers who had returned to work from paid parental leave and said their employer offered breastfeeding facilities.</text>
+        </para>
+        <para>
+          <text>The Equal Employment Opportunities Trust’s 2006 work-life survey found that approximately 47% of surveyed employers provide a fridge for storing breast milk and about 34% provide an onsite breastfeeding space.</text>
+        </para>
+        <para>
+          <text>While there is willingness among some employers to facilitate breastfeeding, evidence nevertheless suggests workplace policies and/or provisions for the support of breastfeeding or breast milk collection and storage are ad hoc in nature, vary widely, and are in their infancy in New Zealand.<footnote id="DLM1229706"><para><text>Galtry, J &amp; Annandale, M (2003), <emphasis style="italic">Developing Breastfeeding-Friendly Workplaces in New Zealand, </emphasis>Equal Employment Opportunities Contestable Fund Project.</text></para></footnote></text>
+        </para>
+        <para>
+          <text>The Innocenti Declaration on the Protection, Promotion and Support of Breastfeeding (WHO 1990/2005) identified 4 operational targets for governments, including enacting legislation to protect the breastfeeding rights of working women.<footnote id="DLM1229707"><para><text>The recommended duration of exclusive breastfeeding by the WHO is 6 months and complementary breastfeeding (with the introduction of other food and drinks) for up to 2 years or more. WHO advises that workplace support should be made available for the first 12 months after the birth of a baby, and that after that a woman should be more easily able to balance work and breastfeeding (WHO, 1997, <emphasis style="italic">WHO’s Contribution to the International Labour Organisation’s Law and Practice Report on Maternity Protection</emphasis>, Geneva).</text></para></footnote> This target is also supported by ILO Convention 183 on Maternity Protection, which provides for the right for women to take 1 or more breaks during the working day to breastfeed their child. These breaks are to count as time worked. Maternity Recommendation 2000, R 191 also requires, where practicable, that facilities for nursing under adequate hygienic conditions be established at or near the workplace. New Zealand has not ratified either this Convention or Recommendation 191. Their status is aspirational only.</text>
+        </para>
+        <explnote.subhead2>Rest and meal breaks</explnote.subhead2>
+        <para>
+          <text>There is no explicit legal requirement for employees to have rest and meal breaks. Almost 93% of active collective agreements provide for rest and meal breaks and most commonly provide 3 breaks during an 8-hour working day. The breaks usually consist of 30–60 minutes for meal breaks and rest breaks are generally 10–15 minutes in duration. There is little information on the scheduling of breaks and this is usually at the discretion of the employer or employee in specific sectors. Little is known about whether break provisions are included in individual employment agreements, which cover a majority of the workforce. Some flow-on from collective agreements, however, is expected as occurs with other provisions.</text>
+        </para>
+        <para>
+          <text>Some problems have been identified clustered around the organisation of work in specific sectors where the nature of the job and/or the characteristics of the employees mean that provision of rest and meal breaks may be inadequate. The service and manufacturing sectors appear to be the most prone to provide less than optimal rest and meal breaks.</text>
+        </para>
+        <para>
+          <text>The scheduling and take-up of breaks may also be an issue in some workplaces. Evidence suggests that there is a lack of information available for employers when developing rosters, and scheduling and timing rest and meal breaks.</text>
+        </para>
+        <explnote.ird-crosshead>Objective</explnote.ird-crosshead>
+        <para>
+          <text>The objective of the proposed Bill is to create minimum standards for a modern workforce in respect of the promotion and protection of infant feeding through breastfeeding and provision of rest and meal breaks. It also supports government policy concerning the choices of employees, particularly regarding their work-life balance and caring responsibilities.</text>
+        </para>
+        <explnote.ird-crosshead>Alternative options</explnote.ird-crosshead>
+        <para>
+          <text>No alternative options were considered.</text>
+        </para>
+        <explnote.ird-crosshead>Preferred options</explnote.ird-crosshead>
+        <explnote.subhead2>Infant feeding</explnote.subhead2>
+        <para>
+          <text>The proposed Bill seeks to promote and protect infant feeding through breastfeeding by amending the Employment Relations Act 2000 (the <emphasis style="bold">Act</emphasis>) to place a statutory obligation on employers to facilitate breastfeeding in the workplace through the provision of facilities and breaks, supported by a code of employment practice. Employees would be able to access the existing remedies and enforcement measures provided by the Act in the event of a dispute with their employer concerning the provision of breastfeeding breaks and facilities.</text>
+        </para>
+        <explnote.subhead2>Impacts</explnote.subhead2>
+        <para>
+          <text>These amendments would improve the health and well-being of mothers and infants and would benefit both families and employers. It supports parents’ preferences, enabling mothers to return to work at a time of their choosing while continuing to breastfeed, and government policy to support parents’ choices on care for the child in the first year of life. Benefits for employers include: supporting employees to return to work earlier following childbirth should they choose; enhancing staff retention thus reducing recruitment and training costs; increasing employee morale and loyalty; and reducing employee absenteeism to care for sick infants.</text>
+        </para>
+        <para>
+          <text>Such a provision would impose minimal costs on employers. Small businesses may face difficulties establishing the physical infrastructure, such as private areas and refrigerators to store expressed milk, to comply with the amendments. The requirement to take all reasonable and practicable measures (taking into account their operational environment and resources), however, would assist employers to support breastfeeding employees in a way that best fits with their business conditions.</text>
+        </para>
+        <explnote.subhead2>Rest and meal breaks</explnote.subhead2>
+        <para>
+          <text>The proposed Bill seeks amendments to the Act to provide an entitlement to paid rest breaks and unpaid meal breaks.</text>
+        </para>
+        <para>
+          <text>It is proposed that employees be entitled to a minimum of—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>one 10-minute rest break if they have worked 4 hours or less:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>one 10-minute rest break and one 30-minute meal break if they have worked more than 4 hours but not more than 6 hours; and</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>two 10-minute rest breaks and one 30-minute meal break if they have worked more than 6 hours but not more than 8 hours.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>If an employee has worked for more than eight hours, the requirements listed in the previous paragraph will apply as if their work period had started again at the end of the eighth hour.</text>
+        </para>
+        <para>
+          <text>It is proposed that the rest and meal breaks be arranged so that they are taken as near to the middle of the work period as appropriate.</text>
+        </para>
+        <para>
+          <text>These amendments provide a minimum standard across workplaces and amongst employees. Employers and employees will be able to agree on enhanced or additional entitlements to rest and meal breaks.</text>
+        </para>
+        <para>
+          <text>Employees would be able to access the existing remedies and enforcement measures provided by the Act in the event of a dispute with their employer concerning rest and meal breaks.</text>
+        </para>
+        <para>
+          <text>These amendments will not apply to employees who are already covered by other legislative provisions or regulations for rest and meal breaks, where those other provisions are enhanced or additional to the entitlements in the proposed Bill.</text>
+        </para>
+        <explnote.subhead2>Impacts</explnote.subhead2>
+        <para>
+          <text>There is a risk that legislating for rest and meal breaks will be seen as reducing workplace flexibility. A legislative approach also presents a risk in sectors and industries where rest and meal breaks of specified duration and frequency are incompatible with business operations.</text>
+        </para>
+        <para>
+          <text>These amendments, however, are consistent with the majority of active collective agreements so would be expected to support current practice and not require a significant change to current workplace practices in most instances. They would also provide a minimum code to support provision of breaks in those sectors or workplaces where provisions may be light or restricted and where vulnerable workers are likely to be present. </text>
+        </para>
+        <explnote.ird-crosshead>Implementation and review</explnote.ird-crosshead>
+        <para>
+          <text>The proposed commencement date for the Act is six months after the date of enactment. This is to allow sufficient time for employers to make any necessary adjustments to comply with the new requirements of the Act. It will also allow the Department of Labour sufficient time to prepare for the implementation of the Act, including communicating the new rights and responsibilities to affected parties.</text>
+        </para>
+        <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
+        <para>
+          <text>The Ministry of Justice was consulted during the drafting of the Bill. The draft Bill’s provisions concerning the promotion and protection of infant feeding through breastfeeding reflect their advice.</text>
+        </para>
+        <para>
+          <text>The Ministries of Women’s Affairs and Health were informed of the content of the draft Bill. The NZCTU and Business New Zealand were also informed of the content of the draft Bill.</text>
+        </para>
+      </explnote.ris>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from a select committee</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM1229708">
     <member>Hon Trevor Mallard</member>
     <title>Employment Relations (Breaks and Infant Feeding) Amendment Bill</title>
@@ -232,7 +401,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM1229713" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="205" bill.type="government" stage="2" year="2008">
+    <part id="DLM1229713" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="205" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Preliminary provisions</heading>
       <prov id="DLM1229714" irdnumbering="no" skeleton="no" toc="yes">
@@ -258,7 +427,7 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
-                  <text>require facilities and breaks to be provided<insertwords amend.level1="insert-unanimous">, so far as is reasonable and practicable in the circumstances,</insertwords> for employees who wish to breastfeed in the workplace or during work periods; and</text>
+                  <text>require facilities and breaks to be provided for employees who wish to breastfeed in the workplace or during work periods; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
@@ -272,7 +441,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM1229716" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="205" bill.type="government" stage="2" year="2008">
+    <part id="DLM1229716" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="205" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Amendments to principal Act</heading>
       <prov id="DLM1229717" irdnumbering="no" skeleton="no" toc="yes">
@@ -285,7 +454,7 @@
               <text>The following Parts are inserted after Part 6B:</text>
               <amend quote="1">
                 <part bill.no="205" id="DLM1229718" in.amend="true" irdnumbering="no" official="yes" quote="1" toc="yes" year="2008">
-                  <label auto.number="no" denominator="yes" quote="1">6C</label>
+                  <label auto.number="no" denominator="yes" quote="1"> 6C</label>
                   <heading quote="1">Breastfeeding facilities and breaks</heading>
                   <prov id="DLM1229719" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                     <label auto.number="no" denominator="yes" quote="1">69X</label>
@@ -407,7 +576,7 @@
                   </prov>
                 </part>
                 <part bill.no="205" id="DLM1229729" in.amend="true" irdnumbering="no" official="yes" quote="1" toc="yes" year="2008">
-                  <label auto.number="no" denominator="yes" quote="1">6D</label>
+                  <label auto.number="no" denominator="yes" quote="1"> 6D</label>
                   <heading quote="1">Rest breaks and meal breaks</heading>
                   <prov id="DLM1229730" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                     <label auto.number="no" denominator="yes" quote="1">69ZC</label>
@@ -458,7 +627,7 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">2</label>
                         <para>
-                          <text>If an employee's work period is<struckoutwords amend.level1="struckout-unanimous"> 4 hours or less</struckoutwords><insertwords amend.level1="insert-unanimous"> 2 hours or more but not more than 4 hours</insertwords>, the employee is entitled to one 10-minute paid rest break.</text>
+                          <text>If an employee's work period is 4 hours or less, the employee is entitled to one 10-minute paid rest break.</text>
                         </para>
                       </subprov>
                       <subprov quote="1" skeleton="no">
@@ -521,34 +690,16 @@
                     <label auto.number="no" denominator="yes" quote="1">69ZE</label>
                     <heading>When employer to provide rest breaks and meal breaks</heading>
                     <prov.body>
-                      <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
-                        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">1AA</label>
-                        <para amend.level1="insert-unanimous">
-                          <text>Rest breaks and meal breaks are to be observed during an employee's work period—</text>
-                          <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">a</label>
-                            <para amend.level1="insert-unanimous">
-                              <text>at the times agreed between the employee and his or her employer; but</text>
-                            </para>
-                          </label-para>
-                          <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">b</label>
-                            <para amend.level1="insert-unanimous">
-                              <text>in the absence of such an agreement, as specified in <changeable><citation jurisdiction="nz">subsections (1) to (4)</citation></changeable>.</text>
-                            </para>
-                          </label-para>
-                        </para>
-                      </subprov>
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">1</label>
                         <para>
-                          <text>Where <changeable><citation jurisdiction="nz">section 69ZD(2)</citation></changeable> applies, an employer must, so far as is reasonable and practicable, provide the employee with the rest break in the middle of the work period.</text>
+                          <text>Where <changeable><citation jurisdiction="nz">subsection 69ZD(2)</citation></changeable> applies, an employer must, so far as is reasonable and practicable, provide the employee with the rest break in the middle of the work period.</text>
                         </para>
                       </subprov>
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">2</label>
                         <para>
-                          <text>Where <changeable><citation jurisdiction="nz">section 69ZD(3)</citation></changeable> applies, an employer must, so far as is reasonable and practicable, provide the employee with—</text>
+                          <text>Where <changeable><citation jurisdiction="nz">subsection 69ZD(3)</citation></changeable> applies, an employer must, so far as is reasonable and practicable, provide the employee with—</text>
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">a</label>
                             <para>
@@ -566,7 +717,7 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">3</label>
                         <para>
-                          <text>Where <changeable><citation jurisdiction="nz">section 69ZD(4)</citation></changeable> applies, an employer must, so far as is reasonable and practicable, provide the employee with—</text>
+                          <text>Where <changeable><citation jurisdiction="nz">subsection 69ZD(4)</citation></changeable> applies, an employer must, so far as is reasonable and practicable, provide the employee with—</text>
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">a</label>
                             <para>
@@ -596,12 +747,12 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">4</label>
                         <para>
-                          <text>Where <changeable><citation jurisdiction="nz">section 69ZD(5)</citation></changeable> applies, an employer must, so far as is reasonable and practicable, provide the employee with the rest breaks and meal break in accordance with the applicable provision in <changeable><citation jurisdiction="nz">subsections (1) to (3)</citation></changeable>.</text>
+                          <text>Where <changeable><citation jurisdiction="nz">subsection 69ZD(5)</citation></changeable> applies, an employer must, so far as is reasonable and practicable, provide the employee with the rest breaks and meal break in accordance with the applicable provision in <changeable><citation jurisdiction="nz">subsections (1) to (3)</citation></changeable>.</text>
                         </para>
                       </subprov>
-                      <subprov amend.level1="struckout-unanimous" quote="1" skeleton="no">
-                        <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes" quote="1">5</label>
-                        <para amend.level1="struckout-unanimous">
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">5</label>
+                        <para>
                           <text>This section applies subject to any agreement between the employee and employer that the rest breaks and meal breaks are to be observed at different times during the employee's work period.</text>
                         </para>
                       </subprov>
@@ -626,13 +777,13 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">1</label>
                         <para>
-                          <text>This Part does not prevent an employer providing an employee with enhanced or additional entitlements to rest breaks and meal breaks (whether specified in an employment agreement or otherwise) on a basis agreed with<struckoutwords amend.level1="struckout-unanimous"> an</struckoutwords><insertwords amend.level1="insert-unanimous"> the</insertwords> employee.</text>
+                          <text>This Part does not prevent an employer providing an employee with enhanced or additional entitlements to rest breaks and meal breaks (whether specified in an employment agreement or otherwise) on a basis agreed with an employee.</text>
                         </para>
                       </subprov>
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">2</label>
                         <para>
-                          <text>An employment agreement that excludes, restricts, or reduces an employee's entitlements under<struckoutwords amend.level1="struckout-unanimous"> this Part</struckoutwords><insertwords amend.level1="insert-unanimous"><changeable><citation jurisdiction="nz">section 69ZD</citation></changeable></insertwords>—</text>
+                          <text>An employment agreement that excludes, restricts, or reduces an employee's entitlements under this Part—</text>
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">a</label>
                             <para>
@@ -656,7 +807,7 @@
                       <subprov skeleton="no">
                         <label auto.number="yes" denominator="yes"/>
                         <para>
-                          <text>Where an employee is provided with, or entitled to, rest breaks or meal breaks under another enactment,—</text>
+                          <text>Where an employee is provided with, or entitled to, rest breaks or meal breaks under another enactment—</text>
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">a</label>
                             <para>
@@ -693,18 +844,4 @@
       </prov>
     </part>
   </body>
-  <end id="DLM1439701">
-    <leg-history id="DLM1439702">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2008-04-02</date>
-        <description>Introduction (Bill 205–1)</description>
-      </history-item>
-      <history-item>
-        <date>2008-04-09</date>
-        <description>First reading and referral to Transport and Industrial Relations Committee</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
-<!--End of file, do NOT remove.-->
