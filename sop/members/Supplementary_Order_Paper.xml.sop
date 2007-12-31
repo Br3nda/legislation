@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1461100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0007" stage="published" year="2008" raised.by="Members" sop.no="220">
-  <date>Wednesday, 30 July 2008</date>
-  <billref>Waste Minimisation Bill</billref>
-  <body id="DLM1461101">
-    <heading>Proposed amendment to timing of deposits of waste</heading>
-    <motion>Nicky Wagner, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM1461102">
-      <clause.ref>Clause 24(3)</clause.ref>
+<sop irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0008" stage="published" year="2008" raised.by="Members" sop.no="240">
+  <date>Tuesday, 2 September 2008</date>
+  <billref>Climate Change (Emissions Trading and Renewable Preference) Bill </billref>
+  <body>
+    <heading>Proposed amendment</heading>
+    <motion>Te Ururoa Flavell, in Committee, to move the following amendment:</motion>
+    <sop.amend>
+      <clause.ref>New clause 2A</clause.ref>
       <sop.para>
-        <text>To omit <quote.in quote="1">3 months</quote.in> (line 24 on page 61) and substitute <quote.in quote="1">6 months</quote.in>.</text>
+        <text>To insert new clause 2A after clause 2 (page 13, after line 5):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">2A</label>
+            <heading>Act to give effect to Treaty of Waitangi</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>This Act shall be so interpreted and administered as to give effect to the Treaty of Waitangi.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1461103" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0007" stage="published" year="2008" raised.by="Members" sop.no="220">
+  <explnote irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0008" stage="published" year="2008" raised.by="Members" sop.no="240">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Waste Minimisation Bill. The proposed amendment increases the amount of time waste can be deposited before it is considered disposed waste and subject to the waste levy.</text>
+      <text>An explicit reference to the Treaty of Waitangi is added to the Climate Change (Emissions Trading and Renewable Preference) Bill to ensure that the Emissions Trading Scheme will be implemented and operated in accordance with the rights guaranteed to Maori under the Treaty of Waitangi.</text>
     </para>
   </explnote>
 </sop>
