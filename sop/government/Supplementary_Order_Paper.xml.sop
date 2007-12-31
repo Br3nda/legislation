@@ -1,27 +1,592 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1576500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="241">
-  <date>Tuesday, 2 September 2008</date>
-  <billref>Customs and Excise Amendment Bill (No 3)</billref>
-  <body id="DLM1576501">
+<sop id="DLM1626800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="254">
+  <date>Tuesday, 23 September 2008</date>
+  <billref>Financial Service Providers (Registration and Dispute Resolution) Bill</billref>
+  <body id="DLM1626801">
     <heading>Proposed amendments</heading>
-    <motion>Hon Nanaia Mahuta, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1576502">
-      <clause.ref>Clause 2</clause.ref>
+    <motion>Hon Lianne Dalziel, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1626802">
+      <clause.ref>Clause 4</clause.ref>
       <sop.para>
-        <text>To omit <amend.in quote="1">August</amend.in> (line 5 on page 3) and substitute <amend.in quote="1">October</amend.in>.</text>
+        <text>To insert the following definition after the definition of <def-term id="DLM1626803">due date</def-term> (after line 5 on page 8):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM1626804">
+            <para>
+              <text><def-term id="DLM1626805">family trust</def-term> has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>Definition of <def-term id="DLM1626806">insurance</def-term>: to omit this definition (lines 27 and 28 on page 8) and substitute the following definition:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM1626807">
+            <para>
+              <text><def-term id="DLM1626808">insurance business</def-term> includes—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>mortgage guarantee insurance as defined in section 2 of the Insurance Companies' Deposits Act 1953:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>life insurance (including endowment and annuity contracts):</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>reinsurance:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">d</label>
+                <para>
+                  <text>every other class of insurance business</text>
+                </para>
+              </label-para>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>Definition of <def-term id="DLM1626809">licensing authority</def-term>: to omit this definition (line 33 and 34 on page 8) and substitute the following definition:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM1626810">
+            <para>
+              <text><def-term id="DLM1626811">licensing authority</def-term> means a body, identified in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable>, that licenses, registers, authorises, or otherwise approves a person to be a licensed provider</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>Definition of <def-term id="DLM1626812">licensed provider</def-term>: to omit this definition (lines 35 to 37 on page 8) and substitute the following definition:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM1626813">
+            <para>
+              <text><def-term id="DLM1626814">licensed provider</def-term> means a person, identified in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable>, who—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>provides or offers to provide a licensed service; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>is licensed, registered, authorised, or otherwise approved by a licensing authority</text>
+                </para>
+              </label-para>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>Definition of <def-term id="DLM1626815">licensed service</def-term>: to omit this definition (lines 1 to 3 on page 9) and substitute the following definition:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM1626816">
+            <para>
+              <text><def-term id="DLM1626817">licensed service</def-term> means a financial service that is required by an enactment identified in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable> to be provided only by a person who is licensed, registered, authorised, or otherwise approved by a licensing authority</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following definition after the definition of <def-term id="DLM1626818">Ministry </def-term>(after line 22 on page 9):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM1626819">
+            <para>
+              <text><def-term id="DLM1626820">person</def-term> includes a corporation sole, a body corporate, an unincorporated body, and a superannuation scheme as defined in section 2A of the Superannuation Schemes Act 1989</text>
+            </para>
+          </def-para>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM1576503">
-      <clause.ref>Clause 18A</clause.ref>
+    <sop.amend id="DLM1626821">
+      <clause.ref>Clause 5(m)</clause.ref>
       <sop.para>
-        <text>To omit <amend.in quote="1">August</amend.in> (line 13 on page 15) and substitute <amend.in quote="1">October</amend.in>.</text>
+        <text>To omit this paragraph (line 13 on page 11) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">m</label>
+            <para>
+              <text>carrying on insurance business:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626822">
+      <clause.ref>Clause 5A</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">providing</quote.in> in the second place where it appears (line 21 on page 11) <amend.in quote="1">or offering to provide</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626823">
+      <clause.ref>Clause 6(2)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (ca)</emphasis>: to insert after <amend.in quote="1">Reserve Bank </amend.in> (line 10 on page 12) <amend.in quote="1">of New Zealand</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (cd)</emphasis>: to omit <amend.in quote="1">providing</amend.in> (line 16 on page 12) and substitute <amend.in quote="1">in respect of</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following paragraph after <emphasis style="italic">paragraph (ce)</emphasis> (after line 20 on page 12):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">cf</label>
+            <para>
+              <text>a trustee of a family trust in respect of financial services provided by the trustee to the beneficiaries of that trust:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (d)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">paragraph (a), (b), (c), (ca), (cb), (cc), (cd), or (ce)</citation></changeable></amend.in> (lines 22 and 23 on page 12) and substitute <amend.in quote="1">any of <changeable><citation jurisdiction="nz">paragraphs (a) to (ce)</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626824">
+      <clause.ref>Clause 12</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (b)</emphasis>: to omit this paragraph (lines 29 to 32 on page 14) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
+            <para>
+              <text>the person is a member of an approved dispute resolution scheme, or the reserve scheme, if required by <changeable><citation jurisdiction="nz">section 44</citation></changeable>; and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to omit this paragraph (lines 33 and 34 on page 14) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>in the case of a person who provides or offers to provide a licensed service, the person is a licensed provider.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626825">
+      <clause.ref>Clause 14</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)(a)</emphasis>: to omit <amend.in quote="1">contain</amend.in> (line 37 on page 15) and substitute <amend.in quote="1">state</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)(a)(iii)</emphasis>: to omit <amend.in quote="1">applicant is applying in relation to</amend.in> (line 4 on page 16) and substitute <amend.in quote="1">application relates to</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to omit <amend.in quote="1">to obtain an appropriate licence</amend.in> (lines 14 and 15 on page 16) and substitute <amend.in quote="1">to become a licensed provider</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626826">
+      <clause.ref>Clause 15(1)(a)(iii)</clause.ref>
+      <sop.para>
+        <text>To omit this subparagraph (lines 25 to 28 on page 16) and substitute the following subparagraph:</text>
+        <instrument.amend close.quote="no" increment="2" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">iii</label>
+            <para>
+              <text>if the provider is a licensed provider in relation to a particular licensed service, that fact and the name and business address of the relevant licensing authority:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626827">
+      <clause.ref>Clause 16(1)(b)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 10 and 11 on page 17) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
+            <para>
+              <text>in the case of a financial service provider that is a licensed provider, the relevant licensing authority:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626828">
+      <clause.ref>Clause 20B(2)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to omit this paragraph (lines 17 and 18 on page 20).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (d)</emphasis>: to omit <amend.in quote="1">would be in the public interest</amend.in> (lines 20 and 21 on page 20) and substitute <amend.in quote="1">is consistent with the purposes of this Act</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626829">
+      <clause.ref>Clause 26</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraphs (ca) and (d)</emphasis>: to omit these paragraphs (lines 37 and 38 on page 22 and lines 1 to 3 on page 23) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">d</label>
+            <para>
+              <text>in relation to a licensed provider,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">i</label>
+                <para>
+                  <text>the relevant licensed service:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">ii</label>
+                <para>
+                  <text>the name and business address of the relevant licensing authority:</text>
+                </para>
+              </label-para>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626830">
+      <clause.ref>Clause 42(2)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">any enactment providing for the licensing of licensed providers</amend.in> (lines 21 and 22 on page 32) and substitute <amend.in quote="1">the relevant enactment identified in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626831">
+      <clause.ref>Clause 44(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">scheme or the reserve scheme if the provider provides a financial service to the public</amend.in> (lines 10 and 11 on page 34) and substitute <amend.in quote="1">scheme, or the reserve scheme, in respect of a financial service provided to the public.</amend.in></text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626832">
+      <clause.ref>New clause 44A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 44</emphasis> (after line 14 on page 34):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1626833" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">44A</label>
+            <heading xml:lang="en-NZ">Meaning of reference to providing financial service to public</heading>
+            <prov.body>
+              <subprov skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">1</label>
+                <para xml:lang="en-NZ">
+                  <text>The reference in <changeable><citation jurisdiction="nz">section 44</citation></changeable> to providing a financial service to the public includes—</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para xml:lang="en-NZ">
+                      <text>a reference to providing the service to any section of the public, however selected; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para xml:lang="en-NZ">
+                      <text>a reference to providing the service to a person if the person became known to the provider as a result of any advertisement made by or on behalf of the provider and that was intended or likely to result in the public seeking further information or advice about the service.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">2</label>
+                <para xml:lang="en-NZ">
+                  <text>Providing a financial service to any or all of the following persons only does not constitute providing the service to the public:</text>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para xml:lang="en-NZ">
+                      <text>relatives (within the meaning of the Human Rights Act 1993), related companies, or close business associates of the provider:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>persons, or classes of persons, that are connected to the provider in the prescribed manner or that meet prescribed criteria:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no" xml:lang="en-NZ">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para xml:lang="en-NZ">
+                      <text>any other person who in all the circumstances can properly be regarded as having been selected otherwise than as a member of the public.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">3</label>
+                <para xml:lang="en-NZ">
+                  <text>A person is not precluded from being regarded as a member of the public in regard to the provision of a financial service to the person by reason only that the person is a purchaser of goods or services from, or an employee or client of, the provider.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no" xml:lang="en-NZ">
+                <label auto.number="no" denominator="yes">4</label>
+                <para xml:lang="en-NZ">
+                  <text>Proof of providing a financial service to 1 person selected as a member of the public is prima facie evidence of providing the service to the public.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626834">
+      <clause.ref>Clause 61A(c)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">series of</quote.in> (line 10 on page 44) <amend.in quote="1">material</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626835">
+      <clause.ref>Clause 66</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)</emphasis>: to omit <amend.in quote="1">make a recommendation</amend.in> (line 27 on page 46) and substitute <amend.in quote="1">recommend an Order in Council described in <changeable><citation jurisdiction="nz">subsection (1)(a)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)(b)</emphasis>: to omit <amend.in quote="1">; and</amend.in> (line 30 on page 46) and substitute <amend.in quote="1">.</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)(c)</emphasis>: to omit this paragraph (lines 31 to 33 on page 46).</text>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (3)</emphasis> (after line 33 on page 46):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">3A</label>
+            <para>
+              <text>The Minister may recommend an Order in Council described in <changeable><citation jurisdiction="nz">subsection (1)(b)</citation></changeable> only after consultation with—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the Minister of Finance; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>the Minister of Commerce; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>any persons (or their representatives) that the Minister considers are likely to be substantially affected by the recommendation.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626836">
+      <clause.ref>Clause 69A(c)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">series of</quote.in> (line 14 on page 49) <amend.in quote="1">material</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626837">
+      <clause.ref>Clause 74(1)</clause.ref>
+      <sop.para>
+        <text>To insert the following paragraph before <emphasis style="italic">paragraph (a)</emphasis> (before line 11 on page 53):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">aa</label>
+            <para>
+              <text>prescribing, for the purposes of <changeable><citation jurisdiction="nz">section 44A(2)(b)</citation></changeable>,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">i</label>
+                <para>
+                  <text>persons, or classes of persons, that are connected to a financial service provider; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">ii</label>
+                <para>
+                  <text>criteria that persons, or classes of persons, must meet:</text>
+                </para>
+              </label-para>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1626838">
+      <clause.ref>Schedule 2</clause.ref>
+      <sop.para>
+        <text>To omit this schedule (page 56) and substitute the following schedule:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <schedule id="DLM1626839" in.amend="false" irdnumbering="no" prov-type="clause" raised.by="Government" schedule.heading.continue="no" sop.no="254" toc="yes" type="schedule" year="2008">
+            <label auto.number="no" denominator="yes">2</label>
+            <empowering-prov>
+              <changeable>
+                <citation jurisdiction="nz">s 4</citation>
+              </changeable>
+            </empowering-prov>
+            <heading>Licensing authorities and licensed providers</heading>
+            <schedule.misc>
+              <para>
+                <text> This schedule identifies—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>bodies who are licensing authorities; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the persons that each licensing authority licenses, registers, authorises, or otherwise approves to provide a licensed service; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text>the enactments that require the relevant financial service to be provided only by a person who is licensed, registered, authorised, or otherwise approved by that licensing authority.</text>
+                  </para>
+                </label-para>
+              </para>
+              <para>
+                <table align="center" fontsize="9.5" frame="none" id="DLM1626840" leading="10.5">
+                  <tgroup cols="5">
+                    <colspec colname="col1" colwidth="1.76*"/>
+                    <colspec colname="COLSPEC1" colwidth="12.04pt"/>
+                    <colspec colname="col2" colwidth="1.72*"/>
+                    <colspec colname="COLSPEC0" colwidth="12.04pt"/>
+                    <colspec colname="col3" colwidth="1.81*"/>
+                    <thead>
+                      <row valign="bottom">
+                        <entry colsep="0" rowsep="0">
+                          <emphasis style="bold">Licensing authority</emphasis>
+                        </entry>
+                        <entry colsep="0" rowsep="0"/>
+                        <entry colsep="0" rowsep="0">
+                          <emphasis style="bold">Licensed provider</emphasis>
+                        </entry>
+                        <entry colsep="0" rowsep="0"/>
+                        <entry colsep="0" rowsep="0">
+                          <emphasis style="bold">Enactment</emphasis>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="justify" colsep="0" rowsep="0">Government Actuary</entry>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0">Registered superannuation schemes</entry>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0">Superannuation Schemes Act 1989</entry>
+                      </row>
+                      <row>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                      </row>
+                      <row>
+                        <entry align="justify" colsep="0" rowsep="0">Government Actuary</entry>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0">Registered KiwiSaver schemes</entry>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0">KiwiSaver Act 2006</entry>
+                      </row>
+                      <row>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                      </row>
+                      <row>
+                        <entry align="justify" colsep="0" rowsep="0">Securities Commission</entry>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0">Authorised financial advisers and qualifying financial entities</entry>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0">Financial Advisers Act <changeable><citation jurisdiction="nz">2007 </citation></changeable></entry>
+                      </row>
+                      <row>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                      </row>
+                      <row>
+                        <entry align="justify" colsep="0" rowsep="0">Reserve Bank of New Zealand</entry>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0">Registered banks</entry>
+                        <entry align="justify" colsep="0" rowsep="0"/>
+                        <entry align="justify" colsep="0" rowsep="0">Reserve Bank of New Zealand Act 1989</entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </table>
+              </para>
+            </schedule.misc>
+          </schedule>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1576504" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="241">
+  <explnote id="DLM1626841" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="254">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper changes the commencement date for the provision concerning the personal use exemption for the growth and manufacture of tobacco from 1 August 2008 to 1 October 2008. The transitional provision governing the personal use exemption is also consequentially amended to reflect the changed commencement date.</text>
+      <text>This Supplementary Order Paper amends the Financial Service Providers (Registration and Dispute Resolution) Bill.</text>
+    </para>
+    <para>
+      <text>Apart from making minor drafting amendments to the Bill, the key changes are—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>some clarification around the definition of insurance:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amending <emphasis style="italic">clause 5A </emphasis>to ensure that those who have not actually provided a financial service but are offering to provide one are included:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amending <emphasis style="italic">clause 6</emphasis> to exclude from the Bill financial services provided by the trustee of a family trust to beneficiaries of that trust:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>changing <emphasis style="italic">clause 20B</emphasis> to remove a requirement that the responsible financial entity be responsible for its affiliated entities, with the intention being to tailor this requirement into conditions as appropriate in the factual circumstances:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>changing <emphasis style="italic">clause 20B</emphasis> to provide that a decision to recommend that an entity be a responsible financial entity be consistent with the purposes of the Bill, which is a clearer test than a consideration of the public interest:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amending <emphasis style="italic">clause 44 </emphasis>and adding a <emphasis style="italic">new clause 44A</emphasis> to indicate when a financial service is provided otherwise than to the public for the purposes of <emphasis style="italic">clause 44</emphasis>:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>requiring the series of complaints referred to in <emphasis style="italic">clauses 61A and 69A</emphasis> of the Bill to be material ones:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amending the consultees in <emphasis style="italic">clause 66</emphasis> to more appropriately reflect the nature of the decisions concerned:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>clarifying <emphasis style="italic">Schedule 2</emphasis> and the definitions of licensing authority, licensed provider, and licensed service.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
