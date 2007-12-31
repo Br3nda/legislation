@@ -1,241 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1593400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="246">
-  <date>Tuesday, 9 September 2008</date>
-  <billref>Public Lending Right for New Zealand Authors Bill</billref>
-  <body id="DLM1593401">
+<sop id="DLM1621500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="251">
+  <date>Tuesday, 23 September 2008</date>
+  <billref>Aquaculture Legislation Amendment Bill</billref>
+  <body id="DLM1621501">
     <heading>Proposed amendments</heading>
-    <motion>Hon Judith Tizard, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1593402">
-      <clause.ref>Clause 4</clause.ref>
+    <motion>Hon Trevor Mallard, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1621502">
+      <clause.ref>New clause 9C</clause.ref>
       <sop.para>
-        <text>To omit the definitions of <def-term id="DLM1593403">chief executive</def-term> and <def-term id="DLM1593404">Minister</def-term> on page 2 at lines 18 to 24 and substitute the following definitions:</text>
+        <text>To insert the following clause after <emphasis style="italic">clause 9B</emphasis> (after line 28 on page 6):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <def-para id="DLM1593405">
-            <para>
-              <text><def-term id="DLM1593406">author</def-term> is defined in <changeable><citation jurisdiction="nz">section 4A </citation></changeable></text>
-            </para>
-          </def-para>
-          <def-para id="DLM1593407">
-            <para>
-              <text><def-term id="DLM1593408">book</def-term> is defined in <changeable><citation jurisdiction="nz">section 4B </citation></changeable></text>
-            </para>
-          </def-para>
-          <def-para id="DLM1593409">
-            <para>
-              <text><def-term id="DLM1593410">chief executive</def-term> means the chief executive of the department of State that administers this Act</text>
-            </para>
-          </def-para>
-          <def-para id="DLM1593411">
-            <para>
-              <text><def-term id="DLM1593412">Minister</def-term> means the Minister of the Crown who is responsible for the administration of this Act—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>under the authority of a warrant; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>under the authority of the Prime Minister</text>
-                </para>
-              </label-para>
-            </para>
-          </def-para>
-          <def-para id="DLM1593413">
-            <para>
-              <text><def-term id="DLM1593414">New Zealand author</def-term> is defined in <changeable><citation jurisdiction="nz">section 4C </citation></changeable></text>
-            </para>
-          </def-para>
-          <def-para id="DLM1593415">
-            <para>
-              <text><def-term id="DLM1593416">New Zealand library</def-term> is defined in <changeable><citation jurisdiction="nz">section 4D </citation></changeable></text>
-            </para>
-          </def-para>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1593418">
-      <clause.ref>New clauses 4A to 4D</clause.ref>
-      <sop.para>
-        <text>To insert the following clauses on page 2 after line 28:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1593419" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">4A</label>
-            <heading>Meaning of author</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text><def-term id="DLM1593420">Author</def-term> means a person who—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>satisfies <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>satisfies whichever of <changeable><citation jurisdiction="nz">subsections (3) to (5)</citation></changeable> is applicable to him or her; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
-                    <para>
-                      <text>is not excluded from being an author by any of <changeable><citation jurisdiction="nz">subsections (6) to (8)</citation></changeable>; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">d</label>
-                    <para>
-                      <text>satisfies conditions applicable to him or her added to this definition by regulations, if there are any such regulations.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text><def-term id="DLM1593421">Author </def-term>means a natural person.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>If a book's intellectual content is expressed only in text, <def-term id="DLM1593422">author</def-term> means a person who created the text.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
-                <para>
-                  <text>If a book's intellectual content is expressed only in illustrations, <def-term id="DLM1593423">author</def-term> means a person who created the illustrations.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
-                <para>
-                  <text>If a book's intellectual content is expressed in text and in illustrations, <def-term id="DLM1593424">author</def-term> means both a person who created the text and a person who created the illustrations.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">6</label>
-                <para>
-                  <text><def-term id="DLM1593425">Author</def-term> does not include a person who writes or illustrates a book as part of his or her duties under a contract of service or a contract for services.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">7</label>
-                <para>
-                  <text><def-term id="DLM1593426">Author</def-term> does not include a person who receives payment for writing or illustrating a book wholly by way of a fee.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">8</label>
-                <para>
-                  <text><def-term id="DLM1593427">Author</def-term> does not include a person who paid a third party to publish the person's book.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM1593428" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">4B</label>
-            <heading>Meaning of book</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text><def-term id="DLM1593429">Book</def-term> means a publication that—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>is listed in the national bibliographic database of the National Library of New Zealand Te Puna Mātauranga o Aotearoa; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>is not excluded from being a book by any of <changeable><citation jurisdiction="nz">subsections (2) to (5)</citation></changeable>; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
-                    <para>
-                      <text>satisfies conditions applicable to it added to this definition by regulations, if there are any such regulations.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text><def-term id="DLM1593430">Book</def-term> does not include a serial publication.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text><def-term id="DLM1593431">Book </def-term>does not include a text book intended for use in schools.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
-                <para>
-                  <text><def-term id="DLM1593432">Book</def-term> does not include charts, maps, plans, or tables.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
-                <para>
-                  <text><def-term id="DLM1593433">Book</def-term> does not include sheet music.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM1593434" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">4C</label>
-            <heading>Meaning of New Zealand author</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="no"/>
-                <para>
-                  <text><def-term id="DLM1593435">New Zealand author</def-term> means an author who—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>is a New Zealand resident as defined in section YD 1 of the Income Tax Act 2007; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>satisfies conditions applicable to him or her added to this definition by regulations, if there are any such regulations.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM1593436" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">4D</label>
-            <heading>Meaning of New Zealand library</heading>
+          <prov id="DLM1621503" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">9C</label>
+            <heading>New section 186ZL substituted</heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="yes" denominator="yes"/>
                 <para>
-                  <text><def-term id="DLM1593437">New Zealand library</def-term> means a library in New Zealand that—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>makes its books available for use in New Zealand; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>satisfies conditions applicable to it added to this definition by regulations, if there are any such regulations.</text>
-                    </para>
-                  </label-para>
+                  <text>Section 186ZL is repealed and the following section substituted:</text>
+                  <amend quote="1">
+                    <prov id="DLM1621504" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">186ZL</label>
+                      <heading>Memorials</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text><changeable><citation jurisdiction="nz">Subsection (2)</citation></changeable> applies if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>a regional council gives notice under—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>section 165G(2)(a) of the Resource Management Act 1991 in relation to available space in an aquaculture management area; or</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>section 165G(2)(c) of the Resource Management Act 1991 in relation to space in the coastal marine area that is subject to an application to which <changeable><citation jurisdiction="nz">section 165BC</citation></changeable> of that Act applies; and</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the space is subject to a reservation in relation to commercial fishing.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>The chief executive must ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in a notice given by the chief executive under section 186H of this Act or section 41 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the reservation.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>A memorial must be to the effect that—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the chief executive has made a reservation under section 186E of this Act or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>as a result, an aquaculture agreement can be registered under this Part; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>if an agreement is registered, fishing may be affected by the allocation of space in the area subject to the reservation for aquaculture activities.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">4</label>
+                          <para>
+                            <text>A memorial recorded in a register under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> that relates to a notice referred to in—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text><changeable><citation jurisdiction="nz">subsection (1)(a)(i)</citation></changeable> must be cancelled on the expiry of the period specified in section 186ZI(1)<changeable><citation jurisdiction="nz">(b)(i) </citation></changeable>:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text><changeable><citation jurisdiction="nz">subsection (1)(a)(ii)</citation></changeable> must be cancelled on the expiry of the period specified in section 186ZI(1)<changeable><citation jurisdiction="nz">(b)(ii)</citation></changeable>.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">5</label>
+                          <para>
+                            <text>If a memorial recorded in a register under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> applies to space that is the subject of an authorisation allocated to the trustee under section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004, the memorial does not expire until the end of the period specified in section 186ZI(1)<changeable><citation jurisdiction="nz">(b)(iii)</citation></changeable>.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
                 </para>
               </subprov>
             </prov.body>
@@ -243,151 +117,49 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM1593439">
-      <clause.ref>Clause 7</clause.ref>
+    <sop.amend id="DLM1621505">
+      <clause.ref>Clause 22</clause.ref>
       <sop.para>
-        <text>To insert <quote.in quote="1">New Zealand</quote.in> after <quote.in quote="1">provide for</quote.in> on page 3 in line 10.</text>
+        <text><emphasis style="italic">Subclause (2): new clause 1A(1)(c):</emphasis> to insert after <quote.in quote="1">applies</quote.in> (line 8 on page 14) <amend.in quote="1">and the application has not been determined or withdrawn</amend.in>.</text>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1593440">
-      <clause.ref>Clause 8</clause.ref>
       <sop.para>
-        <text>To insert <quote.in quote="1">to New Zealand authors</quote.in> after <quote.in quote="1">scheme</quote.in> on page 3 in line 15.</text>
+        <text><emphasis style="italic">Subclause (2): new clause 1A(1)(d)(i):</emphasis> to omit <amend.in quote="1">application was granted; but</amend.in> (line 11 on page 14) and substitute <amend.in quote="1">coastal permit applied for has been granted; and</amend.in>.</text>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1593441">
-      <clause.ref>New clause 8(2)</clause.ref>
       <sop.para>
-        <text>To insert on page 3 after line 15 the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes">2</label>
+        <text><emphasis style="italic">Subclause (2): new section 1A(1)(d):</emphasis> to insert the following subparagraph after subparagraph (i) (after line 11 on page 14):</text>
+        <instrument.amend close.quote="no" increment="2" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">ia</label>
             <para>
-              <text>If a New Zealand author dies after entering his or her name in the register for the year, the chief executive must make the annual payment to which the author is entitled to the administrator of the author's estate.</text>
+              <text>the coastal permit has not lapsed or been cancelled or surrendered; but</text>
             </para>
-          </subprov>
+          </label-para>
         </instrument.amend>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1593442">
-      <clause.ref>Clause 9(2)</clause.ref>
       <sop.para>
-        <text>To insert <quote.in quote="1">annually</quote.in> after <quote.in quote="1">register</quote.in> on page 3 in line 21.</text>
+        <text><emphasis style="italic">Subclause (2): new clause 1A(2):</emphasis> to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">subsection</citation></changeable></amend.in> (line 16 on page 14) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">subclause</citation></changeable></amend.in>.</text>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1593443">
-      <clause.ref>Clause 10(2)</clause.ref>
       <sop.para>
-        <text>To omit the subclause from page 3, lines 26 to 30, and substitute the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes">2</label>
-            <para>
-              <text>Regulations may add conditions to the definitions of <quote.in quote="1">author</quote.in>, <quote.in quote="1">book</quote.in>, <quote.in quote="1">New Zealand author</quote.in>, and <quote.in quote="1">New Zealand library</quote.in> in <changeable><citation jurisdiction="nz">sections 4A to 4D</citation></changeable>.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
+        <text><emphasis style="italic">Subclause (2): new clause 1A(3):</emphasis> to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">Subsection</citation></changeable></amend.in> (line 21 on page 14) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">Subclause</citation></changeable></amend.in>.</text>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1593444">
-      <clause.ref>Clause 10(4)</clause.ref>
       <sop.para>
-        <text>To omit <quote.in quote="1">an author's</quote.in> from page 4 at line 5 and substitute <quote.in quote="1">a New Zealand author's</quote.in>.</text>
+        <text><emphasis style="italic">Subclause (2): new clause 1A(4):</emphasis> to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">subsection</citation></changeable></amend.in> (line 28 on page 14) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">subclause</citation></changeable></amend.in>.</text>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1593445">
-      <clause.ref>Clause 10(5)</clause.ref>
       <sop.para>
-        <text>To omit <quote.in quote="1">an author's</quote.in> from page 4 at lines 8 to 9 and substitute <quote.in quote="1">a New Zealand author's</quote.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1593446">
-      <clause.ref>Clause 10(8)</clause.ref>
-      <sop.para>
-        <text>To omit <quote.in quote="1">, how he or she is to do it, and how often he or she is to do it</quote.in> from page 4 at lines 15 to 16 and substitute <quote.in quote="1">and how he or she is to do it</quote.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1593447">
-      <clause.ref>Clause 14(1)</clause.ref>
-      <sop.para>
-        <text>To omit the subclause from page 5 at lines 21 to 28 and substitute the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes">1</label>
-            <para>
-              <text>The members of the advisory group—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>must be persons who have appropriate experience, knowledge, and skills, in the chief executive's opinion; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>must include—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">i</label>
-                    <para>
-                      <text>at least 1 representative of organisations of authors:</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">ii</label>
-                    <para>
-                      <text>at least 1 representative of organisations of librarians:</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">iii</label>
-                    <para>
-                      <text>a representative of 1 or more relevant government departments; and</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">c</label>
-                <para>
-                  <text>may include any other person to whom <changeable><citation jurisdiction="nz">paragraph (a) </citation></changeable> applies.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-        </instrument.amend>
+        <text><emphasis style="italic">Subclause (3): new clause 2(3):</emphasis> to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">Subsection</citation></changeable></amend.in> (line 21 on page 15) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">Subclause</citation></changeable></amend.in>.</text>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1593448" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="246">
+  <explnote id="DLM1621506" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="251">
     <heading>Explanatory note</heading>
     <para>
-      <text>This supplementary order paper—</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>adds definitions of key terms to the bill</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>emphasises that the bill's scheme is for New Zealand authors</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>requires New Zealand authors to register annually under the scheme</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>clarifies the membership of the advisory group.</text>
-          </para>
-        </item>
-      </list>
+      <text>This Supplementary Order Paper amends the Aquaculture Legislation Amendment Bill. The amendments insert <emphasis style="italic">new clause 9C</emphasis> and make drafting changes to <emphasis style="italic">clause 22</emphasis>.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 9C</emphasis> substitutes <emphasis style="italic">new section 186ZL</emphasis> in the Fisheries Act 1996, which provides for the chief executive of the Ministry of Fisheries to enter memorials in the appropriate register against all quota for stocks specified in a notice by the chief executive of an aquaculture decision that is a reservation. The new section takes into account the amendments in <emphasis style="italic">clauses 9A and 9B</emphasis> to sections 186ZF and 186ZI relating to <emphasis style="italic">new section 165BC</emphasis> of the Resource Management Act 1991 as inserted by <emphasis style="italic">clause 19</emphasis>.</text>
+    </para>
+    <para>
+      <text>The amendments to <emphasis style="italic">clause 22</emphasis> are drafting amendments to correct certain cross-references from subsection to subclause and to clarify that the restriction on describing certain areas as aquaculture management areas applies only where certain matters have not been determined, withdrawn, lapsed, cancelled, or surrendered.</text>
     </para>
   </explnote>
 </sop>
