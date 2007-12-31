@@ -1,181 +1,594 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1241600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0004" stage="published" year="2008" raised.by="Government" sop.no="197">
-  <date>Thursday, 10 April 2008</date>
-  <billref>Māori Purposes Bill (No 2)</billref>
-  <body id="DLM1241601">
-    <heading>Proposed motion to divide Bill into 4 Bills</heading>
-    <motion>Hon Parekura Horomia, in Committee, to move as follows:</motion>
-    <sop.split>
-      <para>
-        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1241602" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act is the Maniapoto Maori Trust Board Amendment Act <changeable>2008</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1241603" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 2</emphasis> and <emphasis style="italic">Schedule 1</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1241604" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Maori Trust Boards Amendment Act <changeable>2008</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1241605" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 3</emphasis> and <emphasis style="italic">Schedules 2 and 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 3</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1241606" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Treaty of Waitangi Amendment Act <changeable>2008</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1241607" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 4</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 4</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1241608" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is—</text>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">a</label>
-                  <para>
-                    <text>Te Ture Whenua Maori Amendment Act <changeable>2008</changeable>; or</text>
-                  </para>
-                </label-para>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">b</label>
-                  <para>
-                    <text>the Maori Land Amendment Act <changeable><citation jurisdiction="nz">2008</citation></changeable>.</text>
-                  </para>
-                </label-para>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1241609" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
+<sop id="DLM1577300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="243">
+  <date>Tuesday, 2 September 2008</date>
+  <billref>Real Estate Agents Bill</billref>
+  <body id="DLM1577301">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Clayton Cosgrove, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1577302">
+      <clause.ref>Clause 2(2)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">1 year</amend.in> (line 10 on page 9) and substitute <amend.in quote="1">14 months</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577303">
+      <clause.ref>Clause 4</clause.ref>
+      <sop.para>
+        <text>Definition of <def-term id="DLM1577304">licensee</def-term>: to omit this definition (lines 5 and 6 on page 11) and substitute the following definition:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM1577305">
+            <para>
+              <text><def-term id="DLM1577306">licensee</def-term> means an agent, a branch manager, or a salesperson</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (c)</emphasis> of the definition of <def-term id="DLM1577307">real estate agency work</def-term>: to add the following subparagraph (after line 3 on page 12):</text>
+        <instrument.amend close.quote="no" increment="2" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">vi</label>
+            <para>
+              <text>the provision of conveyancing services within the meaning of the Lawyers and Conveyancers Act 2006</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following definition after the definition of <def-term id="DLM1577308">register</def-term> (after line 5 on page 12):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM1577309">
+            <para>
+              <text><def-term id="DLM1577310">REINZ</def-term> means the Real Estate Institute of New Zealand Incorporated</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To add the following subclause as <emphasis style="italic">subclause (2)</emphasis> (after line 35 on page 12):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>To avoid doubt, the sale, purchase, or other disposal or acquisition of shares comes within the definition of transaction in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> if, and only if, the shares entitle the holder to a licence that is registrable under Part 7A of the Land Transfer Act 1952.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577311">
+      <clause.ref>Clause 16</clause.ref>
+      <sop.para>
+        <text>To insert the following paragraph after paragraph (d) (after line 17 on page 16):</text>
+      </sop.para>
+      <sop.para>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">da</label>
+            <para>
+              <text>appoint Complaints Assessment Committees and maintain a panel of persons suitable to serve as members of Complaints Assessment Committees; and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577312">
+      <clause.ref>Clause 17</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (3A)</emphasis> (after line 19 on page 17):</text>
+      </sop.para>
+      <sop.para>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">3B</label>
+            <para>
+              <text>The Minister must consult with REINZ when making the first appointment of licensees or former licensees under <changeable><citation jurisdiction="nz">subsection (3A)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577313">
+      <clause.ref>Clause 22(1)</clause.ref>
+      <sop.para>
+        <text>To insert <amend.in quote="1">by notice in the <emphasis style="italic">Gazette</emphasis> and</amend.in> after <quote.in quote="1">the Minister may,</quote.in> (line 3 on page 19).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577314">
+      <clause.ref>Clause 23</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 18 or 19</citation></changeable></amend.in> in each place where it appears (lines 18, 21, and 26 and 27 on page 19) and substitute in each case <amend.in quote="1"><changeable><citation jurisdiction="nz">section 18, 19, or 22</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577315">
+      <clause.ref>Clause 29</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (i)</emphasis>: to insert before <quote.in quote="1">that the agent</quote.in> (line 36 on page 22) <amend.in quote="1">that there are reasonable grounds to believe</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (j)</emphasis>: to insert before <quote.in quote="1">the agent has not</quote.in> (line 3 on page 23) <amend.in quote="1">that there are reasonable grounds to believe that</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (k)</emphasis>: to insert before <quote.in quote="1">the agent operates</quote.in> (line 6 on page 23) <amend.in quote="1">that there are reasonable grounds to believe that</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577316">
+      <clause.ref>Clause 29B(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">it is satisfied that it is appropriate</amend.in> (lines 32 and 33 on page 23) and substitute <amend.in quote="1">in its opinion it is appropriate to do so</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577317">
+      <clause.ref>Clause 29C(1)</clause.ref>
+      <sop.para>
+        <text>To omit this subclause (lines 5 to 10 on page 24) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">1</label>
+            <para>
+              <text>The Authority may make an order appointing an appropriate person as an interim administrator of an agent's trust account if the Authority—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>reasonably suspects that any money entrusted to the agent may be at risk; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>is satisfied that 1 or more of the grounds specified in <changeable><citation jurisdiction="nz">section 29</citation></changeable> apply to that agent.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577318">
+      <clause.ref>Clause 30(1)(b)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">or has been,</quote.in> (line 11 on page 25) <quote.in quote="1">an officer of the company or who is, or has been,</quote.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577319">
+      <clause.ref>Clause 33(1A)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">its</amend.in> in each place where it appears (lines 18 and 20 on page 27) and substitute in each case <amend.in quote="1">the Registrar's</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577320">
+      <clause.ref>Clause 34(1)(e)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">2 years'</amend.in> (line 12 on page 28) and substitute <amend.in quote="1">3 years'</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577321">
+      <clause.ref>Clause 35</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)(a)</emphasis>: to insert after <quote.in quote="1">of a crime involving dishonesty</quote.in> (lines 31 and 32 on page 28) <amend.in quote="1">(or of a crime that, if committed in New Zealand, would be a crime involving dishonesty)</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)(d)</emphasis>: to omit <amend.in quote="1">last</amend.in> (line 6 on page 29) and substitute <amend.in quote="1">preceding</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577322">
+      <clause.ref>Clause 38(2)</clause.ref>
+      <sop.para>
+        <text>To omit subparagraphs (b) and (c) (lines 21 to 27 on page 30).</text>
+      </sop.para>
+      <sop.para/>
+    </sop.amend>
+    <sop.amend id="DLM1577323">
+      <clause.ref>Clause 39(2)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">every person</amend.in> (line 6 on page 31) and substitute <amend.in quote="1">the person</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577324">
+      <clause.ref>Clause 41</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to add <amend.in quote="1">; and</amend.in> (line 28 on page 31) and also to add the following paragraph (after line 28 on page 31):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>if the applicant is a company, any person who will be an officer of the company if the application is granted is, by reason of his or her personal character or financial position, a proper person to be an officer of a licensee company.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577325">
+      <clause.ref>Clause 44(1)(b)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 56 or 57</citation></changeable></amend.in> (line 12 on page 33) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 57, 107(2)(c), or 112</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577326">
+      <clause.ref>Clause 50</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 25 to 32 on page 34).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577327">
+      <clause.ref>Clause 56</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Heading to clause 56</emphasis>: to omit <amend.in quote="1"><emphasis style="bold">Mandatory</emphasis></amend.in> (line 8 on page 37) and substitute <amend.in quote="1"><emphasis style="bold">Recording of</emphasis></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577328">
+      <clause.ref>Clause 57(4)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 53 or 56</citation></changeable></amend.in> (line 24 on page 37) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 53, 107(2)(c), or 112</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577329">
+      <clause.ref>Clause 58(2)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 53 or 56</citation></changeable></amend.in> (lines 31 and 32 on page 37) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 53, 107(2)(c), or 112</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577330">
+      <clause.ref>Clause 59(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 56</citation></changeable></amend.in> (line 2 on page 38) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 107(2)(c) or 112</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577331">
+      <clause.ref>Clause 61</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to omit paragraph (b) (lines 5 to 8 on page 39).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)</emphasis>: to omit <amend.in quote="1">the Authority</amend.in> (line 25 on page 39) and substitute <amend.in quote="1">the Registrar</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (4)</emphasis>: to omit <amend.in quote="1">the Authority's</amend.in> (line 33 on page 39) and substitute <amend.in quote="1">the Registrar's</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577332">
+      <clause.ref>Clause 65</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to insert the following paragraph after <emphasis style="italic">paragraph (f)</emphasis> (after line 26 on page 41):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">fa</label>
+            <para>
+              <text>whether the licensee has completed any continuing education required by practice rules made by the Authority pursuant to <changeable><citation jurisdiction="nz">section 19</citation></changeable>:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)(b)(i)</emphasis>: to omit <amend.in quote="1">(for example, whether for non-payment of a fee or levy set by the Authority that was required from the licensee)</amend.in> (lines 32 to 35 on page 41).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577333">
+      <clause.ref>Clause 71(ab)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">regulations</quote.in> (line 25 on page 43) <amend.in quote="1">or rules</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577334">
+      <clause.ref>Clause 72(a)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">licensees</amend.in> (line 1 on page 44) and substitute <amend.in quote="1">agents</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577335">
+      <clause.ref>Clause 73(2)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">the Committee</amend.in> (line 24 on page 44) and substitute <amend.in quote="1">a Committee</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577336">
+      <clause.ref>Clause 75(h)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 34 to 36 on page 46).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577337">
+      <clause.ref>Clause 76</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit <amend.in quote="1">proceed with</amend.in> (line 4 on page 47) and substitute <amend.in quote="1">inquire into</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)(e)</emphasis>: to omit <amend.in quote="1">proceed with</amend.in> (line 16 on page 47) and substitute <amend.in quote="1">inquire into</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577338">
+      <clause.ref>Clause 86(2)(b)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 3 to 5 on page 52) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
+            <para>
+              <text>a determination that it has been proved, on the balance of probabilities, that the licensee has engaged in unsatisfactory conduct:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577339">
+      <clause.ref>Clause 90(1)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">the Committee</quote.in> (line 10 on page 53) <amend.in quote="1">may</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577340">
+      <clause.ref>Clause 97</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (3)</emphasis> (after line 3 on page 56):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">3A</label>
+            <para>
+              <text>The Minister must consult with REINZ when making the first appointment of a licensee under <changeable><citation jurisdiction="nz">subsection (2)(b)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577341">
+      <clause.ref>Clause 107</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit this subclause (lines 7 to 11 on page 59) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">1</label>
+            <para>
+              <text>If the Disciplinary Tribunal, after hearing any charge against a licensee, is satisfied that it has been proved on the balance of probabilities that the licensee has been guilty of misconduct, it may, if it thinks fit, make 1 or more of the orders specified in <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)(g)</emphasis>: to omit <quote.in quote="1">any act or omission of a licensee</quote.in> (line 35 on page 59) and substitute <amend.in quote="1">the licensee's misconduct</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (4)</emphasis>: to omit this subclause (lines 10 to 17 on page 60) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">4</label>
+            <para>
+              <text>If the Disciplinary Tribunal, after hearing any charge against a licensee, is satisfied that the licensee, although not guilty of misconduct, has engaged in unsatisfactory conduct, the Tribunal may make any of the orders that a Complaints Assessment Committee may make under <changeable><citation jurisdiction="nz">section 90</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (5)</emphasis>: to omit this subclause (lines 18 to 20 on page 60).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577342">
+      <clause.ref>Clause 108</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to insert after <quote.in quote="1">given under</quote.in> (lines 24 and 25 on page 60) <amend.in quote="1"><changeable><citation jurisdiction="nz">section 78</citation></changeable> or</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)(a)</emphasis>: to insert after <quote.in quote="1">person under</quote.in> (line 29 on page 60) <amend.in quote="1"><changeable><citation jurisdiction="nz">section 78</citation></changeable> or</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577343">
+      <clause.ref>Clause 115(1)(b)</clause.ref>
+      <sop.para>
+        <text>To add (line 19 on page 63) <quote.in quote="1">and enter any conditions contained in the interim order</quote.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577344">
+      <clause.ref>Clause 117(3)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">or</amend.in> (line 4 on page 64) and substitute <amend.in quote="1">on</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577345">
+      <clause.ref>Clause 117A(3)</clause.ref>
+      <sop.para>
+        <text>To omit this subclause (lines 32 to 34 on page 64) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">3</label>
+            <para>
+              <text>The required name information must be capable of being easily read from outside each office or shop maintained by the agent for the purposes of the business.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577346">
+      <clause.ref>Clause 121(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">particular</amend.in> (line 24 on page 66) and substitute <amend.in quote="1">separate</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577347">
+      <clause.ref>Heading above clause 136 and clauses 136 to 141</clause.ref>
+      <sop.para>
+        <text>To omit this heading and these clauses (line 31 on page 75 to line 27 on page 78).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577348">
+      <clause.ref>Clause 149(1)(a)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 25 and 26 on page 80).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577349">
+      <clause.ref>Clause 152(2)(b)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">or body corporate</amend.in> (line 28 on page 82).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577350">
+      <clause.ref>Heading above clause 152A and clauses 152A and 152B</clause.ref>
+      <sop.para>
+        <text>To omit this heading and these clauses (lines 1 to 9 on page 83).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577351">
+      <clause.ref>Clause 155(j)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 34 and 35 on page 85).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577352">
+      <clause.ref>Clause 157</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">Act</amend.in> (line 2 on page 87) and substitute <amend.in quote="1">section</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To omit <amend.in quote="1">the Real Estate Institute of New Zealand Incorporated (<def-term id="DLM1577353">REINZ</def-term>)</amend.in> (lines 4 and 5 on page 87) and substitute <amend.in quote="1">REINZ</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577354">
+      <clause.ref>Clause 158</clause.ref>
+      <sop.para>
+        <text>To add the following subclause as <emphasis style="italic">subclause (2)</emphasis> (after line 21 on page 87):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>For the purposes of <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, section 79 of the Real Estate Agents Act 1976 has effect as if the references in that section to real estate agents were references to real estate agents within the meaning of this Act.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577355">
+      <clause.ref>Clause 163(1)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">Regional Disciplinary Committee</quote.in> (line 34 on page 89) <amend.in quote="1">, and subcommittee of a Regional Disciplinary Committee,</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577356">
+      <clause.ref>Clause 164</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit <amend.in quote="1">of this Act</amend.in> (line 9 on page 90) and substitute <amend.in quote="1">of this section</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)</emphasis>: to omit <amend.in quote="1">of this Act</amend.in> in each place where it appears (lines 17 and 20 on page 90) and substitute in each case <amend.in quote="1">of this section</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577357">
+      <clause.ref>Clause 165</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit <amend.in quote="1">of this Act</amend.in> (line 35 on page 90) and substitute <amend.in quote="1">of this section</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)</emphasis>: to omit <amend.in quote="1">of this Act</amend.in> in each place where it appears (lines 9, and 11 and 12 on page 91) and substitute in each case <amend.in quote="1">of this section</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (6)</emphasis>: to omit <amend.in quote="1">of this Act</amend.in> (line 25 on page 91) and substitute <amend.in quote="1">of this section</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577358">
+      <clause.ref>Clause 166</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit <amend.in quote="1">of this Act</amend.in> (line 31 on page 91) and substitute <amend.in quote="1">of this section</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)</emphasis>: to omit <amend.in quote="1">of this Act</amend.in> (line 3 on page 92) and substitute <amend.in quote="1">of this section</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577359">
+      <clause.ref>Clause 167(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">of this Act</amend.in> (line 9 on page 92) and substitute <amend.in quote="1">of this section</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1577360">
+      <clause.ref>Clause 169</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit <amend.in quote="1">The Complaints Assessment Committee</amend.in> (line 28 on page 93) and substitute <amend.in quote="1">A Complaints Assessment Committee</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to omit <amend.in quote="1">unacceptable</amend.in> (line 6 on page 94) and substitute <amend.in quote="1">unsatisfactory</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM1241610" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2008" raised.by="Government" sop.no="197">
+  <explnote id="DLM1577361" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="243">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper divides the Maori Purposes Bill (No 2) into the following 4 Bills:</text>
+      <text>This Supplementary Order Paper amends the Real Estate Agents Bill. In particular,—</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>the Maniapoto Maori Trust Board Amendment Bill:</text>
+            <text>it extends the commencement of most of the provisions from 1 year after assent to 14 months after assent:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>the Maori Trust Boards Amendment Bill:</text>
+            <text>it clarifies that conveyancing (within the meaning of the Lawyers and Conveyancers Act 2006) is not included in the definition of real estate agency work:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>the Treaty of Waitangi Amendment Bill:</text>
+            <text>it inserts a definition of REINZ (the Real Estate Institute of New Zealand Incorporated):</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>Te Ture Whenua Maori Amendment Bill.</text>
+            <text>it clarifies that share transactions are not governed by the Bill. The only exception is the acquisition of shares in flat-owning companies that confer a licence on the shareholder to occupy a flat:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Minister is now required to consult with the Real Estate Institute of New Zealand Incorporated when making the first appointment of licensees and former licensees to the Authority and the Real Estate Agents Disciplinary Tribunal (<emphasis style="italic">clauses 17 and 97</emphasis>):</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>it increases the experience in real estate agency work required before a person is entitled to an agent's licence or a branch manager's licence from 2 years to 3 years (<emphasis style="italic">clause 34(1)</emphasis>):</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>it removes certain grounds of objection relating to whether an applicant for a licence is a proper person to hold a licence, as these grounds of objection are already covered in the relevant section (<emphasis style="italic">clause 38(2)(b) and (c)</emphasis>):</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>it removes <emphasis style="italic">clause 50</emphasis>, which requires the chief executive of the Ministry of Justice to undertake a review of the section that relates to the employment status of salespersons (<emphasis style="italic">clause 49</emphasis>):</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>it amends the matters to be contained in the register to include whether the licensee has completed any required continuing education requirements (<emphasis style="italic">clause 65</emphasis>):</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>it removes the discretion from the Disciplinary Tribunal to remit certain cases back to the Complaints Assessment Committees that brought those cases before the Tribunal (<emphasis style="italic">clause 107</emphasis>): </text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>it removes the provisions relating to auction requirements (<emphasis style="italic">clauses 136 to 141</emphasis>) and related offence and regulation empowering provisions (<emphasis style="italic">clauses 152A, 152B, and 155(j)</emphasis>):</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>it includes subcommittees of Regional Disciplinary Committees among existing real estate bodies that are continued in existence for transitional purposes (<emphasis style="italic">clause 163(1)</emphasis>).</text>
           </para>
         </item>
       </list>
     </para>
+    <para>
+      <text>This Supplementary Order Paper also makes some consequential amendments and includes a number of minor drafting changes.</text>
+    </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
