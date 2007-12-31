@@ -1,21 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1771500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="1">
-  <date>Tuesday, 9 December 2008</date>
-  <billref>Employment Relations Amendment Bill</billref>
-  <body id="DLM1771501">
-    <heading>Proposed amendment</heading>
-    <motion>David Garrett, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM1771502">
-      <clause.ref>Clause 2(2)</clause.ref>
+<sop id="DLM1444400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="215">
+  <date>Wednesday, 23 July 2008</date>
+  <billref>New Zealand–China Free Trade Agreement Bill</billref>
+  <body id="DLM1444401">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Phil Goff, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1444402">
+      <clause.ref>Clause 2</clause.ref>
       <sop.para>
-        <text>To omit <amend.in quote="1">April</amend.in> (line 7 on page 2) and substitute <amend.in quote="1">March</amend.in>.</text>
+        <text>To omit <emphasis style="italic">subclause (1)</emphasis> (lines 6 and 7 on page 3) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Parts 1 and 4 </citation></changeable> come into force on 1 October 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1444403">
+      <clause.ref>Clause 18</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 6 to 23 on page 8) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1444404" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">18</label>
+            <heading>Regulations</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Section 134 is amended by inserting the following subsection after subsection (1C):</text>
+                  <amend quote="1">
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1D</label>
+                      <para>
+                        <text>The power to regulate in relation to interfering equipment, susceptible equipment, or other equipment under subsection (1)(g) includes the power to regulate in relation to such equipment that is, or may be, exported from New Zealand pursuant to the Conformity Cooperation Agreement.</text>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section 134 is amended by adding the following subsections:</text>
+                  <amend quote="1">
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The Conformity Cooperation Agreement (including any amendments made to that agreement in accordance with it) and any standards or rules referred to in the Conformity Cooperation Agreement may be incorporated by reference in regulations made in reliance on <changeable><citation jurisdiction="nz">subsection (1D)</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>The provisions of <changeable><citation jurisdiction="nz">Schedule 8 </citation></changeable> apply to material incorporated by reference in regulations made in reliance on <changeable><citation jurisdiction="nz">subsection (1D)</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>In this section, <def-term id="DLM1395500">Conformity Cooperation Agreement </def-term>means the Agreement between the Government of New Zealand and the Government of the People's Republic of China on Cooperation in the Field of Conformity Assessment in Relation to Electrical and Electronic Equipment and Components, which is Annex 14 of the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008.</text>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1444405">
+      <clause.ref>Clause 28</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (5)</emphasis> (after line 36 on page 11):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5A</label>
+            <para>
+              <text>Section 169 is amended by inserting the following subsection after subsection (2B):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">2C</label>
+                  <para>
+                    <text>In subsections (2), (2A), and (2B), <def-term id="DLM1444406">official standard</def-term> may be treated as including, for the purposes of <changeable><citation jurisdiction="nz">subsections (1)(2)(b) and (c), (7A), and (8)(aa) and (c)</citation></changeable>, the Conformity Cooperation Agreement (including any amendments made to that agreement in accordance with it) and any standards or rules referred to in the Conformity Cooperation Agreement.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1771503" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="1">
+  <explnote id="DLM1444407" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="215">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends <emphasis style="italic">clause 2(2)</emphasis> of the Employment Relations Amendment Bill to bring forward the commencement date of <emphasis style="italic">clauses 6 and 7</emphasis> to 1 March 2009.</text>
+      <text>This Supplementary Order Paper amends the New Zealand–China Free Trade Agreement Bill.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 2</emphasis> means that <emphasis style="italic">Parts 1 and 4</emphasis> will come into force on 1 October 2008 rather than by Order in Council.</text>
+    </para>
+    <para>
+      <text>The amendments to <emphasis style="italic">clauses 18 and 28</emphasis> clarify,—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>in relation to the amendments to the Radiocommunications Act 1989 made by <emphasis style="italic">Part 3</emphasis> of the Bill, that regulations made in reliance on <emphasis style="italic">new section 134(1D)</emphasis> may incorporate by reference a certain part of the New Zealand–China Free Trade Agreement (including any amendments to it) and may also incorporate by reference standards or rules referred to in that part of the Agreement:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>in relation to the amendments to the Electricity Act 1992 made by <emphasis style="italic">Part 5</emphasis> of the Bill, that regulations made in reliance on the Bill's amendments  to section 169 of that Act may also incorporate by reference those same documents.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
