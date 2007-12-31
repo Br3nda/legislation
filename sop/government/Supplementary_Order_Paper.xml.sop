@@ -1,93 +1,1530 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1189000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0003" stage="published" year="2008" raised.by="Government" sop.no="179">
-  <date>Thursday, 6 March 2008</date>
-  <billref>Limited Partnerships Bill</billref>
-  <body id="DLM1189001">
-    <heading>Proposed motion to divide Bill into 2 Bills</heading>
-    <motion>Hon Lianne Dalziel, in Committee, to move as follows:</motion>
-    <sop.split>
-      <para>
-        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, <emphasis style="italic">Parts 1 to 4</emphasis>, and the <emphasis style="italic">Schedule </emphasis> be a separate Bill, and that for the enacting words and <emphasis style="italic">clauses 1 and 2</emphasis> there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1188300" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act is the Limited Partnerships Act <changeable>2008</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1188301" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on a date to be appointed by the Governor-General by Order in Council.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Parts 5 and 6</emphasis> be a separate Bill, and that before the <emphasis style="italic">Part 5</emphasis> heading there be inserted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1188302" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Taxation (Limited Partnerships) Act <changeable>2008</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1188303" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on 1 April 2008.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
+<sop id="DLM1558200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="224">
+  <date>Tuesday, 26 August 2008</date>
+  <billref>Taxation (International Taxation, Life Insurance, and Remedial Matters) Bill</billref>
+  <body id="DLM1558201">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Peter Dunne, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1558202">
+      <clause.ref>Clause 2</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (15B)</emphasis>: to insert, after <emphasis style="italic">subclause (15)</emphasis> (after line 17 on page 32), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">15B</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Sections 542B, 549B, 550B, 568B, 568C, 568D, 578B, 578C, 578D, 578E, 578F, 580B, and 613(4B), (4C), (4D), (6B), (13B), (13C), and (13D)</citation></changeable> come into force on 25 February 2008.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (17)</emphasis>: to insert in their appropriate place in the alphanumerical sequence (line 19 on page 32 to line 8 on page 33), references to sections 12(1)(b), 55B, 67B, 115B, 115C, 127B, 151B(1), 163(1) and (3), 166(2B) and (4B), 203B, and 408(29B), (40B), (49)(a), (80B), (115B), (132)(a), and (136B).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (19)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">147, </citation></changeable></amend.in> (line 16 on page 33) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">147, 151B(2),</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (19)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">163</citation></changeable></amend.in> (line 18 on page 33) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">163(2) and (4)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (19)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">(49)</citation></changeable></amend.in> (line 31 on page 33) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">(49)(b)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (19)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">(132)</citation></changeable></amend.in> (line 32 on page 33) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">(132)(b)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (22)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">12</citation></changeable></amend.in> (line 5 on page 34) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">12(1)(a)</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558203">
+      <clause.ref>Clause 12</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">clause 12</emphasis> (lines 1 to 6 on page 39) and substitute the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558204" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">12</label>
+            <heading>Returns of capital: off-market share cancellations</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>In section CD 22(9),—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>in the definition of <def-term id="DLM1558205">counted associate</def-term>, paragraph (b), <amend.in quote="1">is a beneficiary</amend.in> is replaced by <amend.in quote="1">has benefited or is eligible to benefit</amend.in>:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>in the definition of <def-term id="DLM1558206">non-participating redeemable share</def-term>, paragraph (b)(iii), <amend.in quote="1">; or</amend.in> is replaced by <amend.in quote="1">or <changeable><citation jurisdiction="nz">section FA 2B(2) </citation></changeable> (Stapled debt securities); or</amend.in>.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text><changeable><citation jurisdiction="nz">Subsection (1)(a) </citation></changeable> applies for the 2009–10 and later income years.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558207">
+      <clause.ref>New clause 55B</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 55</emphasis> (after line 15 on page 63), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558208" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">55B</label>
+            <heading>New section DB 10B inserted</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>After section DB 10, the following is inserted:</text>
+                  <amend quote="1">
+                    <prov id="DLM1558209" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">DB 10B</label>
+                      <heading>Interest or expenditure connected to stapled debt security</heading>
+                      <prov.body>
+                        <subprov.crosshead quote="1">No deduction</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>A company issuing a stapled debt security is denied a deduction for—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>interest payable under the security; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>expenditure or loss incurred in connection with the security; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>expenditure or loss incurred in borrowing the money secured by or owing under the security.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Relationship with sections DB 5 to DB 8</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>This section overrides sections DB 5 to DB 8.</text>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Link with subpart DA</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>This section overrides the general permission.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                      <ird.aids id="DLM1558210">
+                        <readers-notes quote="1">
+                          <para quote="1">
+                            <text>Defined in this Act:  deduction, general permission, interest, pay, stapled debt security</text>
+                          </para>
+                        </readers-notes>
+                      </ird.aids>
+                    </prov>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558211">
+      <clause.ref>New clause 67B</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 67</emphasis> (after line 18 on page 68), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558212" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">67B</label>
+            <heading>Forestry business on land bought from the Crown, Maori owners, or holding company:  no deduction</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>In the heading to section DP 8(3), <amend.in quote="1"><emphasis style="bold">section FA 2</emphasis></amend.in> is replaced by <amend.in quote="1"><emphasis style="bold">sections FA 2 and FA 2B</emphasis></amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>In section DP 8(3), <amend.in quote="1">, does</amend.in> is replaced by <amend.in quote="1">and <changeable><citation jurisdiction="nz">section FA 2B </citation></changeable> (Stapled debt securities) do</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558213">
+      <clause.ref>New clauses 115B and 115C</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 115</emphasis> (after line 22 on page 93), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558214" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">115B</label>
+            <heading>Direct control interests</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>In section EX 5(5)(c), <amend.in quote="1">debentures)</amend.in> is replaced by <amend.in quote="1">debentures), <changeable><citation jurisdiction="nz">FA 2B </citation></changeable> (Stapled debt securities),</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1558215" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">115C</label>
+            <heading>Direct income interests</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>In section EX 9(6)(c), <amend.in quote="1">debentures)</amend.in> is replaced by <amend.in quote="1">debentures), <changeable><citation jurisdiction="nz">FA 2B </citation></changeable> (Stapled debt securities),</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558216">
+      <clause.ref>New clause 127B</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 127</emphasis> (after line 34 on page 126), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558217" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">127B</label>
+            <heading>Direct income interests in FIFs</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>In section EX 30(6)(c), <amend.in quote="1">debentures)</amend.in> is replaced by <amend.in quote="1">debentures) or <changeable><citation jurisdiction="nz">FA 2B </citation></changeable> (Stapled debt securities)</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558218">
+      <clause.ref>Clause 151</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Clause 151(2): section FA 2(4)(b)(iii)</emphasis>: to omit <amend.in quote="1">date).</amend.in> (line 3 on page 170) and substitute <amend.in quote="1">date):</amend.in>, and add (after line 3 on page 170), as <emphasis style="italic">new section FA 2(4)(c)</emphasis>, the following:</text>
+        <instrument.amend close.quote="yes" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" increment="1" quote="1">c</label>
+            <para>
+              <text>does not include a debenture treated as a share under <changeable><citation jurisdiction="nz">section FA 2B </citation></changeable> (Stapled debt securities).</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 151(3): section FA 2(5)(c)</emphasis>: to omit <amend.in quote="1">note.</amend.in> (line 25 on page 170) and substitute <amend.in quote="1">note:</amend.in>, and add (after line 25 on page 170), as <emphasis style="italic">new section FA 2(5)(d)</emphasis>, the following:</text>
+        <instrument.amend close.quote="yes" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" increment="1" quote="1">d</label>
+            <para>
+              <text>does not include a debenture treated as a share under <changeable><citation jurisdiction="nz">section FA 2B</citation></changeable>.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558219">
+      <clause.ref>New clause 151B</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 151</emphasis> (after line 31 on page 170), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558220" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">151B</label>
+            <heading>New section FA 2B</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>After section FA 2, the following is inserted:</text>
+                  <amend quote="1">
+                    <prov id="DLM1558221" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">FA 2B </label>
+                      <heading>Stapled debt securities</heading>
+                      <prov.body>
+                        <subprov.crosshead quote="1">When subsection (2) applies</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text><changeable>Subsection (2)</changeable> applies when—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>a company has issued a debt security; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the debt security is stapled to a share in the company or to a share in another company; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the share is not a fixed-rate share.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Stapled debt treated as equity</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>The stapled debt security is treated as a share issued by the company and—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>interest payable under the stapled debt security is treated as a dividend; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the company is denied a deduction under <changeable>section DB 10B</changeable> (Interest or expenditure connected to stapled debt security) for expenditure or loss incurred in connection with the security.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Stapled securities aggregated</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>A stapled debt security and a share to which it is stapled are treated as a single share for the purposes of applying—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the definition of <def-term id="DLM1558222">non-participating redeemable share</def-term> in section CD 22(9) (Returns of capital: off-market share cancellations); and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the definition of <def-term id="DLM1558223">fixed-rate share</def-term> in section LL 9 (Some definitions); and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the definitions, in section YA 1 (Definitions), of—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text><def-term id="DLM1558224">fixed-rate foreign equity</def-term>; and </text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text><def-term id="DLM1558225">fixed-rate share</def-term>, except for the purposes of <changeable><citation jurisdiction="nz">subsection (1)(c)</citation></changeable>.</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Meaning of debt security</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">4</label>
+                          <para>
+                            <text>In this section, <def-term id="DLM1558226">debt security</def-term> means a financial arrangement if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the financial arrangement provides funds to the company; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the financial arrangement gives rise to an amount for which the company would have a deduction but for this section; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the amount does not arise only from either a movement in a currency exchange rate or a non-contingent fee.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Meaning of stapled</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">5</label>
+                          <para>
+                            <text>In this section, a debt security is <def-term id="DLM1558227">stapled</def-term> to a share if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the debt security can, or ordinarily can, be disposed of only together with the share; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the arrangement that requires the debt security and the share to be disposed of together is an arrangement in which the company that issued the debt security or the share is a party.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Exclusion: stapled before 25 February 2008</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">6</label>
+                          <para>
+                            <text>This section does not apply if the debt security was stapled to the share before 25 February 2008.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                      <ird.aids id="DLM1558228">
+                        <readers-notes quote="1">
+                          <para quote="1">
+                            <text>Defined in this Act:  amount, company, debt security, deduction, financial arrangement, fixed-rate share, non-contingent fee, share, stapled</text>
+                          </para>
+                        </readers-notes>
+                      </ird.aids>
+                    </prov>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text><changeable><citation jurisdiction="nz">Section FA 2B(3)(b) </citation></changeable> is repealed.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text><changeable><citation jurisdiction="nz">Subsection (1) </citation></changeable> applies if a debt security is stapled to a share on or after 25 February 2008.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text><changeable><citation jurisdiction="nz">Subsection (2) </citation></changeable> applies for the 2009–10 and later income years.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558229">
+      <clause.ref>Clause 163</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">clause 163</emphasis> (line 24 on page 177 to line 11 on page 178) and substitute the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558230" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">163</label>
+            <heading>Total group debt</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Section FE 15(1)(b) is replaced by the following:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>the financial arrangement—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
+                          <para>
+                            <text>gives rise to an amount for which the natural person, the entity, or another member of the group, would have a deduction:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
+                          <para>
+                            <text>is a stapled debt security held by a person resident in New Zealand, unless it is stapled to a share issued by a proportional-stapling company.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </label-para>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section FE 15(1) and (2) are replaced by the following:</text>
+                  <amend increment="1" quote="1">
+                    <subprov.crosshead quote="1">Meaning</subprov.crosshead>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>In this subpart for a New Zealand group, <emphasis style="bold">total group debt</emphasis> means the sum of the outstanding balances for—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>financial arrangements entered into by a natural person, or an excess debt entity, or another member of the New Zealand group, if the financial arrangement—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>provides funds to the natural person, the entity, or another member of the group; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>gives rise to an amount for which the natural person, the entity, or another member of the group, would have a deduction:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>fixed-rate foreign equity that is—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>issued by the entity or another member of the New Zealand group; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>held by a person resident in New Zealand:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>stapled debt securities—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>issued by the entity or another member of the New Zealand group; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>held by a person resident in New Zealand; and </text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iii</label>
+                              <para>
+                                <text>not stapled to shares issued by a proportional-stapling company.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov.crosshead quote="1">Exchange rate fluctuations</subprov.crosshead>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text><changeable><citation jurisdiction="nz">Subsection (1)(a)(ii) </citation></changeable> does not include a deduction for an amount that arises only from movement in currency exchange rates.</text>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>In section FE 15, in the list of defined terms, <amend.in quote="1">proportional-stapling company</amend.in>, <amend.in quote="1">resident in New Zealand</amend.in>, <amend.in quote="1">stapled</amend.in>, and <amend.in quote="1">stapled debt security</amend.in> are inserted.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>In section FE 15, in the list of defined terms, <amend.in quote="1">fixed-rate foreign equity</amend.in> is inserted.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">5</label>
+                <para>
+                  <text><changeable>Subsections (2) and (4)</changeable> apply for the 2009–10 and later income years.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558231">
+      <clause.ref>Clause 166</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (2B)</emphasis>: to insert, after <emphasis style="italic">clause 166(2)</emphasis> (after line 21 on page 180), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2B</label>
+            <para>
+              <text>After section FE 21(4), the following is inserted:</text>
+              <amend increment="1" quote="1">
+                <subprov.crosshead>Stapled debt securities</subprov.crosshead>
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" increment="1" quote="1">4B</label>
+                  <para>
+                    <text><emphasis style="bold">Adjustment 1A</emphasis> is the financial value of stapled debt securities that are—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>owned by a person resident in New Zealand; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>included in equity value under subsection (3); and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">c</label>
+                      <para>
+                        <text>are not stapled to shares issued by a proportional-stapling company.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (4B)</emphasis>: to insert, after <emphasis style="italic">clause 166(4)</emphasis> (after line 5 on page 181), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">4B</label>
+            <para>
+              <text>In section FE 21, in the list of defined terms, <amend.in quote="1">proportional-stapling company</amend.in>, <amend.in quote="1">stapled</amend.in>, and <amend.in quote="1">stapled debt security</amend.in> are inserted.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558232">
+      <clause.ref>New clause 203B</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 203</emphasis> (after line 8 on page 197), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558233" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">203B</label>
+            <heading>Companies issuing debentures</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Section HD 14(2)(a) is replaced by the following:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>it is a profit-related debenture or substituting debenture to which section FA 2 (Recharacterisation of certain debentures) applies or a stapled debt security to which <changeable><citation jurisdiction="nz">section FA 2B </citation></changeable> (Stapled debt securities) applies; or</text>
+                      </para>
+                    </label-para>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>In section HD 14, in the list of defined terms, <amend.in quote="1">stapled debt security</amend.in> is inserted.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558234">
+      <clause.ref>Clause 408</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (29B)</emphasis>: to insert, after <emphasis style="italic">subclause (29)</emphasis> (after line 14 on page 323), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">29B</label>
+            <para>
+              <text>After the definition of <def-term id="DLM1558235">debenture holder</def-term>, the following is inserted:</text>
+              <amend increment="1" quote="1">
+                <def-para id="DLM1558236" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1558237">debt security</def-term> is defined in <changeable><citation jurisdiction="nz">section FA 2B(4) </citation></changeable> (Stapled debt securities) for the purposes of that section</text>
+                  </para>
+                </def-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (30)</emphasis>:  to omit <amend.in quote="1"><def-term id="DLM1558238">debenture holder</def-term></amend.in> (line 15 on page 323) and substitute <amend.in quote="1"><def-term id="DLM1558239">debt security</def-term></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (40B)</emphasis>: to insert, after <emphasis style="italic">subclause (40)</emphasis> (after line 22 on page 325), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">40B</label>
+            <para>
+              <text>In the definition of <def-term id="DLM1558240">excluded fixed rate security</def-term>, <amend.in quote="1">substituting debenture</amend.in> is replaced by <amend.in quote="1">substituting debenture or stapled debt security</amend.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (49)</emphasis>: to omit <emphasis style="italic">subclause (49)</emphasis> (lines 19 to 21 on page 327), and substitute the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">49</label>
+            <para>
+              <text>In the definition of <def-term id="DLM1558241">fixed-rate share</def-term>,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>in paragraph (e), <amend.in quote="1">equity)</amend.in> is replaced by <amend.in quote="1">equity):</amend.in>, and the following is added:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">f</label>
+                      <para>
+                        <text>in <changeable><citation jurisdiction="nz">section FA 2B </citation></changeable> (Stapled debt securities), this paragraph, and the definition of <def-term id="DLM1558242">proportional-stapling company</def-term>, means—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
+                          <para>
+                            <text>a share described in paragraph (a):</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
+                          <para>
+                            <text>a share that would be a share described in paragraph (a) but for any variation in the rate of dividend that may occur, reflecting generally accepted market practice, to compensate the shareholder for transaction expenditure, such as brokerage, expected to be incurred by the shareholder due to conversion of the share into another share that is not a fixed-rate share:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">iii</label>
+                          <para>
+                            <text>a share for which the dividend payable is the equivalent of the payment of interest for money lent having regard to the factors in <changeable><citation jurisdiction="nz">paragraph (g)</citation></changeable>:</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">g</label>
+                      <para>
+                        <text>for the purposes of <changeable><citation jurisdiction="nz">paragraph (f)(iii)</citation></changeable>, the factors are––</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
+                          <para>
+                            <text>whether or not the share is redeemable:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
+                          <para>
+                            <text>any security provided to the shareholder, including put or call options over the share or any amount payable determined by reference to the amount of dividend payable:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">iii</label>
+                          <para>
+                            <text>the variability or lack of variability of the dividend payable</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </label-para>
+                  </amend>
+                  <follow-text space-before="no">:</follow-text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>paragraph (e) is repealed.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (80B)</emphasis>: to insert, after <emphasis style="italic">subclause (80)</emphasis> (after line 22 on page 331), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">80B</label>
+            <para>
+              <text>In the definition of <def-term id="DLM1558243">market value circumstance</def-term>, paragraph (a)(ii), <amend.in quote="1">applies</amend.in> is replaced by <amend.in quote="1">or <changeable><citation jurisdiction="nz">FA 2B </citation></changeable> (Stapled debt securities) applies</amend.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (115B)</emphasis>: to insert, after <emphasis style="italic">subclause (115)</emphasis> (after line 19 on page 337), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">115B</label>
+            <para>
+              <text>After the definition of <def-term id="DLM1558244">property</def-term>, the following is inserted:</text>
+              <amend increment="1" quote="1">
+                <def-para id="DLM1558245" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1558246">proportional-stapling company</def-term> means a company if—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>each share in the company that is not a fixed-rate share (a <emphasis style="bold">participating share</emphasis>) is stapled to a stapled debt security; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>for each participating share in the company, the amount payable for the issue of its stapled debt security is the same proportion of the available subscribed capital calculated under the slice rule of the participating share as it is for each other participating share</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </def-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (132)</emphasis>: to omit <emphasis style="italic">subclause (132)</emphasis> (lines 1 to 3 on page 340), and substitute the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">132</label>
+            <para>
+              <text>In the definition of <def-term id="DLM1558247">share</def-term>,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>after paragraph (b), the following is inserted:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">bb</label>
+                      <para>
+                        <text>includes a stapled debt security to which <changeable><citation jurisdiction="nz">section FA 2B(2) </citation></changeable> (Stapled debt securities) applies:</text>
+                      </para>
+                    </label-para>
+                  </amend>
+                  <follow-text space-before="no">:</follow-text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>after paragraph (e), the following is inserted:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">eb</label>
+                      <para>
+                        <text>does not include a fixed-rate foreign equity:</text>
+                      </para>
+                    </label-para>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (136B)</emphasis>: to insert, after <emphasis style="italic">subclause (136)</emphasis> (after line 11 on page 341), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">136B</label>
+            <para>
+              <text>After the definition of <def-term id="DLM1558248">standing timber</def-term>, the following is inserted:</text>
+              <amend increment="1" quote="1">
+                <def-para id="DLM1558249" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1558250">stapled</def-term>, for a debt security and a share, is defined in <changeable><citation jurisdiction="nz">section FA 2B(5) </citation></changeable> (Stapled debt securities)</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1558251" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1558252">stapled debt security</def-term> means a financial arrangement to which <changeable><citation jurisdiction="nz">section FA 2B(2) </citation></changeable> (Stapled debt securities) applies</text>
+                  </para>
+                </def-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558253">
+      <clause.ref>New clause 542B</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 542</emphasis> (after line 19 on page 405), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558254" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">542B</label>
+            <heading>Returns of capital: off-market share cancellations</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>In section CD 14(9), in the definition of <def-term id="DLM1558255">non-participating redeemable share</def-term>, paragraph (b)(iii), <amend.in quote="1">; or</amend.in> is replaced by <amend.in quote="1">or <changeable><citation jurisdiction="nz">section FC 2B(2) </citation></changeable> (Stapled debt securities); or</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558256">
+      <clause.ref>New clause 549B</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 549</emphasis> (after line 10 on page 410), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558257" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">549B</label>
+            <heading>New section DB 8B inserted</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>After section DB 8, the following is inserted:</text>
+                  <amend quote="1">
+                    <prov id="DLM1558258" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">DB 8B</label>
+                      <heading>Interest or expenditure connected to stapled debt security</heading>
+                      <prov.body>
+                        <subprov.crosshead quote="1">No deduction</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>A company issuing a stapled debt security is denied a deduction for—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>interest payable under the security; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>expenditure or loss incurred in connection with the security; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>expenditure or loss incurred in borrowing the money secured by or owing under the security.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Relationship with sections DB 5 to DB 8</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>This section overrides sections DB 5 to DB 8.</text>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Link with subpart DA</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>This section overrides the general permission.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                      <ird.aids id="DLM1558259">
+                        <readers-notes quote="1">
+                          <para quote="1">
+                            <text>Defined in this Act:  deduction, general permission, interest, pay, stapled debt security</text>
+                          </para>
+                        </readers-notes>
+                      </ird.aids>
+                    </prov>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558260">
+      <clause.ref>New clause 550B</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 550</emphasis> (after line 19 on page 410), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558261" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">550B</label>
+            <heading>Forestry business on land bought from the Crown, Maori owners, or holding company:  no deduction</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>In the heading to section DP 7(3), <amend.in quote="1"><emphasis style="bold">and FZ 2</emphasis></amend.in> is replaced by <amend.in quote="1"><emphasis style="bold">, FC 2B, and FZ 2</emphasis></amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>In section DP 7(3), <amend.in quote="1">do</amend.in> is replaced by <amend.in quote="1">and <changeable><citation jurisdiction="nz">section FC 2B </citation></changeable> (Stapled debt securities) do</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558262">
+      <clause.ref>New clauses 568B to 568D</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 568</emphasis> (after line 19 on page 423), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558263" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">568B</label>
+            <heading>Direct control interests</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>In section EX 5(5)(c), <amend.in quote="1">shares)</amend.in> is replaced by <amend.in quote="1">shares) or <changeable><citation jurisdiction="nz">FC 2B </citation></changeable> (Stapled debt securities)</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1558264" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">568C</label>
+            <heading>Direct income interests</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>In section EX 9(6)(c), <amend.in quote="1">shares)</amend.in> is replaced by <amend.in quote="1">shares) or <changeable><citation jurisdiction="nz">FC 2B </citation></changeable> (Stapled debt securities)</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1558265" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">568D</label>
+            <heading>Direct income interests in FIFs</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>In section EX 31(6)(c), <amend.in quote="1">shares)</amend.in> is replaced by <amend.in quote="1">shares) or <changeable><citation jurisdiction="nz">FC 2B </citation></changeable> (Stapled debt securities)</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558267">
+      <clause.ref>New clauses 578B to 578F</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 578</emphasis> (after line 35 on page 426), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558268" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">578B</label>
+            <heading>Floating rate of interest on debentures</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>After section FC 1(3), the following is added:</text>
+                  <amend quote="1">
+                    <subprov skeleton="no">
+                      <label auto.number="yes" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>This section does not apply to a debenture treated as a share under <changeable><citation jurisdiction="nz">section FC 2B </citation></changeable> (Stapled debt securities).</text>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1558269" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">578C</label>
+            <heading>Interest on debentures issued in substitution for shares</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>After section FC 2(4), the following is inserted:</text>
+                  <amend quote="1">
+                    <subprov skeleton="no">
+                      <label auto.number="yes" denominator="yes" quote="1">4B</label>
+                      <para>
+                        <text>This section does not apply to a debenture treated as a share under <changeable><citation jurisdiction="nz">section FC 2B </citation></changeable> (Stapled debt securities).</text>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1558270" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">578D</label>
+            <heading>New section FC 2B</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>After section FC 2, the following is inserted:</text>
+                  <amend quote="1">
+                    <prov id="DLM1558271" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">FC 2B </label>
+                      <heading>Stapled debt securities</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text><changeable>Subsection (2)</changeable> applies when—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>a company has issued a debt security; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the debt security is stapled to a share in the company or to a share in another company; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the share is not a fixed-rate share.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>The stapled debt security is treated as a share issued by the company and—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>interest payable under the stapled debt security is treated as a dividend; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the company is denied a deduction under <changeable>section DB 8B</changeable> (Interest or expenditure connected to stapled debt security) for expenditure or loss incurred in connection with the security.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>A stapled debt security and a share to which it is stapled are treated as a single share for the purposes of applying—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the definition of <def-term id="DLM1558272">non-participating redeemable share</def-term> in section CD 14(9) (Returns of capital: off-market share cancellations); and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the definition of <def-term id="DLM1558273">fixed rate share</def-term> in section LF 2(3) (Granting of foreign underlying tax credits); and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the definition, in section OB 1 (Definitions) of <def-term id="DLM1558274">fixed rate share</def-term>, except for the purposes of <changeable><citation jurisdiction="nz">subsection (1)(c)</citation></changeable>.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">4</label>
+                          <para>
+                            <text>In this section, <def-term id="DLM1558275">debt security</def-term> means a financial arrangement if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the financial arrangement provides funds to the company; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the financial arrangement gives rise to an amount for which the company would have a deduction but for this section; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the amount does not arise only from either a movement in a currency exchange rate or a non-contingent fee.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">5</label>
+                          <para>
+                            <text>In this section, a debt security is <def-term id="DLM1558276">stapled</def-term> to a share if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the debt security can, or ordinarily can, be disposed of only together with the share; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the arrangement that requires the debt security and the share to be disposed of together is an arrangement in which the company that issued the debt security or the share is a party.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">6</label>
+                          <para>
+                            <text>This section does not apply if the debt security was stapled to the share before 25 February 2008.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text><changeable><citation jurisdiction="nz">Subsection (1) </citation></changeable> applies if a debt security is stapled to a share on or after 25 February 2008.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1558277" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">578E</label>
+            <heading>Rules for calculating New Zealand group debt percentage</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>Section FG 4(2)(b) is replaced by the following:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>the financial arrangement—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
+                          <para>
+                            <text>gives rise to an amount for which the taxpayer (or another group member) would be allowed a deduction, other than an amount that arises only from movement in currency exchange rates:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
+                          <para>
+                            <text>is a stapled debt security held by a person resident in New Zealand, unless it is stapled to a share issued by a proportional-stapling company.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </label-para>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1558278" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">578F</label>
+            <heading>New Zealand net equity of New Zealand banking group</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>In section FG 8G(1), in the formula, <amend.in quote="1"><emphasis style="bold">FRS</emphasis></amend.in> is replaced by <amend.in quote="1"><emphasis style="bold">FRS – SDS</emphasis></amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>In section FG 8G(1), after the item <emphasis style="bold">FRS</emphasis>, the following is inserted:</text>
+                  <amend increment="1" quote="1">
+                    <para quote="1">
+                      <text><emphasis style="bold">SDS</emphasis> is the financial value for the measurement day of stapled debt securities, each of which is—</text>
+                    </para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" increment="1" quote="1">a</label>
+                      <para>
+                        <text>owned by a person resident in New Zealand; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>included in the value of item <emphasis style="bold">EQV</emphasis>; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">c</label>
+                      <para>
+                        <text>are not stapled to shares issued by a proportional-stapling company</text>
+                      </para>
+                    </label-para>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558279">
+      <clause.ref>New clause 580B</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 580</emphasis> (after line 13 on page 427), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1558280" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">580B</label>
+            <heading>Modification of agency provisions in respect of income from company debentures</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>In section HK 13(1), <amend.in quote="1">debentures issued</amend.in> is replaced by <amend.in quote="1">debentures that are a stapled debt security to which <changeable><citation jurisdiction="nz">section FC 2B </citation></changeable> (Stapled debt securities) applies, or to debentures issued</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1558281">
+      <clause.ref>Clause 613</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New subclauses (4B) to (4D)</emphasis>: to insert, after <emphasis style="italic">subclause (4)</emphasis> (after line 21 on page 434), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4B</label>
+            <para>
+              <text>After the definition of <def-term id="DLM1558282">debentures</def-term>, the following is inserted:</text>
+              <amend increment="1" quote="1">
+                <def-para id="DLM1558283" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1558284">debt security</def-term> is defined in <changeable><citation jurisdiction="nz">section FC 2B(4) </citation></changeable> (Stapled debt securities) for the purposes of that section</text>
+                  </para>
+                </def-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4C</label>
+            <para>
+              <text>In the definition of <def-term id="DLM1558285">excluded security</def-term>, <amend.in quote="1">shares)</amend.in> is replaced by <amend.in quote="1">shares) or <changeable><citation jurisdiction="nz">FC 2B </citation></changeable> (Stapled debt securities)</amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4D</label>
+            <para>
+              <text>In the definition of <def-term id="DLM1558286">fixed rate share</def-term>, paragraph (e), <amend.in quote="1">section LF 2(3)</amend.in> is replaced by <amend.in quote="1">section LF 2(3):</amend.in>, and the following is added:</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">f</label>
+                  <para>
+                    <text>in <changeable><citation jurisdiction="nz">section FC 2B </citation></changeable> (Stapled debt securities), this paragraph, and the definition of <def-term id="DLM1558287">proportional–stapling company</def-term>, means—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">i</label>
+                      <para>
+                        <text>a share described in paragraph (a):</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">ii</label>
+                      <para>
+                        <text>a share that would be a share described in paragraph (a) but for any variation in the rate of dividend that may occur, reflecting generally accepted market practice, to compensate the shareholder for transaction expenditure, such as brokerage, expected to be incurred by the shareholder due to conversion of the share into another share that is not a fixed rate share:</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">iii</label>
+                      <para>
+                        <text>a share for which the dividend payable is the equivalent of the payment of interest for money lent having regard to the factors in <changeable><citation jurisdiction="nz">paragraph (g)</citation></changeable>:</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </label-para>
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">g</label>
+                  <para>
+                    <text>for the purposes of <changeable><citation jurisdiction="nz">paragraph (f)(iii)</citation></changeable>, the factors are––</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">i</label>
+                      <para>
+                        <text>whether or not the share is redeemable:</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">ii</label>
+                      <para>
+                        <text>any security provided to the shareholder, including put or call options over the share or any amount payable determined by reference to the amount of dividend payable:</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">iii</label>
+                      <para>
+                        <text>the variability or lack of variability of the dividend payable</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (6B)</emphasis>: to insert, after <emphasis style="italic">subclause (6)</emphasis> (after line 33 on page 434), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">6B</label>
+            <para>
+              <text>In the definition of <def-term id="DLM1558288">market value circumstance</def-term>, paragraph (a)(ii), <amend.in quote="1">applies</amend.in> is replaced by <amend.in quote="1">or <changeable><citation jurisdiction="nz">FC 2B </citation></changeable> (Stapled debt securities) applies</amend.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subclauses (13B) to (13D)</emphasis>: to insert, after <emphasis style="italic">subclause (13)</emphasis> (after line 24 on page 435), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">13B</label>
+            <para>
+              <text>After the definition of <def-term id="DLM1558289">property</def-term>, the following is inserted:</text>
+              <amend increment="1" quote="1">
+                <def-para id="DLM1558290" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1558291">proportional-stapling company</def-term> means a company if—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>each share in the company that is not a fixed rate share (a <emphasis style="bold">participating share</emphasis>) is stapled to a stapled debt security; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>for each participating share in the company, the amount payable for the issue of its stapled debt security is the same proportion of the available subscribed capital calculated under the slice rule of the participating share as it is for each other participating share</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </def-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">13C</label>
+            <para>
+              <text>In the definition of <def-term id="DLM1558292">share</def-term>, paragraph (b), <amend.in quote="1">shares)</amend.in> is replaced by <amend.in quote="1">shares) or <changeable><citation jurisdiction="nz">FC 2B </citation></changeable> (Stapled debt securities)</amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">13D</label>
+            <para>
+              <text>After the definition of <def-term id="DLM1558293">standing timber</def-term>, the following is inserted:</text>
+              <amend increment="1" quote="1">
+                <def-para id="DLM1558294" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1558295">stapled</def-term>, for a debt security and a share, is defined in <changeable><citation jurisdiction="nz">section FC 2B(5) </citation></changeable> (Stapled debt securities)</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM1558296" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM1558297">stapled debt security</def-term> means a financial arrangement to which <changeable><citation jurisdiction="nz">section FC 2B(2) </citation></changeable> (Stapled debt securities) applies</text>
+                  </para>
+                </def-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM1189002" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2008" raised.by="Government" sop.no="179">
+  <explnote id="DLM1558298" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="224">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper, which replaces Supplementary Order Paper 175, divides the Limited Partnerships Bill into 2 separate bills:</text>
+      <text>This Supplementary Order Paper amends the Taxation (International Taxation, Life Insurance, and Remedial Matters) Bill. </text>
+    </para>
+    <para>
+      <text>The amendments provide for new rules relating to stapled debt securities' tax treatment. They do not apply to debt securities that are stapled before 25 February 2008. The amendments have the following effects: </text>
+    </para>
+    <para>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>the Limited Partnerships Bill:</text>
+            <text>they define the concept of a stapled debt security, being a financial arrangement that provides funds to a company, that would otherwise give rise to deductions and that can ordinarily only be disposed of together with a share (not being a fixed-rate share) in the issuing company or in another company:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>the Taxation (Limited Partnerships) Bill.</text>
+            <text>they provide that a security that is a stapled debt security is treated as a share and the issuing company is denied a deduction for expenditure or loss incurred under the security:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>they provide that the stapled debt security and the share to which it is stapled are treated as a single share for the purposes of various provisions that define and apply specific treatments to shares bearing a fixed rate of dividend or having an equivalent consequence:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>they provide that, despite the stapled security being treated as a share, the stapled debt is treated as debt for thin capitalisation purposes unless the debt is stapled in proportion to all shares other than fixed-rate shares:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>they provide that stapled debt securities are to be treated in the same manner as debentures to which section FA 2 of the Income Tax Act 2007 applies, or to which section FC 1 or FC 2 of the Income Tax Act 2004 applies.</text>
           </para>
         </item>
       </list>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
