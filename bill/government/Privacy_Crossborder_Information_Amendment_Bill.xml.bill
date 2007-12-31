@@ -1,202 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM1362800" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2008" bill.no="221" bill.type="government" stage="1" year="2008">
+<bill id="DLM1362800" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="221" bill.type="government" stage="2" year="2008">
   <billdetail>
     <title>Privacy (Cross-border Information) Amendment Bill</title>
     <billtype xml:lang="en-NZ">Government Bill</billtype>
-    <explnote id="DLM1362801" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="221" bill.type="government" stage="1" year="2008">
-      <heading>Explanatory note</heading>
-      <explnote.group>
-        <heading>General policy statement</heading>
+    <repnote>As reported from the Justice and Electoral Committee</repnote>
+    <commentary id="DLM2389128" in.amend="false" irdnumbering="no" official="yes" bill.no="221" bill.type="government" stage="2" year="2008">
+      <heading>Commentary</heading>
+      <comm.lev1>
+        <heading>Recommendation</heading>
         <para>
-          <text>This Bill amends the Privacy Act 1993. The amendments dealing with cross-border data transfers will substantially reduce the likelihood of New Zealand being used as an intermediary for the avoidance of other States’ privacy laws. For example, the amendments will ensure that personal data originating overseas and sent to New Zealand is subject to our privacy protection. The Bill’s transfer prohibition notice mechanism will ensure foreign personal data cannot be sent, via New Zealand, to jurisdictions without adequate privacy protection. These amendments will enable New Zealanders and New Zealand companies to assure their trade partners that New Zealand law will ensure their privacy is protected.</text>
+          <text>The Justice and Electoral Committee has examined the Privacy (Cross-border Information) Amendment Bill and recommends that it be passed with the amendments shown.</text>
         </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Introduction</heading>
         <para>
-          <text>The Bill also contains complementary amendments facilitating the cross-border enforcement of privacy laws. This will better protect New Zealanders engaged in international transactions. The amendments recognise that concurrent or consecutive investigations in two jurisdictions are possible. The amendments will implement aspects of the OECD framework for co-operation between privacy enforcement authorities.</text>
+          <text>The bill amends the Privacy Act 1993. The Act is silent on the cross-border enforcement of privacy laws. The bill remedies this by</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">•</label>
+              <para>
+                <text>enabling foreign nationals located overseas to access and correct personal information</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">•</label>
+              <para>
+                <text>authorising the Privacy Commissioner to refer a complaint to an overseas privacy enforcement agency, if that complaint is within the jurisdiction of that authority</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">•</label>
+              <para>
+                <text>enabling the Privacy Commissioner to prohibit the transfer of personal information outside New Zealand in cases where that information has been routed through New Zealand to avoid the privacy laws of the originating country.</text>
+              </para>
+            </item>
+          </list>
         </para>
-      </explnote.group>
-      <explnote.group>
-        <heading>Clause by clause analysis</heading>
-        <clause.desc>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Transfer of personal information outside New Zealand</heading>
+        <para>
+          <text>Clause 8 of the bill as introduced inserts new Part 11A into the principal Act to impose new controls on the transfer of personal information received from overseas, where the information has been routed through New Zealand to avoid the originating country’s privacy laws.</text>
+        </para>
+        <comm.lev2>
+          <heading>Prohibition on transfer of personal information outside New Zealand </heading>
           <para>
-            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
+            <text>New section 114B would authorise the Privacy Commissioner to prohibit the transfer of personal information from New Zealand to another State if the Commissioner was satisfied on reasonable grounds of three things:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>the information would be received in New Zealand from another State and would be likely to be transferred to another State where the privacy protection is not comparable to that established by the Privacy Act</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>the transfer would circumvent the laws of the State where the information originated</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>the transfer would be likely to contravene the basic principles of national application set out in Part 2 of the OECD Guidelines.</text>
+                </para>
+              </item>
+            </list>
           </para>
-        </clause.desc>
-        <clause.desc>
           <para>
-            <text><emphasis style="italic">Clause 2</emphasis> provides that the Bill comes into force on the day after the date on which it receives the Royal assent.</text>
+            <text>We heard concern that the way the basic principles of national application in the OECD Guidelines have been incorporated in the bill might result in future changes in the Guidelines being incorporated into the statutory framework of the Privacy Act without examination by Parliament.</text>
           </para>
-        </clause.desc>
-        <clause.desc>
           <para>
-            <text><emphasis style="italic">Clause 3</emphasis> sets out the purpose of the Bill.</text>
+            <text>To address this we recommend inserting new Schedule 5A to set out the basic principles of national application. This would ensure that changes to the principles of national application in the OECD Guidelines would not be incorporated into the Privacy Act automatically. We recommend a consequential amendment to insert new clause 8A to allow the Governor-General to make regulations to amend new Schedule 5A. This would allow the principles set out in new Schedule 5A to be amended to reflect any changes made by the OECD. We note that amendments to new Schedule 5A would be subject to the Regulations (Disallowance) Act 1989.</text>
           </para>
-        </clause.desc>
-        <explnote.part id="DLM1362802">
-          <label auto.number="no" denominator="yes">1  </label>
-          <heading>Amendments to Privacy Act 1993</heading>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 4</emphasis> provides that <emphasis style="italic">Part 1</emphasis> amends the Privacy Act 1993.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 5</emphasis> repeals section 34 and substitutes a <emphasis style="italic">new section 34</emphasis>. The new section removes the existing requirement that, in order to make an information privacy request, an individual must be a New Zealand citizen, permanent resident, or in New Zealand at the time the request is made.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 6</emphasis> amends section 36 to enable the Privacy Commissioner to authorise a public sector agency to impose a reasonable charge for making personal information available to an individual residing outside New Zealand who is neither a New Zealand citizen nor a permanent resident of New Zealand.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 7</emphasis> inserts <emphasis style="italic">new section 72C</emphasis>, which provides for the referral of a complaint to an overseas privacy enforcement authority where the complaint is within the jurisdiction of that authority and both the authority and complainant agree to the referral being made.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 8</emphasis> inserts <emphasis style="italic">new Part 11A</emphasis> into the principal Act, which relates to the transfer of personal information outside New Zealand.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">New section 114A</emphasis> defines certain terms used in the new Part.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">New section 114B</emphasis> provides that the Privacy Commissioner may prohibit a transfer of personal information from New Zealand to another State if he or she is satisfied that—</text>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>the personal information will be transferred to a jurisdiction where it will not be subject to a law providing comparable safeguards to the principal Act; and</text>
-                  </para>
-                </item>
-              </list>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>the proposed transfer may circumvent the laws of the State from where the information originated; and</text>
-                  </para>
-                </item>
-              </list>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>the transfer would be likely to breach the basic principles of national application set out in Part Two of the Organisation for Economic Co-operation and Development Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data (<emphasis style="bold">OECD Guidelines</emphasis>).</text>
-                  </para>
-                </item>
-              </list>
-            </para>
-            <para>
-              <text>In exercising his or her discretion in accordance with this new section, the Commissioner must consider the following:</text>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>whether or not the proposed transfer of personal information affects, or would be likely to affect, any individual; and</text>
-                  </para>
-                </item>
-              </list>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>the desirability of facilitating the free flow of information between New Zealand and other States; and</text>
-                  </para>
-                </item>
-              </list>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>any existing or developing international guidelines relevant to transborder data flows (including the OECD Guidelines and the European Union Directive 95/46/EC on the Protection of Individuals with Regard to the Processing of Personal Data and on the Free Movement of Such Data).</text>
-                  </para>
-                </item>
-              </list>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">New section 114C</emphasis> authorises the Commissioner to prohibit a transfer of personal information by serving a transfer prohibition notice on the agency proposing to transfer that personal information.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">New section 114D</emphasis> provides that the Commissioner may vary or cancel all or any part of a transfer prohibition notice, on the Commissioner's own initiative or on an application by the agency on whom the notice is served, if he or she considers that the notice need not be complied with in order to avoid a contravention of basic principles of privacy and data protection.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">New section 114E</emphasis> creates an offence in relation to a failure or refusal to comply with a transfer prohibition notice served by the Commissioner.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">New section 114F</emphasis> provides that an agency on whom a transfer prohibition notice is served may appeal to the Human Rights Review Tribunal against—</text>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>the whole or any part of the notice; or</text>
-                  </para>
-                </item>
-              </list>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>a decision of the Commissioner that the transfer prohibition notice should come into effect urgently; or</text>
-                  </para>
-                </item>
-              </list>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>a decision of the Commissioner to vary a transfer prohibition notice; or</text>
-                  </para>
-                </item>
-              </list>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>a refusal by the Commissioner to vary or cancel a transfer prohibition notice.</text>
-                  </para>
-                </item>
-              </list>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">New section 114G</emphasis> provides that Part 4 of the Human Rights Act 1993 applies to appeal proceedings in the Human Rights Review Tribunal under <emphasis style="italic">new section 114F</emphasis>.</text>
-            </para>
-          </clause.desc>
-        </explnote.part>
-        <explnote.part id="DLM1362803">
-          <label auto.number="no" denominator="yes">2  </label>
-          <heading>Related amendment to Adoption (Intercountry) Act 1997</heading>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 9</emphasis> provides that <emphasis style="italic">Part 2</emphasis> amends the Adoption (Intercountry) Act 1997.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 10</emphasis> repeals section 13(3) as a result of the amendment in <emphasis style="italic">clause 5</emphasis>. Section 13(3) provides that, despite section 34 of the Privacy Act 1993, a person who is adopted in accordance with the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption (1993) may make a request for personal information even though they may not be a New Zealand citizen, permanent resident, or an individual who is in New Zealand. This provision is no longer necessary because <emphasis style="italic">new section 34</emphasis> removes these procedural requirements and provides that any individual may make an information privacy request.</text>
-            </para>
-          </clause.desc>
-        </explnote.part>
-      </explnote.group>
-    </explnote>
+          <para>
+            <text>To avoid unnecessary duplication, we recommend deleting new section 114B(1)(b), as the matters intended to be considered by the Commissioner within this subsection could be considered by the Commissioner under new section 114B(1)(a).</text>
+          </para>
+        </comm.lev2>
+        <comm.lev2>
+          <heading>Commissioner’s power to obtain information</heading>
+          <para>
+            <text>We recommend inserting new section 114BA to make it explicit that when determining whether to prohibit a transfer of personal information, the Privacy Commissioner could use the investigative powers in Part 9 of the principal Act, in the same way as if the Commissioner were conducting an inquiry under section 13(1)(m) of the Act. This would ensure that the Commissioner could hear or obtain information from any person he or she considered necessary.</text>
+          </para>
+        </comm.lev2>
+      </comm.lev1>
+      <comm.appendix>
+        <heading>Appendix</heading>
+        <comm.lev2>
+          <heading>Committee process</heading>
+          <para>
+            <text>The Privacy (Cross-border Information) Amendment Bill was referred to us on 1 April 2009. The closing date for submissions was 14 May 2009. We received and considered two submissions from interested groups and individuals. We heard one submission.</text>
+          </para>
+          <para>
+            <text>We received advice from the Ministry of Justice.</text>
+          </para>
+        </comm.lev2>
+        <comm.lev2>
+          <heading>Committee membership</heading>
+          <para>
+            <text>Chester Borrows (Chairperson)</text>
+          </para>
+          <para>
+            <text>Jacinda Ardern</text>
+          </para>
+          <para>
+            <text>Kanwaljit Singh Bakshi</text>
+          </para>
+          <para>
+            <text>Simon Bridges</text>
+          </para>
+          <para>
+            <text>Dr Kennedy Graham</text>
+          </para>
+          <para>
+            <text>Hon Nathan Guy (from 24 June 2009)</text>
+          </para>
+          <para>
+            <text>Hon David Parker</text>
+          </para>
+          <para>
+            <text>Lynne Pillay</text>
+          </para>
+          <para>
+            <text>Paul Quinn</text>
+          </para>
+          <para>
+            <text>Dr Richard Worth (until 16 June 2009)</text>
+          </para>
+        </comm.lev2>
+      </comm.appendix>
+    </commentary>
   </billdetail>
+  <key>
+    <heading>Key to symbols used in reprinted bill</heading>
+    <subheading>As reported from a select committee</subheading>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+    <subheading/>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+  </key>
   <cover id="DLM1362804">
-    <member>Hon Lianne Dalziel</member>
+    <member>Hon Simon Power</member>
     <title>Privacy (Cross-border Information) Amendment Bill</title>
     <billtype xml:lang="en-NZ">Government Bill</billtype>
   </cover>
@@ -268,7 +290,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM1362810" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="221" bill.type="government" stage="1" year="2008">
+    <part id="DLM1362810" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="221" bill.type="government" stage="2" year="2008">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Amendments to Privacy Act 1993</heading>
       <prov id="DLM1362811" irdnumbering="no" skeleton="no" toc="yes">
@@ -342,13 +364,13 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>Section 36(2) is amended by inserting <amend.in quote="1">or (1A)</amend.in> after <quote.in quote="1">subsection (1)</quote.in>.</text>
+              <text>Section 36(2) is amended by inserting <amend.in quote="1"><changeable><citation jurisdiction="nz">or (1A)</citation></changeable></amend.in> after <quote.in quote="1">subsection (1)</quote.in>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
             <para>
-              <text>Section 36(3) is amended by inserting <amend.in quote="1">or (1A)</amend.in> after <quote.in quote="1">subsection (1)</quote.in>.</text>
+              <text>Section 36(3) is amended by inserting <amend.in quote="1"><changeable><citation jurisdiction="nz">or (1A)</citation></changeable></amend.in> after <quote.in quote="1">subsection (1)</quote.in>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -443,23 +465,23 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">1</label>
                         <para>
-                          <text>The Commissioner may prohibit a transfer of personal information from New Zealand to another State if he or she is satisfied, on reasonable grounds, that—</text>
+                          <text>The Commissioner may prohibit a transfer of personal information from New Zealand to another State if<struckoutwords amend.level1="struckout-unanimous"> he or she</struckoutwords><insertwords amend.level1="insert-unanimous"> the Commissioner</insertwords> is satisfied, on reasonable grounds, that—</text>
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">a</label>
                             <para>
                               <text>the information has been, or will be, received in New Zealand from another State and is likely to be transferred to a third State where it will not be subject to a law providing comparable safeguards to this Act; and</text>
                             </para>
                           </label-para>
-                          <label-para quote="1" skeleton="no">
-                            <label auto.number="no" denominator="yes" quote="1">b</label>
-                            <para>
+                          <label-para amend.level1="struckout-unanimous" quote="1" skeleton="no">
+                            <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes" quote="1">b</label>
+                            <para amend.level1="struckout-unanimous">
                               <text>the transfer of the information may circumvent the privacy or data protection laws of the State from which it has been, or will be, received; and</text>
                             </para>
                           </label-para>
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">c</label>
                             <para>
-                              <text>the transfer would be likely to lead to a contravention of  the basic principles of national application set out in Part Two of the OECD Guidelines (as defined in <changeable><citation jurisdiction="nz">section 114A</citation></changeable>).</text>
+                              <text>the transfer would be likely to lead to a contravention of  the basic principles of national application set out in Part Two of the OECD Guidelines<struckoutwords amend.level1="struckout-unanimous"> (as defined in <changeable><citation jurisdiction="nz">section 114A</citation></changeable>)</struckoutwords><insertwords amend.level1="insert-unanimous"> and set out in <changeable><citation jurisdiction="nz">Schedule 5A</citation></changeable></insertwords>.</text>
                             </para>
                           </label-para>
                         </para>
@@ -467,11 +489,11 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">2</label>
                         <para>
-                          <text>In determining whether or not to prohibit a transfer of personal information, the Commissioner must also consider, in addition to the matters set out in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> and section 14, the following:</text>
+                          <text>In determining whether<struckoutwords amend.level1="struckout-unanimous"> or not</struckoutwords> to prohibit a transfer of personal information, the Commissioner must also consider, in addition to the matters set out in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> and section 14, the following:</text>
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">a</label>
                             <para>
-                              <text>whether or not the transfer affects, or would be likely to affect, any individual; and</text>
+                              <text>whether<struckoutwords amend.level1="struckout-unanimous"> or not</struckoutwords> the transfer affects, or would be likely to affect, any individual; and</text>
                             </para>
                           </label-para>
                           <label-para quote="1" skeleton="no">
@@ -520,6 +542,24 @@
                       </subprov>
                     </prov.body>
                   </prov>
+                  <prov amend.level1="insert-unanimous" id="DLM2389112" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">114BA</label>
+                    <heading amend.level1="insert-unanimous">Commissioner's power to obtain information</heading>
+                    <prov.body>
+                      <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
+                        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">1</label>
+                        <para amend.level1="insert-unanimous">
+                          <text>To enable the Commissioner to determine whether to prohibit a transfer of personal information, the Commissioner may hear or obtain information from such persons as the Commissioner considers necessary, and for this purpose Part 9 applies as if the Commissioner were carrying out an inquiry under section 13(1)(m).</text>
+                        </para>
+                      </subprov>
+                      <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
+                        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">2</label>
+                        <para amend.level1="insert-unanimous">
+                          <text>In exercising his or her powers under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, the Commissioner may regulate his or her procedure in such manner as the Commissioner thinks fit.</text>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
                   <prov id="DLM1362829" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                     <label auto.number="no" denominator="yes" quote="1">114C</label>
                     <heading>Transfer prohibition notice</heading>
@@ -559,7 +599,7 @@
                               <label-para quote="1" skeleton="no">
                                 <label auto.number="no" denominator="yes" quote="1">ii</label>
                                 <para>
-                                  <text>until the agency has taken any steps stated in the notice to protect the interests of any individual or individuals affected by the transfer; and</text>
+                                  <text>until the agency has taken<struckoutwords amend.level1="struckout-unanimous"> any</struckoutwords><insertwords amend.level1="insert-unanimous"> the</insertwords> steps stated in the notice to protect the interests of any individual or individuals affected by the transfer; and</text>
                                 </para>
                               </label-para>
                             </para>
@@ -755,7 +795,7 @@
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">b</label>
                             <para>
-                              <text>to the extent that the decision or notice involved an exercise of discretion by the Commissioner, he or she ought to have exercised his or her discretion differently.</text>
+                              <text>to the extent that the decision or notice involved an exercise of discretion by the Commissioner,<struckoutwords amend.level1="struckout-unanimous"> he or she</struckoutwords><insertwords amend.level1="insert-unanimous"> the Commissioner</insertwords> ought to have exercised his or her discretion differently.</text>
                             </para>
                           </label-para>
                         </para>
@@ -817,10 +857,60 @@
           </subprov>
         </prov.body>
       </prov>
+      <prov amend.level1="insert-unanimous" id="DLM2389113" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">8A</label>
+        <heading amend.level1="insert-unanimous">New section 128A inserted</heading>
+        <prov.body>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+            <para amend.level1="insert-unanimous">
+              <text>The following section is inserted after section 128:</text>
+              <amend amend.level1="insert-unanimous" quote="1">
+                <prov amend.level1="insert-unanimous" id="DLM2389114" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">128A</label>
+                  <heading amend.level1="insert-unanimous">Power to amend Schedule 5A</heading>
+                  <prov.body>
+                    <subprov amend.level1="insert-unanimous" skeleton="no">
+                      <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+                      <para amend.level1="insert-unanimous">
+                        <text>The Governor-General may, by Order in Council,—</text>
+                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
+                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">a</label>
+                          <para amend.level1="insert-unanimous">
+                            <text>amend <changeable><citation jurisdiction="nz">Schedule 5A</citation></changeable> by making such amendments to the text of the basic principles of national application set out in that schedule as are required to bring that text up to date:</text>
+                          </para>
+                        </label-para>
+                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
+                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">b</label>
+                          <para amend.level1="insert-unanimous">
+                            <text>repeal <changeable><citation jurisdiction="nz">Schedule 5A</citation></changeable>, and substitute a new schedule setting out, in an up-to-date form, the text of the basic principles of national application.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov amend.level1="insert-unanimous" id="DLM2389115" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">8B</label>
+        <heading amend.level1="insert-unanimous">New Schedule 5A inserted</heading>
+        <prov.body>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+            <para amend.level1="insert-unanimous">
+              <text>The <changeable><citation jurisdiction="nz">Schedule 5A</citation></changeable> set out in the Schedule of this Act is inserted after Schedule 5.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
     </part>
-    <part id="DLM1362834" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="221" bill.type="government" stage="1" year="2008">
+    <part id="DLM1362834" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="221" bill.type="government" stage="2" year="2008">
       <label auto.number="no" denominator="yes">2</label>
-      <heading>Related amendment to Adoption (Intercountry) Act 1997</heading>
+      <heading><struckoutwords amend.level1="struckout-unanimous">Related </struckoutwords><insertwords amend.level1="insert-unanimous">Consequential </insertwords>amendment to Adoption (Intercountry) Act 1997</heading>
       <prov id="DLM1362835" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">9</label>
         <heading>Principal Act amended</heading>
@@ -847,5 +937,165 @@
       </prov>
     </part>
   </body>
+  <schedule.group amend.level1="insert-unanimous">
+    <schedule amend.level1="insert-unanimous" id="DLM2389116" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="221" bill.type="government" stage="2" year="2008">
+      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes"> </label>
+      <empowering-prov>
+        <changeable>
+          <citation jurisdiction="nz">s 8B</citation>
+        </changeable>
+      </empowering-prov>
+      <heading amend.level1="insert-unanimous">New Schedule 5A inserted</heading>
+      <schedule.misc amend.level1="insert-unanimous">
+        <para amend.level1="insert-unanimous">
+          <amend amend.level1="insert-unanimous" quote="1">
+            <schedule amend.level1="insert-unanimous" bill.no="221" id="DLM2389117" in.amend="true" irdnumbering="no" official="yes" prov-type="clause" quote="1" schedule.heading.continue="yes" toc="yes" type="schedule" year="2008">
+              <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">5A</label>
+              <empowering-prov>
+                <changeable>
+                  <citation jurisdiction="nz">s 114B(1)(c)</citation>
+                </changeable>
+              </empowering-prov>
+              <heading amend.level1="insert-unanimous">Basic principles of national application set out in Part Two of the OECD Guidelines</heading>
+              <schedule.misc amend.level1="insert-unanimous">
+                <head5 amend.level1="insert-unanimous" id="DLM2389118" toc="yes">
+                  <heading amend.level1="insert-unanimous">Collection limitation principle</heading>
+                </head5>
+                <para amend.level1="insert-unanimous">
+                  <text>There should be limits to the collection of personal data and any such data should be obtained by lawful and fair means and, where appropriate, with the knowledge or consent of the data subject.</text>
+                </para>
+                <head5 amend.level1="insert-unanimous" id="DLM2389119" toc="yes">
+                  <heading amend.level1="insert-unanimous">Data quality principle</heading>
+                </head5>
+                <para amend.level1="insert-unanimous">
+                  <text>Personal data should be relevant to the purposes for which they are to be used, and, to the extent necessary for those purposes, should be accurate, complete and kept up-to-date.</text>
+                </para>
+                <head5 amend.level1="insert-unanimous" id="DLM2389120" toc="yes">
+                  <heading amend.level1="insert-unanimous">Purpose specification principle</heading>
+                </head5>
+                <para amend.level1="insert-unanimous">
+                  <text>The purposes for which personal data are collected should be specified not later than at the time of data collection and the subsequent use limited to the fulfilment of those purposes or such others as are not incompatible with those purposes and as are specified on each occasion of change of purpose.</text>
+                </para>
+                <head5 amend.level1="insert-unanimous" id="DLM2389121" toc="yes">
+                  <heading amend.level1="insert-unanimous">Use limitation principle</heading>
+                </head5>
+                <para amend.level1="insert-unanimous">
+                  <text>Personal data should not be disclosed, made available or otherwise used for purposes other than those specified in accordance with [the Purpose specification principle above] except:</text>
+                </para>
+                <para amend.level1="insert-unanimous">
+                  <label-para amend.level1="insert-unanimous" skeleton="no">
+                    <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">a</label>
+                    <para amend.level1="insert-unanimous">
+                      <text>with the consent of the data subject; or</text>
+                    </para>
+                  </label-para>
+                  <label-para amend.level1="insert-unanimous" skeleton="no">
+                    <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">b</label>
+                    <para amend.level1="insert-unanimous">
+                      <text>by the authority of law.</text>
+                    </para>
+                  </label-para>
+                </para>
+                <head5 amend.level1="insert-unanimous" id="DLM2389122" toc="yes">
+                  <heading amend.level1="insert-unanimous">Security safeguards principle</heading>
+                </head5>
+                <para amend.level1="insert-unanimous">
+                  <text>Personal data should be protected by reasonable security safeguards against such risks as loss or unauthorised access, destruction, use, modification or disclosure of data.</text>
+                </para>
+                <head5 amend.level1="insert-unanimous" id="DLM2389123" toc="yes">
+                  <heading amend.level1="insert-unanimous">Openness principle</heading>
+                </head5>
+                <para amend.level1="insert-unanimous">
+                  <text>There should be a general policy of openness about developments, practices and policies with respect to personal data. Means should be readily available of establishing the existence and nature of personal data, and the main purposes of their use, as well as the identity and usual residence of the data controller.</text>
+                </para>
+                <head5 amend.level1="insert-unanimous" id="DLM2389124" toc="yes">
+                  <heading amend.level1="insert-unanimous">Individual participation principle</heading>
+                </head5>
+                <para amend.level1="insert-unanimous">
+                  <text>An individual should have the right:</text>
+                </para>
+                <para amend.level1="insert-unanimous">
+                  <label-para amend.level1="insert-unanimous" skeleton="no">
+                    <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">a</label>
+                    <para amend.level1="insert-unanimous">
+                      <text>to obtain from a data controller, or otherwise, confirmation of whether or not the data controller has data relating to him;</text>
+                    </para>
+                  </label-para>
+                  <label-para amend.level1="insert-unanimous" skeleton="no">
+                    <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">b</label>
+                    <para amend.level1="insert-unanimous">
+                      <text>to have communicated to him, data relating to him</text>
+                    </para>
+                  </label-para>
+                  <list amend.level1="insert-unanimous">
+                    <item amend.level1="insert-unanimous">
+                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes"/>
+                      <para amend.level1="insert-unanimous">
+                        <text>within a reasonable time;</text>
+                      </para>
+                    </item>
+                  </list>
+                  <list amend.level1="insert-unanimous">
+                    <item amend.level1="insert-unanimous">
+                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes"/>
+                      <para amend.level1="insert-unanimous">
+                        <text>at a charge, if any, that is not excessive;</text>
+                      </para>
+                    </item>
+                  </list>
+                  <list amend.level1="insert-unanimous">
+                    <item amend.level1="insert-unanimous">
+                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes"/>
+                      <para amend.level1="insert-unanimous">
+                        <text>in a reasonable manner; and</text>
+                      </para>
+                    </item>
+                  </list>
+                  <list amend.level1="insert-unanimous">
+                    <item amend.level1="insert-unanimous">
+                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes"/>
+                      <para amend.level1="insert-unanimous">
+                        <text>in a form that is readily intelligible to him;</text>
+                      </para>
+                    </item>
+                  </list>
+                  <label-para amend.level1="insert-unanimous" skeleton="no">
+                    <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">c</label>
+                    <para amend.level1="insert-unanimous">
+                      <text>to be given reasons if a request made under subparagraphs (a) and (b) is denied, and to be able to challenge such denial; and</text>
+                    </para>
+                  </label-para>
+                  <label-para amend.level1="insert-unanimous" skeleton="no">
+                    <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">d</label>
+                    <para amend.level1="insert-unanimous">
+                      <text>to challenge data relating to him and, if the challenge is successful to have the data erased, rectified, completed or amended.</text>
+                    </para>
+                  </label-para>
+                </para>
+                <head5 amend.level1="insert-unanimous" id="DLM2389125" toc="yes">
+                  <heading amend.level1="insert-unanimous">Accountability principle</heading>
+                </head5>
+                <para amend.level1="insert-unanimous">
+                  <text>A data controller should be accountable for complying with measures which give effect to the principles stated above.</text>
+                </para>
+              </schedule.misc>
+            </schedule>
+          </amend>
+        </para>
+      </schedule.misc>
+    </schedule>
+  </schedule.group>
+  <end id="DLM2389126">
+    <leg-history id="DLM2389127">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2008-07-02</date>
+        <description>Introduction (Bill 221–1)</description>
+      </history-item>
+      <history-item>
+        <date>2009-04-01</date>
+        <description>First reading and referral to Justice and Electoral Committee</description>
+      </history-item>
+    </leg-history>
+  </end>
 </bill>
-<!--End of file, do NOT remove.-->
