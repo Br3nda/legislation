@@ -1,117 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1773200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="3">
-  <date>Tuesday, 9 December 2008</date>
-  <billref>Education (National Standards) Amendment Bill </billref>
-  <body id="DLM1773201">
-    <heading>Proposed motion to divide Bill into 2 Bills</heading>
-    <motion>Te Ururoa Flavell, in Committee, to move as follows:</motion>
-    <sop.split>
-      <para>
-        <text>That the enacting words, <emphasis style="italic">clauses 1, 2 and 3 and Part 1</emphasis> be a separate Bill, and for the enacting words, <emphasis style="italic">clauses 1, 2 and 3, and the Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1773202" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act is the Education (School Enrolment and Attendance) Amendment Act 2008.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1773203" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on the day after the day on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1773204" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">3</label>
-          <heading>Principal Act amended</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act amends the Education Act 1989.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1773205" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Education (Literacy and Numeracy Standards) Amendment Act 2008.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1773206" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on the day after the day on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1773207" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">3</label>
-          <heading>Principal Act amended</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act amends the Education Act 1989.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
+<sop id="DLM1575100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="234">
+  <date>Tuesday, 2 September 2008</date>
+  <billref>Disability (United Nations Convention on the Rights of Persons with Disabilities) Bill</billref>
+  <body id="DLM1575101">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Ruth Dyson, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1575102">
+      <clause.ref>Heading to Part 2</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><emphasis style="bold">other</emphasis></amend.in> (line 12 on page 7).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1575103">
+      <clause.ref>New heading and new clause 12A</clause.ref>
+      <sop.para>
+        <text>To insert the following heading and clause after <emphasis style="italic">clause 12</emphasis> (after line 14 on page 9):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <crosshead id="DLM1575104" toc="yes">Amendments to Juries Amendment Act 2008</crosshead>
+          <prov id="DLM1575105" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">12A</label>
+            <heading>Amendments to Juries Amendment Act 2008</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>This section amends the Juries Amendment Act <changeable>2008</changeable>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section 11(1) is amended by omitting <amend.in quote="1">physical</amend.in> from new section 14B(3)(b) of the Juries Act 1981.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>The heading to section 13 is amended by omitting <amend.in quote="1"><emphasis style="bold">physical</emphasis></amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>Section 13(2) is amended by omitting <amend.in quote="1">physical</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM1773208" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="3">
+  <explnote id="DLM1575106" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="234">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper divides the Education (National Standards) Amendment Bill into the following 2 Bills:</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>Education (School Enrolment and Attendance) Amendment Act 2008:</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>Education (Literacy and Numeracy Standards) Amendment Act 2008.</text>
-          </para>
-        </item>
-      </list>
+      <text>This Supplementary Order Paper amends the Juries Amendment Act 2008 (which is yet to come into force) to make the terminology consistent with the changes made to the Juries Act 1981 by clause 12 of the Bill. It also amends the Part 2 heading to facilitate the division of this Bill into 2 separate Bills.</text>
     </para>
   </explnote>
 </sop>
