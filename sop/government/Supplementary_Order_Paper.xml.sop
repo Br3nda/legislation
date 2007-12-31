@@ -1,513 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1576100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0004" stage="published" year="2008" raised.by="Government" sop.no="239">
-  <date>Tuesday, 2 September 2008</date>
-  <billref>Climate Change (Emissions Trading and Renewable Preference) Bill</billref>
-  <body id="DLM1576101">
+<sop id="DLM1264300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0005" stage="published" year="2008" raised.by="Government" sop.no="201">
+  <date>Tuesday, 15 April 2008</date>
+  <billref>Family Courts Matters Bill</billref>
+  <body id="DLM1264301">
     <heading>Proposed amendments</heading>
-    <motion>Hon David Parker, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1576102">
-      <clause.ref>Clause 6(2)</clause.ref>
+    <motion>Hon Rick Barker, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1264302">
+      <clause.ref>New Clause 42A</clause.ref>
       <sop.para>
-        <text>New definition of <def-term id="DLM1576103">allocation plan</def-term>: to omit this definition (line 10 on page 16) and substitute the following definition:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <def-para id="DLM1576104" quote="1">
-            <para quote="1">
-              <text><def-term id="DLM1576105">allocation plan</def-term> means an allocation plan issued under <changeable><citation jurisdiction="nz">section 73 or 73A</citation></changeable></text>
-            </para>
-          </def-para>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1576106">
-      <clause.ref>Clause 17</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">Heading to clause 17</emphasis>: to omit <amend.in quote="1"><emphasis style="bold">18CA and 18CB</emphasis></amend.in> (line 10 on page 32) and substitute, <amend.in quote="1"><emphasis style="bold">18CA, 18CB, 18CC, and 18CD</emphasis></amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1576107">
-      <clause.ref>Clause 17: new sections 18CB, 18CC, and 18CD</clause.ref>
-      <sop.para>
-        <text>To omit <emphasis style="italic">new section 18CB</emphasis> (line 26 on page 33 to line 12 on page 34) and substitute the following sections:</text>
-        <instrument.amend close.quote="no" open.quote="yes" quote="1">
-          <prov id="DLM1576108" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes" quote="1">18CB</label>
-            <heading>Restriction on surrender of assigned amount units</heading>
+        <text>To insert the following clause after clause 42 (after line 4 on page 43):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1264303" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">42A</label>
+            <heading>New sections 7A and 7B inserted</heading>
             <prov.body>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">1</label>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
                 <para>
-                  <text>No participant may surrender, or permit to be surrendered, an imported assigned amount unit to meet the participant’s obligations under <changeable><citation jurisdiction="nz">section 63</citation></changeable> unless the assigned amount unit meets the conditions or requirements prescribed in regulations made under this Part.</text>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">2</label>
-                <para>
-                  <text>In this section and <changeable><citation jurisdiction="nz">section 18CD</citation></changeable>, <def-term id="DLM1576109">imported assigned amount unit</def-term> means an assigned amount unit that is issued out of the initial assigned amount of a Party other than New Zealand.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM1576110" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes" quote="1">18CC</label>
-            <heading>Restriction on surrender of assigned amount units issued during first commitment period</heading>
-            <prov.body>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">1</label>
-                <para>
-                  <text>No participant may surrender, or permit to be surrendered, a CP1 imported assigned amount unit to meet the participant’s obligations under <changeable><citation jurisdiction="nz">section 63</citation></changeable> in respect of any emissions from any activities listed in <changeable><citation jurisdiction="nz">Schedule 3 or 4</citation></changeable> carried out by the participant after <changeable>31 December 2012</changeable>.</text>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">2</label>
-                <para>
-                  <text>In this section and <changeable><citation jurisdiction="nz">sections 18CD and 19</citation></changeable>, <def-term id="DLM1576111">CP1 imported assigned amount unit</def-term> means an assigned amount unit that is issued out of the initial assigned amount of a Party, other than New Zealand, during the first commitment period.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM1576112" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes" quote="1">18CD</label>
-            <heading>Effect of surrendering restricted assigned amount units</heading>
-            <prov.body>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">1</label>
-                <para>
-                  <text>This section applies if at any time the Registrar discovers that—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">a</label>
-                    <para>
-                      <text>an imported assigned amount unit has been transferred to a surrender account that does not meet any of the conditions or requirements prescribed in regulations made under this Part; or</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">b</label>
-                    <para>
-                      <text>a CP1 imported assigned amount unit has been transferred to a surrender account to meet a participant’s obligations under <changeable><citation jurisdiction="nz">section 63</citation></changeable> in respect of any emissions from any activities listed in <changeable><citation jurisdiction="nz">Schedule 3 or 4</citation></changeable> carried out by the participant after <changeable><citation jurisdiction="nz">31 December 2012</citation></changeable>.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">2</label>
-                <para>
-                  <text>If this section applies, the Registrar must—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">a</label>
-                    <para>
-                      <text>reverse the transfer; and</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">b</label>
-                    <para>
-                      <text>notify the participant and the chief executive of the department responsible for the administration of <changeable><citation jurisdiction="nz">Part 4</citation></changeable> that the transfer has been reversed.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">3</label>
-                <para>
-                  <text>If a transfer is reversed under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>,—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">a</label>
-                    <para>
-                      <text>the chief executive of the department responsible for the administration of <changeable><citation jurisdiction="nz">Part 4</citation></changeable> must treat the transfer as never taking place for the purpose of assessing whether a participant has surrendered the required number of units by the due date as required under any section of this Act; and</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">b</label>
-                    <para>
-                      <text>if the chief executive of the department responsible for the administration of <changeable><citation jurisdiction="nz">Part 4</citation></changeable> considers that the person has not surrendered the required number of units by the due date, give a notice to the participant under <changeable><citation jurisdiction="nz">section 121(3)(a)</citation></changeable>.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1576113">
-      <clause.ref>Clause 43: new sections 69A and 69B</clause.ref>
-      <sop.para>
-        <text>To insert the following sections after <emphasis style="italic">new section 69</emphasis> (after line 19 on page 84):</text>
-        <instrument.amend close.quote="no" open.quote="yes" quote="1">
-          <prov id="DLM1576114" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes" quote="1">69A</label>
-            <heading>Establishment of Innovation Fund</heading>
-            <prov.body>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">1</label>
-                <para>
-                  <text>The Minister must establish a fund (the <def-term id="DLM1576115">Innovation Fund</def-term>) for the purpose of facilitating deployment of innovative technology that significantly reduces or avoids, or has the potential to significantly reduce or avoid, greenhouse gas emissions from the industrial sector, or a part of the industrial sector.</text>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">2</label>
-                <para>
-                  <text>The Innovation Fund consists of the New Zealand units allocated to it in accordance with <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>.</text>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">3</label>
-                <para>
-                  <text>The Minister—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">a</label>
-                    <para>
-                      <text>must ensure that there is an Innovation Fund for the period from <changeable>1 January 2010 to 31 December 2012</changeable>; and</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">b</label>
-                    <para>
-                      <text>may, following the completion of a review under <changeable><citation jurisdiction="nz">section 147(1)</citation></changeable>, continue the Innovation Fund for—</text>
-                      <label-para quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">i</label>
-                        <para>
-                          <text>any subsequent commitment period following the first commitment period; or</text>
-                        </para>
-                      </label-para>
-                      <label-para quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">ii</label>
-                        <para>
-                          <text>if there is no subsequent commitment period following the first commitment period,—</text>
-                          <label-para quote="1" skeleton="no">
-                            <label auto.number="no" denominator="yes" quote="1">A</label>
-                            <para>
-                              <text>the 5-year period commencing on <changeable>1 January 2013</changeable>; or</text>
-                            </para>
-                          </label-para>
-                          <label-para quote="1" skeleton="no">
-                            <label auto.number="no" denominator="yes" quote="1">B</label>
-                            <para>
-                              <text>any subsequent 5-year period after the period specified in <changeable><citation jurisdiction="nz">subsubparagraph (A)</citation></changeable>; and</text>
-                            </para>
-                          </label-para>
-                        </para>
-                      </label-para>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">c</label>
-                    <para>
-                      <text>must disestablish the Innovation Fund no later than <changeable><citation jurisdiction="nz">31 December 2029</citation></changeable>.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">4</label>
-                <para>
-                  <text>An allocation plan—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">a</label>
-                    <para>
-                      <text>must provide for 150,000 of the New Zealand units available for allocation under the plan in each year from <changeable><citation jurisdiction="nz">1 January 2010 to 31 December 2012</citation></changeable> to be allocated to the Innovation Fund; and</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">b</label>
-                    <para>
-                      <text>may, if the Innovation Fund is continued after <changeable><citation jurisdiction="nz">31 December 2012</citation></changeable>, provide for any number of New Zealand units available for allocation under the plan to be allocated to the Innovation Fund.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">5</label>
-                <para>
-                  <text>The Minister may make grants of New Zealand units from the Innovation Fund.</text>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">6</label>
-                <para>
-                  <text>Grants under <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable> must be made available on a contestable basis—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">a</label>
-                    <para>
-                      <text>to persons who meet the requirements of <changeable><citation jurisdiction="nz">section 69(2)(a)(i)</citation></changeable> and—</text>
-                      <label-para quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">i</label>
-                        <para>
-                          <text>meet the requirements of <changeable><citation jurisdiction="nz">section 69(2)(a)(iii)</citation></changeable>, but are not receiving an allocation of New Zealand units in accordance with an allocation plan; or </text>
-                        </para>
-                      </label-para>
-                      <label-para quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">ii</label>
-                        <para>
-                          <text>carry out an activity listed in <changeable><citation jurisdiction="nz">Part 4 of Schedule 3 or Part 4 of Schedule 4</citation></changeable>, but are not receiving an allocation of New Zealand units in accordance with an allocation plan in respect of that activity; or</text>
-                        </para>
-                      </label-para>
-                      <label-para quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">iii</label>
-                        <para>
-                          <text>face cost increases in respect of the matters referred to in <changeable><citation jurisdiction="nz">section 69(2)(a)(iii)(B)</citation></changeable>, but are not receiving an allocation of New Zealand units in accordance with an allocation plan in respect of those costs; and</text>
-                        </para>
-                      </label-para>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">b</label>
-                    <para>
-                      <text>in accordance with any criteria the Minister considers appropriate.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">7</label>
-                <para>
-                  <text>If in any year the number of New Zealand units in the Innovation Fund are not fully granted and the Innovation Fund—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">a</label>
-                    <para>
-                      <text>is to continue in the following year, the remaining New Zealand units may be granted under <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable> in any subsequent year in which the Innovation Fund is continued; or</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">b</label>
-                    <para>
-                      <text>will not be continued in the following year, the remaining New Zealand units may be made available for allocation in accordance with an allocation plan that applies in that following year.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">8</label>
-                <para>
-                  <text>In this section, <def-term id="DLM1576116">allocation plan</def-term> means an allocation plan providing for the matters in <changeable><citation jurisdiction="nz">section 69</citation></changeable>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM1576117" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes" quote="1">69B</label>
-            <heading>Allocation to fishing vessel operators</heading>
-            <prov.body>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">1</label>
-                <para>
-                  <text>The Minister must exercise his or her powers under this subpart to ensure that an allocation plan that provides for the matters in this section and <changeable><citation jurisdiction="nz">section 72(2)</citation></changeable> is in force for the period from <changeable>1 January 2011 to 31 December 2013</changeable>.</text>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">2</label>
-                <para>
-                  <text>The matters that an allocation plan must provide for are—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">a</label>
-                    <para>
-                      <text>an allocation of New Zealand units free of charge to persons who—</text>
-                      <label-para quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">i</label>
-                        <para>
-                          <text>are or were fishing vessel operators in any year or years specified in the allocation plan; and</text>
-                        </para>
-                      </label-para>
-                      <label-para quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">ii</label>
-                        <para>
-                          <text>meet any tests or thresholds that are specified in the allocation plan; and</text>
-                        </para>
-                      </label-para>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">b</label>
-                    <para>
-                      <text>a total number of New Zealand units available for allocation under the allocation plan calculated in accordance with the following formula:</text>
-                      <eqn id="DLM1563100">
-                        <eqn-line>A = 0.5 × B × 3</eqn-line>
-                        <para>
-                          <text>where—</text>
-                        </para>
-                        <variable-def>
-                          <variable>A</variable>
+                  <text>The following sections are inserted after section 7:</text>
+                  <amend quote="1">
+                    <prov id="DLM1264304" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">7A</label>
+                      <heading>Appointment of Senior Family Court Registrars</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
                           <para>
-                            <text>is the total number of New Zealand units available for allocation under the allocation plan</text>
+                            <text>Senior Family Court Registrars may be appointed under the State Sector Act 1988.</text>
                           </para>
-                        </variable-def>
-                        <variable-def>
-                          <variable>B</variable>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
                           <para>
-                            <text>is the total number of tonnes of emissions that the Minister is satisfied resulted in <changeable>2005</changeable> from the consumption of obligation fuel by fishing vessels—</text>
-                            <label-para skeleton="no">
-                              <label auto.number="no" denominator="yes">a</label>
+                            <text>No person may be appointed a Senior Family Court Registrar unless he or she is by reason of training, experience, and personality a suitable person to hold office as a Senior Family Court Registrar.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>Where any regulations are in force prescribing the qualifications required to be held by persons appointed as Senior Family Court Registrars, no person may be appointed as a Senior Family Court Registrar who does not hold those qualifications.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">4</label>
+                          <para>
+                            <text>If the chief executive of the department of State responsible for the administration of this Act is satisfied that it is compatible with the office of Senior Family Court Registrar, a Senior Family Court Registrar may also—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
                               <para>
-                                <text>required to be registered under section 103 of the Fisheries Act 1996; and</text>
+                                <text>practise as a barrister or solicitor; or</text>
                               </para>
                             </label-para>
-                            <label-para skeleton="no">
-                              <label auto.number="no" denominator="yes">b</label>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
                               <para>
-                                <text>registered under that section in <changeable>2005</changeable>.</text>
+                                <text>undertake paid employment; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>hold another office (whether paid or not).</text>
                               </para>
                             </label-para>
                           </para>
-                        </variable-def>
-                      </eqn>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">3</label>
-                <para>
-                  <text>For the purposes of this section,—</text>
-                  <def-para id="DLM1576118" quote="1">
-                    <para quote="1">
-                      <text><def-term id="DLM1576119">fishing vessel</def-term> has the same meaning as in section 2(1) of the Fisheries Act 1996</text>
-                    </para>
-                  </def-para>
-                  <def-para id="DLM1576120" quote="1">
-                    <para quote="1">
-                      <text><def-term id="DLM1576121">fishing vessel operator</def-term> means the operator of a fishing vessel that is required to be registered under section 103 of the Fisheries Act 1996</text>
-                    </para>
-                  </def-para>
-                  <def-para id="DLM1576122" quote="1">
-                    <para quote="1">
-                      <text><def-term id="DLM1576123">operator</def-term>, in relation to a fishing vessel, means the person who, by virtue of ownership, a lease, a sublease, a charter, a subcharter, or otherwise, for the time being has lawful possession and control of the fishing vessel.</text>
-                    </para>
-                  </def-para>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1576124">
-      <clause.ref>Clause 43: new section 73(2)–(6)</clause.ref>
-      <sop.para>
-        <text>To omit these subsections (line 4 on page 89 to line 9 on page 90) and substitute the following subsections:</text>
-        <instrument.amend close.quote="no" open.quote="yes" quote="1">
-          <subprov quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">2</label>
-            <para>
-              <text>The allocation plan must—</text>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">a</label>
-                <para>
-                  <text>specify the matters set out in <changeable><citation jurisdiction="nz">section 72(2)</citation></changeable>; and</text>
-                </para>
-              </label-para>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">b</label>
-                <para>
-                  <text>incorporate any changes made to the draft allocation plan under <changeable><citation jurisdiction="nz">section 72(8)</citation></changeable>; and</text>
-                </para>
-              </label-para>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">c</label>
-                <para>
-                  <text>be presented the House of Representatives as soon as practicable after it is issued, along with the report provided to the Minister under <changeable><citation jurisdiction="nz">section 72(7)</citation></changeable> and any of the Minister’s decisions on the recommendations contained in the report.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">3</label>
-            <para>
-              <text>An allocation plan providing for the matters in—</text>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">a</label>
-                <para>
-                  <text><changeable><citation jurisdiction="nz">section 68</citation></changeable> comes into force on the day after it is presented to the House of Representatives:</text>
-                </para>
-              </label-para>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">b</label>
-                <para>
-                  <text><changeable><citation jurisdiction="nz">section 69, 69B, or 70</citation></changeable> comes into force 15 sitting days after it is presented to the House of Representatives unless the House resolves, in that period, to disapply the allocation plan.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">4</label>
-            <para>
-              <text>If Parliament is dissolved or expires before the end of the period of sitting days within which the House of Representatives must resolve to disapply an allocation plan under <changeable><citation jurisdiction="nz">subsection (3)(b)</citation></changeable>, and the House has not, by that time, resolved to disapply the allocation plan, then the allocation plan comes into force on the day the House is dissolved or expires.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1576125">
-      <clause.ref>Clause 43: new section 73A</clause.ref>
-      <sop.para>
-        <text>To insert the following section after <emphasis style="italic">new section 73</emphasis> (after line 9 on page 90):</text>
-        <instrument.amend close.quote="no" open.quote="yes" quote="1">
-          <prov id="DLM1576126" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes" quote="1">73A</label>
-            <heading>Correction and publication of allocation plans</heading>
-            <prov.body>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">1</label>
-                <para>
-                  <text>For the purpose of correcting any minor mistakes or defects in an allocation plan, the Minister may, without complying with <changeable><citation jurisdiction="nz">section 72</citation></changeable>, recommend that the Governor-General revoke that allocation plan and replace it with a corrected allocation plan.</text>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">2</label>
-                <para>
-                  <text>A corrected allocation plan—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">a</label>
-                    <para>
-                      <text>comes into force at the time it is issued; and</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">b</label>
-                    <para>
-                      <text>must, for advisory purposes, be presented to the House of Representatives as soon as practicable after it is issued; and</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">c</label>
-                    <para>
-                      <text>to avoid doubt, may not be disapplied by the House of Representatives under <changeable><citation jurisdiction="nz">section 73(3)(b)</citation></changeable>.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">3</label>
-                <para>
-                  <text>The Minister must, as soon as practicable after an allocation plan or a corrected allocation plan comes into force, ensure that—</text>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">a</label>
-                    <para>
-                      <text>the allocation plan or corrected allocation plan is made available in hard copy at the office of, and is accessible via the Internet site of, the department of the chief executive responsible for the administration of the Act; and</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">b</label>
-                    <para>
-                      <text>the allocation plan or corrected allocation plan is published in whatever other form the Minister considers appropriate; and</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">c</label>
-                    <para>
-                      <text>in respect of an allocation plan, the report provided to the Minister under <changeable><citation jurisdiction="nz">section 72(7)</citation></changeable> is published in whatever form the Minister considers appropriate, along with any of the Minister’s decisions on the recommendations contained in the report; and</text>
-                    </para>
-                  </label-para>
-                  <label-para quote="1" skeleton="no">
-                    <label auto.number="no" denominator="yes" quote="1">d</label>
-                    <para>
-                      <text>in respect of a corrected allocation plan, a summary of the corrections is made available in hard copy at the office of, and is accessible via the Internet site of the department of, the chief executive responsible for the administration of the Act.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">4</label>
-                <para>
-                  <text>An allocation plan or corrected allocation plan is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but it is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.</text>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">5</label>
+                          <para>
+                            <text>A Senior Family Court Registrar may exercise the jurisdiction and powers of a Senior Family Court Registrar in relation to more than 1 Family Court.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">6</label>
+                          <para>
+                            <text>A Senior Family Court Registrar may be appointed on a part-time or full-time basis.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                    <prov id="DLM1264305" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">7B</label>
+                      <heading>Jurisdiction and powers of Senior Family Court Registrars</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>The Governor-General may by Order in Council make regulations specifying the kinds of orders that a Senior Family Court Registrar may make in a Family Court proceeding, and the kinds of directions that a Senior Family Court Registrar may give in a Family Court proceeding, in relation to any of the following matters:</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>interlocutory matters:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>applications made without notice:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>pre-hearing conferences:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">d</label>
+                              <para>
+                                <text>uncontested applications:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">e</label>
+                              <para>
+                                <text>applications for leave:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">f</label>
+                              <para>
+                                <text>matters that are consented to by all the parties:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">g</label>
+                              <para>
+                                <text>confirmation of orders made overseas:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">h</label>
+                              <para>
+                                <text>the holding of inquiries:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>the enforcement of orders and directions.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>A Senior Family Court Registrar has and may exercise the powers of a Registrar under the Family Courts Rules 2002 and any other powers conferred on a Registrar under any other enactment.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>An order made or direction given by a Senior Family Court Registrar has the same effect and is enforceable in the same manner as if made or given by a Family Court Judge, or a Registrar, as the case may be.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">4</label>
+                          <para>
+                            <text>Any party to any proceedings who is affected by any order made or direction given by a Senior Family Court Registrar may apply to a Family Court Judge to review that order or direction, and where a party so applies the Family Court Judge may confirm, vary, or rescind the Senior Family Court Registrar's order or direction.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
                 </para>
               </subprov>
             </prov.body>
@@ -515,233 +171,28 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM1576127">
-      <clause.ref>Clause 43: new section 74</clause.ref>
+    <sop.amend id="DLM1264306">
+      <clause.ref>Clause 47</clause.ref>
       <sop.para>
-        <text>To insert the following paragraph after <emphasis style="italic">paragraph (e)</emphasis> (after line 7 on page 91):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+        <text><emphasis style="italic">New section 16B(1)</emphasis>: to add the following paragraph (after line 33 on page 49):</text>
+        <instrument.amend close.quote="yes" increment="1" open.quote="yes" quote="1">
           <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">ea</label>
+            <label auto.number="no" denominator="yes" quote="1">g</label>
             <para>
-              <text>criteria and methodologies to be included in an allocation plan should ensure that firms and individuals considered to be trade-exposed only receive New Zealand units free of charge in respect of the parts of their business operations that are involved in the production of goods that are trade-exposed:</text>
+              <text>prescribing the qualifications required to be held by persons appointed as Senior Family Court Registrars.</text>
             </para>
           </label-para>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1576128">
-      <clause.ref>Clause 43: new section 147(3)</clause.ref>
-      <sop.para>
-        <text>To insert the following paragraph after <emphasis style="italic">paragraph (ba)</emphasis> (after line 20 on page 153):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">bb</label>
-            <para>
-              <text>the contribution of the emissions trading scheme established under this Act to progress toward any targets that are in effect in accordance with <changeable><citation jurisdiction="nz">section 181</citation></changeable> at the time the review is initiated; and</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text>To insert the following paragraphs after <emphasis style="italic">paragraph (k)</emphasis> (after line 30 on page 154):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">ka</label>
-            <para>
-              <text>the operation of the Innovation Fund established under <changeable><citation jurisdiction="nz">section 69A</citation></changeable>; and</text>
-            </para>
-          </label-para>
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">kb</label>
-            <para>
-              <text>the impacts of the forestry sector elements of the emissions trading scheme established under this Act on biodiversity within New Zealand; and</text>
-            </para>
-          </label-para>
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">kc</label>
-            <para>
-              <text>the costs and benefits of establishing an independent or quasi independent government body to carry out the allocation process, or part of the allocation process, contained in <changeable><citation jurisdiction="nz">subpart 2 of Part 4</citation></changeable> of this Act; and</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1576129">
-      <clause.ref>Clause 43: new section 166(1)</clause.ref>
-      <sop.para>
-        <text>To insert the following paragraph after <emphasis style="italic">paragraph (b)</emphasis> (after line 13 on page 184):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">ba</label>
-            <para>
-              <text>must be accompanied by a declaration, in the prescribed form, that any action taken by the applicant after <changeable>1 January 2008</changeable> in relation to the post-1989 forest land in respect of which the application is submitted (including, but not limited to, removal of any existing vegetation prior to planting of the forest species on the land) complied with the provisions of the Resource Management Act 1991, including any plan under that Act, and the Forests Act 1949, as in force at the time that the action was taken; and</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1576130">
-      <clause.ref>Clause 43: new Part 6</clause.ref>
-      <sop.para>
-        <text>To insert the following Part after <emphasis style="italic">new section 179</emphasis> (after line 37 on page 215):</text>
-        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
-          <part id="DLM1576131" in.amend="false" irdnumbering="no" quote="1" raised.by="Government" sop.no="239" toc="yes" year="2008">
-            <label auto.number="no" denominator="yes" quote="1">6</label>
-            <heading quote="1">Other matters</heading>
-            <prov id="DLM1576132" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-              <label auto.number="no" denominator="yes" quote="1">180</label>
-              <heading>Establishment of Household Fund</heading>
-              <prov.body>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">1</label>
-                  <para>
-                    <text>This section establishes a fund for the purpose of reducing non-transport household greenhouse gas emissions through the promotion of household energy efficiency and conservation and household renewable energy technologies (the <def-term id="DLM1576133">Household Fund)</def-term>.</text>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">2</label>
-                  <para>
-                    <text>A total of 1,000,000,000 New Zealand dollars must be paid to the Household Fund, from money appropriated by Parliament for the purpose, during the period beginning on the date of commencement of this section and ending on <changeable><citation jurisdiction="nz">1 July 2024</citation></changeable>.</text>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">3</label>
-                  <para>
-                    <text>Without limiting <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, the Household Fund may be used for purposes that include (but are not limited to) the delivery, marketing and promotion of, and provision of grants relating to—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>household insulation and clean heat retrofits:</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>energy efficient appliances and lighting:</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">c</label>
-                      <para>
-                        <text>space and water heating efficiency improvements.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">4</label>
-                  <para>
-                    <text>The Minister—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>must, as soon as practicable after this section comes into force, determine the criteria for the use of the Household Fund; and</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>may re-determine the criteria at any time.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">5</label>
-                  <para>
-                    <text>Before determining or re-determining the criteria for the use of the Household Fund, the Minister must seek and consider the advice of the Energy Efficiency and Conservation Authority.</text>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">6</label>
-                  <para>
-                    <text>When advising the Minister on the criteria for the use of the Household Fund, the Energy Efficiency and Conservation Authority must have regard to—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>the income and energy needs of households, including whether the householders have SuperGold cards; and</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>the cost-effectiveness of expenditure from the Household Fund in relation to the purpose of the Household Fund; and</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">c</label>
-                      <para>
-                        <text>any other matters that the Authority considers relevant.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">7</label>
-                  <para>
-                    <text>The Energy Efficiency and Conservation Authority must manage and administer the Household Fund in accordance with the criteria determined by the Minister.</text>
-                  </para>
-                </subprov>
-              </prov.body>
-            </prov>
-            <prov id="DLM1576134" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-              <label auto.number="no" denominator="yes" quote="1">181</label>
-              <heading>Gazetting of targets</heading>
-              <prov.body>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">1</label>
-                  <para>
-                    <text>The Minister responsible for the administration of this Act must set a target.</text>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">2</label>
-                  <para>
-                    <text>The Minister responsible for the administration of the Act may set a target, or amend or revoke an existing target, at any time.</text>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">3</label>
-                  <para>
-                    <text>As soon as practicable after setting, amending, or revoking a target under this section, the Minister must—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>publicly notify the target or revocation of the target in the <emphasis style="italic">Gazette</emphasis>; and</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>make the target or revocation of the target publicly accessible via the Internet site of the department of the chief executive responsible for the administration of this Act.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">4</label>
-                  <para>
-                    <text>To avoid doubt, the <emphasis style="italic">Gazette</emphasis> notice in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> may not be treated as a regulation for the purposes of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publications Act 1989.</text>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">5</label>
-                  <para>
-                    <text>To avoid doubt, any number of targets may be set using the process under this section.</text>
-                  </para>
-                </subprov>
-              </prov.body>
-            </prov>
-          </part>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1576135" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2008" raised.by="Government" sop.no="239">
+  <explnote id="DLM1264307" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0005" stage="published" year="2008" raised.by="Government" sop.no="201">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Climate Change (Emissions Trading and Renewable Preference) Bill.</text>
+      <text>This Supplementary Order Paper amends the Family Courts Matters Bill to provide for the appointment of Senior Family Court Registrars.</text>
+    </para>
+    <para>
+      <text>In Family Court proceedings, Senior Family Court Registrars will be able to make orders and give directions in relation to such matters as are specified in regulations made by the Governor-General by Order in Council.</text>
     </para>
   </explnote>
 </sop>
-<!--End of file, do NOT remove.-->
