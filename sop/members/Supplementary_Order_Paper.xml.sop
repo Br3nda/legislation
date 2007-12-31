@@ -1,47 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1409200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0002" stage="published" year="2008" raised.by="Members" sop.no="213">
-  <date>Wednesday, 2 July 2008</date>
-  <billref>Policing Bill</billref>
-  <body id="DLM1409201">
-    <heading>Proposed Amendment</heading>
-    <motion>Chester Borrows, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1409202">
-      <clause.ref>New Clause 97</clause.ref>
+<sop id="DLM1224800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0004" stage="published" year="2008" raised.by="Members" sop.no="189">
+  <date>Tuesday, 1 April 2008</date>
+  <billref>Biosecurity and Hazardous Substances and New Organisms Legislation Amendment Bill</billref>
+  <body id="DLM1224801">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Tariana Turia, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM1224802">
+      <clause.ref>Part 1</clause.ref>
+      <clause.ref>Clause 7A</clause.ref>
       <sop.para>
-        <text>To omit clause 97 and substitute the following clause after clause 96 (after line 26 on page 57):</text>
+        <text>To omit this clause (lines 13 to 19 on page 4) and substitute the following clause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1409203" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">97</label>
-            <heading>Police involvement in elections</heading>
+          <prov id="DLM1224803" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">7A</label>
+            <heading>Suspension of power to give biosecurity clearance</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
+                <label auto.number="yes" denominator="yes"/>
                 <para>
-                  <text>Any constable, authorised officer, or supervisor may only take part in an election of a member of the House of Representatives or a member of a local authority—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>by voting; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>as a candidate in accordance with sections 52 and 53 of the Electoral Act 1993; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
-                    <para>
-                      <text>in the discharge of his or her duties as a constable, authorised officer, or supervisor.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>In this section, local authority and member of a local authority have the meanings given in section 5(1) of the Local Electoral Act 2001.  </text>
+                  <text>Despite <changeable><citation jurisdiction="nz">section 7</citation></changeable>, no biosecurity clearance may be given under section 26 for any goods to which the <emphasis style="italic">Import Health Standard of the Importation into New Zealand of specified Bee Products from Australia</emphasis>, dated 2 August 2006 applies, until 90 days after the date on which the independent review panel, established under section 22A, becomes operational.</text>
                 </para>
               </subprov>
             </prov.body>
@@ -50,11 +27,10 @@
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1409204" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2008" raised.by="Members" sop.no="213">
+  <explnote id="DLM1224804" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2008" raised.by="Members" sop.no="189">
     <heading>Explanatory note</heading>
     <para>
-      <text>In order to maintain the political neutrality of Police staff, constables, authorised officers and supervisors must be excluded as candidates in general elections as provided in the Electoral Act. However, it is unnecessary and undesirable to restrict Police staff from involvement in local authority elections. Constables, authorised officers and supervisors who are also members of local authorities have the ability to enhance the partnership between Police and the community. Up until now, Police staff have effectively managed conflicts of interest through disclosure. There is no reason that this arrangement cannot continue to operate effectively – thereby allowing Police staff to make a unique and valuable contribution to their local community.</text>
+      <text>This Supplementary Order Paper amends the Biosecurity and Hazardous Substances and New Organisms Legislation Amendment Bill to ensure that the 90 day suspension period to give biosecurity clearance can only come into effect after the independent review panel has become operational, and not before.</text>
     </para>
   </explnote>
 </sop>
-<!--End of file, do NOT remove.-->
