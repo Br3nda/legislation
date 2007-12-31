@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM1566100" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="283" bill.type="government" stage="2" year="2008">
+<bill id="DLM1566100" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2008" bill.no="283" bill.type="government" stage="1" year="2008">
   <billdetail>
     <title>Inquiries Bill</title>
     <billtype>Government Bill</billtype>
-    <repnote>As reported from the Government Administration Committee</repnote>
-    <commentary id="DLM2555200" in.amend="false" irdnumbering="no" official="yes" bill.no="283" bill.type="government" stage="2" year="2008">
-      <heading>Commentary</heading>
-      <comm.lev1>
-        <heading>Recommendation</heading>
+    <explnote id="DLM1566101" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="283" bill.type="government" stage="1" year="2008">
+      <heading>Explanatory Note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
         <para>
-          <text>The Government Administration Committee has examined the Inquiries Bill and recommends that it be passed with the amendments shown. </text>
+          <text>Currently, Royal commissions and commissions of inquiry take place under the Commissions of Inquiry Act 1908 (the <emphasis style="bold">1908 Act</emphasis>), although the Royal prerogative is also relevant in the appointment of Royal commissions. Royal commissions and commissions of inquiry have tended to inquire into matters of significant public concern. Examples include the current Royal Commission on Auckland Governance and the Commission of Inquiry into the Collapse of the Viewing Platform at Cave Creek which reported in 1995. </text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Introduction</heading>
         <para>
-          <text>The aim of the bill is to reform and modernise the law relating to inquiries, by</text>
+          <text>A 2008 Law Commission report (<emphasis style="italic">A New Inquiries Act</emphasis> NZLC R102) concluded that the 1908 Act contained outdated and confusing provisions that had the potential to add cost and delay to commissions of inquiry and Royal commissions. It also noted that there is a need for a flexible form of statutory inquiry that Ministers can use for the less complex, discrete issues that require independent investigation. The Law Commission recommended that the 1908 Act be replaced with legislation that provided for forms of inquiry that recognised modern public law principles.</text>
+        </para>
+        <para>
+          <text>The purpose of this Bill is therefore to reform and modernise the law relating to inquiries, by—</text>
           <list>
             <item>
               <label auto.number="no" denominator="yes"/>
               <para>
-                <text>providing for the establishment of both public and government inquiries to inquire into matters of public importance</text>
+                <text>providing for the establishment of both public and government inquiries to inquire into matters of public importance; and</text>
               </para>
             </item>
             <item>
               <label auto.number="no" denominator="yes"/>
               <para>
-                <text>recognising and providing for Royal commissions appointed under the Royal prerogative</text>
+                <text>recognising and providing for Royal commissions appointed under the Royal prerogative; and</text>
               </para>
             </item>
             <item>
@@ -38,173 +37,499 @@
           </list>
         </para>
         <para>
-          <text>This bill amends the Commissions of Inquiry Act 1908 by repealing section 2 of the 1908 Act, which provides for the appointment of commissions of inquiry, and section 15, which relates to Royal commissions. The remaining provisions of the 1908 Act would apply only in the circumstances specified in clause 39(2).</text>
+          <text>The Bill would repeal section 2 of the 1908 Act which provides for the appointment of commissions of inquiry, and section 15 which relates to Royal commissions. However, it would leave the remaining provisions of the 1908 Act in force for the time being. Over the years, the 1908 Act has been used as a means of giving inquisitorial powers to many other statutory bodies, (for example, the Waitangi Tribunal). It is intended that a review will take place of all the bodies that take powers from the 1908 Act to determine what law changes need to be made to enable the final repeal the Commission of Inquiry Act 1908.</text>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 2</emphasis> is the commencement clause. The Bill is to come into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </clause.desc>
+        <explnote.part id="DLM1566102">
+          <label auto.number="no" denominator="yes">1  </label>
+          <heading>Preliminary provisions</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 3</emphasis> states the purpose of the Bill, which is to reform and modernise the law relating to inquiries by—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>providing for the establishment of both public and government inquiries to inquire into matters of public importance; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>recognising and providing for Royal commissions established under the Royal prerogative; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>enabling those inquiries to be carried out effectively, efficiently, and fairly.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4</emphasis> contains definitions of terms used in the Bill.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM1566103">
+          <label auto.number="no" denominator="yes">2  </label>
+          <heading>Establishment and membership of inquiry</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> provides for 3 forms of inquiry as follows:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a Royal commission established under the Letters Patent constituting the office of Governor-General.</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a public inquiry established by the Governor-General by Order in Council to inquire into a matter of public importance:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a government inquiry established by a Minister of the Crown by notice in the <emphasis style="italic">Gazette</emphasis> to inquire into a matter of public importance.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 7</emphasis> sets out the matters to be specified in the instrument establishing an inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 8</emphasis> specifies the circumstances when the Governor-General or the appointing Minister may remove a member of an inquiry from office.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9</emphasis> specifies the options to address a vacancy in the membership of an inquiry. The appropriate Minister or appointing Minister may require the inquiry to continue, or a replacement member may be appointed, or the inquiry may be terminated.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM1566104">
+          <label auto.number="no" denominator="yes">3  </label>
+          <heading>Duties, powers, immunities, and privileges</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 10</emphasis> requires an inquiry and each of its members to act independently, impartially, and fairly.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 11</emphasis> provides that an inquiry has no power to determine the civil, criminal, or disciplinary liability of any person. However, an inquiry is not prevented from making findings of fault or recommendations that further steps be taken to determine liability.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 12</emphasis> requires an inquiry to prepare and present a final report to—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the Governor-General, in the case of a public inquiry:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the appointing Minister, in the case of a government inquiry.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 13</emphasis> provides for the Solicitor-General to appoint counsel to assist or advise an inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 14</emphasis> provides for an inquiry to conduct its inquiry as it considers appropriate, subject to the other provisions of the Bill and its terms of reference. An inquiry must not act inconsistently with the rules of natural justice and must have regard to the need to avoid unnecessary delay or cost.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 15</emphasis> authorises an inquiry to forbid the publication of certain matters, to restrict public access to the inquiry, or to hold the inquiry in private. The clause lists criteria that an inquiry must take into account in deciding whether to make an order.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 16</emphasis> specifies the circumstances in which an inquiry may be postponed or temporarily suspended.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 17</emphasis> requires an inquiry to observe the rules of natural justice before making an adverse finding against any person in its report.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 18</emphasis> provides for an inquiry to designate any person to be a core participant in the inquiry. A person who is a core participant has the right to give evidence and make submissions to an inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 19</emphasis> provides for the chief executive of the relevant department, in response to a recommendation from an inquiry, to grant funding for legal assistance to specified persons required or wishing to appear before an inquiry or who have an interest in the inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 20</emphasis> deals with evidential matters.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 21</emphasis> authorises an inquiry to require the production of documents or the provision of information.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 22</emphasis> authorises an inquiry to delegate to an officer of the inquiry the powers of the inquiry under <emphasis style="italic">clauses 20(b)</emphasis> (taking evidence on oath or affirmation) and <emphasis style="italic">21(b)</emphasis> (examining any document or thing produced by a witness).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 23</emphasis> authorises an inquiry to order disclosure to any person participating in an inquiry any specified document, information, or thing that another person has produced before the inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 24</emphasis> authorises an inquiry to issue a witness summons requiring a person to attend and give evidence before the inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 25</emphasis> specifies how a witness summons is to be served on the person concerned.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 26</emphasis> provides for the payment of expenses of persons summoned to attend an inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 27</emphasis> confers immunity on an inquiry and its members from liability for anything done in performing the duties of the inquiry, unless done in bad faith.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 28</emphasis> confers on witnesses participating in an inquiry the same immunities and privileges as if they were appearing in civil proceedings.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM1566105">
+          <label auto.number="no" denominator="yes">4  </label>
+          <heading>Sanctions and miscellaneous matters</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 29</emphasis> authorises an inquiry to make an order awarding costs against a person if satisfied that the person has unduly lengthened or obstructed the inquiry or added undue cost to the inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 30</emphasis> provides for offences against the Bill.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 31</emphasis> provides a maximum penalty of a fine of $10,000 for an offence against <emphasis style="italic">clause 30</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 32</emphasis> provides for proceedings by the Solicitor-General for contempt of an inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 33</emphasis> specifies the extent to which the Official Information Act 1982 applies, after an inquiry has made its report, to documents created or received by an inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 34</emphasis> provides that an inquiry is a public office for the purpose of the Public Records Act 2005 and specifies that all documents and things created or received by an inquiry are public records for the purposes of that Act.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 35</emphasis> provides for an inquiry to state a case to the High Court an any question of law arising in any matter before the inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 36</emphasis> is a procedural provision relating to judicial review proceedings of an inquiry.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 37</emphasis> requires the appropriate Minister of the Crown to commence, within 5 years after the commencement of the Bill, a review in relation to the entities referred to in <emphasis style="italic">clause 39(b)</emphasis> to consider what powers they require and what changes to the law are necessary.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 38</emphasis> repeals sections 2 and 15 of the Commissions of Inquiry Act 1908.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 39</emphasis> is a transitional provision which continues the application of the Commission of Inquiry Act 1908—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>to any commission of inquiry or Royal commission appointed under that Act that is in progress at the commencement of the Bill; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>to any entity that is or may be established under an enactment enacted before the commencement of the Bill and that derives its powers from that Act.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>The clause also provides that the Bill does not apply to a Royal commission that is still in progress at the commencement of the Bill.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 40</emphasis> makes the consequential amendments set out in <emphasis style="italic">Schedule 2</emphasis>.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+      <explnote.ris>
+        <heading>Regulatory impact statement</heading>
+        <explnote.ird-crosshead>Executive Summary</explnote.ird-crosshead>
+        <para>
+          <text>The Law Commission’s report <emphasis style="italic">A New Inquiries Act</emphasis> NZLC R 102 reviewed the law governing commissions of inquiry, Royal commissions, and non-statutory ministerial inquiries. It concluded that inquiries play a key role in our democratic system. However, it considered that the Commissions of Inquiry Act 1908 (the <emphasis style="bold">Act</emphasis>) is outdated and that some of its provisions may contribute to the high cost of inquiries. It also concluded that the legislation is lacking because it fails to provide Ministers with a flexible form of statutory inquiry that they can use for the less complex, discrete issues that require independent investigation.</text>
         </para>
         <para>
-          <text>This commentary does not address the minor, technical, and consequential amendments proposed by the bill.</text>
+          <text>Consequently, it is proposed that the law relating to public inquiries should be reformed and modernised through a new Inquiries Act. The Act would provide for flexible, effective, and efficient inquiries that would take place within an appropriate legal framework. A draft Inquiries Bill was appended to the Law Commission’s report.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Removal from office</heading>
+        <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
         <para>
-          <text>Clause 8 specifies the circumstances in which the Governor-General or appointing Minister may remove a member of an inquiry from office. We recommend that clause 8(3)(a) be amended so that an inquiry member could be removed from office for misconduct, rather than for being found guilty of misconduct. </text>
+          <text>The Department of Internal Affairs has reviewed this regulatory impact statement and considers that it fulfils the adequacy criteria. </text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Power to impose restriction on access to inquiry </heading>
+        <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
         <para>
-          <text>We recommend that clause 15(1)(a)(iii) be amended so that an inquiry could suppress the name or other particulars likely to lead to the identification of a witness or other person participating in the inquiry. This amendment would have the effect of widening the clause as introduced, so that people participating in an inquiry who were not witnesses would be protected if it was appropriate for their interests. </text>
+          <text>Commissions of inquiry and Royal commissions are governed by the Commissions of Inquiry Act 1908. Among other things, the Act gives those inquiries powers to obtain information, sets out procedural provisions and provides protections for those taking part. However, the Act is outdated and has been amended many times, in a piecemeal manner. The following problems exist: </text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>The impact of some of its provisions is unclear. For example, the Act creates 3 classes of persons who are statutorily recognised as having standing before an inquiry. This approach is not replicated in any other jurisdictions. There is little validity in the distinction between these classes and participants’ respective access to procedural rights and liability for costs requires amendment.  </text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>While the Act generally enables a flexible approach to inquiries, some of its procedural provisions place unnecessary and potentially costly constraints on procedure. For example, the Act gives some participants rights of participation that go beyond what is required by natural justice. These provisions tend to emphasise an adversarial and legalistic approach to inquiries. </text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>In other instances, the Act is silent about modern principles and rules of public law, for example, in respect of access to information and natural justice.</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>There has been a practice of giving many other investigatory and adjudicative bodies the powers of a commission of inquiry. This has led to a confused jurisprudence about the application of the Act and has further limited its effectiveness.</text>
+              </para>
+            </item>
+          </list>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Other immunities and privileges of participants</heading>
         <para>
-          <text>We recommend that clause 28(1) be amended so it would apply to witnesses and other persons participating in an inquiry. This would allow witnesses as well as other persons in an inquiry to have the same immunities and privileges as if they were appearing in civil proceedings, such as those set out in subpart 8 of Part 2 of the Evidence Act 2006.</text>
+          <text>In addition, the Act has become constrained by the culture that has developed alongside it. Practice and the legalistic provisions of the Act have meant that Royal commissions and commissions of inquiry tend to become adversarial processes. As a result, they tend to take a long time and cost a great deal of money. These factors appear to have deterred their use in recent years.</text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Award of costs</heading>
         <para>
-          <text>Clause 29 would allow an inquiry to make an award of costs against any person participating in or summoned to appear before the inquiry, if it was satisfied that the person had unduly lengthened or obstructed the inquiry or incurred undue costs to the inquiry. We recommend that clause 29 be amended by inserting two further subsections. New subsection (5) would allow a right of appeal to the High Court against cost orders imposed on a person by an inquiry. New subsection (6) provides that there is no right of appeal from the decision of the High Court. This would prevent the additional costs and delays involved in a sequence of appeals. </text>
+          <text>A consequence is that many inquiries (ministerial inquiries) take place outside a statutory framework. They are often seen as a quick and cost-effective way to have an independent investigation, but do not have any powers to obtain information and rely on witness cooperation. They offer no immunities for those taking part and there is a lack of clarity around how other protections such as judicial review and the Official Information Act 1982 apply to them. This is unsatisfactory. </text>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Application of Official Information Act 1982</heading>
+        <explnote.ird-crosshead>Objectives</explnote.ird-crosshead>
         <para>
-          <text>The recommended amendments to clause 15(1)(a) would allow an inquiry to forbid publication of any evidence or submissions presented to the inquiry, any report or account of the evidence or submissions, the name or other particulars likely to lead to the identification of a witness or other person participating in the inquiry, and any rulings of the inquiry. In the bill as introduced clause 33(2) provides only that submissions and evidence suppressed under clause 15(1)(a) are deemed not to be official information. We recommend that clause 33(2) be amended to provide that all matters suppressed under clause 15(1)(a) are deemed not to be official information.</text>
+          <text>The objective of the proposals is to—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>reform and modernise the law relating to public inquiries; and</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provide for flexible, effective, and efficient inquiries that will take place within an appropriate legal framework.</text>
+              </para>
+            </item>
+          </list>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Application of Public Records Act 2005</heading>
+        <explnote.subhead1>Alternative Options</explnote.subhead1>
+        <explnote.subhead2>No provision for statutory inquiries—repeal the Commissions of Inquiry Act 1908</explnote.subhead2>
         <para>
-          <text>Clause 34 provides that an inquiry is a public office for the purpose of the Public Records Act. We recommend that clause 34 be amended to reflect the process that applies to the transfer of records under the Public Records Act. The proposed amendment would also clarify that for the purposes of Part 3 of the Public Records Act the access status of the public records is transferred to the control of the Chief Archivist and that the relevant department must take into account any order made by the inquiry under clause 15(1).</text>
+          <text>One option is to remove legislative provision for one-off inquiries by repealing the 1908 Act. This option was rejected. Public inquiries, with statutory powers to obtain information, play a key role in our democratic system. They provide an independent response for matters of public importance which cannot adequately be dealt with by permanent investigatory or policy bodies. They can be essential tools for reassuring public confidence, providing a sense of accountability, finding out what happened, and developing new policy proposals. Their one-off nature means that they can be adapted to suit unique issues by their terms of reference, composition, budget, and procedure. In this way they provide an indispensable alternative to permanent agencies that may be limited in their inquiries by organisation practices, capped staffing levels and budgetary restraints. It is considered that there is an ongoing need for statutory public inquiries.</text>
         </para>
-      </comm.lev1>
-      <comm.appendix>
-        <heading>Appendix</heading>
-        <comm.lev2>
-          <heading>Committee process</heading>
-          <para>
-            <text>The Inquiries Bill was referred to the committee on 28 July 2009. The closing date for submissions was 18 September 2009. We received and considered one submission from the New Zealand Law Society.</text>
-          </para>
-          <para>
-            <text>We received advice from the Department of Internal Affairs. </text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Committee membership</heading>
-          <para>
-            <text>Hon David Parker (Chairperson)</text>
-          </para>
-          <para>
-            <text>Kanwaljit Singh Bakshi</text>
-          </para>
-          <para>
-            <text>Jacqui Dean</text>
-          </para>
-          <para>
-            <text>John Hayes</text>
-          </para>
-          <para>
-            <text>Chris Hipkins</text>
-          </para>
-          <para>
-            <text>Nikki Kaye</text>
-          </para>
-          <para>
-            <text>Grant Robertson</text>
-          </para>
-        </comm.lev2>
-      </comm.appendix>
-    </commentary>
+        <explnote.subhead2>Amend the Commissions of Inquiry Act 1908</explnote.subhead2>
+        <para>
+          <text>One option is to retain and amend the Commissions of Inquiry Act 1908. Its provisions could be amended to remove confusion, procedural constraints, and the emphasis on a legalistic approach to inquiries. Provisions could be added that would take account of modern public law principles and rules.</text>
+        </para>
+        <para>
+          <text>This option was rejected as it promises more of the piecemeal approach to reform. The Law Commission has made recommendations to amend or repeal nearly all of the existing provisions of the 1908 Act. It also suggests the removal of concepts that are key to the Act, such as parties. Generally, where an Act needs to be so substantially amended it is better to start again, and to replace the principal Act. The coherent whole that results is better than the conjoined product of a process of amendment. In these circumstances, it is preferable that an entirely new Act be introduced.</text>
+        </para>
+        <para>
+          <text>In addition, the Law Commission concluded that new legislation is required to lay the basis for a fresh start and to promote a culture change, away from adversarial approaches to inquiries. </text>
+        </para>
+        <explnote.subhead2>New legislation providing for one form of inquiry</explnote.subhead2>
+        <para>
+          <text>Another option is to introduce new legislation that provides for one form of inquiry—a public inquiry—which would take over the ground of Royal commissions, commissions of inquiry, and ministerial inquiries.</text>
+        </para>
+        <para>
+          <text>All public inquiries would be appointed by the Governor-General by Order in Council. Public inquiry reports would all be tabled in Parliament. New legislation would contain provisions flexible enough to be adapted to suit smaller, less complex investigations that could be carried out with less formal procedures, as well as larger more formal inquiries.</text>
+        </para>
+        <para>
+          <text>This option was rejected. A number of agencies and organisations suggested that the requirement that all inquiries be appointed by the Governor-General by Order in Council would discourage the new Act’s use for smaller inquiries. Where Ministers did not think a matter that required independent review warranted appointment in that manner, it was suggested that they would continue to establish inquiries outside the Act. Concerns were also raised about the proposal that all inquiry reports be tabled in Parliament. It was suggested that a Minister will from time to time wish to engage an independent person to inquire into an issue in his or her portfolio and that sometimes it was appropriate that such an inquiry report directly to the Minister.</text>
+        </para>
+        <para>
+          <text>The weight of submissions received by the Law Commission was therefore that the new Act should provide that some statutory inquiries should be able to be established by and report directly to a Minister.</text>
+        </para>
+        <explnote.subhead1>Preferred option</explnote.subhead1>
+        <explnote.subhead2>A new Inquiries Act</explnote.subhead2>
+        <para>
+          <text>The preferred option is for a new Inquiries Act. The Act would provide for—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Public inquiries, which would take over the ground previously inhabited by commissions of inquiry. They would be appointed by Order in Council. They would report to the Governor-General and their reports would be tabled in Parliament.</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Government inquiries, which would be simpler and quicker to establish. They would be appointed by and report directly to a Minister, and are designed to be used for smaller and more immediate issues where a quick and authoritative answer is required from an independent inquirer.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The provisions of the Act would also apply to Royal commissions, which are established by the Governor-General under the Letters Patent. </text>
+        </para>
+        <para>
+          <text>Public inquiries and government inquiries would differ in their manner of appointment and reporting. They would both have access to powers to obtain information and therefore to complete their tasks in an effective and efficient manner. In addition, appropriate protections would be in place for the inquirers and people taking part.</text>
+        </para>
+        <para>
+          <text>The new Act would set out modern rules relating to inquiry powers and procedure, public access, privileges and immunities, and participation, amongst other things.</text>
+        </para>
+        <para>
+          <text>The preferred option contains the following features:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>it provides for a statute that incorporates modern public law principles and rules and that recognises the realities of modern public administration:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>unlike the 1908 Act, the statute will place less emphasis on a legalistic and adversarial approach to inquiries while providing them with all the tools to effectively and efficiently fulfil their tasks:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>it provides for a more flexible legislative framework with different forms of inquiry, designed to be used for matters with different levels of complexity and public importance, where authoritative, independent answers are required.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.subhead2>Financial implications</explnote.subhead2>
+        <para>
+          <text>It is difficult to assess the financial implications of these proposals since costs will be dependent on how many inquiries are set up in the future and on the nature and complexity of those inquiries.</text>
+        </para>
+        <para>
+          <text>However, the new Act would abandon elements of the existing legislation that emphasise a legalistic approach to inquiries. It will provide an opportunity for a fresh approach to the way inquiries are conducted in the future. If a change in the approach to inquiries is achieved under the new Act, there may be cost savings to government in the administration of inquiries, and to those who are required to participate in them.</text>
+        </para>
+        <para>
+          <text>In addition, there may be cost savings in respect of inquiries that would previously have been conducted outside a legislative framework. Under the new Act, such inquiries will now have access to the powers to enable them to conduct their tasks more effectively and efficiently.</text>
+        </para>
+        <para>
+          <text>While it is not possible to say whether more or fewer inquiries will take place in the future, certain elements of the proposed Act could impose additional financial and compliance costs. First, it is proposed that there be a statutory power for an inquiry to recommend to its overseeing department that funding for legal advice and representation be provided to participants in limited circumstances. This has taken place in the past as a matter of practice, and has tended to be funded from the inquiry’s budget. However, express provision for funding under the Act is likely to lead to an increase in requests for funding. Depending on how the discretion is exercised, this could lead to an increase in costs.</text>
+        </para>
+        <para>
+          <text>Secondly, the Law Commission has recommended that the role of the Department of Internal Affairs in administering inquiries should be formalised. The Department has tended to oversee most commissions of inquiry, Royal commissions, and some non-statutory ministerial inquiries in the past.</text>
+        </para>
+        <para>
+          <text>The Department incurs costs in the set-up phase of inquiries and after the inquiry has completed its task but is not currently funded through baselines for these. One element of its role has been to administer the transfer of inquiry documentation to Archives New Zealand. The proposed Act would also formalise this role and would require the Department, in consultation with the inquiry, to specify dates on which access to suppressed material should be allowed.</text>
+        </para>
+        <para>
+          <text>As a result, it is possible that the costs incurred by the Department will increase. It is proposed that these issues and their financial implications will be dealt with in a subsequent cabinet paper.</text>
+        </para>
+        <explnote.subhead2>Royal commissions </explnote.subhead2>
+        <para>
+          <text>Within the preferred option there are 2 further alternatives, relating to the retention or otherwise of a statutory form of Royal commission. At present, Royal commissions are appointed by the Governor-General by Order in Council, acting under the Letters Patent. Otherwise, all the provisions of the 1908 Act apply to them. Thus, presently, there are no significant legal distinctions between commissions of inquiry and Royal commissions.</text>
+        </para>
+        <para>
+          <text>The Law Commission concluded that the retention of Royal commissions would add unnecessary complexity to the inquiry landscape. It considered that the provisions of the new Act should not apply to Royal commissions. This, it hoped, would also assist in the aim of modernising the law relating to inquiries. It noted that statute law has now replaced the Royal prerogative in most areas and that there would be no legal distinction between its proposed public inquiry and Royal commissions.</text>
+        </para>
+        <para>
+          <text>This option would mean that, while Royal commissions could still be appointed under the Letters Patent, none of the provisions of the new Act would apply. If any Royal commissions were appointed in the future, they would operate as a form of non-statutory inquiry. It would be desirable, therefore, for the practice of appointing Royal commissions to cease.</text>
+        </para>
+        <para>
+          <text>The alternative view is that the new Act should apply to Royal commissions in a similar way as the 1908 Act does at present. In response to the Law Commission’s draft report, the Department of Internal Affairs, Crown Law, and the Cabinet Office were in favour of retaining Royal commissions because they are perceived by the public to have added gravitas. One of the purposes of inquiries is to reassure the public that a matter is being given serious, independent consideration and there are some occasions where only the appointment of a Royal commission will provide that reassurance.</text>
+        </para>
+        <para>
+          <text>There is, therefore, a valid policy reason for retaining Royal commissions. It is therefore proposed that they should be included in the new Act in a similar manner to the existing position under the 1908 Act. Thus, Royal commissions would be appointed by the Governor-General in Council under the Letters Patent. In every other aspect they would be treated in the same way as public inquiries. All the powers and protections of the new Act would apply. The result would be that the new Act would allow for 3 forms of statutory inquiry.</text>
+        </para>
+        <para>
+          <text>There is no difference in respect of compliance costs between these 2 alternatives.</text>
+        </para>
+        <para>
+          <text>However, there is a risk that the culture change that the Law Commission hopes will result from the introduction of a new Act will be harder to achieve if Royal commissions are retained.</text>
+        </para>
+        <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
+        <para>
+          <text>The Law Commission consulted widely between 2006 and 2008. It met with and received written submissions from members of the public, past inquirers, those who have participated in inquiries, and the following government agencies (see also NZLC R 102, pp 7–8): Archives New Zealand, Cabinet Office, Crown Law, Department of Internal Affairs, Department of Prime Minister and Cabinet, Gambling Commission, Ministry of Justice, Ministry of Social Development, Office of the Auditor-General, Office of the Ombudsmen, State Services Commission, Statistics New Zealand, Transport Accident Investigation Commission, and The Treasury.</text>
+        </para>
+        <para>
+          <text>Particular concerns were raised in relation to the retention or otherwise of Royal commissions; and the need for a form of statutory inquiry that can be appointed by a Minister alone. As noted above, in response to these concerns it is proposed that the new Act should provide for 2 forms of inquiry, and that government inquiries should be appointed by a Minister alone. It is also proposed that the provisions of the new Act should apply to Royal commissions.</text>
+        </para>
+        <para>
+          <text>The following agencies have been consulted in respect of the Cabinet Paper and this regulatory impact statement: Archives New Zealand, Cabinet Office, Crown Law, Department of Internal Affairs, Department of Prime Minister and Cabinet, Ministry of Justice, State Services Commission, and The Treasury.</text>
+        </para>
+      </explnote.ris>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from a select committee</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM1566106">
-    <member>Hon Nathan Guy</member>
+    <member>Hon Rick Barker</member>
     <title>Inquiries Bill</title>
     <billtype>Government Bill</billtype>
   </cover>
@@ -240,7 +565,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM1566111" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="2" year="2008">
+    <part id="DLM1566111" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Preliminary provisions</heading>
       <prov id="DLM1566112" irdnumbering="no" skeleton="no" toc="yes">
@@ -432,7 +757,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM1566135" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="2" year="2008">
+    <part id="DLM1566135" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Establishment and membership of inquiry</heading>
       <prov id="DLM1566136" irdnumbering="no" skeleton="no" toc="yes">
@@ -568,29 +893,23 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
             <para>
-              <text>A member of an inquiry may be removed under <changeable><citation jurisdiction="nz">subsection (1) or (2)</citation></changeable>, as the case may be, <insertwords amend.level1="insert-unanimous">but </insertwords>only<struckoutwords amend.level1="struckout-unanimous"> if the member</struckoutwords>—</text>
-              <label-para amend.level1="struckout-unanimous" skeleton="no">
-                <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="struckout-unanimous">
+              <text>A member of an inquiry may be removed under <changeable><citation jurisdiction="nz">subsection (1) or (2)</citation></changeable>, as the case may be, only if the member—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
                   <text>has, since his or her appointment, been guilty of misconduct; or</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="insert-unanimous">
-                  <text>due to the misconduct of the member; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
                 <para>
-                  <text><insertwords amend.level1="insert-unanimous">if the member </insertwords>is unable to perform the functions of office; or</text>
+                  <text>is unable to perform the functions of office; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">c</label>
                 <para>
-                  <text><insertwords amend.level1="insert-unanimous">if the member </insertwords>has neglected his or her duty.</text>
+                  <text>has neglected his or her duty.</text>
                 </para>
               </label-para>
             </para>
@@ -652,7 +971,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM1566140" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="2" year="2008">
+    <part id="DLM1566140" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Duties, powers, immunities, and privileges</heading>
       <crosshead id="DLM1566141" toc="yes">Duties and powers of inquiry generally</crosshead>
@@ -899,16 +1218,10 @@
                       <text>any report or account of the evidence or submissions:</text>
                     </para>
                   </label-para>
-                  <label-para amend.level1="struckout-unanimous" skeleton="no">
-                    <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">iii</label>
-                    <para amend.level1="struckout-unanimous">
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">iii</label>
+                    <para>
                       <text>the name of any witness or any name or particulars likely to lead to the identification of a witness:</text>
-                    </para>
-                  </label-para>
-                  <label-para amend.level1="insert-unanimous" skeleton="no">
-                    <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">iii</label>
-                    <para amend.level1="insert-unanimous">
-                      <text>the name or other particulars likely to lead to the identification of a witness or other person participating in the inquiry (other than counsel):</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no">
@@ -1481,12 +1794,12 @@
       </prov>
       <prov id="DLM1566168" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">28</label>
-        <heading><insertwords amend.level1="insert-unanimous">Other </insertwords>immunities and privileges<struckoutwords amend.level1="struckout-unanimous"> of witnesses and counsel</struckoutwords><insertwords amend.level1="insert-unanimous"> of participants</insertwords></heading>
+        <heading>Immunities and privileges of witnesses and counsel</heading>
         <prov.body>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>Witnesses<insertwords amend.level1="insert-unanimous"> and other persons</insertwords> participating in an inquiry<insertwords amend.level1="insert-unanimous"> (other than counsel)</insertwords> have the same immunities and privileges as if they were appearing in civil proceedings and the provisions of subpart 8 of Part 2 of the Evidence Act 2006 apply to the inquiry, to the extent that they are relevant, as if— </text>
+              <text>Witnesses participating in an inquiry have the same immunities and privileges as if they were appearing in civil proceedings and the provisions of subpart 8 of Part 2 of the Evidence Act 2006 apply to the inquiry, to the extent that they are relevant, as if— </text>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
@@ -1510,10 +1823,10 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM1566169" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="2" year="2008">
+    <part id="DLM1566169" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">4</label>
       <heading>Sanctions and miscellaneous matters </heading>
-      <subpart id="DLM1566170" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="2" year="2008">
+      <subpart id="DLM1566170" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="1" year="2008">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Sanctions able to be imposed by or on behalf of inquiry </heading>
         <crosshead id="DLM1566171" toc="yes">Orders for award of costs</crosshead>
@@ -1573,18 +1886,6 @@
               <label auto.number="no" denominator="yes">4</label>
               <para>
                 <text>An order for an award of costs made under this section, if filed in the registry of any court of competent jurisdiction, becomes enforceable as a judgment of that court in its civil jurisdiction.</text>
-              </para>
-            </subprov>
-            <subprov amend.level1="insert-unanimous" skeleton="no">
-              <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">5</label>
-              <para amend.level1="insert-unanimous">
-                <text>A person who is dissatisfied with an order made under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> may appeal the order to the High Court on a question of fact or law.</text>
-              </para>
-            </subprov>
-            <subprov amend.level1="insert-unanimous" skeleton="no">
-              <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">6</label>
-              <para amend.level1="insert-unanimous">
-                <text>A decision of the High Court on appeal under this section is final.</text>
               </para>
             </subprov>
           </prov.body>
@@ -1712,7 +2013,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart id="DLM1566178" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="2" year="2008">
+      <subpart id="DLM1566178" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="283" bill.type="government" stage="1" year="2008">
         <label auto.number="no" denominator="yes">2</label>
         <heading>Miscellaneous matters</heading>
         <crosshead id="DLM1566179" toc="yes">Official Information Act 1982 and Public Records Act 2005</crosshead>
@@ -1733,7 +2034,7 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
-                    <text>any <struckoutwords amend.level1="struckout-unanimous">evidence or submissions </struckoutwords><insertwords amend.level1="insert-unanimous">matter </insertwords>subject to an order under <changeable><citation jurisdiction="nz">section 15(1)<insertwords amend.level1="insert-unanimous">(a)</insertwords></citation></changeable>:</text>
+                    <text>any evidence or submissions subject to an order under <changeable><citation jurisdiction="nz">section 15(1)</citation></changeable>:</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
@@ -1758,86 +2059,38 @@
             </subprov>
           </prov.body>
         </prov>
-        <prov amend.level1="struckout-unanimous" id="DLM1566181" irdnumbering="no" skeleton="no" toc="yes">
-          <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">34</label>
-          <heading amend.level1="struckout-unanimous">Application of Public Records Act 2005</heading>
+        <prov id="DLM1566181" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">34</label>
+          <heading>Application of Public Records Act 2005</heading>
           <prov.body>
-            <subprov amend.level1="struckout-unanimous" skeleton="no">
-              <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">1</label>
-              <para amend.level1="struckout-unanimous">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
                 <text>An inquiry is a public office for the purposes of the Public Records Act 2005.</text>
               </para>
             </subprov>
-            <subprov amend.level1="struckout-unanimous" skeleton="no">
-              <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">2</label>
-              <para amend.level1="struckout-unanimous">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
                 <text>All documents and things created by an inquiry or received in the course of an inquiry—</text>
-                <label-para amend.level1="struckout-unanimous" skeleton="no">
-                  <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">a</label>
-                  <para amend.level1="struckout-unanimous">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
                     <text>are public records for the purposes of the Public Records Act 2005; and</text>
                   </para>
                 </label-para>
-                <label-para amend.level1="struckout-unanimous" skeleton="no">
-                  <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">b</label>
-                  <para amend.level1="struckout-unanimous">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
                     <text>when the inquiry has reported in accordance with <changeable><citation jurisdiction="nz">section 12</citation></changeable>, must be transferred by the relevant department, after consultation with the inquiry, to Archives New Zealand for management in accordance with the Public Records Act 2005.</text>
                   </para>
                 </label-para>
               </para>
             </subprov>
-            <subprov amend.level1="struckout-unanimous" skeleton="no">
-              <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">3</label>
-              <para amend.level1="struckout-unanimous">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
                 <text>If any documents or things are classified as restricted access records within the meaning of the Public Records Act 2005, the relevant department, after consultation with the inquiry, must specify the date on which that classification must be withdrawn.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov amend.level1="insert-unanimous" id="DLM2555201" irdnumbering="no" skeleton="no" toc="yes">
-          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">34</label>
-          <heading amend.level1="insert-unanimous">Application of Public Records Act 2005</heading>
-          <prov.body>
-            <subprov amend.level1="insert-unanimous" skeleton="no">
-              <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">1</label>
-              <para amend.level1="insert-unanimous">
-                <text>An inquiry is a public office for the purposes of the Public Records Act 2005.</text>
-              </para>
-            </subprov>
-            <subprov amend.level1="insert-unanimous" skeleton="no">
-              <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">2</label>
-              <para amend.level1="insert-unanimous">
-                <text>As soon as is reasonably practicable after an inquiry has reported under <changeable><citation jurisdiction="nz">section 12,</citation></changeable>—</text>
-                <label-para amend.level1="insert-unanimous" skeleton="no">
-                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">a</label>
-                  <para amend.level1="insert-unanimous">
-                    <text>the Chief Archivist must authorise the disposal of the public records of the inquiry under section 20 of the Public Records Act 2005; and</text>
-                  </para>
-                </label-para>
-                <label-para amend.level1="insert-unanimous" skeleton="no">
-                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">b</label>
-                  <para amend.level1="insert-unanimous">
-                    <text>the relevant department must dispose of the public records of that inquiry in accordance with the authority issued by the Chief Archivist.</text>
-                  </para>
-                </label-para>
-              </para>
-            </subprov>
-            <subprov amend.level1="insert-unanimous" skeleton="no">
-              <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">3</label>
-              <para amend.level1="insert-unanimous">
-                <text>The Chief Archivist may accept the transfer of any things from an inquiry to the control of the Chief Archivist, even though that thing is not a public record.</text>
-              </para>
-            </subprov>
-            <subprov amend.level1="insert-unanimous" skeleton="no">
-              <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">4</label>
-              <para amend.level1="insert-unanimous">
-                <text>In determining, for the purposes of Part 3 of the Public Records Act 2005, the access status of the public records or any things transferred to the control of the Chief Archivist under this section, the relevant department must take into account any order made by the inquiry under <changeable><citation jurisdiction="nz">section 15(1)</citation></changeable>.</text>
-              </para>
-            </subprov>
-            <subprov amend.level1="insert-unanimous" skeleton="no">
-              <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">5</label>
-              <para amend.level1="insert-unanimous">
-                <text>In this section, <def-term id="DLM2555202">public record</def-term> has the meaning it is given in section 4 of the Public Records Act 2005.</text>
               </para>
             </subprov>
           </prov.body>
@@ -1999,7 +2252,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule id="DLM1566191" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="283" bill.type="government" stage="2" year="2008">
+    <schedule id="DLM1566191" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="283" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">1 </label>
       <empowering-prov>
         <changeable>
@@ -2317,7 +2570,7 @@
         </para>
       </schedule.misc>
     </schedule>
-    <schedule id="DLM1566193" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="283" bill.type="government" stage="2" year="2008">
+    <schedule id="DLM1566193" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="283" bill.type="government" stage="1" year="2008">
       <label auto.number="no" denominator="yes">2 </label>
       <empowering-prov>
         <changeable>
@@ -2335,8 +2588,8 @@
                 <label auto.number="no" denominator="yes" quote="1">2A</label>
                 <heading>Application of this Act and relationship to Inquiries Act 2008</heading>
                 <prov.body>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="no"/>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="no" quote="1"/>
                     <para>
                       <text>This Act applies to—</text>
                       <label-para quote="1" skeleton="no">
@@ -2355,20 +2608,6 @@
                   </subprov>
                 </prov.body>
               </prov>
-            </amend>
-          </para>
-        </schedule.amendments.group2>
-        <schedule.amendments.group2 amend.level1="insert-unanimous" id="DLM2555203" toc="yes">
-          <heading amend.level1="insert-unanimous">Copyright Act 1994 (1994 No 143)</heading>
-          <para amend.level1="insert-unanimous">
-            <text>Section 27(1): add <amend.in quote="1">; or</amend.in> and the following paragraph:</text>
-            <amend amend.level1="insert-unanimous" increment="1" quote="1">
-              <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">i</label>
-                <para amend.level1="insert-unanimous">
-                  <text>reports of any inquiry established under <changeable><citation jurisdiction="nz">section 6</citation></changeable> of the Inquiries Act <changeable><citation jurisdiction="nz">2008</citation></changeable>.</text>
-                </para>
-              </label-para>
             </amend>
           </para>
         </schedule.amendments.group2>
@@ -2519,13 +2758,13 @@
                   <label-para quote="1" skeleton="no">
                     <label auto.number="no" denominator="yes" quote="1">i</label>
                     <para>
-                      <text><struckoutwords amend.level1="struckout-unanimous">evidence or submissions </struckoutwords><insertwords amend.level1="insert-unanimous">any mattter </insertwords>subject to an order <struckoutwords amend.level1="struckout-unanimous">made </struckoutwords>under <changeable><citation jurisdiction="nz">section<struckoutwords amend.level1="struckout-unanimous"> 14(1)</struckoutwords><insertwords amend.level1="insert-unanimous"> 15(1)(a)</insertwords></citation></changeable> of the Inquiries Act <changeable>2008</changeable>; or</text>
+                      <text>evidence or submissions subject to an order made under <changeable><citation jurisdiction="nz">section 14(1)</citation></changeable> of the Inquiries Act <changeable>2008</changeable>; or</text>
                     </para>
                   </label-para>
                   <label-para quote="1" skeleton="no">
                     <label auto.number="no" denominator="yes" quote="1">ii</label>
                     <para>
-                      <text>documents referred to in <changeable><citation jurisdiction="nz">section<struckoutwords amend.level1="struckout-unanimous"> 32</struckoutwords><insertwords amend.level1="insert-unanimous"> 33</insertwords>(2)(b)</citation></changeable> of the Inquiries Act <changeable>2008</changeable>; and</text>
+                      <text>documents referred to in <changeable><citation jurisdiction="nz">section 32(2)(b)</citation></changeable> of the Inquiries Act <changeable>2008</changeable>; and</text>
                     </para>
                   </label-para>
                 </para>
@@ -2611,17 +2850,5 @@
       </schedule.amendments>
     </schedule>
   </schedule.group>
-  <end id="DLM2555204">
-    <leg-history id="DLM2555205">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2008-09-29</date>
-        <description>Introduction (Bill 283–1)</description>
-      </history-item>
-      <history-item>
-        <date>2009-07-28</date>
-        <description>First reading and referral to Government Administration Committee</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
+<!--End of file, do NOT remove.-->
