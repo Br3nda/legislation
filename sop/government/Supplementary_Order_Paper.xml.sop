@@ -1,21 +1,221 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1184500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="178">
-  <date>Tuesday, 4 March 2008</date>
-  <billref>Broadcasting Amendment Bill</billref>
-  <body id="DLM1184501">
-    <heading>Proposed amendment</heading>
-    <motion>Hon Trevor Mallard, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM1184502">
-      <clause.ref>Clause 6(4)</clause.ref>
+<sop id="DLM1580600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="244">
+  <date>Tuesday, 2 September 2008</date>
+  <billref>Commerce Amendment Bill</billref>
+  <body id="DLM1580601">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Lianne Dalziel, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1580602">
+      <clause.ref>Clause 4: new section 52S(1)(b)</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">New paragraph (b)(ii)</emphasis>: to insert after <amend.in quote="1">demand</amend.in> (line 17 on page 3) <amend.in quote="1">to</amend.in>.</text>
+        <text><emphasis style="italic">Subparagraph (i)</emphasis> : to insert after “prices” (line 29 on page 22) the words “(which may not include the legal costs of any appeals against input methodology determinations under this Part or of any appeals under section 91 or section 97)”.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1580603">
+      <clause.ref>Clause 4: new section 53P</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (5)</emphasis>: to omit <amend.in quote="1">service</amend.in> (line 17 on page 38) and substitute <amend.in quote="1">services</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (5A)</emphasis>: to insert the following subsection after <emphasis style="italic">subsection (5)</emphasis> (after line 19 on page 38):</text>
+        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">5A</label>
+            <para>
+              <text>When setting the rate of change, the Commission may take into account the effects of inflation on the inputs of suppliers of the relevant goods or services.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1580604">
+      <clause.ref>Clause 4: new section 54B</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (2)(f) to (h)</emphasis>: to omit these paragraphs (lines 16 to 22 on page 50) and substitute the following paragraphs: </text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">f</label>
+            <para>
+              <text>conveying electricity if the total circuit length of all of the prescribed voltage electric lines provided by the supplier (or over which electricity is conveyed by the supplier, as the case may be) is less than 25 kilometres:</text>
+            </para>
+          </label-para>
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">g</label>
+            <para>
+              <text>conveying electricity if the total amount of electricity conveyed to consumers by the supplier is less than 20 gigawatt hours per annum:</text>
+            </para>
+          </label-para>
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">h</label>
+            <para>
+              <text>conveying electricity if the total number of consumers to whom the supplier conveys electricity is less than 500. </text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (2A)</emphasis>: To insert the following subsection after subsection (2) (after line 22 on page 50):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">2A</label>
+            <para>
+              <text>The prescribed voltage electric lines, the electricity conveyed, or the number of consumers to whom electricity is conveyed, when measured in relation to a supplier include, for the purposes of <changeable><citation jurisdiction="nz">subsection (2)(f) to (h)</citation></changeable>, the lines provided by, electricity conveyed by, or number of consumers of, any associate of the supplier.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1580605">
+      <clause.ref>Clause 4: new section 54T</clause.ref>
+      <sop.para>
+        <text>To omit this section (lines 1 to 21 on page 66) and substitute the following section: </text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <prov id="DLM1580606" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes" quote="1">54T</label>
+            <heading>Procedure before jurisdiction order can be made</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>The Minister of Energy may make a recommendation for the purpose of <changeable><citation jurisdiction="nz">section 54R </citation></changeable> only if—</text>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
+                    <para>
+                      <text>he or she has consulted with Transpower, users of the national grid, and representatives of consumers; and </text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
+                    <para>
+                      <text>he or she has consulted with the Electricity Commission and the Commerce Commission and has sought a recommendation from each of them; and </text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">c</label>
+                    <para>
+                      <text>he or she is satisfied that the transfer of jurisdiction that would occur would result in— </text>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">i</label>
+                        <para>
+                          <text>the purpose of this Part being achieved more efficiently and effectively; and </text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">ii</label>
+                        <para>
+                          <text>the purposes of the Electricity Act 1992, as it applies to Transpower, being achieved more efficiently and effectively; and </text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">iii</label>
+                        <para>
+                          <text>lower compliance costs for Transpower.</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1580607">
+      <clause.ref>Clause 4: new section 55A</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (2)(b) and (c)</emphasis>: to omit these paragraphs (line 34 on page 68 to line 3 on page 69) and substitute the following paragraph: </text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">b</label>
+            <para>
+              <text>conveying natural gas if the total amount of gas conveyed to consumers by the supplier is less than 75 000 gigajoules per annum:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (2A)</emphasis>: to insert the following subsection after subsection (2) (after line 5 on page 69): </text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">2A</label>
+            <para>
+              <text>The gas conveyed, when measured in relation to a supplier includes, for the purposes of <changeable><citation jurisdiction="nz">subsection (2)(b)</citation></changeable>, the gas conveyed by any associate of the supplier.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (3)</emphasis>: to insert the following definition before the definition of <emphasis style="bold">consumer</emphasis> (after line 6 on page 69): </text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <def-para id="DLM1580608" quote="1">
+            <para quote="1">
+              <text><def-term id="DLM1580609">associate</def-term> has the same meaning as in section 12 of the Electricity Industry Reform Act 1998</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1580610">
+      <clause.ref>Schedule: item relating to Methanex New Zealand Limited in new Schedule 6</clause.ref>
+      <sop.para>
+        <text>To insert the following item after the second item in the second column (page 100): </text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Faull Road Mixing Station–Motunui Plant main process gas pipeline</text>
+              </para>
+            </item>
+          </list>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1184503" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="178">
+  <explnote id="DLM1580611" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="244">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Broadcasting Amendment Bill. The amendment inserts <quote.in quote="1">to</quote.in> after <quote.in quote="1">demand</quote.in> in <emphasis style="italic">new paragraph (b)(ii)</emphasis> of section 37 (as amended by <emphasis style="italic">clause 6(4)</emphasis>), as recommended by the Commerce Committee.</text>
+      <text>This Supplementary Order Paper proposes a number of changes as follows: </text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text><emphasis style="italic">section 52S(1)(b)(i)</emphasis>: the Bill currently provides for input methodologies to identify any costs that can be passed through to prices. The amendment clarifies that input methodologies cannot provide for the legal costs of appeals to be passed through to prices:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text><emphasis style="italic">section 53P</emphasis>: the amendment to <emphasis style="italic">subsection (5)</emphasis> corrects an error. New <emphasis style="italic">subsection (5A)</emphasis> confirms that, when resetting the rate of change applying to suppliers subject to default price-quality regulation, the Commission may take into account the effects of inflation on suppliers' inputs:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text><emphasis style="italic">section 54B</emphasis>: these amendments  tidy up the definitions of some of the electricity lines services that are exempted from the provisions of <emphasis style="italic">subpart 9</emphasis>:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text><emphasis style="italic">section 54T</emphasis>: this amendment replaces the new criteria section for decisions on whether the Commerce Commission's jurisdiction under Part 4 should be transferred to the Electricity Commission. The Bill as introduced provided powers to transfer jurisdiction for all or any electricity lines services. The Commerce Select Committee recommended that the power to transfer jurisdiction (<emphasis style="italic">section 54R</emphasis>) be limited to Transpower only, so this SOP makes a consequential change to <emphasis style="italic">section 54T</emphasis> to limit the criteria and consultation requirements to Transpower and transmission issues:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text><emphasis style="italic">section 55A</emphasis>: these amendments remove <emphasis style="italic">subsection (2)(c)</emphasis>, which exempted from the provisions of <emphasis style="italic">subpart 10</emphasis> gas pipeline services that convey natural gas for supply to industrial and commercial consumers located within 1 kilometre of a gas station or existing gas pipeline. The Commerce Commission has advised that <emphasis style="italic">subsection (2)(c)</emphasis> would be difficult to administer. Suppliers of affected pipelines would be able to apply for inclusion in the Schedule of excluded pipelines (which is <emphasis style="italic">Schedule 6</emphasis>). The amendments also tidy up another of the definitions of the gas pipeline services that are exempted from the provisions of <emphasis style="italic">subpart 10</emphasis>:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text><emphasis style="italic">Schedule 6</emphasis>: this amendment reinstates the exemption for the Faull Road Mixing Station–Motunui Plant main process gas pipeline, currently owned by Methanex. The reinstatement has the effect of exempting this pipeline from the provisions of <emphasis style="italic">subpart 10</emphasis>. Apparently, there are 2 parallel pipelines from Faull Road to the Motunui plant, only one of which is now owned by Energy Infrastructure Limited and Petroleum Infrastructure Limited.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
