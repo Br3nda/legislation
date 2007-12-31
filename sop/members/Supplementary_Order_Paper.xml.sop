@@ -1,79 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1564300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Members" sop.no="228">
-  <date>Tuesday, 26 August 2008</date>
-  <billref>Organised Crime (Penalties and Sentencing) Bill</billref>
-  <body id="DLM1564301">
-    <heading>Proposed motion to divide Bill into 2 Bills</heading>
-    <motion>Hon Annette King, in Committee, to move as follows:</motion>
-    <sop.split>
-      <para>
-        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
-        <prov id="DLM1564302" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="yes">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act is the Crimes Amendment Act <changeable>(No 4) </changeable> <changeable>2008</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1564303" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="yes">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act comes into force on 31 October 2008.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
-        <prov id="DLM1564304" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="yes">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act is the Sentencing Amendment Act <changeable>(No 4) </changeable> <changeable>2008</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1564305" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="yes">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act comes into force on 31 October 2008.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
+<sop id="DLM1460800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0003" stage="published" year="2008" raised.by="Members" sop.no="219">
+  <date>Wednesday, 30 July 2008</date>
+  <billref>Waste Minimisation Bill</billref>
+  <body id="DLM1460801">
+    <heading>Proposed amendment to definition of waste </heading>
+    <motion>Nicky Wagner, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM1460802">
+      <clause.ref>Clause 5</clause.ref>
+      <sop.para>
+        <text>To omit from the definition of <def-term id="DLM1461400">waste</def-term>: paragraph (a) (lines 3 to 7 on page 13) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">a</label>
+            <para>
+              <text>means anything that has been disposed of or discarded.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM1564306" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Members" sop.no="228">
+  <explnote id="DLM1460803" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2008" raised.by="Members" sop.no="219">
     <heading>Explanatory note</heading>
     <para>
-      <text>This motion divides the Organised Crime (Penalties and Sentencing) Bill into 2 separate Bills, amending the Crimes Act 1961 and the Sentencing Act 2002.</text>
+      <text>This Supplementary Order Paper amends the Waste Minimisation Bill. The proposed amendment narrows the definition of waste by excluding recovered resources for reuse, recycling, or further treatment.</text>
     </para>
   </explnote>
 </sop>
