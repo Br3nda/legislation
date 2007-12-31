@@ -1,142 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1240700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="196">
-  <date>Tuesday, 8 April 2008</date>
-  <billref>New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Bill</billref>
-  <body id="DLM1240701">
+<sop id="DLM1229500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0007" stage="published" year="2008" raised.by="Government" sop.no="194">
+  <date>Tuesday, 1 April 2008</date>
+  <billref>   Biosecurity and Hazardous Substances and New Organisms Legislation Amendment Bill</billref>
+  <body id="DLM1229501">
     <heading>Proposed amendments</heading>
-    <motion>Hon David Parker, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1240702">
-      <clause.ref>Clause 2</clause.ref>
+    <motion>Hon Jim Anderton, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM1229502">
+      <clause.ref>Clause 7A</clause.ref>
       <sop.para>
-        <text>To omit this clause (lines 6 and 7 on page 3) and substitute the following clause:</text>
-      </sop.para>
-      <sop.para>
+        <text>To omit this clause (lines 13 to 19 on page 4) and substitute the following clause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1240703" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">2</label>
-            <heading>Commencement</heading>
+          <prov id="DLM1229503" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">7A</label>
+            <heading>Suspension of power to give biosecurity clearance</heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="yes" denominator="yes"/>
                 <para>
-                  <text>This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes.</text>
+                  <text>Despite <changeable><citation jurisdiction="nz">section 7</citation></changeable>, no biosecurity clearance may be given under section 26 of the principal Act for any goods to which the <emphasis style="italic">Import Health Standard for the Importation into New Zealand of specified Bee Products from Australia</emphasis>, dated 2 August 2006 applies until the Director-General has—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>received a report from an independent review panel set up in consultation with the National Beekeepers Association of New Zealand to consider the scientific evidence in dispute in relation to that import health standard; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>determined whether any amendment to that import health standard is necessary to achieve the purpose of Part 3 of the principal Act; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>publicly notified that determination.</text>
+                    </para>
+                  </label-para>
                 </para>
               </subprov>
             </prov.body>
           </prov>
         </instrument.amend>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1240704">
-      <clause.ref>Clause 4</clause.ref>
-      <sop.para>
-        <text>To insert the following definition in its appropriate alphabetical order:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <def-para id="DLM1240705">
-            <para>
-              <text><def-term id="DLM1240706">Antarctica</def-term> has the same meaning as in section 2(1) of the Antarctica Act 1960</text>
-            </para>
-          </def-para>
-        </instrument.amend>
-        <follow-text space-before="no">.</follow-text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1240707">
-      <clause.ref>Clause 8</clause.ref>
-      <sop.para>
-        <text>To insert the following subclause after <emphasis style="italic">subclause (1)</emphasis> (after line 15 on page 8):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes">1A</label>
-            <para>
-              <text>In addition, the Board may exercise its powers and carry out its functions and duties under this Act, as far as they are relevant, in relation to those parts of Antarctica outside the Ross Dependency.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1240708">
-      <clause.ref>Clause 24(1)</clause.ref>
-      <sop.para>
-        <text>To omit <amend.in quote="1"><changeable>10(1)(b) and (d)</changeable></amend.in> (line 16 on page 15) and substitute <quote.in quote="1"><changeable>10(1)(b) or (d)</changeable></quote.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1240709">
-      <clause.ref>Clause 25(2)(a)</clause.ref>
-      <sop.para>
-        <text>To omit this paragraph (lines 36 and 37 on page 15) and substitute the following paragraph:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">a</label>
-            <para>
-              <text>consult with any relevant national and international naming authorities that it considers appropriate; and</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-        <follow-text space-before="no">.</follow-text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1240710">
-      <clause.ref>Clause 35(1)(a)</clause.ref>
-      <sop.para>
-        <text>To omit <quote.in quote="1">the Ross Dependency</quote.in> (line 26 on page 19) and substitute <quote.in quote="1">Antarctica</quote.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1240711">
-      <clause.ref>Schedule 1: clause 5</clause.ref>
       <sop.para/>
-      <sop.para>
-        <text><emphasis style="italic">Paragraph (b) </emphasis>: to omit <amend.in quote="1">the Antarctic</amend.in> and substitute <quote.in quote="1">Antarctica; and</quote.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text>To insert the following paragraph after <emphasis style="italic">paragraph (b)</emphasis> (after line 14 on page 23):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">c</label>
-            <para>
-              <text>if any committee is appointed, the chair of that committee.</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1240712" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="196">
+  <explnote id="DLM1229504" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0007" stage="published" year="2008" raised.by="Government" sop.no="194">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper makes the following changes to the Bill as introduced:</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>it changes the commencement date to a date to be appointed by the Governor-General by Order in Council, to ensure that the Act does not come into force until the requisite funding is allocated to enable the Board to undertake its additional functions under this Bill:</text>
-          </para>
-        </item>
-      </list>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>it provides a new definition and several corrections to specify the scope of the jurisdiction of the Board in terms of the Antarctica Act 1960 and to correct the citation of that place name:</text>
-          </para>
-        </item>
-      </list>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the change to <emphasis style="italic">clause 25</emphasis> clarifies the scope of the consultation required by that provision:</text>
-          </para>
-        </item>
-      </list>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the change to <emphasis style="italic">clause 5 of Schedule 1</emphasis> clarifies that the Board must appoint the chair of any committee that is established.</text>
-          </para>
-        </item>
-      </list>
+      <text>This Supplementary Order Paper amends <emphasis style="italic">clause 7A</emphasis> to provide that no biosecurity clearances may be given until an independent review panel has conducted a review, as provided for in <emphasis style="italic">paragraph (a)</emphasis>, and the Director-General has made, and publicly notified, the necessary determination.</text>
     </para>
   </explnote>
 </sop>
