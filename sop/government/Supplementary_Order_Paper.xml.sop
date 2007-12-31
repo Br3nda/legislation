@@ -1,45 +1,780 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1315700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="203">
-  <date>Tuesday, 13 May 2008</date>
-  <billref>Mauao Historic Reserve Vesting Bill</billref>
-  <body id="DLM1315701">
+<sop id="DLM1404900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="212">
+  <date>Tuesday, 1 July 2008</date>
+  <billref>Minimum Wage and Remuneration Amendment Bill</billref>
+  <body id="DLM1404901">
     <heading>Proposed amendments</heading>
-    <motion>Hon Parekura Horomia, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1315702">
-      <clause.ref>Schedule 2: clause 2</clause.ref>
+    <motion>Darien Fenton, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1404902">
+      <clause.ref>Clause 1</clause.ref>
       <sop.para>
-        <text>To omit this clause (lines 16 to 20 on page 13) and substitute the following clause:</text>
+        <text>To insert <amend.in quote="1">the</amend.in> before <quote.in quote="1">Minimum</quote.in> (line 3 on page 2).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404903">
+      <clause.ref>Part 1 heading</clause.ref>
+      <sop.para>
+        <text>To omit this heading (lines 5 and 6 on page 2).</text>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following heading after <emphasis style="italic">clause 2</emphasis> (after line 9 on page 2):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1315703" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">
-              <emphasis style="roman">2</emphasis>
-            </label>
+          <part id="DLM1404904" in.amend="false" irdnumbering="no" raised.by="Government" sop.no="212" toc="yes" year="2008">
+            <label auto.number="no" denominator="yes">1</label>
+            <heading>Preliminary provisions</heading>
+          </part>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404905">
+      <clause.ref>Clause 2</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">the day after the date on which it receives the Royal assent</amend.in> (lines 8 and 9 on page 2) and substitute <amend.in quote="1"><changeable>1 April 2009</changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404906">
+      <clause.ref>Clause 3</clause.ref>
+      <sop.para>
+        <text>To insert <amend.in quote="1">the Act that was previously called</amend.in> after <quote.in quote="1">amends</quote.in> (line 11 on page 2).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404907">
+      <clause.ref>Clause 4</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 12 to 16 on page 2) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1404908" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">4</label>
+            <heading>Purpose</heading>
             <prov.body>
-              <para>
-                <text>The right of the Tauranga City Council to retain and maintain on Mauao historic reserve—</text>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">a</label>
-                  <para>
-                    <text>the existing water reservoir (comprising 2437 square metres, being Section 1 SO Plan 400511) for a 60-year period (by lease dated 18 April 2008, granted by the Department of Conservation to Tauranga City Council); and</text>
-                  </para>
-                </label-para>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">b</label>
-                  <para>
-                    <text>the associated water and power supply lines (comprising  5733  square metres, being Areas A, C, D, and E DP 368290 and 2731 square metres, being Areas A and B SO Plan 400511) for a 60-year period (by lease dated 18 April 2008, granted by the Department of Conservation to Tauranga City Council).</text>
-                  </para>
-                </label-para>
-              </para>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>The purpose of this Act is to—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>rename the principal Act; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>insert new provisions into the principal Act that apply to remuneration received by specified persons for providing certain services under a contract for service.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
             </prov.body>
           </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
+    <sop.amend id="DLM1404909">
+      <clause.ref>New clause 5AA</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after the heading to <emphasis style="italic">Part 2</emphasis> (after line 18 on page 2):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1404910" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">5AA</label>
+            <heading>Long Title repealed</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>The Long Title is repealed.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404911">
+      <clause.ref>Clause 5</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclauses (1) and (2)</emphasis> (lines 20 to 23 on page 2) and substitute the following subclauses:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>As from the commencement of this section,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the Minimum Wage Act 1983 is called the <changeable><citation jurisdiction="nz">Minimum Wage and Remuneration Act 1983</citation></changeable>:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>every reference in any enactment and in any document to the Minimum Wage Act 1983 must, unless the context otherwise requires, be read as a reference to the <changeable><citation jurisdiction="nz">Minimum Wage and Remuneration Act 1983</citation></changeable>.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The heading to section 1 is consequentially amended by omitting <amend.in quote="1"><emphasis style="bold">Short</emphasis></amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>Section 1(1) is consequentially amended by inserting <amend.in quote="1">and Remuneration</amend.in> after <quote.in quote="1">Wage</quote.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404912">
+      <clause.ref>Clause 6</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 24 to 28 on page 2) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1404913" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">6</label>
+            <heading>Interpretation</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:</text>
+                  <amend increment="1" quote="1">
+                    <def-para id="DLM1404914" quote="1">
+                      <para quote="1">
+                        <text><def-term id="DLM1404915">principal</def-term>, in relation to a specified person, means a person who—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>engages the specified person under a contract for service to provide a service listed in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable>; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>does not acquire the service for the person's personal, domestic, or household use or consumption</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </def-para>
+                    <def-para id="DLM1404916" quote="1">
+                      <para quote="1">
+                        <text><def-term id="DLM1404917">remuneration</def-term> means the payment by a principal to a specified person who provides services to the principal under a contract for service for that part of the service that relates to the provision of labour by the specified person</text>
+                      </para>
+                    </def-para>
+                    <def-para id="DLM1404918" quote="1">
+                      <para quote="1">
+                        <text><def-term id="DLM1404919">specified person</def-term> means—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>an individual who is 16 years of age or older and provides a service listed in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable> under a contract for service; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>a company that provides a service listed in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable> under a contract for service if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>the company has only 1 shareholder and 1 director; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>the shareholder and director are the same person; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iii</label>
+                              <para>
+                                <text>the person who is the shareholder and director personally provides the service</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                      </para>
+                    </def-para>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404920">
+      <clause.ref>Clause 7</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 1 to 13 on page 3) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1404921" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">7</label>
+            <heading>New sections 4A and 4B inserted</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>The following sections are inserted after section 4:</text>
+                  <amend quote="1">
+                    <prov id="DLM1404922" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">4A</label>
+                      <heading>Prescription of minimum remuneration</heading>
+                      <prov.body>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="no"/>
+                          <para>
+                            <text>The Governor-General may, by Order in Council, prescribe the minimum rate of remuneration payable to specified persons for providing 1 or more of the services listed in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable>.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                    <prov id="DLM1404923" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">4B</label>
+                      <heading>Establishing actual rate of remuneration</heading>
+                      <prov.body>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="no"/>
+                          <para>
+                            <text>The following matters must be taken into account in establishing the actual rate of remuneration of a specified person for providing a service listed in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable>:</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the terms of the contract; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>whether the principal and specified person have agreed on what is a reasonable amount of time for the specified person to provide the service; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the information in the remuneration record required to be kept under <changeable><citation jurisdiction="nz">section 8B</citation></changeable>; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">d</label>
+                              <para>
+                                <text>any other relevant matters.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404924">
+      <clause.ref>New clauses 7A and 7B</clause.ref>
+      <sop.para>
+        <text>To insert the following clauses after <emphasis style="italic">clause 7</emphasis> (after line 13 on page 3):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1404925" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">7A</label>
+            <heading>Annual review of minimum wages</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>The heading to section 5 is amended by adding <amend.in quote="1"><emphasis style="bold">and remuneration</emphasis></amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section 5(1) is amended by omitting <amend.in quote="1">pursuant to section 4 of this Act</amend.in> and substituting <amend.in quote="1">under section 4 or <changeable><citation jurisdiction="nz">4A</citation></changeable></amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1404926" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">7B</label>
+            <heading>Payment of minimum wages</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>Section 6 is amended by omitting <amend.in quote="1">under this Act, shall be entitled</amend.in> and substituting <amend.in quote="1">under section 4 is entitled</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404927">
+      <clause.ref>Clause 8: new section 6A</clause.ref>
+      <sop.para>
+        <text>To omit lines 17 to 21 on page 3 and substitute the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Despite anything to the contrary in any enactment, agreement, or contract for services, if the minimum rate of remuneration is prescribed under <changeable><citation jurisdiction="nz">section 4A</citation></changeable>, every specified person providing a service listed in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable> to a principal is entitled to receive payment for providing the service at not less than the minimum rate.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404928">
+      <clause.ref>New clause 8A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 8</emphasis> (after line 21 on page 3):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1404929" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">8A</label>
+            <heading>New sections 8B and 8C inserted</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>The following sections are inserted after section 8A:</text>
+                  <amend quote="1">
+                    <prov id="DLM1404930" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">8B</label>
+                      <heading>Remuneration record to be kept</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>This section applies if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>a specified person provides to a principal a service listed in <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable>; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the minimum rate of remuneration has been prescribed under <changeable><citation jurisdiction="nz">section 4A</citation></changeable>.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>The principal must keep a remuneration record that contains the following information in respect of the specified person:</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the name of the specified person:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the specified person’s postal address:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the kind of service that the specified person is engaged to provide:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">d</label>
+                              <para>
+                                <text>if the agreement does not state the amount of time that the specified person will take to provide the service,—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>the hours during which the specified person provides the service; and</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>if the remuneration is payable at intervals, the hours during which the specified person provides the service in relation to each interval:</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">e</label>
+                              <para>
+                                <text>the remuneration paid to the specified person for the service and the method of calculation:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">f</label>
+                              <para>
+                                <text>any other particulars that are prescribed.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>Information entered in the remuneration record must be kept for not less than 6 years after the date on which the information is entered.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                    <prov id="DLM1404931" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">8C</label>
+                      <heading>Specified person and Labour Inspector may request access to remuneration record</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>A specified person or a Labour Inspector may request that a principal provide access to, or a copy of, or a certified extract from, information in the remuneration record relating to a specified person.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>A principal who receives a request under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> must comply as soon as practicable with the request by—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>allowing the specified person or Labour Inspector to view the record; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>providing a copy or certified extract of the information concerned.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404932">
+      <clause.ref>Clause 9</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 25 to 30 on page 3).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404933">
+      <clause.ref>New clause 9A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 9</emphasis> (after line 30 on page 3):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1404934" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">9A</label>
+            <heading>New sections 11AB and 11AC inserted</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>The following sections are inserted after section 11A:</text>
+                  <amend quote="1">
+                    <prov id="DLM1404935" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">11AB</label>
+                      <heading>Recovery of minimum remuneration</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>This section applies to the recovery of minimum remuneration prescribed under <changeable><citation jurisdiction="nz">section 4A</citation></changeable> and payable by a principal to a specified person.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>The specified person, or a Labour Inspector, may commence an action in the Employment Relations Authority in the same manner as an action under section 131 of the Employment Relations Act 2000 for the recovery of the whole or any part of minimum remuneration, if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>there has been a default in payment of the minimum remuneration to the specified person; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the payment of remuneration to the specified person has been made at a rate lower than that prescribed under <changeable><citation jurisdiction="nz">section 4A</citation></changeable>.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text><changeable><citation jurisdiction="nz">Subsection (2)</citation></changeable>—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>does not affect any other remedies for the recovery of minimum remuneration prescribed under <changeable><citation jurisdiction="nz">section 4A</citation></changeable> and payable by a principal to a specified person; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>applies despite—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>the acceptance by the specified person of any payment at a lower rate; or</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>any express or implied agreement to the contrary.</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">4</label>
+                          <para>
+                            <text>No action to recover minimum remuneration may be commenced under this section more than 6 years after the date on which the cause of action arose.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                    <prov id="DLM1404936" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">11AC</label>
+                      <heading>Specified person may not recover minimum remuneration for time that exceeds agreed reasonable time to provide service</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>This section applies if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>a principal and the specified person have agreed on the amount of time that the specified person will take to provide a service under a contract for service; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the amount of time agreed is reasonable; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the actual time taken by the specified person to provide the service exceeds the reasonable amount agreed.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>Despite <changeable><citation jurisdiction="nz">section 11AB(3)(b)(ii)</citation></changeable>, the specified person may not recover any minimum remuneration that relates to the actual time taken to provide the service that exceeds the reasonable amount agreed.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404937">
+      <clause.ref>Heading above clause 10</clause.ref>
+      <sop.para>
+        <text>To omit this heading (line 31 on page 3).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404938">
+      <clause.ref>Clause 10</clause.ref>
+      <sop.para>
+        <text>To omit this clause (line 32 on page 3 to line 4 on page 4).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404939">
+      <clause.ref>New clause 11</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 10</emphasis> (after line 4 on page 4):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1404940" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">11</label>
+            <heading>New Schedule 2 added</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>The <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable> set out in the <changeable><citation jurisdiction="nz">Schedule</citation></changeable> of this Act is added as <changeable><citation jurisdiction="nz">Schedule 2</citation></changeable>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>The Schedule is consequentially renumbered as Schedule 1.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>Section 14 is consequentially amended by omitting <amend.in quote="1">the Schedule to this Act</amend.in> and substituting <amend.in quote="1"><changeable><citation jurisdiction="nz">Schedule 1</citation></changeable></amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404941">
+      <clause.ref>Schedule</clause.ref>
+      <sop.para>
+        <text>To omit the Schedule (on page 5) and substitute the following Schedule:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <schedule.group>
+            <schedule id="DLM1404942" in.amend="false" irdnumbering="no" prov-type="clause" raised.by="Government" schedule.heading.continue="no" sop.no="212" toc="yes" type="schedule" year="2008">
+              <label auto.number="no" denominator="no">Schedule</label>
+              <empowering-prov>
+                <changeable>
+                  <citation jurisdiction="nz">s 11</citation>
+                </changeable>
+              </empowering-prov>
+              <heading>New Schedule 2 added to principal Act</heading>
+              <schedule.misc>
+                <para>
+                  <amend quote="1">
+                    <schedule id="DLM1404943" in.amend="true" irdnumbering="no" prov-type="clause" quote="1" raised.by="Government" schedule.heading.continue="no" sop.no="212" toc="yes" type="schedule" year="2008">
+                      <label auto.number="no" denominator="yes">2</label>
+                      <empowering-prov>
+                        <changeable>
+                          <citation jurisdiction="nz">ss 2, 4A, 4B, 6A, 8B</citation>
+                        </changeable>
+                      </empowering-prov>
+                      <heading>Services for purposes of section 4A</heading>
+                      <schedule.misc>
+                        <para>
+                          <text>The following services provided under a contract for service:</text>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">a</label>
+                            <para>
+                              <text>building and construction services:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">b</label>
+                            <para>
+                              <text>cleaning services:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">c</label>
+                            <para>
+                              <text>courier services:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">d</label>
+                            <para>
+                              <text>food catering services:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">e</label>
+                            <para>
+                              <text>fast-food delivery services:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">f</label>
+                            <para>
+                              <text>newspaper or pamphlet delivery services to letterboxes:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">g</label>
+                            <para>
+                              <text>personal home-care support to an individual in the individual’s dwellinghouse:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">h</label>
+                            <para>
+                              <text>public entertainment services as an actor, musician, or singer:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">i</label>
+                            <para>
+                              <text>the manufacture of clothing, footwear, or textiles:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">j</label>
+                            <para>
+                              <text>telemarketing services:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">k</label>
+                            <para>
+                              <text>market research services:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">l</label>
+                            <para>
+                              <text>licensed security guard services under the Private Investigators and Security Guards Act 1974:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">m</label>
+                            <para>
+                              <text>services in the forestry industry related to planting, pruning, or felling:</text>
+                            </para>
+                          </label-para>
+                          <label-para skeleton="no">
+                            <label auto.number="no" denominator="yes">n</label>
+                            <para>
+                              <text>truck-driving services delivering goods.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </schedule.misc>
+                    </schedule>
+                  </amend>
+                </para>
+              </schedule.misc>
+            </schedule>
+          </schedule.group>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1404944">
+      <clause.ref/>
+      <sop.para>
+        <text/>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM1315704" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="203">
+  <explnote id="DLM1404945" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="212">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper updates certain references in Schedule 2 of the Bill. Schedule 2 sets out the encumbrances that remain attached to Mauao historic reserve when the reserve is vested in the trustees of the Mauao Trust under clause 5(1) of the Bill. The specific land title and lease information in relation to the rights of Tauranga City Council to retain and maintain the existing reservoir and associated water and power supply lines was not available at the time the Bill was introduced or reported back to the House.</text>
+      <text>This Supplementary Order Paper amends the Minimum Wage and Remuneration Amendment Bill and replaces Supplementary Order Paper No 207. It is the same as that Supplementary Order Paper except that it also provides for the re-location of the <emphasis style="italic">Part 1</emphasis> heading to appear after the commencement clause.</text>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
