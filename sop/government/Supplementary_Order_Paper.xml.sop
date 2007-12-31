@@ -1,150 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1553900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0008" stage="published" year="2008" raised.by="Government" sop.no="223">
-  <date>Wednesday, 27 August 2008</date>
-  <billref>Waste Minimisation Bill</billref>
-  <body id="DLM1553901">
-    <heading>Proposed amendments</heading>
-    <motion>Russel Norman, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1553902">
-      <clause.ref>Clause 5(1)</clause.ref>
-      <sop.para>
-        <text>To insert the following definition after the definition of <def-term id="DLM1553903">disposal facility</def-term> (after line 37 on page 10):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="no">
-          <def-para id="DLM1553904">
-            <para>
-              <text><def-term id="DLM1553905">diverted material</def-term> means any thing that is no longer required for its original purpose and, but for commercial or other waste minimisation activities, would be disposed of or discarded</text>
-            </para>
-          </def-para>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Paragraph (a)</emphasis> of the definition of <emphasis style="bold">recovery</emphasis>: to insert after <quote.in quote="1">waste</quote.in> (line 10 on page 12) <amend.in quote="1">or diverted material</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Paragraph (b)</emphasis> of the definition of <emphasis style="bold">recovery</emphasis>: to insert after <quote.in quote="1">waste</quote.in> (line 12 on page 12) <amend.in quote="1">or diverted material</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text>Definition of <emphasis style="bold">recycling</emphasis>: to insert after <quote.in quote="1">waste</quote.in> (line 13 on page 12) <amend.in quote="1">or diverted material</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text>Definition of <emphasis style="bold">reuse</emphasis>: to omit <amend.in quote="1">in its</amend.in> (line 20 on page 12) and substitute <amend.in quote="1">or diverted material in their</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text>Definition of <emphasis style="bold">reuse</emphasis>: to omit <amend.in quote="1">waste,</amend.in> (line 22 on page 12) and substitute <amend.in quote="1">waste or diverted material,</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text>Definition of <emphasis style="bold">waste</emphasis>: to omit this definition (lines 2 to 10 on page 13) and substitute the following definition:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="no">
-          <def-para id="DLM1553906">
-            <para>
-              <text><def-term id="DLM1553907">waste</def-term>—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>means any thing disposed of or discarded; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>includes a type of waste that is defined by its composition or source (for example, organic waste, electronic waste, or construction and demolition waste); and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">c</label>
-                <para>
-                  <text>to avoid doubt, includes any component or element of diverted material, if the component or element is disposed of or discarded</text>
-                </para>
-              </label-para>
-            </para>
-          </def-para>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text>Definition of <emphasis style="bold">waste minimisation</emphasis>: to omit this definition (lines 18 and 19 on page 13) and substitute the following definition:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="no">
-          <def-para id="DLM1553908">
-            <para>
-              <text><def-term id="DLM1553909">waste minimisation</def-term> means—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>the reduction of waste; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>the reuse, recycling, and recovery of waste and diverted material</text>
-                </para>
-              </label-para>
-            </para>
-          </def-para>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1553910">
-      <clause.ref>Clause 5A(1)</clause.ref>
-      <sop.para>
-        <text>To omit this subclause (lines 28 to 32 on page 13) and substitute the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="no">(1)</label>
-            <para>
-              <text>In this Act, unless the context requires another meaning, <def-term id="DLM1553911">disposal</def-term> means—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>the final (or more than short-term) deposit of waste into or onto land set apart for that purpose; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>the incineration of waste.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
+<sop id="DLM1373700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0007" stage="published" year="2008" raised.by="Government" sop.no="205">
+  <date>Tuesday, 17 June 2008</date>
+  <billref>Criminal Procedure Bill</billref>
+  <body id="DLM1373701">
+    <heading>Proposed motion to divide Bill into 6 Bills</heading>
+    <motion>Hon Annette King, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis> and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1373702" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act is the Crimes Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1373703" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text><changeable><citation jurisdiction="nz">Section 5</citation></changeable> comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> and <emphasis style="italic">Schedules 1 and 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading and <emphasis style="italic">clause 17</emphasis> there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1373704" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Criminal Disclosure Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1373705" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on a date to be appointed by the Governor-General by Order in Council.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 3</emphasis> and <emphasis style="italic">Schedule 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 3</emphasis> heading and there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1373706" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the District Courts Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1373707" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 4</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 4</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1373708" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Juries Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1373709" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>This Act (except <changeable><citation jurisdiction="nz">sections 68, 75, 76, and 82A</citation></changeable>) comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text><changeable><citation jurisdiction="nz">Sections 68, 75, 76, and 82A</citation></changeable> come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 5</emphasis> and <emphasis style="italic">Schedules 4 to 6</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 5</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1373710" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Summary Proceedings Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1373711" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>This Act (other than this section and <changeable><citation jurisdiction="nz">sections 84, 88 to 91, 92A, and 93</citation></changeable>) comes into force on a date to be appointed by the Governor-General by Order in Council.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>This section and <changeable><citation jurisdiction="nz">sections 84, 88 to 91, 92A, and 93</citation></changeable> come into force on the day after the date on which this Act receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 6</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 6</emphasis> heading and there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1373712" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Victims' Rights Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1373713" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote id="DLM1553912" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0008" stage="published" year="2008" raised.by="Government" sop.no="223">
+  <explnote id="DLM1373714" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0007" stage="published" year="2008" raised.by="Government" sop.no="205">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends <emphasis style="italic">clauses 5 and 5A of Part 1</emphasis> of the Waste Minimisation Bill. <emphasis style="italic">Clause 5</emphasis> is the general interpretation provision for the Bill and contains the defined terms that are used throughout it. All the amendments to <emphasis style="italic">clause 5</emphasis> relate to the inserting of a new definition, <emphasis style="bold">diverted material</emphasis>, to separate the concept of waste, which has no further use, from the concept of things that are source material for the purposes of reuse, recycling, and recovery processes. Accordingly, the following amendments are proposed:</text>
+      <text>This Supplementary Order Paper replaces Supplementary Order Paper No 98. It divides the Criminal Procedure Bill into 6 Bills—</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>to insert a new definition of <emphasis style="bold">diverted material</emphasis>:</text>
-          </para>
-        </item>
-      </list>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>to apply the definitions of <emphasis style="bold">recovery</emphasis>, <emphasis style="bold">recycling</emphasis>, and <emphasis style="bold">reuse</emphasis> to the new category of diverted material:</text>
-          </para>
-        </item>
-      </list>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>to amend the definition of <emphasis style="bold">waste</emphasis> to ensure it applies only to material that is disposed of or discarded:</text>
+            <text>the Crimes Amendment Bill:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>to amend the definition of <emphasis style="bold">waste minimisation</emphasis> by clarifying that waste may be reduced, and waste and diverted material may be reused, recycled, and recovered.</text>
+            <text>the Criminal Disclosure Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the District Courts Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Juries Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Summary Proceedings Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Victims’ Rights Amendment Bill.</text>
           </para>
         </item>
       </list>
-      <text>The other amendment proposed by the SOP is to <emphasis style="italic">clause 5A</emphasis> of the Bill and clarifies that disposal of waste by incineration is not dependent on the waste having been deposited into or onto land set apart for that purpose.</text>
     </para>
   </explnote>
 </sop>
