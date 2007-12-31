@@ -1,35 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0008" stage="published" year="2008" raised.by="Members" sop.no="240">
-  <date>Tuesday, 2 September 2008</date>
-  <billref>Climate Change (Emissions Trading and Renewable Preference) Bill </billref>
-  <body>
-    <heading>Proposed amendment</heading>
-    <motion>Te Ururoa Flavell, in Committee, to move the following amendment:</motion>
-    <sop.amend>
-      <clause.ref>New clause 2A</clause.ref>
-      <sop.para>
-        <text>To insert new clause 2A after clause 2 (page 13, after line 5):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">2A</label>
-            <heading>Act to give effect to Treaty of Waitangi</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>This Act shall be so interpreted and administered as to give effect to the Treaty of Waitangi.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
+<sop id="DLM1564300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Members" sop.no="228">
+  <date>Tuesday, 26 August 2008</date>
+  <billref>Organised Crime (Penalties and Sentencing) Bill</billref>
+  <body id="DLM1564301">
+    <heading>Proposed motion to divide Bill into 2 Bills</heading>
+    <motion>Hon Annette King, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+        <prov id="DLM1564302" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act is the Crimes Amendment Act <changeable>(No 4) </changeable> <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1564303" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act comes into force on 31 October 2008.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+        <prov id="DLM1564304" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act is the Sentencing Amendment Act <changeable>(No 4) </changeable> <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1564305" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act comes into force on 31 October 2008.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0008" stage="published" year="2008" raised.by="Members" sop.no="240">
+  <explnote id="DLM1564306" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Members" sop.no="228">
     <heading>Explanatory note</heading>
     <para>
-      <text>An explicit reference to the Treaty of Waitangi is added to the Climate Change (Emissions Trading and Renewable Preference) Bill to ensure that the Emissions Trading Scheme will be implemented and operated in accordance with the rights guaranteed to Maori under the Treaty of Waitangi.</text>
+      <text>This motion divides the Organised Crime (Penalties and Sentencing) Bill into 2 separate Bills, amending the Crimes Act 1961 and the Sentencing Act 2002.</text>
     </para>
   </explnote>
 </sop>
