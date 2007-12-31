@@ -1,108 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1375000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0006" stage="published" year="2008" raised.by="Government" sop.no="206">
-  <date>Tuesday, 17 June 2008</date>
-  <billref>Criminal Procedure Bill</billref>
-  <body id="DLM1375001">
+<sop id="DLM1575500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="236">
+  <date>Tuesday, 2 September 2008</date>
+  <billref>Te Roroa Claims Settlement Bill</billref>
+  <body id="DLM1575501">
     <heading>Proposed amendments</heading>
-    <motion>Hon Annette King, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM1375002">
-      <clause.ref>Clause 92</clause.ref>
+    <motion>Hon Dr Michael Cullen, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1575502">
+      <clause.ref>Clause 14</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">New section 180(3)</emphasis>: to omit paragraph (c) (line 17 on page 96) and substitute the following paragraphs:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">c</label>
-            <para>
-              <text>any written submissions; and</text>
-            </para>
-          </label-para>
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">d</label>
-            <para>
-              <text>any oral submissions made in accordance with <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>.</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">New section 180(4) and (5)</emphasis>: to omit these subsections (lines 18 to 22 on page 96) and substitute the following subsections:</text>
-        <instrument.amend close.quote="no" open.quote="yes" quote="1">
-          <subprov quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">4</label>
-            <para>
-              <text>A party who applies for an oral evidence order may make oral submissions to the Judge in support of that application.</text>
-            </para>
-          </subprov>
-          <subprov quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">5</label>
-            <para>
-              <text>If a party makes oral submissions under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>, the other party may also make oral submissions to the Judge on that application.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1375003">
-      <clause.ref>Heading above clause 95</clause.ref>
-      <sop.para>
-        <text>To insert after <amend.in quote="1"><emphasis style="italic">consequential amendments,</emphasis></amend.in> (line 20 on page 121) <amend.in quote="1"><emphasis style="italic">review provision</emphasis>,</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM1375004">
-      <clause.ref>New clause 97A</clause.ref>
-      <sop.para>
-        <text>To insert the following clause after <emphasis style="italic">clause 97</emphasis> (after line 28 on page 121):</text>
+        <text>To omit this clause (lines 5 to 25 on page 29) and substitute the following clause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1375005" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">97A</label>
-            <heading>Review of new Part 5 of principal Act</heading>
+          <prov id="DLM1575503" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">14</label>
+            <heading>Schedule 3 of Treaty of Waitangi Act 1975 amended</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
+                <label auto.number="yes" denominator="yes"/>
                 <para>
-                  <text>The Solicitor-General, or any other person nominated by the Solicitor-General for the purpose, must as soon as practicable after the expiry of 2 years from the commencement of <changeable><citation jurisdiction="nz">Part 5</citation></changeable> of the principal Act (as inserted by <changeable><citation jurisdiction="nz">section 92 </citation></changeable> of this Act) conduct a review of the operation of <changeable><citation jurisdiction="nz">Part 5</citation></changeable>.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>The Solicitor-General or other person conducting the review must—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>consult with—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">i</label>
-                        <para>
-                          <text>the New Zealand Law Society:</text>
-                        </para>
-                      </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">ii</label>
-                        <para>
-                          <text>the Ministry of Justice:</text>
-                        </para>
-                      </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">iii</label>
-                        <para>
-                          <text>any other person or body he or she considers appropriate to consult with; and</text>
-                        </para>
-                      </label-para>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>report on the outcome of that review to the Minister of Justice within 6 months of commencing it; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
-                    <para>
-                      <text>advise in that report whether <changeable><citation jurisdiction="nz">Part 5</citation></changeable> should be retained, amended, or replaced.</text>
-                    </para>
-                  </label-para>
+                  <text>Schedule 3 of the Treaty of Waitangi Act 1975 is amended by inserting the following item in its appropriate alphabetical order: <amend.in quote="1">Te Roroa Claims Settlement Act <changeable>2007</changeable>, <changeable><citation jurisdiction="nz">section 13(2) and (3)</citation></changeable></amend.in>.</text>
                 </para>
               </subprov>
             </prov.body>
@@ -110,44 +25,125 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM1375006">
-      <clause.ref/>
+    <sop.amend id="DLM1575504">
+      <clause.ref>Clause 82</clause.ref>
       <sop.para>
-        <text/>
+        <text><emphasis style="italic">Subclause (3)(b)</emphasis>: To omit <amend.in quote="1">the New Zealand Geographic Board Act 1946</amend.in> (lines 1 and 2 on page 56) and substitute <amend.in quote="1">any enactment that applies to altering or assigning place names</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (4)</emphasis>: To add the following subclause (after line 2 on page 56):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">4</label>
+            <para>
+              <text>This section applies subject to <changeable><citation jurisdiction="nz">sections 82A to 82C</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1575505">
+      <clause.ref>New clauses 82A to 82C inserted</clause.ref>
+      <sop.para>
+        <text>To insert the following clauses after <emphasis style="italic">clause 82</emphasis> (line 2 on page 56):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1575506" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">82A</label>
+            <heading>Publication of new place names notice</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>The New Zealand Geographic Board must, as soon as practicable after the settlement date, publish a notice in the <emphasis style="italic">Gazette</emphasis>—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>specifying each new place name and its location (and the existing place name being altered); and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>stating that the new place names take effect on the date of the <emphasis style="italic">Gazette</emphasis> notice; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>stating that the New Zealand Geographic Board may alter the new place names or their locations in accordance with <changeable><citation jurisdiction="nz">section 82B</citation></changeable>.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>The New Zealand Geographic Board must, as soon as practicable after the publication of the notice under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, ensure that a copy of the notice is published in accordance with any enactment that applies to altering or assigning place names.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>A copy of the <emphasis style="italic">Gazette</emphasis> notice published under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> is conclusive evidence that the new place names were altered or assigned on the date of the <emphasis style="italic">Gazette</emphasis> notice.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1575507" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">82B</label>
+            <heading>Alteration of new place names</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Despite the provisions of any enactment that applies to altering or assigning place names, the New Zealand Geographic Board may, with the consent of the trustees of the Manawhenua Trust, alter any new place name or its location.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text><changeable><citation jurisdiction="nz">Section 82A</citation></changeable> applies, with any necessary modifications, to an alteration made under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM1575508" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">82C</label>
+            <heading>Date place name altered or assigned</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>Place names altered or assigned under <changeable><citation jurisdiction="nz"> section 82 or 82B</citation></changeable> take effect on the date of the <emphasis style="italic">Gazette</emphasis> notice published under <changeable><citation jurisdiction="nz">section 82A(1)</citation></changeable>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1375007" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0006" stage="published" year="2008" raised.by="Government" sop.no="206">
+  <explnote id="DLM1575509" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2008" raised.by="Government" sop.no="236">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Criminal Procedure Bill in 2 respects.</text>
+      <text>This Supplementary Order Paper amends Te Roroa Claims Settlement Bill. The amendments relate to the amendment to the Treaty of Waitangi Act 1975 and to the alteration of place names.</text>
     </para>
     <para>
-      <text>First, it amends <emphasis style="italic">new section 180</emphasis> of the Summary Proceedings Act 1957 (inserted by <emphasis style="italic">clause 92</emphasis> of the Bill) to remove the provisions of that section that provide that parties to an application for an oral evidence order have no right to make oral submissions to a Judge, and that confer a residual discretion on the Judge to hear oral submissions if he or she thinks this is necessary. The Supplementary Order Paper provides, instead, that a party who applies for an oral evidence order has the right to make oral submissions to a Judge in support of the application, and if the applicant makes oral submissions the other party may also make oral submissions to the Judge on that application.</text>
+      <text>The amendments substitute a <emphasis style="italic">new clause 14</emphasis>. This is a drafting change. The new clause is to the same effect as the current clause, but takes into account recent changes to the Treaty of Waitangi Act 1975 whereby references to Treaty of Waitangi claims settlement legislation have been moved from section 6 of that Act to Schedule 3 of that Act.</text>
     </para>
     <para>
-      <text>Secondly, the Supplementary Order Paper inserts a <emphasis style="italic">new clause 97A</emphasis> requiring the Solicitor-General, or a person nominated by the Solicitor-General, to review the operation of <emphasis style="italic">new Part 5</emphasis> of the Summary Proceedings Act 1957 as soon as practicable after it has been in operation for 2 years. The person conducting the review must—</text>
+      <text>The amendments also insert additional clauses relating to the alteration of place names. <emphasis style="italic">New clauses 82A to 82C</emphasis> parallel clauses 84 to 87 of the Affiliate Te Arawa Iwi and Hapu Claims Settlement Bill. The new clauses—</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>consult with the Ministry of Justice, the New Zealand Law Society, and any other person or body he or she considers appropriate to consult with; and</text>
+            <text>require the New Zealand Geographic Board to publish a notice in the <emphasis style="italic">Gazette</emphasis> specifying the changes made by the Bill:</text>
           </para>
         </item>
-      </list>
-      <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>report on the outcome of the review to the Minister of Justice within 6 months of commencing it; and</text>
-          </para>
-        </item>
-      </list>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>advise in that report whether <emphasis style="italic">new Part 5</emphasis> of the Summary Proceedings Act 1957 should be retained, amended, or replaced.</text>
+            <text>authorise the New Zealand Geographic Board, with the consent of the trustees of the Manawhenua Trust, to alter any place name altered by the Bill or its location.</text>
           </para>
         </item>
       </list>
