@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1219200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="187">
-  <date>Thursday, 20 March 2008</date>
-  <billref>Biosecurity and Hazardous Substances and New Organisms Legislation Amendment Bill</billref>
-  <body id="DLM1219201">
-    <heading>Proposed motion to divide Bill into 2 Bills</heading>
-    <motion>Hon Jim Anderton, in Committee, to move as follows:</motion>
+<sop id="DLM1198300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="185">
+  <date>Wednesday, 12 March 2008</date>
+  <billref>Social Assistance (Debt Prevention and Minimisation) Amendment Bill</billref>
+  <body id="DLM1198301">
+    <heading>Proposed motion to divide Bill into 3 Bills</heading>
+    <motion>Hon Ruth Dyson, in Committee, to move as follows:</motion>
     <sop.split>
       <para>
         <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
       </para>
       <sop.newenact>
         <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1219202" irdnumbering="no" skeleton="no" toc="yes">
+        <prov id="DLM1198302" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="no">1</label>
           <heading>Title</heading>
           <prov.body>
             <subprov skeleton="no">
               <label auto.number="yes" denominator="yes"/>
               <para>
-                <text>This Act is the Biosecurity Amendment Act (No 4) <changeable>2008</changeable>.</text>
+                <text>This Act is the Corrections (Social Assistance) Amendment Act <changeable>2008</changeable>.</text>
               </para>
             </subprov>
           </prov.body>
         </prov>
-        <prov id="DLM1219203" irdnumbering="no" skeleton="no" toc="yes">
+        <prov id="DLM1198303" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="no">2</label>
           <heading>Commencement</heading>
           <prov.body>
@@ -39,23 +39,55 @@
     </sop.split>
     <sop.split>
       <para>
-        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
+        <text>That <emphasis style="italic">subpart 1 of Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading and <emphasis style="italic">subpart 1 heading of Part 2</emphasis> there be substituted the following enacting words and clauses:</text>
       </para>
       <sop.newenact>
         <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1219204" irdnumbering="no" skeleton="no" toc="yes">
+        <prov id="DLM1198304" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="no">1</label>
           <heading>Title</heading>
           <prov.body>
             <subprov skeleton="no">
               <label auto.number="no" denominator="no"/>
               <para>
-                <text>This Act is the Hazardous Substances and New Organisms Amendment Act (No 2) <changeable>2008</changeable>.</text>
+                <text>This Act is the Customs and Excise (Social Assistance) Amendment Act <changeable>2008</changeable>.</text>
               </para>
             </subprov>
           </prov.body>
         </prov>
-        <prov id="DLM1219205" irdnumbering="no" skeleton="no" toc="yes">
+        <prov id="DLM1198305" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">subpart 2 of Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">subpart 2 heading of Part 2</emphasis> there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM1198306" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Injury Prevention, Rehabilitation, and Compensation (Social Assistance) Amendment Act <changeable>2008</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM1198307" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="no">2</label>
           <heading>Commencement</heading>
           <prov.body>
@@ -70,21 +102,31 @@
       </sop.newenact>
     </sop.split>
   </body>
-  <explnote id="DLM1219206" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="187">
+  <explnote id="DLM1198308" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2008" raised.by="Government" sop.no="185">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper divides the Biosecurity and Hazardous Substances and New Organisms Legislation Amendment Bill into the following 2 Bills:</text>
+      <text>The motion set out in this Supplementary Order Paper divides the Social Assistance (Debt Prevention and Minimisation) Amendment Bill into the following 3 Bills:</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>Biosecurity Amendment Bill (No 4):</text>
+            <text>Corrections (Social Assistance) Amendment Bill:</text>
           </para>
         </item>
+      </list>
+      <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>Hazardous Substances and New Organisms Amendment Bill (No 2).</text>
+            <text>Customs and Excise (Social Assistance) Amendment Bill:</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>Injury Prevention, Rehabilitation, and Compensation (Social Assistance) Amendment Bill.</text>
           </para>
         </item>
       </list>
