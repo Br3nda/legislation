@@ -1,30 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1460800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" pco.suffix="0003" stage="published" year="2008" raised.by="Members" sop.no="219">
-  <date>Wednesday, 30 July 2008</date>
-  <billref>Waste Minimisation Bill</billref>
-  <body id="DLM1460801">
-    <heading>Proposed amendment to definition of waste </heading>
-    <motion>Nicky Wagner, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM1460802">
-      <clause.ref>Clause 5</clause.ref>
+<sop id="DLM1236000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" date.terminated="2008-04-09" terminated="withdrawn" pco.suffix="0003" stage="published" year="2008" raised.by="Members" sop.no="195">
+  <date>Tuesday, 8 April 2008</date>
+  <billref>Electricity (Disconnection and Low Fixed Charges) Amendment Bill</billref>
+  <body id="DLM1236001">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Tariana Turia, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1236002">
+      <clause.ref>Clause 4</clause.ref>
       <sop.para>
-        <text>To omit from the definition of <def-term id="DLM1461400">waste</def-term>: paragraph (a) (lines 3 to 7 on page 13) and substitute the following paragraph:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="no">
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">a</label>
+        <text>To insert the following new subclause before subclause (1) (before line 10 on page 1):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1AA</label>
             <para>
-              <text>means anything that has been disposed of or discarded.</text>
+              <text>Section 172B(1) is amended by inserting after <amend.in quote="1">low-use consumers</amend.in> the words <amend.in quote="1">and low income consumers,</amend.in>:</text>
             </para>
-          </label-para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following new subclause after subclause (1) (after line 13 on page 1):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1A</label>
+            <para>
+              <text>Section 172B(2) is amended by inserting the following definition after the definition of <def-term id="DLM1236003">fixed charge</def-term>:</text>
+              <def-para id="DLM1236004">
+                <para>
+                  <text><def-term id="DLM1236005">low income consumer </def-term>means a domestic consumer who has a total income less than a sum specified in regulations: </text>
+                </para>
+              </def-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To omit subclause (2) (line 14 on page 1 to line 2 on page 2) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section 172B(3) is amended by inserting the following paragraphs after paragraph (a):</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes" increment="1">ab</label>
+                <para>
+                  <text>specifying which domestic consumers are low-use consumers (these types of consumer may, for example, vary according to the particular area of New Zealand in which the domestic premises are situated, or according to whether the domestic premises are the domestic consumer’s principal place of residence):</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes" increment="1">ac</label>
+                <para>
+                  <text>specifying a sum for the purpose of defining a low income consumer:</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To add the following subclause after subclause (3) (after line 13 on page 2): </text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>Section 172B(3)(b) is amended by inserting after <amend.in quote="1">low-use consumers</amend.in> the words and <amend.in quote="1">low income consumers</amend.in>.</text>
+            </para>
+          </subprov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1460803" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2008" raised.by="Members" sop.no="219">
+  <explnote id="DLM1236006" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2008-04-09" pco.suffix="0003" stage="published" year="2008" raised.by="Members" sop.no="195">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Waste Minimisation Bill. The proposed amendment narrows the definition of waste by excluding recovered resources for reuse, recycling, or further treatment.</text>
+      <text>This Supplementary Order Paper amends the Electricity (Disconnection and Low Fixed Charges) Amendment Bill to provide for reduced rates of electricity for low income consumers. </text>
     </para>
   </explnote>
 </sop>
-<!--End of file, do NOT remove.-->
