@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act date.instructed="2005-10-28" id="DLM1065400" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
+<act date.instructed="2005-10-28" id="DLM1065400" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
   <cover id="DLM1065412">
-    <reprint-date>2008-11-01</reprint-date>
+    <reprint-date>2009-11-01</reprint-date>
     <title>New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008</title>
     <assent>2008-05-22</assent>
     <commencement>see section 2</commencement>
     <cover.reprint-note>
       <para xml:lang="en-NZ">
-        <text>Changes authorised by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1375027" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1000900 - prov 17C" atidlm:xmlId="DLM1708937" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 17C</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="820947" atidlm:sourceXmlId="DLM1708937" atidlm:targetKey="1048414" atidlm:targetXmlId="DLM195466" atidlm:targetName="prov 17C" atidlm:sourceName="DLM1708937" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195452.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065412" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Acts and Regulations Publication Act 1989</citation> have been made in this reprint.</text>
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in this reprint.</text>
       </para>
       <para>
         <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
       </para>
-      <admin-office>This Act is administered by Land Information New Zealand.</admin-office>
+      <admin-office>This Act is administered by <ministry>Land Information New Zealand</ministry>.</admin-office>
     </cover.reprint-note>
   </cover>
   <contents>
@@ -60,14 +60,15 @@
       </prov.body>
       <notes>
         <history>
-          <history-note id="DLM1708936"><amended-provision>Section 2</amended-provision>: sections 1–31 and 34–38 <amending-operation>brought into force</amending-operation>, on <amendment-date>1 November 2008</amendment-date>, by the <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1375028" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1708935 - New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2008" atidlm:xmlId="DLM1708938" atidlm:state="UNCHANGED"><atidlm:linkcontent>New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2008</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="820948" atidlm:sourceXmlId="DLM1708938" atidlm:targetKey="13546206" atidlm:targetXmlId="DLM1595900" atidlm:targetName="New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2008" atidlm:sourceName="DLM1708938" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZReg/fragxyxz_DLM1595900.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1708936" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> (SR 2008/301).</history-note>
+          <history-note id="DLM1708936"><amended-provision>Section 2</amended-provision>: sections 1–31 and 34–38 <amending-operation>brought into force</amending-operation>, on <amendment-date>1 November 2008</amendment-date>, by the <amending-provision href="DLM1595900">New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2008</amending-provision> (SR 2008/301).</history-note>
+          <history-note id="DLM2508102"><amended-provision>Section 2</amended-provision>: sections 32 and 33 <amending-operation>brought into force</amending-operation>, on <amendment-date>1 November 2009</amendment-date>, by the <amending-leg><extref href="DLM2184808">New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2009</extref></amending-leg> (SR 2009/196).</history-note>
         </history>
       </notes>
     </prov>
-    <part date.instructed="2005-10-28" id="DLM1065417" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" date.first.valid="2008-11-01" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" stage="reprint" year="2008">
+    <part date.instructed="2005-10-28" id="DLM1065417" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" date.first.valid="2008-11-01" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" stage="reprint" year="2008">
       <label auto.number="no" denominator="yes">1</label>
       <heading>General matters and key provisions relating to New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa</heading>
-      <subpart date.instructed="2005-10-28" id="DLM1065418" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
+      <subpart date.instructed="2005-10-28" id="DLM1065418" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Purpose, interpretation, and other general provisions</heading>
         <prov id="DLM1065419" irdnumbering="no" skeleton="no" toc="yes">
@@ -85,7 +86,7 @@
                     <label-para skeleton="no">
                       <label auto.number="no" denominator="yes">i</label>
                       <para>
-                        <text>the continuation of the New Zealand Geographic Board as the same body as that established under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978931" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1342199 - New Zealand Geographic Board Act 1946" atidlm:xmlId="DLM1343135" atidlm:state="UNCHANGED"><atidlm:linkcontent>New Zealand Geographic Board Act 1946</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672614" atidlm:sourceXmlId="DLM1343135" atidlm:targetKey="1655222" atidlm:targetXmlId="DLM240104" atidlm:targetName="New Zealand Geographic Board Act 1946" atidlm:sourceName="DLM1343135" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240104.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065419" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, with the primary responsibility for naming geographic features and Crown protected areas; and</text>
+                        <text>the continuation of the New Zealand Geographic Board as the same body as that established under the <citation jurisdiction="nz"><extref href="DLM240104">New Zealand Geographic Board Act 1946</extref></citation>, with the primary responsibility for naming geographic features and Crown protected areas; and</text>
                       </para>
                     </label-para>
                     <label-para skeleton="no">
@@ -147,7 +148,7 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">i</label>
                   <para>
-                    <text>repeal the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978932" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343100 - New Zealand Geographic Board Act 1946" atidlm:xmlId="DLM1343136" atidlm:state="UNCHANGED"><atidlm:linkcontent>New Zealand Geographic Board Act 1946</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672615" atidlm:sourceXmlId="DLM1343136" atidlm:targetKey="1655222" atidlm:targetXmlId="DLM240104" atidlm:targetName="New Zealand Geographic Board Act 1946" atidlm:sourceName="DLM1343136" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240104.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065419" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                    <text>repeal the <citation jurisdiction="nz"><extref href="DLM240104">New Zealand Geographic Board Act 1946</extref></citation>.</text>
                   </para>
                 </label-para>
               </para>
@@ -164,12 +165,12 @@
                 <text>In this Act, unless the context otherwise requires,—</text>
                 <def-para id="DLM1244234">
                   <para>
-                    <text><def-term id="DLM1244235">Antarctica</def-term> has the same meaning as in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900416" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267000 - prov 2" atidlm:xmlId="DLM1267016" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 2(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641256" atidlm:sourceXmlId="DLM1267016" atidlm:targetKey="2115627" atidlm:targetXmlId="DLM325200" atidlm:targetName="prov 2" atidlm:sourceName="DLM1267016" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM325093.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1244234" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Antarctica Act 1960</text>
+                    <text><def-term id="DLM1244235">Antarctica</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM325200">section 2(1)</extref></citation> of the Antarctica Act 1960</text>
                   </para>
                 </def-para>
                 <def-para id="DLM1065421">
                   <para>
-                    <text><def-term id="DLM1065422">Board</def-term> means the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa continued by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900417" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266200 - prov 7" atidlm:xmlId="DLM1267017" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 7</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641257" atidlm:sourceXmlId="DLM1267017" atidlm:targetKey="10538801" atidlm:targetXmlId="DLM1065473" atidlm:targetName="prov 7" atidlm:sourceName="DLM1267017" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065421" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
+                    <text><def-term id="DLM1065422">Board</def-term> means the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa continued by <citation jurisdiction="nz"><intref href="DLM1065473">section 7</intref></citation></text>
                   </para>
                 </def-para>
                 <def-para id="DLM1065423">
@@ -178,25 +179,25 @@
                     <label-para skeleton="no">
                       <label auto.number="no" denominator="yes">a</label>
                       <para>
-                        <text>land or an interest in land held under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978933" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343101 - Conservation Act 1987" atidlm:xmlId="DLM1343137" atidlm:state="UNCHANGED"><atidlm:linkcontent>Conservation Act 1987</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672616" atidlm:sourceXmlId="DLM1343137" atidlm:targetKey="577000" atidlm:targetXmlId="DLM103609" atidlm:targetName="Conservation Act 1987" atidlm:sourceName="DLM1343137" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM103609.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065423" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> for the purpose of a conservation park, ecological area, sanctuary area, or wilderness area, or for any other specified purpose, as provided for in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900418" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267001 - part 4 Specially protected areas" atidlm:xmlId="DLM1267018" atidlm:state="UNCHANGED"><atidlm:linkcontent>Part 4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641258" atidlm:sourceXmlId="DLM1267018" atidlm:targetKey="582600" atidlm:targetXmlId="DLM104681" atidlm:targetName="part 4 Specially protected areas" atidlm:sourceName="DLM1267018" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM104681.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065423" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of that Act:</text>
+                        <text>land or an interest in land held under the <citation jurisdiction="nz"><extref href="DLM103609">Conservation Act 1987</extref></citation> for the purpose of a conservation park, ecological area, sanctuary area, or wilderness area, or for any other specified purpose, as provided for in <citation jurisdiction="nz"><extref href="DLM104681">Part 4</extref></citation> of that Act:</text>
                       </para>
                     </label-para>
                     <label-para skeleton="no">
                       <label auto.number="no" denominator="yes">b</label>
                       <para>
-                        <text>a government purpose reserve, historic reserve, nature reserve, recreation reserve, scenic reserve, or scientific reserve, as provided for in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900419" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267002 - part 3 Classification and management of reserves" atidlm:xmlId="DLM1267019" atidlm:state="UNCHANGED"><atidlm:linkcontent>Part 3</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641259" atidlm:sourceXmlId="DLM1267019" atidlm:targetKey="2931127" atidlm:targetXmlId="DLM444490" atidlm:targetName="part 3 Classification and management of reserves" atidlm:sourceName="DLM1267019" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM444490.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065423" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Reserves Act 1977 (but not a reserve that is vested in a local authority):</text>
+                        <text>a government purpose reserve, historic reserve, nature reserve, recreation reserve, scenic reserve, or scientific reserve, as provided for in <citation jurisdiction="nz"><extref href="DLM444490">Part 3</extref></citation> of the Reserves Act 1977 (but not a reserve that is vested in a local authority):</text>
                       </para>
                     </label-para>
                     <label-para skeleton="no">
                       <label auto.number="no" denominator="yes">c</label>
                       <para>
-                        <text>a marine reserve, as defined in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900420" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267003 - prov 2" atidlm:xmlId="DLM1267020" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641260" atidlm:sourceXmlId="DLM1267020" atidlm:targetKey="2554348" atidlm:targetXmlId="DLM397843" atidlm:targetName="prov 2" atidlm:sourceName="DLM1267020" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM397837.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065423" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Marine Reserves Act 1971:</text>
+                        <text>a marine reserve, as defined in <citation jurisdiction="nz"><extref href="DLM397843">section 2</extref></citation> of the Marine Reserves Act 1971:</text>
                       </para>
                     </label-para>
                     <label-para skeleton="no">
                       <label auto.number="no" denominator="yes">d</label>
                       <para>
-                        <text>a national park, as defined in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900421" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267004 - prov 2" atidlm:xmlId="DLM1267021" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641261" atidlm:sourceXmlId="DLM1267021" atidlm:targetKey="196206" atidlm:targetXmlId="DLM36968" atidlm:targetName="prov 2" atidlm:sourceName="DLM1267021" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM36962.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065423" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the National Parks Act 1980</text>
+                        <text>a national park, as defined in <citation jurisdiction="nz"><extref href="DLM36968">section 2</extref></citation> of the National Parks Act 1980</text>
                       </para>
                     </label-para>
                   </para>
@@ -208,17 +209,17 @@
                 </def-para>
                 <def-para id="DLM1065427">
                   <para>
-                    <text><def-term id="DLM1065428">district</def-term> has the same meaning as in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900422" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267005 - prov 5" atidlm:xmlId="DLM1267022" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641262" atidlm:sourceXmlId="DLM1267022" atidlm:targetKey="977206" atidlm:targetXmlId="DLM170881" atidlm:targetName="prov 5" atidlm:sourceName="DLM1267022" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM170878.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065427" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Local Government Act 2002</text>
+                    <text><def-term id="DLM1065428">district</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM170881">section 5</extref></citation> of the Local Government Act 2002</text>
                   </para>
                 </def-para>
                 <def-para id="DLM1065429">
                   <para>
-                    <text><def-term id="DLM1065430">document</def-term> has the same meaning as in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900423" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267006 - prov 4" atidlm:xmlId="DLM1267023" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641263" atidlm:sourceXmlId="DLM1267023" atidlm:targetKey="1112425" atidlm:targetXmlId="DLM191969" atidlm:targetName="prov 4" atidlm:sourceName="DLM1267023" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM191966.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065429" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003</text>
+                    <text><def-term id="DLM1065430">document</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM191969">section 4</extref></citation> of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003</text>
                   </para>
                 </def-para>
                 <def-para id="DLM1065431">
                   <para>
-                    <text><def-term id="DLM1065432">Gazetteer</def-term> means the New Zealand Gazetteer of Official Geographic Names required to be established and maintained by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900424" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266201 - prov 13" atidlm:xmlId="DLM1267024" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 13</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641264" atidlm:sourceXmlId="DLM1267024" atidlm:targetKey="10538811" atidlm:targetXmlId="DLM1065483" atidlm:targetName="prov 13" atidlm:sourceName="DLM1267024" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065431" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></text>
+                    <text><def-term id="DLM1065432">Gazetteer</def-term> means the New Zealand Gazetteer of Official Geographic Names required to be established and maintained by <citation jurisdiction="nz"><intref href="DLM1065483">section 13</intref></citation></text>
                   </para>
                 </def-para>
                 <def-para id="DLM1065433">
@@ -257,7 +258,7 @@
                 </def-para>
                 <def-para id="DLM1065438">
                   <para>
-                    <text><def-term id="DLM1065439">local authority</def-term> has the same meaning as in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978934" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343102 - prov 5" atidlm:xmlId="DLM1343138" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672617" atidlm:sourceXmlId="DLM1343138" atidlm:targetKey="977206" atidlm:targetXmlId="DLM170881" atidlm:targetName="prov 5" atidlm:sourceName="DLM1343138" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM170878.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065438" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Local Government Act 2002</text>
+                    <text><def-term id="DLM1065439">local authority</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM170881">section 5</extref></citation> of the Local Government Act 2002</text>
                   </para>
                 </def-para>
                 <def-para id="DLM1065440">
@@ -320,7 +321,7 @@
                         <label-para skeleton="no">
                           <label auto.number="no" denominator="yes">ii</label>
                           <para>
-                            <text>the names validated by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900425" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266202 - prov 35" atidlm:xmlId="DLM1267025" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 35</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641265" atidlm:sourceXmlId="DLM1267025" atidlm:targetKey="10539805" atidlm:targetXmlId="DLM1065521" atidlm:targetName="prov 35" atidlm:sourceName="DLM1267025" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065449" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
+                            <text>the names validated by <citation jurisdiction="nz"><intref href="DLM1065521">section 35</intref></citation>; and</text>
                           </para>
                         </label-para>
                       </para>
@@ -332,13 +333,13 @@
                         <label-para skeleton="no">
                           <label auto.number="no" denominator="yes">i</label>
                           <para>
-                            <text>the name of a Crown protected area reviewed and concurred with by the Board under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978935" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343104 - subpart 3 Review of proposals for naming Crown protected areas" atidlm:xmlId="DLM1343139" atidlm:state="UNCHANGED"><atidlm:linkcontent>subpart 3</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672618" atidlm:sourceXmlId="DLM1343139" atidlm:targetKey="10539608" atidlm:targetXmlId="DLM1065506" atidlm:targetName="subpart 3 Review of proposals for naming Crown protected areas" atidlm:sourceName="DLM1343139" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065449" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of Part 2</citation>; and</text>
+                            <text>the name of a Crown protected area reviewed and concurred with by the Board under <citation jurisdiction="nz"><intref href="DLM1065506">subpart 3</intref> of Part 2</citation>; and</text>
                           </para>
                         </label-para>
                         <label-para skeleton="no">
                           <label auto.number="no" denominator="yes">ii</label>
                           <para>
-                            <text>a name published in the <emphasis style="italic">Gazette</emphasis> under the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978936" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343103 - New Zealand Geographic Board Act 1946" atidlm:xmlId="DLM1343140" atidlm:state="UNCHANGED"><atidlm:linkcontent>New Zealand Geographic Board Act 1946</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672619" atidlm:sourceXmlId="DLM1343140" atidlm:targetKey="1655222" atidlm:targetXmlId="DLM240104" atidlm:targetName="New Zealand Geographic Board Act 1946" atidlm:sourceName="DLM1343140" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240104.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065449" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
+                            <text>a name published in the <emphasis style="italic">Gazette</emphasis> under the <citation jurisdiction="nz"><extref href="DLM240104">New Zealand Geographic Board Act 1946</extref></citation>; and</text>
                           </para>
                         </label-para>
                         <label-para skeleton="no">
@@ -376,7 +377,7 @@
                 </def-para>
                 <def-para id="DLM1065453">
                   <para>
-                    <text><def-term id="DLM1065454">public office</def-term> has the same meaning as in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900427" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267007 - prov 4" atidlm:xmlId="DLM1267027" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641267" atidlm:sourceXmlId="DLM1267027" atidlm:targetKey="2060810" atidlm:targetXmlId="DLM345537" atidlm:targetName="prov 4" atidlm:sourceName="DLM1267027" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM345535.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065453" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Public Records Act 2005</text>
+                    <text><def-term id="DLM1065454">public office</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM345537">section 4</extref></citation> of the Public Records Act 2005</text>
                   </para>
                 </def-para>
                 <def-para id="DLM1065455">
@@ -410,7 +411,7 @@
                 </def-para>
                 <def-para id="DLM1065457">
                   <para>
-                    <text><def-term id="DLM1065458">region</def-term> has the same meaning as in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978937" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343105 - prov 5" atidlm:xmlId="DLM1343141" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672620" atidlm:sourceXmlId="DLM1343141" atidlm:targetKey="977206" atidlm:targetXmlId="DLM170881" atidlm:targetName="prov 5" atidlm:sourceName="DLM1343141" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM170878.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065457" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Local Government Act 2002</text>
+                    <text><def-term id="DLM1065458">region</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM170881">section 5</extref></citation> of the Local Government Act 2002</text>
                   </para>
                 </def-para>
                 <def-para id="DLM1065459">
@@ -435,7 +436,7 @@
                 </def-para>
                 <def-para id="DLM1065467">
                   <para>
-                    <text><def-term id="DLM1065468">ward</def-term> has the same meaning as in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900428" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267008 - prov 5" atidlm:xmlId="DLM1267028" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641268" atidlm:sourceXmlId="DLM1267028" atidlm:targetKey="514401" atidlm:targetXmlId="DLM93310" atidlm:targetName="prov 5" atidlm:sourceName="DLM1267028" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM93309.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065467" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Local Electoral Act 2001.</text>
+                    <text><def-term id="DLM1065468">ward</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM93310">section 5</extref></citation> of the Local Electoral Act 2001.</text>
                   </para>
                 </def-para>
               </para>
@@ -465,19 +466,19 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
-                    <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900429" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266204 - prov 11" atidlm:xmlId="DLM1267029" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 11(1)(d)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641269" atidlm:sourceXmlId="DLM1267029" atidlm:targetKey="10538807" atidlm:targetXmlId="DLM1065479" atidlm:targetName="prov 11" atidlm:sourceName="DLM1267029" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065470" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> confers on the Board the function of collecting original Māori names of geographic features for recording on official charts and official maps; and</text>
+                    <text><citation jurisdiction="nz"><intref href="DLM1065479">section 11(1)(d)</intref></citation> confers on the Board the function of collecting original Māori names of geographic features for recording on official charts and official maps; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978938" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343106 - prov 11" atidlm:xmlId="DLM1343142" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 11(1)(e)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672621" atidlm:sourceXmlId="DLM1343142" atidlm:targetKey="10538807" atidlm:targetXmlId="DLM1065479" atidlm:targetName="prov 11" atidlm:sourceName="DLM1343142" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065470" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> confers on the Board the function of encouraging the use of original Māori names of geographic features on official charts and official maps; and</text>
+                    <text><citation jurisdiction="nz"><intref href="DLM1065479">section 11(1)(e)</intref></citation> confers on the Board the function of encouraging the use of original Māori names of geographic features on official charts and official maps; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">c</label>
                   <para>
-                    <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978939" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343107 - prov 1" atidlm:xmlId="DLM1343143" atidlm:state="UNCHANGED"><atidlm:linkcontent>clause 1(2)(a)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672622" atidlm:sourceXmlId="DLM1343143" atidlm:targetKey="10540001" atidlm:targetXmlId="DLM1065529" atidlm:targetName="prov 1" atidlm:sourceName="DLM1343143" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065418.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065470" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of Schedule 1</citation> requires 2 persons to be appointed to the Board, on the recommendation of the Minister of Māori Affairs.</text>
+                    <text><citation jurisdiction="nz"><intref href="DLM1065529">clause 1(2)(a)</intref> of Schedule 1</citation> requires 2 persons to be appointed to the Board, on the recommendation of the Minister of Māori Affairs.</text>
                   </para>
                 </label-para>
               </para>
@@ -485,7 +486,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2005-10-28" id="DLM1065471" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
+      <subpart date.instructed="2005-10-28" id="DLM1065471" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
         <label auto.number="no" denominator="yes">2</label>
         <heading>New Zealand Geographic Board: its jurisdiction, powers, functions, and duties</heading>
         <crosshead id="DLM1065472" toc="yes">Board</crosshead>
@@ -496,7 +497,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>The New Zealand Geographic Board established by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900431" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267009 - prov 3" atidlm:xmlId="DLM1267031" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 3</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641271" atidlm:sourceXmlId="DLM1267031" atidlm:targetKey="1655803" atidlm:targetXmlId="DLM240128" atidlm:targetName="prov 3" atidlm:sourceName="DLM1267031" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240127.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065473" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the New Zealand Geographic Board Act 1946 is continued with the name New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa.</text>
+                <text>The New Zealand Geographic Board established by <citation jurisdiction="nz"><extref href="DLM240128">section 3</extref></citation> of the New Zealand Geographic Board Act 1946 is continued with the name New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa.</text>
               </para>
             </subprov>
             <subprov skeleton="no">
@@ -508,7 +509,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">3</label>
               <para>
-                <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900432" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266206 - schedule 1 Appointments and other procedures" atidlm:xmlId="DLM1267032" atidlm:state="UNCHANGED"><atidlm:linkcontent>Schedule 1</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641272" atidlm:sourceXmlId="DLM1267032" atidlm:targetKey="10540015" atidlm:targetXmlId="DLM1065527" atidlm:targetName="schedule 1 Appointments and other procedures" atidlm:sourceName="DLM1267032" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065473" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> applies to the Board and its members.</text>
+                <text><citation jurisdiction="nz"><intref href="DLM1065527">Schedule 1</intref></citation> applies to the Board and its members.</text>
               </para>
             </subprov>
           </prov.body>
@@ -531,13 +532,13 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>the continental shelf, as defined in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900433" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267010 - prov 2" atidlm:xmlId="DLM1267033" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 2(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641273" atidlm:sourceXmlId="DLM1267033" atidlm:targetKey="2278046" atidlm:targetXmlId="DLM351644" atidlm:targetName="prov 2" atidlm:sourceName="DLM1267033" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM351638.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065475" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Continental Shelf Act 1964; and</text>
+                    <text>the continental shelf, as defined in <citation jurisdiction="nz"><extref href="DLM351644">section 2(1)</extref></citation> of the Continental Shelf Act 1964; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">c</label>
                   <para>
-                    <text>the Ross Dependency, as defined in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900434" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267011 - prov 7" atidlm:xmlId="DLM1267034" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 7(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641274" atidlm:sourceXmlId="DLM1267034" atidlm:targetKey="1785448" atidlm:targetXmlId="DLM342795" atidlm:targetName="prov 7" atidlm:sourceName="DLM1267034" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM342789.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065475" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Antarctica (Environmental Protection) Act 1994.</text>
+                    <text>the Ross Dependency, as defined in <citation jurisdiction="nz"><extref href="DLM342795">section 7(1)</extref></citation> of the Antarctica (Environmental Protection) Act 1994.</text>
                   </para>
                 </label-para>
               </para>
@@ -660,17 +661,17 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
               <para>
-                <text>Any proposal to assign a name to, or alter the name of, a Crown protected area must be reviewed by the Board in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900435" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266207 - prov 27" atidlm:xmlId="DLM1267035" atidlm:state="UNCHANGED"><atidlm:linkcontent>sections 27 to 30</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641275" atidlm:sourceXmlId="DLM1267035" atidlm:targetKey="10539601" atidlm:targetXmlId="DLM1065508" atidlm:targetName="prov 27" atidlm:sourceName="DLM1267035" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065478" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                <text>Any proposal to assign a name to, or alter the name of, a Crown protected area must be reviewed by the Board in accordance with <citation jurisdiction="nz"><intref href="DLM1065508">sections 27 to 30</intref></citation>.</text>
               </para>
             </subprov>
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">3</label>
               <para>
-                <text>This section and <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900436" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266208 - prov 11" atidlm:xmlId="DLM1267036" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 11</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641276" atidlm:sourceXmlId="DLM1267036" atidlm:targetKey="10538807" atidlm:targetXmlId="DLM1065479" atidlm:targetName="prov 11" atidlm:sourceName="DLM1267036" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065478" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> apply despite any other enactment, but do not limit the other provisions of this Act.</text>
+                <text>This section and <citation jurisdiction="nz"><intref href="DLM1065479">section 11</intref></citation> apply despite any other enactment, but do not limit the other provisions of this Act.</text>
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3<citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900437" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266244 - prov 9" atidlm:xmlId="DLM1267037" atidlm:state="UNCHANGED"><atidlm:linkcontent> s 9(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641277" atidlm:sourceXmlId="DLM1267037" atidlm:targetKey="1656604" atidlm:targetXmlId="DLM240143" atidlm:targetName="prov 9" atidlm:sourceName="DLM1267037" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065478" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3<citation jurisdiction="nz"><extref href="DLM240143"> s 9(1)</extref></citation></cf>
         </prov>
         <prov id="DLM1065479" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">11</label>
@@ -679,7 +680,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>In order to carry out its principal functions under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900438" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266209 - prov 10" atidlm:xmlId="DLM1267038" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 10</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641278" atidlm:sourceXmlId="DLM1267038" atidlm:targetKey="10538806" atidlm:targetXmlId="DLM1065478" atidlm:targetName="prov 10" atidlm:sourceName="DLM1267038" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065479" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, the Board may—</text>
+                <text>In order to carry out its principal functions under <citation jurisdiction="nz"><intref href="DLM1065478">section 10</intref></citation>, the Board may—</text>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
@@ -733,7 +734,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
               <para>
-                <text>Without limiting <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900439" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267012 - prov 260" atidlm:xmlId="DLM1267039" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 260</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641280" atidlm:sourceXmlId="DLM1267039" atidlm:targetKey="995201" atidlm:targetXmlId="DLM174084" atidlm:targetName="prov 260" atidlm:sourceName="DLM1267039" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM174082.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065479" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Local Government Act 2002, the Board may alter the name of a district or region if, by resolution, a meeting of the relevant local authority—</text>
+                <text>Without limiting <citation jurisdiction="nz"><extref href="DLM174084">section 260</extref></citation> of the Local Government Act 2002, the Board may alter the name of a district or region if, by resolution, a meeting of the relevant local authority—</text>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
@@ -751,11 +752,11 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">3</label>
               <para>
-                <text>If the Board carries out the function provided for by subsection (2), the provisions of <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900440" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266210 - prov 16" atidlm:xmlId="DLM1267040" atidlm:state="UNCHANGED"><atidlm:linkcontent>sections 16</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641281" atidlm:sourceXmlId="DLM1267040" atidlm:targetKey="10539206" atidlm:targetXmlId="DLM1065492" atidlm:targetName="prov 16" atidlm:sourceName="DLM1267040" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065479" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> to 20</citation> apply as if the district or region affected were a geographic feature.</text>
+                <text>If the Board carries out the function provided for by subsection (2), the provisions of <citation jurisdiction="nz"><intref href="DLM1065492">sections 16</intref> to 20</citation> apply as if the district or region affected were a geographic feature.</text>
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900441" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266245 - prov 8" atidlm:xmlId="DLM1267041" atidlm:state="UNCHANGED"><atidlm:linkcontent>ss 8(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641282" atidlm:sourceXmlId="DLM1267041" atidlm:targetKey="1656601" atidlm:targetXmlId="DLM240141" atidlm:targetName="prov 8" atidlm:sourceName="DLM1267041" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065479" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900442" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266246 - prov 10" atidlm:xmlId="DLM1267042" atidlm:state="UNCHANGED"><atidlm:linkcontent>10</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641283" atidlm:sourceXmlId="DLM1267042" atidlm:targetKey="1656606" atidlm:targetXmlId="DLM240146" atidlm:targetName="prov 10" atidlm:sourceName="DLM1267042" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065479" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240141">ss 8(1)</extref></citation>, <citation jurisdiction="nz"><extref href="DLM240146">10</extref></citation></cf>
         </prov>
         <crosshead id="DLM1065480" toc="yes">Duties of Board</crosshead>
         <prov id="DLM1065481" irdnumbering="no" skeleton="no" toc="yes">
@@ -769,7 +770,7 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
-                    <text>administer the Gazetteer as provided for by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900443" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266211 - prov 13" atidlm:xmlId="DLM1267043" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 13</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641284" atidlm:sourceXmlId="DLM1267043" atidlm:targetKey="10538811" atidlm:targetXmlId="DLM1065483" atidlm:targetName="prov 13" atidlm:sourceName="DLM1267043" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065481" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
+                    <text>administer the Gazetteer as provided for by <citation jurisdiction="nz"><intref href="DLM1065483">section 13</intref></citation>; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
@@ -793,7 +794,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900444" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266247 - prov 8" atidlm:xmlId="DLM1267044" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 8(1)(g)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641285" atidlm:sourceXmlId="DLM1267044" atidlm:targetKey="1656601" atidlm:targetXmlId="DLM240141" atidlm:targetName="prov 8" atidlm:sourceName="DLM1267044" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065481" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, (2)</cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240141">s 8(1)(g)</extref></citation>, (2)</cf>
         </prov>
         <crosshead id="DLM1065482" toc="yes">Gazetteer</crosshead>
         <prov id="DLM1065483" irdnumbering="no" skeleton="no" toc="yes">
@@ -876,17 +877,17 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">3</label>
               <para>
-                <text>A summary of the annual report of the Board must be included in the annual report of Land Information New Zealand presented to the House of Representatives under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900445" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267013 - prov 39" atidlm:xmlId="DLM1267045" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 39</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641286" atidlm:sourceXmlId="DLM1267045" atidlm:targetKey="883714" atidlm:targetXmlId="DLM162412" atidlm:targetName="prov 39" atidlm:sourceName="DLM1267045" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM162077.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065485" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Public Finance Act 1989.</text>
+                <text>A summary of the annual report of the Board must be included in the annual report of Land Information New Zealand presented to the House of Representatives under <citation jurisdiction="nz"><extref href="DLM162412">section 39</extref></citation> of the Public Finance Act 1989.</text>
               </para>
             </subprov>
           </prov.body>
         </prov>
       </subpart>
     </part>
-    <part date.instructed="2005-10-28" id="DLM1065486" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" date.first.valid="2008-11-01" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" stage="reprint" year="2008">
+    <part date.instructed="2005-10-28" id="DLM1065486" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" date.first.valid="2008-11-01" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" stage="reprint" year="2008">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Naming of geographic features and Crown protected areas</heading>
-      <subpart date.instructed="2005-10-28" id="DLM1065487" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
+      <subpart date.instructed="2005-10-28" id="DLM1065487" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Process for naming geographic features</heading>
         <crosshead id="DLM1065488" toc="yes">Proposals</crosshead>
@@ -970,17 +971,17 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>This section and <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900446" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266212 - prov 17" atidlm:xmlId="DLM1267046" atidlm:state="UNCHANGED"><atidlm:linkcontent>sections 17 to 21</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641287" atidlm:sourceXmlId="DLM1267046" atidlm:targetKey="10539207" atidlm:targetXmlId="DLM1065493" atidlm:targetName="prov 17" atidlm:sourceName="DLM1267046" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065492" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> apply, in relation to a geographic feature within the territorial limits of New Zealand, to a proposal for an official geographic name—</text>
+                <text>This section and <citation jurisdiction="nz"><intref href="DLM1065493">sections 17 to 21</intref></citation> apply, in relation to a geographic feature within the territorial limits of New Zealand, to a proposal for an official geographic name—</text>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
-                    <text>submitted to the Board under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900447" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266213 - prov 15" atidlm:xmlId="DLM1267047" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 15</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641288" atidlm:sourceXmlId="DLM1267047" atidlm:targetKey="10539204" atidlm:targetXmlId="DLM1065489" atidlm:targetName="prov 15" atidlm:sourceName="DLM1267047" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065492" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; or</text>
+                    <text>submitted to the Board under <citation jurisdiction="nz"><intref href="DLM1065489">section 15</intref></citation>; or</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>made by the Board under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900448" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266214 - prov 10" atidlm:xmlId="DLM1267048" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 10(1)(a)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641289" atidlm:sourceXmlId="DLM1267048" atidlm:targetKey="10538806" atidlm:targetXmlId="DLM1065478" atidlm:targetName="prov 10" atidlm:sourceName="DLM1267048" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065492" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> to (d)</citation> (unless the exceptions provided for under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900449" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266215 - subpart 2 Exceptions to certain notification requirements" atidlm:xmlId="DLM1267049" atidlm:state="UNCHANGED"><atidlm:linkcontent>subpart 2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641290" atidlm:sourceXmlId="DLM1267049" atidlm:targetKey="10539405" atidlm:targetXmlId="DLM1065500" atidlm:targetName="subpart 2 Exceptions to certain notification requirements" atidlm:sourceName="DLM1267049" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065500.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065492" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> apply).</text>
+                    <text>made by the Board under <citation jurisdiction="nz"><intref href="DLM1065478">section 10(1)(a)</intref> to (d)</citation> (unless the exceptions provided for under <citation jurisdiction="nz"><intref href="DLM1065500">subpart 2</intref></citation> apply).</text>
                   </para>
                 </label-para>
               </para>
@@ -1046,7 +1047,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900450" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266248 - prov 12" atidlm:xmlId="DLM1267050" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 12</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641291" atidlm:sourceXmlId="DLM1267050" atidlm:targetKey="1656612" atidlm:targetXmlId="DLM240152" atidlm:targetName="prov 12" atidlm:sourceName="DLM1267050" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065492" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240152">s 12</extref></citation></cf>
         </prov>
         <prov id="DLM1065493" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">17</label>
@@ -1071,7 +1072,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900451" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266249 - prov 13" atidlm:xmlId="DLM1267051" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 13(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641292" atidlm:sourceXmlId="DLM1267051" atidlm:targetKey="1656614" atidlm:targetXmlId="DLM240154" atidlm:targetName="prov 13" atidlm:sourceName="DLM1267051" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065493" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240154">s 13(1)</extref></citation></cf>
         </prov>
         <prov id="DLM1065494" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">18</label>
@@ -1138,7 +1139,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3<citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900452" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266250 - prov 13" atidlm:xmlId="DLM1267052" atidlm:state="UNCHANGED"><atidlm:linkcontent>ss 13(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641293" atidlm:sourceXmlId="DLM1267052" atidlm:targetKey="1656614" atidlm:targetXmlId="DLM240154" atidlm:targetName="prov 13" atidlm:sourceName="DLM1267052" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065495" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900453" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266252 - prov 14" atidlm:xmlId="DLM1267053" atidlm:state="UNCHANGED"><atidlm:linkcontent>14</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641294" atidlm:sourceXmlId="DLM1267053" atidlm:targetKey="1656615" atidlm:targetXmlId="DLM240156" atidlm:targetName="prov 14" atidlm:sourceName="DLM1267053" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065495" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3<citation jurisdiction="nz"><extref href="DLM240154">ss 13(2)</extref></citation>, <citation jurisdiction="nz"><extref href="DLM240156">14</extref></citation></cf>
         </prov>
         <prov id="DLM1065496" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">20</label>
@@ -1147,7 +1148,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>If the Board does not make a determination under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978940" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343108 - prov 19" atidlm:xmlId="DLM1343144" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 19(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672623" atidlm:sourceXmlId="DLM1343144" atidlm:targetKey="10539209" atidlm:targetXmlId="DLM1065495" atidlm:targetName="prov 19" atidlm:sourceName="DLM1343144" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065496" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, it must report in writing to the Minister, setting out—</text>
+                <text>If the Board does not make a determination under <citation jurisdiction="nz"><intref href="DLM1065495">section 19(1)</intref></citation>, it must report in writing to the Minister, setting out—</text>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
@@ -1175,7 +1176,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900454" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266251 - prov 13" atidlm:xmlId="DLM1267054" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 13</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641295" atidlm:sourceXmlId="DLM1267054" atidlm:targetKey="1656614" atidlm:targetXmlId="DLM240154" atidlm:targetName="prov 13" atidlm:sourceName="DLM1267054" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065496" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240154">s 13</extref></citation></cf>
         </prov>
         <prov id="DLM1065497" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">21</label>
@@ -1184,13 +1185,13 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>This section applies to determinations other than those that relate to the function of the Board to alter the name of a district or region, as provided for by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900455" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266216 - prov 11" atidlm:xmlId="DLM1267055" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 11(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641296" atidlm:sourceXmlId="DLM1267055" atidlm:targetKey="10538807" atidlm:targetXmlId="DLM1065479" atidlm:targetName="prov 11" atidlm:sourceName="DLM1267055" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065497" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                <text>This section applies to determinations other than those that relate to the function of the Board to alter the name of a district or region, as provided for by <citation jurisdiction="nz"><intref href="DLM1065479">section 11(2)</intref></citation>.</text>
               </para>
             </subprov>
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
               <para>
-                <text>The Board must give public notice of a determination made under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900456" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266217 - prov 19" atidlm:xmlId="DLM1267056" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 19</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641297" atidlm:sourceXmlId="DLM1267056" atidlm:targetKey="10539209" atidlm:targetXmlId="DLM1065495" atidlm:targetName="prov 19" atidlm:sourceName="DLM1267056" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065497" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> or <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900457" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266218 - prov 20" atidlm:xmlId="DLM1267057" atidlm:state="UNCHANGED"><atidlm:linkcontent>20</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641298" atidlm:sourceXmlId="DLM1267057" atidlm:targetKey="10539210" atidlm:targetXmlId="DLM1065496" atidlm:targetName="prov 20" atidlm:sourceName="DLM1267057" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065497" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>—</text>
+                <text>The Board must give public notice of a determination made under <citation jurisdiction="nz"><intref href="DLM1065495">section 19</intref> or <intref href="DLM1065496">20</intref></citation>—</text>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
@@ -1248,7 +1249,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900458" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266253 - prov 15" atidlm:xmlId="DLM1267058" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 15</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641299" atidlm:sourceXmlId="DLM1267058" atidlm:targetKey="1656617" atidlm:targetXmlId="DLM240157" atidlm:targetName="prov 15" atidlm:sourceName="DLM1267058" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065497" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240157">s 15</extref></citation></cf>
         </prov>
         <prov id="DLM1065498" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">22</label>
@@ -1257,19 +1258,19 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>This section applies if the Board carries out the function to alter the name of a district or region provided for under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900459" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266219 - prov 11" atidlm:xmlId="DLM1267059" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 11(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641300" atidlm:sourceXmlId="DLM1267059" atidlm:targetKey="10538807" atidlm:targetXmlId="DLM1065479" atidlm:targetName="prov 11" atidlm:sourceName="DLM1267059" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065498" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                <text>This section applies if the Board carries out the function to alter the name of a district or region provided for under <citation jurisdiction="nz"><intref href="DLM1065479">section 11(2)</intref></citation>.</text>
               </para>
             </subprov>
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
               <para>
-                <text>Before the Board may give public notice of a determination to alter the name of a district or region, it must request the Minister to recommend to the Governor-General to make an Order in Council under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900460" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267014 - prov 260" atidlm:xmlId="DLM1267060" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 260</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641301" atidlm:sourceXmlId="DLM1267060" atidlm:targetKey="995201" atidlm:targetXmlId="DLM174084" atidlm:targetName="prov 260" atidlm:sourceName="DLM1267060" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM174082.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065498" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Local Government Act 2002 to amend the name of the relevant local authority in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900461" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1267015 - schedule 2 Local authorities" atidlm:xmlId="DLM1267061" atidlm:state="UNCHANGED"><atidlm:linkcontent>Schedule 2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641302" atidlm:sourceXmlId="DLM1267061" atidlm:targetKey="997611" atidlm:targetXmlId="DLM174258" atidlm:targetName="schedule 2 Local authorities" atidlm:sourceName="DLM1267061" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM174258.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065498" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of that Act to give effect to the alteration.</text>
+                <text>Before the Board may give public notice of a determination to alter the name of a district or region, it must request the Minister to recommend to the Governor-General to make an Order in Council under <citation jurisdiction="nz"><extref href="DLM174084">section 260</extref></citation> of the Local Government Act 2002 to amend the name of the relevant local authority in <citation jurisdiction="nz"><extref href="DLM174258">Schedule 2</extref></citation> of that Act to give effect to the alteration.</text>
               </para>
             </subprov>
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">3</label>
               <para>
-                <text>An Order in Council must specify the date when the amendment takes effect, which must allow the Board sufficient time to give public notice as required by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900462" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266220 - prov 23" atidlm:xmlId="DLM1267062" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 23(2)(a)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641303" atidlm:sourceXmlId="DLM1267062" atidlm:targetKey="10539200" atidlm:targetXmlId="DLM1065499" atidlm:targetName="prov 23" atidlm:sourceName="DLM1267062" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065498" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                <text>An Order in Council must specify the date when the amendment takes effect, which must allow the Board sufficient time to give public notice as required by <citation jurisdiction="nz"><intref href="DLM1065499">section 23(2)(a)</intref></citation>.</text>
               </para>
             </subprov>
           </prov.body>
@@ -1281,7 +1282,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>As soon as is reasonably practicable after the Governor-General has made an Order in Council in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900463" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266221 - prov 22" atidlm:xmlId="DLM1267063" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 22(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641304" atidlm:sourceXmlId="DLM1267063" atidlm:targetKey="10539212" atidlm:targetXmlId="DLM1065498" atidlm:targetName="prov 22" atidlm:sourceName="DLM1267063" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065499" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, the Board must give public notice of the determination to alter the name of the relevant district or region.</text>
+                <text>As soon as is reasonably practicable after the Governor-General has made an Order in Council in accordance with <citation jurisdiction="nz"><intref href="DLM1065498">section 22(2)</intref></citation>, the Board must give public notice of the determination to alter the name of the relevant district or region.</text>
               </para>
             </subprov>
             <subprov skeleton="no">
@@ -1291,13 +1292,13 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
-                    <text>be given in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900464" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266222 - prov 21" atidlm:xmlId="DLM1267064" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 21(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641305" atidlm:sourceXmlId="DLM1267064" atidlm:targetKey="10539211" atidlm:targetXmlId="DLM1065497" atidlm:targetName="prov 21" atidlm:sourceName="DLM1267064" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065499" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
+                    <text>be given in accordance with <citation jurisdiction="nz"><intref href="DLM1065497">section 21(2)</intref></citation>; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>state the date on which the determination takes effect, which must be the date stated in the Order in Council made under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900465" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266223 - prov 22" atidlm:xmlId="DLM1267065" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 22(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641306" atidlm:sourceXmlId="DLM1267065" atidlm:targetKey="10539212" atidlm:targetXmlId="DLM1065498" atidlm:targetName="prov 22" atidlm:sourceName="DLM1267065" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065499" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                    <text>state the date on which the determination takes effect, which must be the date stated in the Order in Council made under <citation jurisdiction="nz"><intref href="DLM1065498">section 22(2)</intref></citation>.</text>
                   </para>
                 </label-para>
               </para>
@@ -1305,7 +1306,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2005-10-28" id="DLM1065500" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
+      <subpart date.instructed="2005-10-28" id="DLM1065500" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
         <label auto.number="no" denominator="yes">2</label>
         <heading>Exceptions to certain notification requirements</heading>
         <crosshead id="DLM1065501" toc="yes">Circumstance where no public objection likely</crosshead>
@@ -1316,13 +1317,13 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>This section applies if the Board, in carrying out its functions under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900466" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266224 - prov 10" atidlm:xmlId="DLM1267066" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 10(1)(b)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641307" atidlm:sourceXmlId="DLM1267066" atidlm:targetKey="10538806" atidlm:targetXmlId="DLM1065478" atidlm:targetName="prov 10" atidlm:sourceName="DLM1267066" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065500.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065502" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> or (d)</citation>, is of the opinion that there is not likely to be public objection.</text>
+                <text>This section applies if the Board, in carrying out its functions under <citation jurisdiction="nz"><intref href="DLM1065478">section 10(1)(b)</intref> or (d)</citation>, is of the opinion that there is not likely to be public objection.</text>
               </para>
             </subprov>
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
               <para>
-                <text>Without giving public notice under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900467" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266225 - prov 16" atidlm:xmlId="DLM1267067" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 16</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641308" atidlm:sourceXmlId="DLM1267067" atidlm:targetKey="10539206" atidlm:targetXmlId="DLM1065492" atidlm:targetName="prov 16" atidlm:sourceName="DLM1267067" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065500.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065502" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, the Board may—</text>
+                <text>Without giving public notice under <citation jurisdiction="nz"><intref href="DLM1065492">section 16</intref></citation>, the Board may—</text>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
@@ -1340,7 +1341,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">3</label>
               <para>
-                <text>The Board must, as soon as is reasonably practicable, give public notice in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900468" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266226 - prov 21" atidlm:xmlId="DLM1267068" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 21(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641309" atidlm:sourceXmlId="DLM1267068" atidlm:targetKey="10539211" atidlm:targetXmlId="DLM1065497" atidlm:targetName="prov 21" atidlm:sourceName="DLM1267068" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065500.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065502" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of a decision made under subsection (2).</text>
+                <text>The Board must, as soon as is reasonably practicable, give public notice in accordance with <citation jurisdiction="nz"><intref href="DLM1065497">section 21(2)</intref></citation> of a decision made under subsection (2).</text>
               </para>
             </subprov>
           </prov.body>
@@ -1353,7 +1354,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>The provisions of <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900469" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266227 - prov 16" atidlm:xmlId="DLM1267069" atidlm:state="UNCHANGED"><atidlm:linkcontent>sections 16</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641310" atidlm:sourceXmlId="DLM1267069" atidlm:targetKey="10539206" atidlm:targetXmlId="DLM1065492" atidlm:targetName="prov 16" atidlm:sourceName="DLM1267069" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065500.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065504" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> to 20</citation> do not apply if, in relation to a geographic feature that is outside the territorial limits of New Zealand, the Board carries out the function of—</text>
+                <text>The provisions of <citation jurisdiction="nz"><intref href="DLM1065492">sections 16</intref> to 20</citation> do not apply if, in relation to a geographic feature that is outside the territorial limits of New Zealand, the Board carries out the function of—</text>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
@@ -1381,7 +1382,7 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>as soon as is reasonably practicable, give public notice of the official geographic name in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900470" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266228 - prov 21" atidlm:xmlId="DLM1267070" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 21(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641311" atidlm:sourceXmlId="DLM1267070" atidlm:targetKey="10539211" atidlm:targetXmlId="DLM1065497" atidlm:targetName="prov 21" atidlm:sourceName="DLM1267070" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065500.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065504" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                    <text>as soon as is reasonably practicable, give public notice of the official geographic name in accordance with <citation jurisdiction="nz"><intref href="DLM1065497">section 21(2)</intref></citation>.</text>
                   </para>
                 </label-para>
               </para>
@@ -1405,13 +1406,13 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
-                    <text>the provisions of <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900471" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266229 - prov 16" atidlm:xmlId="DLM1267071" atidlm:state="UNCHANGED"><atidlm:linkcontent>sections 16</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641312" atidlm:sourceXmlId="DLM1267071" atidlm:targetKey="10539206" atidlm:targetXmlId="DLM1065492" atidlm:targetName="prov 16" atidlm:sourceName="DLM1267071" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065500.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065505" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> to 20</citation> do not apply; but</text>
+                    <text>the provisions of <citation jurisdiction="nz"><intref href="DLM1065492">sections 16</intref> to 20</citation> do not apply; but</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>the Board must, as soon as is reasonably practicable, give public notice of the names adopted under subsection (1) in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900472" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266230 - prov 21" atidlm:xmlId="DLM1267072" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 21(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641313" atidlm:sourceXmlId="DLM1267072" atidlm:targetKey="10539211" atidlm:targetXmlId="DLM1065497" atidlm:targetName="prov 21" atidlm:sourceName="DLM1267072" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065500.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065505" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                    <text>the Board must, as soon as is reasonably practicable, give public notice of the names adopted under subsection (1) in accordance with <citation jurisdiction="nz"><intref href="DLM1065497">section 21(2)</intref></citation>.</text>
                   </para>
                 </label-para>
               </para>
@@ -1419,7 +1420,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2005-10-28" id="DLM1065506" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
+      <subpart date.instructed="2005-10-28" id="DLM1065506" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
         <label auto.number="no" denominator="yes">3</label>
         <heading>Review of proposals for naming Crown protected areas</heading>
         <crosshead id="DLM1065507" toc="yes">Proposals notified and consulted on under another enactment</crosshead>
@@ -1466,7 +1467,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">3</label>
               <para>
-                <text>The Board must review a proposed name in accordance with the policies, rules, standards, or guidelines developed under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900473" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266231 - prov 12" atidlm:xmlId="DLM1267073" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 12(b)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641314" atidlm:sourceXmlId="DLM1267073" atidlm:targetKey="10538809" atidlm:targetXmlId="DLM1065481" atidlm:targetName="prov 12" atidlm:sourceName="DLM1267073" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065508" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                <text>The Board must review a proposed name in accordance with the policies, rules, standards, or guidelines developed under <citation jurisdiction="nz"><intref href="DLM1065481">section 12(b)</intref></citation>.</text>
               </para>
             </subprov>
           </prov.body>
@@ -1478,17 +1479,17 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>If the Board concurs with a proposed name it reviews under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900474" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266232 - prov 27" atidlm:xmlId="DLM1267074" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 27(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641315" atidlm:sourceXmlId="DLM1267074" atidlm:targetKey="10539601" atidlm:targetXmlId="DLM1065508" atidlm:targetName="prov 27" atidlm:sourceName="DLM1267074" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065509" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, and the enactment under which the Crown protected area is named requires the person making the proposal to notify the name in the <emphasis style="italic">Gazette</emphasis> or include it in an enactment, the Board—</text>
+                <text>If the Board concurs with a proposed name it reviews under <citation jurisdiction="nz"><intref href="DLM1065508">section 27(3)</intref></citation>, and the enactment under which the Crown protected area is named requires the person making the proposal to notify the name in the <emphasis style="italic">Gazette</emphasis> or include it in an enactment, the Board—</text>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
-                    <text>need not give notice of the name in the <emphasis style="italic">Gazette</emphasis> in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900475" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266233 - prov 21" atidlm:xmlId="DLM1267075" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 21(2)(a)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641316" atidlm:sourceXmlId="DLM1267075" atidlm:targetKey="10539211" atidlm:targetXmlId="DLM1065497" atidlm:targetName="prov 21" atidlm:sourceName="DLM1267075" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065509" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; but</text>
+                    <text>need not give notice of the name in the <emphasis style="italic">Gazette</emphasis> in accordance with <citation jurisdiction="nz"><intref href="DLM1065497">section 21(2)(a)</intref></citation>; but</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>must give notice of the name in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978941" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343109 - prov 21" atidlm:xmlId="DLM1343145" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 21(2)(b)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672624" atidlm:sourceXmlId="DLM1343145" atidlm:targetKey="10539211" atidlm:targetXmlId="DLM1065497" atidlm:targetName="prov 21" atidlm:sourceName="DLM1343145" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065509" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                    <text>must give notice of the name in accordance with <citation jurisdiction="nz"><intref href="DLM1065497">section 21(2)(b)</intref></citation>.</text>
                   </para>
                 </label-para>
               </para>
@@ -1496,7 +1497,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
               <para>
-                <text>However, if the relevant enactment does not provide for public notice of the name to be given or for the name to be included in a <emphasis style="italic">Gazette</emphasis> notice or in an enactment, the Board must give public notice of the name in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900476" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266234 - prov 21" atidlm:xmlId="DLM1267076" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 21(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641317" atidlm:sourceXmlId="DLM1267076" atidlm:targetKey="10539211" atidlm:targetXmlId="DLM1065497" atidlm:targetName="prov 21" atidlm:sourceName="DLM1267076" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065509" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                <text>However, if the relevant enactment does not provide for public notice of the name to be given or for the name to be included in a <emphasis style="italic">Gazette</emphasis> notice or in an enactment, the Board must give public notice of the name in accordance with <citation jurisdiction="nz"><intref href="DLM1065497">section 21(2)</intref></citation>.</text>
               </para>
             </subprov>
           </prov.body>
@@ -1508,7 +1509,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>Despite the requirements of any other enactment, if the Board does not concur with a proposed name reviewed under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900477" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266235 - prov 27" atidlm:xmlId="DLM1267077" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 27(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641318" atidlm:sourceXmlId="DLM1267077" atidlm:targetKey="10539601" atidlm:targetXmlId="DLM1065508" atidlm:targetName="prov 27" atidlm:sourceName="DLM1267077" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065510" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, it must refer the proposed name and the recommendations of the Board to the Minister of Conservation for final determination.</text>
+                <text>Despite the requirements of any other enactment, if the Board does not concur with a proposed name reviewed under <citation jurisdiction="nz"><intref href="DLM1065508">section 27(3)</intref></citation>, it must refer the proposed name and the recommendations of the Board to the Minister of Conservation for final determination.</text>
               </para>
             </subprov>
             <subprov skeleton="no">
@@ -1524,7 +1525,7 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>the Board must give public notice of that determination in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900478" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266236 - prov 21" atidlm:xmlId="DLM1267078" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 21(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641320" atidlm:sourceXmlId="DLM1267078" atidlm:targetKey="10539211" atidlm:targetXmlId="DLM1065497" atidlm:targetName="prov 21" atidlm:sourceName="DLM1267078" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065510" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                    <text>the Board must give public notice of that determination in accordance with <citation jurisdiction="nz"><intref href="DLM1065497">section 21(2)</intref></citation>.</text>
                   </para>
                 </label-para>
               </para>
@@ -1567,13 +1568,13 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
-                    <text>give public notice in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900479" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266237 - prov 16" atidlm:xmlId="DLM1267079" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 16</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641321" atidlm:sourceXmlId="DLM1267079" atidlm:targetKey="10539206" atidlm:targetXmlId="DLM1065492" atidlm:targetName="prov 16" atidlm:sourceName="DLM1267079" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065512" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
+                    <text>give public notice in accordance with <citation jurisdiction="nz"><intref href="DLM1065492">section 16</intref></citation>; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>receive any submissions made in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900480" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266238 - prov 17" atidlm:xmlId="DLM1267080" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 17</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641322" atidlm:sourceXmlId="DLM1267080" atidlm:targetKey="10539207" atidlm:targetXmlId="DLM1065493" atidlm:targetName="prov 17" atidlm:sourceName="DLM1267080" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065487.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065512" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
+                    <text>receive any submissions made in accordance with <citation jurisdiction="nz"><intref href="DLM1065493">section 17</intref></citation>; and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
@@ -1597,7 +1598,7 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>if that person decides to proceed, refer the proposed name, with supporting documentation, to the Board for review in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900481" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266239 - prov 27" atidlm:xmlId="DLM1267081" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 27(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641323" atidlm:sourceXmlId="DLM1267081" atidlm:targetKey="10539601" atidlm:targetXmlId="DLM1065508" atidlm:targetName="prov 27" atidlm:sourceName="DLM1267081" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065506.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065512" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                    <text>if that person decides to proceed, refer the proposed name, with supporting documentation, to the Board for review in accordance with <citation jurisdiction="nz"><intref href="DLM1065508">section 27(3)</intref></citation>.</text>
                   </para>
                 </label-para>
               </para>
@@ -1619,7 +1620,7 @@
         </prov>
       </subpart>
     </part>
-    <part date.instructed="2005-10-28" id="DLM1065515" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" date.first.valid="2008-11-01" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" stage="reprint" year="2008">
+    <part date.instructed="2005-10-28" id="DLM1065515" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" toc="yes" date.first.valid="2008-11-01" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" stage="reprint" year="2008">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Miscellaneous provisions</heading>
       <crosshead id="DLM1065516" toc="yes">Use of official geographic names</crosshead>
@@ -1640,7 +1641,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900482" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266254 - prov 18" atidlm:xmlId="DLM1267082" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 18(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641324" atidlm:sourceXmlId="DLM1267082" atidlm:targetKey="1657403" atidlm:targetXmlId="DLM240162" atidlm:targetName="prov 18" atidlm:sourceName="DLM1267082" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240159.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065517" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+        <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240162">s 18(1)</extref></citation></cf>
       </prov>
       <prov id="DLM1065518" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">33</label>
@@ -1649,7 +1650,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>The High Court may, on the application of the Board, grant an injunction to prevent a person from publishing a name in an official document in breach of <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900483" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266240 - prov 32" atidlm:xmlId="DLM1267083" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 32</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641325" atidlm:sourceXmlId="DLM1267083" atidlm:targetKey="10539801" atidlm:targetXmlId="DLM1065517" atidlm:targetName="prov 32" atidlm:sourceName="DLM1267083" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065518" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+              <text>The High Court may, on the application of the Board, grant an injunction to prevent a person from publishing a name in an official document in breach of <citation jurisdiction="nz"><intref href="DLM1065517">section 32</intref></citation>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -1714,7 +1715,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900484" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266255 - prov 16" atidlm:xmlId="DLM1267084" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 16</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641326" atidlm:sourceXmlId="DLM1267084" atidlm:targetKey="1657400" atidlm:targetXmlId="DLM240160" atidlm:targetName="prov 16" atidlm:sourceName="DLM1267084" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240159.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065520" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+        <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240160">s 16</extref></citation></cf>
       </prov>
       <prov id="DLM1065521" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">35</label>
@@ -1763,7 +1764,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900485" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266256 - prov 17" atidlm:xmlId="DLM1267085" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 17</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641327" atidlm:sourceXmlId="DLM1267085" atidlm:targetKey="1657401" atidlm:targetXmlId="DLM240161" atidlm:targetName="prov 17" atidlm:sourceName="DLM1267085" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240159.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065521" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+        <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240161">s 17</extref></citation></cf>
       </prov>
       <crosshead id="DLM1065522" toc="yes">Proof of status as official geographic name</crosshead>
       <prov id="DLM1065523" irdnumbering="no" skeleton="no" toc="yes">
@@ -1777,7 +1778,7 @@
             </para>
           </subprov>
         </prov.body>
-        <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900486" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266257 - prov 15" atidlm:xmlId="DLM1267086" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 15(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641328" atidlm:sourceXmlId="DLM1267086" atidlm:targetKey="1656617" atidlm:targetXmlId="DLM240157" atidlm:targetName="prov 15" atidlm:sourceName="DLM1267086" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240140.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065523" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+        <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240157">s 15(3)</extref></citation></cf>
       </prov>
       <crosshead id="DLM1065524" toc="yes">Repeal and amendments</crosshead>
       <prov id="DLM1065525" irdnumbering="no" skeleton="no" toc="yes">
@@ -1787,7 +1788,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="no"/>
             <para>
-              <text>The <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978942" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343110 - New Zealand Geographic Board Act 1946" atidlm:xmlId="DLM1343146" atidlm:state="UNCHANGED"><atidlm:linkcontent>New Zealand Geographic Board Act 1946</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672625" atidlm:sourceXmlId="DLM1343146" atidlm:targetKey="1655222" atidlm:targetXmlId="DLM240104" atidlm:targetName="New Zealand Geographic Board Act 1946" atidlm:sourceName="DLM1343146" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240104.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065525" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> is repealed.</text>
+              <text>The <citation jurisdiction="nz"><extref href="DLM240104">New Zealand Geographic Board Act 1946</extref></citation> is repealed.</text>
             </para>
           </subprov>
         </prov.body>
@@ -1799,12 +1800,7 @@
             </amends-effective>
             <amends-affect>
               <citation jurisdiction="nz">
-                <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978943" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343111 - New Zealand Geographic Board Act 1946" atidlm:xmlId="DLM1343147" atidlm:state="UNCHANGED">
-                  <atidlm:linkcontent>New Zealand Geographic Board Act 1946</atidlm:linkcontent>
-                  <atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672626" atidlm:sourceXmlId="DLM1343147" atidlm:targetKey="1655222" atidlm:targetXmlId="DLM240104" atidlm:targetName="New Zealand Geographic Board Act 1946" atidlm:sourceName="DLM1343147" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240104.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED">
-                    <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065525" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-                  </atidlm:resourcepair>
-                </atidlm:link>
+                <extref href="DLM240104">New Zealand Geographic Board Act 1946</extref>
               </citation>
             </amends-affect>
           </amends-note>
@@ -1817,7 +1813,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="no"/>
             <para>
-              <text>The Acts specified in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900487" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266241 - schedule 2 Consequential amendments" atidlm:xmlId="DLM1267087" atidlm:state="UNCHANGED"><atidlm:linkcontent>Schedule 2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641329" atidlm:sourceXmlId="DLM1267087" atidlm:targetKey="10540208" atidlm:targetXmlId="DLM1065543" atidlm:targetName="schedule 2 Consequential amendments" atidlm:sourceName="DLM1267087" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065526" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> are amended in the manner indicated in that schedule.</text>
+              <text>The Acts specified in <citation jurisdiction="nz"><intref href="DLM1065543">Schedule 2</intref></citation> are amended in the manner indicated in that schedule.</text>
             </para>
           </subprov>
         </prov.body>
@@ -1829,68 +1825,28 @@
             </amends-effective>
             <amends-affect>
               <citation jurisdiction="nz">
-                <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978944" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343112 - Conservation Act 1987" atidlm:xmlId="DLM1343148" atidlm:state="UNCHANGED">
-                  <atidlm:linkcontent>Conservation Act 1987</atidlm:linkcontent>
-                  <atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672627" atidlm:sourceXmlId="DLM1343148" atidlm:targetKey="577000" atidlm:targetXmlId="DLM103609" atidlm:targetName="Conservation Act 1987" atidlm:sourceName="DLM1343148" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM103609.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED">
-                    <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065526" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-                  </atidlm:resourcepair>
-                </atidlm:link>
+                <extref href="DLM103609">Conservation Act 1987</extref>
               </citation>
               <citation jurisdiction="nz">
-                <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978945" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343113 - Local Government Act 2002" atidlm:xmlId="DLM1343149" atidlm:state="UNCHANGED">
-                  <atidlm:linkcontent>Local Government Act 2002</atidlm:linkcontent>
-                  <atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672628" atidlm:sourceXmlId="DLM1343149" atidlm:targetKey="976802" atidlm:targetXmlId="DLM170872" atidlm:targetName="Local Government Act 2002" atidlm:sourceName="DLM1343149" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM170872.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED">
-                    <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065526" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-                  </atidlm:resourcepair>
-                </atidlm:link>
+                <extref href="DLM170872">Local Government Act 2002</extref>
               </citation>
               <citation jurisdiction="nz">
-                <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978946" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343114 - Marine Reserves Act 1971" atidlm:xmlId="DLM1343150" atidlm:state="UNCHANGED">
-                  <atidlm:linkcontent>Marine Reserves Act 1971</atidlm:linkcontent>
-                  <atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672629" atidlm:sourceXmlId="DLM1343150" atidlm:targetKey="2554250" atidlm:targetXmlId="DLM397837" atidlm:targetName="Marine Reserves Act 1971" atidlm:sourceName="DLM1343150" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM397837.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED">
-                    <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065526" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-                  </atidlm:resourcepair>
-                </atidlm:link>
+                <extref href="DLM397837">Marine Reserves Act 1971</extref>
               </citation>
               <citation jurisdiction="nz">
-                <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978947" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343115 - National Parks Act 1980" atidlm:xmlId="DLM1343151" atidlm:state="UNCHANGED">
-                  <atidlm:linkcontent>National Parks Act 1980</atidlm:linkcontent>
-                  <atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672630" atidlm:sourceXmlId="DLM1343151" atidlm:targetKey="196200" atidlm:targetXmlId="DLM36962" atidlm:targetName="National Parks Act 1980" atidlm:sourceName="DLM1343151" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM36962.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED">
-                    <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065526" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-                  </atidlm:resourcepair>
-                </atidlm:link>
+                <extref href="DLM36962">National Parks Act 1980</extref>
               </citation>
               <citation jurisdiction="nz">
-                <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978948" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343116 - Ngai Tahu Claims Settlement Act 1998" atidlm:xmlId="DLM1343152" atidlm:state="UNCHANGED">
-                  <atidlm:linkcontent>Ngai Tahu Claims Settlement Act 1998</atidlm:linkcontent>
-                  <atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672631" atidlm:sourceXmlId="DLM1343152" atidlm:targetKey="2393012" atidlm:targetXmlId="DLM429089" atidlm:targetName="Ngai Tahu Claims Settlement Act 1998" atidlm:sourceName="DLM1343152" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM429089.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED">
-                    <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065526" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-                  </atidlm:resourcepair>
-                </atidlm:link>
+                <extref href="DLM429089">Ngai Tahu Claims Settlement Act 1998</extref>
               </citation>
               <citation jurisdiction="nz">
-                <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978949" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343117 - Official Information Act 1982" atidlm:xmlId="DLM1343153" atidlm:state="UNCHANGED">
-                  <atidlm:linkcontent>Official Information Act 1982</atidlm:linkcontent>
-                  <atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672632" atidlm:sourceXmlId="DLM1343153" atidlm:targetKey="371800" atidlm:targetXmlId="DLM64784" atidlm:targetName="Official Information Act 1982" atidlm:sourceName="DLM1343153" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM64784.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED">
-                    <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065526" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-                  </atidlm:resourcepair>
-                </atidlm:link>
+                <extref href="DLM64784">Official Information Act 1982</extref>
               </citation>
               <citation jurisdiction="nz">
-                <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978950" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343118 - Ombudsmen Act 1975" atidlm:xmlId="DLM1343154" atidlm:state="UNCHANGED">
-                  <atidlm:linkcontent>Ombudsmen Act 1975</atidlm:linkcontent>
-                  <atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672633" atidlm:sourceXmlId="DLM1343154" atidlm:targetKey="2760209" atidlm:targetXmlId="DLM430983" atidlm:targetName="Ombudsmen Act 1975" atidlm:sourceName="DLM1343154" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM430983.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED">
-                    <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065526" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-                  </atidlm:resourcepair>
-                </atidlm:link>
+                <extref href="DLM430983">Ombudsmen Act 1975</extref>
               </citation>
               <citation jurisdiction="nz">
-                <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978951" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343119 - Reserves Act 1977" atidlm:xmlId="DLM1343155" atidlm:state="UNCHANGED">
-                  <atidlm:linkcontent>Reserves Act 1977</atidlm:linkcontent>
-                  <atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672634" atidlm:sourceXmlId="DLM1343155" atidlm:targetKey="2925512" atidlm:targetXmlId="DLM444304" atidlm:targetName="Reserves Act 1977" atidlm:sourceName="DLM1343155" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM444304.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:state="UNCHANGED">
-                    <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065526" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-                  </atidlm:resourcepair>
-                </atidlm:link>
+                <extref href="DLM444304">Reserves Act 1977</extref>
               </citation>
             </amends-affect>
           </amends-note>
@@ -1899,16 +1855,11 @@
     </part>
   </body>
   <schedule.group>
-    <schedule date.instructed="2005-10-28" id="DLM1065527" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
+    <schedule date.instructed="2005-10-28" id="DLM1065527" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
       <label auto.number="no" denominator="yes">1</label>
       <empowering-prov>
         <citation jurisdiction="nz">
-          <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900488" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266242 - prov 7" atidlm:parentFolderId="/NZ/NZAct/N/New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008" atidlm:xmlId="DLM1267088" atidlm:state="UNCHANGED">
-            <atidlm:linkcontent>s 7(3)</atidlm:linkcontent>
-            <atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641330" atidlm:sourceXmlId="DLM1267088" atidlm:targetKey="10538801" atidlm:targetXmlId="DLM1065473" atidlm:targetName="prov 7" atidlm:sourceName="DLM1267088" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065471.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED">
-              <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065527" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-            </atidlm:resourcepair>
-          </atidlm:link>
+          <intref href="DLM1065473">s 7(3)</intref>
         </citation>
       </empowering-prov>
       <heading>Appointments and other procedures</heading>
@@ -1969,7 +1920,7 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>1 person nominated by Te Rūnanga o Ngāi Tahu (as established under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978952" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343120 - prov 6" atidlm:xmlId="DLM1343156" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 6</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672635" atidlm:sourceXmlId="DLM1343156" atidlm:targetKey="958403" atidlm:targetXmlId="DLM117232" atidlm:targetName="prov 6" atidlm:sourceName="DLM1343156" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM117231.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065529" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of Te Runanga o Ngai Tahu Act 1996); and</text>
+                    <text>1 person nominated by Te Rūnanga o Ngāi Tahu (as established under <citation jurisdiction="nz"><extref href="DLM117232">section 6</extref></citation> of Te Runanga o Ngai Tahu Act 1996); and</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
@@ -2005,7 +1956,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900489" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266258 - prov 3" atidlm:xmlId="DLM1267089" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 3(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641331" atidlm:sourceXmlId="DLM1267089" atidlm:targetKey="1655803" atidlm:targetXmlId="DLM240128" atidlm:targetName="prov 3" atidlm:sourceName="DLM1267089" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240127.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065529" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240128">s 3(2)</extref></citation></cf>
         </prov>
         <prov id="DLM1065530" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">2</label>
@@ -2014,7 +1965,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>Each member of the Board, other than the Surveyor-General and the official from the department appointed under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978953" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343121 - prov 1" atidlm:xmlId="DLM1343157" atidlm:state="UNCHANGED"><atidlm:linkcontent>clause 1(1)(c)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672636" atidlm:sourceXmlId="DLM1343157" atidlm:targetKey="10540001" atidlm:targetXmlId="DLM1065529" atidlm:targetName="prov 1" atidlm:sourceName="DLM1343157" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065530" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>,—</text>
+                <text>Each member of the Board, other than the Surveyor-General and the official from the department appointed under <citation jurisdiction="nz"><intref href="DLM1065529">clause 1(1)(c)</intref></citation>,—</text>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
@@ -2054,7 +2005,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900490" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266259 - prov 3" atidlm:xmlId="DLM1267090" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 3(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641332" atidlm:sourceXmlId="DLM1267090" atidlm:targetKey="1655803" atidlm:targetXmlId="DLM240128" atidlm:targetName="prov 3" atidlm:sourceName="DLM1267090" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240127.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065530" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, (5)</cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240128">s 3(3)</extref></citation>, (5)</cf>
         </prov>
         <prov id="DLM1065531" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">3</label>
@@ -2085,7 +2036,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900491" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266260 - prov 3" atidlm:xmlId="DLM1267091" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 3(4)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641333" atidlm:sourceXmlId="DLM1267091" atidlm:targetKey="1655803" atidlm:targetXmlId="DLM240128" atidlm:targetName="prov 3" atidlm:sourceName="DLM1267091" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240127.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065531" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240128">s 3(4)</extref></citation></cf>
         </prov>
         <prov id="DLM1065532" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">4</label>
@@ -2134,7 +2085,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900492" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266261 - prov 4" atidlm:xmlId="DLM1267092" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641334" atidlm:sourceXmlId="DLM1267092" atidlm:targetKey="1655805" atidlm:targetXmlId="DLM240132" atidlm:targetName="prov 4" atidlm:sourceName="DLM1267092" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240127.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065532" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240132">s 4</extref></citation></cf>
         </prov>
         <prov id="DLM1065533" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">5</label>
@@ -2165,7 +2116,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900493" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266262 - prov 7" atidlm:xmlId="DLM1267093" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 7</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641335" atidlm:sourceXmlId="DLM1267093" atidlm:targetKey="1655811" atidlm:targetXmlId="DLM240138" atidlm:targetName="prov 7" atidlm:sourceName="DLM1267093" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240127.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065533" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240138">s 7</extref></citation></cf>
         </prov>
         <crosshead id="DLM1065534" toc="yes">
           <emphasis style="italic">Power of Board to delegate</emphasis>
@@ -2187,7 +2138,7 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>the secretary of the Board (if any) appointed under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978954" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343122 - prov 5" atidlm:xmlId="DLM1343158" atidlm:state="UNCHANGED"><atidlm:linkcontent>clause 5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672637" atidlm:sourceXmlId="DLM1343158" atidlm:targetKey="10540005" atidlm:targetXmlId="DLM1065533" atidlm:targetName="prov 5" atidlm:sourceName="DLM1343158" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065535" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>:</text>
+                    <text>the secretary of the Board (if any) appointed under <citation jurisdiction="nz"><intref href="DLM1065533">clause 5</intref></citation>:</text>
                   </para>
                 </label-para>
                 <label-para skeleton="no">
@@ -2298,7 +2249,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900494" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266263 - prov 5" atidlm:xmlId="DLM1267094" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 5(6)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641336" atidlm:sourceXmlId="DLM1267094" atidlm:targetKey="1655807" atidlm:targetXmlId="DLM240134" atidlm:targetName="prov 5" atidlm:sourceName="DLM1267094" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240127.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065537" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240134">s 5(6)</extref></citation></cf>
         </prov>
         <prov id="DLM1065538" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">8</label>
@@ -2317,7 +2268,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900495" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266264 - prov 5" atidlm:xmlId="DLM1267095" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 5(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641337" atidlm:sourceXmlId="DLM1267095" atidlm:targetKey="1655807" atidlm:targetXmlId="DLM240134" atidlm:targetName="prov 5" atidlm:sourceName="DLM1267095" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240127.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065538" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, (2)</cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240134">s 5(1)</extref></citation>, (2)</cf>
         </prov>
         <prov id="DLM1065539" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">9</label>
@@ -2332,7 +2283,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
               <para>
-                <text>Written notice must be given of the special meeting in accordance with notice provisions adopted by the Board under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978955" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343123 - prov 7" atidlm:xmlId="DLM1343159" atidlm:state="UNCHANGED"><atidlm:linkcontent>clause 7</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672638" atidlm:sourceXmlId="DLM1343159" atidlm:targetKey="10540009" atidlm:targetXmlId="DLM1065537" atidlm:targetName="prov 7" atidlm:sourceName="DLM1343159" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065539" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+                <text>Written notice must be given of the special meeting in accordance with notice provisions adopted by the Board under <citation jurisdiction="nz"><intref href="DLM1065537">clause 7</intref></citation>.</text>
               </para>
             </subprov>
             <subprov skeleton="no">
@@ -2372,7 +2323,7 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900496" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266265 - prov 5" atidlm:xmlId="DLM1267096" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 5(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641338" atidlm:sourceXmlId="DLM1267096" atidlm:targetKey="1655807" atidlm:targetXmlId="DLM240134" atidlm:targetName="prov 5" atidlm:sourceName="DLM1267096" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240127.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065540" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, (4)</cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240134">s 5(3)</extref></citation>, (4)</cf>
         </prov>
         <prov id="DLM1065541" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">11</label>
@@ -2381,7 +2332,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">1</label>
               <para>
-                <text>The members of the Board (other than the Surveyor-General and the official appointed under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978956" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343124 - prov 1" atidlm:xmlId="DLM1343160" atidlm:state="UNCHANGED"><atidlm:linkcontent>clause 1(1)(c)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672680" atidlm:sourceXmlId="DLM1343160" atidlm:targetKey="10540001" atidlm:targetXmlId="DLM1065529" atidlm:targetName="prov 1" atidlm:sourceName="DLM1343160" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065541" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>) and any committee appointed by the Board are entitled to be paid—</text>
+                <text>The members of the Board (other than the Surveyor-General and the official appointed under <citation jurisdiction="nz"><intref href="DLM1065529">clause 1(1)(c)</intref></citation>) and any committee appointed by the Board are entitled to be paid—</text>
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">a</label>
                   <para>
@@ -2403,20 +2354,15 @@
               </para>
             </subprov>
           </prov.body>
-          <cf>1946 No 3 <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900497" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266266 - prov 6" atidlm:xmlId="DLM1267097" atidlm:state="UNCHANGED"><atidlm:linkcontent>s 6</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641339" atidlm:sourceXmlId="DLM1267097" atidlm:targetKey="1655809" atidlm:targetXmlId="DLM240136" atidlm:targetName="prov 6" atidlm:sourceName="DLM1267097" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM240127.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065527.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065541" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></cf>
+          <cf>1946 No 3 <citation jurisdiction="nz"><extref href="DLM240136">s 6</extref></citation></cf>
         </prov>
       </schedule.provisions>
     </schedule>
-    <schedule date.instructed="2005-10-28" id="DLM1065543" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="30" act.type="public" date.as.at="2008-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
+    <schedule date.instructed="2005-10-28" id="DLM1065543" in.amend="false" instructing.office="Land Information NZ" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="30" act.type="public" date.as.at="2009-11-01" date.assent="2008-05-22" date.first.valid="2008-11-01" stage="reprint" year="2008">
       <label auto.number="no" denominator="yes">2</label>
       <empowering-prov>
         <citation jurisdiction="nz">
-          <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="900498" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1266243 - prov 38" atidlm:parentFolderId="/NZ/NZAct/N/New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008" atidlm:xmlId="DLM1267098" atidlm:state="UNCHANGED">
-            <atidlm:linkcontent>s 38</atidlm:linkcontent>
-            <atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="641340" atidlm:sourceXmlId="DLM1267098" atidlm:targetKey="10539810" atidlm:targetXmlId="DLM1065526" atidlm:targetName="prov 38" atidlm:sourceName="DLM1267098" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065515.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED">
-              <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065543" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
-            </atidlm:resourcepair>
-          </atidlm:link>
+          <intref href="DLM1065526">s 38</intref>
         </citation>
       </empowering-prov>
       <heading>Consequential amendments</heading>
@@ -2424,7 +2370,7 @@
         <schedule.amendments.group2 id="DLM1065544" toc="yes">
           <heading>Conservation Act 1987 (1987 No 65)</heading>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978957" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343125 - prov 18" atidlm:xmlId="DLM1343161" atidlm:state="UNCHANGED"><atidlm:linkcontent>Section 18(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672681" atidlm:sourceXmlId="DLM1343161" atidlm:targetKey="582601" atidlm:targetXmlId="DLM104682" atidlm:targetName="prov 18" atidlm:sourceName="DLM1343161" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM104681.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065544" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: repeal and substitute:</text>
+            <text><citation jurisdiction="nz"><extref href="DLM104682">Section 18(3)</extref></citation>: repeal and substitute:</text>
             <amend quote="1">
               <subprov quote="1" skeleton="no">
                 <label auto.number="no" denominator="yes" quote="1">3</label>
@@ -2450,10 +2396,10 @@
         <schedule.amendments.group2 id="DLM1065545" toc="yes">
           <heading>Local Government Act 2002 (2002 No 84)</heading>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978958" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343126 - prov 260" atidlm:xmlId="DLM1343162" atidlm:state="UNCHANGED"><atidlm:linkcontent>Section 260(1)(b)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672682" atidlm:sourceXmlId="DLM1343162" atidlm:targetKey="995201" atidlm:targetXmlId="DLM174084" atidlm:targetName="prov 260" atidlm:sourceName="DLM1343162" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM174082.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065545" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: add <amend.in quote="1">; or</amend.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM174084">Section 260(1)(b)</extref></citation>: add <amend.in quote="1">; or</amend.in>.</text>
           </para>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978959" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343127 - prov 260" atidlm:xmlId="DLM1343163" atidlm:state="UNCHANGED"><atidlm:linkcontent>Section 260(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672683" atidlm:sourceXmlId="DLM1343163" atidlm:targetKey="995201" atidlm:targetXmlId="DLM174084" atidlm:targetName="prov 260" atidlm:sourceName="DLM1343163" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM174082.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065545" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: add:</text>
+            <text><citation jurisdiction="nz"><extref href="DLM174084">Section 260(1)</extref></citation>: add:</text>
             <amend increment="1" quote="1">
               <label-para quote="1" skeleton="no">
                 <label auto.number="no" denominator="yes" quote="1">c</label>
@@ -2467,7 +2413,7 @@
         <schedule.amendments.group2 id="DLM1065546" toc="yes">
           <heading>Marine Reserves Act 1971 (1971 No 15)</heading>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978960" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343128 - prov 5" atidlm:xmlId="DLM1343164" atidlm:state="UNCHANGED"><atidlm:linkcontent>Section 5(1)(c)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672684" atidlm:sourceXmlId="DLM1343164" atidlm:targetKey="2554223" atidlm:targetXmlId="DLM398113" atidlm:targetName="prov 5" atidlm:sourceName="DLM1343164" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM397837.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065546" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: insert after subparagraph (iii):</text>
+            <text><citation jurisdiction="nz"><extref href="DLM398113">Section 5(1)(c)</extref></citation>: insert after subparagraph (iii):</text>
             <amend increment="2" quote="1">
               <label-para quote="1" skeleton="no">
                 <label auto.number="no" denominator="yes" quote="1">iiia</label>
@@ -2493,7 +2439,7 @@
         <schedule.amendments.group2 id="DLM1065547" toc="yes">
           <heading>National Parks Act 1980 (1980 No 66)</heading>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978961" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343129 - prov 7" atidlm:xmlId="DLM1343165" atidlm:state="UNCHANGED"><atidlm:linkcontent>Section 7</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672685" atidlm:sourceXmlId="DLM1343165" atidlm:targetKey="198210" atidlm:targetXmlId="DLM37904" atidlm:targetName="prov 7" atidlm:sourceName="DLM1343165" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM37794.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065547" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: insert after subsection (2):</text>
+            <text><citation jurisdiction="nz"><extref href="DLM37904">Section 7</extref></citation>: insert after subsection (2):</text>
             <amend quote="1">
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes" quote="1">2A</label>
@@ -2507,25 +2453,25 @@
         <schedule.amendments.group2 id="DLM1065548" toc="yes">
           <heading>Ngāi Tahu Claims Settlement Act 1998 (1998 No 97)</heading>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978962" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343130 - prov 270" atidlm:xmlId="DLM1343166" atidlm:state="UNCHANGED"><atidlm:linkcontent>Section 270</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672686" atidlm:sourceXmlId="DLM1343166" atidlm:targetKey="2406059" atidlm:targetXmlId="DLM430139" atidlm:targetName="prov 270" atidlm:sourceName="DLM1343166" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM430016.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065548" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: repeal.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM430139">Section 270</extref></citation>: repeal.</text>
           </para>
         </schedule.amendments.group2>
         <schedule.amendments.group2 id="DLM1065549" toc="yes">
           <heading>Official Information Act 1982 (1982 No 156)</heading>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978963" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343131 - schedule 1 Organisations (additional to those named in Part 1 or Part 2 of Schedule 1 to the Ombudsmen Act 1975) to which this Act applies" atidlm:xmlId="DLM1343167" atidlm:state="UNCHANGED"><atidlm:linkcontent>Schedule 1</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672687" atidlm:sourceXmlId="DLM1343167" atidlm:targetKey="377600" atidlm:targetXmlId="DLM65921" atidlm:targetName="schedule 1 Organisations (additional to those named in Part 1 or Part 2 of Schedule 1 to the Ombudsmen Act 1975) to which this Act applies" atidlm:sourceName="DLM1343167" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM65921.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065549" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: omit <amend.in quote="1">New Zealand Geographic Board</amend.in> and substitute <amend.in quote="1">New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa</amend.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM65921">Schedule 1</extref></citation>: omit <amend.in quote="1">New Zealand Geographic Board</amend.in> and substitute <amend.in quote="1">New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa</amend.in>.</text>
           </para>
         </schedule.amendments.group2>
         <schedule.amendments.group2 id="DLM1065550" toc="yes">
           <heading><citation jurisdiction="nz">Ombudsmen Act 1975</citation> (1975 No 9)</heading>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978964" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343132 - schedule 1 Departments and organisations to which this Act applies" atidlm:xmlId="DLM1343168" atidlm:state="UNCHANGED"><atidlm:linkcontent>Part 2</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672688" atidlm:sourceXmlId="DLM1343168" atidlm:targetKey="2766333" atidlm:targetXmlId="DLM431204" atidlm:targetName="schedule 1 Departments and organisations to which this Act applies" atidlm:sourceName="DLM1343168" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM431204.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065550" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of Schedule 1: insert <amend.in quote="1">New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa</amend.in> after <quote.in quote="1">The New Zealand Game Bird Habitat Trust Board</quote.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM431204">Part 2</extref></citation> of Schedule 1: insert <amend.in quote="1">New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa</amend.in> after <quote.in quote="1">The New Zealand Game Bird Habitat Trust Board</quote.in>.</text>
           </para>
         </schedule.amendments.group2>
         <schedule.amendments.group2 id="DLM1065551" toc="yes">
           <heading><citation jurisdiction="nz">Reserves Act 1977</citation> (1977 No 66)</heading>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978965" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343133 - prov 16" atidlm:xmlId="DLM1343169" atidlm:state="UNCHANGED"><atidlm:linkcontent>Section 16</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672689" atidlm:sourceXmlId="DLM1343169" atidlm:targetKey="2931210" atidlm:targetXmlId="DLM444492" atidlm:targetName="prov 16" atidlm:sourceName="DLM1343169" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM444490.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065551" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: insert after subsection (10):</text>
+            <text><citation jurisdiction="nz"><extref href="DLM444492">Section 16</extref></citation>: insert after subsection (10):</text>
             <amend quote="1">
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes" quote="1">10A</label>
@@ -2536,7 +2482,7 @@
             </amend>
           </para>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="978966" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1343134 - prov 52" atidlm:xmlId="DLM1343170" atidlm:state="UNCHANGED"><atidlm:linkcontent>Section 52</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="672690" atidlm:sourceXmlId="DLM1343170" atidlm:targetKey="2931020" atidlm:targetXmlId="DLM444712" atidlm:targetName="prov 52" atidlm:sourceName="DLM1343170" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM444490.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065543.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1065551" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>: insert after subsection (1):</text>
+            <text><citation jurisdiction="nz"><extref href="DLM444712">Section 52</extref></citation>: insert after subsection (1):</text>
             <amend quote="1">
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes" quote="1">1A</label>
@@ -2551,7 +2497,7 @@
     </schedule>
   </schedule.group>
   <end id="DLM1244236">
-    <end.reprint-note id="DLM1708925">
+    <end.reprint-note id="DLM2508602">
       <reprint.index>
         <heading>Contents</heading>
         <para>
@@ -2592,43 +2538,43 @@
       <reprint.notes>
         <heading>Notes</heading>
         <reprint.note>
-          <label auto.number="yes" denominator="yes">1</label>
+          <label denominator="yes" auto.number="no">1</label>
           <heading>General</heading>
           <para>
-            <text>This is a reprint of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008. The reprint incorporates all the amendments to the Act as at 1 November 2008, as specified in the list of amendments at the end of these notes.</text>
+            <text>This is a reprint of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008. The reprint incorporates all the amendments to the Act as at 1 November 2009, as specified in the list of amendments at the end of these notes.</text>
           </para>
           <para>
             <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
           </para>
         </reprint.note>
         <reprint.note>
-          <label auto.number="yes" denominator="yes">2</label>
+          <label denominator="yes" auto.number="no">2</label>
           <heading>Status of reprints</heading>
           <para>
-            <text>Under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1375029" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1155201 - prov 16D" atidlm:xmlId="DLM1708939" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 16D</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="820949" atidlm:sourceXmlId="DLM1708939" atidlm:targetKey="1047416" atidlm:targetXmlId="DLM195439" atidlm:targetName="prov 16D" atidlm:sourceName="DLM1708939" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195430.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1708925" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Acts and Regulations Publication Act 1989</citation>, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1375030" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1155202 - prov 17C" atidlm:xmlId="DLM1708940" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 17C</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="820950" atidlm:sourceXmlId="DLM1708940" atidlm:targetKey="1048414" atidlm:targetXmlId="DLM195466" atidlm:targetName="prov 17C" atidlm:sourceName="DLM1708940" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195452.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1708925" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Acts and Regulations Publication Act 1989</citation> have been made in the reprint.</text>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref> of the Acts and Regulations Publication Act 1989</citation>, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in the reprint.</text>
           </para>
           <para>
             <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
           </para>
         </reprint.note>
         <reprint.note>
-          <label auto.number="yes" denominator="yes">3</label>
+          <label denominator="yes" auto.number="no">3</label>
           <heading>How reprints are prepared</heading>
           <para>
-            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the <emphasis style="italic">Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force</emphasis>.</text>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
           </para>
         </reprint.note>
         <reprint.note>
-          <label auto.number="yes" denominator="yes">4</label>
+          <label denominator="yes" auto.number="no">4</label>
           <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
           <para>
-            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1375031" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1155202 - prov 17C" atidlm:xmlId="DLM1708941" atidlm:state="UNCHANGED"><atidlm:linkcontent>Section 17C</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="820951" atidlm:sourceXmlId="DLM1708941" atidlm:targetKey="1048414" atidlm:targetXmlId="DLM195466" atidlm:targetName="prov 17C" atidlm:sourceName="DLM1708941" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195452.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1708925" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Acts and Regulations Publication Act 1989</citation> authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1375032" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1155204 - prov 17D" atidlm:xmlId="DLM1708942" atidlm:state="UNCHANGED"><atidlm:linkcontent>sections 17D</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="820952" atidlm:sourceXmlId="DLM1708942" atidlm:targetKey="1048416" atidlm:targetXmlId="DLM195468" atidlm:targetName="prov 17D" atidlm:sourceName="DLM1708942" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195452.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1708925" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1375033" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1155205 - prov 17E" atidlm:xmlId="DLM1708943" atidlm:state="UNCHANGED"><atidlm:linkcontent>17E</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="820953" atidlm:sourceXmlId="DLM1708943" atidlm:targetKey="1048418" atidlm:targetXmlId="DLM195470" atidlm:targetName="prov 17E" atidlm:sourceName="DLM1708943" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195452.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1708925" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref> and <extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
           </para>
           <para>
-            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1375034" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1155202 - prov 17C" atidlm:xmlId="DLM1708944" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 17C</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="820954" atidlm:sourceXmlId="DLM1708944" atidlm:targetKey="1048414" atidlm:targetXmlId="DLM195466" atidlm:targetName="prov 17C" atidlm:sourceName="DLM1708944" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195452.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1708925" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Acts and Regulations Publication Act 1989</citation>, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation>, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
           </para>
           <para>
-            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1375035" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1155202 - prov 17C" atidlm:xmlId="DLM1708945" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 17C</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="820955" atidlm:sourceXmlId="DLM1708945" atidlm:targetKey="1048414" atidlm:targetXmlId="DLM195466" atidlm:targetName="prov 17C" atidlm:sourceName="DLM1708945" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195452.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1708925" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Acts and Regulations Publication Act 1989</citation> are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
             <list>
               <item>
                 <label auto.number="no" denominator="no">•</label>
@@ -2671,7 +2617,7 @@
               <item>
                 <label auto.number="no" denominator="no">•</label>
                 <para>
-                  <text>format of dates (eg, a date formerly expressed as <quote.in>the 1st day of January 1999</quote.in> is now expressed as <quote.in>1 January 1999</quote.in>)</text>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in>the 1st day of January 1999</quote.in> is now expressed as <quote.in>1 January 1999</quote.in>)</text>
                 </para>
               </item>
               <item>
@@ -2734,14 +2680,16 @@
           </para>
         </reprint.note>
         <reprint.note>
-          <label auto.number="yes" denominator="yes">5</label>
+          <label denominator="yes" auto.number="no">5</label>
           <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
           <reprint.amend>
-            <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1375036" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1708933 - New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2008" atidlm:xmlId="DLM1708946" atidlm:state="UNCHANGED"><atidlm:linkcontent>New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2008</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="820956" atidlm:sourceXmlId="DLM1708946" atidlm:targetKey="13546206" atidlm:targetXmlId="DLM1595900" atidlm:targetName="New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2008" atidlm:sourceName="DLM1708946" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZReg/fragxyxz_DLM1595900.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1065400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1708925" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> (SR 2008/301)</citation>
+            <citation jurisdiction="nz"><extref href="DLM2184808">New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2009</extref> (SR 2009/196)</citation>
+          </reprint.amend>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM1595900">New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act Commencement Order 2008</extref> (SR 2008/301)</citation>
           </reprint.amend>
         </reprint.note>
       </reprint.notes>
     </end.reprint-note>
   </end>
 </act>
-<!--End of file, do NOT remove.-->
