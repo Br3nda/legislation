@@ -1,53 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1460900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" date.terminated="2008-07-30" terminated="superseded" pco.suffix="0005" stage="published" year="2008" raised.by="Members" sop.no="221">
+<sop id="DLM1461401" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2008" date.terminated="2008-08-27" terminated="withdrawn" pco.suffix="0004" stage="published" year="2008" raised.by="Members" sop.no="218">
   <date>Wednesday, 30 July 2008</date>
   <billref>Waste Minimisation Bill</billref>
-  <body id="DLM1460901">
-    <heading>Proposed amendment to spending of levy money by territorial authorities</heading>
+  <body id="DLM1461402">
+    <heading>Proposed amendment to Commencement clause</heading>
     <motion>Nicky Wagner, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM1460902">
-      <clause.ref>Clause 30</clause.ref>
+    <sop.amend id="DLM1461403">
+      <clause.ref>Clause 2</clause.ref>
       <sop.para>
-        <text>To omit clause 30 and substitute the following:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM1460903" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">30</label>
-            <heading>	Spending levy money by territorial authorities</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>A territorial authority may spend the levy money it receives under <changeable>section 29 </changeable> only—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>on matters to promote or achieve waste minimisation; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>in accordance with its waste management and minimisation plan.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>In funding waste services through the waste levy, a territorial authority must treat private enterprise, council-controlled organisations and their own in-house operations on an equal basis.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
+        <text>To omit <quote.in quote="1"><changeable><citation jurisdiction="nz">Part 3 </citation></changeable> and <changeable><citation jurisdiction="nz">section 60 </citation></changeable> come</quote.in> in subclause (1) and substitute <quote.in quote="1">This Act comes</quote.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To omit subclause (2).</text>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1460904" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2008-07-30" pco.suffix="0005" stage="published" year="2008" raised.by="Members" sop.no="221">
+  <explnote id="DLM1461404" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2008-08-27" pco.suffix="0004" stage="published" year="2008" raised.by="Members" sop.no="218">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Waste Minimisation Bill. The proposed amendment requires territorial authorities to treat all organisations providing waste services equally.</text>
+      <text>This Supplementary Order Paper amends the Waste Minimisation Bill. The proposed amendment is required to ensure that the whole bill comes into force at the beginning of a financial year. </text>
     </para>
   </explnote>
 </sop>
