@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2358201" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0012" stage="published" year="2009" raised.by="Members" sop.no="58">
-  <date>Tuesday, 15 September 2009</date>
-  <billref>Local Government (Auckland Council) Bill</billref>
-  <body id="DLM2358202">
+<sop id="DLM2546900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0003" stage="published" year="2009" raised.by="Members" sop.no="91">
+  <date>Tuesday, 17 November 2009</date>
+  <billref>Climate Change Response (Moderated Emissions Trading) Amendment Bill</billref>
+  <body id="DLM2546901">
     <heading>Proposed amendment</heading>
-    <motion>Hone Harawira, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM2358200">
-      <clause.ref>Part 2, Clause 8</clause.ref>
+    <motion>Jeanette Fitzsimons, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM2546902">
+      <clause.ref>Part 1: Clause 22</clause.ref>
       <sop.para>
-        <text>To insert the following new subsection (after line 32 on page 6):</text>
-        <instrument.amend close.quote="yes" open.quote="yes">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes">4</label>
-            <para>
-              <text>Candidates for the position of mana whenua representative member must sign a declaration that they whakapapa to the iwi or hapū who exercise mana whenua in the Auckland region, and must be elected by the Māori electors of Auckland.</text>
-            </para>
-          </subprov>
+        <text>New section 70(2) is amended by adding “; and” and also by adding the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <amend quote="1">
+            <label-para quote="1" skeleton="no">
+              <label auto.number="no" denominator="yes" quote="1">d</label>
+              <para>
+                <text>the specific reasons for any allocation of New Zealand units free of charge to any activity, industry or sector</text>
+              </para>
+            </label-para>
+          </amend>
+          <follow-text space-before="no">.</follow-text>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2358203" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0012" stage="published" year="2009" raised.by="Members" sop.no="58">
+  <explnote id="DLM2546903" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2009" raised.by="Members" sop.no="91">
     <heading>Explanatory note</heading>
     <para>
-      <text>The Supplementary Order Paper amends the Local Government (Auckland Council) Bill to establish two mana whenua representative seats on the governing body of the Auckland Council.  It meets the minimum requirements of mana whenua representation expressed by the iwi of Ngāti Whātua and Tainui, who exercise mana whenua in Auckland, and enables all Māori living in Auckland who are eligible to vote to participate in their election.</text>
+      <text>The purpose of this Supplementary Order Paper is to amend the Climate Change Response (Moderated Emissions Trading) Amendment Bill as reported by the Finance and Expenditure Committee to improve transparency. </text>
+    </para>
+    <para>
+      <text>It inserts a new paragraph that requires the Minister to provide specific reasons for giving away any free allocations.</text>
     </para>
   </explnote>
 </sop>
