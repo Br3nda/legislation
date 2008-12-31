@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2050200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0002" stage="published" year="2009" raised.by="Members" sop.no="20">
-  <date>Wednesday, 13 May 2009</date>
-  <billref>Local Government (Auckland Reorganisation) Bill</billref>
-  <body id="DLM2050201">
-    <heading>Proposed amendment</heading>
-    <motion>Sue Kedgley, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM2050202">
-      <clause.ref>Part 3: clause 11(1)</clause.ref>
+<sop id="DLM2346400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0011" stage="published" year="2009" raised.by="Members" sop.no="45">
+  <date>Tuesday, 8 September 2009</date>
+  <billref>Resource Management (Simplifying and Streamlining) Amendment Bill</billref>
+  <body id="DLM2346401">
+    <heading>Proposed amendments</heading>
+    <motion>Dr Russel Norman, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2346402">
+      <clause.ref>Clause 68</clause.ref>
       <sop.para>
-        <text>To insert after <quote.in quote="1">Minister</quote.in>, <quote.in quote="1">, subject to the approval of the Cabinet Appointments and Honours Committee.</quote.in> (line 29 on page 8).</text>
+        <text>To insert in new section 95B the following paragraph:</text>
+        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">4</label>
+            <para>
+              <text>For the avoidance of doubt, an organisation representing a relevant part of the public interest must be treated as being adversely affected if, in the opinion of the consent authority, the granting of a resource consent may adversely affect that public interest.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2346403">
+      <clause.ref>Clause 68</clause.ref>
+      <sop.para>
+        <text>To omit new section 95D(a)(ii).</text>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2050203" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2009" raised.by="Members" sop.no="20">
+  <explnote id="DLM2346404" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0011" stage="published" year="2009" raised.by="Members" sop.no="45">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Local Government (Auckland Reorganisation) Bill to ensure Cabinet oversight and accountability in the appointment of the Transition Agency’s members and chair.</text>
+      <text>This Supplementary Order Paper  introduces clarification in section 95B that limited notification must be given to organisations representing the public interest if that public interest is adversely affected.</text>
+    </para>
+    <para>
+      <text>It also removes new section 95D(a)(ii) in order that a consent authority deciding whether an activity’s adverse effects on the environment are more than minor, must regard any effects on person who own or occupy any land adjacent to the land associated with the application.</text>
     </para>
   </explnote>
 </sop>
-<!--End of file, do NOT remove.-->
