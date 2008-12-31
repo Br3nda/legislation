@@ -1,95 +1,339 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM2600700" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2010" bill.no="107" bill.type="government" stage="3" year="2009">
+<bill id="DLM2600700" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="107" bill.type="government" stage="1" year="2009">
   <billdetail>
     <title>Courts (Remote Participation) Bill</title>
     <billtype>Government Bill</billtype>
-    <repnote>As reported from the committee of the whole House</repnote>
+    <explnote id="DLM2600701" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="107" bill.type="government" stage="1" year="2009">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
+        <para>
+          <text>The purpose of this Bill is to enable greater use of audio-visual links (<emphasis style="bold">AVL</emphasis>) in New Zealand courts. Current legislation limits the ability of the courts to take advantage of new technologies, including AVL.</text>
+        </para>
+        <para>
+          <text>The Courts (Remote Participation) Bill is an overarching piece of legislation that applies to every enactment that is part of New Zealand law. It—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>sets out criteria for consideration in decisions on the use of AVL:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>provides a presumption in favour of the use of AVL in criminal procedural matters (ie, those where no evidence is being presented), unless the judicial officer is satisfied on his or her own motion or on the objection of any party that the criteria would not be satisfied:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allows for the use of AVL in criminal substantive matters (ie, those where evidence is being presented) on the application of any party or on the judicial officer’s own motion where the judicial officer considers that the criteria would be satisfied:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allows for the use of AVL in civil matters where the parties consent, or (where there is disagreement between the parties) on the application of any participant or on the judicial officer’s own motion where the judicial officer considers that the criteria can be met.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The ordinary rules of court procedure (with any necessary modifications) apply to any proceeding in which a participant is appearing by AVL.</text>
+        </para>
+        <para>
+          <text>This legislation is one of the first steps to be taken in the reform of criminal procedure. The Bill will ensure that as AVL facilities are installed in courts, they can be used to their full potential. Future legislative and operational reforms will modernise and simplify criminal procedure to improve timeframes and promote efficiency in the courts.</text>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 2</emphasis> is the commencement clause and provides that the Bill comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </clause.desc>
+        <explnote.part id="DLM2600702">
+          <label auto.number="no" denominator="yes">1  </label>
+          <heading>Preliminary provisions</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 3</emphasis> is the interpretation clause.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4</emphasis> states that the Act binds the Crown.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM2600703">
+          <label auto.number="no" denominator="yes">2  </label>
+          <heading>Use of audio-visual links in proceedings</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5</emphasis> sets out the general criteria a judicial officer or Registrar must consider when determining whether or not to allow the use of AVL for the appearance of a participant (as defined in <emphasis style="italic">clause 3</emphasis>) in a proceeding.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> sets out criteria, in addition to the criteria in <emphasis style="italic">clause 5</emphasis>, that a judicial officer or Registrar must consider in criminal matters.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 7</emphasis> states when AVL may be used in civil proceedings for the appearance of a participant. In brief, this is with the consent of all parties, or without their consent, if the judicial officer allows the use.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 8</emphasis> sets out the situations in which AVL may be used for the appearance of a participant in a criminal procedural matter. In brief, a judicial officer or Registrar may require any participant to appear by the use of AVL, unless a judicial officer determines, in accordance with the criteria in <emphasis style="italic">clauses 5 and 6</emphasis>, not to allow that use.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9</emphasis> states that, in general, AVL must not be used for the appearance of a participant in a criminal substantive matter unless its use is allowed by a judicial officer.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 10</emphasis> provides for variation or revocation of a determination to allow the use of AVL.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 11</emphasis> provides that the Judge in a proceeding may direct a jury not to draw an adverse inference because of the use of AVL.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 12</emphasis> sets out how the place of hearing is determined.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 13</emphasis> provides that participation by the use of AVL is equivalent to appearance at the hearing.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 14</emphasis> sets out the regime for documents and exhibits when a person appears at a proceeding by the use of AVL.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 15</emphasis> provides for the relationship between the Bill and other enactments. Generally, unless expressly provided otherwise, appearance by the use of AVL fulfils the legal requirements for appearance. If another enactment or rule of court sets out its own regime for the use of AVL, this Bill must be read subject to that other enactment or rule of court.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 16</emphasis> makes it clear that the usual powers of a judicial officer continue to exist in relation to proceedings in which AVL is used.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 17</emphasis> is the regulation-making power for the Bill.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 18</emphasis> amends the Evidence Act 2006 to clarify the relationship between its sections 103 to 106 and the provisions of this Bill.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+      <explnote.ris>
+        <heading>Regulatory impact statement</heading>
+        <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
+        <para>
+          <text>AVL is technology that uses audio-visual conferencing to allow a person to participate remotely in a court proceeding. Current legislation allows AVL to be used for only a small number of matters. It is proposed that new legislation be developed to authorise greater use of audio-visual links (<emphasis style="bold">AVL</emphasis>) in court proceedings.</text>
+        </para>
+        <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
+        <para>
+          <text>The Ministry of Justice has reviewed this regulatory impact statement and considers that it fulfils the adequacy criteria.</text>
+        </para>
+        <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
+        <para>
+          <text>Current legislation allows AVL to be used for only a small number of matters, primarily for witness appearances, applications for leave to appeal to the Supreme Court and Court of Appeal, Associate Judge civil list proceedings in the High Court, and to facilitate the attendance of remand prisoners at hearings in the Court of Appeal. Other legislation, including section 25(e) of the New Zealand Bill of Rights Act 1990 (<emphasis style="bold">NZBORA</emphasis>), requires defendants or witnesses to <quote.in quote="1">be brought before a court</quote.in> or to <quote.in quote="1">be present in court</quote.in>.<footnote id="DLM2600704"><para><text>Courts have previously interpreted the word <quote.in quote="1">present</quote.in> as requiring physical presence in court (<emphasis style="italic">Connelly v R</emphasis> (1998) 15 CRNZ 662).</text></para></footnote> Courts have previously interpreted the word <quote.in quote="1">present</quote.in> as requiring physical presence in court.<footnote id="DLM2600705"><para><text><emphasis style="italic">Connelly v R</emphasis> (1998) 15 CRNZ 662.</text></para></footnote> Analysis has identified some criminal and civil proceedings where no legislative change is required. However, with respect to the majority of criminal proceedings, legislative change is required to achieve consistency with NZBORA. Similarly, with regard to civil proceedings, legislative change is required to facilitate the use of AVL in the majority of proceedings.</text>
+        </para>
+        <explnote.subhead1>Costs of current arrangements</explnote.subhead1>
+        <para>
+          <text>Having all court participants physically present involves financial and other costs. These include—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>costs to witnesses where they are required to appear in a court outside their area, resulting in financial and emotional stress, especially when a hearing is unexpectedly delayed:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the costs of transporting prisoners, housing them at court, and providing security; the average unit cost to transport and escort a prisoner is expected to increase:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>expected growth in prisoners on remand, creating a flow-on in demand for court appearances and associated prisoner transports:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>pressure on defence counsel arising from increased numbers of people entering the system, which has the potential to have an impact on consultation and preparation time.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.ird-crosshead>Objectives</explnote.ird-crosshead>
+        <para>
+          <text>The primary objective of this proposal is to enable the widespread use of AVL in courts and justice facilities, as facilities are installed and participants become comfortable with the technology.</text>
+        </para>
+        <explnote.ird-crosshead>Alternative options</explnote.ird-crosshead>
+        <para>
+          <text>Non-legislative options (such as guidelines) have not been considered, as guidelines cannot override or adequately clarify the legal status of AVL in all proceedings. Guidance on the use of AVL has already been promulgated,<footnote id="DLM2600706"><para><text>Ministry of Justice, <emphasis style="italic">Guide to Court Use of Audio Visual Links (AVL)</emphasis>, 2009.</text></para></footnote> and it is appropriate that guidance such as this clarifies operational procedures for the use of AVL. The preferred legislative approach is outlined below.</text>
+        </para>
+        <explnote.subhead1>Specify when AVL can (and cannot) be used</explnote.subhead1>
+        <para>
+          <text>This option would involve specifying the circumstances in which participants could appear via AVL. One approach would be to focus primarily on the type of participant (defendant, witness, Judge, counsel, jury) and specify when that participant could appear by AVL. New Zealand legislation already does this to some extent.<footnote id="DLM2600707"><para><text>The Evidence Act specifies when witnesses may give their evidence via AVL; the Judicature Act 1908 and High Court Rules specify in what circumstances Judges and Associate Judges may appear by AVL in a proceeding.</text></para></footnote> Another approach would be to list the particular proceedings or types of proceedings in which participants could appear by AVL and/or the proceedings for which AVL generally should not be used. This option is not preferred because distinctions between participants or types of proceedings are likely to be relatively arbitrary. Such an approach is also restrictive because it is based on the limits of current technology; it does not allow for technological advances that may make AVL acceptable for use in a wider range of proceedings in future. Specifying the particular types of proceedings in statute may be due to a desire to introduce slowly such a potentially significant change in court proceedings. This has been the approach taken in New South Wales, which has amended its legislation over time to gradually expand the use of AVL.</text>
+        </para>
+        <explnote.subhead1>General presumption AVL can be used</explnote.subhead1>
+        <para>
+          <text>This is the approach taken in Tasmania’s Evidence (Audio and Audio Visual Links) Act 1999. The Act provides that a court may direct, on application or on its own motion, that any person, including a defendant, may appear before or give evidence to a court by audio-visual or audio link. This legislation is supported by guidelines, which stress that <quote.in quote="1">An over-riding factor is that the use of video-conferencing in any particular case must be consistent with furthering the interests of justice</quote.in>. A variation of this option is to have a <quote.in quote="1">modified</quote.in> general presumption—that is, a presumption generally for AVL to be used but with a threshold for greater consideration before AVL is used in some situations. The modified presumption approach is the preferred option discussed below. A general presumption is not preferred as it does not provide a sufficient threshold for greater consideration of when AVL would be appropriate.</text>
+        </para>
+        <explnote.ird-crosshead>Preferred option</explnote.ird-crosshead>
+        <explnote.subhead1>Modified presumption for the use of AVL</explnote.subhead1>
+        <para>
+          <text>The legislation would stipulate that AVL can be used in any proceedings, as the use of AVL will be more straightforward in some types of proceedings than in others. Therefore the legislation will create a lower hurdle for some types of matters as follows:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>for criminal procedural matters where no evidence is being called (such as relevant list appearances, bail, and some callovers), the legislation will provide a presumption in favour of the use of AVL, because the use of AVL is well accepted for these types of hearings and its use raises fewer concerns than for criminal substantive hearings. Criminal procedural matters represent the bulk of short, high-volume appearances and offer the opportunity for the greatest gains from the use of AVL. The legislation should therefore encourage the use of AVL for this category of hearing. Where there is an objection to the use of AVL in a procedural matter, Judges would be guided by the legislative criteria in deciding whether the presumption in favour of the AVL should be displaced:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>for criminal substantive matters where evidence is being called (such as defended hearings and jury trials), there would be no presumption in favour of the use of AVL. Instead, any party would be able to apply to the court to use AVL, and the court would determine the application based on the statutory criteria:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>civil matters do not present the same human rights concerns as criminal matters. The test for using AVL can correspondingly be less rigorous. Accordingly, the legislation would provide that AVL can be used in civil proceedings whenever the parties consent. The legislation would also allow a court to order the use of AVL in civil proceedings where the parties do not consent, provided that the use of AVL accords with the principles of natural justice. This would ensure that where there is a power imbalance between civil parties, one party cannot not unreasonably withhold consent to use AVL (eg, to put the other side to unnecessary expense).<footnote id="DLM2600708"><para><text>In civil matters, costs are borne by the parties to the dispute.</text></para></footnote></text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>Decisions on the use of AVL would be guided by criteria outlined in legislation. The critical question for the court would be whether the use of AVL in the particular circumstances of the case is able to ensure the protection of the rights of a defendant to be present at trial and to present a defence.</text>
+        </para>
+        <explnote.subhead1>Legislative approaches</explnote.subhead1>
+        <para>
+          <text>Australian jurisdictions indicate 2 possible drafting approaches: amendments to existing legislation or stand-alone legislation.</text>
+        </para>
+        <explnote.subhead2>Preferred option: overarching statute to apply across New Zealand legislation</explnote.subhead2>
+        <para>
+          <text>One overarching statute would set out the presumption above, with considerations to guide the appropriate use of AVL, which would apply to every enactment that is part of New Zealand law. Such an approach provides a clear legal basis for the use of AVL. It also provides a foundation for the required cultural change, moving away from the historic notion that physical presence is necessary for effective participation, to acceptance that AVL can achieve this just as well (and in some cases better).</text>
+        </para>
+        <explnote.subhead2>Alternative option: amend existing legislation</explnote.subhead2>
+        <para>
+          <text>The range of statutes that use varying terminology concerning participants in proceedings could be amended to clarify whether participants could appear by AVL (or other appropriate technology) and in what circumstances. This would involve a range of legislation, requiring review of and amendment to a large number of statutes, regulations, and rules.</text>
+        </para>
+        <explnote.subhead1>Cost-benefit analysis</explnote.subhead1>
+        <para>
+          <text>There are no specific costs associated with this legislation. However, investment in AVL facilities will avoid future costs for government. Having legislation in place to enable greater use of AVL means that the cost savings and benefits of any future investment in AVL will be realised as further AVL facilities are installed.</text>
+        </para>
+        <para>
+          <text>Benefits to which a specific monetary value cannot be assigned are also significant, and include—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>reductions in costs for participants in the court process:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>improved efficiency for justice sector agencies:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>improved safety and security:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>increased access to justice:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>improved quality of evidence.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.subhead1>Impact on other legislation</explnote.subhead1>
+        <para>
+          <text>This legislation is intended to be an overarching piece of enabling legislation that will apply to every enactment that is part of New Zealand law. Requirements in other enactments that defendants <quote.in quote="1">be brought before</quote.in> or <quote.in quote="1">appear before</quote.in> a court will be satisfied if they appear via AVL in accordance with this legislation.</text>
+        </para>
+        <para>
+          <text>The Evidence Act 2006 (sections 173 to 180) and the High Court Rules have provisions on the use of video links between Australia and New Zealand. It is not intended that new legislation alter or cut across what is already a comprehensive regime governing the use of AVL in trans-Tasman proceedings. </text>
+        </para>
+        <para>
+          <text>Section 26IB of the Judicature Act 1908 outlines the circumstances in which AVL may be used for Judge and Associate Judge work. This section is likely to be repealed.</text>
+        </para>
+        <para>
+          <text>It is unlikely that this new legislation will significantly amend provisions in other legislation (eg, the High Court Rules, Disputes Tribunals Act 1988, Corrections Act 2004) that specifically deal with AVL or enable AVL to be used in specific circumstances, though this will be determined through the drafting process.</text>
+        </para>
+        <explnote.ird-crosshead>Implementation and review</explnote.ird-crosshead>
+        <para>
+          <text>A new Bill enabling the use of AVL will be drafted and ready for introduction in November 2009 (subject to the Government’s legislative priorities).</text>
+        </para>
+        <para>
+          <text>AVL usage will be monitored over the 4 years after implementation. Formal evaluation of the legislation is not planned at this stage.</text>
+        </para>
+        <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
+        <para>
+          <text>In November 2008, the Ministry of Justice released a discussion document entitled <quote.in quote="1">Audio Links and Audio Visual Links in Proceedings</quote.in> for targeted consultation. The Department of Corrections has signalled its support for measures that would reduce prisoner transport requirements. Representatives of the judiciary have also expressed support for the proposals but emphasised that they see AVL being used predominantly in the procedural elements of courtroom proceedings and less so for the substantive components of proceedings (ie, where evidence is being physically presented).</text>
+        </para>
+        <para>
+          <text>The Ministry of Justice has consulted on this paper with The Treasury, Department of Corrections, New Zealand Police, Crown Law, Parliamentary Counsel Office, Legal Services Agency, Te Puni Kōkiri, Ministry of Foreign Affairs and Trade, Ministry of Social Development, and Ministry of Women’s Affairs. The Department of Prime Minister and Cabinet has been kept informed.</text>
+        </para>
+      </explnote.ris>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from the committee of the whole House</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM2600709">
     <member>Hon Simon Power</member>
     <title>Courts (Remote Participation) Bill</title>
@@ -108,7 +352,7 @@
       <heading>Title</heading>
       <prov.body>
         <subprov skeleton="no">
-          <label auto.number="no" denominator="yes"/>
+          <label auto.number="yes" denominator="yes"/>
           <para>
             <text>This Act is the Courts (Remote Participation) Act <changeable><citation jurisdiction="nz">2009</citation></changeable>.</text>
           </para>
@@ -120,14 +364,14 @@
       <heading>Commencement</heading>
       <prov.body>
         <subprov skeleton="no">
-          <label auto.number="no" denominator="yes"/>
+          <label auto.number="yes" denominator="yes"/>
           <para>
             <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
           </para>
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM2600714" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="107" bill.type="government" stage="3" year="2009">
+    <part id="DLM2600714" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="107" bill.type="government" stage="1" year="2009">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Preliminary provisions</heading>
       <prov id="DLM2600715" irdnumbering="no" skeleton="no" toc="yes">
@@ -135,7 +379,7 @@
         <heading>Interpretation</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes"/>
+            <label auto.number="yes" denominator="yes"/>
             <para>
               <text>In this Act, unless the context otherwise requires,—</text>
               <def-para id="DLM2600716">
@@ -268,19 +512,13 @@
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">f</label>
                     <para>
-                      <text>a judicial officer who is presiding over the proceeding:</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">fa</label>
-                    <para>
-                      <text>a Registrar who is presiding over the proceeding:</text>
+                      <text>a judicial officer who is presiding over the proceedings:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">g</label>
                     <para>
-                      <text>any other person directly involved in the proceeding whom the judicial officer or Registrar considers appropriate</text>
+                      <text>any other person directly involved in the proceeding whom the judicial officer considers appropriate</text>
                     </para>
                   </label-para>
                 </para>
@@ -314,7 +552,7 @@
         <heading>Act binds the Crown</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes"/>
+            <label auto.number="yes" denominator="yes"/>
             <para>
               <text>This Act binds the Crown.</text>
             </para>
@@ -322,7 +560,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM2600756" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="107" bill.type="government" stage="3" year="2009">
+    <part id="DLM2600756" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="107" bill.type="government" stage="1" year="2009">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Use of audio-visual links in proceedings</heading>
       <prov id="DLM2600757" irdnumbering="no" skeleton="no" toc="yes">
@@ -440,43 +678,19 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>AVL may be used in a civil proceeding for the appearance of a participant in the proceeding if a judicial officer or Registrar determines to allow its use for the appearance of that participant.</text>
+              <text>AVL may be used in any civil proceeding for the appearance of any participant if all the parties to the proceeding consent to its use.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>A judicial officer or Registrar may make a determination under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>on his or her own motion; or</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>on the application of any participant in the proceeding.</text>
-                </para>
-              </label-para>
+              <text>AVL may also be used in a civil proceeding for the appearance of a participant without the consent of all the parties if the judicial officer in the proceeding determines, in accordance with the criteria in <changeable><citation jurisdiction="nz">section 5</citation></changeable>, to allow its use for the appearance of that participant in the proceeding.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
             <para>
-              <text>A determination under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> must—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>be made in accordance with the criteria in <changeable><citation jurisdiction="nz">section 5</citation></changeable>; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>take into account whether or not the parties consent to the use of AVL for the appearance of the participant.</text>
-                </para>
-              </label-para>
+              <text>A determination under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> may be made by the judicial officer on his or her own motion or on the application of any participant in the proceeding.</text>
             </para>
           </subprov>
         </prov.body>
@@ -488,7 +702,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>Judicial officers and Registrars must determine whether to require any 1 or more of the participants in a criminal procedural matter to use AVL for his or her appearance, if AVL is available for that appearance.</text>
+              <text>A judicial officer or Registrar may require any participant in a criminal procedural matter to use AVL for his or her appearance.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -518,7 +732,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>AVL must not be used in any criminal substantive matter for the appearance of a participant unless a judicial officer determines to allow its use for the appearance of that participant in the proceeding—</text>
+              <text>AVL must not be used in any criminal substantive matter for the appearance of a participant unless the judicial officer in the proceeding determines to allow its use for the appearance of that participant in the proceeding—</text>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
@@ -533,10 +747,10 @@
               </label-para>
             </para>
           </subprov>
-          <subprov amend.level1="insert-cowh" skeleton="no">
-            <label amend.level1="insert-cowh" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-cowh">
-              <text>Despite <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, AVL must not be used for the appearance of the defendant in a trial that determines his or her guilt or innocence unless the defendant consents to that use.</text>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>A determination under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> may be made by the judicial officer on his or her own motion or on the application of a party to the proceeding.</text>
             </para>
           </subprov>
         </prov.body>
@@ -559,24 +773,12 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov id="DLM3004802" irdnumbering="no" skeleton="no" toc="yes">
-        <label auto.number="no" denominator="yes">10A</label>
-        <heading>Judicial officer or Registrar may make direction</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes"/>
-            <para>
-              <text>A judicial officer or Registrar who makes a determination under this Act in relation to the use of AVL for the appearance of a participant in a proceeding may make a direction in accordance with that determination.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
       <prov id="DLM2600763" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">11</label>
         <heading>Direction to jury</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes"/>
+            <label auto.number="yes" denominator="yes"/>
             <para>
               <text>In a proceeding tried with a jury, the Judge may direct the jury that it must not draw any adverse inference against any party to the proceeding because of the use of AVL in the proceeding.</text>
             </para>
@@ -588,7 +790,7 @@
         <heading>Determining place of hearing</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes"/>
+            <label auto.number="yes" denominator="yes"/>
             <para>
               <text>The place of hearing of any proceeding in which 1 or more of the participants appears by the use of AVL is the same as if none of the participants in that proceeding were to appear by the use of AVL.</text>
             </para>
@@ -636,7 +838,7 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">c</label>
                 <para>
-                  <text>by any other manner that the judicial officer or Registrar thinks fit.</text>
+                  <text>by any other manner that the judicial officer thinks fit.</text>
                 </para>
               </label-para>
             </para>
@@ -666,9 +868,9 @@
         <heading>AVL does not affect exercise of judicial officer's powers</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes"/>
+            <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>To avoid doubt, a judicial officer or Registrar presiding in a proceeding in which AVL is used has all the powers that he or she would have if the participant appeared in person. </text>
+              <text>To avoid doubt, a judicial officer presiding in a proceeding in which AVL is used has all the powers that he or she would have if the participant appeared in person. </text>
             </para>
           </subprov>
         </prov.body>
@@ -742,26 +944,14 @@
             <para>
               <text>The following section is inserted after section 102:</text>
               <amend quote="1">
-                <prov id="DLM3004803" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <prov id="DLM2600771" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                   <label auto.number="no" denominator="yes" quote="1">102A</label>
                   <heading>Relationship of Courts (Remote Participation) Act 2009 to sections 103 to 106</heading>
                   <prov.body>
                     <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes"/>
+                      <label auto.number="yes" denominator="yes"/>
                       <para>
-                        <text>Nothing in the Courts (Remote Participation) Act <changeable><citation jurisdiction="nz">2009</citation></changeable> affects or limits the ability of—</text>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">a</label>
-                          <para>
-                            <text>a party to apply under section 103(1) for evidence to be given in an alternative way; or</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">b</label>
-                          <para>
-                            <text>a Judge to make directions under that subsection.</text>
-                          </para>
-                        </label-para>
+                        <text>Evidence given by audio-visual link under the provisions of the Courts (Remote Participation) Act <changeable><citation jurisdiction="nz">2009</citation></changeable> is not, for the purposes of sections 103 to 106, evidence given in an alternative way.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -773,29 +963,4 @@
       </prov>
     </part>
   </body>
-  <end id="DLM3004804">
-    <leg-history id="DLM3004805">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2009-12-08</date>
-        <description>Introduction (Bill 107–1)</description>
-      </history-item>
-      <history-item>
-        <date>2010-03-23</date>
-        <description>First reading and referral to Justice and Electoral Committee</description>
-      </history-item>
-      <history-item>
-        <date>2010-05-31</date>
-        <description>Reported from Justice and Electoral Committee (Bill 107–2)</description>
-      </history-item>
-      <history-item>
-        <date>2010-06-29</date>
-        <description>Second reading</description>
-      </history-item>
-      <history-item>
-        <date>2010-06-30</date>
-        <description>Committee of the whole House (Bill 107–3)</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
