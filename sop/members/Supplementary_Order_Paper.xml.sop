@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2346500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0008" stage="published" year="2009" raised.by="Members" sop.no="43">
-  <date>Tuesday, 8 September 2009</date>
-  <billref>Resource Management (Simplifying and Streamlining) Amendment Bill</billref>
-  <body id="DLM2346501">
-    <heading>Proposed amendments</heading>
-    <motion>Dr Russel Norman, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2346502">
-      <clause.ref>Clause 68</clause.ref>
+<sop id="DLM2018900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0010" stage="published" year="2009" raised.by="Members" sop.no="18">
+  <date>Tuesday, 5 May 2009</date>
+  <billref>Immigration Bill </billref>
+  <body id="DLM2018901">
+    <heading>Proposed amendment</heading>
+    <motion>Hone Harawira, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM2018902">
+      <clause.ref>Part 1, new heading and clause 3A</clause.ref>
       <sop.para>
-        <text>To omit clause 68.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2346503">
-      <clause.ref>Clause 131</clause.ref>
-      <sop.para>
-        <text>To omit clause 131.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2346504">
-      <clause.ref>Clause 133</clause.ref>
-      <sop.para>
-        <text>To omit clause 133.</text>
+        <text>To insert the following new heading and clause 3A after clause 3 (after line 6 on page 26):</text>
+        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
+          <prov id="DLM2018903" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="no" quote="1">3A</label>
+            <heading>Act to be consistent with Treaty of Waitangi</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>The interpretation and administration of this Act will be consistent with the Treaty of Waitangi.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2346505" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0008" stage="published" year="2009" raised.by="Members" sop.no="43">
+  <explnote id="DLM2018904" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0010" stage="published" year="2009" raised.by="Members" sop.no="18">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper removes clauses 68, 131 and 133. Clause 68 which will reduce public notification of consent applications. Clause 131 will reduce the ability for organisations representing the public interest to join a case under s274 of the Act. Clause 133 will create a financial barrier to access the Environment Court by allowing the Court to award security for costs, respectively.</text>
+      <text> A reference to the Treaty of Waitangi is added to the Immigration Bill to enable Māori a statutory right of participation in the management of immigration consistent with the rights guaranteed to Māori under the Treaty of Waitangi.</text>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
