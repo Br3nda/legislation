@@ -1,31 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2050000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="19">
-  <date>Wednesday, 13 May 2009</date>
-  <billref>Local Government (Auckland Reorganisation) Bill</billref>
-  <body id="DLM2050001">
+<sop id="DLM2307700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="36">
+  <date>Tuesday, 25 August 2009</date>
+  <billref>Local Government (Auckland Council) Bill  </billref>
+  <body id="DLM2307701">
     <heading>Proposed amendments</heading>
-    <motion>Sue Kedgley, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2050002">
-      <clause.ref>Part 3:</clause.ref>
+    <motion>Hon Mita Ririnui, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2307702">
+      <clause.ref>Clause 4</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Clause 13:</emphasis> to omit from subclause (1)(g)(v) “or any item on the agenda for a meeting of an existing local government organisation (or any committee of an existing local government organisation) to be held during the transition period” (line 28 to 32 on page 10).</text>
+        <text>Clause 4 is amended by inserting the following definitions in their appropriate alphabetical order:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM2307703">
+            <para>
+              <text><def-term id="DLM2307704">Maori electoral district </def-term>has the same meaning as in section 3(1) of the Electoral Act 1993.</text>
+            </para>
+          </def-para>
+          <def-para id="DLM2307705">
+            <para>
+              <text><def-term id="DLM2307706">Maori electoral population </def-term>has the same meaning as in section 3(1) of the Electoral Act 1993.</text>
+            </para>
+          </def-para>
+          <def-para id="DLM2307707">
+            <para>
+              <text><def-term id="DLM2307708">Maori ward </def-term>means a Maori ward created in accordance with section 8.</text>
+            </para>
+          </def-para>
+        </instrument.amend>
       </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2307709">
+      <clause.ref>Clause 8(1)</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Heading to clause 20:</emphasis> to omit “<emphasis style="bold">and meeting agendas</emphasis>” (line 20 on page 14).</text>
+        <text>Clause 8(1) is amended by inserting <quote.in quote="1">, and Maori members as provided for in this Act</quote.in> after the number <quote.in quote="1">2001</quote.in>.</text>
       </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2307710">
+      <clause.ref>Clause 8</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Clause 20:</emphasis> to omit “; and” in subclause (1)(a) and the following subclause (1)(b) (lines 24 to 28 on page 14).</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Clause 20:</emphasis> to omit subclause (4) (lines 1 to 6 on page 15).</text>
+        <text>Clause 8 is amended by inserting the following subsections after subsection (3):</text>
+        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
+          <subprov quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">4</label>
+            <para>
+              <text>The number of members to be elected by the electors of 1 or more Maori wards of the district of a territorial authority (<emphasis style="bold">Maori ward members</emphasis>) is to be determined in accordance with the following formula</text>
+              <eqn id="DLM2307711">
+                <table align="center" fontsize="11.5" frame="none" id="DLM2307712" leading="13.5">
+                  <tgroup cols="7">
+                    <colspec colname="col1" colwidth="10.00mm"/>
+                    <colspec colname="col2" colwidth="7.49*"/>
+                    <colspec colname="COLSPEC0" colwidth="3.00pt"/>
+                    <colspec colname="col3" colwidth="26.11mm"/>
+                    <colspec colname="COLSPEC1" colwidth="3.00pt"/>
+                    <colspec colname="col4" colwidth="7.70*"/>
+                    <colspec colname="col5" colwidth="10.05mm"/>
+                    <tbody>
+                      <row>
+                        <entry align="center" colsep="0" rowsep="0"/>
+                        <entry align="right" colsep="0" morerows="1" rowsep="0" valign="middle">nmm = </entry>
+                        <entry align="right" colsep="0" rowsep="0" valign="middle"/>
+                        <entry align="center" colsep="0">
+                          <para>
+                            <eqn id="DLM2307713">
+                              <eqn-line>mepd</eqn-line>
+                            </eqn>
+                          </para>
+                        </entry>
+                        <entry align="left" colsep="0" rowsep="0" valign="middle"/>
+                        <entry align="left" colsep="0" morerows="1" rowsep="0" valign="middle">× nm</entry>
+                        <entry align="center" colsep="0" rowsep="0"/>
+                      </row>
+                      <row>
+                        <entry align="center" colsep="0" rowsep="0"/>
+                        <entry align="right" colsep="0" rowsep="0" valign="middle"/>
+                        <entry align="center" colsep="0" rowsep="0">
+                          <para>
+                            <eqn id="DLM2307714">
+                              <eqn-line>mepd + gepd</eqn-line>
+                            </eqn>
+                          </para>
+                        </entry>
+                        <entry align="left" colsep="0" rowsep="0" valign="middle"/>
+                        <entry align="center" colsep="0" rowsep="0"/>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </table>
+                <para>
+                  <text>where—</text>
+                </para>
+                <variable-def>
+                  <variable>nmm</variable>
+                  <para>
+                    <text>is the number of Maori ward members</text>
+                  </para>
+                </variable-def>
+                <variable-def>
+                  <variable>mepd</variable>
+                  <para>
+                    <text>is the Maori electoral population of the district</text>
+                  </para>
+                </variable-def>
+                <variable-def>
+                  <variable>gepd</variable>
+                  <para>
+                    <text>is the general electoral population of the district</text>
+                  </para>
+                </variable-def>
+                <variable-def>
+                  <variable>nm</variable>
+                  <para>
+                    <text>is the number of members of the territorial authority (other than the mayor and Maori members) as set out in <changeable><citation jurisdiction="nz">section 8(1)</citation></changeable>.</text>
+                  </para>
+                </variable-def>
+              </eqn>
+            </para>
+          </subprov>
+          <subprov quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">5</label>
+            <para>
+              <text>If the number of the <emphasis style="bold">Maori ward members</emphasis> (other than the mayor) calculated under <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> includes a fraction, the fraction must be disregarded unless it exceeds a half. If the fraction exceeds a half, the number of <emphasis style="bold">Maori ward members</emphasis> must be the next whole number above the number that includes the fraction.</text>
+            </para>
+          </subprov>
+          <subprov quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">6</label>
+            <para>
+              <text>If there is any inconsistency between the provisions of this section and any provisions of the Local Government Act 1974 or the Local Government Act 2002 or the Local Electoral Act 2001 or the Local Government (Tamaki Makaurau) Reorganisation) Act 2009, or of this Act or of any regulations made under the Local Government Act 1974 or the Local Government Act 2002 or the Local Electoral Act 2001 or the Local Government (Tamaki Makaurau) Reorganisation) Act 2009 or this Act, this section prevails.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2050003" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="19">
+  <explnote id="DLM2307715" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="36">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Local Government (Auckland Reorganisation) Bill to remove any authority to review or determine agenda items for local government organisations.</text>
+      <text>These amendments ensure that the new Auckland Council will include Maori members elected in proportion to the number of Maori in Auckland on the Maori electoral roll.</text>
+    </para>
+    <para>
+      <text>The provisions are modelled on those for determining the number of Maori seats on territorial authorities under Schedule 1A of the Local Electoral Act 2001.</text>
     </para>
   </explnote>
 </sop>
-<!--End of file, do NOT remove.-->
