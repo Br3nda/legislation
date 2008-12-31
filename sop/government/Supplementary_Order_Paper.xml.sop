@@ -1,64 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2341500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="38">
-  <date>Tuesday, 8 September 2009</date>
-  <billref>Cultural Property (Protection in Armed Conflict) Bill</billref>
-  <body id="DLM2341501">
-    <heading>Proposed amendments</heading>
-    <motion>Hon Christopher Finlayson, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2341502">
-      <clause.ref>Clause 20</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (2)(b)</emphasis>: to omit this paragraph (line 3 on page 18) and substitute the following paragraph:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="no">
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">b</label>
-            <para>
-              <text>sections 231(3)(b), 233(1)(c), 234, 235, and 235C(b)(ii) (which relate to the grant of equitable relief):</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (4)(c)</emphasis>: to omit <amend.in quote="1">231(1)(a) has effect as if for <quote.in quote="2">this Act</quote.in></amend.in> (line 23 on page 18) and substitute <amend.in quote="1">231(1) has effect as if for <quote.in quote="2">section 226</quote.in></amend.in>. </text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (6)</emphasis>: to omit this subclause (line 36 on page 18).</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2341503">
-      <clause.ref>Clause 29(3) and (4)</clause.ref>
-      <sop.para>
-        <text>To omit these subclauses (lines 21 to 32 on page 26).</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2341504">
-      <clause.ref>Clause 44AA</clause.ref>
-      <sop.para>
-        <text>To omit this clause (lines 5 to 17 on page 33).</text>
-      </sop.para>
-    </sop.amend>
+<sop id="DLM2532900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="85">
+  <date>Tuesday, 17 November 2009</date>
+  <billref>Trade Marks (International Treaties and Enforcement) Amendment Bill</billref>
+  <body id="DLM2532901">
+    <heading>Proposed motion to divide Bill into 2 Bills</heading>
+    <motion>Hon Simon Power, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+        <prov id="DLM2532902" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act is the Trade Marks Amendment Act <changeable>2009</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2405600" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text><changeable><citation jurisdiction="nz">Sections 3, 4 to 10, 12 to 16, 18 to 20, and 22A to 27</citation></changeable> come into force on the day after the date on which this Act receives the Royal assent.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+        <prov id="DLM2532903" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Copyright Amendment Act <changeable>2009</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2532904" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text><changeable><citation jurisdiction="nz">Sections 28, 30, 32 to 34, 36, 38, and 39</citation></changeable> come into force on the day after the date on which this Act receives the Royal assent.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote id="DLM2341505" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="38">
+  <explnote id="DLM2532905" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="85">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper updates provisions of the Bill with technical amendments that take into account the commencement of the relevant provisions of the Customs and Excise Amendment Act (No 3) 2008 (the <def-term id="DLM2341506">2008 Amendment Act</def-term>) by Order in Council made on 24 August 2009. The amendments—</text>
+      <text>This Supplementary Order Paper divides the Trade Marks (International Treaties and Enforcement) Amendment Bill into the following 2 Bills:</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>omit <emphasis style="italic">clause 29(3)</emphasis>, which relates to a section repealed by the 2008 Amendment Act; and</text>
+            <text>the Trade Marks Amendment Bill:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>modify <emphasis style="italic">clause 20(2)(b) and (4)(c)</emphasis> to ensure consistency with the relevant new provisions of the 2008 Amendment Act; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>omit <emphasis style="italic">clauses 20(6), 29(4)</emphasis> and <emphasis style="italic">44AA</emphasis> that were included in the Bill as transitional provisions until all parts of the 2008 Amendment Act are brought into force,  but are no longer necessary as all parts of that Act will be in force before this Bill is brought into force.</text>
+            <text>the Copyright Amendment Bill.</text>
           </para>
         </item>
       </list>
