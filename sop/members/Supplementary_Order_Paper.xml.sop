@@ -1,71 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2573200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0012" stage="published" year="2009" raised.by="Members" sop.no="97">
-  <date>Thursday, 19 November 2009</date>
-  <billref>Climate Change Response (Moderated Emissions Trading) Amendment Bill</billref>
-  <body id="DLM2573201">
+<sop id="DLM2456200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="73">
+  <date>Thursday, 15 October 2009</date>
+  <billref>Vehicle Confiscation and Seizure Bill  </billref>
+  <body id="DLM2456201">
     <heading>Proposed amendments</heading>
-    <motion>Charles Chauvel, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2573202">
-      <clause.ref>Clause 22: New Section 86A:</clause.ref>
+    <motion>Hon Clayton Cosgrove, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2456202">
+      <clause.ref>New clause 7A:</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Subclause (2):</emphasis> To insert after subparagraph (2)(b)(i) (after line 18 on page 39) the following:</text>
+        <text>To insert the following clause before clause 8 (after line 35 on page 7):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <amend increment="2" quote="1">
-            <label-para quote="1" skeleton="no">
-              <label auto.number="no" denominator="yes" quote="1">ia</label>
-              <para>
-                <text>a declaration of all donations made to any political party in the previous year by the applicant, including in the case of a body corporate, those made by its directors and senior managers; and</text>
-              </para>
-            </label-para>
-          </amend>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2573203">
-      <clause.ref>New Clause 23A:</clause.ref>
-      <sop.para>
-        <text>To insert, after clause 23 (after line 23 on page 46), the following:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2573204" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">23A</label>
-            <heading>Chief executive to publish certain information</heading>
+          <prov id="DLM2456203" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">7A</label>
+            <heading>Confiscation of motor vehicle after second offence</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
+                <label auto.number="no" denominator="no"/>
                 <para>
-                  <text>Section 89(1)(h) is amended by inserting the following new paragraph:</text>
-                  <amend increment="1" quote="1">
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">ha</label>
-                      <para>
-                        <text>For each participant who has applied for a free allocation under section 86B:</text>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">i</label>
-                          <para>
-                            <text>their name; and</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">ii</label>
-                          <para>
-                            <text>their address; and</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">iii</label>
-                          <para>
-                            <text>the number of units allocated; and</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">iv</label>
-                          <para>
-                            <text>their annual allocation adjustment, if any, in the previous specified year.</text>
-                          </para>
-                        </label-para>
-                      </para>
-                    </label-para>
-                  </amend>
+                  <text>Section 129(3) is amended by inserting after <amend.in quote="1">any motor vehicle owned by the offender</amend.in>, <amend.in quote="1">or by the substitute for the offender</amend.in>.</text>
                 </para>
               </subprov>
             </prov.body>
@@ -73,17 +25,47 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
+    <sop.amend id="DLM2456204">
+      <clause.ref>Clause 8:</clause.ref>
+      <sop.para>
+        <text>To amend new section 129B(5)(e) by omitting <amend.in quote="1">or confiscated and destroyed</amend.in> (line 2 on page 10).</text>
+      </sop.para>
+      <sop.para>
+        <text>To omit new section 129F (line 1 on page 14 to line 2 on page 15).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2456205">
+      <clause.ref>Clause 14:</clause.ref>
+      <sop.para>
+        <text>To omit this clause (line 27 on page 17 to line 4 on page 18).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2456206">
+      <clause.ref>Clause 16:</clause.ref>
+      <sop.para>
+        <text>To omit this clause (line 5 on page 19 to line 29 on page 20).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2456207">
+      <clause.ref>Clause 19:</clause.ref>
+      <sop.para>
+        <text>To omit from new section 141, subsection (2) (lines 15 and 16 on page 22).</text>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM2573205" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0012" stage="published" year="2009" raised.by="Members" sop.no="97">
+  <explnote id="DLM2456208" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="73">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Climate Change Response (Moderated Emissions Trading) Amendment Bill. These amendments are as follows:</text>
+      <text>These amendments reinstate the original intention of the Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003, which was that after two street racing offences within four years, an offender’s vehicle must be permanently confiscated.</text>
     </para>
     <para>
-      <text><emphasis style="italic">Clause 22: New Section 86A:</emphasis> requires applicants for a free allocation of carbon credits to agricultural or industrial emitters to declare any political donations made in the previous year, as an anti-corruption measure.  Corporations would have to declare both corporate donations and those made by their directors and senior managers.</text>
+      <text>The Vehicle Confiscation and Seizure Bill closes a loophole in that Act, by allowing vehicles owned by a third party, or <quote.in quote="1">substitute for the offender</quote.in>, to also be confiscated. However, the Bill says that confiscation of a vehicle owned by a substitute for the offender is at the discretion of the Court. The amendment to subsection 129(3) of the Sentencing Act 2002 makes it mandatory for the Court to confiscate a vehicle on a second offence within four years, even if it is owned by a substitute for the offender.</text>
     </para>
     <para>
-      <text><emphasis style="italic">New Clause 23A:</emphasis> requires the Chief Executive to publish the result of every allocation decision, with sufficient information to identify the participant.</text>
+      <text>The safeguards and appeal rights against seizure and confiscation for a substitute for the offender that are created by this bill remain.</text>
+    </para>
+    <para>
+      <text>Clauses 8, 14, 16, and 19 are amended or omitted as a result of the amendment to subsection 129(3) of the Sentencing Act 2002 because they relate to the new confiscation and destruction order on a third offence within four years. By amending this bill so that confiscation is mandatory on a second offence within four years, these third offence provisions will not be needed.</text>
     </para>
   </explnote>
 </sop>
