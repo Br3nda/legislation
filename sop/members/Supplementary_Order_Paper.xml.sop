@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0007" stage="published" year="2009" raised.by="Members" sop.no="102">
-  <date>Tuesday, 17 November 2009</date>
-  <billref>Climate Change Response (Moderated Emissions Trading) Amendment Bill</billref>
-  <body>
-    <heading>Proposed amendment</heading>
-    <motion>Jeanette Fitzsimons, in Committee, to move the following amendment:</motion>
-    <sop.amend>
-      <clause.ref>Clause 44</clause.ref>
+<sop id="DLM2050000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="19">
+  <date>Wednesday, 13 May 2009</date>
+  <billref>Local Government (Auckland Reorganisation) Bill</billref>
+  <body id="DLM2050001">
+    <heading>Proposed amendments</heading>
+    <motion>Sue Kedgley, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2050002">
+      <clause.ref>Part 3:</clause.ref>
       <sop.para>
-        <text>To omit subclauses (3) and (5).</text>
+        <text><emphasis style="italic">Clause 13:</emphasis> to omit from subclause (1)(g)(v) “or any item on the agenda for a meeting of an existing local government organisation (or any committee of an existing local government organisation) to be held during the transition period” (line 28 to 32 on page 10).</text>
       </sop.para>
       <sop.para>
-        <text>To add new subclause (8):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes">8</label>
-            <para>
-              <text>Section 184(9)(b) is repealed.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
+        <text><emphasis style="italic">Heading to clause 20:</emphasis> to omit “<emphasis style="bold">and meeting agendas</emphasis>” (line 20 on page 14).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 20:</emphasis> to omit “; and” in subclause (1)(a) and the following subclause (1)(b) (lines 24 to 28 on page 14).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 20:</emphasis> to omit subclause (4) (lines 1 to 6 on page 15).</text>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0007" stage="published" year="2009" raised.by="Members" sop.no="102">
+  <explnote id="DLM2050003" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="19">
     <heading>Explanatory note</heading>
     <para>
-      <text>The purpose of this Supplementary Order Paper is to amend the Climate Change Response (Moderated Emissions Trading) Amendment Bill to give affect to recommendations of the Parliamentary Commissioner for the Environment.</text>
-    </para>
-    <para>
-      <text>The amendments to subclauses (2) and (3) repeal the proposed requirement to report and consider the tonnes of carbon emissions involved when granting carbon liability exemptions for deforesting wilding tree forests. The amendment to subclause (8) is recommended so that pre-1990 tree weeds, which were planted for purposes such as erosion control but are not a problem, can be cleared without incurring a carbon liability.</text>
+      <text>This Supplementary Order Paper amends the Local Government (Auckland Reorganisation) Bill to remove any authority to review or determine agenda items for local government organisations.</text>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
