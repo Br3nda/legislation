@@ -1,770 +1,343 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM2248900" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="63" bill.type="government" stage="1" year="2009">
+<bill id="DLM2248900" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="63" bill.type="government" stage="2" year="2009">
   <billdetail>
     <title>Infrastructure Bill</title>
     <billtype>Government Bill</billtype>
-    <explnote id="DLM2248901" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="63" bill.type="government" stage="1" year="2009">
-      <heading>Explanatory note</heading>
-      <explnote.group>
-        <heading>General policy statement</heading>
+    <repnote>As reported from the Transport and Industrial Relations Committee</repnote>
+    <commentary id="DLM2528400" in.amend="false" irdnumbering="no" official="yes" bill.no="63" bill.type="government" stage="2" year="2009">
+      <heading>Commentary</heading>
+      <comm.lev1>
+        <heading>Recommendation</heading>
         <para>
-          <text>This is an omnibus Bill. It proposes substantive amendments to 8 Acts and the repeal of 1 Act. It is intended that the Bill will be divided at the committee of the whole House stage into 2 Bills, with Part 1 and the Schedule becoming the Utilities Access Bill, and Parts 2 to 4 remaining as the Infrastructure Bill. </text>
+          <text>The Transport and Industrial Relations Committee has examined the Infrastructure Bill and recommends that it be passed with the amendments shown.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Introduction</heading>
+        <para>
+          <text>This bill provides for a new Utilities Access Act, and makes a number of amendments to several Acts to remove a number of legislative barriers to infrastructure development. This is an omnibus bill of four Parts, covering three areas:</text>
+          <list>
+            <item>
+              <label denominator="yes" auto.number="yes"/>
+              <para>
+                <text>changes to utilities’ access arrangements to transport corridors</text>
+              </para>
+            </item>
+            <item>
+              <label denominator="yes" auto.number="yes"/>
+              <para>
+                <text>changes to the New Zealand Railways Corporation Act 1981</text>
+              </para>
+            </item>
+            <item>
+              <label denominator="yes" auto.number="yes"/>
+              <para>
+                <text>the repeal of the Affordable Housing: Enabling Territorial Authorities Act 2008.</text>
+              </para>
+            </item>
+          </list>
         </para>
         <para>
-          <text>The Bill is being introduced under Standing Order 259(c). That Standing Order provides that an omnibus Bill to amend more than 1 Act may be introduced with the agreement of the Business Committee. That approval has been given.</text>
+          <text>Changes to utilities’ access arrangements to transport corridors would provide a consistent approach for local authorities, Government agencies, and utility operators. The bill would allow the Minister to approve a Code of Practice for processes relating to access to road, rail, and motorway corridors.</text>
         </para>
         <para>
-          <text>The development of infrastructure is central to lifting New Zealand’s national productivity and improving New Zealand’s future economic growth. Improving the consistency of regulatory arrangements for infrastructure development, streamlining governance arrangements, and removing regulatory barriers all contribute to improving the timeliness of infrastructure provision and reducing the cost of infrastructure development.</text>
+          <text>We consider that changes are required to the New Zealand Railways Corporation Act 1981 to remove statutory restrictions that adversely affect the running of the New Zealand Railways Corporation’s business, and to align the corporation’s governance arrangements with equivalent provisions in the Crown Entities Act 2004.</text>
         </para>
         <para>
-          <text>The purpose of this Bill is to progress a broad suite of amendments, across several Acts, to facilitate infrastructure development by removing unnecessary barriers and improving the consistency of regulatory arrangements.</text>
+          <text>The bill would also repeal the Affordable Housing: Enabling Territorial Authorities Act 2008, while retaining a modified version of section 30 of that Act, which deals with restrictive covenants, by means of an amendment to the Property Law Act 2007. The bill proposes that the prohibition on restrictive covenants be limited to social housing, including housing for persons on low income or with special housing needs and disabilities.</text>
         </para>
         <para>
-          <text><emphasis style="italic">Parts 1 and 2</emphasis> improve the arrangements for managing access by utility operators (electricity, gas, telecommunications, water, and wastewater) to transport corridors (roads, railways, and motorways). Inconsistencies or gaps in legislation and industry practice are resulting in inefficiencies, uncertainty, and disputes, leading to associated higher costs and delays. </text>
+          <text>This commentary discusses the main issues we considered and explains the significant amendments we recommend to the bill. It does not address minor and technical amendments.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Interpretation</heading>
+        <para>
+          <text>Clause 4 says that “corridor manager”, in relation to railway land, means the licensed access provider who controls access to the land. We recommend the insertion of a definition of “railway land” in clause 4, so it is clear that it includes adjacent land that is held or used in connection with operating a railway on railway lines. This would mean that the definition of “transport corridor” in clause 4 would include such land as well as the railway line itself.</text>
         </para>
         <para>
-          <text><emphasis style="italic">Part 1</emphasis> establishes a framework for a national code of practice governing how utility operators and corridor managers co-ordinate their activities (the <def-term id="DLM2248902">Code</def-term>). The Part imposes an obligation on all utility operators and corridor managers to comply with the Code, unless parties otherwise agree. This obligation is backed by the ability of a court to order compliance with the Code, and to impose a fine if that court order is not complied with. </text>
+          <text>We also recommend that the definition of “utility operator” in relation to water and wastewater in clause 4 be amended to include any person acting on behalf of local authorities. The definition we have recommended takes into account the fact that not all water and wastewater utility operators are local authorities.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Obligation to comply with Code</heading>
+        <para>
+          <text>Clause 6(3) sets out the circumstances in which a utility operator would not have to comply with the Code when carrying out work in a transport corridor: when the Code conflicts with another enactment or obligation binding the utility operator; or when non-compliance is agreed between the corridor manager and affected operators. This prevents the situation where two participants are forced to do something inefficient and costly because it is a requirement of the Code.</text>
         </para>
         <para>
-          <text>A draft Code can be prepared by any person, so as to allow industry participants to develop it and own the result, but it must meet certain requirements before it can be approved by the Minister. A Code approved by the Minister will be a deemed regulation. Its detailed subject matter requires flexibility and expertise. However, the power to make the deemed regulation is tightly defined and the processes for approving a Code are clearly laid out. The Code must reflect broad agreement between stakeholders. It must contain the method by which any statutory criteria are to be applied, and operational and dispute resolution processes. In case there is no Code that meets the requirements for approval, the Part also includes a regulation-making power that allows the Minister to issue a Code in the form of regulations in place of an approved Code that is issued as a deemed regulation.</text>
+          <text>We recommend that new subclause 3A be inserted to make it clear that such an agreement not to comply with the Code does not affect corridor managers’ or utility operators’ obligations under any enactment, or under any standard with which they are obliged to comply.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Court may order compliance with Code</heading>
+        <para>
+          <text>We recommend that clause 7(1) be amended to provide that the District Court may require a utility operator or corridor manager to comply only with the obligations set out in clause 6, rather than to comply and act consistently with the Code in general. This would allow the District Court to consider any breaches of the obligation to comply with the Code. However, before participants could apply to the District Court for a court order, they would have to use the appropriate dispute resolution procedures in the Code.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Purpose of Code</heading>
+        <para>
+          <text>Clause 9(b) currently sets out measures to ensure that disruptions to roads, motorways, and railways caused by utility operators’ work are kept to a minimum, while ensuring public safety. We recommend that this clause be broadened by replacing “ensuring public” with “maintaining”. This would ensure that the safety of all concerned be maintained without targeting a particular group.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Content of Code</heading>
+        <para>
+          <text>Clause 10(1) specifies what the Code must set out in order to achieve its purpose. We recommend a number of changes to this clause, in order to strengthen some of its provisions, particularly relating to working relationships between corridor managers and utility operators, for the sake of efficiency and effective coordination, and to insert additional provisions to clarify important detail.</text>
         </para>
         <para>
-          <text><emphasis style="italic">Part 2</emphasis> amends 6 Acts. Amendments to the Telecommunications Act 2001, the Electricity Act 1992, the Gas Act 1992, and the Local Government Act 1974 provide for consistent provisions across the Acts around reasonable conditions of access to the corridors, allocation of costs when utility operators are required to move assets, and time periods for notification and response. Amendments to the Railways Act 2005 and the Government Roading Powers Act 1989 provide for time frames for responding to requests for access to rail corridors and motorways, and require controlling authorities to publish criteria on which they will base their decisions to grant access.</text>
+          <text>It is not clear in clause 10(1)(b) as introduced that the Code must also coordinate work between utility operators. We recommend that this clause be amended so it is clear that the Code covers the principles governing how utility operators deal with corridor managers as well as other utility operators, on issues in relation to access to transport corridors. </text>
         </para>
         <para>
-          <text><emphasis style="italic">Part 3</emphasis> amends the New Zealand Railways Corporation Act 1981 to remove some of the statutory restrictions that negatively affect the running of the New Zealand Railway Corporation’s (<def-term id="DLM2248903">NZRC</def-term>) business. These changes include normalising the appointment and dismissal of directors, changing the number of directors who can call a meeting to a simple majority, establishing the power to appoint a deputy chairperson, and streamlining arrangements for changes to NZRC's capital. It also removes the requirement to annually provide the Minister with a programme of capital works, removes the limit on how much NZRC can expend in one year and permits NZRC to effect insurance cover for or give an indemnity to a director or employee. These amendments are consistent with equivalent provisions in the Crown Entities Act 2004.</text>
+          <text>We recommend that clause 10(1)(c) be amended to cover the coordination of work in transport corridors that affects utility operators’ assets.</text>
         </para>
         <para>
-          <text><emphasis style="italic">Part 4</emphasis> repeals the Affordable Housing: Enabling Territorial Authorities Act 2008 (the <def-term id="DLM2248904">AHETA Act</def-term>). The AHETA Act was intended to provide councils with the regulatory tools to address problems of housing affordability in their district. Many developers and territorial authorities have raised concerns that the Act is counter-productive and likely to reduce, rather than increase, the supply of affordable housing. The processes create regulatory barriers that contradict Government initiatives to reduce regulatory barriers and compliance costs. However, to address the growing obstacle that restrictive covenants represent to social housing within newly developed communities, a modified version of the prohibition on certain restrictive covenants, currently contained in section 30 of the AHETA Act, is being inserted into the Property Law Act 2007. The modification is that the new section applies only to covenants relating to <quote.in quote="1">social housing</quote.in>, and not also to <quote.in quote="1">affordable housing</quote.in> (as those terms are defined in the AHETA Act).</text>
+          <text>We recommend replacing clause 10(1)(e) and inserting an additional clause, 10(1)(fa), to require that the Code specify how criteria for access published by corridor managers, and statutory criteria for local authorities imposing reasonable conditions, must be applied.</text>
         </para>
-      </explnote.group>
-      <explnote.group>
-        <heading>Clause by clause analysis</heading>
-        <clause.desc>
+        <para>
+          <text>We further recommend that paragraph (fb) be inserted to require that the Code include processes and rules for the sharing of information, such as “as-built” plans, by utility operators and corridor managers.  The extent of the obligation on small local authorities can be determined in the Code-making process.</text>
+        </para>
+        <para>
+          <text>The Code under the bill as introduced could refer to standards, guidelines, and other documents not reproduced in the Code. We recommend the insertion of new paragraph (i) to require that the Code indicate where such external material is available and in what specific edition or version.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Preparation and approval of Code</heading>
+        <para>
+          <text>A draft Code may be prepared by the Ministry responsible for the administration of this Part, or by any person or body of persons, using whatever processes the Ministry, person, or body considers appropriate. We recommend amending clause 11(2) to specify that the minimum consultation requirement when developing a Code is to consult with utility operators and corridor managers likely to be affected by the Code.  This would involve a similar amendment to clause 12(2)(iv).</text>
+        </para>
+        <para>
+          <text>We further recommend the insertion of new clause 11(4) so that any consultation done before the bill comes into force does not count as consultation for the purposes of clause 11(2).</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Amenity values</heading>
+        <para>
+          <text>The intent of clause 21 and parts of clauses 30 and 32 is to restrict the ability of local authorities to impose upon utility operators conditions that would create additional amenity value, beyond the current amenity value of the area. A local authority should pay the cost of such a condition, and the area should be specified in advance. However, while local authorities would have to meet the costs of upgrading the amenity value of the area, from work carried out by utility operators, we consider they should still be able to impose conditions on utility operators to ensure they match the current amenity standard of the area.</text>
+        </para>
+        <para>
+          <text>Concern has been raised that these clauses as introduced would restrict local authorities’ ability to maintain the amenity value of certain roads and increase the costs of doing so. It was argued, for example, that local authorities should not be required to pay for utility operators installing new assets to match the existing amenity value of a road, where the utility operator would otherwise have installed a second-hand piece of equipment.</text>
+        </para>
+        <para>
+          <text>We therefore recommend that clauses 21, 30, and 32 be amended. The proposed amendments clarify that the restriction does not apply if utility operators are merely being required to maintain amenity values.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Requirement to give 10 working days’ notice</heading>
+        <para>
+          <text>Clause 25 sets out a proposed amendment of section 142(2) of the Telecommunications Act 2001 requiring a telecommunications operator to give 10 working days’ notice of its intention to place a cabinet or other appliance on the road, to both the local authority or any other person who has jurisdiction over the road and to any utility operator whose pipes, lines, or other structures will be or are likely to be affected by the work.</text>
+        </para>
+        <para>
+          <text>The clause is inconsistent with other provisions of the Telecommunications Act, which allow local authorities 15 days to respond with conditions. We recommend retaining the requirement to give notice but removing the requirement to provide that notice at least 10 working days in advance, bringing the section into line with the Electricity Act 1992 and the Gas Act 1992.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Removal of utility operators’ rights to impose conditions on each other</heading>
+        <para>
+          <text>The Electricity Act and the Gas Act currently allow both local authorities, and other utility operators whose assets are being moved, to impose conditions on electricity and gas operators. However, the Telecommunications Act allows only local authorities to impose conditions.</text>
+        </para>
+        <para>
+          <text>We recommend that the Electricity Act and the Gas Act be made consistent with the Telecommunications Act, so that only local authorities, and not other utilities, can impose such conditions.  The necessary amendments are set out in new clauses 29A and 31A.</text>
+        </para>
+        <para>
+          <text>The proposed amendments would also address anti-competitive concerns. Removing the ability of all operators to impose conditions on each other would allow utility operators to compete without a risk of disadvantageous conditions being imposed by their competitors.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Causer pays provisions</heading>
+        <para>
+          <text>The Electricity Act and the Gas Act apply a “causer pays” principle when utilities’ assets are required to be moved. This means the causer of the work pays the whole cost. However, these Acts also provide for utility operators to share the cost when a “controlling authority” causes the work.</text>
+        </para>
+        <para>
+          <text>Submitters raised concerns with us about the definition of a “controlling authority” and whether this term refers to the New Zealand Transport Agency or local authorities. We recommend amending section 33(4) of the Electricity Act, section 34(4) of the Gas Act, and proposed new section 147B (being inserted by clause 28 of the bill) of the Telecommunications Act, to make it clear that a “controlling authority” applies only to the agent of the Minister of Transport or the New Zealand Transport Agency.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Replacing the term “fittings”</heading>
+        <para>
+          <text>In proposed new section 147B of the Telecommunications Act (inserted by clause 28), the utility is required to pay for the “fittings” used in carrying out the required work while the controlling authority pays for the actual work done. The term “fittings” in this sense is a defined term in the Electricity Act and the Gas Act, but not in the Telecommunications Act. We therefore recommend replacing the word “fittings” in proposed new section 147B of the Telecommunications Act with “lines, cabinets, other appliances, and associated equipment”. This phrase reflects the meanings of “fittings” as it is used in the other Acts.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Notice to be given of local authority works</heading>
+        <para>
+          <text>Section 52 of the Government Roading Powers Act 1989 states that a utility needs consent from a road controlling authority, including a local authority, before it enters the road. This section is inconsistent with provisions of the Electricity Act, the Gas Act, and the Telecommunications Act regarding access to roads. We recommend amending section 52 of the Government Roading Powers Act in clause 35(2), so that this section does not override the relevant provisions in the Electricity Act, the Gas Act, or the Telecommunications Act that relate to works or maintenance on, under, or over a road.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Amendment to the Railways Act 2005</heading>
+        <para>
+          <text>The bill provides for “licensed access providers” to publish criteria for access on a publicly available website. There are 80 such providers, ranging from small voluntary organisations to industrial rail operators and the New Zealand Railways Corporation. We recommend amending section 75 of the Railways Act 2005 in clause 38(2) to limit this requirement to the New Zealand Railways Corporation and any other licensed access provider that the Minister declares by notice in the Gazette to be subject to it. This would avoid requiring rail operators who were unlikely to be providing utility access to their tracks from having to publish criteria for access on a publicly available website.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Regulation-making powers</heading>
+        <para>
+          <text>We sought the advice of the Regulations Review Committee on the provision in the bill for an approved industry-led code of practice to become a deemed regulation.</text>
+        </para>
+        <para>
+          <text>As a result of advice received we adopted two recommendations for amendments to the bill. The first is to amend clause 10 to require that where a Code of practice refers to standards, guidelines, or other external documents it must say how this material may be accessed and refer to the specific edition.</text>
+        </para>
+        <para>
+          <text>The second recommendation is an amendment to clause 6(3) to make it clear that an agreement not to comply with the Code does not affect corridor managers’ or utility operators’ obligations under any enactment, or under any standard with which they are obliged to comply.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Minority view of New Zealand Labour and Green Party members</heading>
+        <para>
+          <text>Labour members oppose the repeal of the Affordable Housing: Enabling Territorial Authorities Act.</text>
+        </para>
+        <para>
+          <text>Labour members believe housing affordability is a major issue in New Zealand, with close to one in three New Zealanders now spending 30 percent or more of their disposable income on housing, with 30 percent being the internationally agreed benchmark for housing affordability.</text>
+        </para>
+        <para>
+          <text>If the Government believes the current Act is not working then Labour and Green members believe it should be referred to a select committee where possible amendments could be considered. We believe that this decision to repeal the Act without such consideration is a wasted opportunity, and further limits the tools available to address housing affordability in New Zealand.</text>
+        </para>
+        <para>
+          <text>We also believe that the repeal of this Act should not have been hidden away in the Infrastructure Bill, and should have been referred to either the Social Services or the Local Government and Environment Committees.</text>
+        </para>
+        <para>
+          <text>We support the retention of clauses prohibiting restrictive covenants that aim to exclude social housing; however we are disappointed that the Government has decided to water down these provisions and to remove the prohibition of restrictive covenants that aim to exclude affordable housing. The decision to make the provisions only apply if such discrimination is a “principle purpose” of the covenant creates a huge loophole. We support the wording in the existing law which says that “A covenant over land is void if one of its purposes is to stop the provision of affordable housing or social housing on the land.”</text>
+        </para>
+        <para>
+          <text>We hope it will be possible in the third reading to vote separately on Part 4 from the rest of the bill.</text>
+        </para>
+      </comm.lev1>
+      <comm.appendix>
+        <heading>Appendix</heading>
+        <comm.lev2>
+          <heading>Committee process</heading>
           <para>
-            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
+            <text>The Infrastructure Bill was referred to us on 25 August 2009. The closing date for submissions was 18 September 2009. We received and considered 37 submissions from interested groups and individuals. We heard 14 submissions.</text>
           </para>
-        </clause.desc>
-        <clause.desc>
           <para>
-            <text><emphasis style="italic">Clause 2</emphasis> provides that the Act comes into force on the day after the date on which it receives the Royal assent.</text>
+            <text>We received advice from The Treasury, the Ministry of Economic Development, the Ministry of Transport, and the Housing New Zealand Corporation. The Regulations Review Committee reported to us on the powers contained in clause 6(3) and clause 18(4).</text>
           </para>
-        </clause.desc>
-        <explnote.part id="DLM2248905">
-          <label auto.number="no" denominator="yes">1  </label>
-          <heading>Utility access</heading>
-          <clause.desc>
-            <para>
-              <text>It is intended that <emphasis style="italic">Part 1</emphasis> and the <emphasis style="italic">Schedule</emphasis> will be divided from the Bill at the committee of the whole House stage and will be enacted as a new <changeable>Utilities Access Act 2009</changeable>.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 3</emphasis> lists the purpose of the Part, which is to—</text>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>require utility operators and corridor managers to comply with a national code of practice (the <emphasis style="bold">Code</emphasis>) that regulates access to transport corridors; and</text>
-                  </para>
-                </item>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>provide for the making and administration of the Code.</text>
-                  </para>
-                </item>
-              </list>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 4</emphasis> contains definitions for the purposes of the Part. The key ones are Code, corridor manager, transport corridor, and utility operator. The term transport corridor includes all roads (which includes State highways and Government roads), along with motorways and railway lines.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 5</emphasis> provides that the Part binds the Crown.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Obligation to comply with Code</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 6</emphasis> sets out the obligations of utility operators and corridor managers to comply with the Code. The basic obligation is to co-ordinate work done in transport corridors by complying with the processes and rules in the Code. In addition, parties must use any dispute resolution procedures in the Code before seeking to enforce the Code through the courts under <emphasis style="italic">clause 7</emphasis>. Corridor managers are obliged to comply with the Code when setting reasonable conditions for access. (The right to impose reasonable conditions is given under other Acts, such as the Telecommunications Act 2001 and the Electricity Act 1992.) Utility operators must comply with the Code when actually working within transport corridors, unless doing so would be inconsistent with an enactment or standard, or unless non-compliance is agreed to by all affected parties. If there is no Code in force, this section does not apply.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 7</emphasis> gives utility operators and corridor managers the right to go to the District Court to seek an order that another utility operator or corridor manager must do something required by, or consistent with, the Code, or refrain from doing anything that is prohibited by, or inconsistent with, the Code. This is the provision that allows those affected by the Code to enforce its provisions. When considering whether to make an order, the court may take into account the practicality and cost of alternative ways of achieving the same outcomes as compliance with the Code would achieve.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 8</emphasis> makes it an offence to fail to comply with an order made by the District Court under <emphasis style="italic">clause 7</emphasis>. The court may or may not have required strict compliance with the Code; the offence is about complying with the order, not about complying with the Code.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Nature of Code</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 9</emphasis> gives the purpose of the Code, which is to ensure that access to transport corridors is managed in a way that—</text>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>maximises the benefit to the public while ensuring that utility operators are treated fairly; and</text>
-                  </para>
-                </item>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>ensures disruptions to transport corridors are kept to a minimum, while ensuring public safety; and</text>
-                  </para>
-                </item>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>provides a nationally consistent approach to managing access to transport corridors.</text>
-                  </para>
-                </item>
-              </list>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 10</emphasis> sets out the requirements for the content of the Code. It lists a range of principles, processes, rules, etc, that must be included in the Code, and identifies additional matters that may be included.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>How Code made and administered</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 11</emphasis> provides that any person may prepare a draft Code and submit it to the Minister for approval, subject to consultation requirements. The clause is deliberately non-prescriptive, to allow a draft Code to be developed in whatever way will best meet the needs of those who will be subject to it.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 12</emphasis> provides for the Minister to approve a draft code and give notice of it. The Minister must be satisfied that the draft will achieve the purposes of the Code, adequately addresses the matters required to be contained in the Code, has been consulted upon, is broadly agreed to by corridor managers and utility operators, and reflects a balance between the interests of corridor managers and utility operators.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 13</emphasis> provides that a draft code approved by the Minister takes effect as the Code on the date specified in a <emphasis style="italic">Gazette</emphasis> notice.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 14</emphasis> is about publication of the Code. It must be published on a publicly available Internet site and be available for purchase in hard copy.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 15</emphasis> provides that the Code is a regulation for the purposes of the Regulations (Disallowance) Act 1989 (which means it must be presented to the House of Representatives, is subject to scrutiny by the Regulations Review Committee, and is subject to disallowance), but is not a regulation for the purposes of the Acts and Regulations Publications Act 1989 (which means it does not have to be drafted by the Parliamentary Counsel Office or be published in the Statutory Regulations Series).</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 16</emphasis> provides for amendment of the Code. Amendments to the Code are made by a similar process to that which applies when making an original Code.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 17</emphasis> provides that the Minister may cancel the Code if he or she considers that it no longer adequately reflects the balance of interests between corridor managers and utility operators, or is not achieving its purpose, or that there are significant concerns about it and resolution of the issues seems unlikely.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Regulations in place of Code</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 18</emphasis> provides that regulations can be made regulating access to transport corridors. Regulations can only be made if no Code approved under <emphasis style="italic">clause 12</emphasis> is in force, or if an existing Code is, or is likely to be, cancelled. Making regulations is a fall-back if an industry-developed Code is not effective in achieving better management of access to transport corridors. The regulations would have the same purpose as a Code approved under <emphasis style="italic">clause 12</emphasis>, and would have to include the same sort of principles, processes, rules, etc. References in the Act to the Code would be treated as a reference to regulations (<emphasis style="italic">see</emphasis> the definition of Code in <emphasis style="italic">clause 4</emphasis>). The <emphasis style="italic">Schedule</emphasis> sets out provisions applying to any material incorporated by reference into regulations made under this provision.</text>
-            </para>
-          </clause.desc>
-        </explnote.part>
-        <explnote.part id="DLM2248906">
-          <label auto.number="no" denominator="yes">2  </label>
-          <heading>Amendments relating to utility access to transport corridors</heading>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 19</emphasis> provides that the purpose of this Part is to amend a variety of Acts relating to utility operators' access to transport corridors in order to achieve greater certainty and consistency in the rights and obligations of utility operators and corridor managers.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Amendments to Telecommunications Act 2001</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 20</emphasis> provides that <emphasis style="italic">clauses 21 to 28</emphasis> amend the Telecommunications Act 2001 (the <def-term id="DLM2248907">Act</def-term>).</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 21</emphasis> amends section 119 of the Act. Under sections 135 and 142 of the Act, network operators have rights to construct and repair lines and other telecommunications works on roads, subject to reasonable conditions imposed by the relevant local authority or other person who has jurisdiction over the road (<def-term id="DLM2248908">road authority</def-term>). Section 119 lists matters that the road authority may consider when setting those reasonable conditions. The amendment clarifies that conditions requiring an increase in amenity values can only be imposed in certain circumstances, and that any additional costs incurred in increasing amenity values must be borne by the road authority.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 22</emphasis> amends section 136 of the Act. That section requires network operators to give notice to a road authority if the network operator intends to break open a road for the purpose of exercising its rights under section 135. The amendment extends the notice requirement so that notice must also be given to other utility operators whose pipes, lines, etc, will or are likely to be affected by the proposed work.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 23</emphasis> amends section 137 of the Act by decreasing from 20 to 15 the number of working days' notice required for a notice given under section 136. This is for consistency with the period of notice currently required for equivalent notices under the Electricity Act 1992 and Gas Act 1992.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 24</emphasis> consequentially amends section 138 of the Act for consistency with the amendment made by <emphasis style="italic">clause 23</emphasis>.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 25</emphasis> amends section 142 of the Act. That section requires network operators to give notice to road authorities of an intention to place a cabinet or appliance on the road. The amendment extends the notice requirement so that notice must also be given to other utility operators whose pipes, lines, etc, will or are likely to be affected by the proposed work.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 26</emphasis> amends section 143 of the Act by decreasing from 20 to 15 the number of working days' notice required for a notice under section 142. This is for consistency with the period of notice currently required for equivalent notices under the Electricity Act 1992 and the Gas Act 1992.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 27</emphasis> consequentially amends section 144 of the Act for consistency with the amendment by <emphasis style="italic">clause 26</emphasis>.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 28</emphasis> inserts a new heading and <emphasis style="italic">new sections 147A to 147C</emphasis> into the Act. These provisions deal with what happens when a road authority requires a network operator to alter the position of the network operator's lines, etc. The provisions repeat sections 33 and 34 of the Electricity Act 1992 and sections 34 and 35 of the Gas Act 1992. The same regime will therefore apply to telecommunications utilities as applies to electricity and gas utilities.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Amendment to Electricity Act 1992</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 30</emphasis> inserts into the Electricity Act 1992 a provision that is the equivalent of section 119 of the Telecommunications Act 2001, as that section is amended by <emphasis style="italic">clause 21</emphasis>. The section sets out criteria that a road authority may consider when setting reasonable conditions on access to roads by electricity operators.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Amendment to Gas Act 1992</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 32</emphasis> inserts into the Gas Act 1992 a provision that is the equivalent of section 119 of the Telecommunications Act 2001, as that section is amended by <emphasis style="italic">clause 21</emphasis>. The section sets out criteria that a road authority may consider when setting reasonable conditions on access to roads by gas operators.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Amendments to Government Roading Powers Act 1989</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 33</emphasis> provides that <emphasis style="italic">clauses 34 to 37</emphasis> amend the Government Roading Powers Act 1989 (formerly the Transit New Zealand Act 1989) (the <def-term id="DLM2248909">Act</def-term>).</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 34</emphasis> amends section 48 of the Act. Subsection (3) of that section gives the Minister of Transport a range of powers necessary to construct and maintain roads under the Minister's control. The amendment inserts a requirement that the Minister must give 10 working days' notice to utility operators before commencing work that will or is likely to interfere with their pipes, lines, etc. A similar requirement is being imposed on other road authorities by amendments made in <emphasis style="italic">clauses 37 and 39</emphasis>.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 35</emphasis> amends section 52 of the Act. That section provides that road authorities must not start work on State highways without the consent of the New Zealand Transport Agency (the <def-term id="DLM2248910">Agency</def-term>), or on Government roads without the consent of the Minister of Transport, or on any road under the control of a local authority without the consent of the local authority. The consent may be given subject to conditions. The amendment to this section requires the Agency and the Minister to publish criteria that they will apply when considering applications for access.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 36</emphasis> amends section 61 of the Act. That section relates to the powers of the Agency in relation to State highways. Subsection (4) gives the Agency a range of powers to construct and maintain State highways, similar to those given by section 48 with respect to roads under the Minister's control. This amendment inserts a requirement that the Agency must give 10 working days' notice to utility operators before commencing work that will or is likely to interfere with their pipes, lines, etc.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 37</emphasis> inserts a <emphasis style="italic">new section 77A</emphasis> into the group of provisions in the Act dealing with access to motorways. The new section inserts a requirement that the Agency must respond within 30 days to requests by local authorities or owners of pipes, lines, etc, for access to the motorway transport corridor.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Amendment to Railways Act 2005</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 38</emphasis> amends section 75 of the Railways Act 2005, which is about access to the rail transport corridor. The amendment requires that licensed access providers and railway premises owners must publish the criteria that they will apply when considering requests by local authorities or the owners of pipes, lines, etc, for access to the rail corridor. The person receiving the request must respond in writing within 30 working days.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Amendment to Local Government Act 1974</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 39</emphasis> amends section 319 of the Local Government Act 1974. That section gives local councils a range of powers with respect to roads. The amendment inserts a requirement that councils must give 10 working days' notice to utility operators before commencing work that will or is likely to interfere with their pipes, lines, etc.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Transitional provision</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 40</emphasis> is an avoidance of doubt provision to confirm that none of the amendments made in this Part are intended to apply to or affect anything already settled. The amendments are to have prospective effect only.</text>
-            </para>
-          </clause.desc>
-        </explnote.part>
-        <explnote.part id="DLM2248911">
-          <label auto.number="no" denominator="yes">3  </label>
-          <heading>Amendments relating to New Zealand Railways Corporation</heading>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 41</emphasis> provides that <emphasis style="italic">Part 3</emphasis> amends the New Zealand Railways Corporation Act 1981 (the <def-term id="DLM2248912">Act</def-term>).</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 42</emphasis> amends section 2(1) of the Act by replacing the definition of Minister with a standard definition, which complements the repeal of section 3 of the Act.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 43</emphasis> repeals section 3 of the Act, which provided for the appointment of a Minister of Railways, and makes 3 consequential amendments.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 44</emphasis> amends section 4 of the Act by—</text>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>providing for a deputy chairperson for the New Zealand Railways Corporation (the <def-term id="DLM2248913">Corporation</def-term>) (in a manner consistent with the Crown Entities Act 2004):</text>
-                  </para>
-                </item>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>changing references to <quote.in quote="1">Chairman</quote.in> to <quote.in quote="1">chairperson</quote.in>:</text>
-                  </para>
-                </item>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>providing that directors may be removed from office entirely at the discretion of the Minister and the Minister of Finance. This brings the removal provisions into line with those in section 36(1) of the Crown Entities Act 2004:</text>
-                  </para>
-                </item>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>repealing a provision about filling vacancies among directors.</text>
-                  </para>
-                </item>
-              </list>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 45</emphasis> amends section 6 of the Act by—</text>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>inserting references to the deputy chairperson:</text>
-                  </para>
-                </item>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>providing that a majority of the directors (rather than 4, as at present) may call a meeting of directors.</text>
-                  </para>
-                </item>
-              </list>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 46</emphasis> inserts a <emphasis style="italic">new section 7A</emphasis> into the Act. It allows the Corporation to—</text>
-              <list>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>indemnify directors and employees, on the same basis as indemnification can be provided to members and employees of Crown entities under the Crown Entities Act 2004:</text>
-                  </para>
-                </item>
-                <item>
-                  <label auto.number="no" denominator="yes"/>
-                  <para>
-                    <text>effect insurance for directors and employees, again on the same basis as it could be provided under the Crown Entities Act 2004.</text>
-                  </para>
-                </item>
-              </list>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 47</emphasis> amends subsections (3) and (4) of section 36 of the Act, which currently provide that the capital of the Corporation may be increased or decreased only by an Order in Council. Under the amendments, the capital will be able to be increased or decreased by the Minister of Finance by notice in the <emphasis style="italic">Gazette</emphasis>.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 48</emphasis> repeals sections 40 and 41 of the Act. Section 41 currently requires the Corporation to provide the Minister each year with a programme of capital works, and prohibits the Corporation from undertaking capital expenditure in excess of an amount determined by the Minister of Finance. Section 41 currently prohibits the Corporation from spending more than $5,000 on purposes not authorised by this or any other Act.</text>
-            </para>
-          </clause.desc>
-        </explnote.part>
-        <explnote.part id="DLM2248914">
-          <label auto.number="no" denominator="yes">4  </label>
-          <heading>Amendments relating to affordable housing</heading>
-          <explnote.crosshead>Repeal of Affordable Housing: Enabling Territorial Authorities Act 2008</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 49</emphasis> repeals the Affordable Housing: Enabling Territorial Authorities Act 2008.</text>
-            </para>
-          </clause.desc>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic"><citation jurisdiction="nz">Clauses 50 to 53</citation></emphasis> consequentially amend a number of Acts to omit provisions that were inserted into them by the Affordable Housing: Enabling Territorial Authorities Act 2008.</text>
-            </para>
-          </clause.desc>
-          <explnote.crosshead>Amendment of Property Law Act 2007</explnote.crosshead>
-          <clause.desc>
-            <para>
-              <text><emphasis style="italic">Clause 54</emphasis> amends the Property Law Act 2007 by inserting into it a <emphasis style="italic">new section 277A</emphasis>. This repeats, in part, section 30 of the Affordable Housing: Enabling Territorial Authorities Act 2008. That section currently provides that a covenant over land is void if it has a purpose of stopping the provision of <quote.in quote="1">affordable housing</quote.in> or <quote.in quote="1">social housing</quote.in> (which are defined in that Act). The amendment to the Property Law Act 2007 carries forward this provision as far as it relates to social housing. Covenants preventing affordable housing or social housing that were entered into while the Affordable Housing: Enabling Territorial Authorities Act 2008 was in force remain void (by operation of section 17(1) of the Interpretation Act 1999). When <emphasis style="italic">new section 277A</emphasis> of the Property Law Act 2007 comes into force, covenants preventing social housing will be void under that section.</text>
-            </para>
-          </clause.desc>
-        </explnote.part>
-      </explnote.group>
-      <explnote.ris>
-        <heading>Regulatory impact statement</heading>
-        <explnote.part id="DLM2248915">
-          <label auto.number="no" denominator="no"/>
-          <heading>Utilities access</heading>
+        </comm.lev2>
+        <comm.lev2>
+          <heading>Committee membership</heading>
           <para>
-            <text>This regulatory impact statement was finalised on 22 May 2007 and was considered by Cabinet on 4 December 2007.</text>
+            <text>David Bennett (Chairperson)</text>
           </para>
-          <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
           <para>
-            <text>When utility operators exercise their statutory right of access to roads, they allege inconsistent application of <quote.in quote="1">reasonable conditions</quote.in> by local authorities; in turn, local authorities allege poor quality reinstatement of roads by utility operators. Other disquiet arises from inconsistencies in utility statutes creating advantages for some operators. The preferred option is to make utility legislation consistent where appropriate and to provide a legislated process to give legal status to  a stakeholder-created code for managing access to roads, motorways, and rail corridors, and a regulated code if considered necessary. The impacts of legislative change are that some parties will face increased compliance and resource costs, but greater benefits arise from the more certain regulatory environment for investment decisions, and the improvement in the management and co-ordination of utility works in roads, rail, and motorways. The process of engagement between stakeholders in agreeing a code of practice should produce better outcomes for all parties.</text>
+            <text>Dr Jackie Blue</text>
           </para>
-          <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
           <para>
-            <text>The Ministry of Economic Development (<emphasis style="bold">MED</emphasis>) confirms that the proposal complies with the Code of Good Regulatory Practice. MED has assessed the regulatory impact analysis and regulatory impact statement and considers both to be adequate. The discussion document was not required to comply with the RIA requirements as it was disseminated prior to April 2007.</text>
+            <text>Carol Beaumont</text>
           </para>
-          <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
           <para>
-            <text>Legislative provision for the access to road, rail, and motorway corridors by utility operators (electricity, telecommunications, water, sewerage, drains, and gas) is inconsistent across statutes. Inconsistencies include the notification requirements prior to works commencing (different periods, notification responsibilities, and processes); the allocation of costs when installations are moved; and the criteria for setting <quote.in quote="1">reasonable conditions</quote.in> on the works by those with jurisdiction over the transport corridor.</text>
+            <text>Darien Fenton</text>
           </para>
           <para>
-            <text>Utility operators have a statutory right of access to roads (subject to <quote.in quote="1">reasonable conditions</quote.in>).  The 75 local authorities have established differing requirements for works in the road, resulting in increased costs and uncertainty of compliance for regional and national utility operators. There is some voluntary use of a code of practice that improves the understanding of process and conditions between some utility operators and local authorities, but there is more than 1 code and many areas do not use one at all. Some utility operators are empowered to impose <quote.in quote="1">reasonable conditions</quote.in> on the proposed works of other utility operators in the vicinity, creating the risk of anti-competitive practices.  Utility operators do not have a right of access to motorway or rail corridors, but can request it. They describe that considerations are delayed and costly and that there is insufficient access granted.</text>
+            <text>Jeanette Fitzsimons</text>
           </para>
           <para>
-            <text>The Land Transport Management Act 2003 has as its objective an <quote.in quote="1">integrated, safe, responsive, and sustainable land transport system</quote.in>. The Ministry of Transport advises that the current level of fatal and serious injuries as a result of hitting a roadside hazard (eg, a tree, ditch, or pole) is not acceptable (50% of rural and 27% of urban crashes involve a roadside hazard or obstacle).  When local authorities wish to change the location of, for example, a utility pole that is considered a hazard or need to move utility assets in the road (because the road has been realigned), there are issues arising from the costs of this.</text>
+            <text>Hon Tau Henare</text>
           </para>
           <para>
-            <text>The Local Government Act 2002 (<emphasis style="bold">LGA</emphasis>) requires councils <quote.in quote="1">to promote the social, economic, environmental, and cultural well-being of communities, in the present and for the future</quote.in> (section 10), but utility operators allege that councils are setting <quote.in quote="1">unreasonable</quote.in> access conditions based on amenity criteria that councils consider align with their LGA objective.  There is contention over the increased cost that, for example, placing assets underground imposes on utility companies.</text>
+            <text>Moana Mackey</text>
           </para>
           <para>
-            <text>The volume of utility works is considerable. For example, the Auckland region processes around 8 000 requests per year. Local Government New Zealand's high-level estimate of the national cost of road rework and repairs associated with utility works is $40 million per annum ($30 million in direct repairs and $10 million in lost service potential due to utility works reducing the life of the affected road surface by up to 33%).</text>
+            <text>Allan Peachey</text>
           </para>
           <para>
-            <text>Government action is necessary to make legislation consistent where appropriate and to enable a statutory process for the approval, administration, amendment, and notification of a stakeholder-developed code of practice.</text>
+            <text>Michael Woodhouse</text>
           </para>
-          <explnote.ird-crosshead>Objectives</explnote.ird-crosshead>
           <para>
-            <text>The public policy objectives are—</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>to reduce the costs and inefficiencies arising from the current statutory framework, including avoidable damage to roads and utility networks, delays and disputes, inconsistencies between statutes, and poor co-ordination:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>to provide for better management of the multi-use of road corridors in the public interest, including road safety, and balance the provision of utility services with efficient transport and universal access to roads:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>to provide the potential for increased utility access to rail and motorway corridors while recognising the transport and safety responsibilities of the New Zealand Transport Agency, and the transport, safety, and business interests of ONTRACK.</text>
-                </para>
-              </item>
-            </list>
+            <text/>
           </para>
-          <explnote.ird-crosshead>Alternative options</explnote.ird-crosshead>
           <para>
-            <text>There is no alternative option put forward at this time as this paper is the result of further development of a policy position that was approved in principle, subject to further development and report back, on 30 April 2007 (CAB 06 17/27 refers).</text>
+            <text/>
           </para>
-          <explnote.ird-crosshead>Preferred option</explnote.ird-crosshead>
-          <para>
-            <text>This option is to amend legislation to create consistency where appropriate and to create a legislated process for ministerial approval for stakeholder-developed codes of practice and back-stop regulation-making power for a national code. </text>
-          </para>
-          <para>
-            <text>Proposed amendments to existing provisions include—</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>replicating the cost-share provision outlined in the Electricity Act 1992 and Gas Act 1992 in the Telecommunications Act 2001:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>introducing consistent notification requirements across all utility operators, including the notification of proposed road controlling authority road works to the utility operator, with the time for reply to notification to be a maximum of 15 working days:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>removing the ability of utility operators to impose conditions on other utility operators (they can advise).</text>
-                </para>
-              </item>
-            </list>
-          </para>
-          <para>
-            <text>Proposed new elements of the regulatory framework include—</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>a mechanism for the Minister of Economic Development, in consultation with the Minister of Transport and the Minister of Local Government, to approve, administer, amend, and notify a code of practice for utility operators' access to transport corridors that have been developed and agreed to by stakeholders. A code of practice would have some mandatory requirements for process and content:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>empowering provisions to create a regulated code of practice should stakeholders fail to develop their own code:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>ONTRACK and the New Zealand Transport Agency to have a statutory obligation to process utility operators' applications for access to motorway and rail corridors according to prescribed time frames and to publish their access evaluation criteria.</text>
-                </para>
-              </item>
-            </list>
-          </para>
-          <explnote.subhead1>Preferred option: costs and benefits</explnote.subhead1>
-          <para>
-            <text>Benefits outweigh costs by an order of magnitude, $10–$100 million to $1–$10 million, ie, potentially 10:1.</text>
-          </para>
-          <para>
-            <text>This is detailed below.</text>
-          </para>
-          <explnote.subhead2>Government</explnote.subhead2>
-          <para>
-            <text>There will be administrative costs as follows for the Ministries of Economic Development and Transport and the Department of Internal Affairs to examine and approve a code of practice, or to create a code of practice:</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>Ministry of Economic Development: analysis of code, industry consultation and processing (0.5 FTE), $75,000 per annum:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>advertising and publishing code, $20,000 per annum:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>specialised technical advice relating to code, $40,000 per annum:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>Department of Internal Affairs: analysis of code and consultation, (0.25 FTE) $37,500 per annum:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>total per annum, $0.210 million.</text>
-                </para>
-              </item>
-            </list>
-          </para>
-          <para>
-            <text>The volume of applications to the New Zealand Transport Agency for access to motorway corridors could be expected to increase, with associated resource demands. The inclusion of a notification of impending works requirement and statutory response time limit will also increase resource demands. Cost $0.3 million per annum.</text>
-          </para>
-          <para>
-            <text>ONTRACK already processes applications for access and placement of assets in the rail corridor, but to process them in accordance with new statutory time frames will have a resource impact. Costs would be recoverable from applicants.</text>
-          </para>
-          <para>
-            <text>With the removal of the applicability of section 54 of the Government Roading Powers Act 1989 to telecommunications, there will be increased asset relocation costs to the New Zealand Transport Agency. However, these are still a small percentage (less that 5%) of the overall costs for a road realignment project. Cost $1 million per annum.</text>
-          </para>
-          <explnote.subhead2>Local Government</explnote.subhead2>
-          <para>
-            <text>A change to legislation to require all 75 local authorities to notify other parties of their significant works and to have a time period for receipt of advised conditions will create additional resource costs. Cost $1 million.</text>
-          </para>
-          <para>
-            <text>Costs of imposing conditions of access that create additional amenity value of an area. Cost variable depending on each local authority’s plans.</text>
-          </para>
-          <para>
-            <text>Resource costs for stakeholder-developed code of practice. Cost $0.3 million.</text>
-          </para>
-          <para>
-            <text>Reduction in reinstatement costs across the whole country. Benefit  $1 million.</text>
-          </para>
-          <explnote.subhead2>Utility operators </explnote.subhead2>
-          <para>
-            <text>The move to greater consistency and certainty in how local authorities manage utility operators' access to roads by the use of an approved code should reduce utility operators' compliance costs. Benefit  $1 million.</text>
-          </para>
-          <para>
-            <text>There will be a reduction in the costs of redoing reinstatement of the roads if there is better co-operation through the code of practice to renew surfaces as required. As an example, a given 34% failure rate for 650 km of road would cost around $55 million to put right at $250,000 per lane km (t 0.34 × 650 × 250000 = $55.25 million). If by the use of a code of practice the reinstatement costs are reduced by 50%, then the benefit (avoided cost of redoing the road once done) is roughly $25 million. Benefit $10 million.</text>
-          </para>
-          <para>
-            <text>Other benefits accrue to society due, for example, to less vehicle wear and tear and less need for roadworks for reinstatement (counted under <quote.in quote="1">society</quote.in>).</text>
-          </para>
-          <para>
-            <text>The benefits of additional notification from local authorities should be to reduce the avoidable damage to utility networks of asset strikes when the local authorities undertake roadworks. (Note that this does not imply that the only third party damage is by local authorities on utility infrastructure—often it is one utility operator to another, and notification requirements already exist between these.) Benefit $1 million.</text>
-          </para>
-          <para>
-            <text>Resource costs for process to agree codes of practice. Cost $0.3 million.</text>
-          </para>
-          <explnote.subhead2>Society</explnote.subhead2>
-          <para>
-            <text>Society benefits both from an improvement (ie, reduction) in time costs due to roadworks because of construction and reinstatement and the efficient roll-out of infrastructure. Benefit $30 million.</text>
-          </para>
-          <explnote.subhead1>Total impact and net benefit</explnote.subhead1>
-          <para>
-            <text>Total impacts considering all utility operators, one local authority (Auckland), the New Zealand Transport Agency, and all society = $36 million per year (total benefits $33 million (magnitude $10–100 million); total costs $3 million (magnitude $1–10 million).</text>
-          </para>
-          <explnote.ird-crosshead>Implementation and review</explnote.ird-crosshead>
-          <para>
-            <text>The Utilities Access Bill is proposed as a category 4 on the legislative programme for 2008. The amendments will come into force during 2009. This would be the start date by which the stakeholder-developed code of practice could be legal and enforceable. The MED will continue to be in contact with the New Zealand Utilities Advisory Group (<emphasis style="bold">NZUAG</emphasis>) to determine the extent of progress on the stakeholder-developed code. A draft code is anticipated by December 2007.</text>
-          </para>
-          <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
-          <explnote.subhead1>Stakeholder consultation</explnote.subhead1>
-          <para>
-            <text>This round of stakeholder engagement followed on from significant consultation that created the initial position paper in October 2006. MED presented a discussion paper that developed the policy framework of  the position paper (in effect a <quote.in quote="1">possible next steps</quote.in>) at  a forum jointly hosted by the 2 major stakeholder groups, Local Government New Zealand (<emphasis style="bold">LGNZ</emphasis>), and NZUAG. This forum was attended by over 150 representatives of local authorities, government agencies, and utility operators. Feedback was invited and 40 responses were received: 19 district councils, 4 city councils, Auckland territorial authorities (as 1 group), Auckland Regional Transport Authority, New Zealand Transport Agency, ONTRACK, Telstra, Telecom, 4 lines companies (Vector, Powerco, Orion, and Delta  Services for Aurora Energy), NZUAG, LGNZ, 2 industry groups (Electricity Networks Association and Electrical Engineers Association), and 3 private individuals. There were no responses from water companies.</text>
-          </para>
-          <para>
-            <text>The issues raised through this most recent engagement round meant that the initially proposed policy framework was revised. The proposal for the statutory responsibility for an explicit governance role of local authorities was clearly not supported. Stakeholders have been co-operating on developing a code of practice as the solution to address the policy problem. Representatives from Auckland territorial authorities, New Zealand Transport Agency, ONTRACK, the Gas Association of NZ Inc, the Electricity Networks Association, the Electricity Engineers Association, the Telecommunications Carriers Forum, LGNZ, and NZUAG have been meeting and working together on the issues to be addressed.  Since the further discussion paper in February 2007, momentum has increased and the stakeholder-developed final draft of the code of practice is expected to be produced by December 2007. Wider stakeholder engagement is signalled for February 2008, initiated by NZUAG.</text>
-          </para>
-          <explnote.subhead1>Government departments and agencies consultation</explnote.subhead1>
-          <para>
-            <text>An officials review group consisting primarily of the Ministry of Economic Development, Ministry of Transport, and Department of Internal Affairs provided a relevant across-government perspective. The Ministry of Transport maintained contact with the New Zealand Transport Agency and ONTRACK. The Ministry for the Environment was informed (as there are links with their work on the Proposed National Environmental Standards for Telecommunications Facilities), as was Treasury.</text>
-          </para>
-        </explnote.part>
-        <explnote.part id="DLM2248916">
-          <label auto.number="no" denominator="no">Regulatory impact statement</label>
-          <heading>Affordable housing</heading>
-          <para>
-            <text>This regulatory impact statement was finalised on 15 June 2009 and was considered by Cabinet on 29 June 2009.</text>
-          </para>
-          <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
-          <para>
-            <text>Affordable housing is an issue of national importance, particularly in areas such as Auckland and other high growth regions in New Zealand where low and moderate income households face high housing costs. Affordable housing is defined as housing for low to moderate income and asset households at prices so that the household is able to meet its housing and other essential basic living costs.</text>
-          </para>
-          <para>
-            <text>The New Zealand Housing Strategy 2005 indicated that new regulatory tools had the potential to increase the supply of affordable housing. In response, the Affordable Housing: Enabling Territorial Authorities Act 2008 (the <def-term id="DLM2248917">Act</def-term>) was developed with the intention of addressing concerns about declining housing affordability. This legislation provided territorial authorities with new powers to increase the supply of affordable housing.</text>
-          </para>
-          <para>
-            <text>Under the Act, territorial authorities can require from developers a contribution of either money, land, houses, or a mix of these towards affordable housing. In return, councils can provide incentives to help off-set costs borne by those developers required to make an affordable housing contribution. Possible incentives include reduced development contributions, density bonuses, rates remissions or postponements, or other financial assistance.</text>
-          </para>
-          <para>
-            <text>International and national evidence demonstrates that the regulatory powers in the Act are inadequate by themselves to increase the supply of affordable housing. This evidence indicates that more effective policy responses to increase the supply of affordable housing include: adequate provision of land for development in a timely manner, efficient development approval processes, and effective coordination of infrastructure provision.</text>
-          </para>
-          <para>
-            <text>Proposed reforms to the Resource Management Act 1991, the Local Government Act 2002, and the Building Act 2004 will simplify and streamline regulatory processes for territorial authorities and reduce compliance costs for the building sector. Repealing the Affordable Housing: Enabling Territorial Authorities Act 2008 (with a restrictive covenants provision similar to section 30 of that Act to be included as a consequential amendment to the Property Law Act 2007) will also contribute to this outcome.</text>
-          </para>
-          <para>
-            <text>The Act was enacted in 2008 and no territorial authority has used the powers under the Act. The impact of repealing the Act will be minimal to the economy as a whole.</text>
-          </para>
-          <explnote.subhead1>Restrictive covenants</explnote.subhead1>
-          <para>
-            <text>It is proposed that a modified section of the Act (section 30) on restrictive covenants be included in the Infrastructure Bill as a consequential amendment to the Property Law Act 2007, to prevent the growing use of covenants that exclude the provision of social housing. One outcome of retaining this section would be that covenants that have a principal purpose of preventing social housing, and which have been entered into since 17 September 2008 when the Act came into force, will continue to be void.</text>
-          </para>
-          <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
-          <para>
-            <text>Housing New Zealand Corporation has reviewed this regulatory impact statement for the repeal of the Affordable Housing: Enabling Territorial Authorities Act 2008, and retention of a restrictive covenants provision similar to section 30 of the Act and judged it adequate according to the adequacy criteria.</text>
-          </para>
-          <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
-          <para>
-            <text>The current lack of affordable housing is a widespread problem, internationally and in New Zealand. Nationwide, house prices have almost doubled since 2002, significantly outpacing increases in average household incomes. The reductions in interest rates and house prices over the past year have only led to modest improvements in the ability of first-home buyers to purchase a home, due to more stringent conditions that banks now require when providing credit.</text>
-          </para>
-          <para>
-            <text>The Affordable Housing: Enabling Territorial Authorities Act 2008 was intended to provide territorial authorities with the regulatory powers to address problems of housing affordability in their district. However, implementing the Act would complicate regulatory processes, and add costs and uncertainties for territorial authorities and increase costs for the building sector, which would result in an increase in housing costs more than would otherwise be the case.</text>
-          </para>
-          <para>
-            <text>The Act establishes new processes for territorial authorities to follow to be able to require affordable houses. These processes present regulatory barriers which contradict Government initiatives to reduce regulatory barriers and compliance costs. The powers provided for in the Act can be effective within a high value market characterised by significant development activity and limited development opportunity.<footnote id="DLM2248918"><para><text>Gurran, N; Milligan, V; Baker, D; Bugg, L; and Christensen, S. 'New directions in planning for affordable housing: Australian and international evidence and implications.' <emphasis style="italic">Australian Housing and Urban Research Institute</emphasis>, (June 2008).</text></para></footnote> However, since the introduction of the Act there has been a significant reduction in development activity.</text>
-          </para>
-          <para>
-            <text>Developers and local authorities have raised concerns that the Act is counter-productive and is likely to reduce, rather than increase, the supply of affordable housing. The main concerns relate to decreased land supply due to planning restrictions on land release, complexities or delays in the planning process, and increased taxes and levies which have increased the costs of developing new housing.<footnote id="DLM2248919"><para><text>Gurran, N; Ruming, K; Randolph, B; Quintal, D. 'Planning, government charges and the cost of land and housing.' <emphasis style="italic">Australian Housing Urban Research Institute</emphasis>, (October 2008).</text></para></footnote></text>
-          </para>
-          <para>
-            <text>International and New Zealand evidence indicates that moves to encourage the building of new housing would need to ensure that regulatory and other costs are contained and opportunities for development are enhanced. In addition, increasing the supply of residential land using existing planning systems through rezoning, and a focus on streamlining regulatory processes, (especially the Resource Management Act 1991, the Local Government Act 2002, and the Building Act 2004) would result in an increase in housing supply and could help make housing more affordable.<footnote id="DLM2248920"><para><text>Department of Prime Minister and Cabinet, New Zealand, <emphasis style="italic">Final Report of the House Prices Unit: House Price Increases and Housing in New Zealand</emphasis>, (March 2008); and Motu Economic and Public Policy Research, 'Housing Supply in the Auckland Region 2000–2005', <emphasis style="italic">Centre for Housing Research Aotearoa New Zealand</emphasis>, (March 2007); see also Calavita, N; and Mallach, A, 'Inclusionary Housing, Incentives, and Land Value Recapture', <emphasis style="italic">Lincoln Institute of Land Policy</emphasis>, (January 2009).</text></para></footnote></text>
-          </para>
-          <explnote.subhead1>Restrictive covenants</explnote.subhead1>
-          <para>
-            <text>Section 30 of the Act relates to restrictive covenants. This provision seeks to address the growing practice of covenants being placed on properties that prevent the provision of affordable and social housing. It is proposed that a restrictive covenants provision similar to section 30 of the Act be retained, and that the scope of this provision be limited to social housing.</text>
-          </para>
-          <para>
-            <text>This amendment is proposed to be included in the Infrastructure Bill as a consequential amendment to the Property Law Act 2007. This would mean that covenants that have a principal purpose of preventing social housing (including those which have been entered into since 17 September 2008 when the Act came into force) would be void (subject to the Act being repealed). The retention of this section seeks to avoid discriminatory practices targeted at low-income families and those needing supported accommodation.<footnote id="DLM2248921"><para><text>Supported accommodation refers to housing provided for people who require a degree of support or supervision because of their disability. This may vary from live-in care to occasional visits from care givers, and may range from a large house with multiple occupants to a one-bedroom flat.</text></para></footnote></text>
-          </para>
-          <explnote.ird-crosshead>Objectives</explnote.ird-crosshead>
-          <para>
-            <text>To streamline and simplify legislation and reduce compliance costs for territorial authorities and the building sector.</text>
-          </para>
-          <explnote.ird-crosshead>Alternative options</explnote.ird-crosshead>
-          <explnote.subhead1>Retain the Affordable Housing: Enabling Territorial Authorities Act 2008</explnote.subhead1>
-          <para>
-            <text>An option considered was to retain the Act to allow councils to provide for affordable housing initiatives. Officials have concluded that the Act would complicate regulatory processes, and add costs and uncertainties for territorial authorities and increase costs for the building sector, which would consequentially result in an increase in housing costs.</text>
-          </para>
-          <explnote.subhead1>Retain the purpose and powers of the Act through inclusion in the Resource Management Act (RMA) 1991</explnote.subhead1>
-          <para>
-            <text>An option considered was whether it would be possible to achieve the purpose of the Act within other legislation, notably the RMA 1991, which is currently being reviewed. Officials have considered this option and concluded that this would require significant changes to the RMA. Options for a range of housing and urban planning matters will be further considered as part of phase two of the RMA review.</text>
-          </para>
-          <explnote.ird-crosshead>Preferred option</explnote.ird-crosshead>
-          <para>
-            <text>The preferred option is to repeal the Affordable Housing: Enabling Territorial Authorities Act, retaining only a modified restrictive covenants provision by including this section in an amendment to the Property Law Act 2007. 2 options were considered about whether the restrictive covenants provision should be—</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>retained in its entirety to prohibit covenants against both social and affordable housing; or</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>limited to covenants that exclude only social housing.</text>
-                </para>
-              </item>
-            </list>
-          </para>
-          <para>
-            <text>The preferred option is to limit the scope of the restrictive covenants provision. The rationale for limiting this provision to social housing (but not affordable housing) is that there is ample evidence which indicates that restrictive covenants are increasingly being used by developers to explicitly prevent social housing providers such as IHC New Zealand Incorporated and Community Group Housing such as Women's Refuge from leasing or buying properties in particular areas.<footnote id="DLM2248922"><para><text>Resource and Environmental Management Ltd., <emphasis style="italic">Survey into Restrictive Covenants Excluding Social Housing</emphasis>. Report prepared for Housing New Zealand Corporation, (November 2006).</text></para></footnote></text>
-          </para>
-          <para>
-            <text>This option is the outcome of the review of the Act that was conducted by Housing New Zealand Corporation and which is yet to be made public. This option addresses building sector and territorial authority concerns about increased complexity, uncertainty, and costs for housing development. Further, this option achieves the Government's objective to streamline and simplify legislation and reduce compliance costs for territorial authorities and the building sector. The repeal of the Act will be included in the Infrastructure Bill.</text>
-          </para>
-          <para>
-            <text>The preferred option to retain a restrictive covenants provision similar to section 30 of the AHETA Act would be through a consequential amendment to the Property Law Act 2007. This provision prohibits the imposition of covenants that limit the ability for developments to include social and supported housing, which have been in place since 17 September 2008, when the Affordable Housing: Enabling Territorial Authorities Act 2008 came into force.</text>
-          </para>
-          <explnote.ird-crosshead>Costs and benefits of preferred option</explnote.ird-crosshead>
-          <para>
-            <text>The objective of repealing the Act is to streamline and simplify legislation and to reduce compliance costs for territorial authorities and the building sector. The cost of repealing this legislation would be minimal as no territorial authorities have used the Act.</text>
-          </para>
-          <explnote.subhead1>Benefit that will be lost by repealing the Act</explnote.subhead1>
-          <para>
-            <text>Repeal of the Act would have minimal effect. The Act was enacted in 2008 and while as small number of territorial authorities<footnote id="DLM2248923"><para><text>These include Waitakere City, North Shore City, Christchurch City, and Dunedin City Councils, and Rodney and Gisborne District Councils. Queenstown Lakes District Council provided an important rationale for developing the Act. However, they have proceeded with affordable housing initiatives using the Resource Management Act 1991, and not the Affordable Housing: Enabling Territorial Authorities Act 2008.</text></para></footnote> have shown an interest in using the Act, none have actually used it.</text>
-          </para>
-          <para>
-            <text>The Government is instead proposing a different approach to addressing housing affordability issues. Phase 2 of the review of the Resource Management Act 1991 will consider options for a range of housing and urban planning matters, including the development of a National Policy Statement on housing affordability and a National Environmental Standard on home development.</text>
-          </para>
-          <explnote.subhead1>Costs and benefits of repealing the Act</explnote.subhead1>
-          <para>
-            <text>Repealing this legislation will directly address industry and council concerns about increased costs. For instance, reducing costs, simplifying the planning system, and reducing the need for extensive and detailed assessment of minor developments will shorten approval times and alleviate more onerous planning requirements.</text>
-          </para>
-          <para>
-            <text>Repeal of the Act would, for areas that might choose to implement it, reduce prescriptive process and reduce cost and uncertainty associated with the following activities: undertaking a housing needs assessment; developing and consulting on the draft affordable housing policy; the objection and appeal processes; negotiating with developers; providing possible financial incentives to developers; retaining the affordable housing; and, monitoring and reviewing the affordable housing policy.<footnote id="DLM2248924"><para><text>For those councils that do want to use this approach, they can still do so using the Local Government Act 2002 and other means. They will not have to follow the process prescribed in the Act which is onerous, costly, and uncertain.</text></para></footnote></text>
-          </para>
-          <para>
-            <text>The costs that would be incurred by both territorial authorities and developers would be reflected in local house prices, particularly in the short term. Facilitating housing through the powers in the Act would add costs. Where demand is relatively elastic, implementing an affordable housing policy is likely to decrease the profit of a development to which the affordable housing policy applies. The extent of any diminished profit is difficult to estimate and depends on the following variables: the strength of the housing market, the nature of the policies put in place, and incentives provided by a territorial authority.</text>
-          </para>
-          <para>
-            <text>Regulation increases the cost of housing. Analysis undertaken on housing costs in Australia in the last 5 years found that taxes, levies, and compliance costs now amount to about a third of the cost of new house and land packages, including the costs of meeting planning regulations and holding costs associated with the approval process.<footnote id="DLM2248925"><para><text>Residential Development Council, 'Boulevard of Broken Dreams: The future of housing affordability in Australia.' <emphasis style="italic">Property Council of Australia</emphasis>, Sydney, 2007.</text></para></footnote></text>
-          </para>
-          <explnote.ird-crosshead>Implementation and review</explnote.ird-crosshead>
-          <para>
-            <text>The repeal of the Act, retaining only a restrictive covenants provision similar to section 30 of the Act (as a consequential amendment to the Property Law Act 2007) will be included in the Infrastructure Bill. These amendments will come into force during 2009/2010. A draft Infrastructure Bill is anticipated by mid-2009.</text>
-          </para>
-          <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
-          <para>
-            <text>The review of the Act that Housing New Zealand Corporation has undertaken has been quite small-scale and limited to government agencies and Local Government New Zealand.</text>
-          </para>
-          <para>
-            <text>The preferred policy option, to repeal the Act and retain a restrictive covenants provision similar to section 30 of the Act, was developed by officials from Housing New Zealand Corporation in consultation with: the Department of Internal Affairs, the Department of Building and Housing, the Ministry of Social Development, the Ministry for the Environment, the Ministry of Justice, the Treasury, and Te Puni Kōkiri. The Department of Prime Minister and Cabinet has been informed on the proposed repeal of the Act.</text>
-          </para>
-          <para>
-            <text>Local Government New Zealand was consulted and supported the repeal of the Act (while retaining only the restrictive covenants provision).</text>
-          </para>
-        </explnote.part>
-      </explnote.ris>
-    </explnote>
+        </comm.lev2>
+      </comm.appendix>
+    </commentary>
   </billdetail>
+  <key>
+    <heading>Key to symbols used in reprinted bill</heading>
+    <subheading>As reported from a select committee</subheading>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+    <subheading/>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+  </key>
   <cover id="DLM2248926">
     <member>Hon Bill English</member>
     <title>Infrastructure Bill</title>
@@ -802,7 +375,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM2248931" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="63" bill.type="government" stage="1" year="2009">
+    <part id="DLM2248931" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="63" bill.type="government" stage="2" year="2009">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Utilities access</heading>
       <prov id="DLM2248932" irdnumbering="no" skeleton="no" toc="yes">
@@ -812,7 +385,7 @@
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>The purpose of this Part is to—</text>
+              <text>The purpose of <changeable><citation jurisdiction="nz">this Part</citation></changeable> is to—</text>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
@@ -836,7 +409,7 @@
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>In this Part, unless the context otherwise requires,—</text>
+              <text>In <changeable><citation jurisdiction="nz">this Part</citation></changeable>, unless the context otherwise requires,—</text>
               <def-para id="DLM2248934">
                 <para>
                   <text><def-term id="DLM2248935">Code</def-term> means—</text>
@@ -872,19 +445,24 @@
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">c</label>
                     <para>
-                      <text>in relation to a railway line (as defined in section 4(1) of the Railways Act 2005), the person who is the licensed access provider (as that term is used in the Railways Act 2005) for that railway line</text>
+                      <text>in relation to<struckoutwords amend.level1="struckout-unanimous"> a railway line (as defined in section 4(1) of the Railways Act 2005), the person who is the licensed access provider (as that term is used in the Railways Act 2005) for that railway line</struckoutwords><insertwords amend.level1="insert-unanimous"> railway land, the licensed access provider who controls access to the land</insertwords></text>
                     </para>
                   </label-para>
                 </para>
               </def-para>
               <def-para id="DLM2248938">
                 <para>
-                  <text><def-term id="DLM2248939">Minister</def-term> means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part</text>
+                  <text><def-term id="DLM2248939">Minister</def-term> means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of <changeable><citation jurisdiction="nz">this Part</citation></changeable></text>
                 </para>
               </def-para>
               <def-para id="DLM2248940">
                 <para>
-                  <text><def-term id="DLM2248941">Ministry</def-term> means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part</text>
+                  <text><def-term id="DLM2248941">Ministry</def-term> means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of <changeable><citation jurisdiction="nz">this Part</citation></changeable></text>
+                </para>
+              </def-para>
+              <def-para amend.level1="insert-unanimous" id="DLM2528401">
+                <para amend.level1="insert-unanimous">
+                  <text><def-term id="DLM2528402">railway land</def-term> means any land upon which a railway line (as defined in section 4 of the Railways Act 2005) is constructed, along with any adjacent land that is held or used in connection with operating a railway on that railway line</text>
                 </para>
               </def-para>
               <def-para id="DLM2248942">
@@ -894,7 +472,7 @@
               </def-para>
               <def-para id="DLM2248944">
                 <para>
-                  <text><def-term id="DLM2248945">transport corridor</def-term> means any road (as defined in section 315(1) of the Local Government Act 1974), motorway (as defined in section 2(1) of the Government Roading Powers Act 1989), or railway line (as defined in section 4(1) of the Railways Act 2005)</text>
+                  <text><def-term id="DLM2248945">transport corridor</def-term> means any road (as defined in section 315(1) of the Local Government Act 1974), motorway (as defined in section 2(1) of the Government Roading Powers Act 1989), or railway<struckoutwords amend.level1="struckout-unanimous"> line (as defined in section 4(1) of the Railways Act 2005)</struckoutwords><insertwords amend.level1="insert-unanimous"> land</insertwords></text>
                 </para>
               </def-para>
               <def-para id="DLM2248946">
@@ -921,7 +499,7 @@
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">d</label>
                     <para>
-                      <text>in relation to water and wastewater infrastructure, a local authority as defined in section 5 of the Local Government Act 2002:</text>
+                      <text>in relation to water and wastewater infrastructure, a local authority as defined in section 5 of the Local Government Act 2002<insertwords amend.level1="insert-unanimous"> or any person acting on behalf of a local authority in relation to that infrastructure</insertwords>:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no">
@@ -938,12 +516,12 @@
       </prov>
       <prov id="DLM2248948" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">5</label>
-        <heading>Part 1 binds the Crown</heading>
+        <heading>This Part binds the Crown</heading>
         <prov.body>
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text><changeable><citation jurisdiction="nz">Part 1</citation></changeable> binds the Crown.</text>
+              <text><changeable><citation jurisdiction="nz">This Part </citation></changeable> binds the Crown.</text>
             </para>
           </subprov>
         </prov.body>
@@ -974,7 +552,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>In setting reasonable conditions for access to the transport corridor, corridor managers must comply with the Code (but only to the extent that the Code is not inconsistent with any applicable criteria for reasonable conditions that are published under an enactment).</text>
+              <text>In setting reasonable conditions <struckoutwords amend.level1="struckout-unanimous">for </struckoutwords><insertwords amend.level1="insert-unanimous">relating to </insertwords>access to the transport corridor, corridor managers must comply with the Code (but only to the extent that the Code is not inconsistent with any applicable criteria for reasonable conditions that are published under an enactment).</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -984,7 +562,7 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
-                  <text>except to the extent that any particular provision of the Code is inconsistent with an enactment or a standard that the utility operator is obliged to comply with; or</text>
+                  <text>except to the extent that any particular provision of the Code is inconsistent with an enactment<insertwords amend.level1="insert-unanimous">,</insertwords> or <struckoutwords amend.level1="struckout-unanimous">a </struckoutwords><insertwords amend.level1="insert-unanimous">any </insertwords>standard<insertwords amend.level1="insert-unanimous"> or other instrument</insertwords> that the utility operator is obliged to comply with; or</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
@@ -993,6 +571,12 @@
                   <text>unless, in a particular situation, the manager of the transport corridor and all affected utility operators agree that the Code need not be complied with.</text>
                 </para>
               </label-para>
+            </para>
+          </subprov>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">3A</label>
+            <para amend.level1="insert-unanimous">
+              <text>To avoid doubt, an agreement not to comply with the Code does not affect a corridor manager's or utility operator's obligations under an enactment, or under any standard or other instrument with which it is obliged to comply.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -1010,16 +594,16 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>On the application of any utility operator or corridor manager, a District Court may require another utility operator or corridor manager to—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
+              <text>On the application of any utility operator or corridor manager, a District Court may require another utility operator or corridor manager<struckoutwords amend.level1="struckout-unanimous"> to—</struckoutwords><insertwords amend.level1="insert-unanimous"> to comply with any of its obligations under <changeable><citation jurisdiction="nz">section 6</citation></changeable>.</insertwords></text>
+              <label-para amend.level1="struckout-unanimous" skeleton="no">
+                <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">a</label>
+                <para amend.level1="struckout-unanimous">
                   <text>do anything that is required by, or is consistent with, the Code; or</text>
                 </para>
               </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
+              <label-para amend.level1="struckout-unanimous" skeleton="no">
+                <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">b</label>
+                <para amend.level1="struckout-unanimous">
                   <text>refrain from doing anything that is prohibited by, or is inconsistent with, the Code.</text>
                 </para>
               </label-para>
@@ -1069,7 +653,7 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
                 <para>
-                  <text>ensures that disruptions to roads, motorways, and railways caused by work by utility operators are kept to a minimum, while ensuring public safety; and</text>
+                  <text>ensures that disruptions to roads, motorways, and railways caused by work by utility operators are kept to a minimum, while<struckoutwords amend.level1="struckout-unanimous"> ensuring public</struckoutwords><insertwords amend.level1="insert-unanimous"> maintaining</insertwords> safety; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
@@ -1099,13 +683,13 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
                 <para>
-                  <text>the principles governing how utility operators and corridor managers deal with each other on access issues:</text>
+                  <text>the principles governing how<struckoutwords amend.level1="struckout-unanimous"> utility operators and corridor managers deal with each other on access issues:</struckoutwords><insertwords amend.level1="insert-unanimous"> corridor managers deal with utility operators, and how utility operators deal with corridor managers and other utility operators, on issues relating to access to transport corridors:</insertwords></text>
                 </para>
               </label-para>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">c</label>
                 <para>
-                  <text>the processes and rules for ensuring that work by utility operators that affects transport corridors is co-ordinated:</text>
+                  <text>the processes and rules for<struckoutwords amend.level1="struckout-unanimous"> ensuring that work by utility operators that affects transport corridors is co-ordinated:</struckoutwords><insertwords amend.level1="insert-unanimous"> co-ordinating work done in transport corridors by utility operators, or that affects utility operators' assets:</insertwords></text>
                 </para>
               </label-para>
               <label-para skeleton="no">
@@ -1114,16 +698,34 @@
                   <text>processes for dealing with conflicts of interest arising from the same person being both a corridor manager and a utility operator, or being the operator of different utilities:</text>
                 </para>
               </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">e</label>
-                <para>
+              <label-para amend.level1="struckout-unanimous" skeleton="no">
+                <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">e</label>
+                <para amend.level1="struckout-unanimous">
                   <text>how any statutory criteria for setting access conditions, and any criteria for setting access conditions that are published by corridor managers, are to be applied:</text>
+                </para>
+              </label-para>
+              <label-para amend.level1="insert-unanimous" skeleton="no">
+                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">e</label>
+                <para amend.level1="insert-unanimous">
+                  <text>how the statutory criteria for setting reasonable conditions, when utility operators have a right of access, are to be applied:</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">f</label>
                 <para>
-                  <text>whether, what, and how any other conditions on access may be imposed by corridor managers:</text>
+                  <text>whether, what, and how any other conditions <struckoutwords amend.level1="struckout-unanimous">on </struckoutwords><insertwords amend.level1="insert-unanimous">relating to </insertwords>access may be imposed by corridor managers<insertwords amend.level1="insert-unanimous"> when utility operators have a right of access</insertwords>:</text>
+                </para>
+              </label-para>
+              <label-para amend.level1="insert-unanimous" skeleton="no">
+                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">fa</label>
+                <para amend.level1="insert-unanimous">
+                  <text>how the criteria (published in accordance with a statutory requirement) for granting access are to be applied when utility operators request access:</text>
+                </para>
+              </label-para>
+              <label-para amend.level1="insert-unanimous" skeleton="no">
+                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">fb</label>
+                <para amend.level1="insert-unanimous">
+                  <text>processes and rules for utility operators and corridor managers to share information:</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
@@ -1135,7 +737,25 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">h</label>
                 <para>
-                  <text>operational processes and rules about work done by utility operators within transport corridors.</text>
+                  <text>operational processes and rules about work done by utility operators within transport corridors:</text>
+                </para>
+              </label-para>
+              <label-para amend.level1="insert-unanimous" skeleton="no">
+                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">i</label>
+                <para amend.level1="insert-unanimous">
+                  <text>if the Code refers to standards, guidelines, or other documents that are not set out in the Code,—</text>
+                  <label-para amend.level1="insert-unanimous" skeleton="no">
+                    <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">i</label>
+                    <para amend.level1="insert-unanimous">
+                      <text>how those standards, guidelines, or other documents (including any amendments and replacements) may be viewed and how copies may be obtained; and</text>
+                    </para>
+                  </label-para>
+                  <label-para amend.level1="insert-unanimous" skeleton="no">
+                    <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">ii</label>
+                    <para amend.level1="insert-unanimous">
+                      <text>which edition or version of the standard, guidelines, or other document is referred to and whether the reference includes subsequent amendments or replacements.</text>
+                    </para>
+                  </label-para>
                 </para>
               </label-para>
             </para>
@@ -1150,9 +770,9 @@
                   <text>provide for its provisions to be applied differently in different geographic locations, provided the variations comply with <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable>; and</text>
                 </para>
               </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
+              <label-para amend.level1="struckout-unanimous" skeleton="no">
+                <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">b</label>
+                <para amend.level1="struckout-unanimous">
                   <text>provide processes and rules about information sharing between parties, including rules about what, and the form in which, information is to be collected and stored; and</text>
                 </para>
               </label-para>
@@ -1214,7 +834,7 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
-                  <text>consultation with utility operators and corridor managers:</text>
+                  <text>consultation with utility operators and corridor managers<insertwords amend.level1="insert-unanimous"> likely to be affected by the Code</insertwords>:</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
@@ -1243,6 +863,12 @@
               <text>A draft Code may be submitted to the Minister for approval at any time after the steps referred to in <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> have been taken.</text>
             </para>
           </subprov>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">4</label>
+            <para amend.level1="insert-unanimous">
+              <text>Any consultation done before <changeable><citation jurisdiction="nz">this Part</citation></changeable> comes into force does not count as consultation for the purposes of <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>.</text>
+            </para>
+          </subprov>
         </prov.body>
       </prov>
       <prov id="DLM2248958" irdnumbering="no" skeleton="no" toc="yes">
@@ -1252,7 +878,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>Within 3 months of receiving a draft Code, the Minister must either approve or reject it.</text>
+              <text>Within 3 months<struckoutwords amend.level1="struckout-unanimous"> of</struckoutwords><insertwords amend.level1="insert-unanimous"> after</insertwords> receiving a draft Code, the Minister must either approve or reject it.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -1272,7 +898,7 @@
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">i</label>
                     <para>
-                      <text>is capable of achieving the purpose of the Code; and</text>
+                      <text>is capable of achieving the purpose<struckoutwords amend.level1="struckout-unanimous"> of the Code</struckoutwords><insertwords amend.level1="insert-unanimous"> set out in <changeable><citation jurisdiction="nz">section 9</citation></changeable></insertwords>; and</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no">
@@ -1290,7 +916,7 @@
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">iv</label>
                     <para>
-                      <text>is broadly agreed to by relevant corridor managers and utility operators; and</text>
+                      <text>is broadly agreed to by<struckoutwords amend.level1="struckout-unanimous"> relevant</struckoutwords><insertwords amend.level1="insert-unanimous"> the</insertwords> corridor managers and utility operators<insertwords amend.level1="insert-unanimous"> likely to be affected by the draft Code</insertwords>; and</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no">
@@ -1583,7 +1209,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM2248966" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="63" bill.type="government" stage="1" year="2009">
+    <part id="DLM2248966" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="63" bill.type="government" stage="2" year="2009">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Amendments relating to utility access to transport corridors</heading>
       <prov id="DLM2248967" irdnumbering="no" skeleton="no" toc="yes">
@@ -1629,7 +1255,7 @@
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">3</label>
                   <para>
-                    <text>However, a condition requiring the network operator to increase amenity values may be imposed only if the part of the road on which the work is situated is within an area specifically identified in a long-term council community plan (as described in section 93 of the Local Government Act 2002) as being an area whose amenity values are to be protected or enhanced.</text>
+                    <text>However, a condition requiring the network operator to increase amenity values<insertwords amend.level1="insert-unanimous"> (rather than merely maintaining them)</insertwords> may be imposed only if the part of the road on which the work is situated is within an area specifically identified in a long-term council community plan (as described in section 93 of the Local Government Act 2002) as being an area whose amenity values are to be protected or enhanced.</text>
                   </para>
                 </subprov>
                 <subprov quote="1" skeleton="no">
@@ -1711,7 +1337,7 @@
                 <label-para quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">a</label>
                   <para>
-                    <text>give at least 10 working days notice of its intention to place a cabinet or other appliance on the road to—</text>
+                    <text>give <struckoutwords amend.level1="struckout-unanimous">at least 10 working days </struckoutwords>notice of its intention to place a cabinet or other appliance on the road to—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">i</label>
                       <para>
@@ -1789,6 +1415,7 @@
                       </para>
                     </subprov>
                   </prov.body>
+                  <cf amend.level1="insert-unanimous" quote="1">1992 No 122 s 32; 1992 No 124 s 33</cf>
                 </prov>
                 <prov id="DLM2248983" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                   <label auto.number="no" denominator="yes" quote="1">147B</label>
@@ -1863,17 +1490,23 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">4</label>
                       <para>
-                        <text>The following provisions apply if the person requiring the work is a controlling authority within the meaning of section 54(1) of the Government Roading Powers Act 1989:</text>
+                        <text>The following provisions apply if the person requiring the work is<struckoutwords amend.level1="struckout-unanimous"> a controlling authority within the meaning of section 54(1) of the Government Roading Powers Act 1989</struckoutwords><insertwords amend.level1="insert-unanimous"> the New Zealand Transport Agency or the agent of the Minister of Transport</insertwords>:</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>the cost of all fittings that are used in carrying out the required work (other than fittings used only during the course of construction) must be paid by the network operator:</text>
+                            <text>the cost of all<struckoutwords amend.level1="struckout-unanimous"> fittings</struckoutwords><insertwords amend.level1="insert-unanimous"> lines, cabinets, other appliances, and associated equipment</insertwords> that are used in carrying out the required work (other than<struckoutwords amend.level1="struckout-unanimous"> fittings</struckoutwords><insertwords amend.level1="insert-unanimous"> things</insertwords> used only during the course of construction) must be paid by the network operator:</text>
                           </para>
                         </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">b</label>
-                          <para>
+                        <label-para amend.level1="struckout-unanimous" quote="1" skeleton="no">
+                          <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes" quote="1">b</label>
+                          <para amend.level1="struckout-unanimous">
                             <text>if, as a consequence of the requirement, the network operator elects to alter or add to any lines, cabinets, or other appliances affected by the work, and if the cost of the work is increased as a result of the alteration or addition, then the network operator is liable to pay the increase in cost:</text>
+                          </para>
+                        </label-para>
+                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
+                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">b</label>
+                          <para amend.level1="insert-unanimous">
+                            <text>if, as a consequence of the requirement, the network operator elects to fix or install any lines, cabinets, or other appliances over, under, or through any roading structure (being a bridge, underpass, overpass, culvert, or tunnel) that is being, or is to be, constructed or altered, and if the cost of constructing or altering the roading structure is thereby increased, then the network operator must pay the increase in cost:</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -1889,7 +1522,7 @@
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
-                                <text>what it would have cost to relocate and reconstruct the works as near as reasonably practicable to their original specifications (excluding any costs to which <changeable><citation jurisdiction="nz">paragraph (a)</citation></changeable> applies), taking into account— </text>
+                                <text>what it would have cost to relocate and reconstruct the<struckoutwords amend.level1="struckout-unanimous"> works</struckoutwords><insertwords amend.level1="insert-unanimous"> lines, cabinets, or other similar appliances</insertwords> as near as reasonably practicable to their original specifications (excluding any costs to which <changeable><citation jurisdiction="nz">paragraph (a)</citation></changeable> applies), taking into account— </text>
                                 <label-para quote="1" skeleton="no">
                                   <label auto.number="no" denominator="yes" quote="1">A</label>
                                   <para>
@@ -1960,15 +1593,35 @@
           </subprov>
         </prov.body>
       </prov>
-      <crosshead id="DLM2248985" toc="yes">Amendment to Electricity Act 1992</crosshead>
+      <crosshead id="DLM2248985" toc="yes">Amendment<insertwords amend.level1="insert-unanimous">s</insertwords> to Electricity Act 1992</crosshead>
       <prov id="DLM2248986" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">29</label>
-        <heading>Amendment to Electricity Act 1992</heading>
+        <heading>Amendment<insertwords amend.level1="insert-unanimous">s</insertwords> to Electricity Act 1992</heading>
         <prov.body>
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text><changeable><citation jurisdiction="nz">Section 30</citation></changeable> amends the Electricity Act 1992.</text>
+              <text><changeable><citation jurisdiction="nz"><struckoutwords amend.level1="struckout-unanimous">Section 30 </struckoutwords><insertwords amend.level1="insert-unanimous">Sections 29A to 30A</insertwords></citation></changeable> amend<struckoutwords amend.level1="struckout-unanimous">s</struckoutwords> the Electricity Act 1992.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov amend.level1="insert-unanimous" id="DLM2528403" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">29A</label>
+        <heading amend.level1="insert-unanimous">Construction or maintenance of works on roads</heading>
+        <prov.body>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+            <para amend.level1="insert-unanimous">
+              <text>Section 24 is amended by repealing subsection (2) and substituting the following subsection:</text>
+              <amend amend.level1="insert-unanimous" quote="1">
+                <subprov amend.level1="insert-unanimous" skeleton="no">
+                  <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes" quote="1">2</label>
+                  <para amend.level1="insert-unanimous">
+                    <text>No electricity operator may exercise the powers contained in subsection (1) otherwise than in accordance with such reasonable conditions as may be prescribed by the local authority or other body or person having jurisdiction over the road.</text>
+                  </para>
+                </subprov>
+              </amend>
             </para>
           </subprov>
         </prov.body>
@@ -1989,7 +1642,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>In setting, varying, or revoking reasonable conditions under section 24(2), the local authority or other body or person having jurisdiction over the road concerned may consider all or any of the following matters:</text>
+                        <text>In setting, varying, or revoking reasonable conditions under <changeable><citation jurisdiction="nz">section 24(2)</citation></changeable>, the local authority or other body or person having jurisdiction over the road concerned may consider all or any of the following matters:</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -2043,19 +1696,19 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>Nothing in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> limits a local authority's or other body or person's ability to impose reasonable conditions under section 24(2).</text>
+                        <text>Nothing in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> limits a local authority's or other body or person's ability to impose reasonable conditions under <changeable><citation jurisdiction="nz">section 24(2)</citation></changeable>.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>However, a condition requiring the electricity operator to increase amenity values may be imposed only if the part of the road on which the work is situated is within an area specifically identified in a long-term council community plan (as described in section 93 of the Local Government Act 2002) as being an area whose amenity values are to be protected or enhanced.</text>
+                        <text>However, a condition requiring the electricity operator to increase amenity values<insertwords amend.level1="insert-unanimous"> (rather than merely maintaining them)</insertwords> may be imposed only if the part of the road on which the work is situated is within an area specifically identified in a long-term council community plan (as described in section 93 of the Local Government Act 2002) as being an area whose amenity values are to be protected or enhanced.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">4</label>
                       <para>
-                        <text>If the cost to the network operator of complying with a condition referred to in <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> is higher than it would have been if there was not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.</text>
+                        <text>If the cost to the network operator of complying with a condition referred to in <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> is higher than it would have been if there <struckoutwords amend.level1="struckout-unanimous">was </struckoutwords><insertwords amend.level1="insert-unanimous">were </insertwords>not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -2067,15 +1720,47 @@
           </subprov>
         </prov.body>
       </prov>
-      <crosshead id="DLM2248989" toc="yes">Amendment to Gas Act 1992</crosshead>
+      <prov amend.level1="insert-unanimous" id="DLM2528404" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">30A</label>
+        <heading amend.level1="insert-unanimous">Cost of work required under section 32</heading>
+        <prov.body>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+            <para amend.level1="insert-unanimous">
+              <text>Section 33(4) is amended by omitting <amend.in quote="1">within the meaning of section 54(1) of the Government Roading Powers Act 1989</amend.in> and substituting <amend.in quote="1">(being the New Zealand Transport Agency or the agent of the Minister of Transport)</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM2248989" toc="yes">Amendment<insertwords amend.level1="insert-unanimous">s</insertwords> to Gas Act 1992</crosshead>
       <prov id="DLM2248990" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">31</label>
-        <heading>Amendment to Gas Act 1992</heading>
+        <heading>Amendment<insertwords amend.level1="insert-unanimous">s</insertwords> to Gas Act 1992</heading>
         <prov.body>
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text><changeable><citation jurisdiction="nz">Section 32</citation></changeable> amends the Gas Act 1992.</text>
+              <text><changeable><citation jurisdiction="nz"><struckoutwords amend.level1="struckout-unanimous">Section 32 </struckoutwords><insertwords amend.level1="insert-unanimous">Sections 31A to 32A</insertwords></citation></changeable> amend<struckoutwords amend.level1="struckout-unanimous">s</struckoutwords> the Gas Act 1992.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov amend.level1="insert-unanimous" id="DLM2528405" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">31A</label>
+        <heading amend.level1="insert-unanimous">Construction or maintenance of fittings on roads</heading>
+        <prov.body>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+            <para amend.level1="insert-unanimous">
+              <text>Section 25 is amended by repealing subsection (2) and substituting the following subsection:</text>
+              <amend amend.level1="insert-unanimous" quote="1">
+                <subprov amend.level1="insert-unanimous" skeleton="no">
+                  <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes" quote="1">2</label>
+                  <para amend.level1="insert-unanimous">
+                    <text>No gas operator may exercise the powers contained in subsection (1) otherwise than in accordance with such reasonable conditions as may be prescribed by the local authority or other body or person having jurisdiction over the road.</text>
+                  </para>
+                </subprov>
+              </amend>
             </para>
           </subprov>
         </prov.body>
@@ -2096,7 +1781,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>In setting, varying, or revoking reasonable conditions under section 25(2), the local authority or other body or person having jurisdiction over the road concerned may consider all or any of the following matters:</text>
+                        <text>In setting, varying, or revoking reasonable conditions under <changeable><citation jurisdiction="nz">section 25(2)</citation></changeable>, the local authority or other body or person having jurisdiction over the road concerned may consider all or any of the following matters:</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -2150,13 +1835,13 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>Nothing in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> limits a local authority's or other body or person's ability to impose reasonable conditions under section 25(2).</text>
+                        <text>Nothing in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> limits a local authority's or other body or person's ability to impose reasonable conditions under <changeable><citation jurisdiction="nz">section 25(2)</citation></changeable>.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>However, a condition requiring the gas operator to increase amenity values may be imposed only if the part of the road on which the work is situated is within an area specifically identified in a long-term council community plan (as described in section 93 of the Local Government Act 2002) as being an area whose amenity values are to be protected or enhanced.</text>
+                        <text>However, a condition requiring the gas operator to increase amenity values<insertwords amend.level1="insert-unanimous"> (rather than merely maintaining them)</insertwords> may be imposed only if the part of the road on which the work is situated is within an area specifically identified in a long-term council community plan (as described in section 93 of the Local Government Act 2002) as being an area whose amenity values are to be protected or enhanced.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -2170,6 +1855,18 @@
                 </prov>
               </amend>
               <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov amend.level1="insert-unanimous" id="DLM2528406" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">32A</label>
+        <heading amend.level1="insert-unanimous">Cost of work required under section 33</heading>
+        <prov.body>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+            <para amend.level1="insert-unanimous">
+              <text>Section 34(4) is amended by omitting <amend.in quote="1">within the meaning of section 54(1) of the Government Roading Powers Act 1989</amend.in> and substituting <amend.in quote="1">(being the New Zealand Transport Agency or the agent of the Minister of Transport)</amend.in>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -2199,7 +1896,7 @@
                 <subprov skeleton="no">
                   <label auto.number="yes" denominator="yes" quote="1">3A</label>
                   <para>
-                    <text>Before exercising any power under subsection (3) that will or is likely to interfere with any pipe, line, or other work associated with the supply of water, electricity, gas, or telecommunications, the Minister (or an officer of the Agency acting on the Minister's behalf) must give not less than 10 working days' notice in writing of the proposed interference to the owner of the pipe, line, or other work, except in the case of any emergency or danger.</text>
+                    <text>Before exercising any power under subsection (3) that will or is likely to interfere with any pipe, line, or other work associated with<insertwords amend.level1="insert-unanimous"> wastewater or</insertwords> the supply of water, electricity, gas, or telecommunications, the Minister (or an officer of the Agency acting on the Minister's behalf) must give not less than 10 working days' notice in writing of the proposed interference to the owner of the pipe, line, or other work, except in the case of any emergency or danger.</text>
                   </para>
                 </subprov>
               </amend>
@@ -2212,7 +1909,7 @@
         <heading>Notice to be given of local authority works</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes"/>
+            <label auto.number="no" denominator="yes">1</label>
             <para>
               <text>Section 52 is amended by inserting the following subsection after subsection (2):</text>
               <amend quote="1">
@@ -2220,6 +1917,20 @@
                   <label auto.number="yes" denominator="yes" quote="1">2A</label>
                   <para>
                     <text>The Agency and the Minister must each publish, on a publicly available Internet site, the criteria that the Agency and the Minister respectively will apply when considering whether to give consent under this section, and must apply those criteria when considering whether to give consent.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">2</label>
+            <para amend.level1="insert-unanimous">
+              <text>Section 52 is amended by adding the following subsection:</text>
+              <amend amend.level1="insert-unanimous" quote="1">
+                <subprov amend.level1="insert-unanimous" skeleton="no">
+                  <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes" quote="1">4</label>
+                  <para amend.level1="insert-unanimous">
+                    <text>This section does not prevail over any provision in the Electricity Act 1992, the Gas Act 1992, or the Telecommunications Act 2001 that relates to works or maintenance on, under, or over a road.</text>
                   </para>
                 </subprov>
               </amend>
@@ -2239,7 +1950,7 @@
                 <subprov skeleton="no">
                   <label auto.number="yes" denominator="yes" quote="1">5A</label>
                   <para>
-                    <text>Before exercising any power under subsection (4) that will or is likely to interfere with any pipe, line, or other work associated with the supply of water, electricity, gas, or telecommunications, the Agency (or an officer of the Agency acting on the Agency's behalf) must give not less than 10 working days' notice in writing of the proposed interference to the owner of the pipe, line, or other work, except in the case of any emergency or danger.</text>
+                    <text>Before exercising any power under subsection (4) that will or is likely to interfere with any pipe, line, or other work associated with<insertwords amend.level1="insert-unanimous"> wastewater or</insertwords> the supply of water, electricity, gas, or telecommunications, the Agency (or an officer of the Agency acting on the Agency's behalf) must give not less than 10 working days' notice in writing of the proposed interference to the owner of the pipe, line, or other work, except in the case of any emergency or danger.</text>
                   </para>
                 </subprov>
               </amend>
@@ -2249,15 +1960,18 @@
       </prov>
       <prov id="DLM2248998" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">37</label>
-        <heading>New section 77A inserted</heading>
+        <heading>New section<struckoutwords amend.level1="struckout-unanimous"> 77A</struckoutwords><insertwords amend.level1="insert-unanimous"> 78A</insertwords> inserted</heading>
         <prov.body>
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>The following section is inserted after section 77:</text>
+              <text>The following section is inserted after section<struckoutwords amend.level1="struckout-unanimous"> 77</struckoutwords><insertwords amend.level1="insert-unanimous"> 78</insertwords>:</text>
               <amend quote="1">
                 <prov id="DLM2248999" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                  <label auto.number="no" denominator="yes" quote="1">77A</label>
+                  <label auto.number="no" denominator="yes" quote="1">
+                    <struckoutwords amend.level1="struckout-unanimous">77A</struckoutwords>
+                    <insertwords amend.level1="insert-unanimous">78A</insertwords>
+                  </label>
                   <heading>Response to requests for access to motorway</heading>
                   <prov.body>
                     <subprov quote="1" skeleton="no">
@@ -2269,7 +1983,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>The requests to which <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> applies are those from local authorities, or owners of any pipe, line, or other works associated with the supply of water, electricity, gas, or telecommunications, for access to a motorway for the purpose of constructing, maintaining, or in any other way altering any such pipe, line, or other works, or any wire, cable, pipe, tower, pole, or other structure or thing on, over, or under the motorway.</text>
+                        <text>The requests to which <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> applies are those from local authorities, or owners of any pipe, line, or other works associated with<insertwords amend.level1="insert-unanimous"> wastewater or</insertwords> the supply of water, electricity, gas, or telecommunications, for access to a motorway for the purpose of constructing, maintaining, or in any other way altering any such pipe, line, or other works, or any wire, cable, pipe, tower, pole, or other structure or thing on, over, or under the motorway.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -2298,13 +2012,13 @@
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">1A</label>
                   <para>
-                    <text>Every licensed access provider and every railway premises owner must publish, on a publicly available Internet site, the criteria that the licensed access provider or railway premises owner will apply when considering whether to grant permission under subsection (1), and must apply those criteria when considering whether to grant permission. </text>
+                    <text><struckoutwords amend.level1="struckout-unanimous">Every licensed access provider and every railway premises owner </struckoutwords><insertwords amend.level1="insert-unanimous">The New Zealand Railways Corporation, and any other licensed access provider that the Minister, by notice in the <emphasis style="italic">Gazette</emphasis>, declares to be subject to this subsection, </insertwords>must publish, on a publicly available Internet site, the criteria that the <struckoutwords amend.level1="struckout-unanimous">licensed access provider or railway premises owner </struckoutwords><insertwords amend.level1="insert-unanimous">Corporation or other body </insertwords>will apply when considering whether to grant permission under subsection (1), and must apply those criteria when considering whether to grant permission. </text>
                   </para>
                 </subprov>
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">1B</label>
                   <para>
-                    <text>If a local authority or owner of any pipe, line, or other work associated with the supply of water, electricity, gas, or telecommunications requests, in writing, permission for access to any railway infrastructure or railway premises for the purpose of carrying out work on any such pipe, line, or other works, the licensed access provider or railway premises owner must respond to the request, in writing, within 30 working days of receiving the request.</text>
+                    <text>If a local authority or owner of any pipe, line, or other work associated with<insertwords amend.level1="insert-unanimous"> wastewater or</insertwords> the supply of water, electricity, gas, or telecommunications requests, in writing, permission for access to any railway infrastructure or railway premises for the purpose of carrying out work on any such pipe, line, or other works, the licensed access provider or railway premises owner must respond to the request, in writing, within 30 working days of receiving the request.</text>
                   </para>
                 </subprov>
               </amend>
@@ -2331,7 +2045,7 @@
                 <subprov skeleton="no">
                   <label auto.number="yes" denominator="yes" quote="1">2</label>
                   <para>
-                    <text>Before exercising a power under this section to do anything that will or is likely to interfere with any pipe, line, or other work associated with the supply of water, electricity, gas, or telecommunications, the council must give not less than 10 working days' notice in writing of the proposed interference to the owner of the pipe, line, or other work.</text>
+                    <text>Before exercising a power under this section to do anything that will or is likely to interfere with any pipe, line, or other work associated with<insertwords amend.level1="insert-unanimous"> wastewater or</insertwords> the supply of water, electricity, gas, or telecommunications, the council must give not less than 10 working days' notice in writing of the proposed interference to the owner of the pipe, line, or other work<insertwords amend.level1="insert-unanimous">, except in the case of any emergency or danger</insertwords>.</text>
                   </para>
                 </subprov>
               </amend>
@@ -2353,7 +2067,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM2249006" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="63" bill.type="government" stage="1" year="2009">
+    <part id="DLM2249006" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="63" bill.type="government" stage="2" year="2009">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Amendments relating to New Zealand Railways Corporation</heading>
       <prov id="DLM2249007" irdnumbering="no" skeleton="no" toc="yes">
@@ -2481,10 +2195,16 @@
               <text>Section 6(5) is amended by omitting <amend.in quote="1">Chairman</amend.in> and substituting <amend.in quote="1">chairperson</amend.in>.</text>
             </para>
           </subprov>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">2A</label>
+            <para amend.level1="insert-unanimous">
+              <text>Section 6(5) is amended by inserting <amend.in quote="1">or she</amend.in> after <quote.in amend.level1="insert-unanimous" quote="1">he</quote.in>.</text>
+            </para>
+          </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
             <para>
-              <text>Section 6(6) is amended by omitting <amend.in quote="1">Chairman</amend.in> and substituting <amend.in quote="1">chairperson or deputy chairperson</amend.in>.</text>
+              <text>Section 6(6) is amended by omitting <amend.in quote="1">Chairman</amend.in> and substituting <amend.in quote="1">chairperson <struckoutwords amend.level1="struckout-unanimous">or </struckoutwords><insertwords amend.level1="insert-unanimous">and </insertwords>deputy chairperson</amend.in>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -2509,7 +2229,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>liability for conduct that comprises acts or omissions by the director or employee done in good faith and in the performance or intended performance of the Corporation's functions; and</text>
+                            <text>liability for conduct that comprises acts or omissions by the director or employee <struckoutwords amend.level1="struckout-unanimous">done </struckoutwords>in good faith and in the performance or intended performance of the Corporation's functions; and</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -2523,7 +2243,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>The Corporation may effect insurance cover for any director or employee, but only in respect of acts or omissions done in good faith and in the performance or intended performance of the Corporation's functions.</text>
+                        <text>The Corporation may effect insurance cover for any director or employee, but only in respect of acts or omissions <struckoutwords amend.level1="struckout-unanimous">done </struckoutwords>in good faith and in the performance or intended performance of the Corporation's functions.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -2566,7 +2286,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM2249019" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="63" bill.type="government" stage="1" year="2009">
+    <part id="DLM2249019" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="63" bill.type="government" stage="2" year="2009">
       <label auto.number="no" denominator="yes">4</label>
       <heading>Amendments relating to affordable housing</heading>
       <crosshead id="DLM2249020" toc="yes">Repeal of Affordable Housing: Enabling Territorial Authorities Act 2008</crosshead>
@@ -2577,7 +2297,7 @@
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>The Affordable Housing: Enabling Territorial Authorities Act 2008 is repealed.</text>
+              <text>The Affordable Housing: Enabling Territorial Authorities Act 2008<insertwords amend.level1="insert-unanimous"> (2008 No 67)</insertwords> is repealed.</text>
             </para>
           </subprov>
         </prov.body>
@@ -2770,7 +2490,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule id="DLM2249029" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="63" bill.type="government" stage="1" year="2009">
+    <schedule id="DLM2249029" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="63" bill.type="government" stage="2" year="2009">
       <label auto.number="no" denominator="yes"> </label>
       <empowering-prov>
         <changeable>
@@ -2834,7 +2554,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">2</label>
               <para>
-                <text>If material that is incorporated by reference expires or ceases to have effect, and is not replaced, the material continues to have effect unless or until the regulations are amended in a way that means the material is no longer incorporated by reference.</text>
+                <text>If material that is incorporated by reference expires or ceases to have effect, and is not replaced, the material continues to have effect <insertwords amend.level1="insert-unanimous">for the purpose of the regulations </insertwords>unless or until the regulations are amended in a way that means the material is no longer incorporated by reference.</text>
               </para>
             </subprov>
           </prov.body>
@@ -3022,4 +2742,17 @@
       </schedule.provisions>
     </schedule>
   </schedule.group>
+  <end id="DLM2528407">
+    <leg-history id="DLM2528408">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-08-05</date>
+        <description>Introduction (Bill 63–1)</description>
+      </history-item>
+      <history-item>
+        <date>2009-08-25</date>
+        <description>First reading and referral to Transport and Industrial Relations Committee</description>
+      </history-item>
+    </leg-history>
+  </end>
 </bill>
