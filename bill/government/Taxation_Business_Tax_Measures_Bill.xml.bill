@@ -1,218 +1,588 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM1826000" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="11" bill.type="government" stage="2" year="2009">
+<bill id="DLM1826000" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="11" bill.type="government" stage="1" year="2009">
   <billdetail>
     <title>Taxation (Business Tax Measures) Bill</title>
     <billtype>Government Bill</billtype>
-    <repnote>As reported from the Finance and Expenditure Committee</repnote>
-    <commentary id="DLM1878300" irdnumbering="no" official="yes" bill.no="11" bill.type="government" stage="2" year="2009">
-      <heading>Commentary</heading>
-      <comm.lev1>
-        <heading>Recommendation</heading>
+    <explnote id="DLM1826001" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="11" bill.type="government" stage="1" year="2009">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
+        <explnote.ird-crosshead>Business tax measures</explnote.ird-crosshead>
         <para>
-          <text>The Finance and Expenditure Committee has examined the Taxation (Business Tax Measures) Bill and recommends that it be passed with the amendments shown.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Introduction</heading>
-        <para>
-          <text>The Taxation (Business Tax Measures) Bill aims to improve the business environment for small and medium-sized enterprises by easing the pressure of taxes on businesses’ cash flows and reducing business tax compliance costs. To achieve this aim, a number of measures are proposed in this bill. For example, various thresholds for PAYE, fringe benefit tax, and GST will be raised, the provisional tax uplift rate reduced, and the rules for deducting legal expenditure simplified. It is acknowledged that a number of the initiatives in this bill reflect proposed changes in previous  legislation, or in Inland Revenue work streams and discussion documents, including the Taxation (International  Taxation, Life Insurance, and Remedial Matters) Bill; use-of-money interest rates; uplift thresholds; and instalment regimes. </text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Technical amendments</heading>
-        <para>
-          <text>We recommend a number of technical amendments to rectify minor drafting problems. The rest of this commentary addresses the major issues that we considered, which did not result in any recommended amendment.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Use-of-money interest deductibility</heading>
-        <para>
-          <text>We strongly encourage the Minister of Revenue and the Government to continue to examine the issue of use-of-money interest to reflect changing interest rates, and to consider a tax policy programme that proposes the urgent progressing of this work. </text>
+          <text>This bill contains provisions in response to the current global economic situation. That situation is negatively impacting on New Zealand businesses. Some businesses are experiencing cash flow difficulties due to a fall in domestic and international demand for their goods and services.  This typically occurs in every recession. Also, in every recession, businesses with falling sales (and perhaps rising inventories) find obtaining access to credit more difficult than in times in which there are high levels of economic growth. The global character of this recession means it looks likely to be deeper and longer than most.</text>
         </para>
         <para>
-          <text>We are concerned that the existing legislation is not clear about the circumstances in which use-of-money interest is deductible. This uncertainty may cause some taxpayers to incur penalties for mistakenly claiming a deduction for use-of-money interest where it is in fact non-deductible. In addition, we consider that the current economic climate heightens the urgency of this issue as it makes taxpayers more likely to have difficulty meeting their tax obligations (particularly provisional tax). However, we acknowledge that analysis of the circumstances in which use-of-money interest deductibility should apply may be necessary before such a change is legislated. We understand this has been suggested for inclusion in the Government’s tax policy programme.  </text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Reduction in underpayment and overpayment rates for use-of-money interest</heading>
-        <para>
-          <text>We support the principle of rebalancing the underpayment and overpayment rates for use-of-money interests to reflect market conditions. We note that the rates are now more reflective of the 90-day bank bill rate rather than the official cash rate. </text>
-        </para>
-        <para>
-          <text>In the light of the latest reduction in the official cash rate, we discussed the possibility of further reducing the underpayment rate for use-of-money interest, for example, to potentially align it with the overpayment rate, which is currently 4.23 percent per annum. </text>
-        </para>
-        <para>
-          <text>Some of us concluded, however, that reducing the underpayment rate would pose serious risks to the Government’s fiscal position. Others were of the opinion that the spread between the under- and overpayment rates could be narrowed. Excessive reduction of the spread might create a significant incentive for provisional taxpayers to reduce their provisional tax payments below the correct level, effectively borrowing funds from the Inland Revenue Department. Also, some tax revenue could be lost permanently because taxpayers might give lower priority to paying off debt owed to Inland Revenue when the underpayment rate for use-of-money interest fell below the interest rates on their other debts. </text>
-        </para>
-        <para>
-          <text>We are pleased to note that the spread is under ongoing review, as we consider it vital to mitigate businesses bearing an inappropriate cost during this time. </text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Instalment arrangements</heading>
-        <para>
-          <text>In view of the difficult economic times, we considered whether it should be made easier for taxpayers to enter into instalment arrangements with the Inland Revenue Department regarding tax payments.</text>
-        </para>
-        <para>
-          <text>We sought assurance from the Inland Revenue Department that this issue is being addressed. We were advised that new initiatives are being implemented to clarify for taxpayers the possibility of instalment arrangements. The Inland Revenue Department is also investigating the benefits and administrative implications of operational changes to streamline the process of entering into instalment arrangements. We consider this work vital in the current economic climate, and encourage the Inland Revenue Department to progress it swiftly. </text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Tax deductibility of patent costs</heading>
-        <para>
-          <text>A submitter commented that the tax deductibility of patent costs in New Zealand does not compare favourably with those in many other jurisdictions. For example, the amortisation period for patents is 20 years in New Zealand, but only 15 years in the United States. </text>
+          <text>In light of this context, the focus of the proposed provisions is improving the business environment, with a focus on small and medium enterprises.  In particular, the key areas identified are:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>easing the impact of taxes on businesses' cash flows:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>improving businesses' incentives to invest:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>reducing business tax compliance costs.</text>
+              </para>
+            </item>
+          </list>
+          <text>This approach is consistent with the wider small and medium enterprises package currently being developed and the Government's intention to introduce ongoing improvements to the business environment for New Zealand businesses as part of its broader economic strategy.</text>
         </para>
         <para>
-          <text>Given that the purpose of the bill is to enhance the business environment for these enterprises, we consider the issue of tax deductibility of patent costs to be outside the ambit of this bill. We note that New Zealand’s 20-year period is comparatively high, and we support further work being undertaken on this issue. </text>
+          <text>The bill contains the following proposals:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>PAYE once a month filing and payment threshold –– increase from $100,000 to $500,000 (based on annual PAYE deductions):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>FBT annual return filing threshold –– increase from $100,000 to $500,000 (based on annual PAYE deductions):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>FBT annual return filing –– allowing owner-employees of closely held businesses to file annually, regardless of their annual PAYE deductions, when their FBT liability is limited to up to 2 vehicles:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Provisional tax use of money interest (<emphasis style="bold">UOMI</emphasis>) safe harbour threshold –– increase from $35,000 to $50,000 (based on annual residual income tax):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>GST registration threshold –– from $40,000 to $60,000 (based on annual GST turnover):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>GST 6-monthly return filing threshold –– from $250,000 to $500,000 (based on annual turnover):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Accounting for financial arrangements — allowing non-individuals to return income tax for financial arrangements on a cash accounting basis, and increasing the threshold for straight line accounting from $1.5 million to $1.85 million (based on the total level of financial arrangements):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Low value trading stock threshold –– increasing the exemption for adjustments from $5,000 to $10,000 (based on the value of trading stock):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Provisional tax uplift rate –– reduce the current standard method provisional tax uplift baselines from 105% or 110%, to 100% or 105%, –– or to 90% and 95% for transitional provisional taxpayers (based on residual income tax):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>GST payments basis threshold –– increase from $1.3 million to $2 million (based on annual GST turnover):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>FBT on unclassified fringe benefits –– increasing the de minimis thresholds for exempting minor benefits from FBT from $15,000 per annum per employer and $200 per quarter per employee, to $22,500 and $300 respectively:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Simplified rules for deducting legal expenditure –– allowing businesses to immediately deduct business-related legal expenditure, up to $10,000 a year, without having to distinguish between revenue and capital.</text>
+              </para>
+            </item>
+          </list>
         </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Further reducing provisional tax payable under the uplift basis</heading>
+        <explnote.ird-crosshead>Minor remedial matters</explnote.ird-crosshead>
         <para>
-          <text>We considered whether provisional tax payable under the uplift basis could be further reduced to ease the burden on business without creating undesirable effects. A submitter proposed that the provisional tax payable should be reduced to 80 percent of a taxpayer’s prior year residual income, rather than the proposed decrease to 100 percent (from 105 percent). However, we were advised that no single uplift level is likely to suit the needs of all taxpayers, and we acknowledge that further reducing the uplift factor from 100 percent to 80 percent might not result in better estimates for provisional tax liabilities.</text>
+          <text>This bill, in proposed <emphasis style="italic">Part 2</emphasis>, makes a few minor remedial changes as a result of the recent Taxation (Urgent Measures and Annual Rates) Act 2008.</text>
         </para>
-        <para>
-          <text>Some of us consider that further assessment of uplift thresholds is desirable. However, we were advised that any further reduction could have significant implications for tax revenue over the next three years. </text>
-        </para>
-      </comm.lev1>
-      <comm.appendix>
-        <heading>Appendix</heading>
-        <comm.lev2>
-          <heading>Committee process</heading>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
           <para>
-            <text>The Taxation (Business Tax Measures) Bill was referred to the committee on 10 February 2009. We invited oral submissions from particular bodies representative of those likely to be most affected by the bill. We received and considered six submissions from interested groups and individuals. We heard five submissions on 18 February 2009. </text>
+            <text><emphasis style="italic">Clause 1</emphasis> gives the title of the Act.</text>
           </para>
+        </clause.desc>
+        <clause.desc>
           <para>
-            <text>We received advice from the Inland Revenue Department, the Treasury, and an independent specialist adviser, Therese Turner (Chartered Accountant). </text>
+            <text><emphasis style="italic">Clause 2</emphasis> gives the commencement dates for provisions in the Act.</text>
           </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Committee membership</heading>
-          <para>
-            <text>Craig Foss (Chairperson)</text>
-          </para>
-          <para>
-            <text>Chris Tremain (Deputy Chairperson)</text>
-          </para>
-          <para>
-            <text>Amy Adams</text>
-          </para>
-          <para>
-            <text>David Bennett</text>
-          </para>
-          <para>
-            <text>John Boscawen</text>
-          </para>
-          <para>
-            <text>Brendon Burns</text>
-          </para>
-          <para>
-            <text>Hon David Cunliffe</text>
-          </para>
-          <para>
-            <text>Raymond Huo</text>
-          </para>
-          <para>
-            <text>Rahui Katene</text>
-          </para>
-          <para>
-            <text>Peseta Sam Lotu-Iiga</text>
-          </para>
-          <para>
-            <text>Stuart Nash</text>
-          </para>
-          <para>
-            <text>Dr Russel Norman</text>
-          </para>
-        </comm.lev2>
-      </comm.appendix>
-    </commentary>
+        </clause.desc>
+        <explnote.part id="DLM1825900">
+          <label auto.number="no" denominator="yes">1  </label>
+          <heading>Business tax measures</heading>
+          <explnote.crosshead>Amendments to Income Tax Act 2007</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clauses 4 to 22</emphasis> amend the <emphasis style="italic">Income Tax Act 2007</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4</emphasis> inserts a new <emphasis style="italic">section DB 62</emphasis>, to allow the deduction of business-related legal expenditure, up to $10,000 a year, without having to distinguish between revenue and capital.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5</emphasis> amends <emphasis style="italic">section EB 23</emphasis>, to increase the threshold for low value trading stock.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> amends <emphasis style="italic">section EW 13</emphasis>, consequentially on the changes to the definition of <emphasis style="italic">cash-basis person</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 7</emphasis> amends <emphasis style="italic">section EW 17</emphasis>, to increase the threshold for using the straight-line method to value financial arrangements.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 8</emphasis> amends <emphasis style="italic">section EW 25</emphasis>, to increase the threshold for using the straight-line method to value financial arrangements.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9</emphasis> replaces <emphasis style="italic">section EW 54</emphasis>, to redefine <emphasis style="italic">cash-basis person</emphasis>, removing the reference to natural persons.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 10</emphasis> amends repeals <emphasis style="italic">section EW 56</emphasis>, consequentially on the changes to the definition of <emphasis style="italic">cash-basis person</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 11</emphasis> amends <emphasis style="italic">section EW 57</emphasis>, to change cross-references consequential on the changes to the definition of <emphasis style="italic">cash-basis person</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 12</emphasis> amends <emphasis style="italic">section EW 58</emphasis>, consequentially on the changes to the definition of <emphasis style="italic">cash-basis person</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 13</emphasis> replaces <emphasis style="italic">section EW 59</emphasis>, to provide for associated persons.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 14</emphasis> amends <emphasis style="italic">section EW 60</emphasis>, to change cross-references consequential on the changes to the definition of <emphasis style="italic">cash-basis person</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 15</emphasis> amends <emphasis style="italic">section RD 22</emphasis>, to increase the threshold for once-a-month PAYE filing.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 16</emphasis> amends <emphasis style="italic">section RD 45</emphasis>, to increase the threshold under which FBT is not required to be accounted for in respect of unclassified benefits.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 17</emphasis> amends <emphasis style="italic">section RD 46</emphasis>, consequential to increasing the threshold under which FBT is not required to be accounted for in respect of unclassified benefits.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 18</emphasis> amends <emphasis style="italic">section RD 60</emphasis>, to increase the threshold applying to close companies for the calculation and payment of FBT on an annual basis.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 19</emphasis> amends <emphasis style="italic">section RD 61</emphasis>, to increase the threshold applying to small businesses for the calculation and payment of FBT on an annual basis.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 20</emphasis> replaces <emphasis style="italic">section RZ 3</emphasis>, to reduce the standard method uplift for the calculation of provisional tax liability for the 2008–09 and 2009–10 income years.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 21</emphasis> replaces <emphasis style="italic">section RZ 5</emphasis>, to reduce the standard method uplift for the calculation of provisional tax liability for the 2008–09 and 2009–10 income years.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 22</emphasis> amends <emphasis style="italic">section YA 1</emphasis> by inserting a new definition of <emphasis style="italic">legal expenses</emphasis>, consequential to allowing the deduction of business-related legal expenditure, up to $10,000 a year, without having to distinguish between revenue and capital.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Amendment to Tax Administration Act 1994</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 23</emphasis> amends <emphasis style="italic">section 120KE</emphasis> of the <emphasis style="italic">Tax Administration Act 1994</emphasis>, to increase the threshold for a provisional taxpayer's residual income UOMI safe harbour.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Amendments to Goods and Services Tax Act 1985</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clauses 25 to 27</emphasis> amend the <emphasis style="italic">Goods and Services Tax Act 1985</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 25</emphasis> amends <emphasis style="italic">section 15</emphasis>, to increase the threshold for taxable periods of 6 months.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 26</emphasis> amends <emphasis style="italic">section 19A</emphasis>, to increase the threshold below which GST may be accounted for on a payments basis.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 27</emphasis> amends <emphasis style="italic">section 51</emphasis>, to increase the threshold for registration.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM1825901">
+          <label auto.number="no" denominator="yes">2  </label>
+          <heading>Minor remedial matters</heading>
+          <explnote.crosshead>Amendments to Income Tax Act 2007</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clauses 29 to 31</emphasis> amend the <emphasis style="italic">Income Tax Act 2007</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 29</emphasis> amends <emphasis style="italic">section RD 50</emphasis>, to lower FBT rates as a remedial matter related to the changes made by the <emphasis style="italic">Taxation (Urgent Measures and Annual Rates) Act 2008</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 30</emphasis> amends <emphasis style="italic">section RD 52</emphasis>, to lower FBT rates as a remedial matter related to the changes made by the <emphasis style="italic">Taxation (Urgent Measures and Annual Rates) Act 2008</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 31</emphasis> amends <emphasis style="italic">section RD 53</emphasis>, to lower FBT rates as a remedial matter related to the changes made by the <emphasis style="italic">Taxation (Urgent Measures and Annual Rates) Act 2008</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Amendment to Tax Administration Act 1994</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 32</emphasis> amends <emphasis style="italic">section 3</emphasis> of the <emphasis style="italic">Tax Administration Act 1994</emphasis>, to correct the definition of <emphasis style="italic">response period</emphasis>, as a remedial matter related to the R &amp; D tax credit changes made by the <emphasis style="italic">Taxation (Urgent Measures and Annual Rates) Act 2008</emphasis>.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+      <explnote.ris>
+        <heading>Regulatory impact statement</heading>
+        <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
+        <para>
+          <text>The measures in this bill are aimed at sustainably improving the tax rules for businesses and providing relief to taxpayers in light of the existing economic circumstances –– characterised by an economic recession, reduced investment flows, and tight credit market constraints as a result of a global financial crisis. These changes are meant to be enduring and constitute part of the Government’s broader economic strategy. While many of the measures set out below focus on small and medium-sized enterprises (<emphasis style="bold">SME</emphasis>s), given their importance to the New Zealand economy and their susceptibility to the effects of the current environment, they apply more widely where it is feasible to do so.</text>
+        </para>
+        <para>
+          <text>A number of the initiatives in this bill follow from the measures proposed in the Government discussion document entitled: <emphasis style="italic">Reducing tax compliance costs for small and medium-sized enterprises</emphasis>. This is because the Government retains a continued interest in ensuring business tax compliance costs are minimised, thereby allowing businesses’ key resources to be put to higher value activities.</text>
+        </para>
+        <para>
+          <text>After analysis of the measures that could be adopted quickly to ease the impact of taxes on businesses’ cash flows and reduced compliance costs, and considering what could be achieved given tight fiscal constraints, the main points of the preferred package at this time are the following legislative proposals (all of which are proposed to come into force on 1 April 2009):</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>GST payments basis threshold –– increase from $1.3 million to $2 million (based on annual GST turnover):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>GST registration threshold –– from $40,000 to $60,000 (based on annual GST turnover):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Simplified rules for deducting legal expenditure –– allowing businesses to immediately deduct business-related legal expenditure, up to $10,000 a year, without having to distinguish between revenue and capital.</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>PAYE once a month filing and payment threshold –– increase from $100,000 to $500,000 (based on annual PAYE deductions):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>FBT annual return filing threshold –– increase from $100,000 to $500,000 (based on annual PAYE deductions):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>FBT on unclassified fringe benefits –– increasing the de minimis thresholds for exempting minor benefits from FBT from $15,000 per annum per employer and $200 per quarter per employee, to $22,500 and $300 respectively:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Provisional tax uplift rate –– reduce the current standard method provisional tax uplift baselines from 105% or 110%, to 100% or 105%, –– or to 90% and 95% for transitional provisional taxpayers (based on residual income tax).</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
+        <para>
+          <text>The Regulatory Impact Analysis Team (<emphasis style="bold">RIAT</emphasis>) has reviewed this Regulatory Impact Statement and considers it to contain the required information and accurately reflect the analysis undertaken.</text>
+        </para>
+        <para>
+          <text>RIAT considers the regulatory impact analysis to be adequate, with the exception of the consultation undertaken in respect of reducing the provisional tax uplift rate. The time constraints precluded full consultation on this aspect of the proposal.</text>
+        </para>
+        <para>
+          <text>Treasury and Inland Revenue consider that the principles of the <emphasis style="italic">Code of Good Regulatory Practice</emphasis> and the regulatory impact analysis requirements have been complied with. In addition, Treasury and Inland Revenue consider that, other than the proposal in respect of reducing the provisional tax uplift rate, the regulatory impact analysis consultation requirements have been met.</text>
+        </para>
+        <para>
+          <text/>
+        </para>
+        <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
+        <explnote.subhead1>Background</explnote.subhead1>
+        <para>
+          <text>The current global economic situation is hitting New Zealand businesses. Many businesses are experiencing cash flow difficulties due to a fall in demand for their goods and services. This typically occurs in every recession in that businesses with falling sales (and perhaps rising inventories) have greater difficulty in accessing credit than in times in which there are high levels of economic growth. The global character of this recession means it looks likely to be deeper and longer than most.</text>
+        </para>
+        <para>
+          <text>The Reserve Bank of New Zealand expects business credit growth to slow markedly over 2009 and in addition to credit for new proposals becoming harder to get, some businesses are finding that funding lines are being withdrawn or becoming more expensive. As well as making it harder for businesses to expand, in some cases this has made working capital scarce and inhibited trade finance transactions. At the margin, independent credit availability effects may be exacerbating a difficult operating environment, compared with a ‘typical recession’. While these effects are not yet severe, the Government is monitoring the situation closely.</text>
+        </para>
+        <para>
+          <text>Regulatory action has already been taken to assist in addressing this situation. The effects from the introduction of the wholesale deposit guarantee scheme are still working through in terms of easing the current difficulties being experienced by businesses attempting to obtain access to credit. The success of the wholesale deposit guarantee scheme in enabling banks to raise sufficient term funding remains at the heart of the strategy to ensure adequate availability of credit. Banks have not yet borrowed under the guarantee, but their current business plans are predicated on the assumption that they will be able to do so over the next few months.</text>
+        </para>
+        <explnote.subhead1>The New Zealand context</explnote.subhead1>
+        <para>
+          <text>New Zealand’s existing economic circumstances are characterised by tight credit constraints –– as a result of a global financial crisis, and an economic recession –– as a result of a reduction in aggregate demand for goods and services, and reduced investment. These factors are expected to contribute to significantly lower economic growth over the short to medium term relative to that achieved over the last decade. This has potentially significant implications for employment levels and New Zealanders’ overall living standards.</text>
+        </para>
+        <para>
+          <text>Taxes impact on the cash flows of businesses which may impede their ability to fund projects and weather a reduction in the demand for their goods and services. There is scope to ease the burden of taxes on businesses’ cash flows by allowing them to file tax returns and make tax payments less frequently, and by delaying the time at which taxes would normally be paid. Together this would effectively allow businesses to hold on to tax monies longer, improving cash flows at the margin.</text>
+        </para>
+        <para>
+          <text>The Government also notes that compliance with tax laws can entail significant time and costs for many businesses. These costs can arise through a variety of tax compliance activities required to meet the tax obligations imposed under legislation (for example, performing tax calculations, seeking advice, recordkeeping, filing returns and making tax payments).  Compliance costs can also arise through the complexity of tax laws and administrative procedures. These costs often have a disproportionate impact on SMEs. The Government considers that, by making it easier for businesses to comply with their tax obligations, valuable economic resources are able to be freed up and re-directed towards more productive activities.  It is the Government’s intention to introduce ongoing improvements to the business environment for New Zealand businesses as part of its broader economic strategy. Tax changes that make complying with taxes easier should also improve voluntary taxpayer compliance at a time when there are significant pressures on the Government’s fiscal position.</text>
+        </para>
+        <para>
+          <text>The December Economic and Fiscal Forecasts were released on 18 December 2008. These forecasts included a main forecast as well as an upside scenario and a downside scenario given the uncertainty around the economic conditions at the time of releasing the update. Since releasing this update the outlook for world growth, trading partner growth, and commodity prices are expected to be weaker, meaning the economy is close to the downside scenario. Both the main and downside fiscal forecasts are outside of the range that the Government considers prudent.</text>
+        </para>
+        <para>
+          <text>Government inaction in the abovementioned areas could result in businesses experiencing a more drawn-out recessionary period. At the margin, the associated cash flow issues could contribute to some businesses that are otherwise productive, failing. The longer-term detriment to the economy from a drawn out recessionary period, tight credit conditions, and burdensome laws and regulations justifies Government action to streamline the functioning of laws, regulations, and institutions to minimise the impact of taxes on businesses.</text>
+        </para>
+        <explnote.ird-crosshead>Objectives</explnote.ird-crosshead>
+        <para>
+          <text>Given the current and projected economic conditions its commitment to make ongoing improvements to the business environment for New Zealand businesses, the Government proposes a package of proposals to provide ongoing assistance and relief.</text>
+        </para>
+        <para>
+          <text>The objectives of the proposals are to:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>ease the burden of taxes on businesses’ cash flows, particularly in light of tight credit market constraints:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>reduce tax compliance costs for businesses and provide a sustainable improvement in the tax rules going forward:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>conform to sound tax policy principles.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>In meeting these objectives, the Government must trade off the positive impact of the proposals against the deteriorating fiscal position over the medium term. In particular, it must ensure that the ongoing revenue costs, the impact on the Government’s debt–to–gross domestic product ratio, and debt servicing costs are fiscally sustainable going forward.</text>
+        </para>
+        <para>
+          <text>Other objectives for the package are to provide timely relief; so any measures chosen need to be able to be implemented and have effect quickly. Lastly, this package aims to improve the situation for businesses that are currently viable, or that are struggling. Accordingly, the measures are not solely directed at profitable businesses.</text>
+        </para>
+        <para>
+          <text>In light of the importance of SMEs to the New Zealand economy (SMEs make up approximately 96% of total businesses), and their susceptibility to the effects of an economic recession and tightening credit market conditions, these proposals focus on SMEs. However, the measures provide benefits to businesses more widely where it is feasible to do so, given the significant fiscal constraints currently faced by the government as well as those projected over the medium term.</text>
+        </para>
+        <para>
+          <text>In addition, the package attempts to minimise distortions to economic decision-making, which would serve to cause further detriment to the current economic environment and longer-term economic performance. To that end, the measures adopted are consistent with sound tax policy principles.</text>
+        </para>
+        <para>
+          <text>Given the nature of the problem and the objectives of the proposed reform as specified above, and in light of fiscal constraints, the Government considers that the fiscal implications of a package need to be affordable; both in the short term and on an ongoing basis.</text>
+        </para>
+        <explnote.ird-crosshead>Alternative options</explnote.ird-crosshead>
+        <para>
+          <text>In light of the problem definition and objectives outlined above, the appropriate measures should have particular regard to the following requirements: the extent to which the measures can ease the cash flow impact of taxes on businesses; the ability of the measures to reduce taxpayer compliance costs (and Inland Revenue administration costs) on an ongoing basis; sound tax policy principles, including economic efficiency and equity between taxpayers; and fiscal sustainability.</text>
+        </para>
+        <para>
+          <text>Given the Government’s significant fiscal constraints and the requirement to follow sound tax policy principles, a range of threshold-related and other options were considered, taking into account the number of businesses that fall within applicable thresholds and the magnitude of the likely effects relative to the associated fiscal costs.</text>
+        </para>
+        <para>
+          <text>At the outset it is important to note that there is no ‘correct’ level for any given threshold-related measure. The threshold concessions are typically provided on compliance cost grounds and where the frequent filing and paying of taxes has overly burdensome cash flow implications for businesses. Any given threshold level is a judgment call taking into account these factors and weighing them against the ongoing fiscal impact to the government of changing the thresholds.</text>
+        </para>
+        <para>
+          <text>The reasons that the particular thresholds that are proposed were preferred are outlined under the preferred option section below.</text>
+        </para>
+        <para>
+          <text>Other non-threshold related proposals that have also been included focus on easing the cash flow impact of taxes and UOMI on businesses.</text>
+        </para>
+        <explnote.subhead1>Other options considered</explnote.subhead1>
+        <para>
+          <text>Other options for assisting businesses in the current economic environment were also considered for inclusion in the package, but were not considered appropriate at the current time. These options, and the reasons for their non-inclusion, are set out below.</text>
+        </para>
+        <explnote.subhead2>Increasing the low value asset write off threshold</explnote.subhead2>
+        <para>
+          <text>Increasing the current $500 low value asset write off threshold at which assets need to be capitalised and depreciated for tax purposes was considered. This measure could reduce tax compliance costs for businesses and provide potential cash flow advantages through the full write-off of capital assets in the year of acquisition.</text>
+        </para>
+        <para>
+          <text>This measure was not included in the package at the current time as it would further increase the bias that already exists by the current threshold relative to the majority of assets that are depreciating for tax purposes at economic depreciation rates. Also, this measure has a substantial fiscal cost and would not be closely targeted to SMEs and would not assist businesses in a tax loss position (as tax losses carried forward do not provide immediate cash flow benefits). It may also provide an incentive for taxpayers to try and split up assets into separate components (where this is possible).</text>
+        </para>
+        <explnote.subhead2>Increasing the provisional tax threshold</explnote.subhead2>
+        <para>
+          <text>Increasing the current provisional tax threshold at which provisional tax is paid, from its current level of residual income tax of $2,500, was also considered.  This would assist cash flow for businesses with low levels of residual income tax.</text>
+        </para>
+        <para>
+          <text>Again, this measure had a very significant fiscal cost and would not target SMEs as, in many cases, individuals and non-business taxpayers would benefit from the concession.</text>
+        </para>
+        <explnote.subhead2>Doubtful debt write-offs for income tax purposes</explnote.subhead2>
+        <para>
+          <text>A limited form of writing off doubtful debts for income tax purposes was considered but not progressed at this time. This would have allowed smaller businesses to write off, for income tax purposes, their doubtful debts based on the age of the debt or a history of previous doubtful debts turning bad. This may, in certain circumstances, have assisted businesses’ cash flows.</text>
+        </para>
+        <para>
+          <text>It was concluded that the benefits were uncertain and that allowing a tax deduction for doubtful debt provisions may not necessarily provide targeted relief. Further, it could represent a potential threat to the tax base.</text>
+        </para>
+        <explnote.subhead2>Other tax simplification measures outlined in Government discussion document</explnote.subhead2>
+        <para>
+          <text>Other measures included in the discussion document <emphasis style="italic">Reducing tax compliance costs for small and medium-sized enterprises</emphasis> were considered for inclusion in the package of short term measures. These included introducing simplified rules for entertainment expenses and introducing a single category of restricted private-use motor vehicles for FBT purposes (replacing the current work-related vehicle exemption).</text>
+        </para>
+        <para>
+          <text>These measures were not included at this time, as it was considered that further consultation with taxpayers was required to develop the policies further. These measures are part of an ongoing SME simplification review, and whilst they would arguably provide simplification benefits, the cash flow benefits are less obvious. In fact, some taxpayers may end up, depending on circumstances, paying more in tax that at present.</text>
+        </para>
+        <explnote.ird-crosshead>Preferred option</explnote.ird-crosshead>
+        <para>
+          <text>The preferred option at this time is to introduce changes to certain existing tax thresholds and a reduction in the provisional tax uplift rate.  At a high level, these thresholds were chosen because of their ability to reduce taxpayers’ compliance costs, ease the burden of taxes on businesses’ cash flows, and improve capital investment incentives while at the same time being affordable for the Government on an ongoing basis.  The specific proposals and their benefits and risks are discussed briefly below.</text>
+        </para>
+        <para>
+          <text>A conservative quantification of the aggregate cash flow benefits arising to businesses from the proposed measures is set out in the Fiscal Implications section of this paper. In addition, compliance cost reduction benefits are expected from implementation of the initiatives, but a precise quantification of these benefits is not able to be made due to data limitations.</text>
+        </para>
+        <explnote.subhead1>Increase the GST payments basis threshold from $1.3 million to $2 million (to apply from 1 April 2009)</explnote.subhead1>
+        <para>
+          <text>Increasing the GST payments basis threshold will allow more taxpayers to account for GST on a payments basis and may assist businesses’ cash flows as GST will generally only need to be accounted for on receipt of funds rather than issue of an invoice. This measure should reduce the situation where businesses are required to account for GST on revenues they have not yet collected. The key risk with raising this threshold is the increased arbitrage ability that arises in dealings between taxpayers on the invoice basis and the cash basis. However, given the modest level of the proposed new threshold, this arbitrage risk is not significantly increased.</text>
+        </para>
+        <explnote.subhead1>Increase the GST registration from $40,000 to $60,000 (to apply from 1 April 2009)</explnote.subhead1>
+        <para>
+          <text>Increasing the GST registration threshold would mean those under the threshold could opt out of the GST system, resulting in a reduction in GST compliance costs and easing cash-management issues associated with making GST payments. Increasing this threshold means that more final consumption becomes untaxed as more businesses are able to move out of the GST base. However, the overall net benefits from reduced compliance costs are expected to outweigh this minor distortion.</text>
+        </para>
+        <para>
+          <text>It is estimated that by increasing the GST registration threshold to $60,000, approximately 47,000 entities would be entitled to de-register if they wished to do so. However, of these entities, an estimated 28,000 entities would chose to remain within the GST system, for competitive reasons or for the ability to obtain input tax deductions, regardless of the increase in the threshold.</text>
+        </para>
+        <explnote.subhead1>Introduce a new threshold of $10,000 below which all legal expenditure is fully deductible (to apply from the 2009–10 income year)</explnote.subhead1>
+        <para>
+          <text>Many businesses find the rules for determining the deductibility, for tax purposes, of business-related legal expenses complicated (as a result of having to assess the application of the capital/revenue boundary). This can lead to high compliance costs.  Allowing businesses to deduct all business-related legal expenses, up to $10,000 a year, without having to distinguish between revenue and capital (potentially covering certain ‘black hole’ expenditure items) would reduce tax compliance costs and tax liabilities, therefore reducing the impact on businesses’ cash flows. However, the measure would not assist businesses in a tax loss position, as tax losses carried forward do not provide immediate cash flow benefits.</text>
+        </para>
+        <para>
+          <text>The key risk from this initiative is increased deductions arising from otherwise non-deductible capital expenditure. However, the reduction in compliances costs is expected to outweigh this concern.</text>
+        </para>
+        <explnote.subhead1>Increase the PAYE once a month filing and payment threshold from $100,000 to $500,000 (to apply from 1 April 2009)</explnote.subhead1>
+        <para>
+          <text>Currently, where prior year total PAYE deducted for all employees was $100,000 or more, the employer must pay it to Inland Revenue twice a month. Where total PAYE deducted is less than $100,000, the employer must account for PAYE once a month. This threshold could be increased to $500,000, exempting more businesses from the requirement to account for and pay PAYE twice a month, increasing the number of businesses who would benefit from the increased cash flows as a result of this change.</text>
+        </para>
+        <para>
+          <text>Raising the threshold to $500,000 would allow approximately 98% of all employers to file and pay once a month. Employers that are above the current threshold but below the new threshold could still pay twice a month if that better suited their business systems.</text>
+        </para>
+        <explnote.subhead1>Increase the FBT annual filing threshold from $100,000 to $500,000 (to apply from 1 April 2009)</explnote.subhead1>
+        <para>
+          <text>Currently, where prior year total PAYE deducted for all employees was $100,000 or more, an employer providing fringe benefits to employees must account and pay for FBT to Inland Revenue quarterly. Where total PAYE deducted is less than $100,000, the employer can pay and file annually instead. Raising the current threshold to $500,000 would mean that even fewer FBT returns and payments would need to be filed by small businesses, thereby easing cash flows and reducing compliance costs for eligible employers.</text>
+        </para>
+        <para>
+          <text>Raising the threshold to $500,000 would allow approximately 98% of all employers to file FBT returns annually.</text>
+        </para>
+        <explnote.subhead1>Increase in the thresholds under which FBT is not required to be accounted for in respect of minor benefits provided to employees (to apply from 1 April 2009)</explnote.subhead1>
+        <para>
+          <text>Where the value of unclassified benefits (e.g. flowers, food, drink etc) provided to an employee is below certain thresholds, FBT will not apply. Increasing these thresholds would mean that less employers would be required to return FBT in respect of unclassified benefits provided to employees. If this was the only benefit that was given to employees, no FBT would be payable, thereby reducing compliance costs and easing cash flows for affected employers. It is proposed that these thresholds be increased by 50%, to $300 per quarter per employee (or $1,200 if the employer accounts for FBT annually) and $22,500 per annum per employer.</text>
+        </para>
+        <explnote.subhead1>Introduce a reduction in the provisional tax uplift rate (to apply from 1 April 2009 to provisional tax payments in respect of the 2008–09 and 2009–10 income year payable after this date)</explnote.subhead1>
+        <para>
+          <text>The current provisional tax uplift rate is 105% of last year’s residual income tax or 110% of the year before that if last year’s return is not filed. This threshold could be reduced to 100% and 105% (or 90% and 95% for transitional provisional taxpayers) reducing the magnitude of a taxpayer’s provisional tax payments (providing taxpayers with greater cash flow).  The key risk with this measure is the fiscal impact to the Government. Analysis indicates that this risk is manageable.</text>
+        </para>
+        <explnote.ird-crosshead>Fiscal implications</explnote.ird-crosshead>
+        <para>
+          <text>The fiscal implications of the proposed package over the forecast period is a revenue loss of $484 million, broken down between:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Initial year revenue cost in 2008–09 of ($60m):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Revenue cost in 2009–10 of ($422m):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Revenue <emphasis style="bold">gain</emphasis> in 2010–11 of $214m:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Revenue cost in 2011–12 of ($108m):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Revenue cost in 2012–13 and outyears of ($108m).</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The measures also result in the deferral of cash receipts resulting in an increase to government debt levels. This has flow-on effects for financial costs. To ensure consistency with the way in which fiscal implications are reported, revenue costings are provided on a standard accrual basis. Ongoing financial costs are therefore not included.</text>
+        </para>
+        <explnote.ird-crosshead>Compliance cost implications</explnote.ird-crosshead>
+        <para>
+          <text>Many of the measures deal with the variety of monetary thresholds used in defining certain tax obligations faced by taxpayers. Generally, these thresholds set limits for the application of specific tax rules, with the aim of reducing the cash flow impact of taxes and reducing tax compliance costs for taxpayers. Given that most of the initiatives are threshold-related, there will be minimal costs for taxpayers in understanding and acting on the changes.</text>
+        </para>
+        <para>
+          <text>Reducing the complexity of the tax rules means that taxpayers are less likely to require expert assistance, and are less likely to make errors. As well as reducing tangible costs, such as hours spent and expenditure on accounting fees, reducing the complexity of the tax rules can reduce the stress associated with completing tax requirements.</text>
+        </para>
+        <explnote.ird-crosshead>Administrative cost implications</explnote.ird-crosshead>
+        <para>
+          <text>Due to the threshold-nature of these measures, administration costs are generally expected to be minimal due to the relatively simple mechanical changes required to implement them. However, with regard to the proposal to reduce provisional tax payable under the ‘uplift’ basis, addition one-off costs of $0.5 million are estimated.</text>
+        </para>
+        <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
+        <para>
+          <text>The views of the public were previously sought on the substance of a majority of the threshold measures set out in this paper as part of the consultation process undertaken for the discussion document <emphasis style="italic">Reducing tax compliance costs for small and medium-sized enterprises</emphasis>. Of those initiatives that have been in the public domain, the feedback received so far has been positive. Reducing the provisional tax uplift has not been formally consulted on. However, due to the difficult circumstances currently faced by businesses and the need to act quickly to provide relief, the Government considers that it is crucial to enact all of these changes as soon as possible. This will necessitate swift action through legislation. Consequently, this has left insufficient time for a full and complete consultation process on all of the items proposed in the tax package.</text>
+        </para>
+      </explnote.ris>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from a select committee</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM1826002">
     <member>Hon Peter Dunne</member>
     <title>Taxation (Business Tax Measures) Bill</title>
@@ -280,7 +650,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM1826007" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="11" bill.type="government" stage="2" year="2009">
+    <part id="DLM1826007" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="11" bill.type="government" stage="1" year="2009">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Business tax measures</heading>
       <crosshead id="DLM1826008" toc="yes">Amendments to Income Tax Act 2007</crosshead>
@@ -506,7 +876,7 @@
                   <ird.aids id="DLM1825909">
                     <readers-notes quote="1">
                       <para quote="1">
-                        <text>Defined in this Act: cash basis person, financial arrangement, income year</text>
+                        <text>Defined in this Act: cash-basis person, financial arrangement, income year</text>
                       </para>
                     </readers-notes>
                   </ird.aids>
@@ -693,7 +1063,7 @@
                   <ird.aids id="DLM1825915">
                     <readers-notes quote="1">
                       <para quote="1">
-                        <text>Defined in this Act: associated person, cash basis person, Commissioner, financial arrangement, income, income tax liability</text>
+                        <text>Defined in this Act: associated person, cash-basis person, Commissioner, financial arrangement, income, income tax liability</text>
                       </para>
                     </readers-notes>
                   </ird.aids>
@@ -723,7 +1093,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>In section EW 60(4), <amend.in quote="1">to EW 56</amend.in> <struckoutwords amend.level1="struckout-unanimous">are </struckoutwords><insertwords amend.level1="insert-unanimous">is</insertwords> replaced by <amend.in quote="1">and EW 55</amend.in>.</text>
+              <text>In section EW 60(4), <amend.in quote="1">to EW 56</amend.in> are replaced by <amend.in quote="1">and EW 55</amend.in>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -738,34 +1108,10 @@
         <label auto.number="no" denominator="yes">15</label>
         <heading>PAYE income payment forms for amounts of tax paid to Commissioner</heading>
         <prov.body>
-          <subprov amend.level1="struckout-unanimous" skeleton="no">
-            <label amend.level1="struckout-unanimous" auto.number="no" denominator="no"/>
-            <para amend.level1="struckout-unanimous">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
               <text>In section RD 22(3) and (4), <amend.in quote="1">$100,000</amend.in> is replaced by <amend.in quote="1">$500,000</amend.in> in all places where it appears.</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="no"/>
-            <para amend.level1="insert-unanimous">
-              <text>In section RD 22,––</text>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="insert-unanimous">
-                  <text>in the heading to section RD 22(3), <amend.in quote="1"><emphasis style="italic">$100,000</emphasis></amend.in> is replaced by <amend.in quote="1"><emphasis style="italic">$500,000</emphasis></amend.in>:</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">b</label>
-                <para amend.level1="insert-unanimous">
-                  <text>in subsection (3), <amend.in quote="1">$100,000</amend.in> is replaced by <amend.in quote="1">$500,000</amend.in>:</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">c</label>
-                <para amend.level1="insert-unanimous">
-                  <text>in subsection (4), <amend.in quote="1">$100,000</amend.in> is replaced by <amend.in quote="1">$500,000</amend.in>.</text>
-                </para>
-              </label-para>
             </para>
           </subprov>
         </prov.body>
@@ -859,7 +1205,7 @@
         <heading>Close company option</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
+            <label auto.number="no" denominator="no"/>
             <para>
               <text>Section RD 60(1), other than the heading, is replaced by the following:</text>
               <amend quote="1">
@@ -902,12 +1248,6 @@
               </amend>
             </para>
           </subprov>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-unanimous">
-              <text>In section RD 60(2)(b), <amend.in quote="1">subsection (1)(b)</amend.in> is replaced by <amend.in quote="1">subsection (1)(c)</amend.in>.</text>
-            </para>
-          </subprov>
         </prov.body>
       </prov>
       <prov id="DLM1825919" irdnumbering="no" skeleton="no" toc="yes">
@@ -927,7 +1267,7 @@
         <heading>Section RZ 3 replaced</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="no"/>
+            <label auto.number="yes" denominator="yes"/>
             <para>
               <text>Section RZ 3 is replaced by the following:</text>
               <amend quote="1">
@@ -939,28 +1279,28 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>This section applies to the calculation of a person's provisional tax liability for <struckoutwords amend.level1="struckout-unanimous">the 2008–09 and 2009–10 income years, for instalments payable on or after 1 April 2009 </struckoutwords><insertwords amend.level1="insert-unanimous">any instalments payable on or after 1 April 2009 for the 2008–09 income year, and for all instalments for the 2009–10 income year</insertwords>, when section RC 5 (Methods for calculating provisional tax liability) applies.</text>
+                        <text>This section applies to the calculation of a person's provisional tax liability for the 2008–09 and 2009–10 income years, for instalments payable on or after 1 April 2009, when section RC 5 (Methods for calculating provisional tax liability) applies.</text>
                       </para>
                     </subprov>
                     <subprov.crosshead quote="1">Standard method modified: for 5% uplift</subprov.crosshead>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text><struckoutwords amend.level1="struckout-unanimous">In the application of t</struckoutwords><insertwords amend.level1="insert-unanimous">T</insertwords>he standard method under section RC 5(2) <insertwords amend.level1="insert-unanimous">is modified so that</insertwords>,––</text>
+                        <text>In the application of the standard method under section RC 5(2),––</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text><struckoutwords amend.level1="struckout-unanimous">the amount of provisional tax payable </struckoutwords>for the 2008–09 income year, <struckoutwords amend.level1="struckout-unanimous">is </struckoutwords><insertwords amend.level1="insert-unanimous">instead of using 105%, the amount of provisional tax payable is calculated using</insertwords>––</text>
+                            <text>the amount of provisional tax payable for the 2008–09 income year is––</text>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
-                                <text><struckoutwords amend.level1="struckout-unanimous">equal to </struckoutwords>100%<struckoutwords amend.level1="struckout-unanimous"> of the residual income tax for the preceding tax year</struckoutwords>, if the person is not a new tax rate person; or</text>
+                                <text>equal to 100% of the residual income tax for the preceding tax year, if the person is not a new tax rate person; or</text>
                               </para>
                             </label-para>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">ii</label>
                               <para>
-                                <text><struckoutwords amend.level1="struckout-unanimous">equal to </struckoutwords>90%<struckoutwords amend.level1="struckout-unanimous"> of the residual income tax for the preceding tax year</struckoutwords>, if the person is a new tax rate person:</text>
+                                <text>equal to 90% of the residual income tax for the preceding tax year, if the person is a new tax rate person:</text>
                               </para>
                             </label-para>
                           </para>
@@ -968,7 +1308,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text><struckoutwords amend.level1="struckout-unanimous">the amount of provisional tax payable </struckoutwords>for the 2009–10 income year, <struckoutwords amend.level1="struckout-unanimous">is </struckoutwords><insertwords amend.level1="insert-unanimous">instead of using 105%, the amount of provisional tax payable is calculated using</insertwords><struckoutwords amend.level1="struckout-unanimous"> equal to</struckoutwords> 100%<struckoutwords amend.level1="struckout-unanimous"> of the residual income tax for the preceding tax year, if the person is not a new tax rate person</struckoutwords>.</text>
+                            <text>the amount of provisional tax payable for the 2009–10 income year is equal to 100% of the residual income tax for the preceding tax year, if the person is not a new tax rate person.</text>
                           </para>
                         </label-para>
                       </para>
@@ -977,17 +1317,17 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text><struckoutwords amend.level1="struckout-unanimous">In the application of t</struckoutwords><insertwords amend.level1="insert-unanimous">T</insertwords>he standard method under section RC 5(3) <insertwords amend.level1="insert-unanimous">is modified so that</insertwords>, <struckoutwords amend.level1="struckout-unanimous">the amount of provisional tax payable </struckoutwords>for the 2008–09 income year and the 2009–10 income year, <struckoutwords amend.level1="struckout-unanimous"> is </struckoutwords><insertwords amend.level1="insert-unanimous">instead of using 110%, the amount of provisional tax payable is calculated using</insertwords>––</text>
+                        <text>In the application of the standard method under section RC 5(3), the amount of provisional tax payable for the 2008–09 income year and the 2009–10 income year is––</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text><struckoutwords amend.level1="struckout-unanimous">equal to </struckoutwords>105%<struckoutwords amend.level1="struckout-unanimous"> of the residual income tax for the tax year before the preceding tax year</struckoutwords>, if the person is not a new tax rate person; or</text>
+                            <text>equal to 105% of the residual income tax for the tax year before the preceding tax year, if the person is not a new tax rate person; or</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text><struckoutwords amend.level1="struckout-unanimous">equal to </struckoutwords>95%<struckoutwords amend.level1="struckout-unanimous"> of the residual income tax for the tax year before the preceding tax year</struckoutwords>, if the person is a new tax rate person.</text>
+                            <text>equal to 95% of the residual income tax for the tax year before the preceding tax year, if the person is a new tax rate person.</text>
                           </para>
                         </label-para>
                       </para>
@@ -996,7 +1336,7 @@
                   <ird.aids id="DLM1826019">
                     <readers-notes quote="1">
                       <para quote="1">
-                        <text>Defined in this Act: amount, income year, new tax rate person, pay, provisional tax, residual income tax<struckoutwords amend.level1="struckout-unanimous">, tax year</struckoutwords></text>
+                        <text>Defined in this Act: amount, income year, new tax rate person, pay, provisional tax, residual income tax, tax year</text>
                       </para>
                     </readers-notes>
                   </ird.aids>
@@ -1024,28 +1364,28 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>This section applies to the calculation of a person's provisional tax liability for <struckoutwords amend.level1="struckout-unanimous">the 2008–09 and 2009–10 income years, for instalments payable on or after 1 April 2009 </struckoutwords><insertwords amend.level1="insert-unanimous">any instalments payable on or after 1 April 2009 for the 2008–09 income year, and for all instalments for the 2009–10 income year</insertwords>, when section RC 10 (<struckoutwords amend.level1="struckout-unanimous">Methods for c </struckoutwords><insertwords amend.level1="insert-unanimous">C</insertwords>alculating amount of instalment under standard and estimation methods) applies.</text>
+                        <text>This section applies to the calculation of a person's provisional tax liability for the 2008–09 and 2009–10 income years, for instalments payable on or after 1 April 2009, when section RC 10 (Methods for calculating amount of instalment under standard and estimation methods) applies.</text>
                       </para>
                     </subprov>
                     <subprov.crosshead quote="1">Calculation modified: 2008–09 income year</subprov.crosshead>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>In the calculation of the amount of an instalment <struckoutwords amend.level1="struckout-unanimous">under section RC 10(2) </struckoutwords>for the 2008–09 income year, <insertwords amend.level1="insert-unanimous">in section RC 10(3)(a)</insertwords>,––</text>
+                        <text>In the calculation of the amount of an instalment under section RC 10(2) for the 2008–09 income year,––</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text><struckoutwords amend.level1="struckout-unanimous">the item <emphasis style="bold">residual income tax</emphasis> in the formula, </struckoutwords>subparagraph (i) is <insertwords amend.level1="insert-unanimous">modified so that instead of a 5% uplift</insertwords>,––</text>
+                            <text>the item <emphasis style="bold">residual income tax</emphasis> in the formula, subparagraph (i), is,––</text>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
-                                <text><insertwords amend.level1="insert-unanimous">no uplift is applied</insertwords><struckoutwords amend.level1="struckout-unanimous"> for the preceding tax year, the amount of residual income tax without any uplift</struckoutwords>, if the person is not a new tax rate person; or</text>
+                                <text>for the preceding tax year, the amount of residual income tax without any uplift, if the person is not a new tax rate person; or</text>
                               </para>
                             </label-para>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">ii</label>
                               <para>
-                                <text><insertwords amend.level1="insert-unanimous">a 10% reduction is applied</insertwords><struckoutwords amend.level1="struckout-unanimous"> for the preceding tax year, the amount of residual income tax reduced by 10%</struckoutwords>, if the person is a new tax rate person:</text>
+                                <text>for the preceding tax year, the amount of residual income tax reduced by 10%, if the person is a new tax rate person:</text>
                               </para>
                             </label-para>
                           </para>
@@ -1053,17 +1393,17 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text><struckoutwords amend.level1="struckout-unanimous">the item <emphasis style="bold">residual income tax</emphasis> in the formula, </struckoutwords>subparagraph (ii) is <insertwords amend.level1="insert-unanimous">modified so that instead of a 10% uplift</insertwords>,––</text>
+                            <text>the item <emphasis style="bold">residual income tax</emphasis> in the formula, subparagraph (ii), is,––</text>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
-                                <text><insertwords amend.level1="insert-unanimous">a 5% uplift is applied</insertwords><struckoutwords amend.level1="struckout-unanimous"> for the tax year before the preceding tax year, the amount of residual income tax uplifted by 5%</struckoutwords>, if the person is not a new tax rate person; or</text>
+                                <text>for the tax year before the preceding tax year, the amount of residual income tax uplifted by 5%, if the person is not a new tax rate person; or</text>
                               </para>
                             </label-para>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">ii</label>
                               <para>
-                                <text><insertwords amend.level1="insert-unanimous">a 5% reduction is applied</insertwords><struckoutwords amend.level1="struckout-unanimous"> for the tax year before the preceding tax year, the amount of residual income tax reduced by 5%</struckoutwords>, if the person is a new tax rate person.</text>
+                                <text>for the tax year before the preceding tax year, the amount of residual income tax reduced by 5%, if the person is a new tax rate person.</text>
                               </para>
                             </label-para>
                           </para>
@@ -1074,27 +1414,27 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>In the calculation of the amount of an instalment <struckoutwords amend.level1="struckout-unanimous">under section RC 10(2) </struckoutwords>for the 2009–10 income year, <insertwords amend.level1="insert-unanimous">in section RC 10(3)(a)</insertwords>,––</text>
+                        <text>In the calculation of the amount of an instalment under section RC 10(2) for the 2009–10 income year,––</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text><struckoutwords amend.level1="struckout-unanimous">the item <emphasis style="bold">residual income tax</emphasis> in the formula, </struckoutwords>subparagraph (i) is <insertwords amend.level1="insert-unanimous">modified so that instead of a 5% uplift, no uplift is applied</insertwords><struckoutwords amend.level1="struckout-unanimous"> for the preceeding tax year, the amount of residual income tax without any uplift, if the person is not a new tax rate person</struckoutwords>:</text>
+                            <text>the item <emphasis style="bold">residual income tax</emphasis> in the formula, subparagraph (i), is, for the preceeding tax year, the amount of residual income tax without any uplift, if the person is not a new tax rate person:</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text><struckoutwords amend.level1="struckout-unanimous">the item <emphasis style="bold">residual income tax</emphasis> in the formula, </struckoutwords>subparagraph (ii) is <insertwords amend.level1="insert-unanimous">modified so that instead of a 10% uplift</insertwords>,––</text>
+                            <text>the item <emphasis style="bold">residual income tax</emphasis> in the formula, subparagraph (ii), is––</text>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
-                                <text><insertwords amend.level1="insert-unanimous">a 5% uplift is applied</insertwords><struckoutwords amend.level1="struckout-unanimous"> for the tax year before the preceding tax year, the amount of residual income tax uplifted by 5%</struckoutwords>, if the person is not a new tax rate person; or</text>
+                                <text>for the tax year before the preceding tax year, the amount of residual income tax uplifted by 5%, if the person is not a new tax rate person; or</text>
                               </para>
                             </label-para>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">ii</label>
                               <para>
-                                <text><insertwords amend.level1="insert-unanimous">a 5% reduction is applied</insertwords><struckoutwords amend.level1="struckout-unanimous"> for the tax year before the preceding tax year, the amount of residual income tax reduced by 5%</struckoutwords>, if the person is a new tax rate person.</text>
+                                <text>for the tax year before the preceding tax year, the amount of residual income tax reduced by 5%, if the person is a new tax rate person.</text>
                               </para>
                             </label-para>
                           </para>
@@ -1105,7 +1445,7 @@
                   <ird.aids id="DLM1826022">
                     <readers-notes quote="1">
                       <para quote="1">
-                        <text>Defined in this Act: amount, income year, new tax rate person, pay, provisional tax, residual income tax<struckoutwords amend.level1="struckout-unanimous">, tax year</struckoutwords></text>
+                        <text>Defined in this Act: amount, income year, new tax rate person, pay, provisional tax, residual income tax, tax year</text>
                       </para>
                     </readers-notes>
                   </ird.aids>
@@ -1121,23 +1461,17 @@
         <heading>Definitions</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
+            <label auto.number="yes" denominator="yes"/>
             <para>
               <text>In section YA 1, after the definition of <def-term id="DLM1826024">legal defeasance</def-term>, the following is inserted:</text>
               <amend increment="1" quote="1">
                 <def-para id="DLM1826025" quote="1">
                   <para quote="1">
-                    <text><def-term id="DLM1826026">legal expenses</def-term> is defined in <changeable><citation jurisdiction="nz">section DB 62</citation></changeable> (Deduction for legal expenses) for the purposes of that section</text>
+                    <text><def-term id="DLM1826026">legal expenses</def-term> is defined in section DB 62 (Deduction for legal expenses) for the purposes of that section</text>
                   </para>
                 </def-para>
               </amend>
               <follow-text space-before="no">.</follow-text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="insert-unanimous">
-              <text>In section YA 1, in paragraph (b)(ii) of the definition of <def-term id="DLM1877601">initial provisional tax liability</def-term>, <amend.in quote="1">$35,000</amend.in> is replaced by <amend.in quote="1">$50,000</amend.in>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -1211,7 +1545,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM1826031" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="11" bill.type="government" stage="2" year="2009">
+    <part id="DLM1826031" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="11" bill.type="government" stage="1" year="2009">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Minor remedial matters</heading>
       <crosshead id="DLM1826032" toc="yes">Amendments to Income Tax Act 2007</crosshead>
@@ -1332,18 +1666,5 @@
       </prov>
     </part>
   </body>
-  <end id="DLM1877602">
-    <leg-history id="DLM1877603">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2009-02-10</date>
-        <description>Introduction (Bill 11–1)</description>
-      </history-item>
-      <history-item>
-        <date>2009-02-10</date>
-        <description>First reading and referral to Finance and Expenditure Committee</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
 <!--End of file, do NOT remove.-->
