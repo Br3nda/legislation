@@ -1,38 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2461000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="87">
+<sop id="DLM2547600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="92">
   <date>Tuesday, 17 November 2009</date>
-  <billref>Corrections (Contract Management of Prisons) Amendment Bill</billref>
-  <body id="DLM2461001">
-    <heading>Proposed amendment</heading>
-    <motion>Hon Rick Barker, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM2461002">
-      <clause.ref>Clause 5:</clause.ref>
+  <billref>Climate Change Response (Moderated Emissions Trading) Amendment Bill</billref>
+  <body id="DLM2547601">
+    <heading>Proposed amendments</heading>
+    <motion>Dr Kennedy Graham, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2547602">
+      <clause.ref>Clause 38: new section 160(5)(j)</clause.ref>
       <sop.para>
-        <text>To amend section 199 by adding the following new subsections (after line 33 on page 5):</text>
-        <instrument.amend close.quote="no" open.quote="yes" quote="1">
-          <subprov quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">4</label>
-            <para>
-              <text>This Act authorises the Ombudsman to have complete and unrestricted access to any contracted prison, prisoner, prison records and prison staff to carry out the duties and responsibilities of the Ombudsman’s Office in a similar manner as if the contracted prison were a prison run by the Department of Corrections.</text>
-            </para>
-          </subprov>
-          <subprov quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">5</label>
-            <para>
-              <text>The access granted to the Ombudsman in <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable> does not extend the Ombudsman’s authority into the commercial aspects of the contracted prison that are beyond the normal domain of a prison run directly by the Department of Corrections.</text>
-            </para>
-          </subprov>
+        <text>To omit <amend.in quote="1">industry and agriculture under section 82 or 86</amend.in> (lines 35-36, page 55) and substitute <amend.in quote="1">individual industries, sectors or activities</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To omit <amend.in>and</amend.in> from subparagraph (v) and insert the following subparagraphs:</text>
+        <instrument.amend close.quote="no" increment="2" open.quote="no">
+          <amend>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes" increment="2">vi</label>
+              <para>
+                <text>the absolute numbers of New Zealand units that are allocated for free:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes" increment="2">vii</label>
+              <para>
+                <text>the determination of the appropriateness of the allocative baseline:</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes" increment="2">viii</label>
+              <para>
+                <text>the basis for the allocation to industry, sector or activity; and</text>
+              </para>
+            </label-para>
+          </amend>
+          <follow-text space-before="no">.</follow-text>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2461003" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="87">
+  <explnote id="DLM2547603" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="92">
     <heading>Explanatory note</heading>
     <para>
-      <text>New subsection (4) inserts a provision to allow the Office of the Ombudsman the same direct access to information held by a privately managed prison as it currently has to information held by a prison managed by the Department of Corrections. This is to ensure that privately-managed prisons are subject to the same level of accountability and transparency as prisons that are managed by the Department of Corrections.</text>
+      <text>The purpose of this Supplementary Order Paper is to amend the Climate Change Response (Moderated Emissions Trading) Amendment Bill as reported by the Finance and Expenditure Committee to improve transparency and effectiveness. The scope of the Review Panel in the current bill is too narrow.</text>
     </para>
     <para>
-      <text>New subsection (5) protects the commercial rights of the private management company by restricting the Office of the Ombudsman to just those aspects of a contract prison that are within the normal domain of a prison run by the Department of Corrections.</text>
+      <text>The changes require the Review Panel to undertake a comprehensive assessment of the allocation <emphasis style="italic">on a per sector basis</emphasis> to assess its effectiveness in meeting the objectives of the Act.</text>
     </para>
   </explnote>
 </sop>
