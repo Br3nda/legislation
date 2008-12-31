@@ -1,39 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2351400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0003" stage="published" year="2009" raised.by="Members" sop.no="54">
-  <date>Tuesday, 15 September 2009</date>
-  <billref>Local Government (Auckland Council) Bill</billref>
-  <body id="DLM2351401">
-    <heading>Proposed amendment</heading>
-    <motion>Sue Bradford, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM2351402">
-      <clause.ref>Clause 23A</clause.ref>
+<sop id="DLM1921600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="13">
+  <date>Tuesday, 24 March 2009</date>
+  <billref>Minimum Wage and Remuneration Amendment Bill </billref>
+  <body id="DLM1921601">
+    <heading>Proposed amendments</heading>
+    <motion>Darien Fenton, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1921602">
+      <clause.ref>New Part 3</clause.ref>
       <sop.para>
-        <text>To omit from section 14(3) <amend.in>First Past the Post</amend.in> (page 33, lines 17 and 18) and substitute <amend.in>Single Transferable Voting</amend.in>.</text>
+        <text>To insert the following new Part after Part 2 (<emphasis style="italic">after line 3 on page 4</emphasis>):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <part id="DLM1921603" in.amend="false" irdnumbering="no" raised.by="Government" sop.no="13" toc="yes" year="2009">
+            <label auto.number="no" denominator="yes">3</label>
+            <heading>Political commitment to Minimum Wage</heading>
+            <prov id="DLM1921604" irdnumbering="no" skeleton="no" toc="yes">
+              <label auto.number="no" denominator="no">12</label>
+              <heading>New Sections 15 and 16 inserted</heading>
+              <prov.body>
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes"/>
+                  <para>
+                    <text>The following sections are inserted after section 14:</text>
+                    <amend quote="1">
+                      <prov id="DLM1921605" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                        <label auto.number="no" denominator="yes" quote="1">15</label>
+                        <heading> Political commitment to Minimum Wage</heading>
+                        <prov.body>
+                          <subprov quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">1</label>
+                            <para>
+                              <text>A leader of a political party represented in Parliament may notify the Minister, in writing,—</text>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">a</label>
+                                <para>
+                                  <text>of the party’s agreement with this Act; or</text>
+                                </para>
+                              </label-para>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">b</label>
+                                <para>
+                                  <text>of the withdrawal of that party’s agreement with this Act.</text>
+                                </para>
+                              </label-para>
+                            </para>
+                          </subprov>
+                          <subprov quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">2</label>
+                            <para>
+                              <text>The Minister must, as soon as practicable after receiving a notification, make a recommendation to the Governor-General for an Order in Council to add or omit the name of the party to or from the relevant part or parts of <changeable><citation jurisdiction="nz">Schedule 3</citation></changeable>, as the case may be.</text>
+                            </para>
+                          </subprov>
+                          <subprov quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">3</label>
+                            <para>
+                              <text>The Minister must also make a recommendation to the Governor-General for an Order in Council to omit the name of a political party from <changeable><citation jurisdiction="nz">Schedule 3 </citation></changeable> if the party is no longer represented in Parliament.</text>
+                            </para>
+                          </subprov>
+                          <subprov quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">4</label>
+                            <para>
+                              <text>The Governor-General may, by Order in Council made on the recommendation of the Minister under <changeable><citation jurisdiction="nz">subsection (2) or subsection (3)</citation></changeable>, add names to, and omit names from, <changeable><citation jurisdiction="nz">Schedule 3</citation></changeable> in accordance with this section.</text>
+                            </para>
+                          </subprov>
+                        </prov.body>
+                      </prov>
+                      <prov id="DLM1921606" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                        <label auto.number="no" denominator="yes" quote="1">16</label>
+                        <heading>Amendment to Act</heading>
+                        <prov.body>
+                          <subprov quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">1</label>
+                            <para>
+                              <text>The Minister must, on the introduction into the House of Representatives of a Government bill that proposes an amendment to this Act, bring to the attention of the House the consultation process that was followed in the formulation of the proposed amendment.</text>
+                            </para>
+                          </subprov>
+                          <subprov quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">2</label>
+                            <para>
+                              <text>That statement must include (without limitation)—</text>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">a</label>
+                                <para>
+                                  <text>whether consultation has taken place with the parties that are in agreement with the Act (as listed in <changeable><citation jurisdiction="nz">Schedule 3</citation></changeable>):</text>
+                                </para>
+                              </label-para>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">b</label>
+                                <para>
+                                  <text>the results of the consultation.</text>
+                                </para>
+                              </label-para>
+                            </para>
+                          </subprov>
+                        </prov.body>
+                      </prov>
+                    </amend>
+                  </para>
+                </subprov>
+              </prov.body>
+            </prov>
+          </part>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1921607">
+      <clause.ref>New Schedule </clause.ref>
+      <sop.para>
+        <text>To insert the following <emphasis style="italic">new Schedule</emphasis>: </text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <schedule id="DLM1921608" in.amend="false" irdnumbering="no" prov-type="clause" raised.by="Government" schedule.heading.continue="no" sop.no="13" toc="yes" type="schedule" year="2009">
+            <label auto.number="no" denominator="yes"/>
+            <empowering-prov/>
+            <heading>New Schedule 3 added to principal Act</heading>
+            <schedule.misc>
+              <para>
+                <amend quote="1">
+                  <schedule id="DLM1921609" in.amend="true" irdnumbering="no" prov-type="clause" quote="1" raised.by="Government" schedule.heading.continue="no" sop.no="13" toc="yes" type="schedule" year="2009">
+                    <label auto.number="no" denominator="yes">3</label>
+                    <empowering-prov>
+                      <changeable>
+                        <citation jurisdiction="nz">ss 15, 16</citation>
+                      </changeable>
+                    </empowering-prov>
+                    <heading>Political parties in agreement with Act </heading>
+                  </schedule>
+                </amend>
+              </para>
+              <para>
+                <text>Political parties that are in agreement with the Act:</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>[NAME]</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>[NAME]</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+            </schedule.misc>
+          </schedule>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2351403" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2009" raised.by="Members" sop.no="54">
+  <explnote id="DLM1921610" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="13">
     <heading>Explanatory note</heading>
     <para>
-      <text> The purpose of this Supplementary Order Paper is to amend the Local Government (Auckland Council) Bill as reported by the Auckland Governance Legislation Committee to provide that for the purposes of the October 2010 triennial general elections, the elections for the Auckland Council will be held under the voting system known as Single Transferable Voting (STV).</text>
+      <text>This Supplementary Order Paper amends the Minimum Wage and Remuneration Amendment Bill to provide for a Schedule listing which political parties represented in Parliament support the Act. The provisions follow those in sections 72 and 73 of the New Zealand Superannuation and Retirement Income Act 2001.</text>
     </para>
     <para>
-      <text>The report of the Auckland Governance Legislation Committee acknowledged that the STV voting system was more popular among submitters than the alternative First Past the Post (FPP) voting system provided under the Local Electoral Act 2001 that the majority report from the Committee recommended.</text>
-    </para>
-    <para>
-      <text>STV ensures that elected candidates, while not necessarily being the preferred candidate of a majority of voters, at least have majority support among voters. FPP, by contrast, can result in a candidate being elected with just over 20% of voters and less than 10% of registered electors declaring their active support, as happened with the Rodney District mayoral election in 2007.</text>
-    </para>
-    <para>
-      <text>STV, especially in local boards and multi-councillor wards, will help to encourage greater diversity among elected representatives and ensure that a greater proportion of electors feel they have elected representatives who represent their views and aspirations for their communities.</text>
-    </para>
-    <para>
-      <text>This is of particular importance in encouraging Māori representation if the majority view of the Committee that there be no reserved Māori seats on the Auckland Council is enacted, and will also assist in maximizing representation of others who traditionally find it hard to win elections under an FPP system.</text>
-    </para>
-    <para>
-      <text>While STV is slightly more complex than FPP, in that voters have to rank candidates, there is no evidence that it has discouraged voter participation in areas – e.g. Wellington - where it is used for local authority elections. Voters have gained some familiarity with STV since it has been implemented for District Health Board elections. The high interest among potential electors in the process that has led to the creation of the Auckland Council and the novel nature of the Auckland Council is likely to mitigate against any possible discouragement to participation caused by the introduction of STV for the 2010 Auckland Council election.</text>
-    </para>
-    <para>
-      <text>In the longer term, STV may actually increase voter participation if a greater number of voters perceive it as providing more legitimacy to local government and representatives who represent their interests and aspirations.</text>
+      <text>The amendments also require the Minister, on introduction into the House of Representatives of a Government bill that proposes an amendment to the Minimum Wage and Remuneration Act, to bring to the attention of the House the consultation process that was followed in formulation of the proposed amendment.</text>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
