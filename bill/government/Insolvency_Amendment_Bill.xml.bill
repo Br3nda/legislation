@@ -1,495 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM1832117" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="19" bill.type="government" stage="1" year="2009">
+<bill id="DLM1832117" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="19" bill.type="government" stage="2" year="2009">
   <billdetail>
     <title>Insolvency Amendment Bill</title>
     <billtype>Government Bill</billtype>
-    <explnote id="DLM1832118" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="19" bill.type="government" stage="1" year="2009">
-      <heading>Explanatory note</heading>
-      <explnote.group>
-        <heading>General policy statement</heading>
+    <repnote>As reported from the Commerce Committee</repnote>
+    <commentary id="DLM2098100" in.amend="false" irdnumbering="no" official="yes" bill.no="19" bill.type="government" stage="2" year="2009">
+      <heading>Commentary</heading>
+      <comm.lev1>
+        <heading>Recommendation</heading>
         <para>
-          <text>This Bill amends the Insolvency Act 2006 to address a small number of issues that have arisen since enactment.  </text>
+          <text>The Commerce Committee has examined the Insolvency Amendment Bill and recommends that it be passed with the amendments shown.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Introduction</heading>
+        <para>
+          <text>The Insolvency Amendment Bill amends the Insolvency Act 2006 in response to issues that have arisen since it was enacted. The bill addresses four areas: fraudulent debts, the discharge period under the no asset procedure, insolvent gifts, and personal insolvency public registers.</text>
         </para>
         <para>
-          <text>The Bill preserves the integrity of the new “no asset procedure” by preventing discharge of fraudulent debts, and of bankruptcy by restoring the Official Assignee’s ability to recover gifts made by a person prior to bankruptcy.  </text>
+          <text>This commentary covers the main amendments we recommend to the bill, which are all in the nature of clarification. It does not cover technical amendments.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Criteria for entry to no asset procedure</heading>
+        <para>
+          <text>We recommend inserting new clause 6A to clarify that insolvent gifts would be realisable assets for the purposes of entry into the no asset procedure, so the existence of such a gift would disqualify a person from entry to the procedure. This change would ensure that a debtor could not conceal assets from creditors by gifting them to another person, by aligning the definition of “realisable asset” with the current practice of the official assignee, to put the matter beyond doubt.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Discharge from no asset procedure</heading>
+        <para>
+          <text>The committee noted that under existing law, if a debtor is found to have committed an offence under bankruptcy, such as obtaining credit by a false representation, the official assignee will terminate the no asset procedure. The bill is intended to ensure that fraudulent debts the debtor manages to conceal are not written off on discharge from the no asset procedure. We recommend amending clause 8, by inserting new section 377A(3), to clarify that fraudulent debts become enforceable again once a debtor is discharged from the no asset procedure, and that the debtor is liable to pay interest and penalties accrued during the procedure. As the bill was originally drafted, it was open to interpretation that fraudulent debts could remain unenforceable once a debtor was discharged.</text>
         </para>
         <para>
-          <text>The Bill amends the public register provisions to better enable creditors to make informed lending decisions, by ensuring a public record of people who have been discharged from the no asset procedure is available for an appropriate period, and providing for permanent public records where a person has had multiple insolvency events. </text>
+          <text>As a related clarification, we recommend the insertion of new clause 6B amending section 375 to confirm that accrued penalties and interest would be payable following early termination of participation in the no asset procedure.</text>
         </para>
-      </explnote.group>
-      <explnote.group>
-        <heading>Clause by clause analysis</heading>
-        <clause.desc>
+        <comm.lev2>
+          <heading>Retrospective application of the fraudulent debt provisions</heading>
           <para>
-            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
-          </para>
-        </clause.desc>
-        <clause.desc>
-          <para>
-            <text><emphasis style="italic">Clause 2</emphasis> provides that most of the Act comes into force on the day after the date on which it receives the Royal assent. However, <emphasis style="italic">clause 8</emphasis>, which relates to fraudulent debts, comes into force earlier on <emphasis style="bold">10 March 2009</emphasis>.</text>
-          </para>
-        </clause.desc>
-        <clause.desc>
-          <para>
-            <text><emphasis style="italic">Clause 3</emphasis> provides that the Bill amends the Insolvency Act 2006 (the <emphasis style="bold">2006 Act</emphasis>).</text>
-          </para>
-        </clause.desc>
-        <clause.desc>
-          <para>
-            <text><emphasis style="italic">Clause 4</emphasis> changes the rules for insolvent gifts. These rules are one of 4 sets of rules entitling the Official Assignee (<emphasis style="bold">OA</emphasis>) to cancel certain things done by a debtor before bankruptcy that reduce the assets available to creditors (for example, giving money to a spouse or family trust). </text>
-          </para>
-          <para>
-            <text>The law in section 54 of the Insolvency Act 1967 (the <emphasis style="bold">1967 Act</emphasis>) was that—</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>gifts within 2 years before being adjudged bankrupt were <quote.in quote="1">voidable as against the OA</quote.in>, which means that the OA could cancel them if he or she wished without having to prove whether the debtor could pay his or her debts at the time or not; and</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>gifts within 2 to 5 years before being adjudged bankrupt were voidable as against the OA, unless the party claiming under the gift proved that the donor was able to pay all his debts without the aid of the property comprised in the gift. This means that the onus of proving that the debtor was solvent when he or she made the gift fell on the recipient of the gift.</text>
-                </para>
-              </item>
-            </list>
+            <text>It is a general principle that statutes and regulations operate prospectively, that is, they do not affect existing situations. This principle is set out in the Interpretation Act 1999 which provides that enactments do not have retrospective effect. </text>
           </para>
           <para>
-            <text>The law in section 204 of the 2006 Act is that a gift by a bankrupt to another person may be cancelled by the OA if— </text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the bankrupt made the gift within 5 years immediately before adjudication; and</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the bankrupt was unable to pay his or her due debts immediately after making the gift. However, the effect of section 205 of the 2006 Act is that the onus of proving that the debtor was solvent when he or she made the gift falls on the recipient of the gift if the gift was made within 2 years, and on the OA if the gift was made between 2 and 5 years before adjudication. </text>
-                </para>
-              </item>
-            </list>
+            <text>The bill proposes to apply the proposed new law in relation to the treatment of fraudulent debts under a no asset procedure retrospectively to all no asset procedures that remain undischarged on the date the bill was introduced into the House, and to all new no asset procedures that are entered into after this date.</text>
           </para>
           <para>
-            <text>The amendments in <emphasis style="italic">clause 4</emphasis> have 4 main effects, which are all a reversion to the law under the 1967 Act:</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>gifts within 2 years of adjudication may again be cancelled entirely at the OA's discretion:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>for gifts between 2 and 5 years, the onus of proof will no longer lie with the OA (to prove that the debtor was unable to pay his or her debts (the <def-term id="DLM1832119">solvency test</def-term>)). It will shift to the recipient of the gift: </text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>the time at which the debtor must be proven to be able to satisfy the solvency test will shift. Instead of <quote.in quote="1">immediately after making the gift</quote.in>, it becomes either then, or any time after that up to adjudication. This means that if, for example, the debtor wins Lotto between making an insolvent gift and becoming bankrupt, the debtor may be able to avoid the gift being cancelled: </text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>when proving solvency, account will again be taken of debts that have not yet fallen due, for example, contingent liabilities. The 2006 Act provides that the solvency test looks only at due debts. </text>
-                </para>
-              </item>
-            </list>
+            <text>We are of the view that the very limited retrospective application is justified in this case as it maintains the integrity of the no asset procedure process by preventing a debtor from being rewarded for a fraudulent act or behaviour, and therefore does not affect any person’s legitimate interest.</text>
+          </para>
+        </comm.lev2>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Discharge of joint debtors</heading>
+        <para>
+          <text>We recommend inserting new clause 8A to clarify that a discharge from the no asset procedure does not release any person who, at the date of discharge, was a business partner, co-trustee, joint debtor, or guarantor of the discharged debtor. This would make it clear that it is only the debt of the no asset procedure debtor that is forgiven under the procedure, and that such other people would need to apply separately for their own debts to be discharged. This would replicate for no asset procedure debtors the exclusion provided in the Insolvency Act in relation to bankrupts.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Practical requirements for public register provisions </heading>
+        <para>
+          <text>We propose some additions to clarify the practical requirements regarding the details required on the public register in relation to a debtor after multiple insolvency events.   </text>
+        </para>
+        <para>
+          <text>We recommend amending clause 11 by inserting new section 449A(3) to confirm that the public register would include a record for each insolvency event of a person who had had two or more bankruptcies or who had been both bankrupt and discharged from the no asset procedure. At present, the bill is silent about the practicalities of reintroducing details of a debtor’s earlier insolvency events onto the register should they again be deemed insolvent; and the original information would have been removed from the register seven years after bankruptcy.</text>
+        </para>
+        <para>
+          <text>We recommend amending clause 11 by inserting new section 449A(4) so that bankruptcies under the Insolvency Act 1908 would not be counted for the purposes of identifying multiple insolvency events. We are advised that records prior to the 1967 Insolvency Act can be unreliable, and we therefore consider that they should not be used for the purposes of determining multiple insolvencies.</text>
+        </para>
+        <para>
+          <text>We recommend that clause 17(3) be amended consequentially by removing the requirement for the public register to include information about bankruptcies under the Bankruptcy Act 1908.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Amendment to the Privacy Act 1993</heading>
+        <para>
+          <text>We recommend inserting new clause 18 to amend Part 1 of Schedule 2 of the Privacy Act 1993 to the effect that the summary instalment order public register is also subject to the privacy principles of that Act. This would correct what appears to be an inadvertent omission.</text>
+        </para>
+        <para>
+          <text>The Insolvency Act provides for a public register to be kept and maintained for persons entering into bankruptcy, no asset procedure and summary instalment order. Schedule 2 of the Privacy Act lists all the public registers that are subject to its privacy principles. While the list includes the no asset procedure and bankruptcy public register, the summary instalment order public register is omitted. We can see no sound policy reasons for the summary instalment order public register not to be subject to the privacy principles under that Act.</text>
+        </para>
+      </comm.lev1>
+      <comm.lev1>
+        <heading>Other issues considered by the committee</heading>
+        <comm.lev2>
+          <heading>Length of time on public insolvency registers</heading>
+          <para>
+            <text>The bill proposes to lengthen the time that information about a debtor remains on the public insolvency registers, from one year in the case of a no asset procedure to five years, and from seven years to indefinitely in the case of multiple insolvencies (two or more bankruptcies, or a no asset procedure and a bankruptcy). We considered carefully the appropriateness of these periods.</text>
           </para>
           <para>
-            <text>The amendments do not alter the need for the OA to prove that a gift took place. For example, a debtor may pay money into a bank account that intermingles personal and family trust funds for the benefit of a trust but, if it is not a gift, it will not be voidable (<emphasis style="italic">see</emphasis>, for example, <emphasis style="italic">Robertson (As Trustee of the G &amp; A Fisher Family Trust) v the Official Assignee </emphasis>CA 587/2007 [2008] NZCA 500). Gift was defined in the 1967 Act to mean  any disposition made otherwise than in good faith and for valuable consideration. There is no definition in the 2006 Act.</text>
+            <text>We heard that lengthening the time a no asset procedure debtor remains on the public register would dilute the important distinction between bankruptcy provisions and the no asset procedure. The procedure was introduced to provide a one-off opportunity for financially distressed individuals to avoid the stigma of bankruptcy and to rebuild their lives. It is the view of the Privacy Commissioner that a total of three years on the public register for a no asset procedure debtor would be more consistent with the purposes of the procedure, and more proportionate to the period for which individuals are publicly listed following bankruptcy.</text>
           </para>
           <para>
-            <text>The insolvent gift rules apply only to bankrupts. They do not apply to persons in the no asset procedure (<emphasis style="bold">NAP</emphasis>), which is a similar procedure designed for debtors with debts of less than $40,000. However, a person is disqualified from the NAP if the OA is satisfied, on reasonable grounds, that the debtor has concealed assets with the intention of defrauding his or her creditors, for example, by transferring property to a trust (<emphasis style="italic">see</emphasis> section 364(a) of the 2006 Act). So, if the OA believes that a person has entered the NAP after having made an insolvent gift, the OA may be able to terminate the NAP if the OA has <quote.in quote="1">reasonable grounds to be satisfied that the debtor has concealed assets with the intention of defrauding his or her creditors</quote.in>. </text>
+            <text>The majority of us, however, accept the advice that it is a matter of balancing the interests of debtors—who seek, understandably, to move on with their lives—and creditors, who require reliable information about a debtor’s history on which to make informed business decisions; and we consider that the approach proposed in the bill strikes a reasonable balance between these interests. The diversity of reasons for financial distress means that the length of time that information remains on the public registers will inevitably be more appropriate for some debtors than others, no matter what period is chosen. We have examined the approach taken in overseas jurisdictions and note that there is no international consensus. </text>
           </para>
           <para>
-            <text>There is no change in respect of the onus of proof, or the time at which solvency has to be proved, for the rules about insolvent transactions, insolvent charges, or transactions at an undervalue.</text>
+            <text>The Labour Party members believe that there should be further consultation on this part of the bill before proceeding to make what are significant changes to the public register provisions. We note that these provisions were not an essential component of this bill which was essentially designed to deal with fraudulent debts and as a result had a shorter report back requirement than would normally be expected. It is the Labour Party members’ view that there has not been sufficient consultation with key stakeholders which is reinforced by the concerns raised by the Office of the Privacy Commissioner. We would thus prefer that the public register provisions be separated from the rest of the bill.</text>
           </para>
-        </clause.desc>
-        <clause.desc>
+        </comm.lev2>
+      </comm.lev1>
+      <comm.appendix>
+        <heading>Appendix</heading>
+        <comm.lev2>
+          <heading>Committee process</heading>
           <para>
-            <text><citation jurisdiction="nz"><emphasis style="italic">Clauses 5 and 6</emphasis></citation> relate to contingent liabilities. The clauses amend sections 208 and 212 of the 2006 Act so that the solvency test looks at all debts (including contingent liabilities), not just due debts, for the purpose of insolvent gifts and transactions at an undervalue in personal bankruptcy law. </text>
-          </para>
-          <para>
-            <text>The solvency test remains unchanged for other irregular transactions (insolvent transactions, insolvent charges, and dispositions of property that prejudice creditors under the Property Law Act 2007), so that the solvency test in those cases will continue to look only at due debts (which does not include contingent liabilities). The solvency test also remains unchanged under section 297(2)(b) of the Companies Act 1993, which is a matching provision to the section 212(b) about transactions at an undervalue that is amended by <emphasis style="italic">clause 6</emphasis>.</text>
-          </para>
-        </clause.desc>
-        <clause.desc>
-          <para>
-            <text><citation jurisdiction="nz"><emphasis style="italic">Clause 7 </emphasis></citation> provides that the Assignee may extend the time before a debtor is automatically discharged from the NAP if satisfied that the 12-month period between admission to the NAP and discharge from it should be extended for the purpose of properly considering whether the debtor's participation in the NAP should be terminated.</text>
-          </para>
-        </clause.desc>
-        <clause.desc>
-          <para>
-            <text>
-              <citation jurisdiction="nz"><emphasis style="italic">Clause 8</emphasis> stops fraudulent debts being cancelled when a debtor is discharged from the NAP. Section 377(2) of the 2006 Act provides that on discharge from the NAP, the debtor's debts that became unenforceable on the debtor's entry to the NAP are cancelled, and the debtor is not liable to repay any part of the debts, including any penalties and interest that may have accrued. </citation>
-            </text>
+            <text>The Insolvency Amendment Bill was referred to the committee on 24 March 2009. The closing date for submissions was 16 April 2009. We received and considered 11 submissions from interested groups and individuals. We heard four submissions.</text>
           </para>
           <para>
-            <text>The amendments in <emphasis style="italic">clause 8</emphasis> exempt from this rule the same 2 classes of fraudulent debts that are protected from cancellation in bankruptcy under section 304(2)(a) and (b) of the 2006 Act. The 2 classes are—</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>any debt or liability incurred by fraud or fraudulent breach of trust to which the bankrupt was a party:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>any debt or liability for which the bankrupt has obtained forbearance through fraud to which the bankrupt was a party. This applies, for example, if a debtor has induced a person to write off a debt through fraud. </text>
-                </para>
-              </item>
-            </list>
+            <text>We received advice from the Ministry of Economic Development.</text>
+          </para>
+        </comm.lev2>
+        <comm.lev2>
+          <heading>Committee membership</heading>
+          <para>
+            <text>Hon Lianne Dalziel (Chairperson)</text>
           </para>
           <para>
-            <text>So, these fraudulent debts become enforceable again after discharge from the NAP. However, these fraudulent debts remain unenforceable for the 12-month period while the debtor is in the NAP (<emphasis style="italic">see</emphasis> section 369 of the 2006 Act).</text>
+            <text>John Boscawen</text>
           </para>
           <para>
-            <text>The amendments in <emphasis style="italic">clause 8 </emphasis>better align the classes of debts that are cancelled on discharge from the NAP with those cancelled on discharge from bankruptcy. By and large, all contractual debts that were owing on entry to the NAP are cancelled on discharge from the NAP. But many debts with a statutory base are not cancelled, for example, fines, penalties, sentences of reparation, amounts owing under maintenance orders under the Family Proceedings Act 1980, and amounts owing in respect of the child support scheme. The main differences left between the NAP and bankruptcy are in respect of student loan debts and judgment debts. </text>
+            <text>Charles Chauvel </text>
           </para>
-        </clause.desc>
-        <clause.desc>
           <para>
-            <text><citation jurisdiction="nz"><emphasis style="italic">Clauses 9 and 10</emphasis></citation> provide for the retention of information on the public register for 4 years after a person is discharged from the NAP.</text>
+            <text>Clare Curran</text>
           </para>
-        </clause.desc>
-        <clause.desc>
           <para>
-            <text><citation jurisdiction="nz"><emphasis style="italic">Clause 11</emphasis></citation> provides for the permanent retention of information on the public register after a person has 2 or more insolvency events, ie, bankruptcies and admission to the NAP.</text>
+            <text>Te Ururoa Flavell</text>
           </para>
-        </clause.desc>
-        <clause.desc>
           <para>
-            <text><citation jurisdiction="nz"><emphasis style="italic">Clauses 12 and 13</emphasis></citation> make consequential amendments about retaining information on the register after a person has been discharged from the NAP.</text>
+            <text>Jo Goodhew</text>
           </para>
-        </clause.desc>
-        <clause.desc>
           <para>
-            <text><citation jurisdiction="nz"><emphasis style="italic">Clauses 14 to 17</emphasis></citation> are transitional provisions. </text>
+            <text>Melissa Lee</text>
           </para>
-        </clause.desc>
-        <clause.desc>
           <para>
-            <text>
-              <citation jurisdiction="nz"><emphasis style="italic">Clause 14</emphasis> provides that the amendments about insolvent gifts do not apply to bankruptcies that commence before the day after the Bill receives the Royal assent. Bankruptcies commence on adjudication (<emphasis style="italic">see</emphasis> section 55 of the 2006 Act). Therefore, in an example of a debtor who is adjudicated bankrupt in February 2009, gifts made during the 5 years from February 2004 will still be subject to the law as enacted in 2006. In the example of a debtor who is adjudicated bankrupt in December 2009, gifts made during the 5 years from December 2004 will be subject to the law as amended in <emphasis style="italic">clauses 4 to 6</emphasis> (assuming that the Bill receives the Royal assent before December). </citation>
-            </text>
+            <text>Peseta Sam Lotu-Iiga</text>
           </para>
-        </clause.desc>
-        <clause.desc>
           <para>
-            <text><citation jurisdiction="nz"><emphasis style="italic">Clause 15</emphasis> deals with fraudulent debts that are cancelled, on discharge from the NAP under the 2006 Act, between <emphasis style="bold">10 March 2009</emphasis> and the day after Royal assent, but that are then revived at Royal assent by the retrospective commencement of <emphasis style="italic">section 8</emphasis> as at <emphasis style="bold">10 March 2009</emphasis></citation>. The clause ensures that the debts must be treated in the period after Royal assent as if they had never been cancelled<emphasis style="bold">.</emphasis></text>
+            <text>Katrina Shanks </text>
           </para>
-        </clause.desc>
-        <clause.desc>
-          <para>
-            <text><citation jurisdiction="nz"><emphasis style="italic">Clause 16</emphasis></citation> provides that the amendments about the new 4-year period for retention of the NAP details on the public register do not apply to people who are admitted to the NAP before the day after Royal assent. The details of these people will be taken off the public register after discharge from the NAP. They will only reappear on the public register if they subsequently become bankrupt.</text>
-          </para>
-        </clause.desc>
-        <clause.desc>
-          <para>
-            <text><citation jurisdiction="nz"><emphasis style="italic">Clause 17</emphasis></citation> provides that details will be kept on the public register indefinitely when a person has had multiple bankruptcy events, no matter whether the events took place before or after Royal assent. If a debtor has had their details removed from the public register, then the OA must put the details back if the debtor has had multiple bankruptcy events. This means that the OA will have to search the OA's internal register, after Royal assent, to find debtors who have had multiple bankruptcy events, and either reinstate their details to the public register or, in the case of pre-2006 Act bankruptcies, ensure that the public register contains information about these debtors.</text>
-          </para>
-        </clause.desc>
-      </explnote.group>
-      <explnote.ris>
-        <heading>Regulatory impact statement</heading>
-        <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
-        <para>
-          <text>The Insolvency Act 2006 (the <emphasis style="bold">Act</emphasis>), which was enacted as a result of the major reform of New Zealand's personal and corporate insolvency laws, came into effect in December 2007. The Ministry of Economic Development (<emphasis style="bold">MED</emphasis>) proposes that the Act be amended to maintain the integrity of the personal insolvency processes (no asset procedure (<emphasis style="bold">NAP</emphasis>) and bankruptcy), and further, to enable better access to the respective public registers regarding a debtor's previous insolvency.</text>
-        </para>
-        <para>
-          <text>The NAP provisions of the Act are proposed to be amended to—</text>
-          <list>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>prevent the discharge of fraudulent debts under the NAP; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>allow the Official Assignee (the <emphasis style="bold">OA</emphasis>) to extend the time a person is under the NAP when late information in relation to a debtor's entry, including valid objections, is received just prior to a debtor's expected date of discharge; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>allow a NAP debtor's information to be kept on the NAP public register for 5 years from the date of entry to the NAP; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>reinstate a NAP debtor's details on the NAP public register permanently where a debtor subsequently enters a bankruptcy process.</text>
-              </para>
-            </item>
-          </list>
-        </para>
-        <para>
-          <text>The bankruptcy provisions are proposed to be amended to—</text>
-          <list>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>better protect the interests of creditors by strengthening the ability of the OA to cancel gifts; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>enable the public registers to permanently retain details of individuals who have entered into insolvency processes on 2 or more occasions.</text>
-              </para>
-            </item>
-          </list>
-        </para>
-        <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
-        <para>
-          <text>MED confirms that the Code of Good Regulatory Practice and the regulatory impact analysis requirements, including the consultation RIA requirements, have been compiled with. A draft RIS was circulated with the Cabinet paper for departmental consultation.</text>
-        </para>
-        <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
-        <explnote.subhead2>Fraudulent debts under NAP</explnote.subhead2>
-        <para>
-          <text>Currently the NAP process allows debts that have been incurred fraudulently to be discharged under that process. The bankruptcy laws, which NAP is a subset of and an alternative to, prohibit fraudulent debts from being written off.</text>
-        </para>
-        <para>
-          <text>This gap in the law contradicts the overriding public policy objectives of the personal insolvency laws, which are designed to grant a debtor discharge from all pecuniary liabilities arising contractually, while not writing off debts that have their origin in fraud.</text>
-        </para>
-        <explnote.subhead2>Extending the period of discharge under NAP</explnote.subhead2>
-        <para>
-          <text>The law currently provides that all people admitted to the NAP must be discharged after 12 months of entering the NAP. Unlike bankruptcy, the OA does not have the ability to extend the period of discharge to properly investigate any late information relating to a debtor's termination from NAP (including creditors' objections) that is received from creditors and other interested parties. This prevents the OA from undertaking a thorough investigation, thereby undermining the natural justice process which the OA is required to adhere to under the Act.</text>
-        </para>
-        <explnote.subhead2>Insolvent gifts in bankruptcy</explnote.subhead2>
-        <para>
-          <text>The insolvent gift provisions in the Act allow gifts that have been made by the debtor (donor) prior to being adjudicated bankrupt to be clawed back by the OA for distribution to all the creditors.</text>
-        </para>
-        <para>
-          <text>The insolvent transaction provisions in the Act were amended as part of the overall insolvency reform in 2006 to promote consistency with the voidable transaction provisions in the Companies Act 1993 and, further, to reflect a modern and simple drafting style. The Act currently provides that any gifts made in the 2-year period prior to the adjudication of the debtor are presumed to be void, but this presumption is rebuttable if it is proven that the debtor was solvent at the time of making the gift. The law also provides that any gifts made by the debtor in the 2–5 year period prior to adjudication can be made void, but the OA has to prove that the debtor was insolvent at the time of making the gift.</text>
-        </para>
-        <para>
-          <text>The amendments made have inadvertently weakened the voidable gifts provisions under the Act and imposed an administrative burden on the OA. These have a negative impact on the returns to the creditors.</text>
-        </para>
-        <explnote.subhead2>Public registers</explnote.subhead2>
-        <para>
-          <text>The public register provisions in the Act record details of persons who have entered into NAP and bankruptcy for 1 year and 7 years respectively. The problem with these specified periods is that they do not allow future lenders or credit rating agencies access to information beyond these time frames in order to undertake a proper assessment of the creditworthiness of an individual.</text>
-        </para>
-        <explnote.ird-crosshead>Objectives</explnote.ird-crosshead>
-        <para>
-          <text>The changes proposed to the Act would maintain the integrity of the personal insolvency processes and, further, promote confidence in the OA's ability to administer these processes effectively and efficiently for the benefit of the creditors.</text>
-        </para>
-        <explnote.ird-crosshead>Options</explnote.ird-crosshead>
-        <explnote.subhead1>Fraudulent debts</explnote.subhead1>
-        <explnote.subhead2>Alternative options</explnote.subhead2>
-        <para>
-          <text>Given that there is a legislative loophole in the Act that allows fraudulent debts under NAP to be written off, there are no other plausible alternatives to deal with the legal uncertainty that exists. To address this issue in any other way would create inconsistencies in the treatment of fraudulent debts under NAP and bankruptcy that would undermine the credibility and integrity of these processes.</text>
-        </para>
-        <explnote.subhead2>Preferred option</explnote.subhead2>
-        <para>
-          <text>The preferred option would be to align the NAP provisions with bankruptcy by explicitly legislating that fraudulent debts are not discharged under the NAP process.</text>
-        </para>
-        <explnote.subhead2>Benefits and costs</explnote.subhead2>
-        <para>
-          <text>Closing the gap in the Act will maintain the integrity of the NAP process, and will achieve the intended objective of forgiving only those debts that arise as a result of a contractual obligation between parties, and not debts that have their inception in some fraudulent act or behaviour. More specifically, the proposed changes will—</text>
-          <list>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>align the bankruptcy and NAP provisions in the Act; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>promote legal certainty on the treatment of fraudulent debts under NAP; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>provide certainty to—</text>
-                <list>
-                  <item>
-                    <label auto.number="no" denominator="yes"/>
-                    <para>
-                      <text>creditors such as the Crown to pursue debts after the debtor is discharged from the NAP process; and</text>
-                    </para>
-                  </item>
-                  <item>
-                    <label auto.number="no" denominator="yes"/>
-                    <para>
-                      <text>debtors and creditors regarding the treatment of fraudulent debts under NAP; and</text>
-                    </para>
-                  </item>
-                </list>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>lower the creditors' monitoring costs as they will be reassured that only legitimate debts are going to be written off under the NAP process.</text>
-              </para>
-            </item>
-          </list>
-        </para>
-        <para>
-          <text>Officials have not identified any costs associated with the discharge of fraudulent debt proposal under NAP other than a one-off initial cost of making the proposed legislative change.</text>
-        </para>
-        <explnote.subhead1>Extending the period of discharge</explnote.subhead1>
-        <explnote.subhead2>Alternative options</explnote.subhead2>
-        <para>
-          <text>One option would be to provide for a cut-off date for receiving any objection or late information regarding a debtor's entry to the NAP within the 12-month period. This would enable the OA to investigate any objection before the NAP period expires. While there is some merit to this option, it is important that creditors and other interested parties be allowed as much time as possible to object to a person's entry to the NAP, given the implications on creditors of not getting their money back once a person is discharged from the NAP.</text>
-        </para>
-        <explnote.subhead2>Preferred option</explnote.subhead2>
-        <para>
-          <text>The preferred option is to enable the OA to extend the period of discharge by up to 25 working days to properly undertake an investigation in relation to any objections or late information received regarding a debtor's entry to the NAP.</text>
-        </para>
-        <explnote.subhead2>Benefits and costs</explnote.subhead2>
-        <para>
-          <text>Allowing the OA to address late objections would have the following benefits:</text>
-          <list>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>any abuse of the NAP process will not be tolerated and any objections or late information received until the very last day of the NAP process will be thoroughly investigated by the OA; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>it effectively places a NAP debtor on a full 12 months' notice that he or she should come clean with his or her debts and assets if they have been concealed in any form or manner to avoid paying the creditors; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>it promotes consistency between the bankruptcy and NAP discharge provisions in the Act.</text>
-              </para>
-            </item>
-          </list>
-        </para>
-        <para>
-          <text>Officials have not identified any costs associated with the proposed extension of the discharge period under the NAP other than a one-off initial cost of amending the Act.</text>
-        </para>
-        <explnote.subhead1>Insolvent gifts</explnote.subhead1>
-        <explnote.subhead2>Alternative options</explnote.subhead2>
-        <para>
-          <text>Rather than the OA or the recipient determining the solvency of the debtor at the time of making the gift, the matter could be decided by the courts based on facts and evidence provided by the OA, the debtor, and the recipient of the gift.</text>
-        </para>
-        <para>
-          <text>While this may be a good compromise between the insolvent gift provisions in the 1967 and 2006 Acts, it would be an expensive and time consuming option. Also, the recipient of the gift may not have the necessary funds to go to court to defend his or her interest in the gift. Further, given that the creditors are unlikely to get their debts fully paid as a result of the debtor's bankruptcy, there would be general reluctance to incur any further legal costs to defend their interest in the gift.</text>
-        </para>
-        <explnote.subhead2>Preferred option</explnote.subhead2>
-        <para>
-          <text>The preferred option is to revert to the insolvent gift provisions in the Insolvency Act 1967.</text>
-        </para>
-        <explnote.subhead2>Benefits and costs</explnote.subhead2>
-        <para>
-          <text>Reverting back to the 1967 Act provisions on insolvent gifts would result in the following benefits:</text>
-          <list>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>returns to the creditors would be better as the OA would not have to spend time and money proving the insolvency of the debtor making gifts in the 2–5 year period prior to his or her bankruptcy; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>the recipient of the gift will be better placed to prove the donor debtor's solvency at the time of making the gift as he or she is likely to have information in relation to the circumstances that gave rise to the gift; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>in relation to gifts made in the 0–2 year period, the long standing presumption that a debtor is technically insolvent over a certain period of time before formal insolvency is preserved.</text>
-              </para>
-            </item>
-          </list>
-        </para>
-        <para>
-          <text>A recipient of a gift in the 0–2 year period would be disadvantaged as the gift would be clawed back by the OA based on the presumption of insolvency that is proposed to be reinstated, ie, that the debtor was insolvent at the time of making the gift. However, there are safeguards in the Act (section 206 of the Act) to ensure that the gift is not clawed back from a recipient who has acted in good faith, had no reason to suspect that the donor was insolvent, and has altered his or her position in reliance on the gift. The OA, as a matter of practice, writes to the recipients requesting them to demonstrate why it is not an insolvent gift under section 208. This is done to prevent the OA cancelling a gift that the court may reinstate if the recipient is able to satisfy the requirements under section 208 of the Act.</text>
-        </para>
-        <explnote.subhead1>Public registers</explnote.subhead1>
-        <explnote.subhead2>Alternative options</explnote.subhead2>
-        <para>
-          <text>Option 1</text>
-        </para>
-        <para>
-          <text>Instead of the OA maintaining these registers electronically, credit reporting agencies could provide the relevant information on a person's previous entry to bankruptcy and NAP for a fee over longer periods of time.</text>
-        </para>
-        <para>
-          <text>This is not a viable option as creditors would have to incur a transaction cost to obtain this information from the credit reporting agencies. This would mean an additional cost for the creditors. Further, the Credit Reporting Privacy Code 2004 prohibits the credit reporting agencies from keeping the information on bankruptcy for more then 7 years, so it is unlikely that this information will be accessed by any prospective lender beyond that period.</text>
-        </para>
-        <explnote.subhead2>
-          <emphasis style="roman">Option 2</emphasis>
-        </explnote.subhead2>
-        <para>
-          <text>Another option would be to permanently retain a debtor's details concerning the NAP and first time bankruptcy on the respective public registers. While this would provide future lenders unlimited and free access to the public register, and enable them to better assess the creditworthiness of an individual, it does not promote the fundamental rehabilitative principles that underpin personal bankruptcy laws. This option goes to the extreme of permanently disqualifying an individual who has entered bankruptcy as a result of a long-term illness or a marriage break-up. In these circumstances, an individual deserves a second chance but this option deprives them of this opportunity indefinitely.</text>
-        </para>
-        <para>
-          <text>Adopting this option would also create inconsistencies with the Credit Reporting Privacy Code 2004. This code prohibits credit reporting agencies from keeping the information on bankruptcy for more than 7 years. This Code has its legal basis in the Privacy Act 1993.</text>
-        </para>
-        <explnote.subhead2>Preferred options</explnote.subhead2>
-        <para>
-          <text>The preferred options are as follows:</text>
-          <list>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>to extend the period of time during which a NAP debtor's details are kept on the NAP public register from 1 year to 5 years; and</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>to provide for NAP and bankruptcy public registers to be searchable for individuals who have been in multiple bankruptcies (2 or more), or NAP and then bankruptcy.</text>
-              </para>
-            </item>
-          </list>
-        </para>
-        <explnote.subhead2>Benefits and costs</explnote.subhead2>
-        <para>
-          <text>A combination of the above 2 options would achieve the desired result of allowing credit agencies and lenders access to information about an individual's previous insolvency history for longer periods of time, particularly where an individual has been through an insolvency process on 2 or more occasions.</text>
-        </para>
-        <para>
-          <text>Increasing the time for the availability of NAP debtors' details on the register aligns the NAP public register provisions with the bankruptcy register provisions in the Act, ie, the information is provided for 4 more years after a debtor is discharged from these processes.</text>
-        </para>
-        <para>
-          <text>The fundamental principle of rehabilitation that underpins personal insolvency law is also preserved as only those individuals who have entered into an insolvency process for a second time would have their names on the public registers permanently.</text>
-        </para>
-        <explnote.subhead2>Costs</explnote.subhead2>
-        <para>
-          <text>Extending the period of time for a debtor's details to be on the NAP public register may dilute the main objectives of providing debtors with a fresh start in life after being in the NAP process for 1 year and avoiding the stigma that is commonly associated with bankruptcy. Having their details of entry to the NAP on the public register for 4 more years after discharge (ie, a total of 5 years) could deprive an individual access to credit that they might otherwise have if their names were not publicised for such a length of time.</text>
-        </para>
-        <para>
-          <text>The Office of the Privacy Commissioner is concerned that a discharged debtor could be refused credit to obtain basic necessities, such as telephone or power services as a result of their details being listed on their credit record. This would mean that debtors who have been through multiple insolvency processes are extremely unlikely to receive unsecured debt. The proposed extension of time for the details of debtors on the NAP and bankruptcy public registers is justified given the current economic climate where lenders ought to have as much information as possible to make prudent lending decisions and contribute to the flow of credit in the market.</text>
-        </para>
-        <para>
-          <text>It is important to note that a fresh start and rebuilding of their financial lives for most debtors would begin once they have been accepted in the NAP process. Credit would still be extended to these debtors but the cost of credit would reflect their previous insolvency and credit history. This provides a balance to the NAP regime, which attracted some criticism during the reform process as being too debtor friendly. The rights of the creditor ought to prevail after a debtor has entered into a subsequent insolvency, as the bankrupt debtor has had a chance to a fresh start and in a lot of cases abused it.</text>
-        </para>
-        <para>
-          <text>The NAP debtors also avoid the stigma of bankruptcy as they do not have the <quote.in quote="1">bankrupt</quote.in> status to begin with, and are immune from the limits that are placed in bankruptcy, such as the limits on owning a business and travelling overseas.</text>
-        </para>
-        <explnote.subhead1>Conclusion</explnote.subhead1>
-        <para>
-          <text>The amendments proposed under the Act will preserve the integrity of the NAP process and, further, enhance the effectiveness of the insolvent gift provisions under the Act.</text>
-        </para>
-        <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
-        <para>
-          <text>The following government agencies have been consulted on the proposals in this paper: the Treasury, Ministry of Justice, and Ministry of Social Development. The Office of the Privacy Commissioner was also consulted. The Department of the Prime Minister and Cabinet was informed.</text>
-        </para>
-        <para>
-          <text>Some privacy and human rights issues were raised by the Office of the Privacy Commissioner and Ministry of Justice, which have been adequately addressed in the Cabinet paper.</text>
-        </para>
-      </explnote.ris>
-    </explnote>
+        </comm.lev2>
+      </comm.appendix>
+    </commentary>
   </billdetail>
+  <key>
+    <heading>Key to symbols used in reprinted bill</heading>
+    <subheading>As reported from a select committee</subheading>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+    <subheading/>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+  </key>
   <cover id="DLM1832120">
     <member>Hon Simon Power</member>
     <title>Insolvency Amendment Bill</title>
@@ -522,7 +257,7 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">1</label>
           <para>
-            <text><changeable><citation jurisdiction="nz">Section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1545409" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1832101 - prov 8" atidlm:xmlId="DLM1832144" atidlm:state="UNCHANGED"><atidlm:linkcontent>8</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="867289" atidlm:sourceXmlId="DLM1832144" atidlm:targetKey="15116610" atidlm:targetXmlId="DLM1832100" atidlm:targetName="prov 8" atidlm:sourceName="DLM1832144" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832126.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832117.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1832124" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></changeable> is deemed to have come into force on <emphasis style="bold">10 March 2009</emphasis>.</text>
+            <text><changeable><citation jurisdiction="nz">Section 8</citation></changeable> is deemed to have come into force on <changeable><citation jurisdiction="nz">10 March 2009</citation></changeable>.</text>
           </para>
         </subprov>
         <subprov skeleton="no">
@@ -545,7 +280,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM1832126" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="19" bill.type="government" stage="1" year="2009">
+    <part id="DLM1832126" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="19" bill.type="government" stage="2" year="2009">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Amendments to Insolvency Act 2006</heading>
       <crosshead id="DLM1832127" toc="yes">Insolvent gifts</crosshead>
@@ -572,7 +307,7 @@
                 </prov>
                 <prov id="DLM1832129" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                   <label auto.number="no" denominator="yes" quote="1">205</label>
-                  <heading>Insolvent gift within 2 to 5 years may be cancelled if bankrupt unable to pay debts </heading>
+                  <heading>Insolvent gift within 2 to 5 years may be cancelled if bankrupt unable to pay debts</heading>
                   <prov.body>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
@@ -581,7 +316,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>the bankrupt made the gift within the period beginning 2 years immediately before adjudication and ending 5 years immediately before adjudication; and </text>
+                            <text>the bankrupt made the gift within the period beginning 2 years immediately before adjudication and ending 5 years immediately before adjudication; and</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -613,11 +348,11 @@
             <label auto.number="yes" denominator="yes"/>
             <para>
               <text>Section 208 is amended by repealing paragraph (b) and substituting the following paragraph:</text>
-              <amend quote="1">
+              <amend increment="1" quote="1">
                 <label-para quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">b</label>
                   <para>
-                    <text>a reasonable person in A's position would not have suspected, and A did not have reasonable grounds for suspecting, that,— </text>
+                    <text>a reasonable person in A's position would not have suspected, and A did not have reasonable grounds for suspecting, that,—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">i</label>
                       <para>
@@ -633,6 +368,7 @@
                   </para>
                 </label-para>
               </amend>
+              <follow-text amend.level1="insert-unanimous" space-before="no">.</follow-text>
             </para>
           </subprov>
         </prov.body>
@@ -649,7 +385,31 @@
           </subprov>
         </prov.body>
       </prov>
-      <crosshead id="DLM1832131" toc="yes">Extension of time for automatic discharge from no asset procedure</crosshead>
+      <crosshead id="DLM1832131" toc="yes"><struckoutwords amend.level1="struckout-unanimous">Extension of time for automatic discharge from </struckoutwords>No asset procedure</crosshead>
+      <prov amend.level1="insert-unanimous" id="DLM2098101" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">6A</label>
+        <heading amend.level1="insert-unanimous">Criteria for entry to no asset procedure</heading>
+        <prov.body>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+            <para amend.level1="insert-unanimous">
+              <text>Section 363(2) is amended by adding <amend.in quote="1">, but does include any assets (for example, gifted assets) that might be recoverable by the Assignee if the debtor were adjudicated bankrupt on the date of application for entry to the no asset procedure and if the irregular transaction provisions in subpart 7 of Part 3 applied</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov amend.level1="insert-unanimous" id="DLM2098102" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">6B</label>
+        <heading amend.level1="insert-unanimous">Effect of termination</heading>
+        <prov.body>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+            <para amend.level1="insert-unanimous">
+              <text>Section 375 is amended by adding <amend.in quote="1">, and the debtor is liable to pay any penalties and interest that may have accrued</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
       <prov id="DLM1832132" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">7</label>
         <heading>Discharge</heading>
@@ -663,22 +423,22 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>Section 377 is amended by adding the following subsections as subsections (2) to (7): </text>
+              <text>Section 377 is amended by adding the following subsections as subsections (2) to (7):</text>
               <amend quote="1">
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">2</label>
                   <para>
-                    <text>However, a debtor is not automatically discharged if the Assignee— </text>
+                    <text>However, a debtor is not automatically discharged if the Assignee—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
-                        <text>is satisfied that the 12-month period should be extended for the purpose of properly considering whether the debtor's participation in the no asset procedure should be terminated; and </text>
+                        <text>is satisfied that the 12-month period should be extended for the purpose of properly considering whether the debtor's participation in the no asset procedure should be terminated; and</text>
                       </para>
                     </label-para>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">b</label>
                       <para>
-                        <text>sends a written deferral notice to the debtor's last known address before the expiry of the 12-month period. </text>
+                        <text>sends a written deferral notice to the debtor's last known address before the expiry of the 12-month period.</text>
                       </para>
                     </label-para>
                   </para>
@@ -686,7 +446,7 @@
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">3</label>
                   <para>
-                    <text>The deferral notice must state an alternative date for automatic discharge, which must be no later than 25 working days after the expiry of the 12-month period. </text>
+                    <text>The deferral notice must state an alternative date for automatic discharge, which must be no later than 25 working days after the expiry of the 12-month period.</text>
                   </para>
                 </subprov>
                 <subprov quote="1" skeleton="no">
@@ -698,7 +458,7 @@
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">5</label>
                   <para>
-                    <text>The Assignee must as soon as practicable send a written notice of the deferral to each creditor of the debtor known to the Assignee.</text>
+                    <text>The Assignee must<insertwords amend.level1="insert-unanimous">,</insertwords> as soon as practicable<insertwords amend.level1="insert-unanimous">,</insertwords> send a written notice of the deferral to each creditor of the debtor known to the Assignee.</text>
                   </para>
                 </subprov>
                 <subprov quote="1" skeleton="no">
@@ -710,7 +470,7 @@
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">7</label>
                   <para>
-                    <text>The Assignee may revoke a deferral notice in the same way in which it was sent, in which case, the debtor is automatically discharged from the no asset procedure on— </text>
+                    <text>The Assignee may revoke a deferral notice in the same way in which it was sent, in which case, the debtor is automatically discharged from the no asset procedure on—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
@@ -730,7 +490,7 @@
           </subprov>
         </prov.body>
       </prov>
-      <crosshead id="DLM1832133" toc="yes">Which debts are cancelled on discharge from no  asset procedure</crosshead>
+      <crosshead amend.level1="struckout-unanimous" id="DLM1832133" toc="yes">Which debts are cancelled on discharge from no asset procedure</crosshead>
       <prov id="DLM1832100" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">8</label>
         <heading>New section 377A inserted</heading>
@@ -774,6 +534,62 @@
                         </label-para>
                       </para>
                     </subprov>
+                    <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
+                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">3</label>
+                      <para amend.level1="insert-unanimous">
+                        <text>The debts and liabilities referred to in <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> become again enforceable on discharge under section 377, and the debtor is liable to pay any penalties and interest that may have accrued.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov amend.level1="insert-unanimous" id="DLM2098103" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-unanimous" auto.number="no" denominator="no">8A</label>
+        <heading amend.level1="insert-unanimous">New section 377B inserted</heading>
+        <prov.body>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+            <para amend.level1="insert-unanimous">
+              <text>The following section is inserted after <changeable><citation jurisdiction="nz">section 377A</citation></changeable>:</text>
+              <amend amend.level1="insert-unanimous" quote="1">
+                <prov amend.level1="insert-unanimous" id="DLM2098104" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">377B</label>
+                  <heading amend.level1="insert-unanimous">Discharge does not release partners and others</heading>
+                  <prov.body>
+                    <subprov amend.level1="insert-unanimous" skeleton="no">
+                      <label amend.level1="insert-unanimous" auto.number="yes" denominator="yes"/>
+                      <para amend.level1="insert-unanimous">
+                        <text>A discharge under section 377 does not release any person who, at the date of discharge, was—</text>
+                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
+                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">a</label>
+                          <para amend.level1="insert-unanimous">
+                            <text>a business partner of the discharged debtor; or</text>
+                          </para>
+                        </label-para>
+                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
+                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">b</label>
+                          <para amend.level1="insert-unanimous">
+                            <text>a co-trustee with the discharged debtor; or</text>
+                          </para>
+                        </label-para>
+                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
+                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">c</label>
+                          <para amend.level1="insert-unanimous">
+                            <text>jointly bound or had made any contract with the discharged debtor; or</text>
+                          </para>
+                        </label-para>
+                        <label-para amend.level1="insert-unanimous" quote="1" skeleton="no">
+                          <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">d</label>
+                          <para amend.level1="insert-unanimous">
+                            <text>a guarantor or in the nature of a guarantor of the discharged debtor.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
                   </prov.body>
                 </prov>
               </amend>
@@ -807,7 +623,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>Section 449(1)(b) is amended by inserting <amend.in quote="1">or has been discharged from the no asset procedure under section 377,</amend.in> after <amend.in quote="1">is currently admitted to the no asset procedure,</amend.in>.</text>
+              <text>Section 449(1)(b) is amended by inserting <amend.in quote="1">or has been discharged from the no asset procedure under section 377,</amend.in> after <quote.in quote="1">is currently admitted to the no asset procedure,</quote.in>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -843,7 +659,7 @@
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
-                        <text>4 years after the date of discharge under section 377; or </text>
+                        <text>4 years after the date of discharge under section 377; or</text>
                       </para>
                     </label-para>
                     <label-para quote="1" skeleton="no">
@@ -867,12 +683,12 @@
       </prov>
       <prov id="DLM1832115" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">11</label>
-        <heading>New section 449A inserted </heading>
+        <heading>New section 449A inserted</heading>
         <prov.body>
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>The following section is inserted after section 449: </text>
+              <text>The following section is inserted after section 449:</text>
               <amend quote="1">
                 <prov id="DLM1884100" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                   <label auto.number="no" denominator="yes" quote="1">449A</label>
@@ -885,7 +701,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>is or has been bankrupt on 2 or more occasions; or </text>
+                            <text>is or has been bankrupt on 2 or more occasions; or</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -900,6 +716,18 @@
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
                         <text>Information about the person must not be removed from the public register under this Act and, in particular, section 449(4), <changeable><citation jurisdiction="nz">(4A)</citation></changeable>, and (5) do not apply to the person.</text>
+                      </para>
+                    </subprov>
+                    <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
+                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">3</label>
+                      <para amend.level1="insert-unanimous">
+                        <text>The Assignee must ensure that the public register contains all of the information required by this Act about the person and each insolvency event.</text>
+                      </para>
+                    </subprov>
+                    <subprov amend.level1="insert-unanimous" quote="1" skeleton="no">
+                      <label amend.level1="insert-unanimous" auto.number="no" denominator="yes" quote="1">4</label>
+                      <para amend.level1="insert-unanimous">
+                        <text>Bankruptcies under the Insolvency Act 1967 count for the purposes of <changeable><citation jurisdiction="nz">subsections (1) and (3)</citation></changeable>, but bankruptcies under the Bankruptcy Act 1908 do not count for either purpose.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -936,7 +764,7 @@
                 <label-para quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">h</label>
                   <para>
-                    <text>is subject to <changeable><citation jurisdiction="nz">section 449A</citation></changeable> (which relates to permanent retention on the register after multiple insolvency events).</text>
+                    <text>is subject to <changeable><citation jurisdiction="nz">section 449A</citation></changeable> (which relates to permanent retention <insertwords amend.level1="insert-unanimous">of information </insertwords>on the register after multiple insolvency events).</text>
                   </para>
                 </label-para>
               </amend>
@@ -971,9 +799,9 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM1832136" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="19" bill.type="government" stage="1" year="2009">
+    <part id="DLM1832136" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="19" bill.type="government" stage="2" year="2009">
       <label auto.number="no" denominator="yes">2</label>
-      <heading>Transitional provisions</heading>
+      <heading>Transitional provisions <insertwords amend.level1="insert-unanimous">and amendment to Privacy Act 1993</insertwords></heading>
       <crosshead id="DLM1832137" toc="yes">Insolvent gifts</crosshead>
       <prov id="DLM1832138" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">14</label>
@@ -982,20 +810,20 @@
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>The principal Act applies to any bankruptcy that is commenced before the day after the date on which this Act receives the Royal assent as if <changeable><citation jurisdiction="nz">sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1545410" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1832103 - prov 4" atidlm:xmlId="DLM1832145" atidlm:state="UNCHANGED"><atidlm:linkcontent>4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="867290" atidlm:sourceXmlId="DLM1832145" atidlm:targetKey="15116603" atidlm:targetXmlId="DLM1832102" atidlm:targetName="prov 4" atidlm:sourceName="DLM1832145" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832126.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832136.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1832138" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> to <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1545411" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1832105 - prov 6" atidlm:xmlId="DLM1832146" atidlm:state="UNCHANGED"><atidlm:linkcontent>6</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="867291" atidlm:sourceXmlId="DLM1832146" atidlm:targetKey="15116605" atidlm:targetXmlId="DLM1832104" atidlm:targetName="prov 6" atidlm:sourceName="DLM1832146" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832126.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832136.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1832138" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></changeable> of this Act had not been enacted.</text>
+              <text>The principal Act applies to any bankruptcy that is commenced before the day after the date on which this Act receives the Royal assent as if <changeable><citation jurisdiction="nz">sections 4 to 6</citation></changeable> of this Act had not been enacted.</text>
             </para>
           </subprov>
         </prov.body>
       </prov>
-      <crosshead id="DLM1832139" toc="yes">Which debts are cancelled on discharge from no  asset procedure</crosshead>
+      <crosshead id="DLM1832139" toc="yes">Which debts are cancelled on discharge from no asset procedure</crosshead>
       <prov id="DLM1832140" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">15</label>
-        <heading>Amendments  relating to cancellation of fraudulent debts under no  asset procedure</heading>
+        <heading>Amendments  relating to cancellation of fraudulent debts under no asset procedure</heading>
         <prov.body>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>Any debt that is cancelled under section 377(2) of the principal Act in the period before the enactment of <changeable><citation jurisdiction="nz">section 377A of the principal Act by section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1545412" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1832106 - prov 8" atidlm:xmlId="DLM1832147" atidlm:state="UNCHANGED"><atidlm:linkcontent>8</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="867292" atidlm:sourceXmlId="DLM1832147" atidlm:targetKey="15116610" atidlm:targetXmlId="DLM1832100" atidlm:targetName="prov 8" atidlm:sourceName="DLM1832147" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832126.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832136.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1832140" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of this Act</citation></changeable>, but that is later revived by the enactment of <changeable><citation jurisdiction="nz">section 377A(2)</citation></changeable>, must be treated as if the debt had not been cancelled. </text>
+              <text>Any debt that is cancelled under section 377(2) of the principal Act in the period before the enactment of <changeable><citation jurisdiction="nz">section 377A of the principal Act by section 8 of this Act</citation></changeable>, but that is later revived by the enactment of <changeable><citation jurisdiction="nz">section 377A(2)</citation></changeable>, must be treated as if the debt had not been cancelled. </text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -1026,7 +854,7 @@
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>The principal Act applies to any debtor who is admitted to the no asset procedure before  the day after the date on which this Act receives the Royal assent as if <changeable><citation jurisdiction="nz">sections <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1545413" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1832108 - prov 9" atidlm:xmlId="DLM1832148" atidlm:state="UNCHANGED"><atidlm:linkcontent>9</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="867293" atidlm:sourceXmlId="DLM1832148" atidlm:targetKey="15116612" atidlm:targetXmlId="DLM1832107" atidlm:targetName="prov 9" atidlm:sourceName="DLM1832148" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832126.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832136.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1832142" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link>, <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1545414" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1832110 - prov 10" atidlm:xmlId="DLM1832149" atidlm:state="UNCHANGED"><atidlm:linkcontent>10</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="867294" atidlm:sourceXmlId="DLM1832149" atidlm:targetKey="15116613" atidlm:targetXmlId="DLM1832109" atidlm:targetName="prov 10" atidlm:sourceName="DLM1832149" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832126.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832136.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1832142" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link>, <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1545415" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1832112 - prov 12" atidlm:xmlId="DLM1832150" atidlm:state="UNCHANGED"><atidlm:linkcontent>12</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="867295" atidlm:sourceXmlId="DLM1832150" atidlm:targetKey="15116615" atidlm:targetXmlId="DLM1832111" atidlm:targetName="prov 12" atidlm:sourceName="DLM1832150" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832126.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832136.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1832142" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link>, and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1545416" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1832114 - prov 13" atidlm:xmlId="DLM1832151" atidlm:state="UNCHANGED"><atidlm:linkcontent>13</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="867296" atidlm:sourceXmlId="DLM1832151" atidlm:targetKey="15116616" atidlm:targetXmlId="DLM1832113" atidlm:targetName="prov 13" atidlm:sourceName="DLM1832151" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832126.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832136.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1832142" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></changeable> of this Act had not been enacted. </text>
+              <text>The principal Act applies to any debtor who is admitted to the no asset procedure before  the day after the date on which this Act receives the Royal assent as if <changeable><citation jurisdiction="nz">sections 9, 10, 12, and 13</citation></changeable> of this Act had not been enacted.</text>
             </para>
           </subprov>
         </prov.body>
@@ -1038,24 +866,58 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text><changeable><citation jurisdiction="nz">Section 449A</citation></changeable> of the principal Act (as enacted by <changeable><citation jurisdiction="nz">section <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1545417" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1832116 - prov 11" atidlm:xmlId="DLM1832152" atidlm:state="UNCHANGED"><atidlm:linkcontent>11</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="867297" atidlm:sourceXmlId="DLM1832152" atidlm:targetKey="15116614" atidlm:targetXmlId="DLM1832115" atidlm:targetName="prov 11" atidlm:sourceName="DLM1832152" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832126.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZBill/fragxyxz_DLM1832136.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1832143" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation></changeable> of this Act) applies to any person regardless of whether any of the insolvency events referred to in <changeable><citation jurisdiction="nz">section 449A(1)</citation></changeable> occurred before or after the enactment of that section.</text>
+              <text><changeable><citation jurisdiction="nz">Section 449A</citation></changeable> of the principal Act (as enacted by <changeable><citation jurisdiction="nz">section 11</citation></changeable> of this Act) applies to any person regardless of whether any of the insolvency events referred to in <changeable><citation jurisdiction="nz">section 449A(1)</citation></changeable> occurred before or after the enactment of that section.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>As soon as practicable after this section comes into force, the Assignee must ensure that the public register contains all of the information required by the principal Act (as amended by this Act) about any person to whom <changeable><citation jurisdiction="nz">section 449A</citation></changeable> applies. </text>
+              <text>As soon as practicable after this section comes into force, the Assignee must ensure that the public register contains all of the information required by the principal Act (as amended by this Act) about any person to whom <changeable><citation jurisdiction="nz">section 449A</citation></changeable> applies.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
             <para>
-              <text>To avoid doubt, the requirement in <changeable><citation jurisdiction="nz">subsection (2) </citation></changeable> includes a requirement to ensure that the public register contains information about bankruptcies under the Insolvency Act 1967 or the Bankruptcy Act 1908 in respect of any person to whom <changeable><citation jurisdiction="nz">section 449A</citation></changeable> applies.</text>
+              <text>To avoid doubt, the requirement in <changeable><citation jurisdiction="nz">subsection (2) </citation></changeable> includes a requirement to ensure that the public register contains information about bankruptcies under the Insolvency Act 1967<struckoutwords amend.level1="struckout-unanimous"> or the Bankruptcy Act 1908 </struckoutwords> in respect of any person to whom <changeable><citation jurisdiction="nz">section 449A</citation></changeable> applies.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead amend.level1="insert-unanimous" id="DLM2098105" toc="yes">
+        <insertwords amend.level1="insert-unanimous">Amendment to Privacy Act 1993</insertwords>
+      </crosshead>
+      <prov amend.level1="insert-unanimous" id="DLM2098106" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">18</label>
+        <heading amend.level1="insert-unanimous">Schedule 2 of Privacy Act 1993 amended</heading>
+        <prov.body>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">1</label>
+            <para amend.level1="insert-unanimous">
+              <text>This section amends the Privacy Act 1993.</text>
+            </para>
+          </subprov>
+          <subprov amend.level1="insert-unanimous" skeleton="no">
+            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">2</label>
+            <para amend.level1="insert-unanimous">
+              <text>The item relating to the Insolvency Act 2006 in Part 1 of Schedule 2 is amended by inserting <amend.in quote="1">354,</amend.in> after <quote.in amend.level1="insert-unanimous" quote="1">62,</quote.in>.</text>
             </para>
           </subprov>
         </prov.body>
       </prov>
     </part>
   </body>
+  <end id="DLM2098107">
+    <leg-history id="DLM2098108">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-03-09</date>
+        <description>Introduction (Bill 19–1)</description>
+      </history-item>
+      <history-item>
+        <date>2009-03-24</date>
+        <description>First reading and referral to Commerce Committee</description>
+      </history-item>
+    </leg-history>
+  </end>
 </bill>
 <!--End of file, do NOT remove.-->
