@@ -1,35 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2018900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0010" stage="published" year="2009" raised.by="Members" sop.no="18">
-  <date>Tuesday, 5 May 2009</date>
-  <billref>Immigration Bill </billref>
-  <body id="DLM2018901">
+<sop id="DLM1867000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="5">
+  <date>Tuesday, 3 March 2009</date>
+  <billref>Criminal Proceeds (Recovery) Bill</billref>
+  <body id="DLM1867001">
     <heading>Proposed amendment</heading>
-    <motion>Hone Harawira, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM2018902">
-      <clause.ref>Part 1, new heading and clause 3A</clause.ref>
+    <motion>Te Ururoa Flavell, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM1867002">
+      <clause.ref>Part 1, clause 5</clause.ref>
       <sop.para>
-        <text>To insert the following new heading and clause 3A after clause 3 (after line 6 on page 26):</text>
-        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
-          <prov id="DLM2018903" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="no" quote="1">3A</label>
-            <heading>Act to be consistent with Treaty of Waitangi</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>The interpretation and administration of this Act will be consistent with the Treaty of Waitangi.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
+        <text>To insert “; but” after “property” in the definition of <def-term id="DLM1872700">property</def-term> (<emphasis style="italic">line 7, page 21</emphasis>) and insert the following paragraphs (<emphasis style="italic">after line 7 on page 21</emphasis>):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>excludes Māori customary land and Māori freehold land; and</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">d</label>
+            <para>
+              <text>land that has ceased to be Māori land, and land acquired from Māori for public works under section 129(3) of Te Ture Whenua Māori Act 1993; and</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">e</label>
+            <para>
+              <text>Crown land set aside or reserved for use or benefit by Māori where the Court determines the persons beneficially entitled to the land or an entity to hold the land in trust for the benefit of Māori under sections 129(3) and 134 of Te Ture Whenua Māori Act 1993; and</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">f</label>
+            <para>
+              <text>land vested as a consequence of settlement legislation in Māori or an entity charged with holding such land for the benefit of Māori.</text>
+            </para>
+          </label-para>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2018904" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0010" stage="published" year="2009" raised.by="Members" sop.no="18">
+  <explnote id="DLM1867003" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="5">
     <heading>Explanatory note</heading>
     <para>
-      <text> A reference to the Treaty of Waitangi is added to the Immigration Bill to enable Māori a statutory right of participation in the management of immigration consistent with the rights guaranteed to Māori under the Treaty of Waitangi.</text>
+      <text>This Supplementary Order Paper amends the Criminal Proceeds (Recovery) Bill. The purpose of the amendment is to exclude Māori customary or ancestral land from the definition of property that can be forfeited as a result of criminal activity.</text>
     </para>
   </explnote>
 </sop>
