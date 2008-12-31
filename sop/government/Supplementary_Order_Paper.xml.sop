@@ -1,33 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2440900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="67">
-  <date>Tuesday, 13 October 2009</date>
-  <billref>Sentencing (Offender Levy) Amendment Bill</billref>
-  <body id="DLM2440901">
-    <heading>Proposed amendments</heading>
-    <motion>Hon Simon Power, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2440902">
-      <clause.ref>Clause 7A</clause.ref>
-      <sop.para>
-        <text>To omit this clause (lines 19 to 26 on page 5).</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2440903">
-      <clause.ref>Schedule</clause.ref>
-      <sop.para>
-        <text>Item relating to the Immigration Act 1987: to omit this item (lines 7 to 10 on page 7).</text>
-      </sop.para>
-    </sop.amend>
+<sop id="DLM2171600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="28">
+  <date>Wednesday, 24 June 2009</date>
+  <billref>ASEAN–Australia–New Zealand Free Trade Area Bill</billref>
+  <body id="DLM2171601">
+    <heading>Proposed motion to divide Bill into 2 Bills</heading>
+    <motion>Hon Tim Groser, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, <emphasis style="italic">Part 1</emphasis>, and the <emphasis style="italic">Schedule </emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2171602" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act is the Tariff (AANZFTA) Amendment Act <changeable>2009</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2171603" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on a date appointed by the Governor-General by Order in Council.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2171604" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Customs and Excise (AANZFTA) Amendment Act <changeable>2009</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2171605" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on a date appointed by the Governor-General by Order in Council.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote id="DLM2440904" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="67">
+  <explnote id="DLM2171606" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="28">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper removes 2 amendments made by the Sentencing (Offender Levy) Amendment Bill.</text>
-    </para>
-    <para>
-      <text>It is intended that the amendment made by <emphasis style="italic">clause 7A</emphasis> (which relates to allocating proceeds from the sale of a confiscated motor vehicle) be effected instead by a Supplementary Order Paper to the Vehicle Confiscation and Seizure Bill. </text>
-    </para>
-    <para>
-      <text>It is intended that the amendment made by the item in the Schedule relating to the Immigration Act 1987 (which relates to the definition of fine in section 141AD of that Act) be effected instead by a Supplementary Order Paper to the Immigration Bill.</text>
+      <text>The motion set out on this Supplementary Order Paper divides the ASEAN–Australia–New Zealand Free Trade Area Bill into the following 2 Bills:</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>Tariff (AANZFTA) Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>Customs and Excise (AANZFTA) Amendment Bill.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
