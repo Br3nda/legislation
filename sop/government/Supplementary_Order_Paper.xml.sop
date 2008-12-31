@@ -1,105 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2532900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="85">
-  <date>Tuesday, 17 November 2009</date>
-  <billref>Trade Marks (International Treaties and Enforcement) Amendment Bill</billref>
-  <body id="DLM2532901">
-    <heading>Proposed motion to divide Bill into 2 Bills</heading>
-    <motion>Hon Simon Power, in Committee, to move as follows:</motion>
-    <sop.split>
-      <para>
-        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
-        <prov id="DLM2532902" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act is the Trade Marks Amendment Act <changeable>2009</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM2405600" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="yes">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">1</label>
-              <para>
-                <text><changeable><citation jurisdiction="nz">Sections 3, 4 to 10, 12 to 16, 18 to 20, and 22A to 27</citation></changeable> come into force on the day after the date on which this Act receives the Royal assent.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">2</label>
-              <para>
-                <text>The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
-        <prov id="DLM2532903" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Copyright Amendment Act <changeable>2009</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM2532904" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">1</label>
-              <para>
-                <text><changeable><citation jurisdiction="nz">Sections 28, 30, 32 to 34, 36, 38, and 39</citation></changeable> come into force on the day after the date on which this Act receives the Royal assent.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">2</label>
-              <para>
-                <text>The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
+<sop id="DLM2357400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0009" stage="published" year="2009" raised.by="Government" sop.no="57">
+  <date>Tuesday, 15 September 2009</date>
+  <billref>Local Government (Auckland Council) Bill</billref>
+  <body id="DLM2357401">
+    <heading>Proposed amendments</heading>
+    <motion>Hone Harawira, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2357402">
+      <clause.ref>Part 1, Clause 3</clause.ref>
+      <sop.para>
+        <text>To insert the following new paragraph (after line 4 on page 4)</text>
+        <instrument.amend close.quote="yes" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">ab</label>
+            <para>
+              <text>to provide for mana whenua representation on the Auckland Council, as required under the Treaty of Waitangi, and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+        <follow-text space-before="no">.</follow-text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2357403">
+      <clause.ref>Part 1, clause 4</clause.ref>
+      <sop.para>
+        <text>To insert the following definitions in clause 4, in the appropriate alphabetical order:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <def-para id="DLM2357404" quote="1">
+            <para quote="1">
+              <text><def-term id="DLM2357405">mana whenua</def-term> means customary authority exercised by an iwi or hapū in an identified area</text>
+            </para>
+          </def-para>
+          <def-para id="DLM2357406" quote="1">
+            <para quote="1">
+              <text><def-term id="DLM2357407">mana whenua representative member</def-term> means an elected person who has whakapapa links to the iwi or hapū in an identified area who exercise mana whenua</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2357408">
+      <clause.ref>Part 2, Clause 8(1)</clause.ref>
+      <sop.para>
+        <text>To insert <amend.in quote="1">, and two mana whenua representative members</amend.in> after <amend.in quote="1">members</amend.in> (on line 23 of page 6).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2357409">
+      <clause.ref>Part 2, Clause 8</clause.ref>
+      <sop.para>
+        <text>To add the following new subsection (after line 32 on page 6):</text>
+        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">4</label>
+            <para>
+              <text>Candidates for the position of mana whenua representative member will be selected by those iwi or hapū who exercise mana whenua in the Auckland region, and must be elected by the Māori electors of Auckland.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM2532905" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="85">
+  <explnote id="DLM2357410" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0009" stage="published" year="2009" raised.by="Government" sop.no="57">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper divides the Trade Marks (International Treaties and Enforcement) Amendment Bill into the following 2 Bills:</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the Trade Marks Amendment Bill:</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the Copyright Amendment Bill.</text>
-          </para>
-        </item>
-      </list>
+      <text>The Supplementary Order Paper amends the Local Government (Auckland Council) Bill to establish two mana whenua representative seats on the Auckland Council.  It meets the original requirements of mana whenua representation expressed by the iwi of Ngati Whatua and Tainui, who exercise mana whenua in Auckland, and enables all Māori living in Auckland who are eligible to vote to participate in their election.</text>
     </para>
   </explnote>
 </sop>
