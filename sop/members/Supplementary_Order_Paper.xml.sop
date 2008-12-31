@@ -1,27 +1,379 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2345100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0002" stage="published" year="2009" raised.by="Members" sop.no="40">
-  <date>Tuesday, 8 September 2009</date>
-  <billref>Resource Management (Simplifying and Streamlining) Amendment Bill</billref>
-  <body id="DLM2345101">
+<sop id="DLM2573300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0011" stage="published" year="2009" raised.by="Members" sop.no="96">
+  <date>Thursday, 19 November 2009</date>
+  <billref>Climate Change Response (Moderated Emissions Trading) Amendment Bill</billref>
+  <body id="DLM2573301">
     <heading>Proposed amendments</heading>
-    <motion>Phil Twyford, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2345102">
-      <clause.ref>Part 1</clause.ref>
+    <motion>Charles Chauvel, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2573302">
+      <clause.ref>Clause 22: New Section 82:</clause.ref>
       <sop.para>
-        <text>To omit clause 52 (<emphasis style="italic">lines 8 to 31 on page 52</emphasis>).</text>
+        <text><emphasis style="italic">Subclause (1):</emphasis> To omit the formula <amend.in quote="1">PA = LA × AB × OSY</amend.in> (line 17 on page 32) and substitute the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <table align="center" fontsize="11.5" frame="none" id="DLM2573303" leading="13.5">
+              <tgroup cols="4">
+                <colspec colname="col1" colwidth="5.05*"/>
+                <colspec colname="col2" colwidth="15.00mm"/>
+                <colspec colname="col3" colwidth="40.00mm"/>
+                <colspec colname="col4" colwidth="5.07*"/>
+                <tbody>
+                  <row>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                    <entry align="center" colsep="0" morerows="1" rowsep="0" valign="middle">
+                      <para>
+                        <eqn id="DLM2573304">
+                          <eqn-line>PA =</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0">
+                      <para>
+                        <eqn id="DLM2573305">
+                          <eqn-line>LA × AB × OSY × EB</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                  </row>
+                  <row>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                    <entry align="center" colsep="0" rowsep="0">
+                      <para>
+                        <eqn id="DLM2573306">
+                          <eqn-line>ESY</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0" rowsep="0"> </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert, after the definition of <amend.in quote="1">OSY</amend.in> (after line 8 on page 33) the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <table align="center" fontsize="11.5" frame="none" id="DLM2573307" leading="13.5">
+              <tgroup cols="2">
+                <colspec colname="col1" colwidth="12.00mm"/>
+                <colspec colname="col2" colwidth="2.00*"/>
+                <tbody>
+                  <row>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>“EB</text>
+                      </para>
+                    </entry>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>is the total emissions produced by eligible industrial activities in the baseline year of 2005.</text>
+                      </para>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>“ESY</text>
+                      </para>
+                    </entry>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>is the total emissions produced by eligible industrial activities in the year immediately proceeding the specified year, as determined in accordance with regulations made under this Act.”</text>
+                      </para>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </para>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM2345103">
-      <clause.ref>Part 2</clause.ref>
+    <sop.amend id="DLM2573308">
+      <clause.ref>Clause 22: New Section 84:</clause.ref>
       <sop.para>
-        <text>To omit clause 151 (<emphasis style="italic">lines 18 to 37 on page 203 and lines 1 to 8 on page 204</emphasis>).</text>
+        <text><emphasis style="italic">Subclause (1):</emphasis> To omit the formula <amend.in quote="1">FA = LA × AB × OSY</amend.in> (line 28 on page 33) and substitute the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <table align="center" fontsize="11.5" frame="none" id="DLM2573309" leading="13.5">
+              <tgroup cols="4">
+                <colspec colname="col1" colwidth="5.05*"/>
+                <colspec colname="col2" colwidth="15.00mm"/>
+                <colspec colname="col3" colwidth="40.00mm"/>
+                <colspec colname="col4" colwidth="5.07*"/>
+                <tbody>
+                  <row>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                    <entry align="center" colsep="0" morerows="1" rowsep="0" valign="middle">
+                      <para>
+                        <eqn id="DLM2573310">
+                          <eqn-line>FA =</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0">
+                      <para>
+                        <eqn id="DLM2573311">
+                          <eqn-line>LA × AB × OSY × EB</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                  </row>
+                  <row>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                    <entry align="center" colsep="0" rowsep="0">
+                      <para>
+                        <eqn id="DLM2573312">
+                          <eqn-line>ESY</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0" rowsep="0"> </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert, after the definition of <amend.in quote="1">OSY</amend.in> (after line 6 on page 34) the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <table align="center" fontsize="11.5" frame="none" id="DLM2573313" leading="13.5">
+              <tgroup cols="2">
+                <colspec colname="col1" colwidth="12.00mm"/>
+                <colspec colname="col2" colwidth="2.00*"/>
+                <tbody>
+                  <row>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>“EB</text>
+                      </para>
+                    </entry>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>is the total emissions produced by eligible industrial activities in the baseline year of 2005.</text>
+                      </para>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>“ESY</text>
+                      </para>
+                    </entry>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>is the total emissions produced by eligible industrial activities in the year immediately proceeding the specified year, as determined in accordance with regulations made under this Act.”</text>
+                      </para>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2573314">
+      <clause.ref>Clause 22: New Section 85A:</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1):</emphasis> To omit the formula <amend.in quote="1">FA = LA × AB × OSY</amend.in> (line 18 on page 37) and substitute the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <table align="center" fontsize="11.5" frame="none" id="DLM2573315" leading="13.5">
+              <tgroup cols="4">
+                <colspec colname="col1" colwidth="5.05*"/>
+                <colspec colname="col2" colwidth="15.00mm"/>
+                <colspec colname="col3" colwidth="40.00mm"/>
+                <colspec colname="col4" colwidth="5.07*"/>
+                <tbody>
+                  <row>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                    <entry align="center" colsep="0" morerows="1" rowsep="0" valign="middle">
+                      <para>
+                        <eqn id="DLM2573316">
+                          <eqn-line>FA =</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0">
+                      <para>
+                        <eqn id="DLM2573317">
+                          <eqn-line>LA × AB × OSY × EB</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                  </row>
+                  <row>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                    <entry align="center" colsep="0" rowsep="0">
+                      <para>
+                        <eqn id="DLM2573318">
+                          <eqn-line>ESY</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0" rowsep="0"> </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert, after the definition of <amend.in quote="1">OSY</amend.in> (after line 7 on page 38) the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <table align="center" fontsize="11.5" frame="none" id="DLM2573319" leading="13.5">
+              <tgroup cols="2">
+                <colspec colname="col1" colwidth="12.00mm"/>
+                <colspec colname="col2" colwidth="2.00*"/>
+                <tbody>
+                  <row>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>“EB</text>
+                      </para>
+                    </entry>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>is the total emissions produced by eligible industrial activities in the baseline year of 2005.</text>
+                      </para>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>“ESY</text>
+                      </para>
+                    </entry>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>is the total emissions produced by eligible industrial activities in the year immediately proceeding the specified year, as determined in accordance with regulations made under this Act.”</text>
+                      </para>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2573320">
+      <clause.ref>Clause 22: New Section 86:</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1):</emphasis> To omit the formula <amend.in quote="1">A = LA × AB × OSY</amend.in> (line 16 on page 38) and substitute the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <table align="center" fontsize="11.5" frame="none" id="DLM2573321" leading="13.5">
+              <tgroup cols="4">
+                <colspec colname="col1" colwidth="5.05*"/>
+                <colspec colname="col2" colwidth="15.00mm"/>
+                <colspec colname="col3" colwidth="40.00mm"/>
+                <colspec colname="col4" colwidth="5.07*"/>
+                <tbody>
+                  <row>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                    <entry align="center" colsep="0" morerows="1" rowsep="0" valign="middle">
+                      <para>
+                        <eqn id="DLM2573322">
+                          <eqn-line>A =</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0">
+                      <para>
+                        <eqn id="DLM2573323">
+                          <eqn-line>LA × AB × OSY × EB</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                  </row>
+                  <row>
+                    <entry align="center" colsep="0" rowsep="0">  </entry>
+                    <entry align="center" colsep="0" rowsep="0">
+                      <para>
+                        <eqn id="DLM2573324">
+                          <eqn-line>ESY</eqn-line>
+                        </eqn>
+                      </para>
+                    </entry>
+                    <entry align="center" colsep="0" rowsep="0"> </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert, after the definition of <amend.in quote="1">OSY</amend.in> (after line 30 on page 38) the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <para>
+            <table align="center" fontsize="11.5" frame="none" id="DLM2573325" leading="13.5">
+              <tgroup cols="2">
+                <colspec colname="col1" colwidth="12.00mm"/>
+                <colspec colname="col2" colwidth="2.00*"/>
+                <tbody>
+                  <row>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>“EB</text>
+                      </para>
+                    </entry>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>is the total emissions produced by eligible agricultural activities in the baseline year of 2005.</text>
+                      </para>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>“ESY</text>
+                      </para>
+                    </entry>
+                    <entry colsep="0" rowsep="0">
+                      <para>
+                        <text>is the total emissions produced by eligible agricultural activities in the year immediately proceeding the specified year, as determined in accordance with regulations made under this Act.”</text>
+                      </para>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </para>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2345104" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2009" raised.by="Members" sop.no="40">
+  <explnote id="DLM2573326" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0011" stage="published" year="2009" raised.by="Members" sop.no="96">
     <heading>Explanatory note</heading>
     <para>
-      <text>The combined effect of clauses 52 and 151 is to legislatively prohibit the people of Auckland, through their locally elected representatives, from making their own decisions about tree protection.  The amendments in this Supplementary Order Paper remove this prohibition and leave the matter to Aucklanders to decide. These amendments would also allow the Government time to meaningfully engage with local communities in respect to any modifications of existing tree protection rules.</text>
+      <text>This Supplementary Order Paper amends the Climate Change Response (Moderated Emissions Trading) Amendment Bill. These amendments are as follows:</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 22: New Section 82:</emphasis> alters the formula for the determination of allocations to industrial emitters to impose a cap based on 2005 emissions. Applicants will receive a share of the cap based on their share of eligible industrial emissions in the specified year.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 22: New Section 84:</emphasis> applies the above to the calculation of final allocations.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 22: New Section 85A:</emphasis> applies the above to new industrial emitters.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 22: New Section 86:</emphasis> alters the formula for the determination of allocations to agricultural emitters to impose a cap based on 2005 emissions. Applicants will receive a share of the cap based on their share of eligible agricultural emissions in the specified year.</text>
     </para>
   </explnote>
 </sop>
