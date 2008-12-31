@@ -1,135 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1877500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="8">
-  <date>Thursday, 5 March 2009</date>
-  <billref>Criminal Proceeds (Recovery) Bill</billref>
-  <body id="DLM1877501">
-    <heading>Proposed motion to divide Bill into 3 Bills</heading>
-    <motion>Hon Simon Power, in Committee, to move as follows:</motion>
-    <sop.split>
-      <para>
-        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Parts 1 and 2</emphasis> be a separate Bill, and that for the enacting words and <emphasis style="italic">clauses 1 and 2</emphasis> there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1877502" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act is the Criminal Proceeds (Recovery) Act <changeable>2009</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1877503" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on <changeable><citation jurisdiction="nz">1 December 2009</citation></changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">subpart 1 of Part 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 3</emphasis> and <emphasis style="italic">subpart 1</emphasis> headings there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
-        <prov id="DLM1877504" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Mutual Assistance in Criminal Matters Amendment Act <changeable>2009</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1877505" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on <changeable><citation jurisdiction="nz">1 December 2009</citation></changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">subpart 2 of Part 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">subpart 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM1877506" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Sentencing Amendment Act <changeable>2009</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM1877507" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on <changeable><citation jurisdiction="nz">1 December 2009</citation></changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
+<sop id="DLM1869500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="6">
+  <date>Tuesday, 3 March 2009</date>
+  <billref>Alcohol Advisory Council Amendment Bill</billref>
+  <body id="DLM1869501">
+    <heading>Proposed amendment</heading>
+    <motion>Hon Tony Ryall, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM1869502">
+      <clause.ref>Schedule</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">22.90.08</amend.in> (page 7, fourth line in the second column for the item relating to class F) and substitute <amend.in quote="1">2208.90.08</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM1877508" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="8">
+  <explnote id="DLM1869503" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="6">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper divides the Criminal Proceeds (Recovery) Bill into the following 3 Bills:</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the Criminal Proceeds (Recovery) Bill:</text>
-          </para>
-        </item>
-      </list>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the Mutual Assistance in Criminal Matters Amendment Bill:</text>
-          </para>
-        </item>
-      </list>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the Sentencing Amendment Bill.</text>
-          </para>
-        </item>
-      </list>
+      <text>This Supplementary Order Paper corrects a typographical error in the schedule set out in the Alcohol Advisory Council Amendment Bill.</text>
     </para>
   </explnote>
 </sop>
