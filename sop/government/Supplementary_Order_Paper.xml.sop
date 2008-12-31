@@ -1,93 +1,371 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2471500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="76">
-  <date>Tuesday, 20 October 2009</date>
-  <billref>Social Assistance (Payment of New Zealand Superannuation and Veteran's Pension Overseas) Amendment Bill</billref>
-  <body id="DLM2471501">
-    <heading>Proposed motion to divide Bill into 2 Bills</heading>
-    <motion>Hon Paula Bennett, in Committee, to move as follows:</motion>
-    <sop.split>
-      <para>
-        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis>, be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM2471502" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act is the New Zealand Superannuation and Retirement Income Amendment Act <changeable>2009</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM2471503" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on a date to be appointed by the Governor-General by Order in Council.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM2471504" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the War Pensions Amendment Act <changeable>2009</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM2471505" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on a date to be appointed by the Governor-General by Order in Council.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
+<sop id="DLM2358800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0008" stage="published" year="2009" raised.by="Government" sop.no="62">
+  <date>Tuesday, 15 September 2009</date>
+  <billref>Local Government (Auckland Council) Bill</billref>
+  <body id="DLM2358801">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Rodney Hide, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2358802">
+      <clause.ref>Clause 17C</clause.ref>
+      <sop.para>
+        <text>To add the following subclause (after line 6 on page 25):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">7</label>
+            <para>
+              <text>No delegation under this section relieves the governing body or a local board of the liability or legal responsibility to perform or ensure performance of any function or duty.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2358803">
+      <clause.ref>Clause 18</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1A)</emphasis>: to omit this subclause (line 25 on page 25 to line 5 on page 26).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)(c)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">Part 2 of</citation></changeable></amend.in> (line 35 on page 26).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2A)</emphasis>: to omit <amend.in quote="1">boundaries determined under <changeable><citation jurisdiction="nz">subsections (1A) and (2)</citation></changeable></amend.in> (line 1 on page 27) and substitute <amend.in quote="1">boundary determined under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (5A)</emphasis>: to insert after <quote.in quote="1">this section,</quote.in> (line 18 on page 27) <amend.in quote="1"><changeable><citation jurisdiction="nz">section 19, and the Schedule</citation></changeable>,</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (5A)</emphasis>: to insert the following definition after the definition of Auckland region (after line 21 on page 27):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <def-para id="DLM2358804">
+            <para>
+              <text><def-term id="DLM2358805">Franklin district</def-term> means the area described as the Franklin district in the Local Government (Auckland Region) Reorganisation Order 1989 (<emphasis style="italic">Gazette</emphasis> 1989, p 2267)</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (5A)</emphasis>: to omit the definitions of <def-term id="DLM2358806">Kaipara district</def-term>, <def-term id="DLM2358807">Northland region</def-term>, and <def-term id="DLM2358808">Rodney district</def-term> (lines 25 to 33 on page 27).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2358809">
+      <clause.ref>Clause 19</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (4A)(c)(i)</emphasis>: to omit this subparagraph (lines 18 to 21 on page 30) and substitute the following subparagraph:</text>
+        <instrument.amend close.quote="no" increment="2" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes" increment="1">i</label>
+            <para>
+              <text>a single-member ward based on the rural area of Rodney district (as that district is described in the Local Government (Auckland Region) Reorganisation Order 1989 (<emphasis style="italic">Gazette</emphasis> 1989, p 2253); and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2358810">
+      <clause.ref>Clause 23</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (1)</emphasis> (after line 7 on page 33):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">1A</label>
+            <para>
+              <text>Section 13(1)(g) is amended by inserting the following subparagraph after subparagraph (iv):</text>
+              <amend increment="2" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">iva</label>
+                  <para>
+                    <text>preparing a planning document for the Auckland Council for the period 1 November 2010 to 30 June 2011 in accordance with <changeable><citation jurisdiction="nz">section 19A</citation></changeable>; and</text>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2358811">
+      <clause.ref>New clauses 23B to 23D</clause.ref>
+      <sop.para>
+        <text>To insert the following clauses after <emphasis style="italic">clause 23A</emphasis> (after line 27 on page 33):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2358812" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">23B</label>
+            <heading>New section 19A inserted</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>The following section is inserted after section 19:</text>
+                  <amend quote="1">
+                    <prov id="DLM2358813" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">19A</label>
+                      <heading>Preparation of planning document</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>The Transition Agency must prepare a planning document for the Auckland Council for the period 1 November 2010 to 30 June 2011.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>The document must be treated as satisfying section 95 of the Local Government Act 2002—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>as that section applies to the Auckland Council as a local authority; and </text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>for the 2010/2011 financial year.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>The Transition Agency must complete the document by 31 October 2010.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM2358814" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">23C</label>
+            <heading>Dissolution of Auckland Transition Agency</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>Section 27(3) is repealed.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM2358815" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">23D</label>
+            <heading>New sections 29A to 29C</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>The following sections are inserted after section 29:</text>
+                  <amend quote="1">
+                    <prov id="DLM2358816" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">29A</label>
+                      <heading>Obligations of existing local authorities in relation to 2010/2011 annual plan</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>This section applies in relation to the annual plan for the financial year commencing 1 July 2010 that each existing local authority is required to prepare and adopt under section 95 of the Local Government Act 2002.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>The annual plan is only required to cover the period from 1 July 2010 to 31 October 2010 (being the period from the commencement of the financial year until the date on which each existing local authority is dissolved under section 35).</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>Despite section 95(2) of the Local Government Act 2002, the annual plan may simply be adopted by resolution of the existing local authority, but only if the plan is consistent with the financial statements and funding impact statement included in its long-term council community plan (<def-term id="DLM2358817">LTCCP</def-term>) for the 2010/2011 financial year.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">4</label>
+                          <para>
+                            <text>An annual plan is not inconsistent with the financial statements and funding impact statement included in the LTCCP for the 2010/2011 financial year because—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the plan applies to a 4-month period; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the plan reflects more accurate estimates of—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>the costs of achieving and maintaining the levels of service provision identified in the LTCCP in respect of that year; or</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>any other costs or expenses identified in the LTCCP in respect of that year; or</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">iii</label>
+                                  <para>
+                                    <text>any revenue or other income of the existing local authority identified in the LTCCP in respect of that year.</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">5</label>
+                          <para>
+                            <text>An existing local authority must consult the Transition Agency throughout the preparation of the annual plan. </text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">6</label>
+                          <para>
+                            <text>Except to the extent that it is modified by this section, section 95 of the Local Government Act 2002 applies to the annual plan.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">7</label>
+                          <para>
+                            <text>Nothing in <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable> limits or affects the obligations imposed on an existing local authority under section 29 or 31.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                    <prov id="DLM2358818" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">29B</label>
+                      <heading>Rates and other revenue mechanisms</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>Each existing local authority must set each rate and any other revenue mechanism provided for in the funding impact statement included in the annual plan to which <changeable><citation jurisdiction="nz">section 29A</citation></changeable> applies for the full financial year.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text><changeable><citation jurisdiction="nz">Subsection (1)</citation></changeable> applies despite the annual plan only covering the 4-month period from 1 July 2010 to 31 October 2010.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>In setting each rate or other revenue mechanism, an existing local authority must ensure that the rate or mechanism is set at a level sufficient to meet—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the amount of funds required from the mechanism (as set out in the funding impact statement) for the 4-month period; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the amount of funds that would be required from the mechanism for the balance of the financial year, if the requirements identified in <changeable><citation jurisdiction="nz">paragraph (a)</citation></changeable> continued for that period.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                    <prov id="DLM2358819" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">29C</label>
+                      <heading>Obligations of existing local authorities in relation to 2010/2011 annual report</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>An existing local authority is not required to prepare and adopt an annual report for the 2009/2010 financial year.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>Instead, a report for the period 1 July 2009 to 31 October 2010 must be prepared for each existing local authority, and adopted by the Auckland Council.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>Sections 98 and 99 of the Local Government Act 2002 apply, with all necessary modifications, to a report prepared and adopted under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> as if the report were an annual report.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2358820">
+      <clause.ref>Schedule</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Schedule heading</emphasis>: to omit this heading (lines 1 to 6 on page 35) and substitute the following heading:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <schedule id="DLM2358821" in.amend="false" irdnumbering="no" prov-type="clause" raised.by="Government" schedule.heading.continue="no" sop.no="62" toc="yes" type="schedule" year="2009">
+            <label auto.number="no" denominator="yes"> </label>
+            <empowering-prov>
+              <changeable>
+                <citation jurisdiction="nz">s 18(2)(c)</citation>
+              </changeable>
+            </empowering-prov>
+            <heading>Matters to be addressed by Local Government Commission when making determination in relation to southern boundary of Auckland</heading>
+          </schedule>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Part 1</emphasis>: to omit this Part (line 6 on page 35 to line 19 on page 37).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Part 2 heading</emphasis>: to omit this heading (lines 20 to 22 on page 37).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 1</emphasis>: to omit <amend.in quote="1">Part</amend.in> (line 24 on page 37) and substitute <amend.in quote="1">schedule</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Clause 2</emphasis>: to add the following paragraph (after line 24 on page 39):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">j</label>
+            <para>
+              <text>the matters to be included in the annual plan of the Hauraki District Council or the Waikato District Council for the 2010/2011 financial year, in relation to the parts of its district that were formerly part of Franklin district.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM2471506" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="76">
+  <explnote id="DLM2358822" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0008" stage="published" year="2009" raised.by="Government" sop.no="62">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper divides the Bill into the following 2 Bills:</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the New Zealand Superannuation and Retirement Income Amendment Bill:</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the War Pensions Amendment Bill.</text>
-          </para>
-        </item>
-      </list>
+      <text>This Supplementary Order Paper amends the provisions of the Bill relating to the determinations of the Local Government Commission in relation to the northern boundary of Auckland. The amendments effectively require that all of the current Rodney district be included in Auckland and a single-member ward based on the rural area of that district be established.</text>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper also amends the Bill by inserting further provisions into Part 4. Part 4 amends the Local Government (Tamaki Makaurau Reorganisation) Act 2009.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 23B</emphasis> inserts a further obligation in respect of the Auckland Transition Agency (the Agency responsible for making arrangements to enable the Auckland Council to operate on and from its establishment on 1 November 2010) to prepare a planning document for the Auckland Council that will apply, as the Council's annual plan, until the end of the 2010/2011 financial year.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 23C</emphasis> corrects a drafting error that arose during the passage of the Local Government (Tamaki Makaurau Reorganisation) Act 2009.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 23D</emphasis> inserts 2 further obligations in respect of the existing local authorities of the Auckland region. <emphasis style="italic">New section 29A</emphasis> requires each existing local authority to fulfil the obligation to prepare an annual plan for the 2010/2011 financial year, but limits that requirement to the 4-month period in which the authority will actually exist. <emphasis style="italic">New section 29B</emphasis> clarifies that existing local authorities must set rates and other revenue mechanisms for a 12-month period, despite the fact that they will be dissolved 4 months into the 12-month period. This is necessary to ensure revenue for the Auckland Council for the first 8 months of its existence.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 23D</emphasis> also inserts <emphasis style="italic">new section 29C</emphasis>, which effectively removes the obligation of an existing local authority to prepare and adopt an annual report for the 2009/2010 and 2010/2011 financial years and replaces it with an obligation to prepare one report for the period 1 July 2009 to 31 October 2010. </text>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper also makes some technical and consequential amendments to the Bill.</text>
     </para>
   </explnote>
 </sop>
