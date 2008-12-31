@@ -1,98 +1,1498 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM2294200" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="70" bill.type="government" stage="3" year="2009">
+<bill id="DLM2294200" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="70" bill.type="government" stage="1" year="2009">
   <billdetail>
     <title>Education (Polytechnics) Amendment Bill</title>
     <billtype>Government Bill</billtype>
-    <repnote>As reported from the committee of the whole House</repnote>
+    <explnote id="DLM2294201" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="70" bill.type="government" stage="1" year="2009">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
+        <para>
+          <text>The polytechnic sector faces particular educational and financial challenges, which are likely to be exacerbated by an increasingly constrained funding environment. The public policy objectives of this Bill are—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>to improve the governance capability and effectiveness of polytechnic councils; and</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>to allow the Crown to more effectively respond to the risks posed by polytechnics with educational or financial performance issues.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <explnote.crosshead>Governance arrangements</explnote.crosshead>
+        <para>
+          <text>The Bill addresses the first objective by introducing new governance arrangements for polytechnics. The aim is to build the capability of polytechnic councils for decisive and responsive decision-making by—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>reducing the size of polytechnic councils from between 12 to 20 members, to 8 only; and</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the Minister for Tertiary Education appointing fifty percent of members; and</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>appointments being made on the basis of relevant skills and experience, particularly governance experience.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The Bill reflects aspects of the unique context within which polytechnic councils operate, by retaining, and in some instances strengthening, the representative nature of councils.</text>
+        </para>
+        <para>
+          <text>The emphasis on improved governance is reinforced by the introduction of new individual duties to be placed on polytechnic council members, which reflect those set out in the Crown Entities Act 2004. Particular emphasis is placed upon the primary responsibility of a council member to serve the interests of the institution. The new duties, when combined with the collective duties already specified in the Education Act 1989, will provide greater clarity and certainty regarding the expectations on and responsibilities of council members.</text>
+        </para>
+        <para>
+          <text>In order to assist with the recruitment of suitable candidates for council membership, especially in rural areas, the Bill introduces measures to facilitate collaborative governance arrangements. As an example, the Bill clarifies that individuals can sit on more than 1 polytechnic council.</text>
+        </para>
+        <explnote.crosshead>The interventions framework</explnote.crosshead>
+        <para>
+          <text>The Bill addresses the second objective by amending the Education Act 1989 to create a more flexible interventions framework for the polytechnic sector; one which allows for a gradually escalating series of responses to situations of risk. The current interventions framework is insufficiently graduated to enable the Crown to intervene appropriately where a polytechnic is at risk (either because of educational or financial performance issues) and in a manner commensurate with the level of risk.</text>
+        </para>
+        <explnote.crosshead>Miscellaneous amendments</explnote.crosshead>
+        <para>
+          <text>At present, each individual polytechnic has an academic board. The Bill provides for 2 or more polytechnic councils and combined councils to establish a combined academic board. It is intended that this will facilitate collaboration between polytechnics, and improve administrative efficiency.</text>
+        </para>
+        <para>
+          <text>The Bill modifies the application of certain provisions of the Education Act 1989 so as to enable the Manukau Institute of Technology to establish a tertiary education high school. This is a trial project, which is aimed at reducing the numbers of young people leaving school without adequate qualifications. Eligible students in years 11–13 will be transitioned towards achieving a tertiary qualification.</text>
+        </para>
+        <para>
+          <text>Also, minor technical amendments are made to the tertiary education Parts of the Education Act 1989, with the aim of updating the Act through removal of redundant provisions.</text>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 1</emphasis> relates to the Bill's title.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 2</emphasis> provides that—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text><emphasis style="italic">clauses 5, 7 to 9, and 11 to 13</emphasis>, which make to Part 15 of the principal Act amendments consequential on the new provisions inserted by <emphasis style="italic">clause 16</emphasis>, come into force on the day on which <emphasis style="italic">clause 16</emphasis> comes into force (1 May 2010):</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text><emphasis style="italic">clause 16</emphasis>, which inserts into the principal Act new provisions relating to the governance of polytechnics, comes into force on 1 May 2010:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>the rest of the Bill comes into force on the day after assent.</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 3</emphasis> provides that the Bill amends the Education Act 1989.</text>
+          </para>
+        </clause.desc>
+        <explnote.part id="DLM2294202">
+          <label auto.number="no" denominator="yes">1  </label>
+          <heading>Substantive provisions</heading>
+          <explnote.crosshead>Amendments to existing provisions of principal Act relating to tertiary education</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clauses 4 to 14</emphasis>—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>amend certain provisions in Part 15 of the principal Act (and also section 159 of the principal Act, which contains certain definitions); and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>repeal some spent provisions in Part 15.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>Part 15 relates to the administration of tertiary institutions (that is to say, polytechnics, specialist colleges, universities, and wananga); and the effect of the amendments is to exclude the application of some its provisions to polytechnics, because new provisions to be inserted into the principal Act by <emphasis style="italic">clauses 15 and 16</emphasis> provide differently for polytechnics. Apart from these express exclusions, Part 15 will continue to apply to polytechnics to the same extent as they apply to the other classes of tertiary institution.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4</emphasis> inserts definitions of <quote.in quote="1">combined council</quote.in>, <quote.in quote="1">constitutents</quote.in>, <quote.in quote="1">polytechnic council</quote.in>, and <quote.in quote="1">polytechnic reconstitution day</quote.in> (which is 1 May 2010) into section 159(1) of the principal Act.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5</emphasis> comes into force on 1 May 2010. It amends section 165 of the principal Act, which provides for every tertiary institution to be governed by a council constituted under Part 15, and also provides that references in any law to the council or other governing body of an institution are to be read as references to its council constituted under Part 15.</text>
+            </para>
+            <para>
+              <text>The amendment has the effect that after the polytechnic reconstitution day—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the council of a polytechnic will not be constituted under Part 15 (but under the <emphasis style="italic">new Part 15A</emphasis>); and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>references to the council or other governing body of a polytechnic are to be read as references to its council constituted under <emphasis style="italic">new Part 15A</emphasis>.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> repeals section 168 of the principal Act, which is a spent provision requiring the governing bodies of tertiary institutions in existence when the Education Amendment Act 1990 came into force to recommend new constitutions for themselves.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 7</emphasis> comes into force on 1 May 2010. It amends section 169 of the principal Act, which is a mechanism for establishing a constitution for a newly established tertiary institution. The effect of the amendment is that the section does not apply to the constitution for a newly established polytechnic. This is instead provided for by <emphasis style="italic">new section 222AA</emphasis> (as proposed to be inserted by <emphasis style="italic">clause 16</emphasis>).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 8</emphasis> comes into force on 1 May 2010. It amends section 170 of the principal Act, which is a mechanism for amending the constitution of a tertiary institution. The effect of the amendment is that the section does not apply to the constitution of a polytechnic. <emphasis style="italic">New section 222AA</emphasis> (as proposed to be inserted by <emphasis style="italic">clause 16</emphasis>) provides that the constitution of a polytechnic is fixed.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9</emphasis> comes into force on 1 May 2010. It amends section 171 of the principal Act, which states requirements for the constitutions of tertiary institutions. The effect of the amendment is that the section does not apply to the constitution of a polytechnic. <emphasis style="italic">New sections 222AA and 222AK</emphasis> (as proposed to be inserted by <emphasis style="italic">clause 16</emphasis>) state the requirements for the constitutions of polytechnics.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 10</emphasis> repeals section 172 of the principal Act, which is a spent transitional provision relating to the first councils of tertiary institutions in existence when the Education Amendment Act 1990 came into force.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 11</emphasis> comes into force on 1 May 2010. It amends section 173 of the principal Act, which prescribes the terms of office of members of the councils of tertiary institutions. The effect of the amendment is that the section does not apply to the terms of office of members of the councils of polytechnics. <emphasis style="italic">New section 222AD</emphasis> (as proposed to be inserted by <emphasis style="italic">clause 16</emphasis>) prescribes the terms of office of members of the councils of polytechnics.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 12</emphasis> comes into force on 1 May 2010. It amends section 174 of the principal Act, which provides for members of the councils of tertiary institutions to go out of office in certain circumstances. <emphasis style="italic">New section 222AD</emphasis> (as proposed to be inserted by <emphasis style="italic">clause 16</emphasis>) requires one member of the council of a polytechnic to be a member of its academic board, appointed by the council on the nomination of that board. And <emphasis style="italic">new section 222AK</emphasis> (also proposed to be inserted by <emphasis style="italic">clause 16</emphasis>) requires a combined council to be a member of the academic board of one of the polytechnics concerned, appointed by the council on the nomination of one or other of the academic boards of the polytechnics concerned, or of all of them jointly. The effect of the amendment is that such a member of the council of a polytechnic goes out of office when he or she ceases to be a member of the academic board.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 13</emphasis> comes into force on 1 May 2010. It amends section 177 of the principal Act, which provides for the election of a chairperson and deputy chairperson of the council of a tertiary institution. The effect of the amendment is that the section does not apply to the chairperson and deputy chairperson of a polytechnic. <emphasis style="italic">New section 222AF</emphasis> (as proposed to be inserted by <emphasis style="italic">clause 16</emphasis>) provides for the chairperson and deputy chairperson of the council of a polytechnic to be appointed by the Minister.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 14</emphasis> amends section 195A of the principal Act, which requires the Secretary of Education, after consulting the councils of tertiary institutions, to determine criteria for assessing the level of risk to the operation and long-term viability of tertiary institutions. The effect of the amendment is that the Secretary—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>can determine separate criteria for polytechnics; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>in doing so, needs to consult only the councils of polytechnics.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>Any separate criteria determined can be in addition to or instead of those for other tertiary institutions.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>New provisions relating to polytechnics</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 15</emphasis> inserts into the principal Act a <emphasis style="italic">new Part 15A</emphasis>, containing <emphasis style="italic">sections 222A to 222E</emphasis>, which provide for certain interventions into the affairs of polytechnics.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222A</emphasis> empowers the chief executive of the Tertiary Education Commission to require a polytechnic council to obtain specialist help.</text>
+            </para>
+            <para>
+              <text>The chief executive can do so only if he or she believes on reasonable grounds that a polytechnic, or the education performance of the students at a polytechnic, may be at risk.</text>
+            </para>
+            <para>
+              <text>The chief executive must specify—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the help or kind of help to be obtained; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the person or organisation (or kind of person or organisation) from whom or which it is to be obtained.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>The council must then engage that person or organisation (or a person or organisation of that kind), and—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must give the person or organisation all the information, access, and other help, reasonably necessary to enable the help to be provided; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>if the help provided is advice, take the advice into account.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>The council must pay the person or organisation's reasonable fees and expenses.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222B</emphasis> empowers the chief executive of the Tertiary Education Commission to require a polytechnic council to prepare and give to him or her a draft performance improvement plan for its polytechnic.</text>
+            </para>
+            <para>
+              <text>Once again, the chief executive can do so only if he or she believes on reasonable grounds that a polytechnic, or the education performance of the students at a polytechnic, may be at risk.</text>
+            </para>
+            <para>
+              <text>The chief executive must specify—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the matters to be addressed by the draft plan:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the outcomes that implementation of the draft plan is intended to achieve:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the times by which those outcomes should be achieved:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the performance measures to be used to determine whether those outcomes have been achieved:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the day by which the draft plan must be given to the chief executive.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>If by the day specified, the polytechnic council gives the chief executive a draft plan addressing the matters specified, the chief executive can—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>approve the draft plan; or</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>approve some other plan (whether it is a modified version of the draft plan or a different plan).</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>A polytechnic council must take all reasonably practicable steps—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>to conduct its affairs in accordance with an approved plan; and (in particular)</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>to achieve the outcomes stated in the plan by the times stated in the plan for them.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222C</emphasis> empowers the Minister to appoint a Crown manager for a polytechnic.</text>
+            </para>
+            <para>
+              <text>The Minister can do so only if satisfied on reasonable grounds that the operation or long-term viability of a polytechnic is at risk, or that the education performance of the students at a polytechnic is at risk.</text>
+            </para>
+            <para>
+              <text>The Minister can decide—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the functions of the polytechnic's council to be performed by the Crown manager; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>conditions subject to which the Crown manager may perform the functions; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>any matters the Crown manager may advise the council on.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>While there is a Crown manager appointed for a polytechnic, the Crown manager may perform any of the functions determined by the Minister, and the polytechnic's council—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must not perform any of the functions; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must give the Crown manager all the information, access, and other help, reasonably necessary to enable the Crown manager to perform the functions.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222D</emphasis> makes clear that—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the powers of intervention into the affairs of polytechnics given by <emphasis style="italic">new sections 222A to 222C</emphasis> are in addition to the powers available in respect of tertiary institutions generally under sections 195B to 195D of the principal Act; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>powers given by 2 or more of those sections may be exercised at the same time.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222E</emphasis> gives a polytechnic council a right to ask the Minister or chief executive of the Tertiary Education Commission to intervene in its affairs under a particular provision of the principal Act, and requires the Minister or chief executive—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>to consider any argument or evidence supplied by the council; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>to consider whether or not to act under the provision.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>But having done so, the Minister or chief executive can then (if any necessary conditions are met) act under another of those provisions giving him or her power to act.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 16</emphasis> comes into force on 1 May 2010. It inserts into the principal Act <emphasis style="italic">new sections 222AA to 222RR</emphasis>, which provide for the governance of polytechnics.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Polytechnic councils</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AA</emphasis> prescribes a constitution for all polytechnic councils. A polytechnic council must comprise—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>4 members appointed by the Minister:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a member of the polytechnic's academic board nominated by that board and appointed by the council:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a student member (appointed by the polytechnic's students association if membership of the association is compulsory, or otherwise elected by students enrolled at the polytechnic):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a member, nominated by people living in the community served by the polytechnic, or by bodies operating in that community, appointed by the council:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the polytechnic's chief executive.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>With one exception, provisions relating to eligibility for appointment or election as a member of a polytechnic council and elections of student members are the same as those for other tertiary institutions. A person is not eligible for appointment or election if he or she has at any time been removed from office as a member of a polytechnic council under <emphasis style="italic">new section 222AH</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AB</emphasis> allows a person to be a member of more than one polytechnic council.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AC</emphasis> states matters to be considered when appointments of members of polytechnic councils are made.</text>
+            </para>
+            <para>
+              <text><emphasis style="italic">Subsection (1)</emphasis> provides that it is desirable in principle—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>that a polytechnic council should include Māori; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>that, so far as is possible, a polytechnic council should reflect the ethnic and socio-economic diversity of the community it serves.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text><emphasis style="italic">Subsection (2)</emphasis> provides that the Minister—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must have regard to <emphasis style="italic">subsection (1)</emphasis> when appointing members of a polytechnic council; but</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must appoint people who have enough experience of governance to fulfil their individual duties as members of the council and the functions, duties, and responsibilities of the council.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text><emphasis style="italic">Subsection (3)</emphasis> provides that a polytechnic council must appoint as members people who—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>have relevant knowledge, skills, or experience; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>are likely to be able to fulfil their individual duties as members of the council and the functions, duties, and responsibilities of the council.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AD</emphasis> relates to the terms of office of appointed and elected members of polytechnic councils. These are—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>not more than 4 years for a member appointed by the Minister:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>1 year for a member nominated by a polytechnic's academic board:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>1 year for a student member:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>not less than 2 years and not more than 4 years for a member nominated by people living in the community served by a polytechnic.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AE</emphasis> provides that any member of a polytechnic council can be reappointed or re-elected.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AF</emphasis> relates to the chairperson and deputy chairperson of a polytechnic council, each of whom—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>is to be appointed by the Minister from the members of the council other than the student member, the polytechnic's chief executive, and employees of the chief executive; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>may at any time be dismissed by the Minister.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AG</emphasis> imposes duties on members of polytechnic councils.</text>
+            </para>
+            <para>
+              <text>A member of a polytechnic council, when acting as a member of the council in any circumstances,—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must—</text>
+                    <list>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>act with honesty and integrity:</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>act in the interests of the polytechnic as a whole:</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>act in a manner promoting the performance of the functions characteristic of a polytechnic, and the duties of the council:</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>act in good faith, and not pursue his or her own interests at the expense of the council's interests; and</text>
+                        </para>
+                      </item>
+                    </list>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must exercise the care, diligence, and skill that a reasonable person would exercise in the same circumstances, taking into account—</text>
+                    <list>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>the nature of the council:</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>the nature of the action:</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>the position of the member as a member of a polytechnic council, and the nature of the responsibilities undertaken by him or her; and</text>
+                        </para>
+                      </item>
+                    </list>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must not disclose any information acquired as a member of the council, or make use of, or act on, the information, except—</text>
+                    <list>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>in the performance of the council's functions; or</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>as required or permitted by law; or</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>with the authority of the council; or</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>if disclosing, making use of, or acting on it will not, or will be unlikely to, prejudice the council or the polytechnic; or</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>in complying with requirements for members to disclose interests.</text>
+                        </para>
+                      </item>
+                    </list>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AH</emphasis> empowers the Minister to remove an appointed or elected member of a polytechnic council from office, for just cause. <emphasis style="italic">Subsection (6)</emphasis> provides that just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the polytechnic council or the individual duties of members (depending on the seriousness of the breach).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AI</emphasis> allows the Minister to remove a member of a polytechnic council from office as informally and quickly as the principles of natural justice and a proper consideration of the matter permit.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Combination of polytechnic councils</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AJ</emphasis> empowers the Minister to combine the councils of 2 or more polytechnics if—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>each of them has recommended that they should be combined; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>he or she is satisfied that each of them has consulted the constituents of its polytechnic on the desirability of combination.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AK</emphasis> provides that the Minister combines polytechnic councils by a notice in the <emphasis style="italic">Gazette</emphasis> stating a constitution for the resulting combined council, and the day on which the combination takes effect.</text>
+            </para>
+            <para>
+              <text>In determining the constitution for a combined council, the Minister must have regard to the following requirements:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the council must have an even balance between members appointed by the Minister and other members:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the council must have at least one member elected by students enrolled at the polytechnics concerned:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the council must have at least one member appointed by the council on the nomination of one or other of the academic boards of the polytechnics concerned, or of all of them jointly:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the council must have at least one member appointed by the council on the nomination of members of the community served by the polytechnic:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the chief executives of the polytechnics concerned must all be members of the council.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AL</emphasis> states the effect of combining polytechnic councils—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>each polytechnic retains its individual status, identity, and character:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the resulting combined council is the successor of each of the polytechnic councils combined, and has all the obligations and rights it had before combination:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>every statute of any of the polytechnic councils combined becomes a statute of the combined council, but until amended so as to apply to the others, applies only to the polytechnic by whose council it was made:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the existing assets and liabilities of each of the polytechnics combined continue to be assets and liabilities of that polytechnic:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the existing chief executive of each of the polytechnics combined continues to be the chief executive of that polytechnic, but becomes an employee of the combined council.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AM</emphasis> empowers the Minister to dissolve a combined council on the recommendation of that council.</text>
+            </para>
+            <para>
+              <text>Before recommending that the Minister dissolve it, a combined council must consult the constituents of the polytechnics concerned.</text>
+            </para>
+            <para>
+              <text>A combined council may, before dissolution, make in respect of any of the polytechnics concerned any statutes it thinks necessary or desirable to enable the swift and efficient establishment of a council for it.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AN</emphasis> states the effect of the dissolution of a combined council—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>each of the councils has any of the obligations and rights the former polytechnic council of its polytechnic had before the establishment of the combined council, and any of the obligations and rights the combined council had before the dissolution that have arisen in relation to the polytechnic:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>relevant statutes of the combined council becomes statutes of each new polytechnic council:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the existing chief executives of the polytechnics concerned continue to be the chief executives of those polytechnics, but each becomes an employee of the relevant new polytechnic council.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AO</emphasis> provides for the initial membership of polytechnic councils after the dissolution of a combined council.</text>
+            </para>
+            <para>
+              <text>Before the dissolution, the Minister must make the appropriate ministerial appointments to each new polytechnic council. Other members of a new polytechnic council—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>may be appointed or elected before the dissolution; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must be appointed or elected within 3 months after the dissolution.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>If on dissolution there is a vacancy in a new polytechnic council, the Minister may authorise any member of the dissolved combined council to act as a member of the new council until the vacancy is filled.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Combined academic boards</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">New section 222AP</emphasis> empowers 2 or more polytechnic councils to establish a combined academic board for their polytechnics, and also empowers a combined polytechnic council to establish a combined academic board for its polytechnics.</text>
+            </para>
+            <para>
+              <text>A combined academic board must include—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the chief executive of each polytechnic:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>at least one member of the staff of each polytechnic:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>at least one student of each polytechnic.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Enabling young students to attend tertiary high school at Manukau Institute of Technology</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 17</emphasis> removes obstacles to the enrolment of secondary school students—particularly secondary school students under 16— in certain courses (referred to as <quote.in quote="1">tertiary high school courses</quote.in>) to be offered at Manukau Institute of Technology (<quote.in quote="1">MIT</quote.in>).</text>
+            </para>
+            <para>
+              <text>The clause provides that—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a person enrolled at a registered school does not cease to be enrolled at the school by becoming enrolled at MIT in a tertiary high school course (and thus, if under 16, continues to comply with the statutory requirement to be enrolled at a registered school):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a person who enrols at MIT in a tertiary high school course does not lose eligibility to enrol at a registered school (and thus, if under 16, can comply with the statutory requirement to be enrolled at a registered school by enrolling at a new registered school if for any reason he or she ceases to be enrolled at the school at which he or she was enrolled when enrolling at MIT):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a person both enrolled at a registered school and enrolled at MIT in a tertiary high school course must be treated as complying with the statutory requirement for people under 16 to attend school if he or she attends the classes comprising the course whenever they are available:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a school board and MIT's council may submit to the Secretary of Education for approval an agreement stating their respective obligations (both to the students concerned and to each other) and rights in relation to the safety, welfare, and educational programmes of students enrolled at both the school and MIT.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM2294203">
+          <label auto.number="no" denominator="yes">2  </label>
+          <heading>Transitional matters</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Part 2</emphasis> deals with the transition from the polytechnic councils at present constituted to the reconstituted polytechnic councils that will come into existence on the commencement of <emphasis style="italic">clause 16</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 18</emphasis> defines certain terms used in <emphasis style="italic">Part 2</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 19</emphasis> provides for the initial membership of reconstituted polytechnic councils.</text>
+            </para>
+            <para>
+              <text>Before the polytechnic reconstitution day, the Minister must make the appropriate ministerial appointments to each reconstituted polytechnic council. Other members of a reconstituted polytechnic council—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>may be appointed or elected before the polytechnic reconstitution day; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must be appointed or elected within 3 months after that day.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>If on the polytechnic reconstitution day there is a vacancy in a reconstituted polytechnic council, the Minister may authorise any member of the former council to act as a member of the reconstituted council until the vacancy is filled.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 20</emphasis> provides that on the polytechnic reconstitution day all existing members of a polytechnic council go out of office, and all new members of a reconstituted council appointed or elected before that day take up office.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 21</emphasis> makes clear that a reconstituted council is the same body as its predecessor.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 22</emphasis> gives the Minister a temporary power of direction before the polytechnic reconstitution day, to ensure that reconstituted councils can deal effectively with the business before them on and after the polytechnic reconstitution day.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+      <explnote.ris>
+        <heading>Regulatory impact statement</heading>
+        <para>
+          <text>This statement pertains to 2 separate policy matters that are addressed in the Education (Polytechnics) Amendment Bill:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>the legislation regarding the governance arrangements and intervention framework for polytechnics:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>the establishment of a Tertiary High School at the Manukau Institute of Technology.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>For the sake of clarity, these are treated separately below in the order named.</text>
+        </para>
+        <explnote.ird-crosshead>
+          <emphasis style="roman">
+            <emphasis style="bold">1 Polytechnics</emphasis>
+          </emphasis>
+        </explnote.ird-crosshead>
+        <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
+        <para>
+          <text>The polytechnic sector faces financial and educational performance problems that are likely to be exacerbated by an increasingly constrained funding environment. These problems often arise from or are worsened by ineffective governance, and the statutory intervention framework for polytechnics does not allow the Crown to readily address issues as they arise. The result is that polytechnics pose a relatively high risk to the Crown.</text>
+        </para>
+        <para>
+          <text>To reduce this risk, the Government intends to amend the governance arrangements and the intervention framework for polytechnics in the Education Act 1989. These amendments will improve polytechnic governance and will give the Crown more flexibility in responding to problems as they arise.</text>
+        </para>
+        <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
+        <para>
+          <text>The Ministry of Education confirms that the regulatory impact statement is adequate. </text>
+        </para>
+        <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
+        <explnote.subhead1>Governance arrangements</explnote.subhead1>
+        <para>
+          <text>There are 20 polytechnics in New Zealand. In 2007, they enrolled 207 000 learners, equating to 72 000 Equivalent Full-Time Students. They were allocated a funding baseline of $596 million (GST exclusive) to invest in 2009<footnote id="DLM2294204"><para><text>Student numbers and EFTS are rounded to the nearest thousand. The budget figure is the Student Achievement and Tertiary Education Organisation Component baseline funding allocation for the 2009 calendar year, as announced following Budget 2008. Some funding that is available to multiple parts of the sector is not included in the total baseline indicated here.</text></para></footnote>. The sector is diverse. It ranges from large urban institutions that offer education over a broad range of subject areas, to smaller more rural and/or specialised institutions which support regions with varied needs.</text>
+        </para>
+        <para>
+          <text>Section 171 of the Education Act 1989 sets out the governance arrangements for polytechnics and other tertiary education institutions. It states that institutions are to be governed by councils with a minimum of 12 and a maximum of 20 members, including:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>4 ministerial appointees:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the chief executive of the polytechnic:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>at least 1 and up to 3 elected representatives of the polytechnic’s academic staff:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>at least 1 and up to 3 elected representatives of the polytechnic’s general staff:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>at least 1 and up to 3 elected representatives of the polytechnic’s student body:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>an employer representative<footnote id="DLM2294205"><para><text>The legal position with regard to the operative effect of this provision is unclear, as it makes reference to the Labour Relations Act 1987 which has been repealed. This matter will be the subject of further work.</text></para></footnote>:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>an employee representative<footnote id="DLM2294206"><para><text>As per previous footnote.</text></para></footnote>:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>if relevant, one or more representatives from a relevant professional body.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The large size of these councils, and the emphasis of their composition on representativeness over and above governance skill and experience, has resulted in ineffective governance at some institutions. It has also sometimes been difficult to find appropriately skilled candidates who are willing to sit on councils that they regard as unwieldy or under-skilled. These problems have been concentrated in the polytechnic sector. </text>
+        </para>
+        <para>
+          <text>These governance issues have contributed to the financial and educational performance problems faced by polytechnics: in recent years, a number of polytechnics have required Crown interventions, and in some cases Crown loans have been used to maintain their viability. These problems are likely to be compounded by an increasingly constrained funding environment.</text>
+        </para>
+        <explnote.subhead1>Intervention framework</explnote.subhead1>
+        <para>
+          <text>The current framework for statutory interventions in tertiary education institutions is set out in sections 195A–195F of the Education Act 1989. It allows for 3 types of intervention:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the chief executive of the Tertiary Education Commission (TEC) can require a polytechnic council to provide information:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the Minister for Tertiary Education can appoint a Crown observer to the council:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the Minister for Tertiary Education can dissolve the council and appoint a commissioner.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The first 2 interventions involve suggestion or persuasion, and the third step involves drastic direct action. There is no middle ground whereby the Crown can require a council to change its behaviour in specific respects without going to the extreme of dissolving it entirely. The Government has needed to use all 3 of these interventions in polytechnics in recent years (in some cases repeatedly), including the appointment of a Crown commissioner. It has not used the interventions in universities.</text>
+        </para>
+        <para>
+          <text>Policy work on broader issues facing the polytechnic sector is ongoing. In the meantime, to quickly address the legislative elements of the two problems identified above, the Government intends to amend the legislation regarding governance arrangements and the intervention framework for polytechnics.</text>
+        </para>
+        <explnote.ird-crosshead>Objectives</explnote.ird-crosshead>
+        <para>
+          <text>The objective of the changes to governance arrangements is to improve the governance capability and effectiveness of polytechnic councils. </text>
+        </para>
+        <para>
+          <text>The objective of the changes to the intervention framework is to allow the Crown to more effectively respond to the risk posed by polytechnics facing performance problems.</text>
+        </para>
+        <explnote.ird-crosshead>Alternative options</explnote.ird-crosshead>
+        <explnote.subhead1>Governance arrangements</explnote.subhead1>
+        <para>
+          <text>In developing this legislation the Government did not consider making fundamental changes to polytechnic governance models. This is because there is some urgency in making these changes, and far-reaching change would require analysis and consultation that could not be undertaken sufficiently quickly. It also did not seriously consider enlarging councils, as evidence from the private sector, along with anecdotal feedback from board and council members in New Zealand, suggests that smaller governing bodies are generally more effective than large ones.<footnote id="DLM2294207"><para><text>For example, see Huther, J. (1997), “An empirical test of the effect of board size on firm efficiency”. Economics Letters, 53:4, July 1997, 259-264.</text></para></footnote></text>
+        </para>
+        <para>
+          <text>Instead, the Government considered 4 main alternatives to the existing council model, as well as their natural variations:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Option 1: Restricting the number of academic staff, general staff, and student representatives on polytechnic councils to one each (currently 1 to 3):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Option 2: Removing these representatives entirely, along with employer/employee and professional body representatives, leaving only the ministerial appointments and chief executive:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Option 3: Requiring the Minister for Tertiary Education to appoint all council members (with smaller councils).</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The latter 2 options were rejected as being inconsistent with the conception of tertiary education institutions as partnerships between the Crown and communities. This partnership ethos is fundamental to all tertiary education institutions and is reflected in the way that key stakeholders are represented on these institutions’ governing bodies.</text>
+        </para>
+        <para>
+          <text>The first option was considered to be unbalanced in the opposite direction, with too much emphasis on representation and too little on governance capability. It would see councils comprise ten or eleven members: four ministerial appointments, the chief executive, an academic staff representative, a general staff representative, a student representative, an employer body representative, an employee body representative, and (if applicable) a professional body representative. Of these, only the four ministerial appointments would have to be appointed on the basis of their governance skill; suitably experienced candidates might be reluctant to accept appointments in these circumstances. </text>
+        </para>
+        <para>
+          <text>With respect to multi-institutional councils (see <quote.in quote="1">Preferred option</quote.in> below), the Government also considered providing for multi-institutional councils that would consider the interests of the polytechnics over which they governed collectively. This would mean that the interests of one institution could be traded off against the interests of another. This option raised substantive policy issues that were unable to be addressed in the Bill’s timeframe, and so has been included in the ongoing polytechnic policy work programme.</text>
+        </para>
+        <explnote.subhead1>Intervention framework</explnote.subhead1>
+        <para>
+          <text>For the sake of brevity and clarity, the multiple alternative options below are presented as broad policy choices.</text>
+        </para>
+        <explnote.subhead2>Choice 1: More/fewer interventions </explnote.subhead2>
+        <para>
+          <text>The core problem with the current intervention framework is its lack of graduated steps, and so in considering alternatives the Government concentrated on adding interventions rather than removing them.</text>
+        </para>
+        <para>
+          <text>As a starting point it considered the more graduated set of interventions that already exists in the compulsory schooling sector, as set out in Part 7A of the Education Act 1989. For each of these interventions not already mirrored in the tertiary framework, the Government assessed whether there was value in including a similar provision for polytechnics. In each case, it was decided that this was indeed valuable, because the more interventions the Crown has to choose from, the better it can tailor its response to an institution at risk.</text>
+        </para>
+        <para>
+          <text>This created a six-step framework, which was felt to be adequately sensitive to different levels of risk. The Government considered that incorporating interventions beyond these six would have added administrative complexity without adding value.</text>
+        </para>
+        <explnote.subhead2>Choice 2: Administration of interventions</explnote.subhead2>
+        <para>
+          <text>The Government had to choose whether to vest the new powers of intervention with the Minister for Tertiary Education or with the chief executive of the TEC. </text>
+        </para>
+        <para>
+          <text>The Government ultimately considered that interventions up to and including the requirement to carry out a remedial plan (see below) should rest with the chief executive of the TEC. This is because these interventions fit naturally alongside the TEC’s existing monitoring role and happen <quote.in quote="1">at arm’s length</quote.in> from the institution.</text>
+        </para>
+        <para>
+          <text>The Government decided that interventions above this where the Crown interacts directly with councils in an ongoing way—ie, through the appointment of a Crown observer, a Crown manager, or a commissioner—should rest with the Minister for Tertiary Education.</text>
+        </para>
+        <explnote.subhead2>Choice 3: Trigger for interventions</explnote.subhead2>
+        <para>
+          <text>The Government had to decide on what grounds each of the new powers should be able to be exercised, ie, whether a polytechnic needed to be <quote.in quote="1">at potential risk</quote.in>, <quote.in quote="1">at risk</quote.in>, or <quote.in quote="1">at serious risk</quote.in>, and whether the chief executive of the TEC or the Minister for Tertiary Education had to be <quote.in quote="1">satisfied</quote.in> that this was the case or believe it <quote.in quote="1">on reasonable grounds</quote.in>. </text>
+        </para>
+        <para>
+          <text>The decisions about the appropriate degree/certainty of risk were determined with reference to the relevant policy objective and to standards set by the existing legislation.</text>
+        </para>
+        <para>
+          <text>In each case, the decision was made to include a <quote.in quote="1">reasonable grounds</quote.in> requirement for action, in order to safeguard institutional autonomy.</text>
+        </para>
+        <explnote.ird-crosshead>Preferred options</explnote.ird-crosshead>
+        <explnote.subhead1>Governance arrangements</explnote.subhead1>
+        <para>
+          <text>The preferred option is smaller polytechnic councils with an even balance between <quote.in quote="1">representative</quote.in> and purely skill-based appointments. The proposed amendment will provide for councils comprising 8 members:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>4 members appointed by the Minister for Tertiary Education:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the chief executive of the institution:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>1 member appointed by the Academic Board from among its members:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>1 student representative:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>1 member appointed by the council, through a public nominations process, from the community served by the polytechnic (for example, representatives of local iwi or key local industries).</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The Minister for Tertiary Education will appoint the chair and deputy chair.</text>
+        </para>
+        <para>
+          <text>The Minister for Tertiary Education will treat governance skill and experience as necessary conditions for appointment to councils. In addition the Minister will take into consideration the desirability in principle of Māori representation on each council, and the desirability in principle of having a council that reflects the ethnic and socio-economic diversity of the community served by the polytechnic.</text>
+        </para>
+        <explnote.subhead2>Individual duties </explnote.subhead2>
+        <para>
+          <text>Polytechnic council members will have individual duties set out in the Act (in addition to existing collective duties), with the primary duty being to act in the best interests of the polytechnic and with due care and diligence. The Minister for Tertiary Education will have the power to remove individual council members at any time in cases where he or she has <quote.in quote="1">just cause</quote.in> to do so. <quote.in quote="1">Just cause</quote.in> will be defined to include misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective or individual duties of members.</text>
+        </para>
+        <explnote.subhead2>Multi-institutional councils</explnote.subhead2>
+        <para>
+          <text>A provision will be made for multi-institutional councils, allowing one council to govern two or more institutions (treating the interests of each institution separately). The composition of multi-institutional councils will be determined by the Minister for Tertiary Education on a case-by-case basis.</text>
+        </para>
+        <explnote.subhead2>Advantages and disadvantages</explnote.subhead2>
+        <para>
+          <text>The preferred policy has the following advantages:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>councils will have a small and predictable membership that reflects the principle that while representation is important and desirable, a core of governance skill and experience is necessary to the effective operation of a council:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the legislation will be clearer about the responsibilities of individual council members:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>multi-institutional councils will help to address the shortage of appropriately-skilled candidates for polytechnic councils.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>It has the following disadvantages:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>some people may believe that the Minister for Tertiary Education will have more control over polytechnic councils, because of the greater proportion of ministerial appointments on the council (50%, compared to the current 20%–33%). However, ministerial appointments are not <quote.in quote="1">ministerial representatives</quote.in>—a council member is under a legal obligation to act in the interests of the organisation, irrespective of how he or she has been appointed. This common law obligation will be made explicit in the Education Act 1989:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>some people may feel that the Minister for Tertiary Education’s powers of removal of council members gives the Minister more control over councils. However, this power will be tightly circumscribed and constrained by a requirement to have <quote.in quote="1">just cause</quote.in>, which will be defined in the Act:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>polytechnic stakeholders (eg, students, staff, and/or local communities) are accustomed to a highly representative governance model at polytechnics. They may resent a shift to a model that places more emphasis than before on governance skill and experience, and has fewer <quote.in quote="1">as of right</quote.in> representative positions available.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The basic statutory duties of councils are unchanged and will therefore drive the governance decisions made by the council.</text>
+        </para>
+        <explnote.subhead1>Intervention framework</explnote.subhead1>
+        <para>
+          <text>The preferred option for the intervention framework for polytechnics will add 3 new provisions to the existing provisions. This will create a more graduated framework for Crown intervention in polytechnics at risk:</text>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">a</label>
+            <para>
+              <text>the chief executive of the TEC can ask a polytechnic council for information:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
+            <para>
+              <text>the chief executive of the TEC can require the council to engage specialised help (<emphasis style="bold">new</emphasis>):</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>the chief executive of the TEC can require the council to prepare and carry out a performance improvement plan (<emphasis style="bold">new</emphasis>):</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">d</label>
+            <para>
+              <text>the Minister for Tertiary Education can appoint a Crown observer to the council:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">e</label>
+            <para>
+              <text>the Minister for Tertiary Education can appoint a Crown manager to fulfil specific duties of the council (<emphasis style="bold">new</emphasis>):</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">f</label>
+            <para>
+              <text>the Minister for Tertiary Education can dissolve the council and appoint a commissioner.</text>
+            </para>
+          </label-para>
+        </para>
+        <para>
+          <text>The chief executive of the TEC will be able to require councils to engage specialised help or to prepare and carry out a performance improvement plan whenever he or she <quote.in quote="1">believes on reasonable grounds</quote.in> that a polytechnic may be at risk. The Minister for Tertiary Education will be able to appoint a Crown manager whenever he or she <quote.in quote="1">believes on reasonable grounds that there is a serious risk to the operation or long-term viability of a polytechnic</quote.in>. Under the current legislation, the Secretary for Education issues <quote.in quote="1">risk assessment criteria</quote.in> used to determine when intervention is appropriate; for avoidance of doubt, this provision will be amended to state explicitly that the Secretary can issue criteria that are specific to polytechnics.</text>
+        </para>
+        <explnote.subhead2>Advantages and disadvantages</explnote.subhead2>
+        <para>
+          <text>The preferred policy design has the following advantages:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>a wider range of graduated interventions allows for a more appropriate and tailored response by the Crown to a situation where a polytechnic is at risk. Earlier intervention is more cost-effective:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>adding more effective interventions <quote.in quote="1">upstream</quote.in> from dissolution of a council offers more protection to institutions’ autonomy, giving them more chance to solve their own problems while managing the risk to the Crown:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>giving the Minister for Tertiary Education the power to appoint a Crown manager formalises an existing practice.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>It has the disadvantage that it is statutorily unusual to give the chief executive of one Crown entity (the TEC) the legislative authority to direct the actions of the governing body of another Crown entity (a polytechnic).</text>
+        </para>
+        <explnote.ird-crosshead>Implementation and review</explnote.ird-crosshead>
+        <para>
+          <text>The legislation is expected to come into force the day after assent, with the governance provisions coming into force later on 1 May 2010 (with transitional arrangements for councils stipulated in the Act). During the intervening period, preparations will be made for the effective and efficient implementation of the legislative changes.</text>
+        </para>
+        <para>
+          <text>The new governance arrangements will require advice and support to the Minister for Tertiary Education to enable the appointment of up to 80 new council members on 20 polytechnic councils. These appointments are likely to include many of the ministerial appointees already on councils. Advice will also be provided on the appointment of chairs and deputy chairs to these councils.</text>
+        </para>
+        <para>
+          <text>The implementation of the three new interventions will be supported by the development of new operational procedures and resources to underpin their implementation.</text>
+        </para>
+        <para>
+          <text>The changes will be reviewed as part of the ongoing policy work programme regarding polytechnics. </text>
+        </para>
+        <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
+        <para>
+          <text>The Department of Prime Minister and Cabinet, the Treasury, the Ministry of Social Development, the Department of Labour, the Ministry of Women’s Affairs, the Ministry of Youth Development, Te Puni Kokiri, the Ministry of Pacific Island Affairs, the Tertiary Education Commission, the State Services Commission and the New Zealand Qualifications Authority were consulted in the course of developing the policy proposal.</text>
+        </para>
+        <para>
+          <text>The Treasury, the Tertiary Education Commission and the State Services Commission have been consulted on this Statement.</text>
+        </para>
+        <explnote.ird-crosshead>
+          <emphasis style="roman">
+            <emphasis style="bold">2 Manukau Institute of Technology tertiary high school</emphasis>
+          </emphasis>
+        </explnote.ird-crosshead>
+        <explnote.ird-crosshead>Executive summary</explnote.ird-crosshead>
+        <para>
+          <text>The Government intends to make an interim amendment to the Education Act 1989 to allow the proposed tertiary high school at Manukau Institute of Technology (<emphasis style="bold">MIT</emphasis>) to begin operating from the beginning of 2010.</text>
+        </para>
+        <para>
+          <text>The tertiary high school is to be established to trial a new concept. It will offer a 4-year course of study beginning in Year 11 for students who have been identified by their schools as unlikely to succeed in a conventional school setting, who are motivated to succeed in a tertiary setting, and whose parents support them in this.</text>
+        </para>
+        <para>
+          <text>Students would remain enrolled at their contributing secondary school for age-appropriate cultural and sporting activities. The tertiary high school will be part of Manukau Institute of Technology and not a registered school.</text>
+        </para>
+        <explnote.ird-crosshead>Adequacy statement</explnote.ird-crosshead>
+        <para>
+          <text>The Ministry of Education confirms that the regulatory impact statement is adequate. </text>
+        </para>
+        <explnote.ird-crosshead>Status quo and problem</explnote.ird-crosshead>
+        <para>
+          <text>Current legislation contains barriers to these arrangements. It requires students under the age of 16 to be enrolled at and attending a school. The MIT proposal is that students are enrolled at and attending the tertiary high school full-time from the beginning of Year 11. Many students at this time will not yet be 16.</text>
+        </para>
+        <para>
+          <text>Under the Education Act 1989, a board of trustees retains ultimate responsibility for its students even when they are undertaking off-site courses. The students at the MIT tertiary high school will spend their working day in the tertiary environment. In these circumstances the board of trustees of the school where they are also enrolled will have very little ability to exercise their statutory responsibility for the students.</text>
+        </para>
+        <explnote.ird-crosshead>Objective</explnote.ird-crosshead>
+        <para>
+          <text>New Zealand has too many young people who leave school without worthwhile qualifications. The Government would like to trial a tertiary high school as one way to reverse this trend and support students to staircase into obtaining tertiary qualifications. The objective of this amendment is to allow the trial to begin at the beginning of 2010.</text>
+        </para>
+        <explnote.ird-crosshead>Alternative options</explnote.ird-crosshead>
+        <para>
+          <text>Two options were considered that are consistent with existing legislation.</text>
+        </para>
+        <explnote.subhead1>Option 1: Enrol only 16-year-olds</explnote.subhead1>
+        <para>
+          <text>One option considered was to enrol only those Year 11 students who had turned 16 by the beginning of 2010. Most students are still 15 at this time and this would have resulted in an unviable intake because there would not be enough students enrolled.</text>
+        </para>
+        <explnote.subhead1>Option 2: Delay opening</explnote.subhead1>
+        <para>
+          <text>The other option considered was to delay the opening of the tertiary high school until broader legislative change could be enacted. There is an Education and Training Bill that has Category 4 on the 2009 legislation programme–to proceed to Select Committee in 2009. This will be used to make necessary changes to accommodate a range of initiatives at the secondary/tertiary interface. However, MIT has been working towards establishing the tertiary high school for some years and the Government is keen to see it begin at the start of 2010 so that this model of education can be evaluated.</text>
+        </para>
+        <explnote.ird-crosshead>Preferred Option</explnote.ird-crosshead>
+        <para>
+          <text>The preferred option is to include a short amendment to allow:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>MIT tertiary high school students who are under 16 to be deemed to meet the compulsory attendance requirements of the Act:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>arrangements for the safety, welfare and educational programmes of all students to be determined between the school at which the student is enrolled and MIT Tertiary High School and approved by the Secretary of Education:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>any consequential amendments necessary to give effect to this.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>This institution-specific amendment would be repealed when the broader regime of the Education and Training Bill is passed.</text>
+        </para>
+        <para>
+          <text>This option has the advantage that it would allow the proposed tertiary high school at MIT to begin operating from the beginning of 2010. The first intake will consist of up to 80 students from potentially 10 schools in South Auckland. It will benefit students who have been identified by their schools as unlikely to succeed in a conventional school setting. It will clarify the responsibility requirements of the institutions involved in a practical way.</text>
+        </para>
+        <para>
+          <text>This option will exempt students under 16 from the requirement to attend school. They will, however, have similar or greater attendance requirements at the tertiary high school and be undertaking National Certificate of Educational Achievement (<emphasis style="bold">NCEA</emphasis>) subjects as well as tertiary courses.</text>
+        </para>
+        <para>
+          <text>Although it requires MIT and the schools to enter into a formal arrangement regarding responsibilities for students, this is already an agreed procedure. No school is required to put students forward for the tertiary high school.</text>
+        </para>
+        <explnote.ird-crosshead>Implementation and review</explnote.ird-crosshead>
+        <para>
+          <text>The Ministry of Education, MIT and South Auckland schools are working towards implementation of the tertiary high school by the beginning of 2010, with an intake of up to 80 Year 11 students in Term 1. There will be a written agreement between the schools, the tertiary high school and the Secretary of Education that covers arrangements for the safety, welfare and educational programmes of the students. This will be reflected in an agreement between the tertiary high school, students and their parents.</text>
+        </para>
+        <para>
+          <text>The outcomes from the tertiary high school will be monitored and evaluated. The form of evaluation has not yet been determined. </text>
+        </para>
+        <explnote.ird-crosshead>Consultation</explnote.ird-crosshead>
+        <para>
+          <text>This regulatory impact analysis was prepared by the Ministry of Education. The Ministry has consulted with the Tertiary Education Commission and the New Zealand Qualifications Authority on the establishment of the tertiary high school. MIT has consulted widely in the South Auckland community about the tertiary high school proposal.</text>
+        </para>
+      </explnote.ris>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from the committee of the whole House</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM2294208">
     <member>Hon Anne Tolley</member>
-    <title>Education (Polytechnics) Amendment Bill</title>
+    <title>Education (Polytechnics) Amendment Bill</title>
     <billtype>Government Bill</billtype>
   </cover>
   <contents>
@@ -122,7 +1522,7 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">1</label>
           <para>
-            <text><changeable><citation jurisdiction="nz">Sections 5, 7 to 9, 11 to 13, and 16</citation></changeable> come into force on 1 March 2010.</text>
+            <text><changeable><citation jurisdiction="nz">Sections 5, 7 to 9, 11 to 13, and 16</citation></changeable> come into force on 1 May 2010.</text>
           </para>
         </subprov>
         <subprov skeleton="no">
@@ -145,7 +1545,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM2294214" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="70" bill.type="government" stage="3" year="2009">
+    <part id="DLM2294214" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="70" bill.type="government" stage="1" year="2009">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Substantive provisions</heading>
       <crosshead id="DLM2294215" toc="yes">Amendments to existing provisions of principal Act relating to tertiary education</crosshead>
@@ -160,7 +1560,7 @@
               <amend increment="1" quote="1">
                 <def-para id="DLM2294217" quote="1">
                   <para quote="1">
-                    <text><def-term id="DLM2294218">combined council</def-term> means a body constituted under <changeable><citation jurisdiction="nz">section 222AK</citation></changeable></text>
+                    <text><def-term id="DLM2294218">combined council</def-term> means a body constituted under <changeable><citation jurisdiction="nz">section 222AM</citation></changeable></text>
                   </para>
                 </def-para>
                 <def-para id="DLM2294219" quote="1">
@@ -168,26 +1568,11 @@
                     <text><def-term id="DLM2294220">constitutents</def-term>, in relation to an institution, means the people who (by virtue of section 163) constitute it</text>
                   </para>
                 </def-para>
-                <def-para id="DLM2554201" quote="1">
-                  <para quote="1">
-                    <text><def-term id="DLM2554202">designated polytechnic</def-term>—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>after 28 February 2010 and before 1 May 2010 means a polytechnic designated for the purposes of <changeable><citation jurisdiction="nz">Part 15A</citation></changeable> by the Governor-General by Order in Council:</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>on or after 1 May 2010 means any polytechnic</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </def-para>
                 <def-para id="DLM2294221" quote="1">
                   <para quote="1">
-                    <text><def-term id="DLM2294222">polytechnic council</def-term>—</text>
+                    <text>
+                      <def-term id="DLM2294222">polytechnic council</def-term>
+                    </text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
@@ -202,21 +1587,9 @@
                     </label-para>
                   </para>
                 </def-para>
-                <def-para id="DLM2554203" quote="1">
+                <def-para id="DLM2294223" quote="1">
                   <para quote="1">
-                    <text><def-term id="DLM2554204">reconstitution day</def-term>,—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>in relation to a polytechnic designated for the purposes of <changeable><citation jurisdiction="nz">Part 15A</citation></changeable> by the Governor-General by Order in Council, means the day on which the order comes into force:</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>in relation to any other polytechnic, means 1 May 2010</text>
-                      </para>
-                    </label-para>
+                    <text><def-term id="DLM2294224">polytechnic reconstitution day</def-term> means 1 May 2010</text>
                   </para>
                 </def-para>
               </amend>
@@ -237,7 +1610,7 @@
                 <subprov skeleton="no">
                   <label auto.number="yes" denominator="yes" quote="1">1A</label>
                   <para>
-                    <text>On and after its reconstitution day,—</text>
+                    <text>On and after the polytechnic reconstitution day,—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
@@ -247,7 +1620,7 @@
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">b</label>
                       <para>
-                        <text>except in relation to matters that occurred before the commencement of this section, a reference in any law to the council or other governing body of an institution must, in relation to the polytechnic, be construed as a reference to its council as constituted under this Part or <changeable><citation jurisdiction="nz">Part 15A</citation></changeable> (as the case requires).</text>
+                        <text>except in relation to matters that occurred before the commencement of this section, a reference in any law to the council or other governing body of an institution must, in relation to a polytechnic, be construed as a reference to the polytechnic's council as constituted under this Part or <changeable><citation jurisdiction="nz">Part 15A</citation></changeable> (as the case requires).</text>
                       </para>
                     </label-para>
                   </para>
@@ -301,7 +1674,7 @@
                 <subprov skeleton="no">
                   <label auto.number="yes" denominator="yes" quote="1">2</label>
                   <para>
-                    <text>Subsection (1) does not apply to the council of a designated polytechnic.</text>
+                    <text>Subsection (1) does not apply to a polytechnic council.</text>
                   </para>
                 </subprov>
               </amend>
@@ -321,7 +1694,7 @@
                 <subprov skeleton="no">
                   <label auto.number="yes" denominator="yes" quote="1">12</label>
                   <para>
-                    <text>Subsections (1) to (11) do not apply to the constitution of the council of a designated polytechnic (for which <changeable><citation jurisdiction="nz">sections 222AA and 222AK</citation></changeable> provide).</text>
+                    <text>Subsections (1) to (11) do not apply to the constitution of a polytechnic council (for which <changeable><citation jurisdiction="nz">sections 222AA and 222AM</citation></changeable> provide).</text>
                   </para>
                 </subprov>
               </amend>
@@ -353,7 +1726,7 @@
                 <subprov skeleton="no">
                   <label auto.number="yes" denominator="yes" quote="1">8</label>
                   <para>
-                    <text>Subsections (1) to (7) do not apply to the term of office of a member of the council of a designated polytechnic (for which <changeable><citation jurisdiction="nz">section 222AD</citation></changeable> provides).</text>
+                    <text>Subsections (1) to (7) do not apply to the term of office of a member of a polytechnic council (for which <changeable><citation jurisdiction="nz">section 222AD</citation></changeable> provides).</text>
                   </para>
                 </subprov>
               </amend>
@@ -361,51 +1734,25 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov id="DLM2554205" irdnumbering="no" skeleton="no" toc="yes">
+      <prov id="DLM2294232" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">12</label>
         <heading>Vacation of office</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
+            <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>Section 174(1) is amended by omitting <amend.in quote="1">(other than the chief executive)</amend.in>.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>Section 174 is amended by inserting the following subsection after subsection (1):</text>
+              <text>Section 174 is amended by inserting the following subsections after subsection (2):</text>
               <amend quote="1">
-                <subprov skeleton="no">
-                  <label auto.number="yes" denominator="yes" quote="1">1A</label>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">2A</label>
                   <para>
-                    <text><changeable><citation jurisdiction="nz">Subsection (1)</citation></changeable> does not apply to—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>the chief executive of an institution that is not a designated polytechnic; or</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>the chief executive of a designated polytechnic who has been appointed by its council pursuant to a statute requiring it to appoint the chief executive a member of its council.</text>
-                      </para>
-                    </label-para>
+                    <text>A member of a polytechnic council appointed by the council on the nomination of the academic board of the polytechnic concerned (or, in the case of a combined council, on the nomination of the academic board of one of the polytechnics concerned, or of all of the academic boards of the polytechnics concerned, jointly) goes out of office on ceasing to be a member of that board.</text>
                   </para>
                 </subprov>
-              </amend>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>Section 174 is amended by inserting the following subsection after subsection (2):</text>
-              <amend quote="1">
-                <subprov skeleton="no">
-                  <label auto.number="yes" denominator="yes" quote="1">2A</label>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">2B</label>
                   <para>
-                    <text>Subsection (2) does not apply to the council of a designated polytechnic.</text>
+                    <text><changeable><citation jurisdiction="nz">Subsection (2A)</citation></changeable> applies to a polytechnic council in place of subsection (2).</text>
                   </para>
                 </subprov>
               </amend>
@@ -425,7 +1772,7 @@
                 <subprov skeleton="no">
                   <label auto.number="yes" denominator="yes" quote="1">9</label>
                   <para>
-                    <text>Subsections (1) to (8) do not apply to the chairperson and deputy chairperson of the council of a designated polytechnic (for which <changeable><citation jurisdiction="nz">section 222AF</citation></changeable> provides).</text>
+                    <text>Subsections (1) to (8) do not apply to the chairperson and deputy chairperson of a polytechnic (for which <changeable><citation jurisdiction="nz">section 222AF</citation></changeable> provides).</text>
                   </para>
                 </subprov>
               </amend>
@@ -440,40 +1787,16 @@
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text> Section 195A(1) is repealed and the following subsections are substituted:</text>
+              <text>Section 195A is amended by inserting the following subsection after subsection (1):</text>
               <amend quote="1">
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">1</label>
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">1A</label>
                   <para>
-                    <text>The Secretary must, after consulting institution councils, determine—</text>
+                    <text>The Secretary may under subsection (1) determine criteria for assessing the level of risk to the operation and long-term viability of polytechnics; and in that case,—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
-                        <text>criteria for assessing the level of risk to the operation and long-term viability of institutions; and</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>criteria for assessing the level of risk to the education performance of the students enrolled at polytechnics.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">1A</label>
-                  <para>
-                    <text>In the case of criteria for assessing the level of risk to the education performance of the students enrolled at polytechnics, the requirement to consult institution councils applies to polytechnic councils only.</text>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">1B</label>
-                  <para>
-                    <text>The Secretary may under <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable>determine criteria for assessing the level of risk to the operation and long-term viability of polytechnics only; and in that case,—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>the requirement to consult institution councils applies to polytechnic councils only; and</text>
+                        <text>the requirement to consult with institution councils applies to polytechnic councils only; and</text>
                       </para>
                     </label-para>
                     <label-para quote="1" skeleton="no">
@@ -539,11 +1862,11 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">4</label>
                         <para>
-                          <text>The council must—</text>
+                          <text>The council—</text>
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">a</label>
                             <para>
-                              <text>provide the information and access, and do all other things, reasonably necessary to enable the person or organisation engaged to provide the help; and</text>
+                              <text>must provide the information and access, and do all other things, reasonably necessary to enable the person or organisation engaged to provide the help; and</text>
                             </para>
                           </label-para>
                           <label-para quote="1" skeleton="no">
@@ -663,48 +1986,6 @@
                         </para>
                       </subprov>
                       <subprov quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">1A</label>
-                        <para>
-                          <text>The Minister must not appoint the Crown manager without—</text>
-                          <label-para quote="1" skeleton="no">
-                            <label auto.number="no" denominator="yes" quote="1">a</label>
-                            <para>
-                              <text>giving the polytechnic's council written notice of—</text>
-                              <label-para quote="1" skeleton="no">
-                                <label auto.number="no" denominator="yes" quote="1">i</label>
-                                <para>
-                                  <text>his or her intention to do so; and</text>
-                                </para>
-                              </label-para>
-                              <label-para quote="1" skeleton="no">
-                                <label auto.number="no" denominator="yes" quote="1">ii</label>
-                                <para>
-                                  <text>his or her reasons for intending to do so; and</text>
-                                </para>
-                              </label-para>
-                            </para>
-                          </label-para>
-                          <label-para quote="1" skeleton="no">
-                            <label auto.number="no" denominator="yes" quote="1">b</label>
-                            <para>
-                              <text>allowing the council a reasonable time to respond to the notice; and</text>
-                            </para>
-                          </label-para>
-                          <label-para quote="1" skeleton="no">
-                            <label auto.number="no" denominator="yes" quote="1">c</label>
-                            <para>
-                              <text>considering any written submissions received from the council within that time.</text>
-                            </para>
-                          </label-para>
-                        </para>
-                      </subprov>
-                      <subprov quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">1B</label>
-                        <para>
-                          <text>Whether a time is reasonable in any particular case may depend (among other things) on the urgency of the matters the Crown manager will have to deal with.</text>
-                        </para>
-                      </subprov>
-                      <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">2</label>
                         <para>
                           <text>The notice must state—</text>
@@ -732,12 +2013,6 @@
                               <text>any matters the Crown manager may advise the council on.</text>
                             </para>
                           </label-para>
-                        </para>
-                      </subprov>
-                      <subprov quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">2A</label>
-                        <para>
-                          <text>As soon as is practicable after appointing the Crown manager, the Minister must publish in the <emphasis style="italic">Gazette</emphasis> a notice stating that he or she has done so.</text>
                         </para>
                       </subprov>
                       <subprov quote="1" skeleton="no">
@@ -783,18 +2058,6 @@
                         </para>
                       </subprov>
                       <subprov quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">3A</label>
-                        <para>
-                          <text>The Crown manager must perform any function under <changeable><citation jurisdiction="nz">subsection (3)(a)</citation></changeable> (and exercise any power in order to do so) in accordance with this Act; and, in particular, have regard to sections 160 and 161.</text>
-                        </para>
-                      </subprov>
-                      <subprov quote="1" skeleton="no">
-                        <label auto.number="no" denominator="yes" quote="1">3B</label>
-                        <para>
-                          <text><changeable><citation jurisdiction="nz">Subsection (3A)</citation></changeable> does not limit the generality of <changeable><citation jurisdiction="nz">subsection (3)(a)(ii)</citation></changeable>.</text>
-                        </para>
-                      </subprov>
-                      <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">4</label>
                         <para>
                           <text>The council must pay the Crown manager's reasonable fees and expenses.</text>
@@ -803,55 +2066,19 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">5</label>
                         <para>
-                          <text>If the Crown manager's appointment has not earlier been revoked, the Minister must consider whether the reasons for it still apply—</text>
-                          <label-para quote="1" skeleton="no">
-                            <label auto.number="no" denominator="yes" quote="1">a</label>
-                            <para>
-                              <text>no later than 12 months after it was made; and</text>
-                            </para>
-                          </label-para>
-                          <label-para quote="1" skeleton="no">
-                            <label auto.number="no" denominator="yes" quote="1">b</label>
-                            <para>
-                              <text>no later than 12 months after he or she last considered whether they still apply.</text>
-                            </para>
-                          </label-para>
+                          <text>The notice may be amended or revoked; and if it is revoked, another may (immediately or later) be given.</text>
                         </para>
                       </subprov>
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">6</label>
                         <para>
-                          <text>For the purpose of <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>,—</text>
-                          <label-para quote="1" skeleton="no">
-                            <label auto.number="no" denominator="yes" quote="1">a</label>
-                            <para>
-                              <text>there is a serious risk to the operation or long-term viability of a polytechnic if, according to criteria determined under <changeable><citation jurisdiction="nz">section 195A(1)</citation></changeable>, there is or is likely to be a serious level of risk to its operation or long-term viability; and</text>
-                            </para>
-                          </label-para>
-                          <label-para quote="1" skeleton="no">
-                            <label auto.number="no" denominator="yes" quote="1">b</label>
-                            <para>
-                              <text>the education performance of the students at a polytechnic is at risk if, according to criteria determined under <changeable><citation jurisdiction="nz">section 195A(1)</citation></changeable>, their education performance is at risk.</text>
-                            </para>
-                          </label-para>
+                          <text>For the purpose of <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, there is a serious risk to the operation or long-term viability of a polytechnic if, according to the criteria published under section 195A(2), there is or is likely to be a serious level of risk to its operation or long-term viability.</text>
                         </para>
                       </subprov>
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">7</label>
                         <para>
                           <text><changeable><citation jurisdiction="nz">Subsection (6)</citation></changeable> does not limit or affect the generality of <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>.</text>
-                        </para>
-                      </subprov>
-                    </prov.body>
-                  </prov>
-                  <prov id="DLM2554206" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                    <label auto.number="no" denominator="yes" quote="1">222CA</label>
-                    <heading>Protection of Crown managers</heading>
-                    <prov.body>
-                      <subprov skeleton="no">
-                        <label auto.number="yes" denominator="yes"/>
-                        <para>
-                          <text>A Crown manager is not personally liable for any act done or omitted by him or her, or for any loss arising out of any act done or omitted by him or her, if he or she did or omitted the act in good faith, in the course of performing his or her functions.</text>
                         </para>
                       </subprov>
                     </prov.body>
@@ -927,7 +2154,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>The council of a designated polytechnic must comprise—</text>
+                        <text>A polytechnic council must comprise—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -937,7 +2164,37 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>4 members appointed by the council in accordance with its statutes.</text>
+                            <text>1 member, being a member of the polytechnic's academic board, nominated by that board and appointed by the council:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>1 student member,—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>if membership of the polytechnic's students association is compulsory, being a person appointed by the association in accordance with its constitution or rules:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>if membership of the polytechnic's students association is not compulsory, being a person elected by the students at the institution at an election conducted in accordance with statutes made by the council:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>1 member, nominated by members of the community served by the polytechnic and appointed by the council:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">e</label>
+                          <para>
+                            <text>the polytechnic's chief executive.</text>
                           </para>
                         </label-para>
                       </para>
@@ -945,7 +2202,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>A person is not eligible for appointment or election as a member of the council of a designated polytechnic if—</text>
+                        <text>A person is not eligible for appointment or election as a member of a polytechnic council if—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -987,7 +2244,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>No act or proceeding of, or of any committee of, the council of a designated polytechnic is invalid because of—</text>
+                        <text>No act or proceeding of, or of any committee of, a polytechnic council is invalidated because of—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1016,78 +2273,6 @@
                     </subprov>
                   </prov.body>
                 </prov>
-                <prov id="DLM2554207" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                  <label auto.number="no" denominator="yes" quote="1">222AAB</label>
-                  <heading>Statutes relating to appointment of members by polytechnic councils</heading>
-                  <prov.body>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">1</label>
-                      <para>
-                        <text>Every polytechnic council must have in place statutes relating to the appointment of members under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">2</label>
-                      <para>
-                        <text>The statutes may (in respect of any of the 4 appointments it has power to make)—</text>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">a</label>
-                          <para>
-                            <text>require the appointment of a member—</text>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">i</label>
-                              <para>
-                                <text>of a stated description; or</text>
-                              </para>
-                            </label-para>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">ii</label>
-                              <para>
-                                <text>holding a stated office; or</text>
-                              </para>
-                            </label-para>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">iii</label>
-                              <para>
-                                <text>nominated by a stated institution or institutions, or an institution or institutions of a stated description; or</text>
-                              </para>
-                            </label-para>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">iv</label>
-                              <para>
-                                <text>elected by people of a stated description:</text>
-                              </para>
-                            </label-para>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">b</label>
-                          <para>
-                            <text>provide for the process by which—</text>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">i</label>
-                              <para>
-                                <text>nominations may be called for and considered:</text>
-                              </para>
-                            </label-para>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">ii</label>
-                              <para>
-                                <text>elections may be held and their results may be determined.</text>
-                              </para>
-                            </label-para>
-                          </para>
-                        </label-para>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">3</label>
-                      <para>
-                        <text><changeable><citation jurisdiction="nz">Subsection (2)</citation></changeable> does not limit the generality of section 194.</text>
-                      </para>
-                    </subprov>
-                  </prov.body>
-                </prov>
                 <prov id="DLM2294246" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                   <label auto.number="no" denominator="yes" quote="1">222AB</label>
                   <heading>Membership of more than one polytechnic council</heading>
@@ -1095,7 +2280,7 @@
                     <subprov skeleton="no">
                       <label auto.number="yes" denominator="yes"/>
                       <para>
-                        <text>A person who is a member of a polytechnic council may be appointed a member of another polytechnic council.</text>
+                        <text>A person who is a member (whether elected or appointed) of a polytechnic council may be elected or appointed a member of another polytechnic council.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1111,13 +2296,13 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>that the council of a designated polytechnic should include Māori; and</text>
+                            <text>that a polytechnic council should include Māori; and</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>that, so far as is possible, the council of a designated polytechnic should reflect the ethnic and socio-economic diversity of the community it serves.</text>
+                            <text>that, so far as is possible, a polytechnic council should reflect the ethnic and socio-economic diversity of the community it serves.</text>
                           </para>
                         </label-para>
                       </para>
@@ -1129,7 +2314,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>must have regard to the principles in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> when appointing members of the council of a designated polytechnic; but</text>
+                            <text>must have regard to the principles in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> when appointing members of a polytechnic council; but</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -1143,7 +2328,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>The council of a designated polytechnic must appoint as members people who (in the council's opinion)—</text>
+                        <text>A polytechnic council must appoint as members people who (in the council's opinion)—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1167,29 +2352,35 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>The person appointing a member of the council of a designated polytechnic must, when making the appointment, state the day on which it takes effect and its term.</text>
+                        <text>The person appointing a member of a polytechnic council must, when making the appointment, state the day on which it takes effect and (if the person has power to determine its term) its term.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">1A</label>
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>The term must be no more than 4 years.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">1B</label>
-                      <para>
-                        <text>The term of office of a member of the council of a designated polytechnic begins on the later of the following:</text>
+                        <text>The term of a member's office is—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>the day on which his or her appointment takes effect:</text>
+                            <text>not more than 4 years for a member appointed by the Minister:</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>the expiry of the term of office of his or her predecessor.</text>
+                            <text>1 year for a member appointed by the council on the nomination of the polytechnic's academic board:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>1 year for a member appointed or elected under <changeable><citation jurisdiction="nz">section 222AA(1)(c)</citation></changeable>:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>not less than 2 years and not more than 4 years for a member appointed by the council on the nomination of members of the community served by the polytechnic.</text>
                           </para>
                         </label-para>
                       </para>
@@ -1197,13 +2388,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>Notwithstanding <changeable><citation jurisdiction="nz">subsection (1B)</citation></changeable>, if the term of office of a member of the council of a designated polytechnic expires before a successor is appointed, the member continues in office until the day on which the appointment of a successor takes effect.</text>
-                      </para>
-                    </subprov>
-                    <subprov amend.level1="insert-cowh" quote="1" skeleton="no">
-                      <label amend.level1="insert-cowh" auto.number="no" denominator="yes" quote="1">4</label>
-                      <para amend.level1="insert-cowh">
-                        <text><changeable><citation jurisdiction="nz">Subsection (3)</citation></changeable> does not apply to a member who was before 1 May 2011 appointed under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>.</text>
+                        <text>Notwithstanding <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>, if the term of office of a member of a polytechnic council appointed or elected under <changeable><citation jurisdiction="nz">section 222AA(1)</citation></changeable> expires before a successor is appointed or elected, the member continues in office until a successor is appointed or elected.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1215,7 +2400,7 @@
                     <subprov skeleton="no">
                       <label auto.number="no" denominator="no"/>
                       <para>
-                        <text>Any member of the council of a designated polytechnic can be reappointed for a second or later term.</text>
+                        <text>Any member of a polytechnic council can be reappointed or re-elected for a second or later term.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1227,11 +2412,11 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>The Minister may at any time the council of a designated polytechnic has no chairperson or no deputy chairperson, by written notice to the member concerned stating the term for which the member is appointed, appoint as chairperson or deputy chairperson (as the case requires) of the council any member who is not one of the following:</text>
+                        <text>The Minister may at any time a polytechnic council has no chairperson or no deputy chairperson, by written notice to the member concerned stating the term for which the member is appointed, appoint as chairperson or deputy chairperson (as the case requires) of the council any member who is not one of the following:</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>a student enrolled at the polytechnic:</text>
+                            <text>a student member:</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -1243,13 +2428,13 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">c</label>
                           <para>
-                            <text>in the case of a council that is not a combined council, an employee of the polytechnic's chief executive:</text>
+                            <text>in the case of a council that is not a combined council, an employee of the polytechnic's chief executive (whether or not the member appointed under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>):</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">d</label>
                           <para>
-                            <text>in the case of a combined council, an employee of the chief executive of one of the polytechnics concerned.</text>
+                            <text>in the case of a combined council, an employee of the chief executive of one of the polytechnics concerned (whether or not a member appointed under <changeable><citation jurisdiction="nz">section 222AK(2)(c)</citation></changeable>).</text>
                           </para>
                         </label-para>
                       </para>
@@ -1257,13 +2442,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>The Minister may at any time, by written notice to the member concerned, dismiss the chairperson or deputy chairperson of the council of a designated polytechnic from office as chairperson or deputy chairperson.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">2A</label>
-                      <para>
-                        <text>The Minister must not dismiss the chairperson or deputy chairperson without first consulting him or her on the proposed dismissal.</text>
+                        <text>The Minister may at any time, by written notice to the member concerned, dismiss the chairperson or deputy chairperson of a polytechnic council from office as chairperson or deputy chairperson.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -1275,7 +2454,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">4</label>
                       <para>
-                        <text>The chairperson or deputy chairperson of the council of a designated polytechnic—</text>
+                        <text>The chairperson or deputy chairperson of a polytechnic council—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1303,27 +2482,21 @@
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">4B</label>
-                      <para>
-                        <text>The chairperson or deputy chairperson of the council of a designated polytechnic who resigns must give a copy of the notice of resignation to the council.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">5</label>
                       <para>
-                        <text>The chairperson or deputy chairperson of the council of a designated polytechnic holds office as chairperson or deputy chairperson for the term for which he or she was appointed (but may be reappointed), unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of <changeable><citation jurisdiction="nz">subsection (4)(b)</citation></changeable>.</text>
+                        <text>The chairperson or deputy chairperson of a polytechnic council holds office as chairperson or deputy chairperson for the term for which he or she was appointed (but may be reappointed), unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of <changeable><citation jurisdiction="nz">subsection (4)(b)</citation></changeable>.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">6</label>
                       <para>
-                        <text>Notwithstanding <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable>, if the term of office of the chairperson or deputy chairperson of the council of a designated polytechnic expires before a successor is appointed, he or she continues in office until a successor is appointed, unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of <changeable><citation jurisdiction="nz">subsection (4)(b)</citation></changeable>.</text>
+                        <text>Notwithstanding <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable>, if the term of office of the chairperson or deputy chairperson of a polytechnic council expires before a successor is appointed, he or she continues in office until a successor is appointed, unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of <changeable><citation jurisdiction="nz">subsection (4)(b)</citation></changeable>.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">7</label>
                       <para>
-                        <text>The chairperson or deputy chairperson of the council of a designated polytechnic may be referred to by any title (other than Chancellor or Pro-Chancellor) the council determines.</text>
+                        <text>The chairperson or deputy chairperson of a polytechnic council may be referred to by any title (other than Chancellor or Pro-Chancellor) the council determines.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1335,7 +2508,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>A member of the council of a designated polytechnic, when acting as a member of the council in any circumstances,—</text>
+                        <text>A member of a polytechnic council, when acting as a member of the council in any circumstances,—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1423,15 +2596,9 @@
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">1A</label>
-                      <para>
-                        <text>The fact that a member of the council of a designated polytechnic was appointed by the council in accordance with a statute providing for the appointment of a member (or 2 or more members) to represent the interests of a stated institution or of people or institutions of a stated description does not displace or limit the member's duty under <changeable><citation jurisdiction="nz">subsection (1)(a)(ii)</citation></changeable> to act in the interests of the polytechnic as a whole.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>A member of the council of a designated polytechnic may disclose, make use of, or act on information to which <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> applies if—</text>
+                        <text>A member of a polytechnic council may disclose, make use of, or act on information to which <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> applies if—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1453,7 +2620,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>a member of the council of a designated polytechnic has in his or her capacity as a member of the council; and</text>
+                            <text>a member of a polytechnic council has in his or her capacity as a member of the council; and</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -1472,54 +2639,6 @@
                     </subprov>
                   </prov.body>
                 </prov>
-                <prov id="DLM2554208" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                  <label auto.number="no" denominator="yes" quote="1">222AGA</label>
-                  <heading>Accountability for individual duties</heading>
-                  <prov.body>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">1</label>
-                      <para>
-                        <text>The duties of a member of the council of a designated polytechnic (<def-term id="DLM2554209">council member</def-term>) under <changeable><citation jurisdiction="nz">section 222AG</citation></changeable> (<emphasis style="bold">individual duties</emphasis>) are duties owed to the Minister and the council.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">2</label>
-                      <para>
-                        <text>A council member who does not comply with his or her individual duties may be removed from office under <changeable><citation jurisdiction="nz">section 222AH</citation></changeable>.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">3</label>
-                      <para>
-                        <text>The council of a designated polytechnic may bring an action against a council member for breach of any individual duty.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">4</label>
-                      <para>
-                        <text>Except as provided in <changeable><citation jurisdiction="nz">subsections (2) and (3)</citation></changeable>, a council member is not liable for a breach of an individual duty.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">5</label>
-                      <para>
-                        <text>This section does not affect any other ground for removing a council member from office.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">6</label>
-                      <para>
-                        <text><changeable><citation jurisdiction="nz">Subsection (4)</citation></changeable> does not affect anything for which a council member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach concerned.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">7</label>
-                      <para>
-                        <text><changeable><citation jurisdiction="nz">Subsection (4)</citation></changeable> does not affect anything for which a council member who is the chief executive of the polytechnic council concerned may, as chief executive, be liable under this Act or any other Act or rule of law, arising from the act or omission that constitutes the breach concerned.</text>
-                      </para>
-                    </subprov>
-                  </prov.body>
-                </prov>
                 <prov id="DLM2294252" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                   <label auto.number="no" denominator="yes" quote="1">222AH</label>
                   <heading>Removal of members</heading>
@@ -1527,7 +2646,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>The Minister may at any time, for just cause, remove a member of the council of a designated polytechnic from office.</text>
+                        <text>The Minister may at any time, for just cause, remove an appointed or elected member of a polytechnic council from office.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -1581,7 +2700,7 @@
                     <subprov skeleton="no">
                       <label auto.number="yes" denominator="yes"/>
                       <para>
-                        <text>The Minister may remove a member of the council of a designated polytechnic under <changeable><citation jurisdiction="nz">section 222AH</citation></changeable> with as little formality and technicality, and as much expedition, as is permitted by—</text>
+                        <text>The Minister may remove a member of a polytechnic council under <changeable><citation jurisdiction="nz">section 222AH</citation></changeable> with as little formality and technicality, and as much expedition, as is permitted by—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1612,7 +2731,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>The Minister may combine the polytechnic councils of 2 or more designated polytechnics if—</text>
+                        <text>The Minister may combine the polytechnic councils of 2 or more polytechnics if—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1630,17 +2749,17 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>Each report must recommend a constitution for any combined council that might be constituted, and state—</text>
+                        <text>Each report must—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>the council's reasons for wishing to combine; and</text>
+                            <text>contain a statement of the results of the polytechnic's consultations; and</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>the results of the council's consultations.</text>
+                            <text>recommend a constitution for any combined council that might be constituted.</text>
                           </para>
                         </label-para>
                       </para>
@@ -1672,7 +2791,37 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>The Minister must ensure that a combined council has an even balance between members appointed by the Minister and members appointed by the council.</text>
+                        <text>In determining the constitution to state for a combined council, the Minister must have regard to the following requirements:</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>a combined council must have an even balance between members appointed by the Minister and other members:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>a combined council must have at least one member elected by students enrolled at the polytechnics concerned:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>a combined council must have at least one member appointed by the council on the nomination of one or other of the academic boards of the polytechnics concerned, or of all of them jointly:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>a combined council must have at least one member appointed by the council on the nomination of members of the community served by the polytechnic:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">e</label>
+                          <para>
+                            <text>the chief executives of the polytechnics concerned must all be members of the combined council.</text>
+                          </para>
+                        </label-para>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1712,7 +2861,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>every statute of any of them (other than a statute relating to the appointment of members under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>)—</text>
+                            <text>every statute of any of them—</text>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
@@ -1728,12 +2877,6 @@
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">ba</label>
-                          <para>
-                            <text>every member of any of the polytechnic councils combined goes out of office:</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">c</label>
                           <para>
                             <text>the assets and liabilities of each of the polytechnics concerned immediately before their combination continue to be assets and liabilities of that polytechnic:</text>
@@ -1745,12 +2888,6 @@
                             <text>a person who immediately before their combination was the chief executive of any of the polytechnics concerned is still the chief executive of that polytechnic, but (without having been made or otherwise become redundant) becomes an employee of the combined council.</text>
                           </para>
                         </label-para>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">3</label>
-                      <para>
-                        <text>Neither the Crown nor a combined council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of a polytechnic council under <changeable><citation jurisdiction="nz">subsection (2)(ba)</citation></changeable>.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1820,19 +2957,13 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">c</label>
                           <para>
-                            <text>every statute of the combined council that relates to all the polytechnics concerned (other than a statute relating to the appointment of members under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>) becomes a statute of each of them:</text>
+                            <text>every statute of the combined council that relates to all the polytechnics concerned becomes a statute of each of them:</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">d</label>
                           <para>
-                            <text>every statute of the combined council that does not relate to all the polytechnics concerned (other than a statute relating to the appointment of members under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>) becomes a statute of the polytechnic to which it does relate (or, as the case requires, of each of the polytechnics concerned to which it does relate):</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">da</label>
-                          <para>
-                            <text>every member of the combined council goes out of office:</text>
+                            <text>every statute of the combined council that does not relate to all the polytechnics concerned becomes a statute of the polytechnic to which it does relate (or, as the case requires, of each of the polytechnics concerned to which it does relate):</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -1846,7 +2977,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>For the purposes of <changeable><citation jurisdiction="nz">subsection <struckoutwords amend.level1="struckout-cowh">(1)(a)(ii)</struckoutwords><insertwords amend.level1="insert-cowh"> (1)(b)(ii)</insertwords></citation></changeable>,—</text>
+                        <text>For the purposes of <changeable><citation jurisdiction="nz">subsection (1)(a)(ii)</citation></changeable>,—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1859,12 +2990,6 @@
                             <text>the combined council's determination is binding on all the polytechnic councils established or to be established for the polytechnics concerned.</text>
                           </para>
                         </label-para>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">3</label>
-                      <para>
-                        <text>Neither the Crown nor a polytechnic council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of a combined council under <changeable><citation jurisdiction="nz">subsection (1)(da)</citation></changeable>.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1886,13 +3011,13 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>may be appointed before the dissolution; and</text>
+                            <text>may be appointed or elected before the dissolution; and</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>must be appointed within 3 months after the dissolution.</text>
+                            <text>must be appointed or elected within 3 months after the dissolution.</text>
                           </para>
                         </label-para>
                       </para>
@@ -1900,7 +3025,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>The appointment of a member of a new polytechnic council takes effect on the later of the day on which it is made and the dissolution.</text>
+                        <text>The appointment or election of a member of a new polytechnic council takes effect on the later of the day on which it is made and the dissolution.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -1931,7 +3056,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>The councils of 2 or more designated polytechnics may, by written agreement,—</text>
+                        <text>Two or more polytechnic councils may, by written agreement,—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -2120,7 +3245,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM2294278" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="70" bill.type="government" stage="3" year="2009">
+    <part id="DLM2294278" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="70" bill.type="government" stage="1" year="2009">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Transitional matters</heading>
       <prov id="DLM2294279" irdnumbering="no" skeleton="no" toc="yes">
@@ -2140,7 +3265,7 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
                 <para>
-                  <text><def-term id="DLM2294281">reconstituted polytechnic council</def-term> means a polytechnic council as constituted for a polytechnic on its reconstitution day; and</text>
+                  <text><def-term id="DLM2294281">reconstituted polytechnic council</def-term> means a polytechnic council as constituted on the polytechnic reconstitution day; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
@@ -2160,7 +3285,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>Before its reconstitution day, the Minister must appoint the number of members of each reconstituted polytechnic council required by its constitution to be appointed by the Minister.</text>
+              <text>Before the polytechnic reconstitution day, the Minister must appoint the number of members of each reconstituted polytechnic council required by its constitution to be appointed by the Minister.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -2170,69 +3295,27 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
-                  <text>may be appointed before its reconstitution day; and</text>
+                  <text>may be appointed or elected before the polytechnic reconstitution day; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
                 <para>
-                  <text>must be appointed within 3 months after that day.</text>
+                  <text>must be appointed or elected within 3 months after that day.</text>
                 </para>
               </label-para>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-cowh" skeleton="no">
-            <label amend.level1="insert-cowh" auto.number="no" denominator="yes">2A</label>
-            <para amend.level1="insert-cowh">
-              <text>Every member of a reconstituted polytechnic council who is before 1 May 2011 appointed under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable> of the principal Act must be appointed for a term ending no later than the close of 30 April 2011.</text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-cowh" skeleton="no">
-            <label amend.level1="insert-cowh" auto.number="no" denominator="yes">2B</label>
-            <para amend.level1="insert-cowh">
-              <text>A reconstituted polytechnic council must ensure that every vacancy of either of the following kinds is filled no later than 11 June 2011:</text>
-              <label-para amend.level1="insert-cowh" skeleton="no">
-                <label amend.level1="insert-cowh" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="insert-cowh">
-                  <text>a vacancy that arises at the close of 30 April 2011 because a member appointed under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable> of the principal Act goes out of office at that time:</text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-cowh" skeleton="no">
-                <label amend.level1="insert-cowh" auto.number="no" denominator="yes">b</label>
-                <para amend.level1="insert-cowh">
-                  <text>a vacancy that—</text>
-                  <label-para amend.level1="insert-cowh" skeleton="no">
-                    <label amend.level1="insert-cowh" auto.number="no" denominator="yes">i</label>
-                    <para amend.level1="insert-cowh">
-                      <text>arises at a time before the close of 30 April 2011 because a member appointed under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable> of the principal Act goes out of office at that time; and</text>
-                    </para>
-                  </label-para>
-                  <label-para amend.level1="insert-cowh" skeleton="no">
-                    <label amend.level1="insert-cowh" auto.number="no" denominator="yes">ii</label>
-                    <para amend.level1="insert-cowh">
-                      <text>has not been filled before the close of 30 April 2011.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-cowh" skeleton="no">
-            <label amend.level1="insert-cowh" auto.number="no" denominator="yes">2C</label>
-            <para amend.level1="insert-cowh">
-              <text><changeable><citation jurisdiction="nz">Subsection (2A)</citation></changeable> overrides <changeable><citation jurisdiction="nz">section 222AD(1A)</citation></changeable> of the principal Act.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
             <para>
-              <text>The appointment of a member of a reconstituted polytechnic council takes effect on the later of the day on which it occurs and its reconstitution day.</text>
+              <text>The appointment or election of a member of a reconstituted polytechnic council takes effect on the later of the day on which it occurs and the polytechnic reconstitution day.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">4</label>
             <para>
-              <text>If on its reconstitution day there is a vacancy in a polytechnic's council, the Minister may, by written notice to any person who was a member of the council immediately before that day, authorise him or her to act as a member of the council until the vacancy is filled.</text>
+              <text>If on the polytechnic reconstitution day there is a vacancy in a polytechnic's council, the Minister may, by written notice to any person who was a member of the council immediately before that day, authorise him or her to act as a member of the council until the vacancy is filled.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -2250,7 +3333,13 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">7</label>
             <para>
-              <text>A council may, before its reconstitution day, make the statutes required by <changeable><citation jurisdiction="nz">section 222AAB</citation></changeable> of the principal Act.</text>
+              <text>A council may, before the polytechnic reconstitution day, make statutes relating to the election or appointment (in accordance with its proposed new constitution) of members of the reconstituted polytechnic council that will replace it.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">8</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Subsection (7)</citation></changeable> does not limit the generality of section 194 of the principal Act.</text>
             </para>
           </subprov>
         </prov.body>
@@ -2262,7 +3351,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>On its reconstitution day,—</text>
+              <text>On the polytechnic reconstitution day,—</text>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
@@ -2280,25 +3369,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text><changeable><citation jurisdiction="nz">Subsection (1)</citation></changeable>—</text>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
-                <para>
-                  <text>is subject to <changeable><citation jurisdiction="nz">section 19(4)</citation></changeable>; and</text>
-                </para>
-              </label-para>
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
-                <para>
-                  <text>overrides <changeable><citation jurisdiction="nz">section 222AD(3)</citation></changeable> of the principal Act.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>Neither the Crown nor a polytechnic council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of the council under <changeable><citation jurisdiction="nz">subsection (1)(a)</citation></changeable>.</text>
+              <text><changeable><citation jurisdiction="nz">Subsection (1)</citation></changeable> is subject to <changeable><citation jurisdiction="nz">section 19(4)</citation></changeable>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -2310,7 +3381,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>On and after its reconstitution day, a polytechnic council—</text>
+              <text>On and after the polytechnic reconstitution day, a polytechnic council—</text>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
@@ -2340,7 +3411,7 @@
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>Before its reconstitution day, the Minister may, by written notice to the chief executive of a polytechnic, give any directions he or she thinks reasonably necessary to ensure that its council as reconstituted can deal effectively with the business before it on and after that day; and—</text>
+              <text>Before the polytechnic reconstitution day, the Minister may, by written notice to the chief executive of a polytechnic, give any directions he or she thinks reasonably necessary to ensure that its council as reconstituted can deal effectively with the business before it on and after that day; and—</text>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
@@ -2359,29 +3430,4 @@
       </prov>
     </part>
   </body>
-  <end id="DLM2554210">
-    <leg-history id="DLM2554211">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2009-08-20</date>
-        <description>Introduction (Bill 70–1)</description>
-      </history-item>
-      <history-item>
-        <date>2009-08-26</date>
-        <description>First reading and referral to Education and Science Committee</description>
-      </history-item>
-      <history-item>
-        <date>2009-11-20</date>
-        <description>Reported from Education and Science Committee (Bill 70–2)</description>
-      </history-item>
-      <history-item>
-        <date>2009-12-10</date>
-        <description>Second reading</description>
-      </history-item>
-      <history-item>
-        <date>2009-12-15</date>
-        <description>Committee of the whole House (Bill 70–3)</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
