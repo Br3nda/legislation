@@ -1,77 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2347800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0006" stage="published" year="2009" raised.by="Government" sop.no="47">
-  <date>Tuesday, 8 September 2009</date>
-  <billref>Resource Management (Simplifying and Streamlining) Amendment Bill</billref>
-  <body id="DLM2347801">
-    <heading>Proposed amendments</heading>
-    <motion>Te Ururoa Flavell, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2347802">
-      <clause.ref>New clause 5A</clause.ref>
-      <sop.para>
-        <text>To insert the following new clause (<emphasis style="italic">after line 37 on page 19</emphasis>):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2347803" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">5A</label>
-            <heading>Treaty of Waitangi relationship</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>Section 6 is amended by adding the following paragraph after paragraph (g):</text>
-                  <amend increment="1" quote="1">
-                    <subprov skeleton="no">
-                      <label auto.number="yes" denominator="yes" quote="1">h</label>
-                      <para>
-                        <text>The Treaty of Waitangi relationship between hapū and iwi Māori, and the Crown.</text>
-                      </para>
-                    </subprov>
-                  </amend>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2347804">
-      <clause.ref>New clause 5B</clause.ref>
-      <sop.para>
-        <text>To insert the following new clause (<emphasis style="italic">after line 37 on page 19</emphasis>):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2347805" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">5B</label>
-            <heading>Treaty of Waitangi</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>Section 8 is repealed and the following section substituted:</text>
-                  <amend quote="1">
-                    <prov id="DLM2347806" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                      <label auto.number="no" denominator="yes" quote="1">8</label>
-                      <heading>Treaty of Waitangi</heading>
-                      <prov.body>
-                        <subprov skeleton="no">
-                          <label auto.number="yes" denominator="yes"/>
-                          <para>
-                            <text>In achieving the purpose of this Act, all persons exercising functions and powers under it, in relation to managing the use, development, and protection of natural and physical resources, shall give effect to the Treaty of Waitangi (Te Tiriti o Waitangi).</text>
-                          </para>
-                        </subprov>
-                      </prov.body>
-                    </prov>
-                  </amend>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
+<sop id="DLM2229600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="29">
+  <date>Tuesday, 21 July 2009</date>
+  <billref>Securities Disclosure and Financial Advisers Amendment Bill</billref>
+  <body id="DLM2229601">
+    <heading>Proposed motion to divide Bill into 2 Bills</heading>
+    <motion>Hon Simon Power, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2229602" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act is the Securities (Disclosure) Amendment Act <changeable>2009</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2229603" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2229604" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Financial Advisers Amendment Act <changeable>2009</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2229605" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote id="DLM2347807" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0006" stage="published" year="2009" raised.by="Government" sop.no="47">
+  <explnote id="DLM2229606" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="29">
     <heading>Explanatory note</heading>
     <para>
-      <text>The amendments strengthen the requirement for all persons to uphold the Treaty of Waitangi in the implementation and administration of the Resource Management Act.  This addresses the concerns of whānau, hapū and iwi, that resource management appropriately reflects obligations under the Treaty of Waitangi.</text>
+      <text>This Supplementary Order Paper divides the Securities Disclosure and Financial Advisers Amendment Bill into the following 2 Bills:</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Securities (Disclosure) Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Financial Advisers Amendment Bill.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
