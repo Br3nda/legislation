@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="89">
+<sop id="DLM2461000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="87">
   <date>Tuesday, 17 November 2009</date>
-  <billref>Climate Change Response (Moderated Emissions Trading) Amendment Bill</billref>
-  <body>
+  <billref>Corrections (Contract Management of Prisons) Amendment Bill</billref>
+  <body id="DLM2461001">
     <heading>Proposed amendment</heading>
-    <motion>Dr Russel Norman, in Committee, to move the following amendments:</motion>
-    <sop.amend>
-      <clause.ref>Part 1: clause 23</clause.ref>
+    <motion>Hon Rick Barker, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM2461002">
+      <clause.ref>Clause 5:</clause.ref>
       <sop.para>
-        <text>Omit clause 23 (lines 17 to 23 on page 46).</text>
+        <text>To amend section 199 by adding the following new subsections (after line 33 on page 5):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">4</label>
+            <para>
+              <text>This Act authorises the Ombudsman to have complete and unrestricted access to any contracted prison, prisoner, prison records and prison staff to carry out the duties and responsibilities of the Ombudsman’s Office in a similar manner as if the contracted prison were a prison run by the Department of Corrections.</text>
+            </para>
+          </subprov>
+          <subprov quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">5</label>
+            <para>
+              <text>The access granted to the Ombudsman in <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable> does not extend the Ombudsman’s authority into the commercial aspects of the contracted prison that are beyond the normal domain of a prison run directly by the Department of Corrections.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="89">
+  <explnote id="DLM2461003" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Members" sop.no="87">
     <heading>Explanatory note</heading>
     <para>
-      <text>The purpose of this Supplementary Order Paper is to amend the Climate Change Response (Moderated Emissions Trading) Amendment Bill as reported by the Finance and Expenditure Committee to retain the existing reporting requirements of the Chief Executive, as set out in the Climate Change Response Act 2002.</text>
+      <text>New subsection (4) inserts a provision to allow the Office of the Ombudsman the same direct access to information held by a privately managed prison as it currently has to information held by a prison managed by the Department of Corrections. This is to ensure that privately-managed prisons are subject to the same level of accountability and transparency as prisons that are managed by the Department of Corrections.</text>
+    </para>
+    <para>
+      <text>New subsection (5) protects the commercial rights of the private management company by restricting the Office of the Ombudsman to just those aspects of a contract prison that are within the normal domain of a prison run by the Department of Corrections.</text>
     </para>
   </explnote>
 </sop>
