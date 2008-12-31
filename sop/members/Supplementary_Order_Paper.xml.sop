@@ -1,38 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2346400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0011" stage="published" year="2009" raised.by="Members" sop.no="45">
-  <date>Tuesday, 8 September 2009</date>
-  <billref>Resource Management (Simplifying and Streamlining) Amendment Bill</billref>
-  <body id="DLM2346401">
-    <heading>Proposed amendments</heading>
-    <motion>Dr Russel Norman, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2346402">
-      <clause.ref>Clause 68</clause.ref>
+<sop id="DLM2546800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0002" stage="published" year="2009" raised.by="Members" sop.no="90">
+  <date>Tuesday, 17 November 2009</date>
+  <billref>Climate Change Response (Moderated Emissions Trading) Amendment Bill</billref>
+  <body id="DLM2546801">
+    <heading>Proposed amendment</heading>
+    <motion>Dr Russel Norman, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM2546802">
+      <clause.ref>Part 1: New clause 10A</clause.ref>
       <sop.para>
-        <text>To insert in new section 95B the following paragraph:</text>
-        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes" quote="1">4</label>
-            <para>
-              <text>For the avoidance of doubt, an organisation representing a relevant part of the public interest must be treated as being adversely affected if, in the opinion of the consent authority, the granting of a resource consent may adversely affect that public interest.</text>
-            </para>
-          </subprov>
+        <text>To insert after clause 10 the following new clause 10A:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2546803" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">10A</label>
+            <heading>Information accessible by search</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="no"/>
+                <para>
+                  <text>Section 27(2) is amended by adding <quote.in quote="1">; and</quote.in> and also by adding the following paragraph:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">x</label>
+                      <para>
+                        <text>the quantity of New Zealand Units allocated free of charge during that year to each eligible activity, industry or sector.</text>
+                      </para>
+                    </label-para>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM2346403">
-      <clause.ref>Clause 68</clause.ref>
-      <sop.para>
-        <text>To omit new section 95D(a)(ii).</text>
-      </sop.para>
-    </sop.amend>
   </body>
-  <explnote id="DLM2346404" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0011" stage="published" year="2009" raised.by="Members" sop.no="45">
+  <explnote id="DLM2546804" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2009" raised.by="Members" sop.no="90">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper  introduces clarification in section 95B that limited notification must be given to organisations representing the public interest if that public interest is adversely affected.</text>
+      <text> The purpose of this Supplementary Order Paper is to amend the Climate Change Response (Moderated Emissions Trading) Amendment Bill as reported by the Finance and Expenditure Committee to improve transparency. It inserts a new paragraph that requires information about free allocations to be searchable in an aggregated form for each eligible activity, industry or sector.</text>
     </para>
     <para>
-      <text>It also removes new section 95D(a)(ii) in order that a consent authority deciding whether an activity’s adverse effects on the environment are more than minor, must regard any effects on person who own or occupy any land adjacent to the land associated with the application.</text>
+      <text>While some industries have so few competitors that such aggregated information may reveal commercial information, this limited risk is outweighed by the public’s right to know how much public subsidies are supporting emitters in each subsector of the economy.</text>
     </para>
   </explnote>
 </sop>
