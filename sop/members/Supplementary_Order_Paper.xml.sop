@@ -1,48 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM1867000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="5">
-  <date>Tuesday, 3 March 2009</date>
-  <billref>Criminal Proceeds (Recovery) Bill</billref>
-  <body id="DLM1867001">
+<sop id="DLM2346200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="46">
+  <date>Tuesday, 8 September 2009</date>
+  <billref>Resource Management (Simplifying and Streamlining) Amendment Bill</billref>
+  <body id="DLM2346201">
     <heading>Proposed amendment</heading>
-    <motion>Te Ururoa Flavell, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM1867002">
-      <clause.ref>Part 1, clause 5</clause.ref>
+    <motion>Dr Russel Norman, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM2346202">
+      <clause.ref>New clause 18C</clause.ref>
       <sop.para>
-        <text>To insert “; but” after “property” in the definition of <def-term id="DLM1872700">property</def-term> (<emphasis style="italic">line 7, page 21</emphasis>) and insert the following paragraphs (<emphasis style="italic">after line 7 on page 21</emphasis>):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="no">
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">c</label>
-            <para>
-              <text>excludes Māori customary land and Māori freehold land; and</text>
-            </para>
-          </label-para>
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">d</label>
-            <para>
-              <text>land that has ceased to be Māori land, and land acquired from Māori for public works under section 129(3) of Te Ture Whenua Māori Act 1993; and</text>
-            </para>
-          </label-para>
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">e</label>
-            <para>
-              <text>Crown land set aside or reserved for use or benefit by Māori where the Court determines the persons beneficially entitled to the land or an entity to hold the land in trust for the benefit of Māori under sections 129(3) and 134 of Te Ture Whenua Māori Act 1993; and</text>
-            </para>
-          </label-para>
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">f</label>
-            <para>
-              <text>land vested as a consequence of settlement legislation in Māori or an entity charged with holding such land for the benefit of Māori.</text>
-            </para>
-          </label-para>
+        <text>To insert the following new clause (after line 27 on page 25):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2346203" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">18C</label>
+            <heading>New section 25AB inserted</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label denominator="yes" auto.number="yes"/>
+                <para>
+                  <text>To insert the following new section after section 25A:</text>
+                  <amend>
+                    <prov id="DLM2347100" irdnumbering="no" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes">25AB</label>
+                      <heading>Power of Minister for the Environment to direct protection of trees</heading>
+                      <prov.body>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="yes">1</label>
+                          <para>
+                            <text>The Minister for the Environment may, on receiving a request from a territorial authority, direct that particular trees, groups of trees, species or subspecies of trees, or ecosystems may be proposed for protection under a district plan in accordance with Part 1 of Schedule 1, without meeting the requirements under section 52(4A).</text>
+                          </para>
+                        </subprov>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="yes">2</label>
+                          <para>
+                            <text>In deciding whether to make such a direction, the Minister shall have regard to—</text>
+                            <label-para skeleton="no">
+                              <label auto.number="no" denominator="yes">a</label>
+                              <para>
+                                <text>the biological or cultural significance, or amenity value of the species or subspecies of tree proposed to be protected for the particular district or region; and</text>
+                              </para>
+                            </label-para>
+                            <label-para skeleton="no">
+                              <label auto.number="no" denominator="yes">b</label>
+                              <para>
+                                <text>any report prepared by or for the territorial authority on the species or subspecies of tree proposed to be protected; and</text>
+                              </para>
+                            </label-para>
+                            <label-para skeleton="no">
+                              <label auto.number="no" denominator="yes">c</label>
+                              <para>
+                                <text>whether the proposed protection of the species or subspecies of tree is the most appropriate way to achieve the purpose of the Act.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM1867003" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="5">
+  <explnote id="DLM2346205" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2009" raised.by="Members" sop.no="46">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Criminal Proceeds (Recovery) Bill. The purpose of the amendment is to exclude Māori customary or ancestral land from the definition of property that can be forfeited as a result of criminal activity.</text>
+      <text>This SOP proposes a process whereby a territorial authority can apply to the Minister for a group or type of trees to be included in a Schedule, despite section 76(4A).</text>
     </para>
   </explnote>
 </sop>
-<!--End of file, do NOT remove.-->
