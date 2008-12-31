@@ -1,32 +1,616 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2579600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="100">
-  <date>Tuesday, 24 November 2009</date>
-  <billref>Border (Customs, Excise, and Tariff) Processing Bill</billref>
-  <body id="DLM2579601">
+<sop id="DLM1777700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="7">
+  <date>Thursday, 5 March 2009</date>
+  <billref>Criminal Proceeds (Recovery) Bill</billref>
+  <body id="DLM1777701">
     <heading>Proposed amendments</heading>
-    <motion>Hon Maurice Williamson, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2579602">
-      <clause.ref>Clause 22: new section 274A(7) of Customs and Excise Act 1996</clause.ref>
+    <motion>Hon Simon Power, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM1777702">
+      <clause.ref>Clause 2</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Paragraph (a)</emphasis>: to omit this paragraph (lines 15 to 17 on page 21) and substitute the following paragraph:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">a</label>
+        <text>To omit <amend.in quote="1">the date that is 8 months after the day on which it receives the Royal assent</amend.in> (lines 5 and 6 on page 15) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">1 December 2009</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777703">
+      <clause.ref>Clause 23(1)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">appear and</quote.in> (line 34 on page 28) <amend.in quote="1">to</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777704">
+      <clause.ref>Clause 33</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (2)</emphasis> (after line 16 on page 35):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
             <para>
-              <text>Part 3 (arrival and departure of goods, persons, and craft):</text>
+              <text>The following persons are entitled to appear and to adduce evidence at the hearing of an application for a further order:</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the applicant:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>a person with an interest in the restrained property or proposed restrained property with which the further order is associated:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>the Official Assignee:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">d</label>
+                <para>
+                  <text>with the leave of the court, any other person.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777705">
+      <clause.ref>Clause 35</clause.ref>
+      <sop.para>
+        <text>Heading to <emphasis style="italic">clause 35</emphasis>: to omit <amend.in quote="1"><emphasis style="bold">orders</emphasis></amend.in> (line 29 on page 35) and substitute <amend.in quote="1"><emphasis style="bold">order</emphasis></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777706">
+      <clause.ref>Clause 46</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">and be heard</amend.in> (line 28 on page 41) and substitute <amend.in quote="1">and to adduce evidence</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777707">
+      <clause.ref>Clause 55(2)(c)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">realised in accordance with <changeable><citation jurisdiction="nz">Parts 1 and 2</citation></changeable></amend.in> (lines 23 and 24 on page 46) and substitute <amend.in quote="1">disposed of in accordance with <changeable><citation jurisdiction="nz">section 83(1)</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777708">
+      <clause.ref>Clause 56(3)(b)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">all of</amend.in> (line 21 on page 47) and substitute <amend.in quote="1">all or</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777709">
+      <clause.ref>Clause 58(5)(b)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">may appear and be heard</amend.in> (line 28 on page 48) and substitute <amend.in quote="1">are entitled to appear and to adduce evidence</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777710">
+      <clause.ref>Clause 65</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">may appear and be heard</amend.in> (line 13 on page 51) and substitute <amend.in quote="1">are entitled to appear and to adduce evidence</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777711">
+      <clause.ref>Clause 70(2)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">assets</amend.in> in each place where it appears (lines 11 and 13 on page 53) and substitute in each case <amend.in quote="1">instrument</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777712">
+      <clause.ref>Clause 75(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">as how</amend.in> (line 28 on page 55) and substitute <amend.in quote="1">as to how</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777713">
+      <clause.ref>Clause 83</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (4)</emphasis>: to omit this subclause (line 29 on page 61) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Subsection (1)(d)(ii)</citation></changeable> does not prevent the Official Assignee from recovering, by any lawful means, the balance of the maximum recoverable amount that remains due to the Crown, after the Crown is paid a sum less than the maximum recoverable amount under the provision.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (5)</emphasis>: to add (line 30 on page 61) <amend.in quote="1">and any regulations made under <changeable><citation jurisdiction="nz">section 179(ca)</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777714">
+      <clause.ref>Clause 134</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (1)</emphasis> (after line 24 on page 96):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1A</label>
+            <para>
+              <text>An application under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> is an application made without notice.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to insert after <quote.in quote="1"><changeable><citation jurisdiction="nz">sections</citation></changeable></quote.in> (line 25 on page 96) <amend.in quote="1"><changeable><citation jurisdiction="nz">21, 22(1), and</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777715">
+      <clause.ref>Clause 140</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)(c) and (d)</emphasis>: to omit these paragraphs (lines 7 to 10 on page 99).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)(f)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 28</citation></changeable></amend.in> (line 13 on page 99) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 28(1), (3), and (4)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)(i)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 33</citation></changeable></amend.in> (line 17 on page 99) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 33(1) and (2)</citation></changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to add the following paragraph (after line 20 on page 99):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">m</label>
+            <para>
+              <text>any other provisions of <changeable><citation jurisdiction="nz">subpart 2 of Part 2</citation></changeable> specified as applicable for the purposes of this subsection by regulations made under <changeable><citation jurisdiction="nz">section 179(ca)</citation></changeable>.</text>
             </para>
           </label-para>
         </instrument.amend>
       </sop.para>
       <sop.para>
-        <text><emphasis style="italic">Paragraph (d)</emphasis>: to insert after <quote.in quote="1">any other provisions of this Act</quote.in> (line 21 on page 21) <amend.in quote="1">(other than Part 3A)</amend.in>.</text>
+        <text><emphasis style="italic">Subclause (3)</emphasis>: to omit <amend.in quote="1">relief—</amend.in> (line 26 on page 99) and substitute <amend.in quote="1">relief,—</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)(a) to (c)</emphasis>: to omit these paragraphs (lines 27 to 35 on page 99) and substitute the following paragraphs:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">a</label>
+            <para>
+              <text>in a case where the foreign restraining order was made without a hearing in a court in the foreign country where it was made, was given no opportunity to make representations to the person or body that made the foreign restraining order:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
+            <para>
+              <text>in a case where the foreign restraining order was made at a hearing of a court in the foreign country where it was made, was not served with any notice of, and did not appear at, the hearing held in the court:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>in any other case, obtains the leave of the court to make the application.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following subclauses after <emphasis style="italic">subclause (3)</emphasis> (after line 35 on page 99):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Sections 23 and 33(3)</citation></changeable> apply, in relation to an application to register a foreign restraining order or in relation to an application for a further order in relation to that order or in relation to an application for relief in respect of a foreign restraining order, but confer a right of appearance on the person who is subject to the order or the applicant for relief only if that person,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>in a case where the foreign restraining order was made without a hearing in a court in the foreign country where it was made, was given no opportunity to make representations to the person or body that made the foreign restraining order:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>in a case where the foreign restraining order was made at a hearing of a court in the foreign country where it was made, was not served with any notice of, and did not appear at, the hearing held in the court:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>in any other case, obtains the leave of the court to appear at the hearing of the application.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text>The court may grant special leave under <changeable><citation jurisdiction="nz">subsection (3)(c) or (4)(c)</citation></changeable> if—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the applicant for relief or the person who is the subject of the foreign restraining order had good reasons—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para>
+                      <text>for failing to make representations to the decision-making person or body who made the order in the foreign country; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para>
+                      <text>in a case where the order was made by a court in the foreign country, for failing to attend the hearing at which the foreign restraining order was made; or</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>the evidence proposed to be adduced by the applicant for relief or other person who is subject to the foreign restraining order was not reasonably available to the applicant for relief or other person at the time when the applicant or other person—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para>
+                      <text>was required to make submissions to the person or body that made the foreign restraining order in a foreign country; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para>
+                      <text>at the time of the hearing at which the foreign restraining order was made by the court in a foreign country.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777716">
+      <clause.ref>Clause 142</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)(b)</emphasis>: to omit <amend.in quote="1">1 year</amend.in> (line 22 on page 100) and substitute <amend.in quote="1">2 years</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)(d)</emphasis>: to omit this paragraph (lines 29 to 32 on page 101).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to omit this subclause (line 37 on page 100 to line 7 on page 101) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Despite <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, if the registration of a foreign restraining order in New Zealand is extended as a result of an application to the High Court, it expires on the date specified by the High Court under <changeable><citation jurisdiction="nz">section 144</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777717">
+      <clause.ref>Clause 143</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 11 to 33 on page 101).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777718">
+      <clause.ref>Clause 146</clause.ref>
+      <sop.para>
+        <text>To add the following subclause (after line 12 on page 103):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>An order under <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable> does not affect a restraining order, insofar as it applies to property that is not the subject of the order.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777719">
+      <clause.ref>New clause 149A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 149</emphasis> (after line 33 on page 103):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1777720" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">149A</label>
+            <heading>Provisions of subpart 3 of Part 2 applying to registering foreign forfeiture orders</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>The following sections of <changeable><citation jurisdiction="nz">subpart 3 of Part 2</citation></changeable> apply, with all necessary modifications, if an application is made to register a foreign forfeiture order in New Zealand under <changeable><citation jurisdiction="nz">section 55</citation></changeable> of the Mutual Assistance in Criminal Matters Act 1992:</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text><changeable><citation jurisdiction="nz">section 47 </citation></changeable> (amending application for civil forfeiture order):</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>any other provision of <changeable><citation jurisdiction="nz">subpart 3 of Part 2</citation></changeable> specified as applicable for the purposes of this subsection by regulations made under <changeable><citation jurisdiction="nz">section 179</citation></changeable>.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text><changeable><citation jurisdiction="nz">Section 154 </citation></changeable> (which relates to relief) applies in relation to a foreign forfeiture order registered in New Zealand only if the person applying for relief,—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>in a case where the foreign forfeiture order was made without a hearing in a court in the foreign country where it was made, was given no opportunity to make representations to the person or body that made the foreign forfeiture order:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>in a case where the foreign forfeiture order was made at a hearing of a court in the foreign country where it was made, was not served with any notice of, and did not appear at, the hearing held in the court:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>in any other case, obtains the leave of the court to make the application.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text><changeable><citation jurisdiction="nz">Sections 46 and 64</citation></changeable> apply, in relation to an application to register a foreign forfeiture order or in relation to an application for relief in respect of a foreign forfeiture order, but confer a right of appearance on the person who is subject to the order or the applicant for relief only if that person,—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>in a case where the foreign forfeiture order was made without a hearing in a court in the foreign country where it was made, was given no opportunity to make representations to the person or body that made the foreign forfeiture order:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>in a case where the foreign forfeiture order was made at a hearing of a court in the foreign country where it was made, was not served with any notice of, and did not appear at, the hearing held in the court:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>in any other case, obtains the leave of the court to appear at the hearing of the application.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>The court may grant special leave under <changeable><citation jurisdiction="nz">subsection (2)(c) or (3)(c)</citation></changeable> if—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>the applicant for relief or the person who is the subject of the foreign forfeiture order had good reasons—</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para>
+                          <text>for failing to make representations to the decision-making person or body who made the order in the foreign country; or</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para>
+                          <text>in a case where the order was made by a court in the foreign country, for failing to attend the hearing at which the foreign forfeiture order was made; or</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>the evidence proposed to be adduced by the applicant for relief or other person who is subject to the foreign forfeiture order was not reasonably available to the applicant for relief or other person at the time when the applicant or other person—</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para>
+                          <text>was required to make submissions to the person or body that made the foreign forfeiture order in a foreign country; or</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para>
+                          <text>at the time of the hearing at which the foreign forfeiture order was made by the court in a foreign country.</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777721">
+      <clause.ref>Clause 154</clause.ref>
+      <sop.para>
+        <text>To omit this clause (line 28 on page 105 to line 9 on page 106) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1777722" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">154</label>
+            <heading>Relief from foreign forfeiture order registered in New Zealand</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>A person who claims an interest in property sought to be forfeited under a foreign forfeiture order registered in New Zealand may, before the date that is 6 months from the date on which the foreign forfeiture order is registered, apply to the High Court for an order if the person is a person to whom <changeable><citation jurisdiction="nz">section 149A(3)(a), (b), or (c) </citation></changeable> applies.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777723">
+      <clause.ref>Clause 155(3)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (b)</emphasis>: to add (line 32 on page 106) <amend.in quote="1">; or</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To add the following paragraph (after line 32 on page 106):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>the applicant has unlawfully benefited from the significant foreign criminal activity to which the foreign forfeiture order relates.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777724">
+      <clause.ref>Clause 159</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)(a)</emphasis>: to insert after <quote.in quote="1">referred</quote.in> (line 38 on page 108) <amend.in quote="1">to</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)(a)</emphasis>: to insert after <quote.in quote="1">referred</quote.in> (line 4 on page 109) <amend.in quote="1">to</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777725">
+      <clause.ref>Clause 179</clause.ref>
+      <sop.para>
+        <text>To insert the following paragraph after <emphasis style="italic">paragraph (c)</emphasis> (after line 15 on page 119):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">ca</label>
+            <para>
+              <text>providing for the creation of charges in respect of property to which any profit forfeiture order applies, specifying the priority of any such charge in relation to any other encumbrances and the circumstances in which a charge ceases to have effect, and providing for any other related matters:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777726">
+      <clause.ref>New clause 230A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after the heading to <emphasis style="italic">subpart 1 of Part 3</emphasis> (after line 6 on page 134):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM1777727" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">230A</label>
+            <heading>Principal Act amended</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>This <changeable><citation jurisdiction="nz">subpart </citation></changeable> amends the Mutual Assistance in Criminal Matters Act 1992.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777728">
+      <clause.ref>Clause 232</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 12 to 14 on page 134).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777729">
+      <clause.ref>Clause 233(6)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (b)(ii)</emphasis> of the new definition of <def-term id="DLM1777730">foreign restraining order</def-term>: to insert after <quote.in quote="1">who has</quote.in> (line 36 on page 135) <amend.in quote="1">, or who may have,</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM1777731">
+      <clause.ref>Clause 238: new section 56(5)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">An amendment</amend.in> (line 18 on page 146) and substitute <amend.in quote="1">A foreign order or an amendment to a foreign order</amend.in>.</text>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2579603" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="100">
+  <explnote id="DLM1777732" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="7">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper sets out amendments to the Border (Customs, Excise, and Tariff) Processing Bill. <emphasis style="italic">New section 274A</emphasis> of the Customs and Excise Act 1996 (to be inserted by <emphasis style="italic">clause 22</emphasis>) authorises arrangements for the use of automated electronic systems (such as Smartgate) for decision making, exercise of powers, and compliance with obligations, under the designated border processing law (as defined in <emphasis style="italic">new section 274A(7)</emphasis>). The amendments exclude Part 3A of the Customs and Excise Act 1996 from the designated border processing law because Part 3A contains special provisions on the manner and form in which the Customs must under Part 3A be given access to information about border-crossing goods, persons, and craft.</text>
+      <text>This Supplementary Order Paper amends the Criminal Proceeds (Recovery) Bill to—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>alter the commencement date from 8 months after the date of Royal assent to a fixed date (1 December 2009):</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amend <emphasis style="italic">clause 33</emphasis> to clarify who can appear at an application for a further order in relation to a restraining order:</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amend <emphasis style="italic">clause 83</emphasis> to provide that the duties of the Official Assignee, in relation to the discharge of profit forfeiture orders, are subject to any regulations made under <emphasis style="italic">new clause 179(ca)</emphasis> providing for the creation of a charging regime in relation to property that is subject to a profit forfeiture order:</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amend <emphasis style="italic">clause 134</emphasis> to provide that applications for interim foreign restraining orders are made without notice:</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amend <emphasis style="italic">clause 140</emphasis> to clarify when a person can apply for relief in respect of a foreign restraining order registered in New Zealand, and when persons who are subject to a foreign restraining order have a right to appear on an application to register such an order, or for a further order, or on an application for relief. In general terms a right to apply for relief, and the right of a respondent to appear in relation to applications made to register orders or an application for further orders, is conferred only where the person has not had an opportunity to make representations before the court or other body in the foreign country that made the order, or if a New Zealand court grants special leave:</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amend <emphasis style="italic">clause 140(1)(f)</emphasis> to remove the absolute prohibition on using property restrained by foreign restraining orders to pay legal fees, as some foreign countries permit respondents to pay their legal fees with restrained property:</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amend <emphasis style="italic">clause 142</emphasis> and omit <emphasis style="italic">clause 143</emphasis> to provide that applications for registering foreign restraining orders are always made on notice:</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amend <emphasis style="italic">clause 142</emphasis> to extend the maximum period for which a foreign restraining order may remain in force from 1 year to 2 years, to ensure sufficient time is allowed to enable investigations and other procedural requirements in relation to the registration of foreign forfeiture orders to be completed:</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>insert a <emphasis style="italic">new clause 149A</emphasis> (relating to the registration of foreign forfeiture orders), which provides similar rules about relief and rights to appearance as the amendments to <emphasis style="italic">clause 140</emphasis>:</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amend <emphasis style="italic">clauses 154 and 155</emphasis> to give the High Court a discretion to grant relief where a person has unlawfully benefited from significant foreign criminal activity (to ensure consistency with other provisions of the Bill):</text>
+          </para>
+        </item>
+      </list>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>make a variety of minor corrections and other technical amendments.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
+<!--End of file, do NOT remove.-->
