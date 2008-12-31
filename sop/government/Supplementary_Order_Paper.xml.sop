@@ -1,34 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2009200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0004" stage="published" year="2009" raised.by="Government" sop.no="16">
-  <date>Wednesday, 29 April 2009</date>
-  <billref>Māori Trustee Amendment Bill</billref>
-  <body id="DLM2009201">
-    <heading>Proposed amendments</heading>
-    <motion>Hon Dr Pita Sharples, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2009202">
-      <clause.ref>Clause 2</clause.ref>
-      <sop.para>
-        <text>To omit <amend.in quote="1">6 weeks after the date on which it receives the Royal assent</amend.in> (lines 5 and 6 on page 3) and substitute <amend.in quote="1">on 1 July 2009</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2009203">
-      <clause.ref>Clause 7: new section 6E(2)</clause.ref>
-      <sop.para>
-        <text>To insert after <quote.in quote="1">Act or</quote.in> (line 2 on page 8) <amend.in quote="1">any</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2009204">
-      <clause.ref>Clause 13: new section 52(a)(i)</clause.ref>
-      <sop.para>
-        <text> To insert after <quote.in quote="1">make</quote.in> (line 29 on page 11) <amend.in quote="1">a</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
+<sop id="DLM2471500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="76">
+  <date>Tuesday, 20 October 2009</date>
+  <billref>Social Assistance (Payment of New Zealand Superannuation and Veteran's Pension Overseas) Amendment Bill</billref>
+  <body id="DLM2471501">
+    <heading>Proposed motion to divide Bill into 2 Bills</heading>
+    <motion>Hon Paula Bennett, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis>, be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2471502" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act is the New Zealand Superannuation and Retirement Income Amendment Act <changeable>2009</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2471503" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on a date to be appointed by the Governor-General by Order in Council.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2471504" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the War Pensions Amendment Act <changeable>2009</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2471505" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on a date to be appointed by the Governor-General by Order in Council.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote id="DLM2009205" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2009" raised.by="Government" sop.no="16">
+  <explnote id="DLM2471506" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2009" raised.by="Government" sop.no="76">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper replaces Supplementary Order Paper No 15. It changes the commencement date of the Act to 1 July 2009 (instead of the date that is 6 weeks after the Royal assent is given), and makes minor grammatical changes to <emphasis style="italic">new sections 6E(2) and 52(a)(i)</emphasis>.</text>
+      <text>This Supplementary Order Paper divides the Bill into the following 2 Bills:</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the New Zealand Superannuation and Retirement Income Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the War Pensions Amendment Bill.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
-<!--End of file, do NOT remove.-->
