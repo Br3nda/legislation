@@ -1,0 +1,2387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill id="DLM2294200" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="70" bill.type="government" stage="3" year="2009">
+  <billdetail>
+    <title>Education (Polytechnics) Amendment Bill</title>
+    <billtype>Government Bill</billtype>
+    <repnote>As reported from the committee of the whole House</repnote>
+  </billdetail>
+  <key>
+    <heading>Key to symbols used in reprinted bill</heading>
+    <subheading>As reported from the committee of the whole House</subheading>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+    <subheading/>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+  </key>
+  <cover id="DLM2294208">
+    <member>Hon Anne Tolley</member>
+    <title>Education (Polytechnics) Amendment Bill</title>
+    <billtype>Government Bill</billtype>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM2294209">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM2294210" prov-type="clause">
+    <prov id="DLM2294211" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act is the Education (Polytechnics) Amendment Act <changeable>2009</changeable>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2294212" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text><changeable><citation jurisdiction="nz">Sections 5, 7 to 9, 11 to 13, and 16</citation></changeable> come into force on 1 March 2010.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text>The rest of this Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2294213" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act amends the Education Act 1989.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <part id="DLM2294214" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="70" bill.type="government" stage="3" year="2009">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Substantive provisions</heading>
+      <crosshead id="DLM2294215" toc="yes">Amendments to existing provisions of principal Act relating to tertiary education</crosshead>
+      <prov id="DLM2294216" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading>Interpretation</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>Section 159(1) is amended by inserting the following definitions in their appropriate alphabetical order:</text>
+              <amend increment="1" quote="1">
+                <def-para id="DLM2294217" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM2294218">combined council</def-term> means a body constituted under <changeable><citation jurisdiction="nz">section 222AK</citation></changeable></text>
+                  </para>
+                </def-para>
+                <def-para id="DLM2294219" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM2294220">constitutents</def-term>, in relation to an institution, means the people who (by virtue of section 163) constitute it</text>
+                  </para>
+                </def-para>
+                <def-para id="DLM2554201" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM2554202">designated polytechnic</def-term>—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>after 28 February 2010 and before 1 May 2010 means a polytechnic designated for the purposes of <changeable><citation jurisdiction="nz">Part 15A</citation></changeable> by the Governor-General by Order in Council:</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>on or after 1 May 2010 means any polytechnic</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </def-para>
+                <def-para id="DLM2294221" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM2294222">polytechnic council</def-term>—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>means the council of a polytechnic; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>includes a combined council</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </def-para>
+                <def-para id="DLM2554203" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM2554204">reconstitution day</def-term>,—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>in relation to a polytechnic designated for the purposes of <changeable><citation jurisdiction="nz">Part 15A</citation></changeable> by the Governor-General by Order in Council, means the day on which the order comes into force:</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>in relation to any other polytechnic, means 1 May 2010</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </def-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294225" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">5</label>
+        <heading>Institutions to be governed by councils</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>Section 165 is amended by inserting the following subsection after subsection (1):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">1A</label>
+                  <para>
+                    <text>On and after its reconstitution day,—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>subsection (1)(a) does not apply to a polytechnic; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>except in relation to matters that occurred before the commencement of this section, a reference in any law to the council or other governing body of an institution must, in relation to the polytechnic, be construed as a reference to its council as constituted under this Part or <changeable><citation jurisdiction="nz">Part 15A</citation></changeable> (as the case requires).</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294226" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">6</label>
+        <heading>Section 168 repealed</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>Section 168 is repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294227" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">7</label>
+        <heading>Constitutions of councils of new institutions</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Section 169 is amended by adding the following subsection:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">4</label>
+                  <para>
+                    <text>Subsections (1) to (3) do not apply to the constitution for the council of a body that is, or is to be, established under section 162(2) as a polytechnic (for which <changeable><citation jurisdiction="nz">sections 222AA and 222AK</citation></changeable> provide).</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294228" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">8</label>
+        <heading>Amendment of constitution</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>Section 170 is amended by adding the following subsection as subsection (2):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">2</label>
+                  <para>
+                    <text>Subsection (1) does not apply to the council of a designated polytechnic.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294229" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">9</label>
+        <heading>Requirements as to constitutions of councils</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>Section 171 is amended by adding the following subsection:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">12</label>
+                  <para>
+                    <text>Subsections (1) to (11) do not apply to the constitution of the council of a designated polytechnic (for which <changeable><citation jurisdiction="nz">sections 222AA and 222AK</citation></changeable> provide).</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294230" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">10</label>
+        <heading>Section 172 repealed</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>Section 172 is repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294231" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">11</label>
+        <heading>Term of office</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>Section 173 is amended by adding the following subsection:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">8</label>
+                  <para>
+                    <text>Subsections (1) to (7) do not apply to the term of office of a member of the council of a designated polytechnic (for which <changeable><citation jurisdiction="nz">section 222AD</citation></changeable> provides).</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2554205" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">12</label>
+        <heading>Vacation of office</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Section 174(1) is amended by omitting <amend.in quote="1">(other than the chief executive)</amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section 174 is amended by inserting the following subsection after subsection (1):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">1A</label>
+                  <para>
+                    <text><changeable><citation jurisdiction="nz">Subsection (1)</citation></changeable> does not apply to—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>the chief executive of an institution that is not a designated polytechnic; or</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>the chief executive of a designated polytechnic who has been appointed by its council pursuant to a statute requiring it to appoint the chief executive a member of its council.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>Section 174 is amended by inserting the following subsection after subsection (2):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">2A</label>
+                  <para>
+                    <text>Subsection (2) does not apply to the council of a designated polytechnic.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294233" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">13</label>
+        <heading>Chairperson and deputy chairperson</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>Section 177 is amended by adding the following subsection:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">9</label>
+                  <para>
+                    <text>Subsections (1) to (8) do not apply to the chairperson and deputy chairperson of the council of a designated polytechnic (for which <changeable><citation jurisdiction="nz">section 222AF</citation></changeable> provides).</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294234" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">14</label>
+        <heading>Criteria for risk assessment of institutions</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text> Section 195A(1) is repealed and the following subsections are substituted:</text>
+              <amend quote="1">
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">1</label>
+                  <para>
+                    <text>The Secretary must, after consulting institution councils, determine—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>criteria for assessing the level of risk to the operation and long-term viability of institutions; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>criteria for assessing the level of risk to the education performance of the students enrolled at polytechnics.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">1A</label>
+                  <para>
+                    <text>In the case of criteria for assessing the level of risk to the education performance of the students enrolled at polytechnics, the requirement to consult institution councils applies to polytechnic councils only.</text>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">1B</label>
+                  <para>
+                    <text>The Secretary may under <changeable><citation jurisdiction="nz">subsection (1) </citation></changeable>determine criteria for assessing the level of risk to the operation and long-term viability of polytechnics only; and in that case,—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>the requirement to consult institution councils applies to polytechnic councils only; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>the criteria determined may be in addition to, or instead of, those determined for other institutions.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM2294235" toc="yes">New provisions relating to polytechnics</crosshead>
+      <prov id="DLM2294236" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">15</label>
+        <heading>New Part 15A inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The following Part is inserted after Part 15:</text>
+              <amend quote="1">
+                <part bill.no="70" id="DLM2294237" in.amend="true" irdnumbering="no" official="yes" quote="1" toc="yes" year="2009">
+                  <label auto.number="no" denominator="yes" quote="1">15A</label>
+                  <heading quote="1">Special provisions relating to polytechnics</heading>
+                  <prov id="DLM2294238" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">222A</label>
+                    <heading>Specialist help</heading>
+                    <prov.body>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1</label>
+                        <para>
+                          <text>If he or she believes on reasonable grounds that a polytechnic, or the education performance of the students at a polytechnic, may be at risk, the chief executive of the Tertiary Education Commission may, by written notice to its polytechnic council, require the council to obtain specialist help.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2</label>
+                        <para>
+                          <text>The notice must state—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>the help or kind of help to be obtained; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>the person or organisation, or kind of person or organisation, from whom or which it is to be obtained.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">3</label>
+                        <para>
+                          <text>As soon as is reasonably practicable after receiving the notice, the council must comply with it.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">4</label>
+                        <para>
+                          <text>The council must—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>provide the information and access, and do all other things, reasonably necessary to enable the person or organisation engaged to provide the help; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>to the extent that the help provided is advice, take the advice into account in performing its functions and duties; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">c</label>
+                            <para>
+                              <text>pay the person or organisation's reasonable fees and expenses.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                  <prov id="DLM2294239" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">222B</label>
+                    <heading>Performance improvement plans</heading>
+                    <prov.body>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1</label>
+                        <para>
+                          <text>If he or she believes on reasonable grounds that a polytechnic, or the education performance of the students at a polytechnic, may be at risk, the chief executive of the Tertiary Education Commission may, by written notice to its polytechnic council, require the council to prepare and give to him or her a draft performance improvement plan for the polytechnic.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2</label>
+                        <para>
+                          <text>The notice must state—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>the matters to be addressed by the draft plan; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>the outcomes that implementation of the draft plan is intended to achieve; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">c</label>
+                            <para>
+                              <text>the times by which those outcomes should be achieved; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">d</label>
+                            <para>
+                              <text>the performance measures that will be used to determine whether those outcomes have been achieved; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">e</label>
+                            <para>
+                              <text>the day by which the draft plan must be given to him or her.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">3</label>
+                        <para>
+                          <text>The council must prepare, and give to the chief executive of the Tertiary Education Commission by the stated day, a draft plan complying with <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">4</label>
+                        <para>
+                          <text>If the council complies with <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable>, the chief executive of the Tertiary Education Commission may,—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>approve the draft plan concerned; or</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>after considering the draft plan, approve for the polytechnic some other plan complying with <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> (whether a modified version of the draft plan or a different plan).</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">5</label>
+                        <para>
+                          <text>If the council does not comply with <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable>, the chief executive of the Tertiary Education Commission may approve for the polytechnic any plan complying with <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> the chief executive thinks appropriate.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">6</label>
+                        <para>
+                          <text>The chief executive of the Tertiary Education Commission must not approve any plan other than a draft plan given to him or her by the council before discussing it with the council.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">7</label>
+                        <para>
+                          <text>The council must take all reasonably practicable steps to implement a plan approved under this section.</text>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                  <prov id="DLM2294240" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">222C</label>
+                    <heading>Crown manager</heading>
+                    <prov.body>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1</label>
+                        <para>
+                          <text>If he or she believes on reasonable grounds that there is a serious risk to the operation or long-term viability of a polytechnic, or that the education performance of the students at a polytechnic is at risk, the Minister may, by written notice to its polytechnic council, appoint a Crown manager for the polytechnic.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1A</label>
+                        <para>
+                          <text>The Minister must not appoint the Crown manager without—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>giving the polytechnic's council written notice of—</text>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">i</label>
+                                <para>
+                                  <text>his or her intention to do so; and</text>
+                                </para>
+                              </label-para>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                <para>
+                                  <text>his or her reasons for intending to do so; and</text>
+                                </para>
+                              </label-para>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>allowing the council a reasonable time to respond to the notice; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">c</label>
+                            <para>
+                              <text>considering any written submissions received from the council within that time.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1B</label>
+                        <para>
+                          <text>Whether a time is reasonable in any particular case may depend (among other things) on the urgency of the matters the Crown manager will have to deal with.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2</label>
+                        <para>
+                          <text>The notice must state—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>the name of the Crown manager and the day on which his or her appointment takes effect; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>the functions of the council to be performed by the Crown manager; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">c</label>
+                            <para>
+                              <text>any conditions subject to which the Crown manager may perform those functions; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">d</label>
+                            <para>
+                              <text>any matters the Crown manager may advise the council on.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2A</label>
+                        <para>
+                          <text>As soon as is practicable after appointing the Crown manager, the Minister must publish in the <emphasis style="italic">Gazette</emphasis> a notice stating that he or she has done so.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">3</label>
+                        <para>
+                          <text>While there is a Crown manager appointed for the polytechnic,—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>the Crown manager may perform any of the functions stated in the notice appointing him or her; and—</text>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">i</label>
+                                <para>
+                                  <text>for that purpose has all the powers of the council; but</text>
+                                </para>
+                              </label-para>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                <para>
+                                  <text>in performing any such function (and exercising any of those powers in order to do so) the Crown manager must comply with all relevant duties of the council; and</text>
+                                </para>
+                              </label-para>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>the council—</text>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">i</label>
+                                <para>
+                                  <text>must not perform any of those functions; and</text>
+                                </para>
+                              </label-para>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                <para>
+                                  <text>must provide the information and access, and do all other things, reasonably necessary to enable the Crown manager to perform those functions and exercise those powers.</text>
+                                </para>
+                              </label-para>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">3A</label>
+                        <para>
+                          <text>The Crown manager must perform any function under <changeable><citation jurisdiction="nz">subsection (3)(a)</citation></changeable> (and exercise any power in order to do so) in accordance with this Act; and, in particular, have regard to sections 160 and 161.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">3B</label>
+                        <para>
+                          <text><changeable><citation jurisdiction="nz">Subsection (3A)</citation></changeable> does not limit the generality of <changeable><citation jurisdiction="nz">subsection (3)(a)(ii)</citation></changeable>.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">4</label>
+                        <para>
+                          <text>The council must pay the Crown manager's reasonable fees and expenses.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">5</label>
+                        <para>
+                          <text>If the Crown manager's appointment has not earlier been revoked, the Minister must consider whether the reasons for it still apply—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>no later than 12 months after it was made; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>no later than 12 months after he or she last considered whether they still apply.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">6</label>
+                        <para>
+                          <text>For the purpose of <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>,—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>there is a serious risk to the operation or long-term viability of a polytechnic if, according to criteria determined under <changeable><citation jurisdiction="nz">section 195A(1)</citation></changeable>, there is or is likely to be a serious level of risk to its operation or long-term viability; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>the education performance of the students at a polytechnic is at risk if, according to criteria determined under <changeable><citation jurisdiction="nz">section 195A(1)</citation></changeable>, their education performance is at risk.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">7</label>
+                        <para>
+                          <text><changeable><citation jurisdiction="nz">Subsection (6)</citation></changeable> does not limit or affect the generality of <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>.</text>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                  <prov id="DLM2554206" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">222CA</label>
+                    <heading>Protection of Crown managers</heading>
+                    <prov.body>
+                      <subprov skeleton="no">
+                        <label auto.number="yes" denominator="yes"/>
+                        <para>
+                          <text>A Crown manager is not personally liable for any act done or omitted by him or her, or for any loss arising out of any act done or omitted by him or her, if he or she did or omitted the act in good faith, in the course of performing his or her functions.</text>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                  <prov id="DLM2294241" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">222D</label>
+                    <heading>Powers may be used concurrently</heading>
+                    <prov.body>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1</label>
+                        <para>
+                          <text><changeable><citation jurisdiction="nz">Sections 222A to 222C</citation></changeable> do not limit or affect sections 195B to 195D.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2</label>
+                        <para>
+                          <text>To the extent that it is possible in practice, powers given by 2 or more of sections 195B, 195C, and <changeable><citation jurisdiction="nz">222A to 222C</citation></changeable> may be exercised concurrently in respect of the same polytechnic or polytechnic council.</text>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                  <prov id="DLM2294242" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">222E</label>
+                    <heading>Polytechnic council may request intervention</heading>
+                    <prov.body>
+                      <subprov skeleton="no">
+                        <label auto.number="yes" denominator="yes"/>
+                        <para>
+                          <text>If a polytechnic council requests the Minister or chief executive of the Tertiary Education Commission (as the case requires) to act under any of sections 195C and 195D and <changeable><citation jurisdiction="nz">222A to 222C</citation></changeable>, he or she—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>must consider any argument or evidence supplied by the council; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>must consider whether or not to act under that section; but</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">c</label>
+                            <para>
+                              <text>may then (if any necessary conditions are satisfied) act under another of those sections giving him or her power to act.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                </part>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294243" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">16</label>
+        <heading>New headings and sections 222AA to 222AP inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The following headings and sections are inserted before <changeable><citation jurisdiction="nz">section 222A</citation></changeable> (as inserted by <changeable><citation jurisdiction="nz">section 15</citation></changeable>):</text>
+              <amend quote="1">
+                <crosshead id="DLM2294244" quote="1" toc="yes">Polytechnic councils</crosshead>
+                <prov id="DLM2294245" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AA</label>
+                  <heading>Constitution of polytechnic councils</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The council of a designated polytechnic must comprise—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>4 members appointed by the Minister:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>4 members appointed by the council in accordance with its statutes.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>A person is not eligible for appointment or election as a member of the council of a designated polytechnic if—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>he or she is subject to a property order under the Protection of Personal and Property Rights Act 1988; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>there has been made under that Act in respect of him or her a personal order that reflects adversely on his or her—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>competence to manage his or her own affairs in relation to his or her property; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>capacity to make or to communicate decisions relating to any particular aspect or aspects of his or her personal care and welfare; or</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>he or she is a bankrupt who has not obtained his or her order of discharge, or whose order of discharge has been suspended for a term not yet expired or is subject to conditions not yet fulfilled; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>he or she has at any time been removed from office as a member of a polytechnic council under <changeable><citation jurisdiction="nz">section 222AH</citation></changeable>.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>No act or proceeding of, or of any committee of, the council of a designated polytechnic is invalid because of—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>a defect in the appointment or election of a member of the council or committee; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>a disqualification of a member of the council or committee; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>a defect in the convening of a meeting; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>a vacancy or vacancies in the membership of the council or committee.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2554207" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AAB</label>
+                  <heading>Statutes relating to appointment of members by polytechnic councils</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>Every polytechnic council must have in place statutes relating to the appointment of members under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>The statutes may (in respect of any of the 4 appointments it has power to make)—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>require the appointment of a member—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>of a stated description; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>holding a stated office; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iii</label>
+                              <para>
+                                <text>nominated by a stated institution or institutions, or an institution or institutions of a stated description; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iv</label>
+                              <para>
+                                <text>elected by people of a stated description:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>provide for the process by which—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>nominations may be called for and considered:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>elections may be held and their results may be determined.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text><changeable><citation jurisdiction="nz">Subsection (2)</citation></changeable> does not limit the generality of section 194.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294246" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AB</label>
+                  <heading>Membership of more than one polytechnic council</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="yes" denominator="yes"/>
+                      <para>
+                        <text>A person who is a member of a polytechnic council may be appointed a member of another polytechnic council.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294247" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AC</label>
+                  <heading>Matters to be considered when appointments made</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>It is desirable in principle—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>that the council of a designated polytechnic should include Māori; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>that, so far as is possible, the council of a designated polytechnic should reflect the ethnic and socio-economic diversity of the community it serves.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>The Minister—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>must have regard to the principles in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> when appointing members of the council of a designated polytechnic; but</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>must appoint people who (in the Minister's opinion) have enough experience of governance to fulfil their individual duties as members of the council and the functions, duties, and responsibilities of the council.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The council of a designated polytechnic must appoint as members people who (in the council's opinion)—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>have relevant knowledge, skills, or experience; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>are likely to be able to fulfil their individual duties as members of the council and the functions, duties, and responsibilities of the council.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294248" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AD</label>
+                  <heading>Term of office</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The person appointing a member of the council of a designated polytechnic must, when making the appointment, state the day on which it takes effect and its term.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1A</label>
+                      <para>
+                        <text>The term must be no more than 4 years.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1B</label>
+                      <para>
+                        <text>The term of office of a member of the council of a designated polytechnic begins on the later of the following:</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the day on which his or her appointment takes effect:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the expiry of the term of office of his or her predecessor.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>Notwithstanding <changeable><citation jurisdiction="nz">subsection (1B)</citation></changeable>, if the term of office of a member of the council of a designated polytechnic expires before a successor is appointed, the member continues in office until the day on which the appointment of a successor takes effect.</text>
+                      </para>
+                    </subprov>
+                    <subprov amend.level1="insert-cowh" quote="1" skeleton="no">
+                      <label amend.level1="insert-cowh" auto.number="no" denominator="yes" quote="1">4</label>
+                      <para amend.level1="insert-cowh">
+                        <text><changeable><citation jurisdiction="nz">Subsection (3)</citation></changeable> does not apply to a member who was before 1 May 2011 appointed under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294249" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AE</label>
+                  <heading>Reappointment and re-election</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="no"/>
+                      <para>
+                        <text>Any member of the council of a designated polytechnic can be reappointed for a second or later term.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294250" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AF</label>
+                  <heading>Chairperson and deputy chairperson</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The Minister may at any time the council of a designated polytechnic has no chairperson or no deputy chairperson, by written notice to the member concerned stating the term for which the member is appointed, appoint as chairperson or deputy chairperson (as the case requires) of the council any member who is not one of the following:</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>a student enrolled at the polytechnic:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the chief executive of the polytechnic (or in the case of a combined council, of one of the polytechnics concerned):</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>in the case of a council that is not a combined council, an employee of the polytechnic's chief executive:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>in the case of a combined council, an employee of the chief executive of one of the polytechnics concerned.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>The Minister may at any time, by written notice to the member concerned, dismiss the chairperson or deputy chairperson of the council of a designated polytechnic from office as chairperson or deputy chairperson.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2A</label>
+                      <para>
+                        <text>The Minister must not dismiss the chairperson or deputy chairperson without first consulting him or her on the proposed dismissal.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The Minister must give to the polytechnic council a copy of a notice under <changeable><citation jurisdiction="nz">subsection (1) or (2)</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>The chairperson or deputy chairperson of the council of a designated polytechnic—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>may by written notice to the Minister resign as chairperson or deputy chairperson; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>ceases to hold office as chairperson or deputy chairperson if he or she—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>ceases to be a member of the council; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>becomes the chief executive or a member of the staff of the polytechnic, or a student enrolled at the polytechnic.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4B</label>
+                      <para>
+                        <text>The chairperson or deputy chairperson of the council of a designated polytechnic who resigns must give a copy of the notice of resignation to the council.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>The chairperson or deputy chairperson of the council of a designated polytechnic holds office as chairperson or deputy chairperson for the term for which he or she was appointed (but may be reappointed), unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of <changeable><citation jurisdiction="nz">subsection (4)(b)</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                      <para>
+                        <text>Notwithstanding <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable>, if the term of office of the chairperson or deputy chairperson of the council of a designated polytechnic expires before a successor is appointed, he or she continues in office until a successor is appointed, unless earlier he or she dies, is dismissed, resigns, or ceases to hold office by virtue of <changeable><citation jurisdiction="nz">subsection (4)(b)</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">7</label>
+                      <para>
+                        <text>The chairperson or deputy chairperson of the council of a designated polytechnic may be referred to by any title (other than Chancellor or Pro-Chancellor) the council determines.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294251" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AG</label>
+                  <heading>Duties of members of polytechnic councils</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>A member of the council of a designated polytechnic, when acting as a member of the council in any circumstances,—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>must—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>act with honesty and integrity; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>act in the interests of the polytechnic as a whole; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iii</label>
+                              <para>
+                                <text>act in a manner that promotes the performance of the functions characteristic of a polytechnic, and the duties of the council; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iv</label>
+                              <para>
+                                <text>act in good faith, and not pursue his or her own interests at the expense of the council's interests; and</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>must exercise the care, diligence, and skill that a reasonable person would exercise in the same circumstances, taking into account—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>the nature of the council; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>the nature of the action; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iii</label>
+                              <para>
+                                <text>the position of the member as a member of a polytechnic council, and the nature of the responsibilities undertaken by him or her; and</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>must not disclose any information to which <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> applies to any person, or make use of, or act on, that information, except—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>in the performance of the council's functions; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>as required or permitted by law; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iii</label>
+                              <para>
+                                <text>in accordance with <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iv</label>
+                              <para>
+                                <text>in complying with requirements for members to disclose interests.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1A</label>
+                      <para>
+                        <text>The fact that a member of the council of a designated polytechnic was appointed by the council in accordance with a statute providing for the appointment of a member (or 2 or more members) to represent the interests of a stated institution or of people or institutions of a stated description does not displace or limit the member's duty under <changeable><citation jurisdiction="nz">subsection (1)(a)(ii)</citation></changeable> to act in the interests of the polytechnic as a whole.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>A member of the council of a designated polytechnic may disclose, make use of, or act on information to which <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> applies if—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>he or she has earlier been authorised to do so by the council; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>disclosing, making use of, or acting on it will not, or will be unlikely to, prejudice the council or the polytechnic.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>This subsection applies to information that—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>a member of the council of a designated polytechnic has in his or her capacity as a member of the council; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>would not otherwise be available to him or her.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text><changeable><citation jurisdiction="nz">Subparagraphs (i) to (iii) of paragraph (b) of subsection (1)</citation></changeable> do not limit the generality of that paragraph.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2554208" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AGA</label>
+                  <heading>Accountability for individual duties</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The duties of a member of the council of a designated polytechnic (<def-term id="DLM2554209">council member</def-term>) under <changeable><citation jurisdiction="nz">section 222AG</citation></changeable> (<emphasis style="bold">individual duties</emphasis>) are duties owed to the Minister and the council.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>A council member who does not comply with his or her individual duties may be removed from office under <changeable><citation jurisdiction="nz">section 222AH</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The council of a designated polytechnic may bring an action against a council member for breach of any individual duty.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>Except as provided in <changeable><citation jurisdiction="nz">subsections (2) and (3)</citation></changeable>, a council member is not liable for a breach of an individual duty.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>This section does not affect any other ground for removing a council member from office.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                      <para>
+                        <text><changeable><citation jurisdiction="nz">Subsection (4)</citation></changeable> does not affect anything for which a council member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach concerned.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">7</label>
+                      <para>
+                        <text><changeable><citation jurisdiction="nz">Subsection (4)</citation></changeable> does not affect anything for which a council member who is the chief executive of the polytechnic council concerned may, as chief executive, be liable under this Act or any other Act or rule of law, arising from the act or omission that constitutes the breach concerned.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294252" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AH</label>
+                  <heading>Removal of members</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The Minister may at any time, for just cause, remove a member of the council of a designated polytechnic from office.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>The removal must be made by written notice to the member (with a copy to the council).</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The notice must state—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the day on which the removal takes effect, which must not be earlier than the day on which the notice is received; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the reasons for the removal.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>The Minister must notify the removal in the <emphasis style="italic">Gazette</emphasis> as soon as is practicable after giving the notice.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>This section does not limit or affect section 174.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                      <para>
+                        <text>For the purposes of <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, <def-term id="DLM2294253">just cause</def-term> includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the polytechnic council or the individual duties of members (depending on the seriousness of the breach).</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294254" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AI</label>
+                  <heading>Process for removal</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="yes" denominator="yes"/>
+                      <para>
+                        <text>The Minister may remove a member of the council of a designated polytechnic under <changeable><citation jurisdiction="nz">section 222AH</citation></changeable> with as little formality and technicality, and as much expedition, as is permitted by—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the principles of natural justice; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>a proper consideration of the matter; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>the requirements of that section.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <crosshead id="DLM2294255" quote="1" toc="yes">Combination of polytechnic councils</crosshead>
+                <prov id="DLM2294256" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AJ</label>
+                  <heading>Voluntary combination of councils</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The Minister may combine the polytechnic councils of 2 or more designated polytechnics if—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>each of them has (in a written report complying with <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>) recommended that they should be combined; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>he or she is satisfied that each of them has consulted the constituents of its polytechnic on the desirability of the combination of the councils.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>Each report must recommend a constitution for any combined council that might be constituted, and state—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the council's reasons for wishing to combine; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the results of the council's consultations.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294257" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AK</label>
+                  <heading>Constitution of combined councils</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The Minister combines polytechnic councils by notice in the <emphasis style="italic">Gazette</emphasis>, stating—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>a constitution for the resulting combined council; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the day on which the combination takes effect.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>The Minister must ensure that a combined council has an even balance between members appointed by the Minister and members appointed by the council.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294258" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AL</label>
+                  <heading>Effect of combination</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The combination of any polytechnic councils does not affect the individual status, identity, or character of the polytechnics concerned.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>On the combination of any polytechnic councils,—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the resulting combined council—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>is the successor of each of them; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>has all the obligations and rights each of them had immediately before their combination:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>every statute of any of them (other than a statute relating to the appointment of members under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>)—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>becomes a statute of the combined council (and may be amended or repealed accordingly); but</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>until amended so as to apply to the others, applies only to the polytechnic by whose council it was made:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ba</label>
+                          <para>
+                            <text>every member of any of the polytechnic councils combined goes out of office:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>the assets and liabilities of each of the polytechnics concerned immediately before their combination continue to be assets and liabilities of that polytechnic:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>a person who immediately before their combination was the chief executive of any of the polytechnics concerned is still the chief executive of that polytechnic, but (without having been made or otherwise become redundant) becomes an employee of the combined council.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>Neither the Crown nor a combined council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of a polytechnic council under <changeable><citation jurisdiction="nz">subsection (2)(ba)</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294259" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AM</label>
+                  <heading>Dissolution of combined council</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The Minister may, on the recommendation of a combined council, dissolve it.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>A combined council must not recommend that the Minister dissolve it without first consulting the constituents of the polytechnics concerned.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The Minister dissolves a combined council by notice in the <emphasis style="italic">Gazette</emphasis> stating the day on which the dissolution takes effect.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>After the publication of the notice, and before the day stated in it, the combined council may make in respect of any of the polytechnics concerned any statutes it thinks necessary or desirable to enable the swift and efficient establishment of a polytechnic council for it.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294260" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AN</label>
+                  <heading>Effect of dissolution</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>On the dissolution of a combined council,—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>each of the polytechnics concerned must have a polytechnic council, as required by this Act:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>each polytechnic council has—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>any of the obligations and rights the former polytechnic council of the polytechnic had immediately before the establishment of the combined council; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>any of the obligations and rights the combined council had immediately before the dissolution that have arisen in relation to the polytechnic:</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>every statute of the combined council that relates to all the polytechnics concerned (other than a statute relating to the appointment of members under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>) becomes a statute of each of them:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>every statute of the combined council that does not relate to all the polytechnics concerned (other than a statute relating to the appointment of members under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable>) becomes a statute of the polytechnic to which it does relate (or, as the case requires, of each of the polytechnics concerned to which it does relate):</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">da</label>
+                          <para>
+                            <text>every member of the combined council goes out of office:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">e</label>
+                          <para>
+                            <text>a person who immediately before the dissolution was the chief executive of any of the polytechnics concerned is still the chief executive of that polytechnic, but (without having been made or otherwise become redundant) becomes an employee of the polytechnic council established or to be established for it.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>For the purposes of <changeable><citation jurisdiction="nz">subsection <struckoutwords amend.level1="struckout-cowh">(1)(a)(ii)</struckoutwords><insertwords amend.level1="insert-cowh"> (1)(b)(ii)</insertwords></citation></changeable>,—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>a combined council may, after the publication of the notice dissolving it, and before the day stated in the notice, determine that any of its obligations or rights have arisen in relation to a particular polytechnic; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the combined council's determination is binding on all the polytechnic councils established or to be established for the polytechnics concerned.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>Neither the Crown nor a polytechnic council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of a combined council under <changeable><citation jurisdiction="nz">subsection (1)(da)</citation></changeable>.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2294261" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AO</label>
+                  <heading>Initial membership of polytechnic councils after dissolution of combined council</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>Before the dissolution of a combined council, the Minister must appoint the members of each of the new polytechnic councils required by its constitution to be appointed by the Minister.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>Other members of a new polytechnic council—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>may be appointed before the dissolution; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>must be appointed within 3 months after the dissolution.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The appointment of a member of a new polytechnic council takes effect on the later of the day on which it is made and the dissolution.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>If on the dissolution there is a vacancy in a polytechnic's new council, the Minister may, by written notice to any person who was a member of the combined council immediately before that day, authorise him or her to act as a member of the council until the vacancy is filled.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>The Minister must give a copy of every notice under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable> to the council concerned.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                      <para>
+                        <text>A person authorised under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable> must for all purposes be treated as a member of the council concerned until the vacancy concerned is filled.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <crosshead id="DLM2294262" quote="1" toc="yes">Combined academic boards</crosshead>
+                <prov id="DLM2294263" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">222AP</label>
+                  <heading>Polytechnic councils may establish combined academic boards</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>The councils of 2 or more designated polytechnics may, by written agreement,—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>establish a single, combined academic board for all the polytechnics concerned; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>disestablish a combined academic board that (whether or not it was originally established for other polytechnics too) is now established for all the polytechnics concerned.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>A combined council may, by resolution,—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>establish a single, combined academic board for all the polytechnics concerned; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>disestablish a combined academic board that it has established for them.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>A combined board must include—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the chief executive of each of the polytechnics concerned; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>at least one member of the staff of each of the polytechnics concerned; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>at least one student of each of the polytechnics concerned.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>The polytechnic council of a polytechnic for which a combined academic board has been established under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> may, by written notice to the other polytechnic council or councils concerned, opt out of the board (and if the board would then serve only one polytechnic, opting out disestablishes it).</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>As soon as is practicable after a combined academic board established under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> has been disestablished, each of the polytechnic councils concerned must establish an academic board for itself.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                      <para>
+                        <text>Section 182(1) applies to a combined academic board as if it were a board established within each of the polytechnics concerned.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">7</label>
+                      <para>
+                        <text>For the purposes of section 222,—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>a combined academic board established under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> must, in relation to each of the polytechnic councils concerned, be treated as if it were a committee appointed by the council under section 193(2)(i):</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>a combined academic board established under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> must be treated as if it were a committee appointed by the combined council concerned under section 193(2)(i).</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">8</label>
+                      <para>
+                        <text>In relation to every polytechnic council for which a combined academic board is established (and to its polytechnic), a reference to the academic board of an institution in a provision of this Act other than this section is a reference to the combined academic board.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <crosshead id="DLM2294264" quote="1" toc="no">Interventions</crosshead>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM2294265" toc="yes">Enabling school students to attend tertiary high school at Manukau Institute of Technology</crosshead>
+      <prov id="DLM2294266" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">17</label>
+        <heading>Enabling school students to attend tertiary high school at Manukau Institute of Technology</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>For the purposes of section 20(1) of the principal Act, a person enrolled at a registered school does not cease to be enrolled at the school by becoming enrolled at MIT in a tertiary high school course.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>A person is not ineligible to be enrolled at a registered school by virtue only of being enrolled at MIT in a tertiary high school course.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>A person who is both enrolled at a registered school and enrolled at MIT in a tertiary high school course must be treated as complying with section 25(1) of the principal Act if he or she attends the classes comprising the course whenever they are available.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>MIT's council and the board of a registered school (being a school at which there are enrolled people who are also, or are also to be, enrolled at MIT in a tertiary high school course) must submit to the Secretary a written agreement—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>stating their respective obligations (both to the people concerned and to each other) and rights in relation to the safety, welfare, and educational programmes of people enrolled at both the school and MIT; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>amending an agreement approved under <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable>.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text>The Secretary may (by written notice to the board and MIT's council) approve an agreement submitted under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>; and in that case it has effect according to its tenor.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">6</label>
+            <para>
+              <text>In this section,—</text>
+              <def-para id="DLM2294267">
+                <para>
+                  <text><def-term id="DLM2294268">board</def-term> and <def-term id="DLM2294269">registered school</def-term> have the meanings given by section 2(1) of the principal Act</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2294270">
+                <para>
+                  <text><def-term id="DLM2294271">MIT</def-term> means the Manukau Institute of Technology</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2294272">
+                <para>
+                  <text><def-term id="DLM2294273">MIT's council</def-term> means the council (within the meaning of section 159(1) of the principal Act) of MIT</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2294274">
+                <para>
+                  <text><def-term id="DLM2294275">Secretary</def-term> means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of Part 15 of the principal Act</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2294276">
+                <para>
+                  <text><def-term id="DLM2294277">tertiary high school course</def-term> means a full-time course of study designated by MIT's council as being intended to be for, and to be limited to, students who are enrolled at a registered school.</text>
+                </para>
+              </def-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+    <part id="DLM2294278" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="70" bill.type="government" stage="3" year="2009">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Transitional matters</heading>
+      <prov id="DLM2294279" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">18</label>
+        <heading>Interpretation</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>In this Part,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text><def-term id="DLM2294280">principal Act</def-term> means Education Act 1989; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text><def-term id="DLM2294281">reconstituted polytechnic council</def-term> means a polytechnic council as constituted for a polytechnic on its reconstitution day; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>terms defined in section 159 of the principal Act have the meanings given by that section.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294282" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">19</label>
+        <heading>Initial membership of reconstituted councils</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Before its reconstitution day, the Minister must appoint the number of members of each reconstituted polytechnic council required by its constitution to be appointed by the Minister.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Other members of a reconstituted polytechnic council—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>may be appointed before its reconstitution day; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>must be appointed within 3 months after that day.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov amend.level1="insert-cowh" skeleton="no">
+            <label amend.level1="insert-cowh" auto.number="no" denominator="yes">2A</label>
+            <para amend.level1="insert-cowh">
+              <text>Every member of a reconstituted polytechnic council who is before 1 May 2011 appointed under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable> of the principal Act must be appointed for a term ending no later than the close of 30 April 2011.</text>
+            </para>
+          </subprov>
+          <subprov amend.level1="insert-cowh" skeleton="no">
+            <label amend.level1="insert-cowh" auto.number="no" denominator="yes">2B</label>
+            <para amend.level1="insert-cowh">
+              <text>A reconstituted polytechnic council must ensure that every vacancy of either of the following kinds is filled no later than 11 June 2011:</text>
+              <label-para amend.level1="insert-cowh" skeleton="no">
+                <label amend.level1="insert-cowh" auto.number="no" denominator="yes">a</label>
+                <para amend.level1="insert-cowh">
+                  <text>a vacancy that arises at the close of 30 April 2011 because a member appointed under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable> of the principal Act goes out of office at that time:</text>
+                </para>
+              </label-para>
+              <label-para amend.level1="insert-cowh" skeleton="no">
+                <label amend.level1="insert-cowh" auto.number="no" denominator="yes">b</label>
+                <para amend.level1="insert-cowh">
+                  <text>a vacancy that—</text>
+                  <label-para amend.level1="insert-cowh" skeleton="no">
+                    <label amend.level1="insert-cowh" auto.number="no" denominator="yes">i</label>
+                    <para amend.level1="insert-cowh">
+                      <text>arises at a time before the close of 30 April 2011 because a member appointed under <changeable><citation jurisdiction="nz">section 222AA(1)(b)</citation></changeable> of the principal Act goes out of office at that time; and</text>
+                    </para>
+                  </label-para>
+                  <label-para amend.level1="insert-cowh" skeleton="no">
+                    <label amend.level1="insert-cowh" auto.number="no" denominator="yes">ii</label>
+                    <para amend.level1="insert-cowh">
+                      <text>has not been filled before the close of 30 April 2011.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov amend.level1="insert-cowh" skeleton="no">
+            <label amend.level1="insert-cowh" auto.number="no" denominator="yes">2C</label>
+            <para amend.level1="insert-cowh">
+              <text><changeable><citation jurisdiction="nz">Subsection (2A)</citation></changeable> overrides <changeable><citation jurisdiction="nz">section 222AD(1A)</citation></changeable> of the principal Act.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>The appointment of a member of a reconstituted polytechnic council takes effect on the later of the day on which it occurs and its reconstitution day.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>If on its reconstitution day there is a vacancy in a polytechnic's council, the Minister may, by written notice to any person who was a member of the council immediately before that day, authorise him or her to act as a member of the council until the vacancy is filled.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text>The Minister must give a copy of every notice under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable> to the council concerned.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">6</label>
+            <para>
+              <text>A person authorised under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable> must for all purposes be treated as a member of the council concerned until the vacancy concerned is filled.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">7</label>
+            <para>
+              <text>A council may, before its reconstitution day, make the statutes required by <changeable><citation jurisdiction="nz">section 222AAB</citation></changeable> of the principal Act.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294283" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">20</label>
+        <heading>Members of existing polytechnic councils to go out of office</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>On its reconstitution day,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>all members of a polytechnic council immediately before that day go out of office; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>all people appointed or elected a member of the council before that day under <changeable><citation jurisdiction="nz">section 19</citation></changeable> take up office.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Subsection (1)</citation></changeable>—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>is subject to <changeable><citation jurisdiction="nz">section 19(4)</citation></changeable>; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>overrides <changeable><citation jurisdiction="nz">section 222AD(3)</citation></changeable> of the principal Act.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>Neither the Crown nor a polytechnic council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of the council under <changeable><citation jurisdiction="nz">subsection (1)(a)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294284" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">21</label>
+        <heading>Council continues to be same body</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>On and after its reconstitution day, a polytechnic council—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>is the same body as the council of the polytechnic concerned that existed immediately before that day; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>continues to have the obligations and rights it then had.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Subsection (1)</citation></changeable> is subject to <changeable><citation jurisdiction="nz">section 22</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2294285" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">22</label>
+        <heading>Temporary power of direction</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>Before its reconstitution day, the Minister may, by written notice to the chief executive of a polytechnic, give any directions he or she thinks reasonably necessary to ensure that its council as reconstituted can deal effectively with the business before it on and after that day; and—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the chief executive must give the notice to the council as soon as is practicable after that day; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>the council must comply with the directions.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+  </body>
+  <end id="DLM2554210">
+    <leg-history id="DLM2554211">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-08-20</date>
+        <description>Introduction (Bill 70–1)</description>
+      </history-item>
+      <history-item>
+        <date>2009-08-26</date>
+        <description>First reading and referral to Education and Science Committee</description>
+      </history-item>
+      <history-item>
+        <date>2009-11-20</date>
+        <description>Reported from Education and Science Committee (Bill 70–2)</description>
+      </history-item>
+      <history-item>
+        <date>2009-12-10</date>
+        <description>Second reading</description>
+      </history-item>
+      <history-item>
+        <date>2009-12-15</date>
+        <description>Committee of the whole House (Bill 70–3)</description>
+      </history-item>
+    </leg-history>
+  </end>
+</bill>
