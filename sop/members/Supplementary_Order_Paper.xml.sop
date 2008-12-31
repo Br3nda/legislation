@@ -1,28 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2546800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0002" stage="published" year="2009" raised.by="Members" sop.no="90">
-  <date>Tuesday, 17 November 2009</date>
+<sop id="DLM2573200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" pco.suffix="0012" stage="published" year="2009" raised.by="Members" sop.no="97">
+  <date>Thursday, 19 November 2009</date>
   <billref>Climate Change Response (Moderated Emissions Trading) Amendment Bill</billref>
-  <body id="DLM2546801">
-    <heading>Proposed amendment</heading>
-    <motion>Dr Russel Norman, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM2546802">
-      <clause.ref>Part 1: New clause 10A</clause.ref>
+  <body id="DLM2573201">
+    <heading>Proposed amendments</heading>
+    <motion>Charles Chauvel, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2573202">
+      <clause.ref>Clause 22: New Section 86A:</clause.ref>
       <sop.para>
-        <text>To insert after clause 10 the following new clause 10A:</text>
+        <text><emphasis style="italic">Subclause (2):</emphasis> To insert after subparagraph (2)(b)(i) (after line 18 on page 39) the following:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2546803" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">10A</label>
-            <heading>Information accessible by search</heading>
+          <amend increment="2" quote="1">
+            <label-para quote="1" skeleton="no">
+              <label auto.number="no" denominator="yes" quote="1">ia</label>
+              <para>
+                <text>a declaration of all donations made to any political party in the previous year by the applicant, including in the case of a body corporate, those made by its directors and senior managers; and</text>
+              </para>
+            </label-para>
+          </amend>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2573203">
+      <clause.ref>New Clause 23A:</clause.ref>
+      <sop.para>
+        <text>To insert, after clause 23 (after line 23 on page 46), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2573204" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">23A</label>
+            <heading>Chief executive to publish certain information</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="no"/>
+                <label auto.number="yes" denominator="yes"/>
                 <para>
-                  <text>Section 27(2) is amended by adding <quote.in quote="1">; and</quote.in> and also by adding the following paragraph:</text>
+                  <text>Section 89(1)(h) is amended by inserting the following new paragraph:</text>
                   <amend increment="1" quote="1">
                     <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">x</label>
+                      <label auto.number="no" denominator="yes" quote="1">ha</label>
                       <para>
-                        <text>the quantity of New Zealand Units allocated free of charge during that year to each eligible activity, industry or sector.</text>
+                        <text>For each participant who has applied for a free allocation under section 86B:</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
+                          <para>
+                            <text>their name; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
+                          <para>
+                            <text>their address; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">iii</label>
+                          <para>
+                            <text>the number of units allocated; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">iv</label>
+                          <para>
+                            <text>their annual allocation adjustment, if any, in the previous specified year.</text>
+                          </para>
+                        </label-para>
                       </para>
                     </label-para>
                   </amend>
@@ -34,13 +74,16 @@
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2546804" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2009" raised.by="Members" sop.no="90">
+  <explnote id="DLM2573205" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0012" stage="published" year="2009" raised.by="Members" sop.no="97">
     <heading>Explanatory note</heading>
     <para>
-      <text> The purpose of this Supplementary Order Paper is to amend the Climate Change Response (Moderated Emissions Trading) Amendment Bill as reported by the Finance and Expenditure Committee to improve transparency. It inserts a new paragraph that requires information about free allocations to be searchable in an aggregated form for each eligible activity, industry or sector.</text>
+      <text>This Supplementary Order Paper amends the Climate Change Response (Moderated Emissions Trading) Amendment Bill. These amendments are as follows:</text>
     </para>
     <para>
-      <text>While some industries have so few competitors that such aggregated information may reveal commercial information, this limited risk is outweighed by the public’s right to know how much public subsidies are supporting emitters in each subsector of the economy.</text>
+      <text><emphasis style="italic">Clause 22: New Section 86A:</emphasis> requires applicants for a free allocation of carbon credits to agricultural or industrial emitters to declare any political donations made in the previous year, as an anti-corruption measure.  Corporations would have to declare both corporate donations and those made by their directors and senior managers.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New Clause 23A:</emphasis> requires the Chief Executive to publish the result of every allocation decision, with sufficient information to identify the participant.</text>
     </para>
   </explnote>
 </sop>
