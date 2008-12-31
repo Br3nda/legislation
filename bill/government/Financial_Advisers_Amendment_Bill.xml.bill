@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill id="DLM2231142" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2009" bill.no="13" bill.type="government" split.letter="B" stage="3" year="2009">
+  <billdetail>
+    <title>Financial Advisers Amendment Bill</title>
+    <billtype>Government Bill</billtype>
+    <repnote>As reported from the committee of the whole House</repnote>
+    <billnote>
+      <para>
+        <text>This bill was formerly part of the Securities Disclosure and Financial Advisers Amendment Bill as reported from the Commerce Committee. The committee of the whole House has further amended the bill and has divided it into the following bills:</text>
+        <list>
+          <item>
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>The Securities (Disclosure) Amendment Bill comprising Part 1</text>
+            </para>
+          </item>
+          <item>
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>This bill comprising Part 2</text>
+            </para>
+          </item>
+        </list>
+      </para>
+    </billnote>
+  </billdetail>
+  <key>
+    <heading>Key to symbols used in reprinted bill</heading>
+    <subheading>As reported from the committee of the whole House</subheading>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+    <subheading/>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+  </key>
+  <cover id="DLM2231143">
+    <member>Hon Simon Power</member>
+    <title>Financial Advisers Amendment Bill</title>
+    <billtype>Government Bill</billtype>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM2231144">
+    <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+  </front>
+  <body id="DLM2231145" prov-type="clause">
+    <prov id="DLM2231140" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act is the Financial Advisers Amendment Act <changeable>2009</changeable>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231141" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <omitted-provs toc="yes"/>
+    <prov id="DLM2231146" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">16</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text><changeable><citation jurisdiction="nz">This Part</citation></changeable> amends the Financial Advisers Act 2008.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231147" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">16A</label>
+      <heading>Meaning of financial advice clarified</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>Section 13(1) is amended by adding <amend.in quote="1">; or</amend.in> and also by adding the following paragraph:</text>
+            <amend increment="1" quote="1">
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">g</label>
+                <para>
+                  <text>a disclosure statement for the purposes of the Retirement Villages Act 2003.</text>
+                </para>
+              </label-para>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231148" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">16B</label>
+      <heading>Individual who is QFE employee or agent</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>Section 17(1) is amended by omitting <amend.in quote="1">qualified financial entity (the <emphasis style="bold">QFE</emphasis>)</amend.in> and substituting <amend.in quote="1">QFE</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231149" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">16C</label>
+      <heading>Employer or principal of financial adviser must be registered</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>Section 18(1) is amended by inserting <amend.in quote="1">or engages</amend.in> after <quote.in quote="1">employs</quote.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231150" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">16D</label>
+      <heading>Disclosure by qualifying financial entity</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>Section 26 is amended by repealing subsection (1) and substituting the following subsections:</text>
+            <amend quote="1">
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">1</label>
+                <para>
+                  <text>This section applies—</text>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
+                    <para>
+                      <text>if a financial adviser (<emphasis style="bold">A</emphasis>)—</text>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">i</label>
+                        <para>
+                          <text>is not an authorised financial adviser; and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">ii</label>
+                        <para>
+                          <text>is an employee or agent of a QFE; and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">iii</label>
+                        <para>
+                          <text>performs a financial adviser service in relation to a category 2 product in the course of the QFE's business; or</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
+                    <para>
+                      <text>if a financial adviser (<emphasis style="bold"><emphasis style="bold">A</emphasis></emphasis>)—</text>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">i</label>
+                        <para>
+                          <text>is not an authorised financial adviser; and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">ii</label>
+                        <para>
+                          <text>is an employee of a QFE; and</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">iii</label>
+                        <para>
+                          <text>performs a financial adviser service in relation to a category 1 product of which the QFE is the issuer in the course of the QFE's business.</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">1A</label>
+                <para>
+                  <text>In this section, <def-term id="DLM2231151">the financial adviser service</def-term> means a financial adviser service referred to in—</text>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
+                    <para>
+                      <text><changeable><citation jurisdiction="nz">subsection (1)(a)(iii)</citation></changeable>; or</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
+                    <para>
+                      <text><changeable><citation jurisdiction="nz">subsection (1)(b)(iii)</citation></changeable>.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231152" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">16E</label>
+      <heading>New section 75 substituted</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>Section 75 is repealed and the following section substituted:</text>
+            <amend quote="1">
+              <prov id="DLM2231153" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">75</label>
+                <heading>Exemption from liability for employee or agent of QFE</heading>
+                <prov.body>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
+                    <para>
+                      <text>This section applies to—</text>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
+                        <para>
+                          <text> a financial adviser who—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
+                            <para>
+                              <text>is not an authorised financial adviser; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
+                            <para>
+                              <text>is an employee or agent of a QFE; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">iii</label>
+                            <para>
+                              <text>performs a financial adviser service in relation to a category 2 product in the course of the QFE's business; and</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
+                        <para>
+                          <text>a financial adviser who—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
+                            <para>
+                              <text>is not an authorised financial adviser; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
+                            <para>
+                              <text>is an employee of a QFE; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">iii</label>
+                            <para>
+                              <text>performs a financial adviser service in relation to a category 1 product of which the QFE is the issuer in the course of the QFE's business.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </label-para>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
+                    <para>
+                      <text>A financial adviser to whom this section applies is exempt from liability under this Act for contravention of a financial adviser obligation.</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231154" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">17</label>
+      <heading>Commissioner's approval of draft code</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>Section 88(3) is amended by omitting <amend.in quote="1">subsection</amend.in> and substituting <amend.in quote="1">section</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov amend.level1="insert-cowh" id="DLM2231155" irdnumbering="no" skeleton="no" toc="yes">
+      <label amend.level1="insert-cowh" auto.number="no" denominator="yes">17AA</label>
+      <heading amend.level1="insert-cowh">Investigation by Commission</heading>
+      <prov.body>
+        <subprov amend.level1="insert-cowh" skeleton="no">
+          <label amend.level1="insert-cowh" auto.number="yes" denominator="yes"/>
+          <para amend.level1="insert-cowh">
+            <text>Section 97(2) is amended by inserting <amend.in quote="1">it</amend.in> after <quote.in amend.level1="insert-cowh" quote="1">investigate a complaint if</quote.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov amend.level1="insert-cowh" id="DLM2231156" irdnumbering="no" skeleton="no" toc="yes">
+      <label amend.level1="insert-cowh" auto.number="no" denominator="yes">17AAB</label>
+      <heading amend.level1="insert-cowh">Content of disciplinary committee's notice of complaint</heading>
+      <prov.body>
+        <subprov amend.level1="insert-cowh" skeleton="no">
+          <label amend.level1="insert-cowh" auto.number="yes" denominator="yes"/>
+          <para amend.level1="insert-cowh">
+            <text>Section 100 is amended by omitting <amend.in quote="1">Commission's</amend.in> and substituting <amend.in quote="1">disciplinary committee's</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231157" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">17A</label>
+      <heading>Offence of performing financial adviser service without being registered</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>Section 114(1) is amended by omitting <amend.in quote="1">performs a financial adviser service without being registered</amend.in> and substituting <amend.in quote="1">, without being registered, performs a financial adviser service that under this Act only a registered financial adviser may perform</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231158" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">18</label>
+      <heading>Right of appeal</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>Section 138(1)(a)(ii) is amended by omitting <amend.in quote="1">67(4): or</amend.in> and substituting <amend.in quote="1">67(4); or</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231159" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">19</label>
+      <heading>Territorial scope</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>Section 157 is amended by omitting <amend.in quote="1">by a person in New Zealand,</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231160" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">19A</label>
+      <heading>New section 161A inserted</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>The following section is inserted immediately before section 162:</text>
+            <amend quote="1">
+              <prov id="DLM2231161" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">161A</label>
+                <heading>Financial Service Providers (Registration and Dispute Resolution) Act 2008 amended</heading>
+                <prov.body>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
+                    <para>
+                      <text>This section amends the Financial Service Providers (Registration and Dispute Resolution) Act 2008.</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
+                    <para>
+                      <text>Section 7(2)(m) is amended by adding <amend.in quote="2">, except to the extent that an individual may be required to be registered in order to perform a financial adviser service under the Financial Advisers Act 2008</amend.in>.</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2231162" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">20</label>
+      <heading>Securities Markets Act 1988 amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>Section 164(6) is repealed.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+  </body>
+  <end id="DLM2231163">
+    <leg-history id="DLM2231164">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-07-21</date>
+        <description>Divided from Securities Disclosure and Financial Advisers Amendment Bill (Bill 13–2) by committee of the whole House as Bill 13–3B</description>
+      </history-item>
+    </leg-history>
+  </end>
+</bill>
