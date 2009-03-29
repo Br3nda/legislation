@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act date.instructed="2009-01-26" id="DLM1826000" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="5" act.type="public" date.as.at="2009-05-29" date.assent="2009-03-30" date.first.valid="2009-03-30" stage="reprint" year="2009">
+<act date.instructed="2009-01-26" id="DLM1826000" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="5" act.type="public" date.as.at="2009-03-30" date.assent="2009-03-30" date.first.valid="2009-03-30" stage="in-force" year="2009">
   <cover id="DLM1826002">
-    <reprint-date>2009-05-29</reprint-date>
     <title>Taxation (Business Tax Measures) Act 2009</title>
     <assent>2009-03-30</assent>
     <commencement>see section 2</commencement>
-    <cover.reprint-note>
-      <para xml:lang="en-NZ">
-        <text>Changes authorised by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1915205" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1000900 - prov 17C" atidlm:xmlId="DLM2125409" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 17C</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="986805" atidlm:sourceXmlId="DLM2125409" atidlm:targetKey="1048414" atidlm:targetXmlId="DLM195466" atidlm:targetName="prov 17C" atidlm:sourceName="DLM2125409" atidlm:targetLocator="file:///C:/epicuser/Doctypes/NZAct/fragxyxz_DLM195452.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826000.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826002" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the Acts and Regulations Publication Act 1989</citation> have been made in this reprint.</text>
-      </para>
-      <para>
-        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
-      </para>
-      <admin-office>This Act is administered by the Inland Revenue Department.</admin-office>
-    </cover.reprint-note>
   </cover>
   <contents>
     <heading>Contents</heading>
     <toc/>
   </contents>
+  <front id="DLM1826003">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
   <body id="DLM1826004" prov-type="clause">
     <prov id="DLM1826005" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="yes">1</label>
@@ -92,9 +85,17 @@
             <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1676694" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922156 - Tax Administration Act 1994" atidlm:xmlId="DLM1936526" atidlm:state="UNCHANGED"><atidlm:linkcontent>Tax Administration Act 1994</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="910816" atidlm:sourceXmlId="DLM1936526" atidlm:targetKey="1884207" atidlm:targetXmlId="DLM348342" atidlm:targetName="Tax Administration Act 1994" atidlm:sourceName="DLM1936526" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM348342.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826000.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826006" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> s 32</citation>
           </amends-affect>
         </amends-note>
+        <amends-note>
+          <amends-effective>
+            <date>2010-04-01</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1676695" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922111 - Income Tax Act 2007" atidlm:xmlId="DLM1936527" atidlm:state="UNCHANGED"><atidlm:linkcontent>Income Tax Act 2007</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="910817" atidlm:sourceXmlId="DLM1936527" atidlm:targetKey="13249608" atidlm:targetXmlId="DLM1512300" atidlm:targetName="Income Tax Act 2007" atidlm:sourceName="DLM1936527" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1512300.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826000.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826006" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> ss 29(2), 30(2) and 31(2)</citation>
+          </amends-affect>
+        </amends-note>
       </notes>
     </prov>
-    <part date.instructed="2009-01-26" id="DLM1826007" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-03-30" act.no="5" act.type="public" date.as.at="2009-05-29" date.assent="2009-03-30" stage="reprint" year="2009">
+    <part date.instructed="2009-01-26" id="DLM1826007" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-03-30" act.no="5" act.type="public" date.as.at="2009-03-30" date.assent="2009-03-30" stage="in-force" year="2009">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Business tax measures</heading>
       <crosshead id="DLM1826008" toc="yes">Amendments to Income Tax Act 2007</crosshead>
@@ -105,7 +106,7 @@
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659865" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922108 - prov 4" atidlm:xmlId="DLM1922165" atidlm:state="UNCHANGED"><atidlm:linkcontent>Sections 4 to 22</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905826" atidlm:sourceXmlId="DLM1922165" atidlm:targetKey="15083418" atidlm:targetXmlId="DLM1826010" atidlm:targetName="prov 4" atidlm:sourceName="DLM1922165" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826007.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826007.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826009" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> amend the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659866" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922111 - Income Tax Act 2007" atidlm:xmlId="DLM1922166" atidlm:state="UNCHANGED"><atidlm:linkcontent>Income Tax Act 2007</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905827" atidlm:sourceXmlId="DLM1922166" atidlm:targetKey="13249608" atidlm:targetXmlId="DLM1512300" atidlm:targetName="Income Tax Act 2007" atidlm:sourceName="DLM1922166" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1512300.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826007.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826009" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+              <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659865" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922108 - prov 4" atidlm:xmlId="DLM1922165" atidlm:state="UNCHANGED"><atidlm:linkcontent>Sections 4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905826" atidlm:sourceXmlId="DLM1922165" atidlm:targetKey="15083418" atidlm:targetXmlId="DLM1826010" atidlm:targetName="prov 4" atidlm:sourceName="DLM1922165" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826007.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826007.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826009" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> to 22</citation> amend the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659866" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922111 - Income Tax Act 2007" atidlm:xmlId="DLM1922166" atidlm:state="UNCHANGED"><atidlm:linkcontent>Income Tax Act 2007</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905827" atidlm:sourceXmlId="DLM1922166" atidlm:targetKey="13249608" atidlm:targetXmlId="DLM1512300" atidlm:targetName="Income Tax Act 2007" atidlm:sourceName="DLM1922166" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1512300.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826007.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826009" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -290,13 +291,13 @@
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
-                                <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1916804" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922121 - prov EW 57" atidlm:xmlId="DLM2126204" atidlm:state="UNCHANGED"><atidlm:linkcontent>section EW 57(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="987164" atidlm:sourceXmlId="DLM2126204" atidlm:targetKey="13267032" atidlm:targetXmlId="DLM1515380" atidlm:targetName="prov EW 57" atidlm:sourceName="DLM2126204" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1515229.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826007.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1825907" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; or</text>
+                                <text>section EW 57(1); or</text>
                               </para>
                             </label-para>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">ii</label>
                               <para>
-                                <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1916805" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922121 - prov EW 57" atidlm:xmlId="DLM2126205" atidlm:state="UNCHANGED"><atidlm:linkcontent>section EW 57(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="987165" atidlm:sourceXmlId="DLM2126205" atidlm:targetKey="13267032" atidlm:targetXmlId="DLM1515380" atidlm:targetName="prov EW 57" atidlm:sourceName="DLM2126205" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1515229.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826007.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1825907" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>; and</text>
+                                <text>section EW 57(2); and</text>
                               </para>
                             </label-para>
                           </para>
@@ -304,7 +305,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1916806" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922121 - prov EW 57" atidlm:xmlId="DLM2126206" atidlm:state="UNCHANGED"><atidlm:linkcontent>section EW 57(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="987166" atidlm:sourceXmlId="DLM2126206" atidlm:targetKey="13267032" atidlm:targetXmlId="DLM1515380" atidlm:targetName="prov EW 57" atidlm:sourceName="DLM2126206" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1515229.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826007.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1825907" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> applies in the person's case for the income year.</text>
+                            <text>section EW 57(3) applies in the person's case for the income year.</text>
                           </para>
                         </label-para>
                       </para>
@@ -313,7 +314,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>A person may be excluded under <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1916807" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922129 - prov EW 59" atidlm:xmlId="DLM2126207" atidlm:state="UNCHANGED"><atidlm:linkcontent>section EW 59</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="987167" atidlm:sourceXmlId="DLM2126207" atidlm:targetKey="13267036" atidlm:targetXmlId="DLM1515389" atidlm:targetName="prov EW 59" atidlm:sourceName="DLM2126207" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1515229.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826007.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1825907" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> from being a cash basis person for a class of financial arrangements.</text>
+                        <text>A person may be excluded under section EW 59 from being a cash basis person for a class of financial arrangements.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1019,7 +1020,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2009-01-26" id="DLM1826031" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-03-30" act.no="5" act.type="public" date.as.at="2009-05-29" date.assent="2009-03-30" stage="reprint" year="2009">
+    <part date.instructed="2009-01-26" id="DLM1826031" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-03-30" act.no="5" act.type="public" date.as.at="2009-03-30" date.assent="2009-03-30" stage="in-force" year="2009">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Minor remedial matters</heading>
       <crosshead id="DLM1826032" toc="yes">Amendments to Income Tax Act 2007</crosshead>
@@ -1030,7 +1031,7 @@
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659904" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922110 - prov 29" atidlm:xmlId="DLM1922204" atidlm:state="UNCHANGED"><atidlm:linkcontent>Sections 29 to 31</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905866" atidlm:sourceXmlId="DLM1922204" atidlm:targetKey="15083602" atidlm:targetXmlId="DLM1826034" atidlm:targetName="prov 29" atidlm:sourceName="DLM1922204" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826033" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> amend the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659905" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922148 - Income Tax Act 2007" atidlm:xmlId="DLM1922205" atidlm:state="UNCHANGED"><atidlm:linkcontent>Income Tax Act 2007</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905867" atidlm:sourceXmlId="DLM1922205" atidlm:targetKey="13249608" atidlm:targetXmlId="DLM1512300" atidlm:targetName="Income Tax Act 2007" atidlm:sourceName="DLM1922205" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1512300.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826033" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
+              <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659904" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922110 - prov 29" atidlm:xmlId="DLM1922204" atidlm:state="UNCHANGED"><atidlm:linkcontent>Sections 29</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905866" atidlm:sourceXmlId="DLM1922204" atidlm:targetKey="15083602" atidlm:targetXmlId="DLM1826034" atidlm:targetName="prov 29" atidlm:sourceName="DLM1922204" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826033" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> to 31</citation> amend the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659905" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922148 - Income Tax Act 2007" atidlm:xmlId="DLM1922205" atidlm:state="UNCHANGED"><atidlm:linkcontent>Income Tax Act 2007</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905867" atidlm:sourceXmlId="DLM1922205" atidlm:targetKey="13249608" atidlm:targetXmlId="DLM1512300" atidlm:targetName="Income Tax Act 2007" atidlm:sourceName="DLM1922205" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1512300.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826033" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -1045,10 +1046,10 @@
               <text>In <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659906" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922149 - prov RD 50" atidlm:xmlId="DLM1922206" atidlm:state="UNCHANGED"><atidlm:linkcontent>section RD 50(5)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905868" atidlm:sourceXmlId="DLM1922206" atidlm:targetKey="13284221" atidlm:targetXmlId="DLM1520086" atidlm:targetName="prov RD 50" atidlm:sourceName="DLM1922206" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1519932.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826034" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, <amend.in quote="1">63.93%</amend.in> is replaced by <amend.in quote="1">61.29%</amend.in>.</text>
             </para>
           </subprov>
-          <subprov deletion-status="repealed" skeleton="no">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text/>
+              <text>In <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659907" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922150 - prov RD 50" atidlm:xmlId="DLM1922207" atidlm:state="UNCHANGED"><atidlm:linkcontent>section RD 50(5)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905869" atidlm:sourceXmlId="DLM1922207" atidlm:targetKey="13284221" atidlm:targetXmlId="DLM1520086" atidlm:targetName="prov RD 50" atidlm:sourceName="DLM1922207" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1519932.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826034" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, <amend.in quote="1">61.29%</amend.in> is replaced by <amend.in quote="1">58.73%</amend.in>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -1064,11 +1065,6 @@
             </para>
           </subprov>
         </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2125405"><amended-provision>Section 29(2)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>29 May 2009</amendment-date>, by <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1915207" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2125401 - prov 4" atidlm:xmlId="DLM2125411" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="986807" atidlm:sourceXmlId="DLM2125411" atidlm:targetKey="16372403" atidlm:targetXmlId="DLM2095413" atidlm:targetName="prov 4" atidlm:sourceName="DLM2125411" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2095409.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2125405" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <amending-leg>Taxation (Budget Tax Measures) Act 2009</amending-leg> (2009 No 14).</history-note>
-          </history>
-        </notes>
       </prov>
       <prov id="DLM1826035" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">30</label>
@@ -1080,10 +1076,10 @@
               <text>In <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659908" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922151 - prov RD 52" atidlm:xmlId="DLM1922208" atidlm:state="UNCHANGED"><atidlm:linkcontent>section RD 52(3)(b)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905870" atidlm:sourceXmlId="DLM1922208" atidlm:targetKey="13284290" atidlm:targetXmlId="DLM1520105" atidlm:targetName="prov RD 52" atidlm:sourceName="DLM1922208" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1519932.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826035" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, <amend.in quote="1">63.93%</amend.in> is replaced by <amend.in quote="1">61.29%</amend.in>.</text>
             </para>
           </subprov>
-          <subprov deletion-status="repealed" skeleton="no">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text/>
+              <text>In <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659909" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922152 - prov RD 52" atidlm:xmlId="DLM1922209" atidlm:state="UNCHANGED"><atidlm:linkcontent>section RD 52(3)(b)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905871" atidlm:sourceXmlId="DLM1922209" atidlm:targetKey="13284290" atidlm:targetXmlId="DLM1520105" atidlm:targetName="prov RD 52" atidlm:sourceName="DLM1922209" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1519932.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826035" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, <amend.in quote="1">61.29%</amend.in> is replaced by <amend.in quote="1">58.73%</amend.in>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -1099,11 +1095,6 @@
             </para>
           </subprov>
         </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2125406"><amended-provision>Section 30(2)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>29 May 2009</amendment-date>, by <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1915208" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2125401 - prov 4" atidlm:xmlId="DLM2125412" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="986808" atidlm:sourceXmlId="DLM2125412" atidlm:targetKey="16372403" atidlm:targetXmlId="DLM2095413" atidlm:targetName="prov 4" atidlm:sourceName="DLM2125412" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2095409.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2125406" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <amending-leg>Taxation (Budget Tax Measures) Act 2009</amending-leg> (2009 No 14).</history-note>
-          </history>
-        </notes>
       </prov>
       <prov id="DLM1826036" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">31</label>
@@ -1115,10 +1106,10 @@
               <text>In <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659910" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922153 - prov RD 53" atidlm:xmlId="DLM1922210" atidlm:state="UNCHANGED"><atidlm:linkcontent>section RD 53(4)(a)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905872" atidlm:sourceXmlId="DLM1922210" atidlm:targetKey="13284296" atidlm:targetXmlId="DLM1520107" atidlm:targetName="prov RD 53" atidlm:sourceName="DLM1922210" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1519932.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826036" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, <amend.in quote="1">64%</amend.in> is replaced by <amend.in quote="1">61%</amend.in>.</text>
             </para>
           </subprov>
-          <subprov deletion-status="repealed" skeleton="no">
+          <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text/>
+              <text>In <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1659911" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM1922154 - prov RD 53" atidlm:xmlId="DLM1922211" atidlm:state="UNCHANGED"><atidlm:linkcontent>section RD 53(4)(a)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="905873" atidlm:sourceXmlId="DLM1922211" atidlm:targetKey="13284296" atidlm:targetXmlId="DLM1520107" atidlm:targetName="prov RD 53" atidlm:sourceName="DLM1922211" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1519932.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM1826036" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>, <amend.in quote="1">61%</amend.in> is replaced by <amend.in quote="1">59%</amend.in>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -1134,11 +1125,6 @@
             </para>
           </subprov>
         </prov.body>
-        <notes>
-          <history>
-            <history-note id="DLM2125407"><amended-provision>Section 31(2)</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>29 May 2009</amendment-date>, by <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1915209" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2125401 - prov 4" atidlm:xmlId="DLM2125413" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="amending-provision" atidlm:isIncludeOrRef="1" atidlm:seqNum="986809" atidlm:sourceXmlId="DLM2125413" atidlm:targetKey="16372403" atidlm:targetXmlId="DLM2095413" atidlm:targetName="prov 4" atidlm:sourceName="DLM2125413" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2095409.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826031.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2125407" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> of the <amending-leg>Taxation (Budget Tax Measures) Act 2009</amending-leg> (2009 No 14).</history-note>
-          </history>
-        </notes>
       </prov>
       <crosshead id="DLM1826037" toc="yes">Amendment to Tax Administration Act 1994</crosshead>
       <prov id="DLM1826038" irdnumbering="no" skeleton="no" toc="yes">
@@ -1156,197 +1142,38 @@
     </part>
   </body>
   <end id="DLM1877602">
-    <end.reprint-note id="DLM2125408">
-      <reprint.index>
-        <heading>Contents</heading>
-        <para>
-          <list>
-            <item>
-              <label auto.number="no" denominator="no">1</label>
-              <para>
-                <text>General</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">2</label>
-              <para>
-                <text>Status of reprints</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">3</label>
-              <para>
-                <text>How reprints are prepared</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">4</label>
-              <para>
-                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">5</label>
-              <para>
-                <text>List of amendments incorporated in this reprint (most recent first)</text>
-              </para>
-            </item>
-          </list>
-        </para>
-      </reprint.index>
-      <reprint.notes>
-        <heading>Notes</heading>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">1</label>
-          <heading>General</heading>
-          <para>
-            <text>This is a reprint of the Taxation (Business Tax Measures) Act 2009. The reprint incorporates all the amendments to the Act as at 29 May 2009, as specified in the list of amendments at the end of these notes.</text>
-          </para>
-          <para>
-            <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">2</label>
-          <heading>Status of reprints</heading>
-          <para>
-            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
-          </para>
-          <para>
-            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">3</label>
-          <heading>How reprints are prepared</heading>
-          <para>
-            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the <emphasis style="italic">Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force</emphasis>.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">4</label>
-          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
-          <para>
-            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
-          </para>
-          <para>
-            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
-          </para>
-          <para>
-            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>layout of provisions, including:</text>
-                  <list>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>indentation</text>
-                      </para>
-                    </item>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
-                      </para>
-                    </item>
-                  </list>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>punctuation (eg, colons are not used after definitions)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>case and appearance of letters and words, including:</text>
-                  <list>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
-                      </para>
-                    </item>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>small capital letters in section and subsection references are now capital letters</text>
-                      </para>
-                    </item>
-                  </list>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>running heads (the information that appears at the top of each page)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
-                </para>
-              </item>
-            </list>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">5</label>
-          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
-          <reprint.amend>
-            <citation jurisdiction="nz">Taxation (Budget Tax Measures) Act 2009 (2009 No 14): <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1915206" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2125404 - prov 4" atidlm:xmlId="DLM2125410" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 4</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="986806" atidlm:sourceXmlId="DLM2125410" atidlm:targetKey="16372403" atidlm:targetXmlId="DLM2095413" atidlm:targetName="prov 4" atidlm:sourceName="DLM2125410" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2095409.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM1826000.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2125408" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>
-          </reprint.amend>
-        </reprint.note>
-      </reprint.notes>
-    </end.reprint-note>
+    <leg-history id="DLM1877603">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-02-10</date>
+        <description>Introduction (Bill 11–1)</description>
+      </history-item>
+      <history-item>
+        <date>2009-02-10</date>
+        <description>First reading and referral to Finance and Expenditure Committee</description>
+      </history-item>
+      <history-item>
+        <date>2009-03-06</date>
+        <description>Reported from Finance and Expenditure Committee (Bill 11–2)</description>
+      </history-item>
+      <history-item>
+        <date>2009-03-12</date>
+        <description>Second reading</description>
+      </history-item>
+      <history-item>
+        <date>2009-03-24</date>
+        <description>Committee of the whole House</description>
+      </history-item>
+      <history-item>
+        <date>2009-03-26</date>
+        <description>Third reading</description>
+      </history-item>
+      <history-item>
+        <date>2009-03-30</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the Inland Revenue Department.</admin-office>
   </end>
 </act>
 <!--End of file, do NOT remove.-->
