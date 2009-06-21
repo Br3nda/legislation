@@ -1,31 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2158800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" date.terminated="2009-06-18" terminated="withdrawn" pco.suffix="0002" stage="published" year="2009" raised.by="Members" sop.no="24">
+<sop id="DLM2164700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" date.terminated="2009-06-22" terminated="withdrawn" pco.suffix="0007" stage="published" year="2009" raised.by="Members" sop.no="26">
   <date>Wednesday, 17 June 2009</date>
   <billref>Land Transport Amendment Bill (No 4)</billref>
-  <body id="DLM2158801">
+  <body id="DLM2164701">
     <heading>Proposed amendments</heading>
     <motion>Hon Trevor Mallard, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2158802">
-      <clause.ref>Clause 6</clause.ref>
-      <sop.para>
-        <text>New section 57A(1) is amended by inserting the following paragraph after paragraph (b):</text>
-        <instrument.amend close.quote="yes" increment="1" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">c</label>
-            <para>
-              <text>the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken under <changeable><citation jurisdiction="nz">section 73 </citation></changeable>, contains evidence of the use of a controlled drug listed in Schedule 1 (except thalidomide) of the Misuse of Drugs Act 1975.</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2158803">
+    <sop.amend id="DLM2164600">
       <clause.ref>Clause 10 </clause.ref>
       <sop.para>
         <text>Clause 10 is amended by adding new subsection (5) after new section 71A(4):</text>
-        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
+        <instrument.amend close.quote="yes" open.quote="yes">
           <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes" quote="1">5</label>
+            <label auto.number="yes" denominator="yes">5</label>
             <para>
               <text>An enforcement officer may exercise the powers in <changeable><citation jurisdiction="nz">subsections (1) and (2) </citation></changeable> in addition to any breath screening tests under <changeable><citation jurisdiction="nz">section 68 </citation></changeable> or evidential breath tests under <changeable><citation jurisdiction="nz">section 69 </citation></changeable> and regardless of the outcome of any such tests.</text>
             </para>
@@ -33,13 +19,13 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM2158804">
+    <sop.amend id="DLM2164601">
       <clause.ref>Clause 11 </clause.ref>
       <sop.para>
         <text>Clause 11 is amended by inserting new subsection (1B) after section 72(1A):</text>
-        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
+        <instrument.amend close.quote="yes" open.quote="yes">
           <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes" quote="1">1B</label>
+            <label auto.number="yes" denominator="yes">1B</label>
             <para>
               <text><changeable><citation jurisdiction="nz">Subsection (1)(e) </citation></changeable> applies regardless of whether the person has failed any breath screening tests under section 68 or evidential breath tests under section 69 and regardless of the outcome of any such tests. An enforcement officer may exercise the powers in <changeable><citation jurisdiction="nz">subsections (1) and (2) </citation></changeable> in addition to any breath screening tests under section 68 or evidential breath tests under section 69.</text>
             </para>
@@ -48,16 +34,10 @@
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2158805" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2009-06-18" pco.suffix="0002" stage="published" year="2009" raised.by="Members" sop.no="24">
+  <explnote id="DLM2164602" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2009-06-22" pco.suffix="0007" stage="published" year="2009" raised.by="Members" sop.no="26">
     <heading>Explanatory note</heading>
     <para>
-      <text>The amendment to clause 6 (new section 57A) provides that where a blood sample is taken at a hospital or surgery, evidence of a Class A controlled drug in the blood sample can be used as grounds for a prosecution regardless of whether there is an evidence of impairment.</text>
-    </para>
-    <para>
-      <text>The bill as currently drafted requires a person to have failed a compulsory impairment test before a blood sample can be used as evidence of driving while impaired and with blood that contains evidence of use of a controlled drug or prescription medicine.  This should continue to be the case where samples are taken by enforcement officers other than in hospitals or surgeries.  But where someone is in a hospital or surgery when the blood test is taken it is not appropriate to require the performance, and failure, of a compulsory impairment test before the results can be used.</text>
-    </para>
-    <para>
-      <text>The amendments to clauses 10 and 11 interrelate.  They clarify the law to ensure that an enforcement officer can require a person who fails a breath screening test under section 68 or an evidential breath test under section 69 can also require the person to provide a blood specimen if the officer has good cause to suspect that the person has consumed a drug or drugs.</text>
+      <text>The amendments to clauses 10 and 11 clarify the law to ensure that an enforcement officer can require a person who fails a breath screening test under section 68 or an evidential breath test under section 69 to provide a blood specimen if the officer has good cause to suspect that the person has consumed a drug or drugs.</text>
     </para>
   </explnote>
 </sop>
