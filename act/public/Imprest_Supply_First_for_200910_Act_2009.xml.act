@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act date.instructed="2008-12-04" id="DLM2168400" in.amend="false" instructing.office="Treasury" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="16" act.type="public" date.as.at="2009-09-02" date.assent="2009-06-24" date.first.valid="2009-07-01" stage="reprint" year="2009" prospective.consolidation="F">
+<act date.instructed="2008-12-04" id="DLM2168400" in.amend="false" instructing.office="Treasury" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="16" act.type="public" date.as.at="2009-06-24" date.assent="2009-06-24" date.first.valid="2009-07-01" stage="not-in-force" year="2009">
   <cover id="DLM2168404">
-    <reprint-date>2009-09-02</reprint-date>
     <title>Imprest Supply (First for 2009/10) Act 2009</title>
     <assent>2009-06-24</assent>
     <commencement>see section 2</commencement>
-    <cover.reprint-note>
-      <para xml:lang="en-NZ">
-        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
-      </para>
-      <para>
-        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
-      </para>
-      <admin-office>This Act is administered by the <ministry>Treasury</ministry>.</admin-office>
-    </cover.reprint-note>
   </cover>
   <contents>
     <heading>Contents</heading>
@@ -54,7 +44,7 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">1</label>
           <para>
-            <text><citation jurisdiction="nz"><intref href="DLM2168416">Sections 6</intref>, <intref href="DLM2168417">7</intref>, and <intref href="DLM2168420">10</intref></citation> are repealed on the coming into force of the <citation jurisdiction="nz"><extref href="DLM2099402">first Appropriation Act for the 2009/10 year</extref></citation>.</text>
+            <text><citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965616" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179400 - prov 6" atidlm:xmlId="DLM2179416" atidlm:state="UNCHANGED"><atidlm:linkcontent>Sections 6</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002056" atidlm:sourceXmlId="DLM2179416" atidlm:targetKey="16630211" atidlm:targetXmlId="DLM2168416" atidlm:targetName="prov 6" atidlm:sourceName="DLM2179416" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168409" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link>, <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965617" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179401 - prov 7" atidlm:xmlId="DLM2179417" atidlm:state="UNCHANGED"><atidlm:linkcontent>7</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002057" atidlm:sourceXmlId="DLM2179417" atidlm:targetKey="16630212" atidlm:targetXmlId="DLM2168417" atidlm:targetName="prov 7" atidlm:sourceName="DLM2179417" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168409" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link>, and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965618" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179402 - prov 10" atidlm:xmlId="DLM2179418" atidlm:state="UNCHANGED"><atidlm:linkcontent>10</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002058" atidlm:sourceXmlId="DLM2179418" atidlm:targetKey="16630219" atidlm:targetXmlId="DLM2168420" atidlm:targetName="prov 10" atidlm:sourceName="DLM2179418" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168409" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> are repealed on the coming into force of the first Appropriation Act for the 2009/10 year.</text>
           </para>
         </subprov>
         <subprov skeleton="no">
@@ -71,21 +61,29 @@
           </amends-effective>
           <amends-affect>
             <citation jurisdiction="nz">
-              <intref href="DLM2168400">Imprest Supply (First for 2009/10) Act 2009</intref>
+              <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1968802" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2182000 - Imprest Supply (First for 2009/10) Act 2009" atidlm:xmlId="DLM2182002" atidlm:state="UNCHANGED">
+                <atidlm:linkcontent>Imprest Supply (First for 2009/10) Act 2009</atidlm:linkcontent>
+                <atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002922" atidlm:sourceXmlId="DLM2182002" atidlm:targetKey="16630221" atidlm:targetXmlId="DLM2168400" atidlm:targetName="Imprest Supply (First for 2009/10) Act 2009" atidlm:sourceName="DLM2182002" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED">
+                  <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168409" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                </atidlm:resourcepair>
+              </atidlm:link>
             </citation>
           </amends-affect>
         </amends-note>
         <amends-note>
           <amends-effective>
             <event>First Appropriation Act for 2009/10 year</event>
-            <date>2009-09-02</date>
           </amends-effective>
           <amends-affect>
             <citation jurisdiction="nz">
-              <intref href="DLM2168400">ss 6, 7, 10</intref>
+              <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1968803" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2182001 - Imprest Supply (First for 2009/10) Act 2009" atidlm:xmlId="DLM2182003" atidlm:state="UNCHANGED">
+                <atidlm:linkcontent>ss 6, 7, 10</atidlm:linkcontent>
+                <atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002923" atidlm:sourceXmlId="DLM2182003" atidlm:targetKey="16630221" atidlm:targetXmlId="DLM2168400" atidlm:targetName="Imprest Supply (First for 2009/10) Act 2009" atidlm:sourceName="DLM2182003" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED">
+                  <atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168409" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/>
+                </atidlm:resourcepair>
+              </atidlm:link>
             </citation>
           </amends-affect>
-          <amends-text>Appropriation (2009/10 Estimates) Act 2009 (2009 No 28)</amends-text>
         </amends-note>
       </notes>
     </prov>
@@ -106,7 +104,7 @@
             <label-para skeleton="no">
               <label auto.number="no" denominator="yes">b</label>
               <para>
-                <text>to enable the net asset holdings of departments and Offices of Parliament to exceed the amounts confirmed in the <citation jurisdiction="nz"><extref href="DLM2102700">Appropriation (2008/09 Supplementary Estimates) Act 2009</extref></citation>.</text>
+                <text>to enable the net asset holdings of departments and Offices of Parliament to exceed the amounts confirmed in the <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965619" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179403 - Appropriation (2008/09 Supplementary Estimates) Act 2009" atidlm:xmlId="DLM2179419" atidlm:state="UNCHANGED"><atidlm:linkcontent>Appropriation (2008/09 Supplementary Estimates) Act 2009</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002059" atidlm:sourceXmlId="DLM2179419" atidlm:targetKey="16401404" atidlm:targetXmlId="DLM2102700" atidlm:targetName="Appropriation (2008/09 Supplementary Estimates) Act 2009" atidlm:sourceName="DLM2179419" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2102700.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168410" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
               </para>
             </label-para>
           </para>
@@ -128,7 +126,7 @@
             </def-para>
             <def-para id="DLM2168414">
               <para>
-                <text><def-term id="DLM2168415">expenses</def-term> has the meaning given to it by <citation jurisdiction="nz"><extref href="DLM160819">section 2(1)</extref></citation> of the Public Finance Act 1989, but also includes expenses and capital expenditure incurred by an intelligence and security department.</text>
+                <text><def-term id="DLM2168415">expenses</def-term> has the meaning given to it by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965620" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179404 - prov 2" atidlm:xmlId="DLM2179420" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 2(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002060" atidlm:sourceXmlId="DLM2179420" atidlm:targetKey="877038" atidlm:targetXmlId="DLM160819" atidlm:targetName="prov 2" atidlm:sourceName="DLM2179420" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM160808.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168414" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Public Finance Act 1989, but also includes expenses and capital expenditure incurred by an intelligence and security department.</text>
               </para>
             </def-para>
           </para>
@@ -136,30 +134,46 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">2</label>
           <para>
-            <text>In this Act, unless the context otherwise requires, <emphasis style="bold">asset</emphasis>, <emphasis style="bold">capital expenditure</emphasis>, <emphasis style="bold">department</emphasis>, <emphasis style="bold">financial year</emphasis>, <emphasis style="bold">intelligence and security department</emphasis>, <emphasis style="bold">Minister</emphasis>, <emphasis style="bold">Office of Parliament</emphasis>, <emphasis style="bold">operating surplus</emphasis>, <emphasis style="bold">remeasurements</emphasis>, <emphasis style="bold">Responsible Minister</emphasis>, and <emphasis style="bold">Vote</emphasis> have the meanings given to them by <citation jurisdiction="nz"><extref href="DLM160819">section 2(1)</extref></citation> of the Public Finance Act 1989.</text>
+            <text>In this Act, unless the context otherwise requires, <emphasis style="bold">asset</emphasis>, <emphasis style="bold">capital expenditure</emphasis>, <emphasis style="bold">department</emphasis>, <emphasis style="bold">financial year</emphasis>, <emphasis style="bold">intelligence and security department</emphasis>, <emphasis style="bold">Minister</emphasis>, <emphasis style="bold">Office of Parliament</emphasis>, <emphasis style="bold">operating surplus</emphasis>, <emphasis style="bold">remeasurements</emphasis>, <emphasis style="bold">Responsible Minister</emphasis>, and <emphasis style="bold">Vote</emphasis> have the meanings given to them by <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965621" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179405 - prov 2" atidlm:xmlId="DLM2179421" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 2(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002061" atidlm:sourceXmlId="DLM2179421" atidlm:targetKey="877038" atidlm:targetXmlId="DLM160819" atidlm:targetName="prov 2" atidlm:sourceName="DLM2179421" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM160808.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168411" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Public Finance Act 1989.</text>
           </para>
         </subprov>
       </prov.body>
     </prov>
-    <prov deletion-status="repealed" id="DLM2168416" irdnumbering="no" skeleton="no" toc="yes">
+    <prov id="DLM2168416" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="yes">6</label>
       <heading>Authority to incur expenses</heading>
-      <prov.body/>
-      <notes>
-        <history>
-          <history-note id="DLM3055704"><amended-provision>Section 6</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>2 September 2009</amendment-date>, by <amending-provision href="DLM2168409">section 3(1)</amending-provision>.</history-note>
-        </history>
-      </notes>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text>Expenses may, during the 2009/10 year, be incurred in advance of appropriation in relation to any Vote.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text>Expenses incurred under <citation jurisdiction="nz">subsection (1)</citation> during the 2009/10 year must not exceed in the aggregate the sum of $11,300 million.</text>
+          </para>
+        </subprov>
+      </prov.body>
     </prov>
-    <prov deletion-status="repealed" id="DLM2168417" irdnumbering="no" skeleton="no" toc="yes">
+    <prov id="DLM2168417" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="yes">7</label>
       <heading>Authority to incur capital expenditure</heading>
-      <prov.body/>
-      <notes>
-        <history>
-          <history-note id="DLM3055705"><amended-provision>Section 7</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>2 September 2009</amendment-date>, by <amending-provision href="DLM2168409">section 3(1)</amending-provision>.</history-note>
-        </history>
-      </notes>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text>Capital expenditure may, during the 2009/10 year, be incurred in advance of appropriation in relation to any Vote.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text>Capital expenditure incurred under <citation jurisdiction="nz">subsection (1)</citation> during the 2009/10 year must not exceed in the aggregate the sum of $1,800 million.</text>
+          </para>
+        </subprov>
+      </prov.body>
     </prov>
     <prov id="DLM2168418" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="yes">8</label>
@@ -174,7 +188,7 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">2</label>
           <para>
-            <text>Until the coming into force of that Appropriation Act, those expenses and that capital expenditure may be incurred during the 2009/10 year as if they had been incurred in accordance with one of the separate appropriations specified in <citation jurisdiction="nz"><extref href="DLM161267">section 7(1)</extref></citation> of the Public Finance Act 1989.</text>
+            <text>Until the coming into force of that Appropriation Act, those expenses and that capital expenditure may be incurred during the 2009/10 year as if they had been incurred in accordance with one of the separate appropriations specified in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965622" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179406 - prov 7" atidlm:xmlId="DLM2179422" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 7(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002062" atidlm:sourceXmlId="DLM2179422" atidlm:targetKey="879692" atidlm:targetXmlId="DLM161267" atidlm:targetName="prov 7" atidlm:sourceName="DLM2179422" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM161253.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168418" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Public Finance Act 1989.</text>
           </para>
         </subprov>
       </prov.body>
@@ -186,219 +200,89 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">1</label>
           <para>
-            <text>The authority given by this Act to incur expenses or capital expenditure in advance of appropriation is an authority under an Act for the purposes of <citation jurisdiction="nz"><extref href="DLM161256">sections 4(1)</extref> and <extref href="DLM161649">26C(1)</extref></citation> of the Public Finance Act 1989.</text>
+            <text>The authority given by this Act to incur expenses or capital expenditure in advance of appropriation is an authority under an Act for the purposes of <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965623" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179407 - prov 4" atidlm:xmlId="DLM2179423" atidlm:state="UNCHANGED"><atidlm:linkcontent>sections 4(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002063" atidlm:sourceXmlId="DLM2179423" atidlm:targetKey="879682" atidlm:targetXmlId="DLM161256" atidlm:targetName="prov 4" atidlm:sourceName="DLM2179423" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM161253.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168419" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link> and <atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965624" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179408 - prov 26" atidlm:xmlId="DLM2179424" atidlm:state="UNCHANGED"><atidlm:linkcontent>26C(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002064" atidlm:sourceXmlId="DLM2179424" atidlm:targetKey="879636" atidlm:targetXmlId="DLM161649" atidlm:targetName="prov 26" atidlm:sourceName="DLM2179424" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM161253.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168419" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Public Finance Act 1989.</text>
           </para>
         </subprov>
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">2</label>
           <para>
-            <text>However, <citation jurisdiction="nz">subsection (1)</citation> does not apply to expenses or capital expenditure for which no appropriation is made in accordance with <citation jurisdiction="nz"><intref href="DLM2168418">section 8(1)</intref></citation>.</text>
+            <text>However, <citation jurisdiction="nz">subsection (1)</citation> does not apply to expenses or capital expenditure for which no appropriation is made in accordance with <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965625" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179409 - prov 8" atidlm:xmlId="DLM2179425" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 8(1)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="intref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002065" atidlm:sourceXmlId="DLM2179425" atidlm:targetKey="16630213" atidlm:targetXmlId="DLM2168418" atidlm:targetName="prov 8" atidlm:sourceName="DLM2179425" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168419" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation>.</text>
           </para>
         </subprov>
       </prov.body>
     </prov>
-    <prov deletion-status="repealed" id="DLM2168420" irdnumbering="no" skeleton="no" toc="yes">
+    <prov id="DLM2168420" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="yes">10</label>
       <heading>Authority to exceed net assets confirmed in Appropriation Act</heading>
-      <prov.body/>
-      <notes>
-        <history>
-          <history-note id="DLM3055706"><amended-provision>Section 10</amended-provision>: <amending-operation>repealed</amending-operation>, on <amendment-date>2 September 2009</amendment-date>, by <amending-provision href="DLM2168409">section 3(1)</amending-provision>.</history-note>
-        </history>
-      </notes>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text>In this section,—</text>
+            <def-para id="DLM2168421">
+              <para>
+                <text><def-term id="DLM2168422">excess amount</def-term> means the amount by which the net asset holding of a department or Office of Parliament, during the 2009/10 year, exceeds the projected balance for that department or Office of Parliament</text>
+              </para>
+            </def-para>
+            <def-para id="DLM2168423">
+              <para>
+                <text><def-term id="DLM2168424">projected balance</def-term> means the projected balance of net assets at 30 June 2009 set out in column 9 of <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965626" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179410 - schedule  5 Net assets confirmed in accordance with sections 23 and 26E(1)(b) of Public Finance Act 1989 for year 2008/09" atidlm:xmlId="DLM2179426" atidlm:state="UNCHANGED"><atidlm:linkcontent>Schedule 5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002066" atidlm:sourceXmlId="DLM2179426" atidlm:targetKey="16402601" atidlm:targetXmlId="DLM2102747" atidlm:targetName="schedule  5 Net assets confirmed in accordance with sections 23 and 26E(1)(b) of Public Finance Act 1989 for year 2008/09" atidlm:sourceName="DLM2179426" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2102747.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168423" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Appropriation (2008/09 Supplementary Estimates) Act 2009.</text>
+              </para>
+            </def-para>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text>The amount of net asset holding in a department (other than an intelligence and security department) or an Office of Parliament during the 2009/10 year may exceed the projected balance for that department or Office of Parliament.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">3</label>
+          <para>
+            <text>However, the aggregate of the excess amounts for all departments and Offices of Parliament together with the total net asset holding of any department that is not listed in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965627" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179415 - schedule  5 Net assets confirmed in accordance with sections 23 and 26E(1)(b) of Public Finance Act 1989 for year 2008/09" atidlm:xmlId="DLM2179427" atidlm:state="UNCHANGED"><atidlm:linkcontent>Schedule 5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002067" atidlm:sourceXmlId="DLM2179427" atidlm:targetKey="16402601" atidlm:targetXmlId="DLM2102747" atidlm:targetName="schedule  5 Net assets confirmed in accordance with sections 23 and 26E(1)(b) of Public Finance Act 1989 for year 2008/09" atidlm:sourceName="DLM2179427" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2102747.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168420" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Appropriation (2008/09 Supplementary Estimates) Act 2009 must not exceed $1,200 million.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">4</label>
+          <para>
+            <text>For the purposes of <citation jurisdiction="nz">subsections (1) and (2)</citation>, the amount of net asset holding in a department or an Office of Parliament does not include—</text>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes">a</label>
+              <para>
+                <text>any operating surplus retained as agreed between the Minister and the Responsible Minister for a department or an Office of Parliament in accordance with section 22(1) of the Public Finance Act 1989 that is not reflected in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965628" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179412 - schedule  5 Net assets confirmed in accordance with sections 23 and 26E(1)(b) of Public Finance Act 1989 for year 2008/09" atidlm:xmlId="DLM2179428" atidlm:state="UNCHANGED"><atidlm:linkcontent>Schedule 5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002068" atidlm:sourceXmlId="DLM2179428" atidlm:targetKey="16402601" atidlm:targetXmlId="DLM2102747" atidlm:targetName="schedule  5 Net assets confirmed in accordance with sections 23 and 26E(1)(b) of Public Finance Act 1989 for year 2008/09" atidlm:sourceName="DLM2179428" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2102747.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168420" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Appropriation (2008/09 Supplementary Estimates) Act 2009; or</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes">b</label>
+              <para>
+                <text>any remeasurement of a department’s or an Office of Parliament’s reported net asset holding as set out in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965629" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179414 - prov 22" atidlm:xmlId="DLM2179429" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 22(2)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002069" atidlm:sourceXmlId="DLM2179429" atidlm:targetKey="879625" atidlm:targetXmlId="DLM161638" atidlm:targetName="prov 22" atidlm:sourceName="DLM2179429" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM161253.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168420" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Public Finance Act 1989 that is not reflected in <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965630" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179411 - schedule  5 Net assets confirmed in accordance with sections 23 and 26E(1)(b) of Public Finance Act 1989 for year 2008/09" atidlm:xmlId="DLM2179430" atidlm:state="UNCHANGED"><atidlm:linkcontent>Schedule 5</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002070" atidlm:sourceXmlId="DLM2179430" atidlm:targetKey="16402601" atidlm:targetXmlId="DLM2102747" atidlm:targetName="schedule  5 Net assets confirmed in accordance with sections 23 and 26E(1)(b) of Public Finance Act 1989 for year 2008/09" atidlm:sourceName="DLM2179430" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2102747.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168420" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Appropriation (2008/09 Supplementary Estimates) Act 2009.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">5</label>
+          <para>
+            <text><citation jurisdiction="nz">Subsections (2) and (3)</citation> apply despite <citation jurisdiction="nz"><atidlm:link xmlns:atidlm="http://www.arbortext.com/namespace/atidlm" atidlm:key="1965631" atidlm:branchLabel="_NOVERSION_" atidlm:name="DLM2179413 - prov 22" atidlm:xmlId="DLM2179431" atidlm:state="UNCHANGED"><atidlm:linkcontent>section 22(3)</atidlm:linkcontent><atidlm:resourcepair atidlm:markupType="extref" atidlm:isIncludeOrRef="1" atidlm:seqNum="1002071" atidlm:sourceXmlId="DLM2179431" atidlm:targetKey="879625" atidlm:targetXmlId="DLM161638" atidlm:targetName="prov 22" atidlm:sourceName="DLM2179431" atidlm:targetLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM161253.xml" atidlm:sourceLocator="file:///C:/epicuser/doctypes/NZAct/fragxyxz_DLM2168400.xml" atidlm:state="UNCHANGED"><atidlm:metadata atidlm:name="Parent_id" atidlm:value="DLM2168420" atidlm:locale="xx_XX" atidlm:state="UNCHANGED"/></atidlm:resourcepair></atidlm:link></citation> of the Public Finance Act 1989.</text>
+          </para>
+        </subprov>
+      </prov.body>
     </prov>
   </body>
   <end id="DLM2175400">
-    <end.reprint-note id="DLM3055707">
-      <reprint.index>
-        <heading>Contents</heading>
-        <para>
-          <list>
-            <item>
-              <label auto.number="no" denominator="no">1</label>
-              <para>
-                <text>General</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">2</label>
-              <para>
-                <text>Status of reprints</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">3</label>
-              <para>
-                <text>How reprints are prepared</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">4</label>
-              <para>
-                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
-              </para>
-            </item>
-            <item>
-              <label auto.number="no" denominator="no">5</label>
-              <para>
-                <text>List of amendments incorporated in this reprint (most recent first)</text>
-              </para>
-            </item>
-          </list>
-        </para>
-      </reprint.index>
-      <reprint.notes>
-        <heading>Notes</heading>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">1</label>
-          <heading>General</heading>
-          <para>
-            <text>This is a reprint of the Imprest Supply (First for 2009/10) Act 2009. The reprint incorporates all the amendments to the Act as at 2 September 2009, as specified in the list of amendments at the end of these notes.</text>
-          </para>
-          <para>
-            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">2</label>
-          <heading>Status of reprints</heading>
-          <para>
-            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
-          </para>
-          <para>
-            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">3</label>
-          <heading>How reprints are prepared</heading>
-          <para>
-            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">4</label>
-          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
-          <para>
-            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
-          </para>
-          <para>
-            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
-          </para>
-          <para>
-            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>layout of provisions, including:</text>
-                  <list>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>indentation</text>
-                      </para>
-                    </item>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
-                      </para>
-                    </item>
-                  </list>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>punctuation (eg, colons are not used after definitions)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>case and appearance of letters and words, including:</text>
-                  <list>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
-                      </para>
-                    </item>
-                    <item>
-                      <label auto.number="no" denominator="no">•</label>
-                      <para>
-                        <text>small capital letters in section and subsection references are now capital letters</text>
-                      </para>
-                    </item>
-                  </list>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>running heads (the information that appears at the top of each page)</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="no">•</label>
-                <para>
-                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
-                </para>
-              </item>
-            </list>
-          </para>
-        </reprint.note>
-        <reprint.note>
-          <label auto.number="no" denominator="yes">5</label>
-          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
-          <reprint.amend>
-            <citation jurisdiction="nz">Imprest Supply (First for 2009/10) Act 2009 (2009 No 16): <intref href="DLM2168409">section 3(1)</intref></citation>
-          </reprint.amend>
-        </reprint.note>
-      </reprint.notes>
-    </end.reprint-note>
+    <leg-history id="DLM2175401">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-06-23</date>
+        <description>Introduction (Bill 50–1), first reading, second reading, third reading</description>
+      </history-item>
+      <history-item>
+        <date>2009-06-24</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by <ministry>the Treasury</ministry>.</admin-office>
   </end>
 </act>
+<!--End of file, do NOT remove.-->
