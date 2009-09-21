@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act date.instructed="2009-04-27" id="DLM2044900" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="32" act.type="public" date.as.at="2009-09-22" date.assent="2009-09-22" date.first.valid="2009-09-23" stage="in-force" year="2009">
+<act date.instructed="2009-04-27" id="DLM2044900" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="32" act.type="public" date.as.at="2010-06-15" date.assent="2009-09-22" date.first.valid="2009-09-23" stage="reprint" year="2009" prospective.consolidation="F">
   <cover id="DLM2044909">
+    <reprint-date>2010-06-15</reprint-date>
     <title>Local Government (Auckland Council) Act 2009</title>
     <assent>2009-09-22</assent>
     <commencement>see section 2</commencement>
+    <cover.reprint-note>
+      <para xml:lang="en-NZ">
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Department of Internal Affairs</ministry>.</admin-office>
+    </cover.reprint-note>
   </cover>
   <contents>
     <heading>Contents</heading>
     <toc/>
   </contents>
-  <front id="DLM2044910">
-    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
-  </front>
   <body id="DLM2044911" prov-type="clause">
     <prov id="DLM2044912" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="yes">1</label>
@@ -32,7 +39,7 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">1</label>
           <para>
-            <text><citation jurisdiction="nz"><intref href="DLM2044933">Part 2</intref></citation> comes into force on the close of 1 November 2010.</text>
+            <text><citation jurisdiction="nz"><intref href="DLM2044933">Part 2</intref></citation> comes into force on <struckoutwords/>1 November 2010.</text>
           </para>
         </subprov>
         <subprov skeleton="no">
@@ -42,39 +49,73 @@
           </para>
         </subprov>
       </prov.body>
+      <notes>
+        <history>
+          <history-note id="DLM3045248"><amended-provision>Section 2(1)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016022">section 5</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+        </history>
+      </notes>
     </prov>
-    <part date.instructed="2009-04-27" id="DLM2044914" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2009-09-23" act.no="32" act.type="public" date.as.at="2009-09-22" date.assent="2009-09-22" stage="in-force" year="2009">
+    <part date.instructed="2009-04-27" id="DLM2044914" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2009-09-23" act.no="32" act.type="public" date.as.at="2010-06-15" date.assent="2009-09-22" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Preliminary provisions</heading>
       <prov id="DLM2044915" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">3</label>
-        <heading>Purpose of Act</heading>
+        <heading>Purpose</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes"/>
+            <label auto.number="no" denominator="yes"/>
             <para>
               <text>The purpose of this Act is—</text>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
-                  <text>to make further provision for the Auckland Council established under <citation jurisdiction="nz"><extref href="DLM2044540">section 9</extref> of the Local Government (Tamaki Makaurau Reorganisation) Act 2009</citation>, including setting out the matters in relation to its structure and functions, duties, and powers that differ from the general provisions applying to local authorities under the <citation jurisdiction="nz"><extref href="DLM170872">Local Government Act 2002</extref></citation>; and</text>
+                  <text>to establish the Auckland Council as a unitary authority for Auckland; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">b</label>
                 <para>
-                  <text>to provide the Local Government Commission with the necessary functions and powers to determine certain matters in relation to the Council; and</text>
+                  <text>to set out the matters in relation to the Council's structure and functions, duties, and powers that differ from the general provisions applying to local authorities under the <citation jurisdiction="nz"><leg-title href="DLM170872">Local Government Act 2002</leg-title></citation> and certain other enactments; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">c</label>
                 <para>
-                  <text>to amend certain enactments.</text>
+                  <text>to provide the Local Government Commission with the necessary functions and powers to determine certain matters in relation to the Council; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">d</label>
+                <para>
+                  <text>to establish arrangements for the management of transport and water supply and wastewater services for Auckland; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">e</label>
+                <para>
+                  <text>to require the Auckland Council to adopt a spatial plan for Auckland; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">f</label>
+                <para>
+                  <text>to establish arrangements to promote issues of significance for mana whenua groups and mataawaka for Tamaki Makaurau; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">g</label>
+                <para>
+                  <text>to set out requirements relating to substantive council-controlled organisations.</text>
                 </para>
               </label-para>
             </para>
           </subprov>
         </prov.body>
+        <notes>
+          <history>
+            <history-note id="DLM3045249"><amended-provision>Section 3</amended-provision>: <amending-operation>substituted</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016023">section 6</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+          </history>
+        </notes>
       </prov>
       <prov id="DLM2044916" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">4</label>
@@ -92,6 +133,40 @@
               <def-para id="DLM2044919">
                 <para>
                   <text><def-term id="DLM2044920">Auckland Council</def-term> or <def-term id="DLM2044921">Council</def-term> means the unitary authority established under <citation jurisdiction="nz"><intref href="DLM2044934">section 6</intref></citation></text>
+                </para>
+              </def-para>
+              <def-para id="DLM3045204">
+                <para>
+                  <text><def-term id="DLM3045205">Auckland Transport</def-term> means the entity established by <citation jurisdiction="nz"><intref href="DLM2044961">section 38</intref></citation></text>
+                </para>
+              </def-para>
+              <def-para id="DLM3045207">
+                <para>
+                  <text><def-term id="DLM3045208">Auckland water organisation</def-term>,—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>until 1 July 2015, means Watercare Services Limited; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>on and after 1 July 2015, means—</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para>
+                          <text>the Auckland Council (except in <citation jurisdiction="nz">section 61</citation>); and</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para>
+                          <text>a council-controlled organisation of the Auckland Council that provides water supply or wastewater services, or both, in Auckland</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
                 </para>
               </def-para>
               <def-para id="DLM2322304">
@@ -137,6 +212,11 @@
                   <text><def-term id="DLM2044925">local board area</def-term> means an area specified by Order in Council under <citation jurisdiction="nz"><intref href="DLM2044956">section 35</intref></citation> as a local board area</text>
                 </para>
               </def-para>
+              <def-para id="DLM3045209">
+                <para>
+                  <text><def-term id="DLM3045210">local board plan</def-term> means the plan referred to in <citation jurisdiction="nz"><intref href="DLM2322328">section 20</intref></citation> that each local board is required to adopt</text>
+                </para>
+              </def-para>
               <def-para id="DLM2044926">
                 <para>
                   <text><def-term id="DLM2044927">Local Government Commission</def-term> means the Local Government Commission continued under <citation jurisdiction="nz"><extref href="DLM171839">section 28</extref> of the Local Government Act 2002</citation></text>
@@ -147,9 +227,131 @@
                   <text><def-term id="DLM2322311">LTCCP</def-term> means the Auckland Council long-term council community plan</text>
                 </para>
               </def-para>
+              <def-para id="DLM3045212">
+                <para>
+                  <text><def-term id="DLM3045213">mana whenua group</def-term> means an iwi or hapu that—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>exercises historical and continuing mana whenua in an area wholly or partly located in Auckland; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>is 1 or more of the following in Auckland:</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para>
+                          <text>a mandated iwi organisation under the <citation jurisdiction="nz"><leg-title href="DLM311463">Maori Fisheries Act 2004</leg-title></citation>:</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para>
+                          <text>a body that has been the subject of a settlement of Treaty of Waitangi claims:</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">iii</label>
+                        <para>
+                          <text>a body that has been confirmed by the Crown as holding a mandate for the purposes of negotiating Treaty of Waitangi claims and that is currently negotiating with the Crown over the claims</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM3045215">
+                <para>
+                  <text><def-term id="DLM3045216">mataawaka</def-term> means Māori who—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>live in Auckland; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>are not in a mana whenua group</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
               <def-para id="DLM2322312">
                 <para>
-                  <text><def-term id="DLM2322313">mayor</def-term> means the mayor of Auckland.</text>
+                  <text><def-term id="DLM2322313">mayor</def-term> means the mayor of Auckland</text>
+                </para>
+              </def-para>
+              <def-para id="DLM3045217">
+                <para>
+                  <text><def-term id="DLM3045218">selection body</def-term> means the body established by <citation jurisdiction="nz">clause 2 of Schedule 2</citation></text>
+                </para>
+              </def-para>
+              <def-para id="DLM3045219">
+                <para>
+                  <text><def-term id="DLM3045220">substantive council-controlled organisation</def-term>—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>means a council-controlled organisation that is either wholly owned or wholly controlled by the Council and either—</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para>
+                          <text>is responsible for the delivery of a significant service or activity on behalf of the Council; or</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para>
+                          <text>owns or manages assets with a value of more than $10 million; and</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>includes Auckland Transport</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM3045221">
+                <para>
+                  <text><def-term id="DLM3045222">water supply and wastewater services</def-term>—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>includes both bulk and retail supply and services; but</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>does not include—</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para>
+                          <text>water supply or wastewater schemes that are independent of a water supply network or waste-water network, as the case may be, within Auckland; or</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para>
+                          <text>privately owned water supply or wastewater schemes; or</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">iii</label>
+                        <para>
+                          <text>stormwater drainage services, except to the extent that any stormwater drainage infrastructure is also used for wastewater services under normal dry weather flow conditions—</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                  <text>and <def-term id="DLM3045223">water supply or wastewater services</def-term>, <def-term id="DLM3045224">water supply services</def-term>, and <def-term id="DLM3045225">wastewater services</def-term> have corresponding meanings.</text>
                 </para>
               </def-para>
             </para>
@@ -161,21 +363,39 @@
             </para>
           </subprov>
         </prov.body>
+        <notes>
+          <history>
+            <history-note id="DLM3045250"><amended-provision>Section 4(1)</amended-provision><emphasis style="bold">Auckland Transport</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016025">section 7</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+            <history-note id="DLM3045251"><amended-provision>Section 4(1)</amended-provision><emphasis style="bold">Auckland water organisation</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016025">section 7</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+            <history-note id="DLM3045252"><amended-provision>Section 4(1)</amended-provision><emphasis style="bold">local board plan</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016025">section 7</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+            <history-note id="DLM3045253"><amended-provision>Section 4(1)</amended-provision><emphasis style="bold">mana whenua group</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016025">section 7</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+            <history-note id="DLM3045254"><amended-provision>Section 4(1)</amended-provision><emphasis style="bold">mataawaka</emphasis>: <amending-operation>inserted</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016025">section 7</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+            <history-note id="DLM3045255"><amended-provision>Section 4(1)</amended-provision><emphasis style="bold">selection body</emphasis>: <amending-operation>added</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016025">section 7</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+            <history-note id="DLM3045256"><amended-provision>Section 4(1)</amended-provision><emphasis style="bold">substantive council-controlled organisation</emphasis>: <amending-operation>added</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016025">section 7</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+            <history-note id="DLM3045257"><amended-provision>Section 4(1)</amended-provision><emphasis style="bold">water supply and wastewater services</emphasis>: <amending-operation>added</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016025">section 7</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+          </history>
+        </notes>
       </prov>
       <prov id="DLM2044932" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">5</label>
-        <heading>Relationship between this Act and Local Government Act 2002 and Local Electoral Act 2001</heading>
+        <heading>Relationship between this Act and Local Government Act 2002<insertwords>, Local Government Act 1974, Local Electoral Act 2001, and Land Transport Management Act 2003</insertwords></heading>
         <prov.body>
           <subprov skeleton="no">
             <label auto.number="no" denominator="no"/>
             <para>
-              <text>If there is any inconsistency between this Act and the <citation jurisdiction="nz"><extref href="DLM170872">Local Government Act 2002</extref></citation>, the <citation jurisdiction="nz"><extref href="DLM93300">Local Electoral Act 2001</extref></citation>, or any regulations made under those Acts, this Act prevails.</text>
+              <text>If there is any inconsistency between this Act and the <citation jurisdiction="nz"><extref href="DLM170872">Local Government Act 2002</extref></citation>, <insertwords>the <citation jurisdiction="nz"><leg-title href="DLM415531">Local Government Act 1974</leg-title></citation>, the <citation jurisdiction="nz"><leg-title href="DLM93300">Local Electoral Act 2001</leg-title></citation>, the <citation jurisdiction="nz"><leg-title href="DLM226229">Land Transport Management Act 2003</leg-title></citation>,</insertwords> or any regulations made under those Acts, this Act prevails.</text>
             </para>
           </subprov>
         </prov.body>
+        <notes>
+          <history>
+            <history-note id="DLM3045258"><amended-provision>Section 5 heading</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016042">section 8(1)</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+            <history-note id="DLM3045259"><amended-provision>Section 5</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016042">section 8(2)</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+          </history>
+        </notes>
       </prov>
     </part>
-    <part date.instructed="2009-04-27" id="DLM2044933" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2009-09-23" act.no="32" act.type="public" date.as.at="2009-09-22" date.assent="2009-09-22" stage="in-force" year="2009">
+    <part date.instructed="2009-04-27" id="DLM2044933" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2009-09-23" act.no="32" act.type="public" date.as.at="2010-06-15" date.assent="2009-09-22" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Auckland Council</heading>
       <crosshead id="DLM2322314" toc="yes">Auckland Council established as unitary authority</crosshead>
@@ -229,7 +449,7 @@
         <notes>
           <amends-note>
             <amends-effective>
-              <date>2010-11-02</date>
+              <date>2010-11-01</date>
             </amends-effective>
             <amends-affect>
               <citation jurisdiction="nz">
@@ -1583,10 +1803,10 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2009-04-27" id="DLM2044946" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2009-09-23" act.no="32" act.type="public" date.as.at="2009-09-22" date.assent="2009-09-22" stage="in-force" year="2009">
+    <part date.instructed="2009-04-27" id="DLM2044946" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2009-09-23" act.no="32" act.type="public" date.as.at="2010-06-15" date.assent="2009-09-22" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Transitional arrangements</heading>
-      <subpart date.instructed="2009-04-27" id="DLM2044947" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="32" act.type="public" date.as.at="2009-09-22" date.assent="2009-09-22" date.first.valid="2009-09-23" stage="in-force" year="2009">
+      <subpart date.instructed="2009-04-27" id="DLM2044947" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="32" act.type="public" date.as.at="2010-06-15" date.assent="2009-09-22" date.first.valid="2009-09-23" stage="reprint" year="2009" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Local Government Commission</heading>
         <prov id="DLM2044948" irdnumbering="no" skeleton="no" toc="yes">
@@ -1630,7 +1850,7 @@
                 <label-para skeleton="no">
                   <label auto.number="no" denominator="yes">c</label>
                   <para>
-                    <text>without limiting paragraphs (a) and (b), act in accordance with <citation jurisdiction="nz">the <intref href="DLM2286710">Schedule</intref></citation>.</text>
+                    <text>without limiting paragraphs (a) and (b), act in accordance with <citation jurisdiction="nz"><insertwords><intref href="DLM2286710">Schedule 1</intref></insertwords></citation>.</text>
                   </para>
                 </label-para>
               </para>
@@ -1686,7 +1906,7 @@
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes">7</label>
               <para>
-                <text>In this section, <citation jurisdiction="nz"><intref href="DLM2322326">section 19</intref>, and the <intref href="DLM2286710">Schedule</intref></citation>,—</text>
+                <text>In this section <citation jurisdiction="nz"><insertwords>and <intref href="DLM2286710">Schedule 1</intref></insertwords></citation>,—</text>
                 <def-para id="DLM2309100">
                   <para>
                     <text><def-term id="DLM2309101">Auckland region</def-term> means the area described as the Auckland region in the Local Government (Auckland Region) Reorganisation Order 1989 (<emphasis style="italic">Gazette</emphasis> 1989, p 2247)</text>
@@ -1715,6 +1935,12 @@
               </para>
             </subprov>
           </prov.body>
+          <notes>
+            <history>
+              <history-note id="DLM3045260"><amended-provision>Section 33(2)(c)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016072">section 29(1)</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+              <history-note id="DLM3045261"><amended-provision>Section 33(7)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016072">section 29(2)</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+            </history>
+          </notes>
         </prov>
         <prov id="DLM2044955" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">34</label>
@@ -2034,8 +2260,53 @@
             </subprov>
           </prov.body>
         </prov>
+        <prov id="DLM3045241" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">35A</label>
+          <heading>Local Government (Auckland Wards and Local Boards) Determination 2010 amended</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>In this section,—</text>
+                <def-para id="DLM3045242">
+                  <para>
+                    <text><def-term id="DLM3045243">determination</def-term> means the determination made by the Local Government Commission under <citation jurisdiction="nz"><intref href="DLM2044955">section 34</intref></citation></text>
+                  </para>
+                </def-para>
+                <def-para id="DLM3045244">
+                  <para>
+                    <text><def-term id="DLM3045245">order</def-term> means the Order in Council that made the Local Government (Auckland Wards and Local Boards) Determination 2010 (<emphasis style="italic">Gazette</emphasis>, 2010 p 856) and that gives effect to the determination.</text>
+                  </para>
+                </def-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>Clauses 4(k), 5(k), 6(r), and 7(18) of the order are amended by omitting <amend.in quote="1">Te Irirangi</amend.in> and substituting in each case <amend.in quote="1">Howick</amend.in>.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>The amendments made to the order by subsection (2) have effect as if they had been included in the determination.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">4</label>
+              <para>
+                <text>To avoid doubt, this section applies subject to <citation jurisdiction="nz">sections 13A and 103(3)</citation>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+          <notes>
+            <history>
+              <history-note id="DLM3045262"><amended-provision>Section 35A</amended-provision>: <amending-operation>added</amending-operation>, on <amendment-date>15 June 2010</amendment-date>, by <amending-provision href="DLM3016010">section 30</amending-provision> of the <amending-leg>Local Government (Auckland Council) Amendment Act 2010</amending-leg> (2010 No 36).</history-note>
+            </history>
+          </notes>
+        </prov>
       </subpart>
-      <subpart date.instructed="2009-04-27" id="DLM2044957" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="32" act.type="public" date.as.at="2009-09-22" date.assent="2009-09-22" date.first.valid="2009-09-23" stage="in-force" year="2009">
+      <subpart date.instructed="2009-04-27" id="DLM2044957" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="32" act.type="public" date.as.at="2010-06-15" date.assent="2009-09-22" date.first.valid="2009-09-23" stage="reprint" year="2009" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">2</label>
         <heading>Consequential amendments</heading>
         <prov id="DLM2044958" irdnumbering="no" skeleton="no" toc="yes">
@@ -2078,7 +2349,7 @@
         </prov>
       </subpart>
     </part>
-    <part date.instructed="2009-04-27" id="DLM2044959" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2009-09-23" act.no="32" act.type="public" date.as.at="2009-09-22" date.assent="2009-09-22" stage="in-force" year="2009">
+    <part date.instructed="2009-04-27" id="DLM2044959" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2009-09-23" act.no="32" act.type="public" date.as.at="2010-06-15" date.assent="2009-09-22" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">4</label>
       <heading>Amendments to Local Government (Tamaki Makaurau Reorganisation) Act 2009</heading>
       <prov id="DLM2044960" irdnumbering="no" skeleton="no" toc="yes">
@@ -2473,7 +2744,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule date.instructed="2009-04-27" id="DLM2286710" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="32" act.type="public" date.as.at="2009-09-22" date.assent="2009-09-22" date.first.valid="2009-09-23" stage="in-force" year="2009">
+    <schedule date.instructed="2009-04-27" id="DLM2286710" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="32" act.type="public" date.as.at="2010-06-15" date.assent="2009-09-22" date.first.valid="2009-09-23" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes"> </label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -2664,29 +2935,196 @@
     </schedule>
   </schedule.group>
   <end id="DLM2322358">
-    <leg-history id="DLM2322359">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2009-05-13</date>
-        <description>Introduction (Bill 36–1)</description>
-      </history-item>
-      <history-item>
-        <date>2009-05-13</date>
-        <description>First reading and referral to Auckland Governance Legislation Committee</description>
-      </history-item>
-      <history-item>
-        <date>2009-09-04</date>
-        <description>Reported from Auckland Governance Legislation Committee (Bill 36–2)</description>
-      </history-item>
-      <history-item>
-        <date>2009-09-15</date>
-        <description>Second reading, committee of the whole House, third reading</description>
-      </history-item>
-      <history-item>
-        <date>2009-09-22</date>
-        <description>Royal assent</description>
-      </history-item>
-    </leg-history>
-    <admin-office>This Act is administered by the <ministry>Department of Internal Affairs</ministry>.</admin-office>
+    <end.reprint-note id="DLM3045263">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the Local Government (Auckland Council) Act 2009. The reprint incorporates all the amendments to the Act as at 15 June 2010, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM3016016">Local Government (Auckland Council) Amendment Act 2010</extref> (2010 No 36)</citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
   </end>
 </act>
