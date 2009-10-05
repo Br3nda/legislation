@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act date.instructed="2008-01-30" id="DLM1400100" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="34" act.type="public" date.as.at="2009-10-06" date.assent="2009-10-06" date.first.valid="2009-10-06" stage="in-force" year="2009">
+<act date.instructed="2008-01-30" id="DLM1400100" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="34" act.type="public" date.as.at="2009-12-08" date.assent="2009-10-06" date.first.valid="2009-10-06" stage="reprint" year="2009" prospective.consolidation="F">
   <cover id="DLM1400107">
+    <reprint-date>2009-12-08</reprint-date>
     <title>Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009</title>
     <assent>2009-10-06</assent>
     <commencement>see section 2</commencement>
+    <cover.reprint-note>
+      <para xml:lang="en-NZ">
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Inland Revenue Department</ministry>.</admin-office>
+    </cover.reprint-note>
   </cover>
   <contents>
     <heading>Contents</heading>
     <toc/>
   </contents>
-  <front id="DLM1400108">
-    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
-  </front>
   <body id="DLM1400109" prov-type="clause">
     <prov id="DLM1400110" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="yes">1</label>
@@ -235,7 +242,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part date.instructed="2008-01-30" id="DLM1400112" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-10-06" date.assent="2009-10-06" stage="in-force" year="2009">
+    <part date.instructed="2008-01-30" id="DLM1400112" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-12-08" date.assent="2009-10-06" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Amendments to Income Tax Act 2007</heading>
       <prov id="DLM1400113" irdnumbering="no" skeleton="no" toc="yes">
@@ -3755,7 +3762,7 @@
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">i</label>
                     <para>
-                      <text>on and after 1 July 2010, unless paragraph (b) applies:</text>
+                      <text>on and after 1 July 2010, unless <insertwords>subparagraph (ii)</insertwords> applies:</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no">
@@ -3769,6 +3776,11 @@
             </para>
           </subprov>
         </prov.body>
+        <notes>
+          <history>
+            <history-note id="DLM2650805"><amended-provision>Section 63(2)(b)(i)</amended-provision>: <amending-operation>amended</amending-operation> (with effect on 7 October 2009), on <amendment-date>8 December 2009</amendment-date>, by <amending-provision href="DLM2517769">section 166</amending-provision> of the <amending-leg>Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009</amending-leg> (2009 No 63).</history-note>
+          </history>
+        </notes>
       </prov>
       <prov id="DLM2178441" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">64</label>
@@ -46196,7 +46208,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2008-01-30" id="DLM1401562" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-10-06" date.assent="2009-10-06" stage="in-force" year="2009">
+    <part date.instructed="2008-01-30" id="DLM1401562" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-12-08" date.assent="2009-10-06" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Amendments to Tax Administration Act 1994</heading>
       <prov id="DLM1401563" irdnumbering="no" skeleton="no" toc="yes">
@@ -51595,7 +51607,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2008-01-30" id="DLM1401696" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-10-06" date.assent="2009-10-06" stage="in-force" year="2009">
+    <part date.instructed="2008-01-30" id="DLM1401696" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-12-08" date.assent="2009-10-06" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Amendments to Goods and Services Tax Act 1985</heading>
       <prov id="DLM1401697" irdnumbering="no" skeleton="no" toc="yes">
@@ -52038,7 +52050,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2008-01-30" id="DLM1401719" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-10-06" date.assent="2009-10-06" stage="in-force" year="2009">
+    <part date.instructed="2008-01-30" id="DLM1401719" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-12-08" date.assent="2009-10-06" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">4</label>
       <heading>Amendments to KiwiSaver Act 2006</heading>
       <prov id="DLM1401720" irdnumbering="no" skeleton="no" toc="yes">
@@ -52647,7 +52659,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2008-01-30" id="DLM1401738" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-10-06" date.assent="2009-10-06" stage="in-force" year="2009">
+    <part date.instructed="2008-01-30" id="DLM1401738" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-12-08" date.assent="2009-10-06" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">5</label>
       <heading>Amendments to Income Tax Act 2004</heading>
       <prov id="DLM1401739" irdnumbering="no" skeleton="no" toc="yes">
@@ -53701,32 +53713,15 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov id="DLM1401757" irdnumbering="no" skeleton="no" toc="yes">
+      <prov deletion-status="repealed" id="DLM1401757" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">757</label>
         <heading>Gifts of money by company</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text><citation jurisdiction="nz"><extref href="DLM250845">Section DB 32(3)</extref></citation> is replaced by the following:</text>
-              <amend quote="1">
-                <subprov.crosshead quote="1">Amount of deduction</subprov.crosshead>
-                <subprov skeleton="no">
-                  <label auto.number="yes" denominator="yes" quote="1">3</label>
-                  <para>
-                    <text>The deduction for the total of all gifts made in an income year is limited to the amount that would be the company's net income in the corresponding tax year in the absence of this section.</text>
-                  </para>
-                </subprov>
-              </amend>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>Subsection (1) applies for the 2007–08 and later income years.</text>
-            </para>
-          </subprov>
-        </prov.body>
+        <prov.body/>
+        <notes>
+          <history>
+            <history-note id="DLM2650806"><amended-provision>Section 757</amended-provision>: <amending-operation>repealed</amending-operation> (with effect on 7 October 2009), on <amendment-date>8 December 2009</amendment-date>, by <amending-provision href="DLM2517770">section 167</amending-provision> of the <amending-leg>Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009</amending-leg> (2009 No 63).</history-note>
+          </history>
+        </notes>
       </prov>
       <prov id="DLM2179002" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">758</label>
@@ -57665,7 +57660,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2008-01-30" id="DLM1401879" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-10-06" date.assent="2009-10-06" stage="in-force" year="2009">
+    <part date.instructed="2008-01-30" id="DLM1401879" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2009-10-06" act.no="34" act.type="public" date.as.at="2009-12-08" date.assent="2009-10-06" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">6</label>
       <heading>Amendments to other Acts and regulations</heading>
       <crosshead id="DLM1401880" toc="yes">Income Tax Act 1994</crosshead>
@@ -58757,7 +58752,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule date.instructed="2008-01-30" id="DLM1401907" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="34" act.type="public" date.as.at="2009-10-06" date.assent="2009-10-06" date.first.valid="2009-10-06" stage="in-force" year="2009">
+    <schedule date.instructed="2008-01-30" id="DLM1401907" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="34" act.type="public" date.as.at="2009-12-08" date.assent="2009-10-06" date.first.valid="2009-10-06" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1 </label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -58896,7 +58891,7 @@
         </para>
       </schedule.amendments>
     </schedule>
-    <schedule date.instructed="2008-01-30" id="DLM1401909" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="34" act.type="public" date.as.at="2009-10-06" date.assent="2009-10-06" date.first.valid="2009-10-06" stage="in-force" year="2009">
+    <schedule date.instructed="2008-01-30" id="DLM1401909" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="34" act.type="public" date.as.at="2009-12-08" date.assent="2009-10-06" date.first.valid="2009-10-06" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2 </label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -59009,38 +59004,196 @@
     </schedule>
   </schedule.group>
   <end id="DLM2179077">
-    <leg-history id="DLM2179078">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2008-07-02</date>
-        <description>Introduction (Bill 233–1)</description>
-      </history-item>
-      <history-item>
-        <date>2008-08-06</date>
-        <description>First reading and referral to Finance and Expenditure Committee</description>
-      </history-item>
-      <history-item>
-        <date>2009-06-30</date>
-        <description>Reported from Finance and Expenditure Committee (Bill 233–2)</description>
-      </history-item>
-      <history-item>
-        <date>2009-08-04</date>
-        <description>Second reading</description>
-      </history-item>
-      <history-item>
-        <date>2009-08-26</date>
-        <date.text>26, 27 August 2009</date.text>
-        <description>Committee of the whole House</description>
-      </history-item>
-      <history-item>
-        <date>2009-09-15</date>
-        <description>Reported from committee of the whole House, third reading</description>
-      </history-item>
-      <history-item>
-        <date>2009-10-06</date>
-        <description>Royal assent</description>
-      </history-item>
-    </leg-history>
-    <admin-office>This Act is administered by the <ministry>Inland Revenue Department</ministry>.</admin-office>
+    <end.reprint-note id="DLM2650807">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009. The reprint incorporates all the amendments to the Act as at 7 December 2009, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref> of the Acts and Regulations Publication Act 1989</citation>, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref> and <extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation>, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz">Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63): <extref href="DLM2517769">sections 166</extref>, <extref href="DLM2517770">167</extref></citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
   </end>
 </act>
