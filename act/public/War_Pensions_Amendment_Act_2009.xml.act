@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act date.instructed="2008-05-28" id="DLM2475312" in.amend="false" instructing.office="Social Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="41" act.type="public" date.as.at="2009-10-27" date.assent="2009-10-27" date.first.valid="2099-09-09" stage="not-in-force" year="2009">
+<act date.instructed="2008-05-28" id="DLM2475312" in.amend="false" instructing.office="Social Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="41" act.type="public" date.as.at="2010-01-05" date.assent="2009-10-27" date.first.valid="2010-01-05" stage="reprint" year="2009">
   <cover id="DLM2475313">
+    <reprint-date>2010-01-05</reprint-date>
     <title>War Pensions Amendment Act 2009</title>
     <assent>2009-10-27</assent>
     <commencement>see section 2</commencement>
+    <cover.reprint-note>
+      <para xml:lang="en-NZ">
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Ministry of Social Development</ministry>.</admin-office>
+    </cover.reprint-note>
   </cover>
   <contents>
     <heading>Contents</heading>
@@ -36,6 +46,11 @@
           </para>
         </subprov>
       </prov.body>
+      <notes>
+        <history>
+          <history-note id="DLM2687702"><amended-provision>Section 2</amended-provision>: War Pensions Amendment Act 2009 <amending-operation>brought into force</amending-operation>, on <amendment-date>5 January 2010</amendment-date>, by the <citation jurisdiction="nz"><extref href="DLM2571228">War Pensions Amendment Act 2009 Commencement Order 2009</extref></citation> (SR 2009/357).</history-note>
+        </history>
+      </notes>
     </prov>
     <prov id="DLM2475300" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="yes">3</label>
@@ -69,7 +84,7 @@
         <subprov skeleton="no">
           <label auto.number="yes" denominator="yes"/>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM285568">Section 74E</extref></citation> is amended by omitting <amend.in>74M or section</amend.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM285568">Section 74E</extref></citation> is amended by omitting <amend.in quote="1">74M or section</amend.in>.</text>
           </para>
         </subprov>
       </prov.body>
@@ -81,7 +96,7 @@
         <subprov skeleton="no">
           <label auto.number="yes" denominator="yes"/>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM285570">Section 74F</extref></citation> is amended by inserting <amend.in>(other than a person who is receiving a veteran's pension overseas under section 74J)</amend.in> after <quote.in>a person</quote.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM285570">Section 74F</extref></citation> is amended by inserting <amend.in quote="1">(other than a person who is receiving a veteran's pension overseas under section 74J)</amend.in> after <quote.in quote="1">a person</quote.in>.</text>
           </para>
         </subprov>
       </prov.body>
@@ -94,33 +109,33 @@
           <label auto.number="no" denominator="no"/>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM285582">Section 74J</extref></citation> is repealed and the following sections are substituted:</text>
-            <amend>
-              <prov id="DLM2475304" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">74J</label>
+            <amend quote="1">
+              <prov id="DLM2475304" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">74J</label>
                 <heading>Payment overseas of veteran's pension</heading>
                 <prov.body>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">1</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
                     <para>
                       <text>This subsection—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under section 19 of the Social Welfare (Transitional Provisions) Act 1990, that relates to the veteran's pension; and</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>applies to a person if he or she has left New Zealand at a time when he or she was—</text>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">i</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
                             <para>
                               <text>intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which this subsection applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of section 74N(1)); or</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">ii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
                             <para>
                               <text>intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand.</text>
                             </para>
@@ -129,52 +144,52 @@
                       </label-para>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">2</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
                     <para>
                       <text>A person to whom <citation jurisdiction="nz">subsection (1)</citation> applies is entitled to be paid a veteran's pension at the appropriate rate specified in <citation jurisdiction="nz">subsection (6)</citation>—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>in the case of a person who has left New Zealand at a time when he or she was intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which <citation jurisdiction="nz">subsection (1)</citation> applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of section 74N(1)), until he or she—</text>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">i</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
                             <para>
                               <text>begins to reside in a country that is not a country to which <citation jurisdiction="nz">subsection (1)</citation> applies; or</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">ii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
                             <para>
                               <text>begins to reside in New Zealand again; or</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">iii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">iii</label>
                             <para>
                               <text>begins to receive a veteran's pension otherwise than under this section; and</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">iv</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">iv</label>
                             <para>
                               <text>begins to receive New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001; and</text>
                             </para>
                           </label-para>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>in the case of a person who has left New Zealand at a time when he or she was intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand, until he or she—</text>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">i</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
                             <para>
                               <text>begins to reside in a country that is not a country to which <citation jurisdiction="nz">subsection (1)</citation> applies; or</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">ii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
                             <para>
                               <text>returns to New Zealand.</text>
                             </para>
@@ -183,40 +198,40 @@
                       </label-para>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">3</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">3</label>
                     <para>
                       <text>For the purposes only of <citation jurisdiction="nz">subsection (2)(b)(ii)</citation>, a person does not return to New Zealand if—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>he or she—</text>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">i</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
                             <para>
                               <text>interrupts his or her overseas travel, and travels to and stays briefly in New Zealand, in order to attend an event (for example, a wedding or funeral) or to visit a person (for example, a sick or injured family member); and then</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">ii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
                             <para>
                               <text>resumes his or her overseas travel; and</text>
                             </para>
                           </label-para>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>he or she does not while in New Zealand—</text>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">i</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
                             <para>
                               <text>begin to receive a veteran's pension otherwise than under this section; or</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">ii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
                             <para>
                               <text>begin to receive New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001.</text>
                             </para>
@@ -225,144 +240,144 @@
                       </label-para>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">4</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">4</label>
                     <para>
                       <text>Except to the extent provided by <citation jurisdiction="nz">paragraphs (a)(i) and (b)(i) of subsection (2)</citation>, a person does not cease to be entitled to be paid a veteran's pension under that subsection by reason only of changing his or her intentions after leaving New Zealand.</text>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">5</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">5</label>
                     <para>
                       <text><citation jurisdiction="nz">Subsection (4)</citation> is for the avoidance of doubt.</text>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">6</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">6</label>
                     <para>
                       <text>The rates referred to in <citation jurisdiction="nz">subsection (2)</citation> are,—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>for a single person, a rate that is a proportion (calculated under <citation jurisdiction="nz">section 74JA(1)</citation>) of the amount stated in clause 1(b) of Schedule 11:</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>for a person who is married or in a civil union or in a de facto relationship, a rate that is a proportion (calculated under <citation jurisdiction="nz">section 74JA(1)</citation>) of the amount stated in clause 1(c) of that schedule.</text>
                         </para>
                       </label-para>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">7</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">7</label>
                     <para>
                       <text>If section 74D applies to a person for whom an amount is specified by <citation jurisdiction="nz">subsection (6)</citation>, the calculation under<citation jurisdiction="nz"> section 74JA(1)</citation> of the proportion of it he or she is entitled to be paid must be made in respect of that amount after it has been abated under that section.</text>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">8</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">8</label>
                     <para>
                       <text>This section is subject to <citation jurisdiction="nz">section 74JB</citation>.</text>
                     </para>
                   </subprov>
                 </prov.body>
               </prov>
-              <prov id="DLM2475305" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">74JA</label>
+              <prov id="DLM2475305" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">74JA</label>
                 <heading>Calculation of amount of veteran's pension payable overseas</heading>
                 <prov.body>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">1</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
                     <para>
                       <text>The proportion referred to in <citation jurisdiction="nz"> sections 74J(6) and (7)</citation> is to be calculated by—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>treating each period during which the person concerned has resided in New Zealand while aged 20 or more and less than 65 as whole calendar months and (where applicable) additional days; and</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>adding the number of additional days (if any), dividing the total by 30, and disregarding any remainder; and</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">c</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">c</label>
                         <para>
                           <text>adding the number of calendar months and the quotient calculated under <citation jurisdiction="nz">paragraph (b)</citation>; and</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">d</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">d</label>
                         <para>
                           <text>dividing by 540 the total calculated under <citation jurisdiction="nz">paragraph (c)</citation>.</text>
                         </para>
                       </label-para>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">2</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
                     <para>
                       <text>In the determination for the purposes of <citation jurisdiction="nz">subsection (1)</citation> of the periods during which a person has resided in New Zealand, no account is to be taken of—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>any period of absence from New Zealand of a kind described in section 9(1) of the New Zealand Superannuation and Retirement Income Act 2001; or</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>any period of absence from New Zealand—</text>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">i</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
                             <para>
                               <text>while the person was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body; or</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">ii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
                             <para>
                               <text>while the person's spouse or partner was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or</text>
                             </para>
                           </label-para>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">c</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">c</label>
                         <para>
                           <text>any period of absence from New Zealand while the person was (by virtue of section 79(1)(a) of the Social Security Act 1964) deemed to have been resident in New Zealand; or</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">d</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">d</label>
                         <para>
                           <text>any period of absence from New Zealand while, as the spouse or partner of a person deemed by section 79(1)(a) of the Social Security Act 1964 to have been resident in New Zealand, the person was also (by virtue of section 79(1)(b) of the Social Security Act 1964) deemed to have been resident in New Zealand.</text>
                         </para>
                       </label-para>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">3</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">3</label>
                     <para>
                       <text><citation jurisdiction="nz">Subsection (2)</citation> applies to a period of absence only if the Secretary is satisfied that during it the person concerned remained ordinarily resident in New Zealand.</text>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">4</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">4</label>
                     <para>
                       <text><citation jurisdiction="nz">Subsection (2)(b)</citation> applies to a period of absence only if the Secretary is satisfied that the person concerned either was born in New Zealand or—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>in the case of a person to whom <citation jurisdiction="nz">subsection (2)(b)(i)</citation> applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>in the case of a person to whom <citation jurisdiction="nz">subsection (2)(b)(ii)</citation> applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.</text>
                         </para>
@@ -371,44 +386,44 @@
                   </subprov>
                 </prov.body>
               </prov>
-              <prov id="DLM2475306" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">74JB</label>
+              <prov id="DLM2475306" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">74JB</label>
                 <heading>Entitlement</heading>
                 <prov.body>
                   <subprov skeleton="no">
                     <label auto.number="no" denominator="no"/>
                     <para>
                       <text>A person is not entitled to be paid a veteran's pension under section 74J unless he or she—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>has made an application for the payment of a veteran's pension under that section stating either (as the case may be)—</text>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">i</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
                             <para>
                               <text>the country or countries in which he or she intends to reside and the period for which he or she intends to reside there; or</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">ii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
                             <para>
                               <text>the country or countries to and in which he or she intends to travel; and</text>
                             </para>
                           </label-para>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>is ordinarily resident and present in New Zealand on the day he or she makes the application, and—</text>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">i</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
                             <para>
                               <text>is entitled to receive a veteran's pension on that day; or</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">ii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
                             <para>
                               <text>will become entitled to receive a veteran's pension before he or she leaves New Zealand.</text>
                             </para>
@@ -437,19 +452,19 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">2</label>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM285591">Section 74M(3)</extref></citation> is amended by inserting <amend.in>living alone payment,</amend.in> after <quote.in>receive any</quote.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM285591">Section 74M(3)</extref></citation> is amended by inserting <amend.in quote="1">living alone payment,</amend.in> after <quote.in quote="1">receive any</quote.in>.</text>
           </para>
         </subprov>
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">3</label>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM285591">Section 74M(4)</extref></citation> is amended by omitting <amend.in>80</amend.in> and substituting <amend.in>80BD</amend.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM285591">Section 74M(4)</extref></citation> is amended by omitting <amend.in quote="1">80</amend.in> and substituting <amend.in quote="1">80BD</amend.in>.</text>
           </para>
         </subprov>
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">4</label>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM285591">Section 74M(5)</extref></citation> is amended by omitting <quote.in>75</quote.in> and substituting <quote.in>69G to 69I, 70, 74(1)(a), 75, 76, 77, and 82(7)</quote.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM285591">Section 74M(5)</extref></citation> is amended by omitting <quote.in quote="1">75</quote.in> and substituting <quote.in quote="1">69G to 69I, 70, 74(1)(a), 75, 76, 77, and 82(7)</quote.in>.</text>
           </para>
         </subprov>
       </prov.body>
@@ -462,9 +477,9 @@
           <label auto.number="yes" denominator="yes"/>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM363550">Section 70</extref> of the Social Security Act 1964</citation> is consequentially amended by inserting the following subsection after <citation jurisdiction="nz">subsection (1A)</citation> (as inserted by <citation jurisdiction="nz">section 9 of the New Zealand Superannuation and Retirement Income Amendment Act 2009</citation>):</text>
-            <amend>
+            <amend quote="1">
               <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes">1B</label>
+                <label auto.number="yes" denominator="yes" quote="1">1B</label>
                 <para>
                   <text>Subsection (1) does not apply to a veteran's pension payable overseas under <citation jurisdiction="nz"><extref href="DLM285582">section 74J</extref> of the War Pensions Act 1954</citation>.</text>
                 </para>
@@ -531,17 +546,196 @@
     </prov>
   </body>
   <end id="DLM2475316">
-    <leg-history id="DLM2475317">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2009-10-20</date>
-        <description>Divided from Social Assistance (Payment of New Zealand Superannuation and Veteran's Pension Overseas) Amendment Bill (Bill 301–2) by committee of the whole House, third reading</description>
-      </history-item>
-      <history-item>
-        <date>2009-10-27</date>
-        <description>Royal assent</description>
-      </history-item>
-    </leg-history>
-    <admin-office>This Act is administered by the <ministry>Ministry of Social Development</ministry>.</admin-office>
+    <end.reprint-note id="DLM2687703">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the War Pensions Amendment Act 2009. The reprint incorporates all the amendments to the Act as at 5 January 2010, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref> of the Acts and Regulations Publication Act 1989</citation>, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref> and <extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation>, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM2571228">War Pensions Amendment Act 2009 Commencement Order 2009</extref> (SR 2009/357)</citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
   </end>
 </act>
