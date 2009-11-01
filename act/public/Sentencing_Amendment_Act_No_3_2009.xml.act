@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2008-11-21" id="DLM2491600" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="49" act.type="public" date.as.at="2009-11-02" date.assent="2009-11-02" date.first.valid="2009-12-01" stage="not-in-force" year="2009">
+  <cover id="DLM2491601">
+    <title>Sentencing Amendment Act (No 3) 2009</title>
+    <assent>2009-11-02</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM2491602">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM2491603" prov-type="clause">
+    <prov id="DLM2491300" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act is the Sentencing Amendment Act (No 3) 2009.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2491301" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act comes into force on 1 December 2009.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2491604" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Sentencing Act 2002 amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act amends the <citation jurisdiction="nz"><extref href="DLM135341">Sentencing Act 2002</extref></citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <amends-note>
+          <amends-effective>
+            <date>2009-12-01</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <extref href="DLM135341">Sentencing Act 2002</extref>
+            </citation>
+          </amends-affect>
+        </amends-note>
+      </notes>
+    </prov>
+    <prov id="DLM2491605" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading>Aggravating and mitigating factors</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM135545">Section 9(1)</extref></citation> is amended by inserting the following paragraph after paragraph (ha):</text>
+            <amend increment="1" quote="1">
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">hb</label>
+                <para>
+                  <text>the nature and extent of any connection between the offending and the offender's—</text>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">i</label>
+                    <para>
+                      <text>participation in an organised criminal group (within the meaning of section 98A of the Crimes Act 1961); or</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">ii</label>
+                    <para>
+                      <text>involvement in any other form of organised criminal association:</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+            </amend>
+            <follow-text space-before="no">.</follow-text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+  </body>
+  <end id="DLM2491606">
+    <leg-history id="DLM2491607">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-10-27</date>
+        <description>Divided from Gangs and Organised Crime Bill (Bill 10–2) by committee of the whole House, third reading</description>
+      </history-item>
+      <history-item>
+        <date>2009-11-02</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the <ministry>Ministry of Justice and the Department of Corrections</ministry>.</admin-office>
+  </end>
+</act>
