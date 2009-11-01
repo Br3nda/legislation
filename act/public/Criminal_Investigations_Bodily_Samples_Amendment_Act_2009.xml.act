@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act date.instructed="2008-11-24" id="DLM1829200" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="46" act.type="public" date.as.at="2010-07-07" date.assent="2009-11-02" date.first.valid="2010-09-06" stage="reprint" year="2009" prospective.consolidation="F">
+<act date.instructed="2008-11-24" id="DLM1829200" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="46" act.type="public" date.as.at="2010-09-06" date.assent="2009-11-02" date.first.valid="2010-09-06" stage="reprint" year="2009" prospective.consolidation="F">
   <cover id="DLM1829219">
-    <reprint-date>2010-07-07</reprint-date>
+    <reprint-date>2010-09-06</reprint-date>
     <title>Criminal Investigations (Bodily Samples) Amendment Act 2009</title>
     <assent>2009-11-02</assent>
     <commencement>see section 2</commencement>
@@ -45,10 +45,15 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">2</label>
           <para>
-            <text><citation jurisdiction="nz"><intref href="DLM1829289">Part 2</intref></citation> comes into force on a date to be appointed by the Governor-General by Order in Council, which date must not be earlier than the date appointed under <citation jurisdiction="nz">subsection (1)</citation>.</text>
+            <text><citation jurisdiction="nz"><intref href="DLM1829289">Part 2</intref></citation> comes into force on a date to be appointed by the Governor-General by Order in Council, which date must not be earlier than the date appointed under subsection (1).</text>
           </para>
         </subprov>
       </prov.body>
+      <notes>
+        <history>
+          <history-note id="DLM3218002"><amended-provision>Section 2(1)</amended-provision>: Criminal Investigations (Bodily Samples) Amendment Act 2009, except for Part 2, <amending-operation>brought into force</amending-operation>, on <amendment-date>6 September 2010</amendment-date>, by the <amending-provision href="DLM3115201">Criminal Investigations (Bodily Samples) Amendment Act 2009 Commencement Order 2010</amending-provision> (SR 2010/220).</history-note>
+        </history>
+      </notes>
     </prov>
     <prov id="DLM1829224" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="yes">3</label>
@@ -87,7 +92,7 @@
         </amends-note>
       </notes>
     </prov>
-    <part date.instructed="2008-11-24" id="DLM1829225" in.amend="false" instructing.office="Justice" irdnumbering="no" toc="yes" date.first.valid="2010-09-06" act.no="46" act.type="public" date.as.at="2010-07-07" date.assent="2009-11-02" stage="reprint" year="2009" prospective.consolidation="F">
+    <part date.instructed="2008-11-24" id="DLM1829225" in.amend="false" instructing.office="Justice" irdnumbering="no" toc="yes" date.first.valid="2010-09-06" act.no="46" act.type="public" date.as.at="2010-09-06" date.assent="2009-11-02" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <heading>New authority to take and retain bodily samples, and other amendments to principal Act</heading>
       <crosshead id="DLM1829226" toc="yes">Preliminary provisions</crosshead>
@@ -203,19 +208,19 @@
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
-                                <text>if a parent or other person having the care of the suspect is present under section 50(1)(b), that parent or person; or</text>
+                                <text>if a parent or other person having the care of the suspect is present under <citation jurisdiction="nz">section 50(1)(b)</citation>, that parent or person; or</text>
                               </para>
                             </label-para>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">ii</label>
                               <para>
-                                <text>if a person referred to in <citation jurisdiction="nz">subparagraph (i)</citation> is not present but the suspect, or, if section 50(3) applies, the suspect's parent or other person having care of the suspect, has chosen to have a lawyer or other person present under section 50(1)(a), that lawyer or other person; or</text>
+                                <text>if a person referred to in subparagraph (i) is not present but the suspect, or, if <citation jurisdiction="nz">section 50(3)</citation> applies, the suspect's parent or other person having care of the suspect, has chosen to have a lawyer or other person present under section 50(1)(a), that lawyer or other person; or</text>
                               </para>
                             </label-para>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">iii</label>
                               <para>
-                                <text>if none of the persons referred to in <citation jurisdiction="nz">subparagraphs (i) and (ii)</citation> is present, any person of or over the age of 17 years, who must not be a Police employee within the meaning of section 4 of the Policing Act 2008,—</text>
+                                <text>if none of the persons referred to in subparagraphs (i) and (ii) is present, any person of or over the age of 17 years, who must not be a Police employee within the meaning of <citation jurisdiction="nz">section 4 of the Policing Act 2008</citation>,—</text>
                                 <label-para quote="1" skeleton="no">
                                   <label auto.number="no" denominator="yes" quote="1">A</label>
                                   <para>
@@ -245,13 +250,13 @@
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">ii</label>
                               <para>
-                                <text>if a person referred to in <citation jurisdiction="nz">subparagraph (i)</citation> is not present but the young person, or, if <citation jurisdiction="nz">section 50A(4)</citation> applies, the young person's parent or other person having care of the young person has chosen to have a lawyer or other person present under <citation jurisdiction="nz">section 50A(2)(a)</citation>, that lawyer or other person; or</text>
+                                <text>if a person referred to in subparagraph (i) is not present but the young person, or, if <citation jurisdiction="nz">section 50A(4)</citation> applies, the young person's parent or other person having care of the young person has chosen to have a lawyer or other person present under section 50A(2)(a), that lawyer or other person; or</text>
                               </para>
                             </label-para>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">iii</label>
                               <para>
-                                <text>if none of the persons referred to in <citation jurisdiction="nz">subparagraphs (i) and (ii)</citation> is present, any person of or over the age of 17 years, who must not be a Police employee within the meaning of section 4 of the Policing Act 2008,—</text>
+                                <text>if none of the persons referred to in subparagraphs (i) and (ii) is present, any person of or over the age of 17 years, who must not be a Police employee within the meaning of section 4 of the Policing Act 2008,—</text>
                                 <label-para quote="1" skeleton="no">
                                   <label auto.number="no" denominator="yes" quote="1">A</label>
                                   <para>
@@ -348,7 +353,7 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">3</label>
                         <para>
-                          <text>If <citation jurisdiction="nz">subsection (1)(b)</citation> applies, a constable may detain the person at any place—</text>
+                          <text>If subsection (1)(b) applies, a constable may detain the person at any place—</text>
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">a</label>
                             <para>
@@ -624,7 +629,7 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">1</label>
                         <para>
-                          <text>Subject to <citation jurisdiction="nz">subsections (2) to (5)</citation>, no person may have access to any information stored on a Part 2B temporary databank, and no person may disclose any of that information, except for 1 or more of the following purposes:</text>
+                          <text>Subject to subsections (2) to (5), no person may have access to any information stored on a Part 2B temporary databank, and no person may disclose any of that information, except for 1 or more of the following purposes:</text>
                           <label-para quote="1" skeleton="no">
                             <label auto.number="no" denominator="yes" quote="1">a</label>
                             <para>
@@ -648,7 +653,7 @@
                       <subprov quote="1" skeleton="no">
                         <label auto.number="no" denominator="yes" quote="1">2</label>
                         <para>
-                          <text>For the purposes of <citation jurisdiction="nz">subsection (1)(a)</citation>, DNA information is unidentified if no Police investigation has established the particular person to whom the DNA information relates.</text>
+                          <text>For the purposes of subsection (1)(a), DNA information is unidentified if no Police investigation has established the particular person to whom the DNA information relates.</text>
                         </para>
                       </subprov>
                       <subprov quote="1" skeleton="no">
@@ -799,13 +804,13 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>A DNA profile stored on a DNA profile databank must be removed from the databank and destroyed before the expiry of all fixed periods (<def-term id="DLM2301428">retention periods</def-term>) specified in <citation jurisdiction="nz">subsection (4)</citation> that apply to the storage of the profile.</text>
+                        <text>A DNA profile stored on a DNA profile databank must be removed from the databank and destroyed before the expiry of all fixed periods (<def-term id="DLM2301428">retention periods</def-term>) specified in subsection (4) that apply to the storage of the profile.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>In the case of a person's DNA profile stored under section 26(a) or <citation jurisdiction="nz">(ab)</citation>, the storage of the profile is subject to <citation jurisdiction="nz">subsection (4)</citation> if—</text>
+                        <text>In the case of a person's DNA profile stored under section 26(a) or <citation jurisdiction="nz">(ab)</citation>, the storage of the profile is subject to subsection (4) if—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -825,7 +830,7 @@
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">ii</label>
                               <para>
-                                <text>a Youth Court made an order under section 283(o) of the Children, Young Persons, and Their Families Act 1989 but no court imposed a sentence of imprisonment for the offence; or</text>
+                                <text>a Youth Court made an order under <citation jurisdiction="nz">section 283(o) of the Children, Young Persons, and Their Families Act 1989</citation> but no court imposed a sentence of imprisonment for the offence; or</text>
                               </para>
                             </label-para>
                             <label-para quote="1" skeleton="no">
@@ -841,7 +846,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>In the case of a profile stored under section 26<citation jurisdiction="nz">(ac)</citation>, the storage of the profile is subject to <citation jurisdiction="nz">subsection (4)</citation> if— </text>
+                        <text>In the case of a profile stored under <citation jurisdiction="nz">section 26(ac)</citation>, the storage of the profile is subject to subsection (4) if—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -943,7 +948,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>if the profile is stored in relation to an offence and a retention period initially applies to the offence and, during that period, a subsequent order or conviction is made or entered against the person that is not specifically provided for in the third column of the table in <citation jurisdiction="nz">subsection (4)</citation>:</text>
+                            <text>if the profile is stored in relation to an offence and a retention period initially applies to the offence and, during that period, a subsequent order or conviction is made or entered against the person that is not specifically provided for in the third column of the table in subsection (4):</text>
                           </para>
                           <example>
                             <heading quote="1">Examples</heading>
@@ -1055,7 +1060,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>If a bodily sample is being taken under <citation jurisdiction="nz">Part 2B</citation>, it may, subject to <citation jurisdiction="nz">subsections (2) to (5)</citation>, be taken by either of the following methods:</text>
+                        <text>If a bodily sample is being taken under <citation jurisdiction="nz">Part 2B</citation>, it may, subject to subsections (2) to (5), be taken by either of the following methods:</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1073,13 +1078,13 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>The person from whom the sample is to be taken must be given an opportunity to elect which of the 2 methods referred to in <citation jurisdiction="nz">subsection (1)</citation> is to be used to take the sample.</text>
+                        <text>The person from whom the sample is to be taken must be given an opportunity to elect which of the 2 methods referred to in subsection (1) is to be used to take the sample.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>A constable may indicate to a person making an election under <citation jurisdiction="nz">subsection (2)</citation> that the Police prefer a particular method for taking the sample.</text>
+                        <text>A constable may indicate to a person making an election under subsection (2) that the Police prefer a particular method for taking the sample.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -1089,13 +1094,13 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>by the method in <citation jurisdiction="nz">subsection (1)</citation> that the person has chosen; or</text>
+                            <text>by the method in subsection (1) that the person has chosen; or</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>if the person has been given a reasonable opportunity to elect which of the methods in <citation jurisdiction="nz">subsection (1)</citation> is to be used to take the sample and has indicated that he or she has no preference as to the method by which the sample is taken, by the method referred to in <citation jurisdiction="nz">subsection (1)</citation> chosen by a constable.</text>
+                            <text>if the person has been given a reasonable opportunity to elect which of the methods in subsection (1) is to be used to take the sample and has indicated that he or she has no preference as to the method by which the sample is taken, by the method referred to in subsection (1) chosen by a constable.</text>
                           </para>
                         </label-para>
                       </para>
@@ -1103,7 +1108,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">5</label>
                       <para>
-                        <text>Despite <citation jurisdiction="nz">subsection (4)</citation>, if reasonable force is required to take the sample, the sample must be taken by fingerprick sample.</text>
+                        <text>Despite subsection (4), if reasonable force is required to take the sample, the sample must be taken by fingerprick sample.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1201,7 +1206,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>ascertain whether the young person wishes to exercise the right conferred on that person by <citation jurisdiction="nz">subsection (2)</citation>; and</text>
+                            <text>ascertain whether the young person wishes to exercise the right conferred on that person by subsection (2); and</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -1215,7 +1220,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">4</label>
                       <para>
-                        <text>A person referred to in <citation jurisdiction="nz">subsection (2)(a)</citation> may, unless the young person objects, be chosen on the young person's behalf by a parent or other person who has the care of that young person, and in that case <citation jurisdiction="nz">subsection (3)</citation> applies with all necessary modifications.</text>
+                        <text>A person referred to in subsection (2)(a) may, unless the young person objects, be chosen on the young person's behalf by a parent or other person who has the care of that young person, and in that case subsection (3) applies with all necessary modifications.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -1243,7 +1248,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">d</label>
                           <para>
-                            <text>a person, who is not a Police employee within the meaning of section 4 of the Policing Act 2008, chosen by the constable if the young person fails or refuses to make a choice under <citation jurisdiction="nz">subsection (2)</citation>.</text>
+                            <text>a person, who is not a Police employee within the meaning of section 4 of the Policing Act 2008, chosen by the constable if the young person fails or refuses to make a choice under subsection (2).</text>
                           </para>
                         </label-para>
                       </para>
@@ -1281,7 +1286,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>If the constable issues a notice under <citation jurisdiction="nz">subsection (2)</citation>, the constable must take all reasonable steps to ensure that each person chosen as described in <citation jurisdiction="nz">subsection (1)(a)</citation> is notified—</text>
+                        <text>If the constable issues a notice under subsection (2), the constable must take all reasonable steps to ensure that each person chosen as described in subsection (1)(a) is notified—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1299,13 +1304,13 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">4</label>
                       <para>
-                        <text><citation jurisdiction="nz">Subsection (5)</citation> applies if a constable believes, on reasonable grounds, that any person chosen as described in <citation jurisdiction="nz">subsection (1)(a)</citation> cannot with reasonable diligence be located or will not be available within a period of time that is reasonable in the circumstances.</text>
+                        <text>Subsection (5) applies if a constable believes, on reasonable grounds, that any person chosen as described in subsection (1)(a) cannot with reasonable diligence be located or will not be available within a period of time that is reasonable in the circumstances.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">5</label>
                       <para>
-                        <text>The constable may refuse to allow the young person to have the person described in <citation jurisdiction="nz">subsection (1)(a)</citation> present and—</text>
+                        <text>The constable may refuse to allow the young person to have the person described in subsection (1)(a) present and—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1327,7 +1332,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>if the young person or parent or other person fails or refuses to make a choice or an election under <citation jurisdiction="nz">paragraph (a)</citation>, may choose a person who is not a Police employee within the meaning of section 4 of the Policing Act 2008 to be present.</text>
+                            <text>if the young person or parent or other person fails or refuses to make a choice or an election under paragraph (a), may choose a person who is not a Police employee within the meaning of section 4 of the Policing Act 2008 to be present.</text>
                           </para>
                         </label-para>
                       </para>
@@ -1335,7 +1340,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">6</label>
                       <para>
-                        <text>If a person chosen under <citation jurisdiction="nz">subsection (5)</citation> is not present when the choice is made, the constable—</text>
+                        <text>If a person chosen under subsection (5) is not present when the choice is made, the constable—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1345,7 +1350,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>if the constable issues a notice under <citation jurisdiction="nz">paragraph (a)</citation>, must take all reasonable steps to ensure that the person chosen is notified,—</text>
+                            <text>if the constable issues a notice under paragraph (a), must take all reasonable steps to ensure that the person chosen is notified,—</text>
                             <label-para quote="1" skeleton="no">
                               <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
@@ -1365,7 +1370,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">7</label>
                       <para>
-                        <text>However, if a constable believes, on reasonable grounds, that any person chosen as described in <citation jurisdiction="nz">subsection (5)(a)(i)</citation> cannot with reasonable diligence be located or will not be available within a period of time that is reasonable in the circumstances, the constable may choose a person who is not a Police employee within the meaning of section 4 of the Policing Act 2008 to be present.</text>
+                        <text>However, if a constable believes, on reasonable grounds, that any person chosen as described in subsection (5)(a)(i) cannot with reasonable diligence be located or will not be available within a period of time that is reasonable in the circumstances, the constable may choose a person who is not a Police employee within the meaning of section 4 of the Policing Act 2008 to be present.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1377,7 +1382,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>A Judge of the appropriate court may, on application by a person described in <citation jurisdiction="nz">subsection (2)</citation>, issue a warrant to arrest and detain a young person until a bodily sample is taken if the Judge is satisfied that—</text>
+                        <text>A Judge of the appropriate court may, on application by a person described in subsection (2), issue a warrant to arrest and detain a young person until a bodily sample is taken if the Judge is satisfied that—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1395,7 +1400,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>A person referred to in <citation jurisdiction="nz">subsection (1)</citation> is—</text>
+                        <text>A person referred to in subsection (1) is—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1419,7 +1424,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">4</label>
                       <para>
-                        <text>In <citation jurisdiction="nz">subsection (1)</citation>, <def-term id="DLM2301432">appropriate court</def-term> means—</text>
+                        <text>In subsection (1), <def-term id="DLM2301432">appropriate court</def-term> means—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1671,13 +1676,13 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>The Commissioner must ensure that the bodily sample referred to in <citation jurisdiction="nz">subsection (1)(a)</citation> is destroyed as soon as practicable after a DNA profile is obtained from the sample.</text>
+                        <text>The Commissioner must ensure that the bodily sample referred to in subsection (1)(a) is destroyed as soon as practicable after a DNA profile is obtained from the sample.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>The Commissioner must ensure that any record referred to in <citation jurisdiction="nz">subsection (1)(b) and (c)</citation> is destroyed,—</text>
+                        <text>The Commissioner must ensure that any record referred to in subsection (1)(b) and (c) is destroyed,—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -1771,7 +1776,7 @@
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">b</label>
                       <para>
-                        <text>either of the circumstances mentioned in <citation jurisdiction="nz">subsection (3A)</citation> exists.</text>
+                        <text>either of the circumstances mentioned in subsection (3A) exists.</text>
                       </para>
                     </label-para>
                   </para>
@@ -1779,11 +1784,11 @@
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">3A</label>
                   <para>
-                    <text>The circumstances referred to in <citation jurisdiction="nz">subsection (3)</citation> are—</text>
+                    <text>The circumstances referred to in subsection (3) are—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
-                        <text>that there is still good cause to suspect that the person committed an offence referred to in <citation jurisdiction="nz">subsection (3)(a)</citation> and—</text>
+                        <text>that there is still good cause to suspect that the person committed an offence referred to in subsection (3)(a) and—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">i</label>
                           <para>
@@ -1805,7 +1810,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">i</label>
                           <para>
-                            <text>there is not, or no longer, good cause to suspect that the person committed an offence referred to in <citation jurisdiction="nz">subsection (3)(a)</citation>; but</text>
+                            <text>there is not, or no longer, good cause to suspect that the person committed an offence referred to in subsection (3)(a); but</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -1933,7 +1938,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>An application for consent under <citation jurisdiction="nz">subsection (1)</citation>—</text>
+                        <text>An application for consent under subsection (1)—</text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -2048,7 +2053,7 @@
                 <subprov skeleton="no">
                   <label auto.number="yes" denominator="yes" quote="1">2</label>
                   <para>
-                    <text>The information required by <citation jurisdiction="nz">subsection (1)(eb) to (eg)</citation> must be provided together with a breakdown of those totals according to the ethnicity of the persons from whom the samples were taken, and the number of young persons from whom the samples were taken, so far as that information is known by the Police.</text>
+                    <text>The information required by subsection (1)(eb) to (eg) must be provided together with a breakdown of those totals according to the ethnicity of the persons from whom the samples were taken, and the number of young persons from whom the samples were taken, so far as that information is known by the Police.</text>
                   </para>
                 </subprov>
               </amend>
@@ -2161,7 +2166,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2008-11-24" id="DLM1829289" in.amend="false" instructing.office="Justice" irdnumbering="no" toc="yes" date.first.valid="2010-09-06" act.no="46" act.type="public" date.as.at="2010-07-07" date.assent="2009-11-02" stage="reprint" year="2009" prospective.consolidation="F">
+    <part date.instructed="2008-11-24" id="DLM1829289" in.amend="false" instructing.office="Justice" irdnumbering="no" toc="yes" date.first.valid="2010-09-06" act.no="46" act.type="public" date.as.at="2010-09-06" date.assent="2009-11-02" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Extension of authority to take and retain bodily samples</heading>
       <crosshead id="DLM1829290" toc="yes">Preliminary provision</crosshead>
@@ -2397,7 +2402,7 @@
           <subprov skeleton="no">
             <label auto.number="yes" denominator="yes"/>
             <para>
-              <text>The heading to <citation jurisdiction="nz">Part 2B</citation> is amended by omitting <amend.in quote="1"><emphasis style="bold">relevant offence</emphasis></amend.in> and substituting <amend.in quote="1"><emphasis style="bold">imprisonable offence or offence listed in <citation jurisdiction="nz">Part 3</citation> of Schedule</emphasis></amend.in>.</text>
+              <text>The heading to <citation jurisdiction="nz">Part 2B</citation> is amended by omitting <amend.in quote="1"><emphasis style="bold">relevant offence</emphasis></amend.in> and substituting <amend.in quote="1"><emphasis style="bold">imprisonable offence or offence listed in Part 3 of Schedule</emphasis></amend.in>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -2409,7 +2414,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>The heading to <citation jurisdiction="nz">section 24J</citation> (as inserted by <citation jurisdiction="nz"><intref href="DLM1829246">section 7</intref></citation> of this Act) is amended by omitting <amend.in quote="1"><emphasis style="bold">relevant offence</emphasis></amend.in> and substituting <amend.in quote="1"><emphasis style="bold">imprisonable offence or offence listed in <citation jurisdiction="nz">Part 3</citation> of Schedule</emphasis></amend.in>.</text>
+              <text>The heading to <citation jurisdiction="nz">section 24J</citation> (as inserted by <citation jurisdiction="nz"><intref href="DLM1829246">section 7</intref></citation> of this Act) is amended by omitting <amend.in quote="1"><emphasis style="bold">relevant offence</emphasis></amend.in> and substituting <amend.in quote="1"><emphasis style="bold">imprisonable offence or offence listed in Part 3 of Schedule</emphasis></amend.in>.</text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -2549,7 +2554,7 @@
                 <subprov quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">2</label>
                   <para>
-                    <text><citation jurisdiction="nz">Subsection (2A)</citation> applies if—</text>
+                    <text>Subsection (2A) applies if—</text>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
@@ -2602,8 +2607,8 @@
     </part>
   </body>
   <schedule.group>
-    <schedule date.instructed="2008-11-24" id="DLM1829313" in.amend="false" instructing.office="Justice" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="46" act.type="public" date.as.at="2010-07-07" date.assent="2009-11-02" date.first.valid="2010-09-06" stage="reprint" year="2009" prospective.consolidation="F">
-      <label auto.number="no" denominator="yes"> </label>
+    <schedule date.instructed="2008-11-24" id="DLM1829313" in.amend="false" instructing.office="Justice" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="46" act.type="public" date.as.at="2010-09-06" date.assent="2009-11-02" date.first.valid="2010-09-06" stage="reprint" year="2009" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes"/>
       <empowering-prov>
         <citation jurisdiction="nz">
           <intref href="DLM369262">s 30</intref>
@@ -2937,7 +2942,7 @@
           <label auto.number="no" denominator="yes">1</label>
           <heading>General</heading>
           <para>
-            <text>This is a reprint of the Criminal Investigations (Bodily Samples) Amendment Act 2009. The reprint incorporates all the amendments to the Act as at 7 July 2010, as specified in the list of amendments at the end of these notes.</text>
+            <text>This is a reprint of the Criminal Investigations (Bodily Samples) Amendment Act 2009. The reprint incorporates all the amendments to the Act as at 6 September 2010, as specified in the list of amendments at the end of these notes.</text>
           </para>
           <para>
             <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
@@ -3078,6 +3083,9 @@
         <reprint.note>
           <label auto.number="no" denominator="yes">5</label>
           <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM3115201">Criminal Investigations (Bodily Samples) Amendment Act 2009 Commencement Order 2010</extref> (SR 2010/220)</citation>
+          </reprint.amend>
           <reprint.amend>
             <citation jurisdiction="nz">Animal Welfare Amendment Act 2010 (2010 No 93): <amending-provision href="DLM3094404">section 10(2)</amending-provision></citation>
           </reprint.amend>
