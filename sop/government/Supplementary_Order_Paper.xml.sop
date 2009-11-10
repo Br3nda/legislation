@@ -1,29 +1,373 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2379700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" date.terminated="2009-10-28" terminated="superseded" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="64">
+<sop id="DLM2398200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" date.terminated="2009-11-11" terminated="superseded" pco.suffix="0006" stage="published" year="2009" raised.by="Government" sop.no="65">
   <date>Tuesday, 13 October 2009</date>
-  <billref>Whakarewarewa and Roto-a-Tamaheke Vesting Bill</billref>
-  <body id="DLM2379701">
+  <billref>Gambling Amendment Bill (No 2)</billref>
+  <body id="DLM2398201">
     <heading>Proposed amendments</heading>
-    <motion>Hon Pita Sharples, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2379702">
-      <clause.ref>Schedule 1</clause.ref>
+    <motion>Sue Bradford, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2378800">
+      <clause.ref>Clause 5</clause.ref>
       <sop.para>
-        <text>To omit the headings and items relating to the Arikikapakapa section 8 land, Arikikapakapa section 101 land, and Closed roads (lines 3 to 13 on page 25).</text>
-      </sop.para>
-      <sop.para>
-        <text>To omit paragraphs (a) to (e) of the item relating to the Southern Arikikapakapa Reserve (lines 18 to 24 on page 25) and substitute the following:</text>
+        <text>To insert after <emphasis style="italic">subclause (2)</emphasis> (line 2 on page 7) the following subclause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <para>
-            <text>19.5800 hectares, more or less, being section 1 SO 408975.</text>
-          </para>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2A</label>
+            <para>
+              <text>Section 4(1) is amended by repealing paragraph (a)(iii) of the definition of <def-term id="DLM2398202">authorised purpose</def-term> and substituting the following paragraph:</text>
+              <amend increment="2">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">iii</label>
+                  <para>
+                    <text>the maintenance and development of racing club infrastructure and racecourses, including the payment of wages and salaries and purchase of goods and services ancillary to this purpose and the promoting, controlling, and conducting of race meetings under the Racing Act 2003, but not including the payment of racing stakes:</text>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2378802">
+      <clause.ref>Clause 22</clause.ref>
+      <sop.para>
+        <text>To add after <emphasis style="italic">subclause (2)</emphasis> (line 29 on page 16) the following subclause: </text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">3</label>
+            <para>
+              <text>Section 53(2) is amended by repealing paragraph (f) and substituting the following paragraph:</text>
+              <amend increment="1">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">f</label>
+                  <para>
+                    <text>conditions requiring the utilisation of player tracking devices, pre-commit cards or other technological devices designed to maximise player knowledge about and control over their gambling and to minimise gambling related harm while permitting responsible gambling.</text>
+                  </para>
+                </label-para>
+              </amend>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2378803">
+      <clause.ref>New clause 22AA</clause.ref>
+      <sop.para>
+        <text>To insert after <emphasis style="italic">clause 22</emphasis> (line 29 on page 16) the following new clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2378804" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">22AA</label>
+            <heading>Restrictions where applicant proposes to conduct class 4 gambling mainly to distribute net proceeds to community</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>The principal Act is amended by inserting after section 53 the following sections:</text>
+                  <amend>
+                    <prov id="DLM2378805" irdnumbering="no" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes">53A</label>
+                      <heading>Restriction on distribution for racing purposes</heading>
+                      <prov.body>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="yes">1</label>
+                          <para>
+                            <text>This section applies if an applicant for the grant or renewal of a class 4 operator’s licence proposes to conduct class 4 gambling mainly to distribute net proceeds to the community.</text>
+                          </para>
+                        </subprov>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="yes">2</label>
+                          <para>
+                            <text>Every class 4 operator’s licence granted or renewed after the commencement of this section must contain a provision limiting the distribution of net proceeds for the purpose described in paragraph (a)(iii) of the definition of <quote.in>authorised purpose</quote.in> in each twelve-month period following the grant or renewal of the class 4 operator’s licence to no more than the greater of:</text>
+                            <label-para skeleton="no">
+                              <label auto.number="no" denominator="yes">a</label>
+                              <para>
+                                <text>5% of the total net proceeds distributed under the operator’s licence; or</text>
+                              </para>
+                            </label-para>
+                            <label-para skeleton="no">
+                              <label auto.number="no" denominator="yes">b</label>
+                              <para>
+                                <text>the total net proceeds distributed by the operator for the purpose of promoting, controlling, and conducting race meetings under the Racing Act 2003, including the payment of stakes, in the twelve months immediately preceding this section coming into force.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                    <prov id="DLM2378806" irdnumbering="no" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes">53B</label>
+                      <heading>Requirement to distribute proportion of net proceeds to local community</heading>
+                      <prov.body>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="yes">1</label>
+                          <para>
+                            <text>This section applies if an applicant for the grant or renewal of a class 4 operator’s licence proposes to conduct class 4 gambling mainly to distribute net proceeds to the community.</text>
+                          </para>
+                        </subprov>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="yes">2</label>
+                          <para>
+                            <text>In this section local community means, in relation to a class 4 venue, the community of the district of the territorial authority in which the class 4 venue is located.</text>
+                          </para>
+                        </subprov>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="yes">3</label>
+                          <para>
+                            <text>Every class 4 operator’s licence granted or renewed after the commencement of this section must contain a provision specifying a minimum proportion of the net proceeds from each class 4 venue operated by the class 4 operator that will be distributed in each twelve-month period following the grant or renewal of the class 4 operator’s licence for charitable purposes within that class 4 venue’s local community or for non-commercial purposes that are beneficial to the class 4 venue’s local community.</text>
+                          </para>
+                        </subprov>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="yes">4</label>
+                          <para>
+                            <text>Unless the Secretary is satisfied there are special circumstances, the minimum proportion of net proceeds to be specified under <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> in relation to each class 4 venue operated by the operator shall be 80%.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2378808">
+      <clause.ref>Clause 28</clause.ref>
+      <sop.para>
+        <text>To insert after <emphasis style="italic">subclause 2</emphasis> (line 22 on page 18) the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2A</label>
+            <para>
+              <text>Section 70(1) is amended by inserting after paragraph (i) the following paragraph:</text>
+              <amend increment="1">
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">ia</label>
+                  <para>
+                    <text>conditions requiring gaming machines to be located in particular areas of the venue, including a condition that all gaming machines be located entirely within internal areas of the venue; and</text>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2378809">
+      <clause.ref>Clause 40</clause.ref>
+      <sop.para>
+        <text>To add after <emphasis style="italic">paragraph (b) of new section 98</emphasis> (line 30 on page 22) the following paragraph:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <amend increment="1">
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes">c</label>
+              <para>
+                <text>if a holder of a class 4 venue licence who conducts gambling mainly to distribute net profits to the community applies for a class 4 venue licence renewal and the territorial authority within whose district the venue is located has adopted a class 4 gambling policy under section 101(3)(c) to prohibit, or reduce the number of, class 4 gambling venues in its district or the area of the district within which the venue is located.</text>
+              </para>
+            </label-para>
+          </amend>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2378810">
+      <clause.ref>Clause 41</clause.ref>
+      <sop.para>
+        <text>To add after <emphasis style="italic">subclause (3)</emphasis> (line 4 on page 23) the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">4</label>
+            <para>
+              <text>Section 100 is amended by adding the following subsection: </text>
+              <amend>
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes">6</label>
+                  <para>
+                    <text>If a territorial authority declines to renew a class 4 venue consent consequent upon a class 4 gambling policy made under section 101(3)(c) to prohibit, or reduce the number of, class 4 gambling venues in its district or the area of the district within which the venue is located the conditions of venue consent operating at the time the application was made shall continue to apply for a period of 18 months from the date of the decision to decline venue consent.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2378811">
+      <clause.ref>New clause 41A</clause.ref>
+      <sop.para>
+        <text>To insert after <emphasis style="italic">clause 41</emphasis> (line 4 on page 23) the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2378812" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">41A</label>
+            <heading>Venue policy may include prohibition or reduction in number of class 4 venues</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>Section 101(3) is amended by adding after paragraph (b) the following paragraphs:</text>
+                  <amend increment="1">
+                    <label-para skeleton="no">
+                      <label auto.number="no" denominator="yes">c</label>
+                      <para>
+                        <text>may specify that class 4 venues are to be prohibited or reduced in numbers in all of or parts of the district and that this prohibition or reduction in numbers may apply to existing venues, including existing venues that operated on the date this Act came into force:</text>
+                      </para>
+                    </label-para>
+                    <label-para skeleton="no">
+                      <label auto.number="no" denominator="yes">d</label>
+                      <para>
+                        <text>may specify restrictions on—</text>
+                        <label-para skeleton="no">
+                          <label auto.number="no" denominator="yes">i</label>
+                          <para>
+                            <text>signage that is in, or is visible from, a public place, and that advertises class 4 venues:</text>
+                          </para>
+                        </label-para>
+                        <label-para skeleton="no">
+                          <label auto.number="no" denominator="yes">ii</label>
+                          <para>
+                            <text>the hours of operation of class 4 venues.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </label-para>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2378813">
+      <clause.ref>Clause 42</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">clause 42</emphasis> (line 5 on page 23) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2378814" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">42</label>
+            <heading>Adoption, confirmation and review of class 4 venue policy</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Section 102(1)(a) is amended by inserting <amend.in>corporate</amend.in> after <amend.in>each</amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section 102(1)(b) is amended by deleting <amend.in>organisations</amend.in> and substituting <amend.in>each organisation</amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>Section 102(1) is amended by inserting after paragraph (b) the following paragraph:</text>
+                  <amend increment="1">
+                    <label-para skeleton="no">
+                      <label auto.number="no" denominator="yes">c</label>
+                      <para>
+                        <text>each District Health Board, problem gambling service provider, and addiction service provider in the territorial authority’s district.</text>
+                      </para>
+                    </label-para>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>Section 102 is amended by inserting after subsection (3) the following subsection:</text>
+                  <amend>
+                    <subprov skeleton="no">
+                      <label auto.number="yes" denominator="yes">3A</label>
+                      <para>
+                        <text>Section 77 of the Local Government Act 2002 applies to the adoption, amendment or replacement of a policy.</text>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2378815">
+      <clause.ref>Clause 47</clause.ref>
+      <sop.para>
+        <text>To insert after <emphasis style="italic">subclause (1AA)</emphasis> (line 19 on page 25) the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">1AB</label>
+            <para>
+              <text>Section 106(2) is amended by deleting <amend.in>$10,000</amend.in> and substituting <amend.in>$50,000</amend.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2378816">
+      <clause.ref>Clause 52</clause.ref>
+      <sop.para>
+        <text>To add after <emphasis style="italic">subclause (4)</emphasis> (line 13 on page 27) the following subclauses:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text>Section 113(2) is amended by deleting <amend.in>$10,000</amend.in> and substituting <amend.in>$50,000</amend.in>; and</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">6</label>
+            <para>
+              <text>Section 113(3) is amended by deleting <amend.in>$10,000</amend.in> and substituting <amend.in>$50,000</amend.in>.</text>
+            </para>
+          </subprov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2379703" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2009-10-28" pco.suffix="0001" stage="published" year="2009" raised.by="Government" sop.no="64">
+  <explnote id="DLM2398203" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2009-11-11" pco.suffix="0006" stage="published" year="2009" raised.by="Government" sop.no="65">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper updates the legal description of the Southern Arikikapakapa Reserve in the Bill. The survey of that Reserve, recently completed and now lodged with Land Information New Zealand, includes as one contiguous area the land parcels formerly registered as separate blocks.</text>
+      <text>The purpose of this Supplementary Order Paper is to make amendments to the Gambling Amendment Bill (No 2) as reported from the Government Administration Committee.  The proposed amendments relate to the definition of <quote.in>authorised purpose</quote.in> for various classes of gambling, and to class 4 gambling profit distribution and operator and venue licensing. The Supplementary Order Paper also proposes amendments to the Bill to give territorial authorities greater powers in addressing problem gambling within their communities and increases penalties for certain offences under the Gambling Act 2003.</text>
+    </para>
+    <para>
+      <text>The amendment to clause 4 of the Bill proposed by the Supplementary Order Paper amends the definition of <quote.in>authorised purpose</quote.in> for the various classes of gambling to specifically include the maintenance and development of racing club infrastructure and racecourses and the payment of wages and salaries and purchase of goods and services ancillary to this purpose, but to specifically exclude the payment of racing stakes.  This amendment will ensure that the proceeds of gambling, where distributed to the racing industry, are distributed to those activities in the racing industry that have a genuine need for financial support.</text>
+    </para>
+    <para>
+      <text>The amendment to clause 22 proposed by the Supplementary Order Paper will add an additional condition that can be imposed by the Secretary of Internal Affairs in issuing a class 4 gambling operator’s licence requiring the operator to implement systems to maximise player knowledge about and control over their gambling and to minimise gambling related harm.</text>
+    </para>
+    <para>
+      <text>The proposed clause 22AA that the Supplementary Order Paper proposes to insert into the Bill inserts new sections 53A and 53B into the Act to address issues relating to the distribution of gaming machine proceeds.</text>
+    </para>
+    <para>
+      <text>The proposed section 53A caps the level of funding from gaming machine operators that can be distributed to the racing industry. This is to ensure that genuine community interests receive the bulk of the benefits of any additional proceeds from gaming machine gambling.  Distribution by any operator to the racing industry is proposed by this section to be capped at 5% of an operator’s total distribution, or at the operator’s total distribution to the racing industry in the twelve months immediately preceding the proposed section 53A coming into force, whichever is the greater.</text>
+    </para>
+    <para>
+      <text>The proposed section 53B will ensure that the net proceeds of gaming machine gambling are distributed largely to the communities in which the gambling occurs.  Currently there is evidence of gambling proceeds derived from poorer communities being diverted to wealthier communities or to districts that are remote or some considerable distance away from where they are obtained.  Under the new section 53B, 80% of the proceeds from a gaming machine venue within a particular territorial authority district will normally be required to be distributed for the benefit of the communities within the district from which they are derived.</text>
+    </para>
+    <para>
+      <text>The amendment to clause 28 of the Bill proposed by this Supplementary Order Paper will require the Secretary of Internal Affairs, in issuing a class 4 venue licence, to impose conditions requiring gaming machines to be located in particular areas of the venue, including a condition that all gaming machines be located entirely within internal areas of the venue.  This will address an issue that has arisen involving some gambling venues, in response to the 2004 amendments to the Smoke-Free Environments Act 1990, altering the layout of their premises so gamblers can gamble outside.</text>
+    </para>
+    <para>
+      <text>The amendment to clause 40 of the Bill proposed by this Supplementary Order Paper provides an additional criterion under which territorial authority consent for class 4 gambling will be required.  That criterion will require the holder of a class 4 venue licence who conducts gambling mainly to distribute net profits to the community to obtain territorial authority consent for renewal of a venue licence if the territorial authority within whose district the venue is located has adopted a class 4 gambling policy under section 101(3)(c) to prohibit, or reduce the number of, class 4 gambling venues in its district or the area of the district within which the venue is located.</text>
+    </para>
+    <para>
+      <text>The amendment to clause 41 of the Bill proposed by this Supplementary Order Paper is a grace period provision providing that if a class 4 venue consent renewal is refused consequent upon a territorial authority policy to prohibit or reduce the number of class 4 venues in that area, the venue consent operating at the time the application for renewal was made shall continue to apply for a period of 18 months from the date of the decision to decline venue consent.  This will permit existing class 4 venues to be disestablished in an orderly manner in the event of venue consent renewal being refused and to develop alternative forms of securing entertainment and economic viability.</text>
+    </para>
+    <para>
+      <text>The new clause 41A of the Bill proposed by this Supplementary Order Paper will permit territorial authorities to develop class 4 gambling policies to prohibit, or reduce the number of, class 4 gambling venues in its district or the area of their district or an area of their district and to specify restrictions on class 4 venue signage and class 4 venue opening hours.  It will also permit territorial authorities to develop policies regulating signage and opening hours of class 4 venues.</text>
+    </para>
+    <para>
+      <text>The substituted clause 42 of the Bill proposed by this Supplementary Order Paper strengthens the consultation process that territorial authorities are required to undertake in developing or reviewing a class 4 venue policy, and requires that territorial authority decisions on class 4 venue policies are made in accordance with section 77 of the Local Government Act 2002.</text>
+    </para>
+    <para>
+      <text>The amendment to clause 47 of the Bill proposed by this Supplementary Order Paper increases the maximum fine that can be imposed under section 106 of the Act on a corporate society for the unlawful distribution of the net proceeds from class 4 gambling from $10,000 to $50,000 to provide greater deterrence.</text>
+    </para>
+    <para>
+      <text>The amendment to clause 52 of the Bill proposed by this Supplementary Order Paper similarly increases from $10,000 to $50,000 the maximum fine that can be imposed upon a key person in relation to a class 4 venue who contravenes section 113 of the Act or upon a key person in relation to an operator’s licence or the holder of an operator’s licence who knowingly allows a key person in relation to a venue licence to contravene that section.</text>
     </para>
   </explnote>
 </sop>
