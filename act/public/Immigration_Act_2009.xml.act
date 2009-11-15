@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act date.instructed="2006-10-12" id="DLM1440300" in.amend="false" instructing.office="Labour" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="in-force" year="2009">
+<act date.instructed="2006-10-12" id="DLM1440300" in.amend="false" instructing.office="Labour" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="reprint" year="2009" prospective.consolidation="F">
   <cover id="DLM1440303">
+    <reprint-date>2010-04-09</reprint-date>
     <title>Immigration Act 2009</title>
     <assent>2009-11-16</assent>
     <commencement>see section 2</commencement>
+    <cover.reprint-note>
+      <para xml:lang="en-NZ">
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Department of Labour</ministry>.</admin-office>
+    </cover.reprint-note>
   </cover>
   <contents>
     <heading>Contents</heading>
@@ -32,7 +42,7 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">1</label>
           <para>
-            <text>This Act comes into force on a date to be appointed by the Governor-General by Order in Council, except as provided in <citation jurisdiction="nz">subsections (2) to (4)</citation>.</text>
+            <text>This Act comes into force on a date to be appointed by the Governor-General by Order in Council, except as provided in subsections (2) to <insertwords>(5)</insertwords>.</text>
           </para>
         </subprov>
         <subprov skeleton="no">
@@ -53,9 +63,21 @@
             <text><citation jurisdiction="nz"><intref href="DLM2393703">Sections 475</intref>, <intref href="DLM2393704">476</intref>, and <intref href="DLM2465800">478</intref></citation> come into force on the day after the date on which this Act receives the Royal assent.</text>
           </para>
         </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">5</label>
+          <para>
+            <text><citation jurisdiction="nz"><intref href="DLM1441432">Section 474</intref></citation> comes into force on the day after the date on which the <citation jurisdiction="nz"><extref href="DLM2847300">Immigration Act 2009 Amendment Act 2010</extref></citation> receives the Royal assent.</text>
+          </para>
+        </subprov>
       </prov.body>
+      <notes>
+        <history>
+          <history-note id="DLM2887405"><amended-provision>Section 2(1)</amended-provision>: <amending-operation>amended</amending-operation>, on <amendment-date>9 April 2010</amendment-date>, by <amending-provision href="DLM2847308">section 4(1)</amending-provision> of the <amending-leg>Immigration Act 2009 Amendment Act 2010</amending-leg> (2010 No 10).</history-note>
+          <history-note id="DLM2887406"><amended-provision>Section 2(5)</amended-provision>: <amending-operation>added</amending-operation>, on <amendment-date>9 April 2010</amendment-date>, by <amending-provision href="DLM2847308">section 4(2)</amending-provision> of the <amending-leg>Immigration Act 2009 Amendment Act 2010</amending-leg> (2010 No 10).</history-note>
+        </history>
+      </notes>
     </prov>
-    <part date.instructed="2006-10-12" id="DLM1440308" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1440308" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Preliminary provisions</heading>
       <prov id="DLM1440310" irdnumbering="no" skeleton="no" toc="yes">
@@ -1890,7 +1912,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1440593" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1440593" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Core provisions and matters in relation to decision making</heading>
       <crosshead id="DLM1440594" toc="yes">Eligibility to be in or enter New Zealand</crosshead>
@@ -3899,10 +3921,10 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1440643" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1440643" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Visas</heading>
-      <subpart date.instructed="2006-10-12" id="DLM1440644" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="in-force" year="2009">
+      <subpart date.instructed="2006-10-12" id="DLM1440644" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="reprint" year="2009" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Visas generally</heading>
         <prov id="DLM1440646" irdnumbering="no" skeleton="no" toc="yes">
@@ -5457,7 +5479,7 @@
           <cf>1987 No 74 <citation jurisdiction="nz"><extref href="DLM109760">ss 11</extref>, <extref href="DLM109767">12</extref></citation></cf>
         </prov>
       </subpart>
-      <subpart date.instructed="2006-10-12" id="DLM1440683" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="in-force" year="2009">
+      <subpart date.instructed="2006-10-12" id="DLM1440683" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="reprint" year="2009" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">2</label>
         <heading>Classes of visa</heading>
         <prov id="DLM1440684" irdnumbering="no" skeleton="no" toc="yes">
@@ -6751,7 +6773,7 @@
         </prov>
       </subpart>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1440724" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1440724" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">4</label>
       <heading>Arrivals and departures</heading>
       <crosshead id="DLM1440729" toc="yes">Advance passenger processing</crosshead>
@@ -8720,7 +8742,7 @@
         <cf>1987 No 74 <citation jurisdiction="nz"><extref href="DLM112841">s 125(9)</extref></citation></cf>
       </prov>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1440774" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1440774" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">5</label>
       <heading>Refugee and protection status determinations</heading>
       <prov id="DLM1440775" irdnumbering="no" skeleton="no" toc="yes">
@@ -10216,7 +10238,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1440838" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1440838" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">6</label>
       <heading>Deportation</heading>
       <prov id="DLM2388700" irdnumbering="no" skeleton="no" toc="yes">
@@ -11968,7 +11990,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1440879" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1440879" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">7</label>
       <heading>Appeals, reviews, and other proceedings</heading>
       <prov id="DLM1440880" irdnumbering="no" skeleton="no" toc="yes">
@@ -17104,7 +17126,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1441009" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1441009" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">8</label>
       <heading>Compliance and information</heading>
       <prov id="DLM1441010" irdnumbering="no" skeleton="no" toc="yes">
@@ -21161,7 +21183,7 @@
         <cf>1987 No 74 <citation jurisdiction="nz"><extref href="DLM113677">s 141AB</extref></citation></cf>
       </prov>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1441096" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1441096" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">9</label>
       <heading>Detention and monitoring</heading>
       <prov id="DLM1441097" irdnumbering="no" skeleton="no" toc="yes">
@@ -23156,7 +23178,7 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1441144" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1441144" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">10</label>
       <heading>Offences, penalties, and proceedings</heading>
       <crosshead id="DLM1441145" toc="yes">Offences</crosshead>
@@ -25001,7 +25023,7 @@
         </cf>
       </prov>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1441185" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1441185" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">11</label>
       <heading>Miscellaneous provisions</heading>
       <crosshead id="DLM1441186" toc="yes">Matters relating to immigration status of persons born in New Zealand</crosshead>
@@ -27495,10 +27517,10 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2006-10-12" id="DLM1441343" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM1441343" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">12</label>
       <heading>Repeals, transitional provisions, saving provisions, and related matters</heading>
-      <subpart date.instructed="2006-10-12" id="DLM1441344" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="in-force" year="2009">
+      <subpart date.instructed="2006-10-12" id="DLM1441344" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="reprint" year="2009" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Repeals and related matters</heading>
         <prov id="DLM1441345" irdnumbering="no" skeleton="no" toc="yes">
@@ -27515,13 +27537,15 @@
           <notes>
             <amends-note>
               <amends-effective>
-                <authority>OIC</authority>
+                <authority>OIC SR 2010/185</authority>
+                <date>2010-11-29</date>
               </amends-effective>
               <amends-affect>
                 <citation jurisdiction="nz">
                   <extref href="DLM108017">Immigration Act 1987</extref>
                 </citation>
               </amends-affect>
+              <amends-text>If not in force immediately before 2am on 29 November 2010, this section comes into force at 2am on 29 November 2010.</amends-text>
             </amends-note>
           </notes>
         </prov>
@@ -27563,7 +27587,8 @@
           <notes>
             <amends-note>
               <amends-effective>
-                <authority>OIC</authority>
+                <authority>OIC SR 2010/185</authority>
+                <date>2010-11-29</date>
               </amends-effective>
               <amends-affect>
                 <citation jurisdiction="nz">
@@ -27579,6 +27604,7 @@
                   <extref href="DLM1142800">Immigration (Transit Visas) Regulations 2008</extref>
                 </citation>
               </amends-affect>
+              <amends-text>If not in force immediately before 2am on 29 November 2010, this section comes into force at 2am on 29 November 2010.</amends-text>
             </amends-note>
           </notes>
         </prov>
@@ -27594,7 +27620,8 @@
               <notes>
                 <amends-note>
                   <amends-effective>
-                    <authority>OIC</authority>
+                    <authority>OIC SR 2010/185</authority>
+                    <date>2010-11-29</date>
                   </amends-effective>
                   <amends-affect>
                     <citation jurisdiction="nz">
@@ -27760,6 +27787,7 @@
                       <extref href="DLM335469">Victoria University of Wellington Act 1961</extref>
                     </citation>
                   </amends-affect>
+                  <amends-text>If not in force immediately before 2am on 29 November 2010, this section comes into force at 2am on 29 November 2010.</amends-text>
                 </amends-note>
               </notes>
             </subprov>
@@ -27771,7 +27799,8 @@
               <notes>
                 <amends-note>
                   <amends-effective>
-                    <authority>OIC</authority>
+                    <authority>OIC SR 2010/185</authority>
+                    <date>2010-11-29</date>
                   </amends-effective>
                   <amends-affect>
                     <citation jurisdiction="nz">
@@ -27838,6 +27867,7 @@
                       <extref href="DLM308964">United Nations Sanctions (Sudan) Regulations 2004</extref>
                     </citation>
                   </amends-affect>
+                  <amends-text>If not in force immediately before 2am on 29 November 2010, this section comes into force at 2am on 29 November 2010.</amends-text>
                 </amends-note>
               </notes>
             </subprov>
@@ -27861,7 +27891,8 @@
               <notes>
                 <amends-note>
                   <amends-effective>
-                    <authority>OIC</authority>
+                    <authority>OIC SR 2010/185</authority>
+                    <date>2010-11-29</date>
                   </amends-effective>
                   <amends-affect>
                     <citation jurisdiction="nz">
@@ -27871,6 +27902,7 @@
                       <extref href="DLM334626">Air Facilitation (Domestic Passengers and Cargo) Act 1994</extref>
                     </citation>
                   </amends-affect>
+                  <amends-text>If not in force immediately before 2am on 29 November 2010, this section comes into force at 2am on 29 November 2010.</amends-text>
                 </amends-note>
               </notes>
             </subprov>
@@ -27949,7 +27981,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2006-10-12" id="DLM1441350" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="in-force" year="2009">
+      <subpart date.instructed="2006-10-12" id="DLM1441350" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="reprint" year="2009" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">2</label>
         <heading>Transitional and savings provisions</heading>
         <crosshead id="DLM1441351" toc="yes">Government immigration and residence policy</crosshead>
@@ -30479,7 +30511,7 @@
         </prov>
       </subpart>
     </part>
-    <part date.instructed="2006-10-12" id="DLM2393702" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+    <part date.instructed="2006-10-12" id="DLM2393702" in.amend="false" instructing.office="Labour" irdnumbering="no" toc="yes" date.first.valid="2009-11-17" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">13</label>
       <heading>Amendments to Immigration Act 1987</heading>
       <prov id="DLM2393703" irdnumbering="no" skeleton="no" toc="yes">
@@ -30496,7 +30528,8 @@
         <notes>
           <amends-note>
             <amends-effective>
-              <authority>OIC</authority>
+              <authority>OIC SR 2010/185</authority>
+              <date>2010-08-02</date>
             </amends-effective>
             <amends-affect>
               <citation jurisdiction="nz">
@@ -30526,35 +30559,35 @@
             <label auto.number="yes" denominator="yes"/>
             <para>
               <text><citation jurisdiction="nz"><extref href="DLM111368">Section 58</extref></citation> is amended by repealing subsection (5) and substituting the following subsections:</text>
-              <amend>
-                <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes">5</label>
+              <amend quote="1">
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">5</label>
                   <para>
                     <text>Nothing in this section gives a person a right to apply to an immigration officer for the cancellation of a removal order. However, an immigration officer must consider cancelling the removal order of a person who is in New Zealand if the person provides information to the officer concerning his or her personal circumstances, and the information is relevant to New Zealand's international obligations.</text>
                   </para>
                 </subprov>
-                <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes">6</label>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">6</label>
                   <para>
                     <text>If an immigration officer does consider cancelling a removal order, whether by way of a purported application or his or her own motion, the officer must have regard to any relevant international obligations, but otherwise,—</text>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">a</label>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
                         <text>may make a decision as he or she thinks fit; and</text>
                       </para>
                     </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">b</label>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
                       <para>
                         <text>in doing so, is not under any obligation, whether by implication or otherwise,—</text>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">i</label>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
                           <para>
                             <text>to apply any test or any particular test and, in particular, the officer is not obliged to apply the test set out in section 47(3); or</text>
                           </para>
                         </label-para>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">ii</label>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
                           <para>
                             <text>to inquire into the circumstances of, or to make any further inquiries in respect of the information provided by or in respect of, the person who is the subject of the removal order or any other person.</text>
                           </para>
@@ -30563,36 +30596,36 @@
                     </label-para>
                   </para>
                 </subprov>
-                <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes">7</label>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">7</label>
                   <para>
                     <text>Whether or not an immigration officer considers cancelling a removal order,—</text>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">a</label>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
                         <text>he or she is not obliged to give reasons for any decision, other than the reason that this subsection applies; and</text>
                       </para>
                     </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">b</label>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
                       <para>
                         <text>section 23 of the Official Information Act 1982 does not apply in respect of the decision.</text>
                       </para>
                     </label-para>
                   </para>
                 </subprov>
-                <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes">8</label>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">8</label>
                   <para>
                     <text>However, to the extent that an immigration officer does have regard to any international obligations, the officer is obliged to record—</text>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">a</label>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
                         <text>a description of the international obligations; and</text>
                       </para>
                     </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">b</label>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
                       <para>
                         <text>the facts about the person's personal circumstances.</text>
                       </para>
@@ -30612,63 +30645,63 @@
             <label auto.number="yes" denominator="yes"/>
             <para>
               <text>The following section is inserted after <citation jurisdiction="nz"><extref href="DLM114009">section 141A</extref></citation>:</text>
-              <amend>
-                <prov id="DLM2393706" irdnumbering="no" skeleton="no" toc="yes">
-                  <label auto.number="no" denominator="yes">141ABA</label>
+              <amend quote="1">
+                <prov id="DLM2393706" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">141ABA</label>
                   <heading>Disclosure of information to employers</heading>
                   <prov.body>
-                    <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes">1</label>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
                         <text>The purpose of this section is to facilitate the disclosure of information by the Department to an employer to enable the employer to verify that a person is entitled under this Act to undertake employment in the employer’s service.</text>
                       </para>
                     </subprov>
-                    <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes">2</label>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
                         <text>On receipt of a request from an employer, the chief executive may, for the purpose of this section, disclose the information specified in <citation jurisdiction="nz">subsection (4)</citation> to the employer.</text>
                       </para>
                     </subprov>
-                    <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes">3</label>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
                         <text>The chief executive must not disclose the information specified in <citation jurisdiction="nz">subsection (4)</citation> unless satisfied that the request—</text>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">a</label>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
                             <text>has been made by an employer in New Zealand; and</text>
                           </para>
                         </label-para>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">b</label>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
                             <text>is for the purpose of enabling the employer to verify that a person is entitled under this Act to undertake employment in the employer’s service.</text>
                           </para>
                         </label-para>
                       </para>
                     </subprov>
-                    <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes">4</label>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
                       <para>
                         <text>The information that may be disclosed under this section is as follows:</text>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">a</label>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
                             <text>whether the person is entitled to undertake that employment in New Zealand:</text>
                           </para>
                         </label-para>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">b</label>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
                             <text>if the person is entitled to undertake that employment in New Zealand,—</text>
-                            <label-para skeleton="no">
-                              <label auto.number="no" denominator="yes">i</label>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
                                 <text>the duration of the entitlement; and</text>
                               </para>
                             </label-para>
-                            <label-para skeleton="no">
-                              <label auto.number="no" denominator="yes">ii</label>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
                               <para>
                                 <text>any conditions imposed on that entitlement.</text>
                               </para>
@@ -30677,8 +30710,8 @@
                         </label-para>
                       </para>
                     </subprov>
-                    <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes">5</label>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
                       <para>
                         <text>Where the chief executive discloses information under this section to an employer, the employer must be informed of the requirement to comply with the Privacy Act 1993 in relation to that information.</text>
                       </para>
@@ -30698,9 +30731,9 @@
             <label auto.number="yes" denominator="yes"/>
             <para>
               <text>The definition of <def-term id="DLM2465801">fine</def-term> in <citation jurisdiction="nz"><extref href="DLM113682">section 141AD</extref></citation> is amended by adding the following paragraph:</text>
-              <amend increment="1">
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes" increment="1">d</label>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" increment="1" quote="1">d</label>
                   <para>
                     <text>any levy payable under the Sentencing Act 2002</text>
                   </para>
@@ -30714,7 +30747,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule date.instructed="2006-10-12" id="DLM1441433" in.amend="false" instructing.office="Labour" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="in-force" year="2009">
+    <schedule date.instructed="2006-10-12" id="DLM1441433" in.amend="false" instructing.office="Labour" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <empowering-prov>
         <citation jurisdiction="nz"><intref href="DLM1440795">ss 127(3)</intref>, <intref href="DLM1440854">165</intref></citation>
@@ -31867,7 +31900,7 @@
         </conv.body>
       </conv>
     </schedule>
-    <schedule date.instructed="2006-10-12" id="DLM1441512" in.amend="false" instructing.office="Labour" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="in-force" year="2009">
+    <schedule date.instructed="2006-10-12" id="DLM1441512" in.amend="false" instructing.office="Labour" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -32451,7 +32484,7 @@
         </prov>
       </schedule.provisions>
     </schedule>
-    <schedule date.instructed="2006-10-12" id="DLM1441536" in.amend="false" instructing.office="Labour" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="in-force" year="2009">
+    <schedule date.instructed="2006-10-12" id="DLM1441536" in.amend="false" instructing.office="Labour" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">3</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -32472,19 +32505,19 @@
             <text><citation jurisdiction="nz"><extref href="DLM364101">Section 9(1)(b)</extref></citation>: omit <amend.in quote="1">Immigration Act 1987</amend.in> and substitute <amend.in quote="1">Immigration Act 2009</amend.in>.</text>
           </para>
           <para>
-            <text>Paragraph (b) of the definition of <def-term id="DLM2393707">eligible person</def-term> in <citation jurisdiction="nz"><extref href="DLM364133">section 21</extref></citation>: omit <amend.in>Immigration Act 1987</amend.in> and substitute <amend.in>Immigration Act 2009</amend.in>.</text>
+            <text>Paragraph (b) of the definition of <def-term id="DLM2393707">eligible person</def-term> in <citation jurisdiction="nz"><extref href="DLM364133">section 21</extref></citation>: omit <amend.in quote="1">Immigration Act 1987</amend.in> and substitute <amend.in quote="1">Immigration Act 2009</amend.in>.</text>
           </para>
           <para>
-            <text>Paragraph (a)(iii) of the definition of <def-term id="DLM2393708">eligible adult</def-term> in <citation jurisdiction="nz"><extref href="DLM1805783">section 27A</extref></citation>: omit <amend.in>Immigration Act 1987</amend.in> and substitute <amend.in>Immigration Act 2009</amend.in>.</text>
+            <text>Paragraph (a)(iii) of the definition of <def-term id="DLM2393708">eligible adult</def-term> in <citation jurisdiction="nz"><extref href="DLM1805783">section 27A</extref></citation>: omit <amend.in quote="1">Immigration Act 1987</amend.in> and substitute <amend.in quote="1">Immigration Act 2009</amend.in>.</text>
           </para>
           <para>
-            <text>Paragraph (a)(iii) of the definition of <def-term id="DLM2393709">eligible child</def-term> in <citation jurisdiction="nz"><extref href="DLM1805783">section 27A</extref></citation>: omit <amend.in>Immigration Act 1987</amend.in> and substitute <amend.in>Immigration Act 2009</amend.in>.</text>
+            <text>Paragraph (a)(iii) of the definition of <def-term id="DLM2393709">eligible child</def-term> in <citation jurisdiction="nz"><extref href="DLM1805783">section 27A</extref></citation>: omit <amend.in quote="1">Immigration Act 1987</amend.in> and substitute <amend.in quote="1">Immigration Act 2009</amend.in>.</text>
           </para>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM1806407">Section 78D(4)(b)</extref></citation>: omit <amend.in>Immigration Act 1987</amend.in> and substitute <amend.in>Immigration Act 2009</amend.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM1806407">Section 78D(4)(b)</extref></citation>: omit <amend.in quote="1">Immigration Act 1987</amend.in> and substitute <amend.in quote="1">Immigration Act 2009</amend.in>.</text>
           </para>
           <para>
-            <text>Item relating to Department of Labour in <citation jurisdiction="nz"><extref href="DLM364792">Schedule 1A</extref></citation>: omit from the item relating to Death information <amend.in>limited term permits or</amend.in> and substitute <amend.in>temporary entry class</amend.in>.</text>
+            <text>Item relating to Department of Labour in <citation jurisdiction="nz"><extref href="DLM364792">Schedule 1A</extref></citation>: omit from the item relating to Death information <amend.in quote="1">limited term permits or</amend.in> and substitute <amend.in quote="1">temporary entry class</amend.in>.</text>
           </para>
         </schedule.amendments.group2>
         <schedule.amendments.group2 id="DLM1441539" toc="yes">
@@ -32546,7 +32579,7 @@
             <text><citation jurisdiction="nz"><extref href="DLM444022">Section 26B(1)</extref></citation>: omit <amend.in quote="1">Department of Labour</amend.in> and substitute <amend.in quote="1">department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Immigration Act 2009</amend.in>.</text>
           </para>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM444022">Section 26B(1)</extref></citation>: omit <amend.in>Immigration Act 1987</amend.in> and substitute <amend.in>Immigration Act 2009</amend.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM444022">Section 26B(1)</extref></citation>: omit <amend.in quote="1">Immigration Act 1987</amend.in> and substitute <amend.in quote="1">Immigration Act 2009</amend.in>.</text>
           </para>
         </schedule.amendments.group2>
         <schedule.amendments.group2 id="DLM1441543" toc="yes">
@@ -32610,7 +32643,7 @@
             </amend>
           </para>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM296574">Section 181(2), (4), and (5)</extref></citation>: omit <amend.in>Department of Labour</amend.in> in each place where it appears and substitute in each case <amend.in>responsible department</amend.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM296574">Section 181(2), (4), and (5)</extref></citation>: omit <amend.in quote="1">Department of Labour</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">responsible department</amend.in>.</text>
           </para>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM297125">Section 203(a)</extref></citation>: omit <amend.in quote="1">Immigration Act 1987</amend.in> and substitute <amend.in quote="1">Immigration Act 2009</amend.in>.</text>
@@ -32631,7 +32664,7 @@
         <schedule.amendments.group2 id="DLM1441552" toc="yes">
           <heading>Customs and Excise Act 1996 (1996 No 27)</heading>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM378225">Section 32B</extref></citation>: omit <amend.in>Immigration Act 1987</amend.in> in each place where it appears and substitute in each case <amend.in>Immigration Act 2009</amend.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM378225">Section 32B</extref></citation>: omit <amend.in quote="1">Immigration Act 1987</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Immigration Act 2009</amend.in>.</text>
           </para>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM379504">Section 175C(1)(b)(iv)</extref></citation>: repeal and substitute:</text>
@@ -33146,38 +33179,38 @@
               <def-para id="DLM1441588" quote="1">
                 <para quote="1">
                   <text><def-term id="DLM1441589">immigration matter</def-term> means any matter arising under or concerning the application of the Immigration Act 2009 (including any regulations or instructions made under that Act); and includes—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
                     <para>
                       <text>an application or potential application for a residence class visa, temporary entry class visa, or transit visa:</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
                     <para>
                       <text>a request or potential request for a special direction:</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">c</label>
                     <para>
                       <text>a claim for recognition as a refugee or a protected person, and any related appeal or matter:</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">d</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">d</label>
                     <para>
                       <text>a matter relating to immigration sponsorship:</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">e</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">e</label>
                     <para>
                       <text>a matter relating to an immigration obligation:</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">f</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">f</label>
                     <para>
                       <text>an appeal in relation to an immigration matter</text>
                     </para>
@@ -33221,19 +33254,19 @@
           </para>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM407312">Section 11(h)</extref></citation>: omit and substitute:</text>
-            <amend increment="1">
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">h</label>
+            <amend increment="1" quote="1">
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">h</label>
                 <para>
                   <text>persons who provide—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">i</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">i</label>
                     <para>
                       <text>immigration advice offshore; and</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">ii</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">ii</label>
                     <para>
                       <text>advice only in respect of applications for temporary entry class visas with conditions authorising study in New Zealand:</text>
                     </para>
@@ -33362,9 +33395,9 @@
           </para>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM64976">Section 151(a)(i)</extref></citation>: omit and substitute:</text>
-            <amend increment="2">
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">i</label>
+            <amend increment="2" quote="1">
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">i</label>
                 <para>
                   <text>the Minister of Immigration declines to grant a visa under the Immigration Act 2009; and</text>
                 </para>
@@ -33768,69 +33801,69 @@
           <heading>Parole Act 2002 (2002 No 10)</heading>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM138868">Section 55</extref></citation>: repeal and substitute:</text>
-            <amend>
-              <prov id="DLM2393711" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">55</label>
+            <amend quote="1">
+              <prov id="DLM2393711" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">55</label>
                 <heading>Offenders may be released early for deportation</heading>
                 <prov.body>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">1</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
                     <para>
                       <text>The Minister of Immigration may, in the Minister's absolute discretion as defined in <citation jurisdiction="nz">section 11</citation> of the Immigration Act 2009, give the manager of a prison a written notice ordering the release of an offender into the custody of a constable or immigration officer if <citation jurisdiction="nz">subsections (3) to (7)</citation> apply to the offender.</text>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">2</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
                     <para>
                       <text>The chief executive may give the manager of a prison a written notice ordering the release of an offender into the custody of a constable or immigration officer at a time within 28 days preceding the offender's statutory release date if <citation jurisdiction="nz">subsections (3) to (6)</citation> apply to the offender. This subsection does not limit <citation jurisdiction="nz">subsection (1)</citation>.</text>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">3</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">3</label>
                     <para>
                       <text>The offender must be serving a sentence of imprisonment in the prison.</text>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">4</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">4</label>
                     <para>
                       <text>The offender—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>must have been sentenced to 2 years or less; or</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>must have—</text>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">i</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
                             <para>
                               <text>been sentenced to more than 2 years; and</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">ii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
                             <para>
                               <text>served either 2 years or one-third of the sentence, whichever is shorter; or</text>
                             </para>
                           </label-para>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">c</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">c</label>
                         <para>
                           <text>must have—</text>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">i</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">i</label>
                             <para>
                               <text>received an indeterminate sentence; and</text>
                             </para>
                           </label-para>
-                          <label-para skeleton="no">
-                            <label auto.number="no" denominator="yes">ii</label>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">ii</label>
                             <para>
                               <text>served at least 2 years.</text>
                             </para>
@@ -33839,132 +33872,132 @@
                       </label-para>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">5</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">5</label>
                     <para>
                       <text>The offender must be—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>liable for deportation under <citation jurisdiction="nz">section 154</citation> of the Immigration Act 2009; or</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>the subject of a deportation order under <citation jurisdiction="nz">section 163</citation> of the Immigration Act 2009; or</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">c</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">c</label>
                         <para>
                           <text>the subject of a deportation liability notice under the Immigration Act 2009; or</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">d</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">d</label>
                         <para>
                           <text>the subject of a removal order under the Immigration Act 1987; or</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">e</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">e</label>
                         <para>
                           <text>the subject of a deportation order under the Immigration Act 1987.</text>
                         </para>
                       </label-para>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">6</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">6</label>
                     <para>
                       <text>The offender must be described by one of the following:</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>he or she has no right of appeal against his or her liability for deportation:</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>he or she has a right of appeal but has not made an appeal and the time for making an appeal has expired:</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">c</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">c</label>
                         <para>
                           <text>he or she made an appeal that has been determined by the upholding of the liability for deportation.</text>
                         </para>
                       </label-para>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">7</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">7</label>
                     <para>
                       <text>The offender must not pose an undue risk to the safety of the community into which he or she is to be deported, as established to the Minister's satisfaction.</text>
                     </para>
                   </subprov>
                 </prov.body>
               </prov>
-              <prov id="DLM2393712" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">55A</label>
+              <prov id="DLM2393712" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">55A</label>
                 <heading>Implementation of early release for deportation</heading>
                 <prov.body>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">1</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
                     <para>
                       <text>A notice under <citation jurisdiction="nz">section 55(1) or (2)</citation> is sufficient authority for the manager,—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>if requested by an immigration officer, to release the offender and deliver him or her into the custody of an immigration officer for detention under <citation jurisdiction="nz">section 312</citation> of the Immigration Act 2009; or</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>if requested by a constable, to release the offender and deliver him or her into the custody of a constable for arrest and detention under <citation jurisdiction="nz">section 313</citation> of the Immigration Act 2009.</text>
                         </para>
                       </label-para>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">2</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
                     <para>
                       <text>The offender must be returned to the custody of the manager if the circumstances in <citation jurisdiction="nz">section 336(1)</citation> of the Immigration Act 2009 arise.</text>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">3</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">3</label>
                     <para>
                       <text>The warrant by which an offender was originally committed to the prison is deemed to be still in force for the purpose of his or her return to custody under <citation jurisdiction="nz">subsection (2)</citation>. </text>
                     </para>
                   </subprov>
-                  <subprov skeleton="no">
-                    <label auto.number="no" denominator="yes">4</label>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">4</label>
                     <para>
                       <text>This section applies to an offender returned to custody under <citation jurisdiction="nz">subsection (2)</citation> until he or she is finally deported.</text>
                     </para>
                   </subprov>
                 </prov.body>
               </prov>
-              <prov id="DLM2393713" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">55B</label>
+              <prov id="DLM2393713" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">55B</label>
                 <heading>Offenders released early remain offenders under New Zealand law</heading>
                 <prov.body>
                   <subprov skeleton="no">
                     <label auto.number="yes" denominator="yes"/>
                     <para>
                       <text>The following apply to an offender released and deported under <citation jurisdiction="nz">sections 55 and 55A</citation>:</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">a</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
                         <para>
                           <text>his or her sentence continues to run; and</text>
                         </para>
                       </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">b</label>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
                         <para>
                           <text>he or she is liable to resume serving the sentence if he or she returns to New Zealand before the sentence expiry date.</text>
                         </para>
@@ -34324,25 +34357,25 @@
           <heading>Social Security Act 1964 (1964 No 136)</heading>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM363796">Section 74AA(1)</extref></citation>: repeal and substitute:</text>
-            <amend>
+            <amend quote="1">
               <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes">1</label>
+                <label auto.number="yes" denominator="yes" quote="1">1</label>
                 <para>
                   <text>A person who applies for a benefit of a kind stated in subsection (2) after 27 May 2007 is not eligible for it unless he or she—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
                     <para>
                       <text>is a New Zealand citizen, or is a person who holds a residence class visa under the Immigration Act 2009; and</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
                     <para>
                       <text>is ordinarily resident in New Zealand when he or she first applies for the benefit; and</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">c</label>
                     <para>
                       <text>except in the case of a person who is recognised as a refugee or a protected person in New Zealand under the Immigration Act 2009, has resided continuously in New Zealand for a period of at least 2 years at any one time after the day on which <citation jurisdiction="nz">paragraph (a)</citation> first applied to him or her.</text>
                     </para>
@@ -34353,43 +34386,43 @@
           </para>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM363798">Section 74A(1)</extref></citation>: repeal and substitute:</text>
-            <amend>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
+            <amend quote="1">
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">1</label>
                 <para>
                   <text>A person is not entitled to receive a benefit who is—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
                     <para>
                       <text>unlawfully resident or present in New Zealand; or</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
                     <para>
                       <text>lawfully resident or present in New Zealand but only by virtue of holding a temporary entry class visa.</text>
                     </para>
                   </label-para>
                 </para>
               </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1A</label>
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">1A</label>
                 <para>
                   <text>Despite <citation jurisdiction="nz">subsection (1)</citation>, the chief executive may grant an emergency benefit under section 61 or temporary additional support under section 61G, or may continue, under section 23 of the Social Security (Working for Families) Amendment Act 2004, a special benefit already granted to the person if the chief executive is satisfied that the person is—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
                     <para>
                       <text>a person lawfully present in New Zealand who is awaiting the outcome of his or her claim for recognition as a refugee or a protected person; or</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
                     <para>
                       <text>a person who is recognised as a refugee or a protected person; or</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">c</label>
                     <para>
                       <text>a person applying for a residence class visa under the Immigration Act 2009 who is compelled to remain in New Zealand because of unforeseen circumstances.</text>
                     </para>
@@ -34399,10 +34432,10 @@
             </amend>
           </para>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM363798">Section 74A(3)(b)(ii)</extref></citation>: omit <amend.in>one of the permits listed in paragraph (b) of subsection (1)</amend.in> and substitute <amend.in>holding a temporary entry class visa</amend.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM363798">Section 74A(3)(b)(ii)</extref></citation>: omit <amend.in quote="1">one of the permits listed in paragraph (b) of subsection (1)</amend.in> and substitute <amend.in quote="1">holding a temporary entry class visa</amend.in>.</text>
           </para>
           <para>
-            <text><citation jurisdiction="nz"><extref href="DLM363798">Section 74A(4)</extref></citation>: omit <amend.in>any of paragraphs (c), (d), or (e) of subsection (1)</amend.in> and substitute <amend.in><citation jurisdiction="nz">subsection (1A)</citation></amend.in>.</text>
+            <text><citation jurisdiction="nz"><extref href="DLM363798">Section 74A(4)</extref></citation>: omit <amend.in quote="1">any of paragraphs (c), (d), or (e) of subsection (1)</amend.in> and substitute <amend.in quote="1"><citation jurisdiction="nz">subsection (1A)</citation></amend.in>.</text>
           </para>
         </schedule.amendments.group2>
         <schedule.amendments.group2 id="DLM1441646" toc="yes">
@@ -34796,7 +34829,7 @@
         </schedule.amendments.group2>
       </schedule.amendments>
     </schedule>
-    <schedule date.instructed="2006-10-12" id="DLM1441673" in.amend="false" instructing.office="Labour" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="in-force" year="2009">
+    <schedule date.instructed="2006-10-12" id="DLM1441673" in.amend="false" instructing.office="Labour" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">4</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -34911,18 +34944,18 @@
           <heading>Land Transport Rule 32006/1: Frontal Impact 2001</heading>
           <para>
             <text>Definition of <def-term id="DLM2393716">Immigrant's vehicle</def-term> in Part 2: revoke and substitute:</text>
-            <amend increment="1">
-              <def-para id="DLM2393717">
-                <para>
+            <amend increment="1" quote="1">
+              <def-para id="DLM2393717" quote="1">
+                <para quote="1">
                   <text><def-term id="DLM2393718">immigrant's vehicle</def-term> means a Class MA, MB, or MC motor vehicle that is—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
                     <para>
                       <text>imported into New Zealand by a New Zealand citizen, or a New Zealand resident, who has lived outside New Zealand for a period of not less than 21 months before the date of his or her arrival in or return to New Zealand; and</text>
                     </para>
                   </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
                     <para>
                       <text>identified in writing and in accordance with Schedule 1 by the Director, or by an organisation appointed by the Director under 4.6(5), as being an immigrant's vehicle</text>
                     </para>
@@ -34934,9 +34967,9 @@
           </para>
           <para>
             <text>Definition of <def-term id="DLM2393719">New Zealand resident</def-term> in Part 2: revoke and substitute:</text>
-            <amend increment="1">
-              <def-para id="DLM2393720">
-                <para>
+            <amend increment="1" quote="1">
+              <def-para id="DLM2393720" quote="1">
+                <para quote="1">
                   <text><def-term id="DLM2393721">New Zealand resident</def-term> means a person who holds a residence class visa under the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation></text>
                 </para>
               </def-para>
@@ -34945,9 +34978,9 @@
           </para>
           <para>
             <text>Clause 2(a) of Schedule 1: revoke and substitute:</text>
-            <amend increment="1">
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
+            <amend increment="1" quote="1">
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">a</label>
                 <para>
                   <text>be a New Zealand citizen or a New Zealand resident; and</text>
                 </para>
@@ -34957,9 +34990,9 @@
           </para>
           <para>
             <text>Clause 3(a) of Schedule 1: revoke and substitute:</text>
-            <amend increment="1">
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">a</label>
+            <amend increment="1" quote="1">
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">a</label>
                 <para>
                   <text>be a New Zealand citizen or a New Zealand resident; and</text>
                 </para>
@@ -34981,9 +35014,9 @@
           <heading>Social Security (SuperGold Card) Regulations 2007 (SR 2007/209)</heading>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM443931">Regulation 9(b)</extref></citation>: revoke and substitute:</text>
-            <amend increment="1">
-              <label-para skeleton="no">
-                <label auto.number="no" denominator="yes">b</label>
+            <amend increment="1" quote="1">
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">b</label>
                 <para>
                   <text>is the holder of a residence class visa granted under the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation>.</text>
                 </para>
@@ -35084,15 +35117,15 @@
           <heading>United Nations Sanctions (Al-Qaida and Taliban) Regulations 2007 (SR 2007/356)</heading>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM1035182">Regulation 13(2) and (3)</extref></citation>: revoke and substitute:</text>
-            <amend>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
+            <amend quote="1">
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">2</label>
                 <para>
                   <text>A visa may be granted under the Immigration Act 2009 to a person who is a specified entity only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).</text>
                 </para>
               </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">3</label>
                 <para>
                   <text>This regulation operates in addition to the requirements of the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> and any regulations made under that Act.</text>
                 </para>
@@ -35144,15 +35177,15 @@
           <heading>United Nations Sanctions (Democratic Republic of the Congo) Regulations 2004 (SR 2004/465)</heading>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM1748408">Regulation 12D(4) and (5)</extref></citation>: revoke and substitute:</text>
-            <amend>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
+            <amend quote="1">
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">4</label>
                 <para>
                   <text>A visa may be granted under the Immigration Act 2009 to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).</text>
                 </para>
               </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">5</label>
                 <para>
                   <text>This regulation operates in addition to the requirements of the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> and any regulations made under that Act.</text>
                 </para>
@@ -35164,15 +35197,15 @@
           <heading>United Nations Sanctions (Iran) Regulations 2007 (SR 2007/74)</heading>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM1616308">Regulation 16B(4) and (5)</extref></citation>: revoke and substitute:</text>
-            <amend>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
+            <amend quote="1">
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">4</label>
                 <para>
                   <text>A visa may be granted under the Immigration Act 2009 to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).</text>
                 </para>
               </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">5</label>
                 <para>
                   <text>This regulation operates in addition to the requirements of the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> and any regulations made under that Act.</text>
                 </para>
@@ -35184,15 +35217,15 @@
           <heading>United Nations Sanctions (Lebanon) Regulations 2008 (SR 2008/262)</heading>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM1471812">Regulation 17(4) and (5)</extref></citation>: revoke and substitute:</text>
-            <amend>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
+            <amend quote="1">
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">4</label>
                 <para>
                   <text>A visa may be granted under the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).</text>
                 </para>
               </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">5</label>
                 <para>
                   <text>This regulation operates in addition to the requirements of the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> and any regulations made under that Act.</text>
                 </para>
@@ -35224,15 +35257,15 @@
           <heading>United Nations Sanctions (Sierra Leone) Regulations 1997 (SR 1997/281)</heading>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM240961">Regulation 11(3A) and (4)</extref></citation>: revoke and substitute:</text>
-            <amend>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3A</label>
+            <amend quote="1">
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">3A</label>
                 <para>
                   <text>A visa may be granted under the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).</text>
                 </para>
               </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">4</label>
                 <para>
                   <text>This regulation operates in addition to the requirements of the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> and any regulations made under that Act.</text>
                 </para>
@@ -35244,15 +35277,15 @@
           <heading>United Nations Sanctions (Somalia) Regulations 1992 (SR 1992/42)</heading>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM2028634">Regulation 10F(4) and (5)</extref></citation>: revoke and substitute:</text>
-            <amend>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
+            <amend quote="1">
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">4</label>
                 <para>
                   <text>A visa may be granted under the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).</text>
                 </para>
               </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">5</label>
                 <para>
                   <text>This regulation operates in addition to the requirements of the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> and any regulations made under that Act.</text>
                 </para>
@@ -35264,15 +35297,15 @@
           <heading>United Nations Sanctions (Sudan) Regulations 2004 (SR 2004/466)</heading>
           <para>
             <text><citation jurisdiction="nz"><extref href="DLM1751426">Regulation 13D(4) and (5)</extref></citation>: revoke and substitute:</text>
-            <amend>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
+            <amend quote="1">
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">4</label>
                 <para>
                   <text>A visa may be granted under the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).</text>
                 </para>
               </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
+              <subprov quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">5</label>
                 <para>
                   <text>This regulation operates in addition to the requirements of the <citation jurisdiction="nz"><extref href="DLM1440300">Immigration Act 2009</extref></citation> and any regulations made under that Act.</text>
                 </para>
@@ -35282,7 +35315,7 @@
         </schedule.amendments.group2>
       </schedule.amendments>
     </schedule>
-    <schedule date.instructed="2006-10-12" id="DLM2393729" in.amend="false" instructing.office="Labour" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="51" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="in-force" year="2009">
+    <schedule date.instructed="2006-10-12" id="DLM2393729" in.amend="false" instructing.office="Labour" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="51" act.type="public" date.as.at="2010-04-09" date.assent="2009-11-16" date.first.valid="2009-11-17" stage="reprint" year="2009" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">5</label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -36231,42 +36264,196 @@
     </schedule>
   </schedule.group>
   <end id="DLM1441705">
-    <leg-history id="DLM1441706">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2007-08-08</date>
-        <description>Introduced (Bill 132–1)</description>
-      </history-item>
-      <history-item>
-        <date>2007-08-16</date>
-        <description>First reading and referral to Transport and Industrial Relations Committee</description>
-      </history-item>
-      <history-item>
-        <date>2008-07-21</date>
-        <description>Reported from Transport and Industrial Relations Committee (Bill 132–2)</description>
-      </history-item>
-      <history-item>
-        <date>2009-03-05</date>
-        <description>Second reading</description>
-      </history-item>
-      <history-item>
-        <date>2009-09-15</date>
-        <date.text>15, 22 September 2009</date.text>
-        <description>Committee of the whole House</description>
-      </history-item>
-      <history-item>
-        <date>2009-10-14</date>
-        <description>Reported from committee of the whole House (Bill 132–3)</description>
-      </history-item>
-      <history-item>
-        <date>2009-10-29</date>
-        <description>Third reading</description>
-      </history-item>
-      <history-item>
-        <date>2009-11-16</date>
-        <description>Royal assent</description>
-      </history-item>
-    </leg-history>
-    <admin-office>This Act is administered by the <ministry>Department of Labour</ministry>.</admin-office>
+    <end.reprint-note id="DLM2887407">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the Immigration Act 2009. The reprint incorporates all the amendments to the Act as at 9 April 2010, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM2847300">Immigration Act 2009 Amendment Act 2010</extref> (2010 No 10)</citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
   </end>
 </act>
