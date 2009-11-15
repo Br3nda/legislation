@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2009-01-27" id="DLM1832117" in.amend="false" instructing.office="Economic Development" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="52" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" date.first.valid="2009-03-10" stage="in-force" year="2009">
+  <cover id="DLM1832120">
+    <title>Insolvency Amendment Act 2009</title>
+    <assent>2009-11-16</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM1832121">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM1832122" prov-type="clause">
+    <prov id="DLM1832123" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act is the Insolvency Amendment Act 2009.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM1832124" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text><citation jurisdiction="nz"><intref href="DLM1832100">Section 10</intref></citation> is deemed to have come into force on <citation jurisdiction="nz">10 March 2009</citation>.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text>The rest of this Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM1832125" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act amends the <citation jurisdiction="nz"><extref href="DLM385298">Insolvency Act 2006</extref></citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <amends-note>
+          <amends-effective>
+            <date>2009-11-17</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <extref href="DLM385298">Insolvency Act 2006</extref>
+            </citation>
+          </amends-affect>
+          <amends-text>Note that section 10 is deemed to have come into force on 10 March 2009 (see s 2(1)).</amends-text>
+        </amends-note>
+      </notes>
+    </prov>
+    <part date.instructed="2009-01-27" id="DLM1832126" in.amend="false" instructing.office="Economic Development" irdnumbering="no" toc="yes" date.first.valid="2009-03-10" act.no="52" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Amendments to Insolvency Act 2006</heading>
+      <crosshead id="DLM1832127" toc="yes">Insolvent gifts</crosshead>
+      <prov id="DLM1832102" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading>New sections 204 and 205 substituted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM386964">Sections 204</extref> and <extref href="DLM386965">205</extref></citation> are repealed and the following sections substituted:</text>
+              <amend quote="1">
+                <prov id="DLM1832128" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">204</label>
+                  <heading>Insolvent gift within 2 years may be cancelled</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="yes" denominator="yes"/>
+                      <para>
+                        <text>A gift by a bankrupt to another person may be cancelled on the Assignee's initiative if  the bankrupt made the gift within 2 years immediately before adjudication.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM1832129" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">205</label>
+                  <heading>Insolvent gift within 2 to 5 years may be cancelled if bankrupt unable to pay debts</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>A gift by a bankrupt to another person may be cancelled on the Assignee's initiative if—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the bankrupt made the gift within the period beginning 2 years immediately before adjudication and ending 5 years immediately before adjudication; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the bankrupt was unable to pay his or her debts.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>A bankrupt is presumed to have been unable to pay his or her debts for the purpose of <citation jurisdiction="nz">subsection (1)(b)</citation> unless the party claiming under the gift proves that the bankrupt was immediately after the making of the gift, or at any time after that up to his or her adjudication, able to pay his or her debts without the aid of the property that the gift is composed of.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1832130" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">5</label>
+        <heading>Limits on recovery</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM386969">Section 208</extref></citation> is amended by repealing paragraph (b) and substituting the following paragraph:</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">b</label>
+                  <para>
+                    <text>a reasonable person in A's position would not have suspected, and A did not have reasonable grounds for suspecting, that,—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">i</label>
+                      <para>
+                        <text>in the case of an insolvent gift, the bankrupt was, or would become, unable to pay his or her debts without the aid of the property that the gift is composed of; or</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">ii</label>
+                      <para>
+                        <text>in the case of any other irregular transaction referred to in section 206(1), the bankrupt was, or would become, unable to pay his or her due debts; and</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1832104" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">6</label>
+        <heading>When Assignee may recover difference</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM386977">Section 212(b)</extref></citation> is amended by omitting “due” in each place where it appears.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM1832131" toc="yes">No asset procedure</crosshead>
+      <prov id="DLM2098101" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">7</label>
+        <heading>Criteria for entry to no asset procedure</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387711">Section 363(2)</extref></citation> is amended by adding <amend.in quote="1">, but does include any assets (for example, gifted assets) that might be recoverable by the Assignee if the debtor were adjudicated bankrupt on the date of application for entry to the no asset procedure and if the irregular transaction provisions in subpart 7 of Part 3 applied</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2098102" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">8</label>
+        <heading>Effect of termination</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387729">Section 375</extref></citation> is amended by adding <amend.in quote="1">, and the debtor is liable to pay any penalties and interest that may have accrued</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1832132" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">9</label>
+        <heading>Discharge</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387731">Section 377</extref></citation> is amended by omitting the heading and substituting the following heading: “<emphasis style="bold">Time of discharge</emphasis>”.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387731">Section 377</extref></citation> is amended by adding the following subsections as subsections (2) to (7):</text>
+              <amend quote="1">
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">2</label>
+                  <para>
+                    <text>However, a debtor is not automatically discharged if the Assignee—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>is satisfied that the 12-month period should be extended for the purpose of properly considering whether the debtor's participation in the no asset procedure should be terminated; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>sends a written deferral notice to the debtor's last known address before the expiry of the 12-month period.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">3</label>
+                  <para>
+                    <text>The deferral notice must state an alternative date for automatic discharge, which must be no later than 25 working days after the expiry of the 12-month period.</text>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">4</label>
+                  <para>
+                    <text>The deferral notice is effective whether or not the debtor receives it.</text>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">5</label>
+                  <para>
+                    <text>The Assignee must, as soon as practicable, send a written notice of the deferral to each creditor of the debtor known to the Assignee.</text>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">6</label>
+                  <para>
+                    <text>The debtor is automatically discharged from the no asset procedure on the date stated in the deferral notice.</text>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">7</label>
+                  <para>
+                    <text>The Assignee may revoke a deferral notice in the same way in which it was sent, in which case, the debtor is automatically discharged from the no asset procedure on—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>the expiry of the 12-month period in subsection (1), if the notice is revoked before that date; or </text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>in other cases, the date of revocation.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1832100" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">10</label>
+        <heading>New section 377A inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387731">Section 377</extref></citation> is amended by repealing subsection (2).</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The following section is inserted after <citation jurisdiction="nz"><extref href="DLM387731">section 377</extref></citation>:</text>
+              <amend quote="1">
+                <prov id="DLM1832134" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">377A</label>
+                  <heading>Effect of discharge</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>On discharge under section 377, the debtor's debts that became unenforceable on the debtor's entry to the no asset procedure are cancelled, and the debtor is not liable to pay any part of the debts, including any penalties and interest that may have accrued.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>However, <citation jurisdiction="nz">subsection (1)</citation> does not apply to—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>any debt or liability incurred by fraud or fraudulent breach of trust to which the debtor was a party:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>any debt or liability for which the debtor has obtained forbearance through fraud to which the debtor was a party.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The debts and liabilities referred to in <citation jurisdiction="nz">subsection (2)</citation> become again enforceable on discharge under section 377, and the debtor is liable to pay any penalties and interest that may have accrued.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2098103" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="no">11</label>
+        <heading>New section 377B inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The following section is inserted after <citation jurisdiction="nz">section 377A</citation>:</text>
+              <amend quote="1">
+                <prov id="DLM2098104" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">377B</label>
+                  <heading>Discharge does not release partners and others</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="yes" denominator="yes"/>
+                      <para>
+                        <text>A discharge under section 377 does not release any person who, at the date of discharge, was—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>a business partner of the discharged debtor; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>a co-trustee with the discharged debtor; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>jointly bound or had made any contract with the discharged debtor; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>a guarantor or in the nature of a guarantor of the discharged debtor.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM1832135" toc="yes">Public registers</crosshead>
+      <prov id="DLM1832107" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">12</label>
+        <heading>Purposes of public registers</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387861">Section 448(3)(a)</extref></citation> is amended by inserting <amend.in quote="1">and persons discharged from that procedure under section 377</amend.in> after “persons currently admitted to the no asset procedure”.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1832109" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">13</label>
+        <heading>General information that must be held in public registers</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387862">Section 449(1)</extref></citation> is amended by omitting <amend.in quote="1">The public registers must contain the following information in respect of a person (<emphasis style="bold">P</emphasis>) who is or has been bankrupt or who is subject to a current summary instalment order or currently admitted to the no asset procedure</amend.in> and  substituting <amend.in quote="1">The public registers must contain the following information in respect of a person (<emphasis style="bold">P</emphasis>) who is or has been bankrupt, or who is subject to a current summary instalment order, or who is currently admitted to the no asset procedure, or who has been discharged from that procedure under section 377</amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387862">Section 449(1)(b)</extref></citation> is amended by inserting <amend.in quote="1">or has been discharged from the no asset procedure under section 377,</amend.in> after <quote.in quote="1">is currently admitted to the no asset procedure,</quote.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387862">Section 449(1)</extref></citation> is amended by inserting the following paragraph after paragraph (h):</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">ha</label>
+                  <para>
+                    <text>if P is discharged from the no asset procedure under section 377, the date when P was so discharged:</text>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387862">Section 449(3)</extref></citation> is amended by adding <amend.in quote="1">, and the bankruptcy that was so annulled does not count for the purposes of <citation jurisdiction="nz">section 449A</citation></amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387862">Section 449</extref></citation> is amended by inserting the following subsection after subsection (4):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">4A</label>
+                  <para>
+                    <text>All information relating to a person who has been admitted to the no asset procedure must be removed from the public register maintained under section 368—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>4 years after the date of discharge under section 377; or</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>as soon as practicable after a termination under section 372(a), (c), or (d).</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">6</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387717">Section 368(1)</extref></citation> is consequentially amended by adding <amend.in quote="1">and persons discharged from that procedure under section 377</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1832115" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">14</label>
+        <heading>New section 449A inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The following section is inserted after <citation jurisdiction="nz"><extref href="DLM387862">section 449</extref></citation>:</text>
+              <amend quote="1">
+                <prov id="DLM1884100" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">449A</label>
+                  <heading>Information kept indefinitely on public register after multiple insolvency events</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>This section applies in the case of a person who—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>is or has been bankrupt on 2 or more occasions; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>is or has been both bankrupt and discharged from the no asset procedure under section 377.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>Information about the person must not be removed from the public register under this Act and, in particular, section 449(4), <citation jurisdiction="nz">(4A)</citation>, and (5) do not apply to the person.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>The Assignee must ensure that the public register contains all of the information required by this Act about the person and each insolvency event.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>Bankruptcies under the Insolvency Act 1967 count for the purposes of <citation jurisdiction="nz">subsections (1) and (3)</citation>, but bankruptcies under the Bankruptcy Act 1908 do not count for either purpose.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1832111" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">15</label>
+        <heading>Search criteria</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387869">Section 453(2)</extref></citation> is amended by inserting the following paragraph after paragraph (d):</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">da</label>
+                  <para>
+                    <text>is discharged from the no asset procedure under section 377; or</text>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387869">Section 453(2)</extref></citation> is amended by adding <amend.in quote="1">; or</amend.in> and also by adding the following paragraph:</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">h</label>
+                  <para>
+                    <text>is subject to <citation jurisdiction="nz">section 449A</citation> (which relates to permanent retention of information on the register after multiple insolvency events).</text>
+                  </para>
+                </label-para>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1832113" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">16</label>
+        <heading>Search purposes</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387872">Section 454(b)</extref></citation> is amended by omitting <amend.in quote="1">or is currently admitted to the no asset procedure</amend.in> and substituting <amend.in quote="1">is currently admitted to the no asset procedure, or is discharged from that procedure under section 377</amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM387872">Section 454</extref></citation> is amended by adding the following paragraph:</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">e</label>
+                  <para>
+                    <text>by any person for the purpose of ascertaining whether <citation jurisdiction="nz">section 449A</citation> applies to another person.</text>
+                  </para>
+                </label-para>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+    <part date.instructed="2009-01-27" id="DLM1832136" in.amend="false" instructing.office="Economic Development" irdnumbering="no" toc="yes" date.first.valid="2009-03-10" act.no="52" act.type="public" date.as.at="2009-11-16" date.assent="2009-11-16" stage="in-force" year="2009">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Transitional provisions and amendment to Privacy Act 1993</heading>
+      <crosshead id="DLM1832137" toc="yes">Insolvent gifts</crosshead>
+      <prov id="DLM1832138" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">17</label>
+        <heading>Amendments relating to insolvent gifts apply only to bankruptcies commenced after Act comes into force</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The <citation jurisdiction="nz"><extref href="DLM385298">principal Act</extref></citation> applies to any bankruptcy that is commenced before the day after the date on which this Act receives the Royal assent as if <citation jurisdiction="nz"><extref href="DLM297035">sections 4 to 6</extref></citation> of this Act had not been enacted.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM1832139" toc="yes">Which debts are cancelled on discharge from no asset procedure</crosshead>
+      <prov id="DLM1832140" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">18</label>
+        <heading>Amendments relating to cancellation of fraudulent debts under no asset procedure</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Any debt that is cancelled under <citation jurisdiction="nz"><extref href="DLM387731">section 377(2)</extref></citation> of the principal Act in the period before the enactment of <citation jurisdiction="nz">section 377A of the principal Act by <intref href="DLM1832100">section 10</intref> of this Act</citation>, but that is later revived by the enactment of <citation jurisdiction="nz">section 377A(2)</citation>, must be treated as if the debt had not been cancelled. </text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>In particular, the debtor is liable to repay any part of the debt, including any penalties and interest that may have accrued during the period when the debt was cancelled.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>Subsection (2) does not limit subsection (1).</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>Any proceedings for enforcement of the debt may be commenced or continued after the enactment of section 377A as if the debt had never been cancelled.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM1832141" toc="yes">Public registers</crosshead>
+      <prov id="DLM1832142" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">19</label>
+        <heading>Amendments relating to 4-year period for public registers apply to all debtors admitted to no asset procedure after Act comes into force</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The <citation jurisdiction="nz"><extref href="DLM385298">principal Act</extref></citation> applies to any debtor who is admitted to the no asset procedure before  the day after the date on which this Act receives the Royal assent as if <citation jurisdiction="nz"><intref href="DLM1832107">sections 12</intref>, <intref href="DLM1832109">13</intref>, <intref href="DLM1832111">15</intref>, and <intref href="DLM1832113">16</intref></citation> of this Act had not been enacted.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1832143" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">20</label>
+        <heading>Amendments relating to retention of records if multiple insolvency events</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz">Section 449A</citation> of the principal Act (as enacted by <citation jurisdiction="nz"><intref href="DLM1832115">section 14</intref></citation> of this Act) applies to any person regardless of whether any of the insolvency events referred to in <citation jurisdiction="nz">section 449A(1)</citation> occurred before or after the enactment of that section.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>As soon as practicable after this section comes into force, the Assignee must ensure that the public register contains all of the information required by the principal Act (as amended by this Act) about any person to whom <citation jurisdiction="nz">section 449A</citation> applies.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>To avoid doubt, the requirement in subsection (2) includes a requirement to ensure that the public register contains information about bankruptcies under the <citation jurisdiction="nz"><extref href="DLM382333">Insolvency Act 1967</extref></citation> in respect of any person to whom <citation jurisdiction="nz">section 449A</citation> applies.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM2098105" toc="yes">Amendment to Privacy Act 1993</crosshead>
+      <prov id="DLM2098106" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">21</label>
+        <heading>Schedule 2 of Privacy Act 1993 amended</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>This section amends the <citation jurisdiction="nz"><extref href="DLM296638">Privacy Act 1993</extref></citation>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The item relating to the <citation jurisdiction="nz">Insolvency Act 2006 in <extref href="DLM298477">Part 1</extref> of Schedule 2</citation> is amended by inserting <amend.in quote="1">354,</amend.in> after <quote.in quote="1">62,</quote.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <notes>
+          <amends-note>
+            <amends-effective>
+              <date>2009-11-17</date>
+            </amends-effective>
+            <amends-affect>
+              <citation jurisdiction="nz">
+                <extref href="DLM296638">Privacy Act 1993</extref>
+              </citation>
+            </amends-affect>
+          </amends-note>
+        </notes>
+      </prov>
+    </part>
+  </body>
+  <end id="DLM2098107">
+    <leg-history id="DLM2098108">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-03-09</date>
+        <description>Introduction (Bill 19–1)</description>
+      </history-item>
+      <history-item>
+        <date>2009-03-24</date>
+        <description>First reading and referral to Commerce Committee</description>
+      </history-item>
+      <history-item>
+        <date>2009-05-28</date>
+        <description>Reported from Commerce Committee (Bill 19–2)</description>
+      </history-item>
+      <history-item>
+        <date>2009-07-21</date>
+        <description>Second reading</description>
+      </history-item>
+      <history-item>
+        <date>2009-07-22</date>
+        <description>Committee of the whole House</description>
+      </history-item>
+      <history-item>
+        <date>2009-10-29</date>
+        <description>Third reading</description>
+      </history-item>
+      <history-item>
+        <date>2009-11-16</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the <ministry>Ministry of Economic Development</ministry>.</admin-office>
+  </end>
+</act>
