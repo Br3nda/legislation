@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2009-11-04" id="DLM2581000" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="60" act.type="public" date.as.at="2009-12-07" date.assent="2009-12-07" date.first.valid="2009-12-08" stage="in-force" year="2009">
+  <cover id="DLM2581003">
+    <title>Corrections (Use of Court Cells) Amendment Act 2009</title>
+    <assent>2009-12-07</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM2581004">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM2581005" prov-type="clause">
+    <prov id="DLM2581006" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act is the Corrections (Use of Court Cells) Amendment Act 2009.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2581007" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2581008" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act amends the <citation jurisdiction="nz"><amending-provision href="DLM294848">Corrections Act 2004</amending-provision></citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <amends-note>
+          <amends-effective>
+            <date>2009-12-08</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <amending-provision href="DLM294848">Corrections Act 2004</amending-provision>
+            </citation>
+          </amends-affect>
+        </amends-note>
+      </notes>
+    </prov>
+    <prov id="DLM2581009" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading>Establishment of prisons</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM295436">Section 32</extref></citation> is amended by inserting the following subsection after subsection (2):</text>
+            <amend quote="1">
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes" quote="1">2A</label>
+                <para>
+                  <text>Nothing in section 9 of the Resource Management Act 1991 applies to the detention of prisoners in a court cell block that is declared by notice in the <emphasis style="italic">Gazette</emphasis> to be a part of a corrections prison.</text>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2581010" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">5</label>
+      <heading>Consequential amendment to Resource Management Act 1991</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text>This section consequentially amends the <citation jurisdiction="nz"><extref href="DLM230264">Resource Management Act 1991</extref></citation>.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM231900">Section 4</extref></citation> is amended by inserting the following subsection after subsection (3):</text>
+            <amend quote="1">
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes" quote="1">3A</label>
+                <para>
+                  <text>Section 9 does not apply to the detention of prisoners in a court cell block that is declared by notice in the <emphasis style="italic">Gazette</emphasis> to be a part of a corrections prison.</text>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <amends-note>
+          <amends-effective>
+            <date>2009-12-08</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <extref href="DLM230264">Resource Management Act 1991</extref>
+            </citation>
+          </amends-affect>
+        </amends-note>
+      </notes>
+    </prov>
+  </body>
+  <end id="DLM2587600">
+    <leg-history id="DLM2587601">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-11-24</date>
+        <description>Introduction (Bill 106–1), first reading, second reading, committee of the whole House, third reading</description>
+      </history-item>
+      <history-item>
+        <date>2009-12-07</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the <ministry>Ministry of Justice</ministry>.</admin-office>
+  </end>
+</act>
