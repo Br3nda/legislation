@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2009-10-19" id="DLM2534100" in.amend="false" instructing.office="Police" irdnumbering="no" xml:lang="en-NZ" year.imprint="2009" act.no="58" act.type="public" date.as.at="2009-12-07" date.assent="2009-12-07" date.first.valid="2009-12-08" stage="in-force" year="2009">
+  <cover id="DLM2534102">
+    <title>Policing (Constable's Oaths Validation) Amendment Act 2009</title>
+    <assent>2009-12-07</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM2534103">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM2534104" prov-type="clause">
+    <prov id="DLM2534105" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act is the Policing (Constable's Oaths Validation) Amendment Act 2009.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2534106" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2534107" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act amends the <citation jurisdiction="nz"><amending-provision href="DLM1102100">Policing Act 2008</amending-provision></citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <amends-note>
+          <amends-effective>
+            <date>2009-12-08</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <amending-provision href="DLM1102100">Policing Act 2008</amending-provision>
+            </citation>
+          </amends-affect>
+        </amends-note>
+      </notes>
+    </prov>
+    <prov id="DLM2534108" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading>New heading and section 115A inserted</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>The following heading and section are inserted after <citation jurisdiction="nz"><extref href="DLM1564702">section 115</extref></citation>:</text>
+            <amend quote="1">
+              <crosshead id="DLM2534109" quote="1" toc="yes">Validation of constable's oaths</crosshead>
+              <prov id="DLM2534110" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">115A</label>
+                <heading>Validation of constable's oaths</heading>
+                <prov.body>
+                  <subprov skeleton="no">
+                    <label auto.number="no" denominator="no"/>
+                    <para>
+                      <text>A Police employee or judicial officer who has administered the constable's oath described in section 22(1) in the period that commenced on 1 October 2008 and ended with the close of 12 October 2009 is to be treated as having been authorised, throughout that period, by the Commissioner to administer the oath and as having administered the oath in accordance with section 22.</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+  </body>
+  <end id="DLM2586300">
+    <leg-history id="DLM2586301">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-11-24</date>
+        <description>Introduction (Bill 98–1), first reading, second reading, committee of the whole House, third reading</description>
+      </history-item>
+      <history-item>
+        <date>2009-12-07</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the <ministry>New Zealand Police</ministry>.</admin-office>
+  </end>
+</act>
