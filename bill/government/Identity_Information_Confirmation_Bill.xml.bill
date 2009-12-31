@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill id="DLM3136800" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2010" bill.no="187" bill.type="government" stage="1" year="2010">
+  <billdetail>
+    <title>Identity Information Confirmation Bill</title>
+    <billtype>Government Bill</billtype>
+    <explnote id="DLM3136801" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="187" bill.type="government" stage="1" year="2010">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
+        <para>
+          <text>This Bill supports the provision of a consent-based service that will allow both private and public sector agencies to check identity information provided by individuals seeking to establish their identities. Identity information will be checked against information held on government databases and registers of passports, other travel documents, citizenship, births, deaths, marriages, and civil unions. Individuals will need to provide their consent and their information before an agency can use the service. In order to use the service, an agency will also need to have entered into an agreement with the chief executive of the Department of Internal Affairs or the Registrar-General of Births, Deaths and Marriages, or both. The service is designed to protect the privacy of personal information.</text>
+        </para>
+        <para>
+          <text>Under existing information-matching provisions in the Privacy Act 1993, government agencies are able to establish systems to check that information about individuals is accurate. Private sector agencies, however, have only limited ability to check whether the identity information presented to them by members of the public is correct.</text>
+        </para>
+        <para>
+          <text>For instance, although there is generally open access to the birth register under the Births, Deaths, Marriages, and Relationships Registration Act 1995, this access requires making an application to the Births, Deaths and Marriages registry office and paying a fee for a birth certificate (currently set by regulations at $26). This process is not used for general business purposes, with the result that private sector agencies are vulnerable to identity-related crimes, including the creation of fictitious identities on seemingly genuine passports, birth certificates, and other documents. There are also people who claim the identity of deceased individuals, as well as risks associated with people who change their names but use documents issued in previous names. This Bill reduces that vulnerability by providing for a service that will meet the need of both private and public sector agencies to confirm that identity information about individuals is consistent with recorded information.</text>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Regulatory impact statement</heading>
+        <para>
+          <text>The Department of Internal Affairs produced a regulatory impact statement on 5 March 2010 to help inform the main policy decisions taken by the Government relating to the contents of this Bill.</text>
+        </para>
+        <para>
+          <text>A copy of the regulatory impact statement can be found at—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>
+                  <citation jurisdiction="nz">
+                    <extref href="http://www.dia.govt.nz/diawebsite.nsf/wpg_URL/Resource-material-Regulatory-Impact-Statements-Index">http://www.dia.govt.nz/diawebsite.nsf/wpg_URL/Resource-material-Regulatory-Impact-Statements-Index</extref>
+                  </citation>
+                </text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>
+                  <citation jurisdiction="nz">
+                    <extref href="http://www.treasury.govt.nz/publications/informationreleases/ris">http://www.treasury.govt.nz/publications/informationreleases/ris</extref>
+                  </citation>
+                </text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 2</emphasis> is the commencement clause and provides that the Bill comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </clause.desc>
+        <explnote.part id="DLM3136802">
+          <label auto.number="no" denominator="yes">1  </label>
+          <heading>Preliminary provisions</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 3</emphasis> provides an overview of the general scheme and effect of the Bill.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4</emphasis> states that the purpose of the Bill is to facilitate the use of an electronic service that allows agencies to confirm identity information about individuals so as to—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>contribute to the prevention of crime (particularly identity-related crimes); and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>ensure that agencies can use and, if necessary, record confirmed identity information.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5</emphasis> is the interpretation clause and defines various terms used in the Bill.</text>
+            </para>
+            <para>
+              <text>A key term is <def-term id="DLM3136803">agency</def-term>, which is defined to mean a person or body of persons, whether corporate or unincorporate and whether in the public sector or private sector.</text>
+            </para>
+            <para>
+              <text>Another key term is <def-term id="DLM3136804">identity information</def-term>, which is defined to mean information (such as full name, gender, date of birth, and place of birth) that an individual provides to an agency for the purpose of establishing the individual's identity. The definition also includes any other recorded information that an individual provides to an agency for the same purpose, such as any other information relating to the individual (for example, the individual's passport number) and the status of any such information (for example, the status of the individual's passport).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> provides that the Bill binds the Crown.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM3136805">
+          <label auto.number="no" denominator="yes">2  </label>
+          <heading>Provisions relating to confirmation service and miscellaneous matters</heading>
+          <explnote.subpart id="DLM3136806">
+            <label auto.number="no" denominator="yes">1</label>
+            <heading>Use of confirmation service</heading>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 7</emphasis> describes the general purpose of the confirmation service, which is to allow an agency to check whether an individual's identity information is consistent with information that is recorded in or on any or all of the various databases kept for the purposes of the Births, Deaths, Marriages, and Relationships Registration Act 1995, the Citizenship Act 1977, and the Passports Act 1992. </text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 8</emphasis> sets out the conditions that an agency has to comply with before the agency can use the confirmation service. The conditions are that—</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the agency has obtained the individual's consent before the identity information check under the confirmation service is carried out; and</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the agency has given the confirmation service an assurance that the individual has consented to the identity information check; and</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the agency is a party to a confirmation agreement that complies with <emphasis style="italic">clause 11</emphasis>; and</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the identity information check is carried out in accordance with the agreement; and</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the agency has made an arrangement to pay or has paid any fees and charges payable under the agreement.</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 9</emphasis> sets out how an agency may use the confirmation service, including requirements about what information may be supplied to the agency following a search of any or all of the applicable databases.</text>
+              </para>
+            </clause.desc>
+          </explnote.subpart>
+          <explnote.subpart id="DLM3136807">
+            <label auto.number="no" denominator="yes">2</label>
+            <heading>Confirmation agreements</heading>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 10</emphasis> describes the parties to a confirmation agreement. The Registrar-General of Births, Deaths and Marriages or the chief executive of the Department of Internal Affairs, or both (the <emphasis style="bold">responsible officials</emphasis>), may enter into a confirmation agreement with an agency depending on whether the agreement relates to identity information checks against information recorded under the Births, Deaths, Marriages, and Relationships Registration Act 1995, the Citizenship Act 1977, or the Passports Act 1992. The responsible officials may enter into a confirmation agreement with an agency only if either or both of them (as the case may be) are satisfied that it is appropriate to do so after having regard to certain specified criteria. Those criteria include the nature of the agency's undertaking or activity and whether the agency has a genuine need to use the confirmation service in carrying out that undertaking or activity.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 11</emphasis> sets out general requirements about the form and content of a confirmation agreement.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 12</emphasis> enables the responsible officials to develop, in consultation with the Privacy Commissioner, standard terms or conditions for a confirmation agreement that are to apply or are proposed to apply to particular agencies or classes of agencies. <emphasis style="italic">Clause 12</emphasis> also sets out additional provisions relating to the terms or conditions of confirmation agreements.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 13</emphasis> requires the responsible officials to consult the Privacy Commissioner if either or both of them, as the case may be, are proposing to enter into a confirmation agreement that will allow a comparison of an individual's photographic image against any photographic images of that individual that are included in any recorded information about him or her.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 14</emphasis> enables the Privacy Commissioner to require reviews to be carried out, at intervals not shorter than 12 months, of the terms or conditions of confirmation agreements generally.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 15</emphasis> allows fees and charges that are payable by an agency for using the confirmation service to be set under a confirmation agreement. The fees and charges must be set at a level that is no more than is necessary to cover the cost of providing the confirmation service.</text>
+              </para>
+            </clause.desc>
+          </explnote.subpart>
+          <explnote.subpart id="DLM3136808">
+            <label auto.number="no" denominator="yes">3</label>
+            <heading>Information and reporting requirements</heading>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 16</emphasis> requires the responsible officials to publish and maintain on an Internet site under the responsible officials' control a list of agencies that are party to a confirmation agreement.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 17</emphasis> enables the Privacy Commissioner to require the responsible officials to provide, at intervals not shorter than 12 months, a report on the operation of the confirmation service.</text>
+              </para>
+            </clause.desc>
+          </explnote.subpart>
+          <explnote.subpart id="DLM3136809">
+            <label auto.number="no" denominator="yes">4</label>
+            <heading>Miscellaneous</heading>
+            <explnote.crosshead>Protection from liability</explnote.crosshead>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 18</emphasis> protects the Crown and certain other persons from any liability for damages for any loss or damage that is due directly or indirectly to the use of the confirmation service for an identity information check.</text>
+              </para>
+            </clause.desc>
+            <explnote.crosshead>Relationship with other enactments</explnote.crosshead>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 19</emphasis> explains the relationship between the Bill and other enactments. It provides that, subject to 1 exception, the Bill prevails if there is any inconsistency between the Bill and any of the following Acts or any regulations made under the following Acts:</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the Births, Deaths, Marriages, and Relationships Registration Act 1995:</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the Citizenship Act 1977:</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the Passports Act 1992:</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the Privacy Act 1993.</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+              <para>
+                <text>The exception relates to sections 76, 77, and 86 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, which provide specific restrictions on certain searches under that Act (for example, searches relating to pre-adoption records). <emphasis style="italic">Clause 19</emphasis> provides that the Bill must be read subject to those sections and that nothing in the Bill authorises the giving of permission to inspect, or the disclosure of, any document containing information to which those sections apply.</text>
+              </para>
+              <para>
+                <text><emphasis style="italic">Clause 19</emphasis> also clarifies that sections 68 and 78(6) to (8) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 apply for the purposes, and in connection with the operation, of the confirmation service. Section 68 deals with surnames on the birth certificates of persons whose births were registered before 1 January 1972 under an Act that was repealed by that 1995 Act. Section 78(6) to (8) require notification to be given to certain persons when a search under that 1995 Act is made in relation to information about an individual who has acquired a new identity such as a protected witness or an undercover Police officer.</text>
+              </para>
+            </clause.desc>
+            <explnote.crosshead>Consequential amendments to other enactments</explnote.crosshead>
+            <clause.desc>
+              <para>
+                <text><emphasis style="italic">Clause 20</emphasis> states that the <emphasis style="italic">Schedule</emphasis> contains consequential amendments to other enactments.</text>
+              </para>
+            </clause.desc>
+            <clause.desc>
+              <para>
+                <text>The <emphasis style="italic">Schedule</emphasis> sets out consequential amendments to the following enactments:</text>
+                <list>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the Births, Deaths, Marriages, and Relationships Registration Act 1995:</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the Citizenship Act 1977:</text>
+                    </para>
+                  </item>
+                  <item>
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>the Passports Act 1992.</text>
+                    </para>
+                  </item>
+                </list>
+              </para>
+              <para>
+                <text>Generally, the amendments provide that nothing in each of the above Acts limits access to information that is recorded under each one of them if the access is for the purposes of, and in accordance with, the Bill.</text>
+              </para>
+              <para>
+                <text>In addition, the amendment to the Births, Deaths, Marriages, and Relationships Registration Act 1995 authorises the Registrar-General of Births, Deaths and Marriages to disclose information that an individual is dead or that name change information exists in relation to an individual if a check of the individual's identity information under the Bill discloses that death information or name change information is recorded for that individual.</text>
+              </para>
+            </clause.desc>
+          </explnote.subpart>
+        </explnote.part>
+      </explnote.group>
+    </explnote>
+  </billdetail>
+  <cover id="DLM3136810">
+    <member>Hon Nathan Guy</member>
+    <title>Identity Information Confirmation Bill</title>
+    <billtype>Government Bill</billtype>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM3136811">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM3136812" prov-type="clause">
+    <prov id="DLM3136813" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act is the Identity Information Confirmation Act <changeable>2010</changeable>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM3136814" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <part id="DLM3136815" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="187" bill.type="government" stage="1" year="2010">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Preliminary provisions</heading>
+      <prov id="DLM3136816" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">3</label>
+        <heading>Overview</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>This section is a guide to the general scheme and effect of this Act, but does not affect the interpretation or application of the other provisions of the Act.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Part 1</citation></changeable> deals with preliminary matters, including the purpose of this Act and interpretation.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Part 2</citation></changeable> relates to the confirmation service and miscellaneous matters, including—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>provisions that govern the use of the confirmation service:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>provisions relating to confirmation agreements:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>provisions relating to information and reporting requirements:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">d</label>
+                <para>
+                  <text>the protection of the Crown from liability:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">e</label>
+                <para>
+                  <text>the relationship between this Act and other enactments:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">f</label>
+                <para>
+                  <text>consequential amendments to other enactments.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>The <changeable><citation jurisdiction="nz">Schedule</citation></changeable> sets out consequential amendments to other enactments.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM3136817" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading>Purpose</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>The purpose of this Act is to facilitate the use of an electronic service that allows agencies to confirm identity information about individuals so as to—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>contribute to the prevention of crime (particularly identity-related crimes); and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>ensure that agencies can use and, if necessary, record confirmed identity information.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM3136818" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">5</label>
+        <heading>Interpretation</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>In this Act, unless the context otherwise requires,—</text>
+              <def-para id="DLM3136819">
+                <para>
+                  <text><def-term id="DLM3136820">action</def-term>—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>includes failure to act; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>also includes any policy or practice</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM3136821">
+                <para>
+                  <text><def-term id="DLM3136822">adverse action</def-term> means any action that may adversely affect the rights, benefits, privileges, obligations, or interests of any specific individual</text>
+                </para>
+              </def-para>
+              <def-para id="DLM3136823">
+                <para>
+                  <text><def-term id="DLM3136824">agency</def-term> means a person or body of persons, whether corporate or unincorporate and whether in the public sector or private sector</text>
+                </para>
+              </def-para>
+              <def-para id="DLM3136825">
+                <para>
+                  <text><def-term id="DLM3136826">applicable database</def-term> means any file, register, device, or computer system in or on which information is recorded under each of the following:</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>the Births, Deaths, Marriages, and Relationships Registration Act 1995:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>the Citizenship Act 1977:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>the Passports Act 1992</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM3136827">
+                <para>
+                  <text><def-term id="DLM3136828">chief executive</def-term> means the chief executive of the department</text>
+                </para>
+              </def-para>
+              <def-para id="DLM3136829">
+                <para>
+                  <text><def-term id="DLM3136830">confirmation service</def-term> means the service provided by the responsible officials for the purposes of this Act</text>
+                </para>
+              </def-para>
+              <def-para id="DLM3136831">
+                <para>
+                  <text><def-term id="DLM3136832">department</def-term> means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of either or both of the Citizenship Act 1977 and the Passports Act 1992</text>
+                </para>
+              </def-para>
+              <def-para id="DLM3136833">
+                <para>
+                  <text><def-term id="DLM3136834">identity information</def-term>, in relation to an individual,—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>means any or all of the following information that the individual provides to an agency for the purpose of establishing the individual's identity with the agency:</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para>
+                          <text>the individual's full name:</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para>
+                          <text>the individual's gender:</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">iii</label>
+                        <para>
+                          <text>the individual's date of birth:</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">iv</label>
+                        <para>
+                          <text>the individual's place of birth; and</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>includes any other recorded information relating to the individual (for example, a document or part of a document relating to the individual such as a passport or the passport's number, or the photograph in the passport) that the individual provides to an agency for the purpose of establishing the individual's identity with the agency; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>also includes any information about the status of any other recorded information referred to in <changeable><citation jurisdiction="nz">paragraph (b)</citation></changeable> (for example, the status of the individual's passport or citizenship record)</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM3136835">
+                <para>
+                  <text><def-term id="DLM3136836">identity information check</def-term> means a check that is carried out for the purpose described in <changeable><citation jurisdiction="nz">section 7</citation></changeable></text>
+                </para>
+              </def-para>
+              <def-para id="DLM3136837">
+                <para>
+                  <text><def-term id="DLM3136838">Privacy Commissioner</def-term> means the person who holds that office under section 12 of the Privacy Act 1993</text>
+                </para>
+              </def-para>
+              <def-para id="DLM3136839">
+                <para>
+                  <text><def-term id="DLM3136840">recorded information</def-term> means information that is recorded in or on any or all of the applicable databases</text>
+                </para>
+              </def-para>
+              <def-para id="DLM3136841">
+                <para>
+                  <text><def-term id="DLM3136842">Registrar-General</def-term> has the meaning given to it in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995</text>
+                </para>
+              </def-para>
+              <def-para id="DLM3136843">
+                <para>
+                  <text><def-term id="DLM3136844">responsible officials</def-term> means either or both of the following (as the case may be):</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>the Registrar-General:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>the chief executive.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM3136845" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">6</label>
+        <heading>Act binds the Crown</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>This Act binds the Crown.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+    <part id="DLM3136846" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="187" bill.type="government" stage="1" year="2010">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Provisions relating to confirmation service and miscellaneous matters</heading>
+      <subpart id="DLM3136847" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="187" bill.type="government" stage="1" year="2010">
+        <label auto.number="no" denominator="yes">1</label>
+        <heading>Use of confirmation service</heading>
+        <prov id="DLM3136848" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">7</label>
+          <heading>Purpose of confirmation service</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>The purpose of the confirmation service is to allow an agency to check whether an individual's identity information is consistent with any recorded information.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3136849" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">8</label>
+          <heading>Conditions for using confirmation service</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>An agency may use the confirmation service for an identity information check if— </text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>the agency has obtained the individual's consent before the check is carried out; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the agency has given the confirmation service an assurance that the individual has consented to the check; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text>the agency is a party to a confirmation agreement that complies with <changeable><citation jurisdiction="nz">section 11</citation></changeable>; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">d</label>
+                  <para>
+                    <text>the check is carried out in accordance with the agreement; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">e</label>
+                  <para>
+                    <text>the agency has made an arrangement to pay or has paid any fees and charges payable under the agreement.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>For the purposes of <changeable><citation jurisdiction="nz">subsection (1)(a)</citation></changeable>, an agency may obtain an individual's consent on—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>a one-off basis (that is, for each identity information check); or</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>an ongoing basis (that is, for a series of identity information checks, whether repeated or otherwise).</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>An individual who consents to an identity information check may withdraw the consent before—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>the check is carried out, in the case of a consent given on a one-off basis; or</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>all of the checks, or any further checks, are carried out, in the case of a consent given on an ongoing basis.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3136850" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">9</label>
+          <heading>How to use confirmation service</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>If the conditions specified in <changeable><citation jurisdiction="nz">section 8</citation></changeable> have been complied with, an agency must, in order to use the confirmation service for an identity information check, submit an individual's identity information by any electronic or other means approved by the responsible officials.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>On receiving the individual's identity information, the confirmation service must carry out a search of any or all of the applicable databases (as the case may be) for any recorded information about the individual.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>If it is impracticable for the confirmation service to comply with <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> for any reason, the confirmation service must advise the agency that the identity information check cannot be processed and may ask the agency to resubmit the individual's identity information.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">4</label>
+              <para>
+                <text>The confirmation service must not, at any stage, supply to the agency any recorded information about the individual who is the subject of the search.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">5</label>
+              <para>
+                <text>However, <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable> does not limit or prevent the disclosure of— </text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>information, under <changeable><citation jurisdiction="nz">section 78K</citation></changeable> of the Births, Deaths, Marriages, and Relationships Registration Act 1995, that the individual is dead or that name change information exists in relation to the individual:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>any information about the status of any other recorded information in relation to the individual (for example, whether a passport has been cancelled).</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">6</label>
+              <para>
+                <text>After carrying out the search referred to in <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>, the confirmation service must supply to the agency information about the search result and, in particular, whether any or all of the individual's identity information submitted to the service is consistent with any recorded information.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">7</label>
+              <para>
+                <text>Without limiting <changeable><citation jurisdiction="nz">subsection (6)</citation></changeable>, the information that may be supplied under that subsection generally includes, subject to <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>, one of the following search results:</text>
+                <table align="left" fontsize="11.5" frame="none" id="DLM3136851" leading="13.5">
+                  <tgroup cols="2">
+                    <colspec colname="col1" colwidth="0.56*"/>
+                    <colspec colname="col2" colwidth="1.44*"/>
+                    <tbody>
+                      <row valign="bottom">
+                        <entry colsep="0" rowsep="0">
+                          <emphasis style="bold">Result</emphasis>
+                        </entry>
+                        <entry colsep="0" rowsep="0">
+                          <emphasis style="bold">Description</emphasis>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colsep="0" rowsep="0">Consistent</entry>
+                        <entry align="justify" colsep="0" rowsep="0">Identity information is consistent with recorded information.</entry>
+                      </row>
+                      <row>
+                        <entry colsep="0" rowsep="0">Not consistent</entry>
+                        <entry align="justify" colsep="0" rowsep="0">Identity information is not consistent with recorded information.</entry>
+                      </row>
+                      <row>
+                        <entry colsep="0" rowsep="0">Exception</entry>
+                        <entry align="justify" colsep="0" rowsep="0">One or more of the circumstances described in <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable> applies. The agency may contact the confirmation service for information about which of those circumstances applies (for example, the identity information may relate to an individual who is dead).</entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </table>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">8</label>
+              <para>
+                <text>For the purposes of <changeable><citation jurisdiction="nz">subsections (6) and (7)</citation></changeable>, identity information may be treated as consistent with recorded information despite any variation between them because of pronunciation or punctuation.</text>
+              </para>
+              <example>
+                <heading>Example</heading>
+                <para>
+                  <text>The name <quote.in quote="1">Michele</quote.in> is treated as consistent with the name <quote.in quote="1">Michèle</quote.in> despite the accent written above the first letter <quote.in quote="1">e</quote.in> in the latter.</text>
+                </para>
+                <para>
+                  <text>The name <quote.in quote="1">Steel-Baker</quote.in> is treated as consistent with the name <quote.in quote="1">Steel Baker</quote.in> despite the absence of the hyphen in the latter.</text>
+                </para>
+              </example>
+            </subprov>
+          </prov.body>
+        </prov>
+      </subpart>
+      <subpart id="DLM3136852" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="187" bill.type="government" stage="1" year="2010">
+        <label auto.number="no" denominator="yes">2</label>
+        <heading>Confirmation agreements</heading>
+        <prov id="DLM3136853" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">10</label>
+          <heading>Parties to confirmation agreement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>The responsible officials may enter into a confirmation agreement with an agency if satisfied that it is appropriate to do so after having regard to the following:</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>the nature of the agency's undertaking or activity and whether the agency has a genuine need to use the confirmation service in carrying out that undertaking or activity:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the agency's policies and practices in relation to—</text>
+                    <label-para skeleton="no">
+                      <label auto.number="no" denominator="yes">i</label>
+                      <para>
+                        <text>the security of information; and</text>
+                      </para>
+                    </label-para>
+                    <label-para skeleton="no">
+                      <label auto.number="no" denominator="yes">ii</label>
+                      <para>
+                        <text>the privacy of individuals:</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text>any other matter that the responsible officials consider to be relevant.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>For the purposes of <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, a confirmation agreement must be entered into by—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>the Registrar-General, if the agreement relates to identity information checks against any recorded information under the Births, Deaths, Marriages, and Relationships Registration Act 1995:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the chief executive, if the agreement relates to identity information checks against any recorded information under either or both of the Citizenship Act 1977 and the Passports Act 1992.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>To avoid doubt, the responsible officials—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>have the sole discretion to decide whether to enter into a confirmation agreement with an agency; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>may decide not to do so if either or both of them, as the case may be, are not satisfied in accordance with <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3136854" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">11</label>
+          <heading>Form and content of confirmation agreement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>A confirmation agreement must be in writing.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>A confirmation agreement must—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>state the purpose of the agreement; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>specify which of the applicable databases it applies to.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>In addition, a confirmation agreement must specify the following terms or conditions:</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>how an agency may use the confirmation service; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the conditions for using the confirmation service, including the conditions specified in <changeable><citation jurisdiction="nz">section 8</citation></changeable>; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text>the manner in which the agency may obtain an individual's consent for an identity information check, including the requirement to use a form (if any) approved for the purpose by the responsible officials; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">d</label>
+                  <para>
+                    <text>the circumstances in which an individual's consent for an identity information check that is given on an ongoing basis must be treated as having expired (for example, if the individual ceases to be a customer of the agency or if a certain period of time has elapsed since the date on which the consent was given); and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">e</label>
+                  <para>
+                    <text>the procedures that an agency must follow before taking adverse action against an individual as a result of using the confirmation service, including the requirement to give the individual a reasonable opportunity to make submissions or to be heard; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">f</label>
+                  <para>
+                    <text>an alternative process for dealing with an individual whose identity information cannot be confirmed using the confirmation service because, for example, there is no recorded information about the individual or the individual has not given his or her consent to an identity information check; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">g</label>
+                  <para>
+                    <text>the fees and charges payable for using the confirmation service and the manner in which those fees and charges are to be paid; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">h</label>
+                  <para>
+                    <text>the grounds on which the agreement may be terminated, including the grounds that—</text>
+                    <label-para skeleton="no">
+                      <label auto.number="no" denominator="yes">i</label>
+                      <para>
+                        <text>the responsible officials are no longer satisfied that <changeable><citation jurisdiction="nz">section 10(1)</citation></changeable> can continue to be complied with in respect of the agency; and</text>
+                      </para>
+                    </label-para>
+                    <label-para skeleton="no">
+                      <label auto.number="no" denominator="yes">ii</label>
+                      <para>
+                        <text>the agency has breached, or is likely to breach, the agreement; and</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">i</label>
+                  <para>
+                    <text>the process that must be followed by the responsible officials before exercising any right to terminate the agreement; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">j</label>
+                  <para>
+                    <text>the process for monitoring the agency's compliance with the terms or conditions of the agreement, including the requirement for the agency to keep, for monitoring purposes, records in respect of identity information checks and the requirement to provide those records to the responsible officials when requested; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">k</label>
+                  <para>
+                    <text>the requirement that the responsible officials consult the Privacy Commissioner about the terms or conditions of confirmation agreements, including the consultation requirements in <changeable><citation jurisdiction="nz">sections 12 and 13</citation></changeable>.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">4</label>
+              <para>
+                <text>A confirmation agreement may specify any other terms or conditions that the responsible officials consider to be appropriate.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">5</label>
+              <para>
+                <text>A confirmation agreement may specify different terms or conditions from those contained in another confirmation agreement even though the agencies concerned belong—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>in the same class; or</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>in different classes.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">6</label>
+              <para>
+                <text>A confirmation agreement may be varied by further agreement between the parties.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3136855" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">12</label>
+          <heading>Standard terms or conditions for confirmation agreement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>The responsible officials may develop standard terms or conditions for a confirmation agreement that apply, or are proposed to apply, to particular agencies or classes of agencies, but must consult the Privacy Commissioner while doing so.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>If the responsible officials are proposing to enter into a confirmation agreement that will contain terms or conditions that are materially different from the standard terms or conditions developed under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, the responsible officials may develop alternative terms or conditions for the proposed agreement, but must consult the Privacy Commissioner about those terms or conditions before entering into the agreement.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>If the responsible officials are proposing to vary a confirmation agreement by amending any terms or conditions developed under <changeable><citation jurisdiction="nz">subsection (1) or (2)</citation></changeable> that are contained in the agreement, the responsible officials must consult the Privacy Commissioner about the proposed amendments to those terms or conditions before varying the agreement.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">4</label>
+              <para>
+                <text>However, the requirement to consult the Privacy Commissioner under <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> does not apply if the variation relates to—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>the fees and charges payable under the agreement; or</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>terms or conditions that are minor or incidental in nature.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3136856" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">13</label>
+          <heading>Additional requirement to consult Privacy Commissioner</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>The responsible officials must consult the Privacy Commissioner if either or both of the responsible officials, as the case may be, are proposing to enter into a confirmation agreement that will allow a comparison of an individual's photographic image against any photographic images of that individual that are included in any recorded information about him or her.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3136857" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">14</label>
+          <heading>Periodic review of terms or conditions of confirmation agreements generally</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>The Privacy Commissioner may, at intervals not shorter than 12 months, require the responsible officials to—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>review the terms or conditions of any confirmation agreement (whether or not they are standard terms or conditions developed under <changeable><citation jurisdiction="nz">section 12</citation></changeable>); and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>report on the outcome of the review to the Privacy Commissioner.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>If, after a review under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, the Privacy Commissioner and the responsible officials agree that amendments to the terms or conditions of a confirmation agreement are required, the responsible officials must vary the confirmation agreement to include the amendments to the terms or conditions.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>To avoid doubt, a variation to a confirmation agreement under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> applies only if the agency that is party to the agreement agrees to it.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3136858" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">15</label>
+          <heading>Fees and charges payable under confirmation agreement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>A confirmation agreement may require the agency that is party to the agreement to pay fees and charges to the responsible officials for using the confirmation service.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>The fees and charges—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>must be set at a level that is no more than is necessary to cover the cost of providing the confirmation service; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>may be set using different methods for different agencies or different classes of agencies.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </subpart>
+      <subpart id="DLM3136859" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="187" bill.type="government" stage="1" year="2010">
+        <label auto.number="no" denominator="yes">3</label>
+        <heading>Information and reporting requirements</heading>
+        <prov id="DLM3136860" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">16</label>
+          <heading>List of agencies</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>The responsible officials must—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>maintain a list of agencies that are party to a confirmation agreement; and</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>publish that list on an Internet site that is under the responsible officials' control in an electronic form that is publicly accessible (at all reasonable times) and is free of charge.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3136861" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">17</label>
+          <heading>Privacy Commissioner may require periodic reports on operation of confirmation service</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>The Privacy Commissioner may, at intervals not shorter than 12 months, require the responsible officials to provide the Privacy Commissioner with a report on the operation of the confirmation service.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </subpart>
+      <subpart id="DLM3136862" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="187" bill.type="government" stage="1" year="2010">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading>Miscellaneous</heading>
+        <crosshead id="DLM3136863" toc="yes">Protection from liability</crosshead>
+        <prov id="DLM3136864" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">18</label>
+          <heading>Protection from liability</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>There is no cause of action against the Crown, or a Minister of the Crown, or the responsible officials, or a delegate of the responsible officials, or an employee or a contractor of the department, to recover damages for any loss or damage that is due directly or indirectly to the use of the confirmation service for an identity information check.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text><changeable><citation jurisdiction="nz">Subsection (1)</citation></changeable> applies whether the loss or damage is caused by any person taking any action or failing to take any action, so long as the act or omission occurred in the exercise or performance of his or her functions, duties, or powers under any of the following:</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>this Act:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the Births, Deaths, Marriages, and Relationships Registration Act 1995:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text>the Citizenship Act 1977:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">d</label>
+                  <para>
+                    <text>the Passports Act 1992.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>A person is not exempted from liability under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> for any act or omission to act that constitutes bad faith or gross negligence on the part of that person.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <crosshead id="DLM3136865" toc="yes">Relationship with other enactments</crosshead>
+        <prov id="DLM3136866" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">19</label>
+          <heading>Relationship between this Act and other enactments</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>If there is any inconsistency between this Act and any of the following Acts, or any regulations made under the following Acts, this Act prevails:</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>the Births, Deaths, Marriages, and Relationships Registration Act 1995:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the Citizenship Act 1977:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text>the Passports Act 1992:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">d</label>
+                  <para>
+                    <text>the Privacy Act 1993.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>However, despite <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, this Act must be read subject to sections 76, 77, and 86 of the Births, Deaths, Marriages, and Relationships Registration Act 1995. Accordingly, nothing in this Act authorises the giving of permission to inspect, or the disclosure of, any document containing information to which those sections apply.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>Sections 68 and 78(6) to (8) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 apply for the purposes, and in connection with the operation, of the confirmation service.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <crosshead id="DLM3136867" toc="yes">Consequential amendments to other enactments</crosshead>
+        <prov id="DLM3136868" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">20</label>
+          <heading>Consequential amendments to other enactments</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>The amendments specified in the <changeable><citation jurisdiction="nz">Schedule</citation></changeable> are amended in the manner indicated in that schedule.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </subpart>
+    </part>
+  </body>
+  <schedule.group>
+    <schedule id="DLM3136869" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="187" bill.type="government" stage="1" year="2010">
+      <label auto.number="no" denominator="yes"> </label>
+      <empowering-prov>
+        <changeable>
+          <citation jurisdiction="nz">s 20</citation>
+        </changeable>
+      </empowering-prov>
+      <heading>Consequential amendments to other enactments</heading>
+      <schedule.amendments>
+        <schedule.amendments.group2 id="DLM3136870" toc="yes">
+          <heading>Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16)</heading>
+          <para>
+            <text>New section 78K: insert after section 78J:</text>
+            <amend quote="1">
+              <prov id="DLM3136871" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">78K</label>
+                <heading>Disclosure of certain information for purposes of Identity Information Confirmation Act 2010</heading>
+                <prov.body>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">1</label>
+                    <para>
+                      <text>The Registrar-General may disclose to an agency any information specified in <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> in relation to an individual about whom an identity information check was carried out under <changeable><citation jurisdiction="nz">section 9</citation></changeable> of the Identity Information Confirmation Act <changeable><citation jurisdiction="nz">2010</citation></changeable> if the check indicates that death information or name change information is recorded for that individual.</text>
+                    </para>
+                  </subprov>
+                  <subprov quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">2</label>
+                    <para>
+                      <text>The information referred to in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> is as follows:</text>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">a</label>
+                        <para>
+                          <text>that the individual is dead:</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">b</label>
+                        <para>
+                          <text>that name change information in relation to the individual exists.</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+          <para>
+            <text>New section 87AB: insert after section 87A:</text>
+            <amend quote="1">
+              <prov id="DLM3136872" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">87AB</label>
+                <heading>Access to information for purposes of Identity Information Confirmation Act 2010</heading>
+                <prov.body>
+                  <subprov skeleton="no">
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act <changeable>2010</changeable>.</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </schedule.amendments.group2>
+      </schedule.amendments>
+      <schedule.amendments>
+        <schedule.amendments.group2 id="DLM3136873" toc="yes">
+          <heading>Citizenship Act 1977 (1977 No 61)</heading>
+          <para>
+            <text>New section 26C: insert after section 26B:</text>
+            <amend quote="1">
+              <prov id="DLM3136874" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">26C</label>
+                <heading>Access to information for purposes of Identity Information Confirmation Act 2010</heading>
+                <prov.body>
+                  <subprov skeleton="no">
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act <changeable>2010</changeable>.</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </schedule.amendments.group2>
+        <schedule.amendments.group2 id="DLM3136875" toc="yes">
+          <heading>Passports Act 1992 (1992 No 92)</heading>
+          <para>
+            <text>New section 37A: insert after section 37:</text>
+            <amend quote="1">
+              <prov id="DLM3136876" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                <label auto.number="no" denominator="yes" quote="1">37A</label>
+                <heading>Access to information for purposes of Identity Information Confirmation Act 2010</heading>
+                <prov.body>
+                  <subprov skeleton="no">
+                    <label auto.number="no" denominator="yes"/>
+                    <para>
+                      <text>Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act <changeable>2010</changeable>.</text>
+                    </para>
+                  </subprov>
+                </prov.body>
+              </prov>
+            </amend>
+          </para>
+        </schedule.amendments.group2>
+      </schedule.amendments>
+    </schedule>
+  </schedule.group>
+</bill>
