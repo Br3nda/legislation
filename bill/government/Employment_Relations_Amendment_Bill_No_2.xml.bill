@@ -1,95 +1,535 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM3172502" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2010" bill.no="196" bill.type="government" stage="3" year="2010">
+<bill id="DLM3172502" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2010" bill.no="196" bill.type="government" stage="1" year="2010">
   <billdetail>
     <title>Employment Relations Amendment Bill (No 2)</title>
     <billtype>Government Bill</billtype>
-    <repnote>As reported from the committee of the whole House</repnote>
+    <explnote id="DLM3172503" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="196" bill.type="government" stage="1" year="2010">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
+        <para>
+          <text>This Bill amends the Employment Relations Act 2000 (the <emphasis style="bold">principal Act</emphasis>) to make changes to the following areas:</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>union access to workplaces:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>communications with employees during collective bargaining:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the personal grievance system:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>employment institutions:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>Labour Inspectors’ role and enforcement powers.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>The purpose of the Bill is to provide more flexibility, greater choice, and ensure a balance of fairness for both employers and employees in the principal Act while improving its overall operation and efficiency. These changes will allow for employment problems to be resolved more quickly, reduce costs, support more efficient, effective, and flexible processes around ending the employment relationship, and help restore the confidence of all parties in the personal grievance system and the employment institutions. It is also intended that by assisting employment relationship problems to be resolved more quickly the negative impact of these problems on workplace productivity will be reduced.</text>
+        </para>
+        <explnote.subhead1>Union access to workplaces with consent of employer</explnote.subhead1>
+        <para>
+          <text>The Bill amends the principal Act by providing that union access to workplaces is conditional on the consent of the employer, but such consent may not be unreasonably withheld. The intention is that existing provisions and case law on when access is reasonable will inform notions of when withholding consent is unreasonable. This may include the grounds on which consent has been denied and the manner in which it has been denied. This change is intended to increase levels of choice and fairness for employers by enabling them to regain more control over who is on a worksite, and when. The change recognises that employers have the authority to control who comes into the workplace at any time. This authority is important for a number of reasons, including commercial sensitivity, security, and business productivity. It ensures employers can better determine when access occurs, for example, at a time when business operations are not unduly disrupted.</text>
+        </para>
+        <para>
+          <text>Providing more discretion to employers over how and when unions can access workplaces could result in stronger working relationships between employers and unions because employers would feel more in control of who is visiting, and when. Providing discretion could also enable employers to undertake better business planning; for example, avoiding any unforeseen stoppages and potentially rescheduling activities around employee availability. The intention is not to unreasonably limit access by members of a union to a union representative or unreasonably impede the ability of a union representative to undertake the lawful business of a union (and other matters as set out in section 20 of the principal Act). If an employer denies consent but does not provide reasons in writing for the refusal, the employer would be subject to a penalty action.</text>
+        </para>
+        <explnote.subhead1>Clarifying that communications with employees during collective bargaining may occur</explnote.subhead1>
+        <para>
+          <text>The Bill amends the principal Act to clarify that an employer may communicate directly with the employer's employees while bargaining for a collective employment agreement is underway (and that those communications may include the employer's proposals for the collective agreement), provided that the communications are consistent with the duty of good faith in section 32(1)(d) and section 4 of the principal Act. While the principal Act does not prohibit communication between parties in good faith, there is confusion over what this means. The Bill clarifies, to avoid doubt, that such communications may occur. Creating certainty will improve employers’ ability to undertake normal and essential business functions (for example, communications with staff) where uncertainty had previously caused them to cease such communications.</text>
+        </para>
+        <explnote.subhead1>Personal grievances</explnote.subhead1>
+        <para>
+          <text>The Bill clarifies some aspects of the personal grievance system where there is uncertainty. The changes aim to reduce compliance costs, improve resolution processes, and reduce delays in the personal grievance system.</text>
+        </para>
+        <explnote.subhead2>Extending trial periods to all employers</explnote.subhead2>
+        <para>
+          <text>The Bill extends the ability of employers and employees to agree to trial periods of 90 days or less to firms with 20 or more employees. All other existing provisions for trial periods will apply. The policy intention for trial periods remains the same as the current trial period provision that is limited to firms with less than 20 employees; that is, trial periods can improve labour market flexibility and encourage employers to take on new staff, particularly from groups that face higher levels of labour market disadvantage. Employers will have the confidence to hire new employees without facing a personal grievance on the grounds of dismissal should the employment relationship be terminated within the trial period. It is the Government’s intention that all firms have the opportunity to benefit from the trial period arrangement. Despite other limitations, employees are entitled to raise a personal grievance on the grounds of sexual or racial harassment, discrimination, or unjustified disadvantage. Access to mediation is available at any point.</text>
+        </para>
+        <explnote.subhead2>Amending test of justification in section 103A</explnote.subhead2>
+        <para>
+          <text>In 2004, amendments to the principal Act specified an objective test of justification that requires an employer, in deciding on an action, to consider and balance the legitimate interests of both the employee and employer, and requires the employer’s action and how it was done to be fair and reasonable to both parties in all the circumstances. The 2004 amendments reinstated the word <quote.in quote="1">would</quote.in> in the test of justification.</text>
+        </para>
+        <para>
+          <text>Employers have expressed uncertainty about a number of matters to do with the current test of justification. In relation to those matters, the changes in the Bill aim to address—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the use of the word <quote.in quote="1">would</quote.in>, which is based on a false assumption that there is only 1 possible fair and reasonable course of action that can be taken by an employer (and that anything that deviates from that 1 possible course of action can be neither fair nor reasonable):</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>the current test of justification, which inappropriately obliges the Judge to substitute himself or herself for the employer and determine what the fair and reasonable employer would have done.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>By substituting the word <quote.in quote="1">could</quote.in> for the word <quote.in quote="1">would</quote.in> in the test of justification, the Bill recognises that there is a range of fair and reasonable responses (actions and courses of action) that could be made by an employer in any situation. </text>
+        </para>
+        <para>
+          <text>The Bill explicitly sets out minimum requirements of a fair and reasonable process that the Employment Relations Authority (the <emphasis style="bold">Authority</emphasis>) and the courts must consider in their interpretation of the law. The Bill ensures that the employer’s processes will not be subject to a level of scrutiny that is so pedantic or technical that it means an otherwise justifiable action is considered unjust. The intention of this change is to improve employers' confidence that they will be treated fairly when defending a personal grievance claim. The change is intended to ensure that minor or technical defects in an employer's processes will not mean that an action that is substantially justified can be found to be unjustified. In addition, the Bill specifies that the employer’s resources to deal with personal grievances will be taken into consideration when determining whether a fair process has been followed.</text>
+        </para>
+        <explnote.subhead2>Retaining reinstatement as remedy but removing it as primary remedy</explnote.subhead2>
+        <para>
+          <text>The Bill retains reinstatement as a remedy for a personal grievance where practicable and reasonable, but removes it as the primary remedy under the principal Act. This change reflects common practice as reinstatement is seldom awarded. In the majority of personal grievance cases, the damage to the employment relationship is irreparable. This change would reduce the effort required for employers to demonstrate that reinstatement is neither desirable nor feasible, while having little impact on personal grievance outcomes. The intention is that the remedy remains as an option where practicable and reasonable.</text>
+        </para>
+        <explnote.subhead2>Allowing mediators and Authority to make recommendations on how to resolve employment relationship problem</explnote.subhead2>
+        <para>
+          <text>The Bill provides a new mechanism for the Authority or mediators to assist in bringing a personal grievance matter to a close, thereby achieving settlement quickly and reducing delays and costs for parties. The policy intent of this change is to enable parties to benefit from the experience and expertise of Authority members and mediators by requesting their recommendation in relation to a matter, for example, the process for resolving a problem, matters at issue, or terms of settlement. Parties will have time to consider the recommendation, and either accept or not accept it. Parties are able to benefit from the expertise and experience of the mediator or Authority member without limiting their options if they do not accept the recommendation. If the parties accept a recommendation in relation to terms of settlement, it is intended that these become final and binding in the usual way. Recommendations made under this policy change differ from the mediator’s decision-making power under section 150 of the principal Act, whereby parties who ask a mediator to make a decision are automatically bound by that decision.</text>
+        </para>
+        <explnote.subhead1>Employment institutions </explnote.subhead1>
+        <para>
+          <text>The Bill makes changes relating to employment institutions in order to improve the operation of the system for resolving employment relationship problems. Some of the changes are designed to require the Authority to act in a more formal, prescribed, and consistent manner without undermining the investigative nature of its inquiries. Other changes include clarifying the operation of the Authority, including the accountability of Authority members to the Chief of the Authority and providing greater powers for the Authority to refer cases to the court.</text>
+        </para>
+        <explnote.subhead2>Allowing penalties for obstructive or delaying behaviour</explnote.subhead2>
+        <para>
+          <text>Delays sometimes occur in the system for resolving personal grievances because of the obstructive and deliberate actions of a party. The Bill provides for the Authority to award a monetary penalty against a person (a party or representative) who, without sufficient cause, obstructs or delays an Authority investigation, including failing to attend as a party before an Authority investigation (if required). This penalty may be awarded by the Authority of its own motion or as a result of a party seeking a penalty. The provision of such a penalty is intended to act as a deterrent to delaying tactics by parties or their representatives and so reduce delays caused by such behaviours, improve efficiency, and reduce overall costs of providing problem-resolution services.</text>
+        </para>
+        <explnote.subhead2>Providing for early problem resolution</explnote.subhead2>
+        <para>
+          <text>The Bill explicitly clarifies that mediation services include early problem resolution, and that this may occur without legal representation and at the request of the parties. The intention is to clarify that early problem resolution is available within the range of mediation approaches currently provided under the principal Act, and to encourage the uptake of more flexible options; for example, mediation services can be delivered over the telephone. The reason for this change is to support early and prompt resolution of problems by the parties, highlighting that this can be achieved without the costs associated with legal representation.</text>
+        </para>
+        <explnote.subhead2>Clarifying that minimum entitlements may be matter for mediation but lawful amount may not be subject of negotiation or reduction</explnote.subhead2>
+        <para>
+          <text>The Bill clarifies that minimum entitlements cannot be negotiated away at mediation (thereby breaching the minimum code). Minimum entitlements can still be a matter for consideration in mediation, but the lawful amount of those entitlements (once determined) cannot be the subject of negotiation and possible reduction (that is, they cannot be <quote.in quote="1">traded away</quote.in>). The reason for this change is to maintain the integrity of the minimum code. A mediator will not be able to sign agreed terms of settlement that would have the effect of breaching a party's minimum entitlements.</text>
+        </para>
+        <explnote.subhead2>Enabling minors aged 16 years or over to sign agreed terms of settlement</explnote.subhead2>
+        <para>
+          <text>The Bill enables minors aged 16 or 17 years to sign agreed terms of settlement and for these agreements to be final and binding (as they are for those aged 18 years and over). The principal Act currently undermines the competency of minors to engage fully in employment relationship matters and is inconsistent with the ability of minors to sign an employment agreement with their employer. Currently, a person aged 16 or 17 years has the contractual capacity to enter into an employment relationship and the contractual capacity to settle a personal grievance arising from that relationship at the Authority. Where a minor and the employer enter into a settlement at mediation, the settlement is not considered fully enforceable until the Authority has approved it. The change will mean that minors aged 16 or 17 years are considered to be competent to sign both an employment agreement and any agreed terms of settlement in regard to any employment relationship problem.</text>
+        </para>
+        <explnote.subhead2>Clarifying when parties can go to Authority without mediation</explnote.subhead2>
+        <para>
+          <text>This change is intended to clarify the situations where mediation may be an impractical or inappropriate prerequisite to an Authority investigation. The change is consistent with other changes in the Bill that ensure that the appropriate institutions make decisions on employment disputes.</text>
+        </para>
+        <explnote.subhead2>Promoting mediation as first problem-solving option</explnote.subhead2>
+        <para>
+          <text>Parties sometimes take claims directly to the Authority that could be resolved more quickly and at a lower cost at mediation. This change is intended to reduce the demand on the Authority and encourage parties to attempt mediation first, in line with the objectives of the principal Act. It will allow cases that have been to mediation (but are not settled at mediation, or are only partially settled) to be prioritised by the Authority. This prioritisation is intended to give parties confidence that, by seeking mediation first, they will not be disadvantaged should mediation prove unsuccessful. The Authority will continue to have the discretion to prioritise cases that are not amenable to, or appropriate for, mediation (as may be the case, for example, in some sexual harassment cases or in relation to a demand notice). The change is intended to promote low-cost, low-level employment relationship problem resolution, and thereby reduce the direct costs of employment problems. The change is also likely to reduce delays in the system by encouraging mediation before filing at the Authority.</text>
+        </para>
+        <explnote.subhead2>Allowing only court to issue ex parte freezing order and ex parte search order</explnote.subhead2>
+        <para>
+          <text>The Bill proposes removing the Authority’s powers to issue <emphasis style="italic">ex parte</emphasis> freezing orders and <emphasis style="italic">ex parte</emphasis> search orders and provide that these orders can only be issued by the court. This change will assist in ensuring that each institution in the employment relationship problem resolution system has the powers that are most suited to its role.</text>
+        </para>
+        <explnote.subhead2>Empowering Chief of Authority to oversee operation of Authority</explnote.subhead2>
+        <para>
+          <text>The Bill empowers the Chief of the Authority to oversee the operation of the Authority to improve transparency and accountability, particularly with regard to the conduct and training of the Authority members. Specifically, the Bill empowers the Chief of the Authority to issue instructions that outline expectations regarding the process, timeliness, or any other matters relating to the hearing and determination of matters before the Authority. The changes to the Chief’s powers aim to improve levels of accountability for the Authority’s operation, particularly with regard to the conduct and training of Authority members.</text>
+        </para>
+        <explnote.subhead2>Establishing statutory right of cross-examination</explnote.subhead2>
+        <para>
+          <text>The Bill provides a statutory right to cross-examination in the Authority. Currently, the Authority may permit cross-examination, but this is at the discretion of the Authority member. The change is intended to improve confidence that natural justice processes apply. The Authority will continue to have the ability to control the exercise of this right where, in its view, the cross-examination is not assisting the proper investigation of a matter, or is being conducted in an inappropriate manner.</text>
+        </para>
+        <explnote.subhead2>Empowering Authority to refer cases to court</explnote.subhead2>
+        <para>
+          <text>The Authority currently has the power to remove proceedings to the court but only if one of the parties asks it to do so. The Bill amends the principal Act so that the Authority can remove cases (in their entirety or in part) to the court at its discretion. Removal of a matter or part of a matter to the court would be based on the existing criteria within the principal Act. The intention is to better ensure that problems are resolved by the appropriate legal body and in a timely manner. The court retains the power to refer back to the Authority cases it considers have been inappropriately referred to it by that body.</text>
+        </para>
+        <explnote.subhead2>Filtering out frivolous or vexatious cases</explnote.subhead2>
+        <para>
+          <text>This change would allow the Authority to dismiss frivolous or vexatious claims or defences of claims (or parts of a claim or a defence). This allows the Authority to dismiss cases with little or no merit without them needing to be fully investigated by the Authority, which will reduce costs and avoid stress for parties. An appeal of the Authority’s decision in these instances would go to the court (in line with current practice). If the court does not agree with the Authority’s decision, it would be referred back to the Authority for an investigation.</text>
+        </para>
+        <explnote.subhead2>Requiring Authority to actively consider appropriateness of referring demand notices to mediation</explnote.subhead2>
+        <para>
+          <text>The Bill requires the Authority to actively consider whether it is appropriate to direct demand notices that relate to minimum entitlements (relating to minimum wage and holiday entitlements) to mediation before taking such action. This change adds a new criterion to the existing criteria the Authority must consider before directing a matter to mediation.</text>
+        </para>
+        <explnote.subhead2>Extending application of pre-proceeding discovery</explnote.subhead2>
+        <para>
+          <text>The court has identified that there is a problem obtaining information (<emphasis style="bold">discovery</emphasis>) from a third party before it is clear which employment institution will consider the matter. This change is intended to clarify the law by providing the court with the ability to address applications for pre-proceeding discovery where the court is not the originating body.</text>
+        </para>
+        <explnote.subhead2>Imposing penalty interest for failure to comply with demand notice</explnote.subhead2>
+        <para>
+          <text>Currently, there are limited consequences for employers who do not comply with obligations in relation to wage and holiday entitlements. This change is intended to improve compliance with demand notices and individual minimum entitlements. The penalty interest provides an incentive for employers to adhere to demand notices through ongoing penalties.</text>
+        </para>
+        <explnote.subhead2>Enabling cases that have been inactive for 3 years in Authority to be treated as withdrawn</explnote.subhead2>
+        <para>
+          <text>The existence of an unresolved employment relationship problem and the prospect of it being “resurrected” at any point can be stressful for employers and employees or create uncertainty for them. The Bill provides that personal grievance claims that have not been actively pursued or progressed by a party within 3 years from the last action in respect of that claim be treated as withdrawn. Such a withdrawal would achieve closure for employers and employees in relation to an otherwise unresolved claim. This change is intended to remove a possible source of stress or uncertainty for employers and employees, and improve levels of fairness for them by preventing the pursuit of an historic claim (as the existing period of limitation for filing a claim at the Authority would prevent its re-litigation). Parties will have an incentive to actively pursue a claim knowing that it would be removed from the system at a certain point if they do not do so.</text>
+        </para>
+        <explnote.subhead1>Labour Inspector enforcement powers </explnote.subhead1>
+        <para>
+          <text>Current enforcement levers, in particular, penalties and demand notices, are insufficient and inefficient ways to incentivise compliance with employment legislation by employers. They do not support appropriate responses for low-level non-compliance, nor do they adequately deter severe or long-standing non-compliance. The current system of enforcement does not effectively target non-compliant practices in workplaces. The Bill addresses this inefficiency in the current system and supports greater responsiveness to businesses and a more flexible and efficient use of inspection resources. The changes made by the Bill are intended to strengthen and improve overall compliance and fairness for both employers and employees. These changes will widen the role of Labour Inspectors from a narrow complaints focus to enable a more proactive approach to achieving compliance.</text>
+        </para>
+        <explnote.subhead2>Requiring employers to retain copy of individual employment agreement or current terms and conditions of employment</explnote.subhead2>
+        <para>
+          <text>An employment agreement is the foundation of an employment relationship. The absence of a written employment agreement can lead to uncertainty, disputes, and unnecessary costs in litigation. The intention of the change is to promote compliance with the principal Act, ensure the retention of well-maintained employment agreements which reflect the existing current terms and conditions of employment agreed by both parties, and preserve the integrity of the requirement that employees have provisions that ensure parties have written individual agreements. A failure to comply with these provisions may result in a penalty. The penalty action must be preceded by written notice of the breach to the employer and 7 working days to rectify the breach.</text>
+        </para>
+        <explnote.subhead2>Increasing maximum penalty for non-compliance</explnote.subhead2>
+        <para>
+          <text>The Bill provides that maximum penalties for non-compliance with the principal Act are increased from $5,000 to a maximum of $10,000 for individuals and from $10,000 to a maximum of $20,000 for companies and other bodies corporate. The intention of increasing the penalties is to signal to the courts that breaches are significant and warrant a higher penalty. The current penalty provisions are not adequately deterring non-compliance. Increasing penalties provides an incentive for employers to comply and conveys a public message that breaches of minimum entitlements are not conducive to good commercial practice. This change is intended to promote compliance with employment legislation and not put employers who meet or exceed their employment obligations at a competitive disadvantage.</text>
+        </para>
+        <explnote.subhead2>Defining functions of Labour Inspectors</explnote.subhead2>
+        <para>
+          <text>The Bill specifies the functions of Labour Inspectors under the principal Act, thereby clarifying and giving greater transparency to their role. A lack of clarification about the functions of Labour Inspectors currently constrains their ability to appropriately target problems and incentivise compliant practices across workplaces. Specifying Labour Inspectors' functions in the Bill provides an overall framework for improving the efficiency and effectiveness of the current enforcement regime. It clarifies the role of the Labour Inspector as managing complaints as well as supporting businesses to achieve compliant practices and systems. A legislatively defined role provides public transparency in relation to the expectations of a Labour Inspector. This change is intended to promote sustainable compliance with employment legislation.</text>
+        </para>
+        <explnote.subhead2>Enforceable undertakings</explnote.subhead2>
+        <para>
+          <text>Facilitating problem resolution by enabling Labour Inspectors to resolve complaints about breaches of the minimum code is not integrated into the current compliance system as a statutory measure. The Bill introduces enforceable undertakings so Labour Inspectors can negotiate an outcome of compliant practice, with willing employers, and enforce those undertakings if necessary. It is intended that if the employer does not comply with a written undertaking, the matter will be enforced through the Authority or the court. The enforceable undertaking will provide a means to acknowledge a commitment in good faith to address non-compliance. This change is intended to reduce costs for employers and employees. Enforceable undertakings may also reduce the possibility of the matter proceeding to the employment institutions and therefore reduce the amount of time required by Labour Inspectors to enforce compliance.</text>
+        </para>
+        <explnote.subhead2>Improvement notices</explnote.subhead2>
+        <para>
+          <text>The Bill provides that Labour Inspectors may issue statutory improvement notices. This is to create an incentive for non-compliant employers to improve practice. The improvement notice draws on the mechanism currently available to health and safety inspectors under the Heath and Safety in Employment Act 1992. Improvement notices have the aim of both avoiding litigation and encouraging a co-operative approach to compliance. It is intended that improvement notices provide a practical addition to the employment relations enforcement framework.</text>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Regulatory impact statement</heading>
+        <para>
+          <text>The Department of Labour produced a regulatory impact statement on 4 June 2010 to help inform the main policy decisions taken by the Government relating to the contents of this Bill.</text>
+        </para>
+        <para>
+          <text>A copy of this regulatory impact statement can be found at—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>
+                  <citation jurisdiction="nz">
+                    <extref href="www.dol.govt.nz/publications/general/gen-ris.asp">www.dol.govt.nz/publications/general/gen-ris.asp</extref>
+                  </citation>
+                </text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>
+                  <citation jurisdiction="nz">
+                    <extref href="www.treasury.govt.nz/publications/informationreleases/ris">www.treasury.govt.nz/publications/informationreleases/ris</extref>
+                  </citation>
+                </text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 2</emphasis> is the commencement clause. <emphasis style="italic">Clause 10</emphasis> (which inserts <emphasis style="italic">new section 64</emphasis> into the principal Act) comes into force on 1 July 2001. The rest of the Bill comes into force on 1 April 2011.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 3</emphasis> provides that the Bill amends the Employment Relations Act 2000.</text>
+          </para>
+        </clause.desc>
+        <explnote.part id="DLM3172504">
+          <label auto.number="no" denominator="yes">1  </label>
+          <heading>Amendments to principal Act</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4</emphasis> amends section 5, which is the main interpretation provision in the principal Act. The amendment inserts new definitions of the terms minimum entitlements and relevant Acts.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5</emphasis> amends section 20, which relates to access to workplaces by a representative of a union. The amendment inserts cross-references to <emphasis style="italic">new section 20A</emphasis> (as inserted by <emphasis style="italic">clause 6</emphasis>).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> inserts <emphasis style="italic">new section 20A</emphasis>, which provides that—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a representative of a union must obtain an employer's or a representative of the employer's consent before entering a workplace:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the employer or representative of the employer must not unreasonably withhold consent to the request by a representative of a union to enter the workplace:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the employer or representative of the employer must advise the representative of the union of the employer's or representative of the employer's decision in relation to the request as soon as is reasonably practicable but no later than 2 working days after receiving the request:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the employer's or representative of the employer's consent to a request by a representative of a union is to be treated as having been given if the employer or representative of the employer does not respond to the request within 2 working days of receiving the request:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>if the employer or representative of the employer withholds consent to a request by a representative of a union to enter the workplace, the employer or representative of the employer must, within 2 working days of the decision, give reasons in writing to the representative of the union who made the request.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 7</emphasis> consequentially repeals section 21(5).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 8</emphasis> amends section 25, which imposes a penalty in relation to certain acts in relation to entering a workplace. The amendment inserts <emphasis style="italic">new section 25(a) and (ab)</emphasis>, which impose a penalty in relation to unreasonably withholding consent in relation to a request by a representative of a union to enter a workplace under <emphasis style="italic">new section 20A(2)(a)</emphasis> and failing to give reasons in writing for withholding consent in accordance with <emphasis style="italic">new section 20A(3)</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9</emphasis> amends section 32, which specifies, as a minimum, what the duty of good faith in section 4 requires a union and an employer to do in bargaining for a collective agreement. The amendment adds <emphasis style="italic">new section 32(6)</emphasis>, which clarifies that nothing in section 32 prevents an employer from communicating with the employer's employees during collective bargaining (including the employer's proposals for the collective agreement) as long as the communication is consistent with section 32(1)(d) and section 4.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 10</emphasis> inserts <emphasis style="italic">new section 64</emphasis>, which requires an employer to retain a signed copy of the employee's individual employment agreement or the current terms and conditions of employment that make up the employee's individual terms and conditions of employment. <emphasis style="italic">New section 64(2)</emphasis> provides that if the employer has provided an employee with an intended agreement or part of an intended agreement under section 63A(2)(a), the employer must retain a copy of that agreement even if the employee has not signed the agreement. <emphasis style="italic">New section 64(3) and (4)</emphasis> provide that an employer who fails to comply with <emphasis style="italic">new section 64(1) or (2)</emphasis> is liable, in an action brought by a Labour Inspector, to a penalty imposed by the Authority.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 11</emphasis> amends section 65, which relates to an employee's terms and conditions of employment where no collective agreement applies. The amendment adds <emphasis style="italic">new section 65(4)</emphasis>, which provides that an employer who fails to comply with section 65 is liable, in an action brought by a Labour Inspector, to a penalty imposed by the Authority.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 12</emphasis> amends section 67A, which states when an employment agreement may contain a provision for a trial period of 90 days or less (a <emphasis style="bold">trial period</emphasis>). The effect of the amendments to section 67A(1) and (4) are to enable any employer to enter into an employment agreement that contains a trial period instead of the current situation that only enables employers who employ fewer than 20 employees to enter into such agreements.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 13</emphasis> repeals section 101(c), which states that one of the objects of Part 9 of the principal Act (which contains provisions relating to personal grievances, disputes, and enforcement) is to recognise the importance of reinstatement as a remedy. The provision is being repealed because of the changes to section 125(2), which provide that the Authority may provide for reinstatement (whether or not it provides for any other remedies in section 123) if it is practicable and reasonable to do so.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 14</emphasis> substitutes <emphasis style="italic">new section 103A</emphasis>, which sets out the test that the Employment Relations Authority (the <emphasis style="bold">Authority</emphasis>) or the Employment Court (the <emphasis style="bold">court</emphasis>) must apply in determining whether a dismissal or an action by an employer was justifiable. <emphasis style="italic">New section 103A(2)</emphasis> refocuses the test of justification by looking at whether the employer's actions, and how the employer acted, were what a fair and reasonable employer could have done. <emphasis style="italic">New section 103A(3)</emphasis> specifies how the Authority or the court must apply the test in <emphasis style="italic">new section 103A(2)</emphasis> and the factors it must consider. <emphasis style="italic">New section 103A(5)</emphasis> provides that the Authority or the court must not determine a dismissal or action to be unjustifiable solely because of defects in the process followed by the employer if those defects were minor or technical and did not result in the employee being treated unfairly.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 15</emphasis> substitutes <emphasis style="italic">new section 125</emphasis>, which provides for the remedy of reinstatement. The effect of the amendment is that the Authority may, whether or not it provides for any of the other remedies in section 123, provide for reinstatement if it is practicable and reasonable to do so.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 16</emphasis> inserts <emphasis style="italic">new section 134A</emphasis>, which provides that every person who, without sufficient cause, obstructs or delays an Authority investigation is liable to a penalty imposed by the Authority. A penalty action may be brought by the Authority on its own motion or by a party.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 17</emphasis> amends section 135, which relates to the recovery of penalties in the Authority or the court. <emphasis style="italic">Subclause (1)</emphasis> increases the maximum penalty that an individual may be liable to from $5,000 to $10,000. <emphasis style="italic">Subclause (2)</emphasis> increases the maximum penalty that a company or other corporation may be liable to from $10,000 to $20,000. <emphasis style="italic">Subclause (3)</emphasis> inserts <emphasis style="italic">new section 135(4B)</emphasis>, which provides that in determining whether to give judgment for a penalty and the amount of the penalty, the Authority or the court must consider whether the person against whom the penalty is sought has previously failed to comply with an improvement notice issued under <emphasis style="italic">new section 223D</emphasis> (as inserted by <emphasis style="italic">clause 36</emphasis>).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 18</emphasis> amends section 137, which relates to the power of the Authority to order compliance with the provisions of any employment agreement, the provisions of specified Acts, or any order, determination, or requirement made or given by the Authority. The amendment inserts <emphasis style="italic">new section 137(1)(a)(iiia) and (iiib)</emphasis>, which enable the Authority to order compliance with an enforceable undertaking agreed under <emphasis style="italic">new section 223B</emphasis> and an improvement notice issued by a Labour Inspector under <emphasis style="italic">new section 223D</emphasis> (as inserted by <emphasis style="italic">clause 36</emphasis>).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 19</emphasis> amends section 138, which sets out further provisions relating to compliance orders by the Authority. The amendment inserts <emphasis style="italic">new section 138(1)(b)(iii)</emphasis>, which provides that the power given to the Authority by section 137(2) to order compliance may be exercised by a Labour Inspector in the case of an enforceable undertaking agreed under <emphasis style="italic">new section 223B</emphasis>, an improvement notice issued under <emphasis style="italic">new section 223D</emphasis>, or a demand notice served under section 224.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 20</emphasis> amends section 147, which specifies procedures in relation to mediation services. The amendment inserts <emphasis style="italic">new section 147(2)(ac)</emphasis>, which provides that a person providing mediation services may assist the parties to the problem or dispute to resolve the matter at an early stage by discussing the problem with a party without the representative of that party being present. </text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 21</emphasis> inserts <emphasis style="italic">new section 148A</emphasis>, which clarifies that minimum entitlements may be the subject of mediation. <emphasis style="italic">New section 148(2)</emphasis> provides that a person who is employed or engaged by the chief executive of the Department of Labour (the <emphasis style="bold">chief executive</emphasis>) to provide mediation services, and who holds a general authority to sign agreed terms of settlement under section 149, must not sign agreed terms of settlement in which a party agrees to forgo all, or part, of the party's minimum entitlements.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 22</emphasis> amends section 149, which relates to the settlement of employment relationship problems by agreed terms of settlement. The amendment inserts <emphasis style="italic">new section 149(3A)</emphasis>, which provides that a minor aged 16 years or over may be a party to agreed terms of settlement and may be bound by that settlement, as if the minor were a person of full age and capacity. <emphasis style="italic">Schedule 2</emphasis> makes a related amendment to section 12(8) of the Minors' Contracts Act 1969.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 23</emphasis> inserts <emphasis style="italic">new section 149A</emphasis>, which provides that the parties to an employment relationship problem may agree in writing to confer the power to make a written and binding recommendation in relation to the matters in issue on a person employed or engaged by the chief executive to provide mediation services.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 24</emphasis> substitutes<emphasis style="italic"> new section 151</emphasis>, which relates to the enforcement of agreed or authorised settlements. Aside from reorganising the provision, the main change is to insert a cross-reference to enforceable recommendations made under <emphasis style="italic">new section 149A</emphasis>.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 25</emphasis> amends section 157, which relates to the role of the Authority. The amendment repeals section 157(2A) and (3) and substitutes <emphasis style="italic">new section 157(3)</emphasis>. Aside from reorganising the existing provision, the main changes are to remove the provision relating to cross-examination (current subsection (2A) as this matter is now covered by <emphasis style="italic">new section 173</emphasis> (as substituted by <emphasis style="italic">clause 32</emphasis>) and to include in <emphasis style="italic">new section 157(3)</emphasis> a reference to regulations made under the principal Act.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 26</emphasis> amends section 159, which sets out the duty of the Authority to consider mediation. <emphasis style="italic">Subclause (1)</emphasis> adds <emphasis style="italic">new section 159(1)(b)(iv)</emphasis>, which requires the Authority to consider whether the use of mediation or further mediation will be otherwise impracticable or inappropriate in the circumstances. <emphasis style="italic">Subclause (2)</emphasis> inserts <emphasis style="italic">new section 159(1A)</emphasis>, which provides that if the matter before the Authority relates to a demand notice, the Authority must before giving a direction under section 159(1)(b) or (1)(c), consider whether it is appropriate to direct that mediation or further mediation to be used in order to prevent a matter from being resolved in a manner that involves a reduction of minimum entitlements.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 27</emphasis> inserts <emphasis style="italic">new section 159A</emphasis>, which provides that the Authority must give priority to determining matters that come before it in which an attempt has been made to resolve the matter by mediation over any other matters in which mediation has not been used or directed, unless it would be inappropriate having regard to section 159(1) or (1A).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 28</emphasis> amends section 162, which provides that the Authority may, in any matter related to an employment agreement, make any order that the High Court or a District Court may make under any enactment or rule of law relating to contracts. The amendment adds <emphasis style="italic">new section 162(2)</emphasis> which provides that, despite the general rule in subsection (1), the Authority may not make an <emphasis style="italic">ex parte</emphasis> freezing order or an <emphasis style="italic">ex parte</emphasis> search order as provided for in the High Court Rules.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 29</emphasis> consequentially repeals section 166(3), which sets out the responsibilities of the Chief of the Authority, because this provision is covered by <emphasis style="italic">new section 166A</emphasis> (as inserted by <emphasis style="italic">clause 30</emphasis>).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 30</emphasis> inserts <emphasis style="italic">new section 166A</emphasis>, which sets out the role of the Chief of the Authority (the <emphasis style="bold">Chief</emphasis>). In addition to carrying over current section 166(3), the new provision states that the Chief may issue instructions (not inconsistent with the principal Act or regulations made under it) that outline expectations in respect of the process, timeliness, or any other matters relating to the hearing and determination of matters before the Authority. <emphasis style="italic">New section 166A(3)</emphasis> also provides that the Chief may provide a report under <emphasis style="italic">new section 169(3)</emphasis> to the Minister responsible for the administration of the principal Act (the <emphasis style="bold">Minister</emphasis>) in respect of any member of the Authority's adherence and compliance with instructions that the Chief has given.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 31</emphasis> amends section 169, which relates to the term of office of members of the Authority. The amendment adds <emphasis style="italic">new section 169(3)</emphasis>, which provides that before recommending the reappointment of a member under section 167(1), the Minister must consider a report from the Chief under <emphasis style="italic">new section 166A(3)</emphasis>, if one has been made.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 32</emphasis> substitutes <emphasis style="italic">new sections 173 and 173A</emphasis>. <emphasis style="italic">New section 173</emphasis> relates to procedures of the Authority and carries over most of the provisions of current section 173. Aside from reorganising and renumbering the provision, the main changes are that—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><emphasis style="italic">new section 173(2)</emphasis> provides that in complying with the principles of natural justice, the Authority must allow the cross-examination of a party or a person to the same extent as if the party or person were a witness in a proceeding to which the Evidence Act 2006 applies:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>current section 173(4) has not been re-enacted because the provision is now covered by <emphasis style="italic">new section 166A</emphasis>.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text><emphasis style="italic">New section 173A</emphasis> provides that a member of the Authority may, on the request of the parties to an employment relationship problem, make a binding recommendation to the parties in relation to the matters in issue.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 33</emphasis> substitutes <emphasis style="italic">new section 178(1)</emphasis>, which provides that the Authority may, of its own motion or on the application of a party, order the removal of a matter, or part of a matter, to the court.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 34</emphasis> inserts <emphasis style="italic">new section 178A</emphasis>, which provides that a party to a matter before the Authority that was dismissed because the Authority determined that the matter was frivolous or vexatious under <emphasis style="italic">new clause 12A of Schedule 2</emphasis> (as inserted by <emphasis style="italic">Part 1 of Schedule 1</emphasis>) may appeal that determination to the court. <emphasis style="italic">New section 178A(4)</emphasis> provides that if the court determines that the matter is not frivolous or vexatious, it may order the Authority to investigate and determine the matter.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 35</emphasis> consequentially amends section 190, which relates to the application of the other provisions of the principal Act to the court. <emphasis style="italic">Subclause (1)</emphasis> updates a cross-reference. <emphasis style="italic">Subclause (2)</emphasis> clarifies, to avoid doubt, that the prohibition on the Authority making an <emphasis style="italic">ex parte</emphasis> freezing order or<emphasis style="italic"> ex parte</emphasis> search order under the High Court Rules set out in <emphasis style="italic">new section 162(2)</emphasis> does not apply to the court.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 36</emphasis> inserts <emphasis style="italic">new sections 223A to 223G</emphasis>, which set out the functions of Labour Inspectors, the ability of a Labour Inspector and an employer to agree on enforceable undertakings, and the power of Labour Inspectors to issue improvement notices.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 37</emphasis> substitutes <emphasis style="italic">new section 228(2)</emphasis>, which relates to actions by Labour Inspectors. The amendment clarifies that if a Labour Inspector commences an action in the name and on the behalf of an employee to recover any wages or holiday pay or other money payable by an employer to that employee, the Labour Inspector must not issue an improvement notice under <emphasis style="italic">new section 223D</emphasis> in respect of the same wages or holiday pay or other money.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 38</emphasis> and <emphasis style="italic">Schedule 1</emphasis> amend Schedule 2 of the principal Act (provisions having effect in relation to the Authority) and Schedule 3 of the principal Act (provisions having effect in relation to the court). The main changes in relation to the Authority are that—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the rate of interest that may be awarded by the Authority is aligned with the rate prescribed under section 87(3) of the Judicature Act 1908. Also, in deciding whether to order interest, the Authority must consider whether there has been long-standing and repeated non-compliance with a demand notice (<emphasis style="italic">new clause 11</emphasis> of Schedule 2):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the Authority may, at any time in proceedings before it, dismiss a matter or defence that the Authority considers to be frivolous or vexatious (<emphasis style="italic">new clause 12A</emphasis> of Schedule 2):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>a matter before the Authority must be treated as having been withdrawn if no action on the matter has been taken by the applicant, the appellant, or the Authority for at least 3 years (<emphasis style="italic">new clause 14(2)</emphasis> of Schedule 2).</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text>The main changes in relation to the court are that—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the court may, in relation to discovery in relation to proceedings brought or intended to be brought in the court or the Authority, make any order that a District Court may make under sections 56A or 56B of the District Courts Act 1947 (<emphasis style="italic">new clause 13(1)</emphasis> of Schedule 3):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the rate of interest that may be awarded by the court is aligned with the rate prescribed under section 87(3) of the Judicature Act 1908 (clause 14(1) of Schedule 3):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the power of the court to dismiss any matter or defence before it that it considers is frivolous or trivial is aligned with the power given to the Authority to dismiss a matter or defence that it considers is frivolous or vexatious (<emphasis style="italic">new clause 15</emphasis> of Schedule 3):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>it is made clear that the withdrawal of claims by 1 party does not affect any other matters before the court that form part of the same proceedings (<emphasis style="italic">new clause 18(2)</emphasis> of Schedule 3).</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM3172505">
+          <label auto.number="no" denominator="yes">2  </label>
+          <heading>Other amendments and transitional provisions</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 39</emphasis> and <emphasis style="italic">Schedule 2</emphasis> make consequential amendments to other enactments.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 40</emphasis> is a transitional provision. </text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from the committee of the whole House</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM3172506">
     <member>Hon Kate Wilkinson</member>
     <title>Employment Relations Amendment Bill (No 2)</title>
@@ -145,8 +585,8 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM3172512" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="196" bill.type="government" stage="3" year="2010"/>
-    <part id="DLM3172513" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="196" bill.type="government" stage="3" year="2010">
+    <part id="DLM3172512" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="196" bill.type="government" stage="1" year="2010"/>
+    <part id="DLM3172513" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="196" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Amendments to principal Act</heading>
       <prov id="DLM3172514" irdnumbering="no" skeleton="no" toc="yes">
@@ -158,11 +598,6 @@
             <para>
               <text>Section 5 is amended by inserting the following definitions in their appropriate alphabetical order:</text>
               <amend increment="1" quote="1">
-                <def-para id="DLM3331905" quote="1">
-                  <para quote="1">
-                    <text><def-term id="DLM3331906">intended agreement</def-term> includes part of an intended agreement</text>
-                  </para>
-                </def-para>
                 <def-para id="DLM3172515" quote="1">
                   <para quote="1">
                     <text><def-term id="DLM3172516">minimum entitlements</def-term> means wages or holiday pay or other money payable by the employer to the employee under the Minimum Wage Act 1983 or the Holidays Act 2003</text>
@@ -235,7 +670,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>the employer or representative of the employer must advise the representative of the union of the employer's or representative of the employer's decision as soon as is reasonably practicable but no later than the working day after the date on which the request was received; and</text>
+                            <text>the employer or representative of the employer must advise the representative of the union of the employer's or representative of the employer's decision as soon as is reasonably practicable but no later than 2 working days after the date on which the request was received; and</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
@@ -249,7 +684,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>If an employer or a representative of an employer withholds consent under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>, the employer or representative of the employer must, as soon as is reasonably practicable but no later than the working day after the date of the decision, give reasons in writing for that decision to the representative of the union who made the request.</text>
+                        <text>If an employer or a representative of an employer withholds consent under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>, the employer or representative of the employer must, within 2 working days after the decision, give reasons in writing for that decision to the representative of the union who made the request.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -324,24 +759,6 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov id="DLM3331907" irdnumbering="no" skeleton="no" toc="yes">
-        <label auto.number="no" denominator="yes">9A</label>
-        <heading>Bargaining for individual employment agreement or individual terms and conditions in employment agreement</heading>
-        <prov.body>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>Section 63A(2)(a) is amended by omitting <amend.in quote="1">, or the part of the intended agreement,</amend.in>.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>Section <struckoutwords amend.level1="struckout-cowh">63(2)(b)</struckoutwords> <insertwords amend.level1="insert-cowh">63A(2)(b)</insertwords> is amended by omitting <amend.in quote="1">or any part of the intended agreement</amend.in>.</text>
-            </para>
-          </subprov>
-        </prov.body>
-      </prov>
       <prov id="DLM3172525" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">10</label>
         <heading>New section 64 inserted</heading>
@@ -364,35 +781,17 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>If an employer has provided an employee with an intended agreement under section 63A(2)(a), the employer must retain a copy of that intended agreement even if the employee has not— </text>
+                        <text>If an employer has provided an employee with an intended agreement or part of an intended agreement under section 63A(2)(a), the employer must retain a copy of that agreement even if the employee has not— </text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>signed the intended agreement; or</text>
+                            <text>signed the agreement; or</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>agreed to any of the terms and conditions specified in the intended agreement.</text>
-                          </para>
-                        </label-para>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">2A</label>
-                      <para>
-                        <text>If requested by the employee, the employer must, as soon as is reasonably practicable, provide the employee with a copy of the employee's—</text>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">a</label>
-                          <para>
-                            <text>individual employment agreement or current terms and conditions of employment retained under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>; or</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">b</label>
-                          <para>
-                            <text>intended agreement retained under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable>.</text>
+                            <text>agreed to any of the terms and conditions specified in the agreement.</text>
                           </para>
                         </label-para>
                       </para>
@@ -400,7 +799,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>An employer who fails to comply with <changeable><citation jurisdiction="nz">subsection (1), (2), or (2A)</citation></changeable> is liable, in an action brought by a Labour Inspector, to a penalty imposed by the Authority.</text>
+                        <text>An employer who fails to comply with <changeable><citation jurisdiction="nz">subsection (1) or (2)</citation></changeable> is liable, in an action brought by a Labour Inspector, to a penalty imposed by the Authority.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -417,24 +816,6 @@
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
                             <text>give the employer 7 working days to remedy the breach.</text>
-                          </para>
-                        </label-para>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">5</label>
-                      <para>
-                        <text>To avoid doubt, an intended agreement must not be treated as the employee's employment agreement if the employee has not—</text>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">a</label>
-                          <para>
-                            <text>signed the intended agreement; or</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">b</label>
-                          <para>
-                            <text>agreed to any of the terms and conditions specified in the intended agreement.</text>
                           </para>
                         </label-para>
                       </para>
@@ -564,13 +945,13 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
-                            <text>minor; and</text>
+                            <text>minor or technical; and</text>
                           </para>
                         </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>did not result in the employee being treated unfairly.</text>
+                            <text>did not result in the probability that the employee was treated unfairly.</text>
                           </para>
                         </label-para>
                       </para>
@@ -761,7 +1142,7 @@
                 <label-para quote="1" skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">ac</label>
                   <para>
-                    <text>may assist the parties to resolve a problem at an early stage, including, at the request of a party, discussing the problem with that party without any representative of that party being present; and</text>
+                    <text>may assist the parties to resolve a problem at an early stage, including discussing the problem with a party without any representative of that party being present; and</text>
                   </para>
                 </label-para>
               </amend>
@@ -1071,7 +1452,7 @@
                 <subprov skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">1A</label>
                   <para>
-                    <text>If the matter before the Authority was brought by a Labour Inspector and relates to an employee's minimum entitlements, the Authority must, before giving a direction under subsection (1)(b) or (c), consider whether it is appropriate to direct that mediation or further mediation be used in order to prevent the matter being resolved in a manner that involves a reduction of those minimum entitlements.</text>
+                    <text>If the matter before the Authority relates to a demand notice, the Authority must, before giving a direction under subsection (1)(b) or (c), consider whether it is appropriate to direct that mediation or further mediation be used in order to prevent the matter being resolved in a manner that involves a reduction of minimum entitlements.</text>
                   </para>
                 </subprov>
               </amend>
@@ -1111,33 +1492,19 @@
           </subprov>
         </prov.body>
       </prov>
-      <prov id="DLM3331908" irdnumbering="no" skeleton="no" toc="yes">
+      <prov id="DLM3172551" irdnumbering="no" skeleton="no" toc="yes">
         <label auto.number="no" denominator="yes">28</label>
-        <heading>Powers of Authority</heading>
+        <heading>Application of law relating to contracts</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
+            <label auto.number="no" denominator="yes"/>
             <para>
-              <text>Section 160 is amended by inserting the following subsection after subsection (2):</text>
+              <text>Section 162 is amended by adding the following subsection as subsection (2):</text>
               <amend quote="1">
                 <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">2A</label>
+                  <label auto.number="no" denominator="yes" quote="1">2</label>
                   <para>
-                    <text>The Authority must allow cross-examination of a party or a person to the extent that is consistent with subsection (2).</text>
-                  </para>
-                </subprov>
-              </amend>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>Section 160 is amended by adding the following subsection:</text>
-              <amend quote="1">
-                <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">4</label>
-                  <para>
-                    <text>The Authority may not make a freezing order or search order as provided for in the High Court Rules.</text>
+                    <text>Despite subsection (1), the Authority may not make an <emphasis style="italic">ex parte</emphasis> freezing order or an <emphasis style="italic">ex parte</emphasis> search order as provided for in the High Court Rules.</text>
                   </para>
                 </subprov>
               </amend>
@@ -1283,9 +1650,15 @@
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>To avoid doubt, in complying with <changeable><citation jurisdiction="nz">subsection (1)(a)</citation></changeable>, the Authority must allow cross-examination of a party or a person to the same extent as if the party or person were a witness in a proceeding to which the Evidence Act 2006 applies.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>The Authority may exercise its powers under section 160 in the absence of 1 or more of the parties.</text>
+                        <text>The Authority may exercise its powers under section 160(1) in the absence of 1 or more of the parties.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -1309,7 +1682,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">5</label>
                       <para>
-                        <text>To avoid doubt, <changeable><citation jurisdiction="nz">subsections (3) and (4)</citation></changeable> do not limit the powers of the Authority to make <emphasis style="italic">ex parte</emphasis> orders (except a freezing order or search order as provided for in the High Court Rules).</text>
+                        <text>To avoid doubt, <changeable><citation jurisdiction="nz">subsections (3) and (4)</citation></changeable> do not limit the powers of the Authority to make <emphasis style="italic">ex parte </emphasis>orders (except a freezing order or search order under the High Court Rules).</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -1343,7 +1716,7 @@
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
-                            <text>on the date on which the member's recommendation will become final, unless the parties do not accept the recommendation.</text>
+                            <text>on the date on which the member's recommendation will become final, unless the parties to do not accept the recommendation.</text>
                           </para>
                         </label-para>
                       </para>
@@ -1396,12 +1769,6 @@
                         <text>If a party does not give notice under <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable>, the recommendation becomes final and must be treated as the Authority's determination of the matter.</text>
                       </para>
                     </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">6</label>
-                      <para>
-                        <text>However, a recommendation under <changeable><citation jurisdiction="nz">subsection (5)</citation></changeable> need not comply with section 174(a) (which relates to the content of a determination made by the Authority).</text>
-                      </para>
-                    </subprov>
                   </prov.body>
                 </prov>
               </amend>
@@ -1446,18 +1813,18 @@
               <amend quote="1">
                 <prov id="DLM3172561" irdnumbering="no" quote="1" skeleton="no" toc="yes">
                   <label auto.number="no" denominator="yes" quote="1">178A</label>
-                  <heading>Challenge in respect of dismissal of frivolous or vexatious proceedings</heading>
+                  <heading>Appeal to court in respect of dismissal of frivolous or vexatious proceedings</heading>
                   <prov.body>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>A party to a matter before the Authority that was dismissed because the Authority determined it was frivolous or vexatious under <changeable><citation jurisdiction="nz">clause 12A of Schedule 2</citation></changeable> may challenge that determination in the court.</text>
+                        <text>A party to a matter before the Authority that was dismissed because the Authority determined it was frivolous or vexatious under <changeable><citation jurisdiction="nz">clause 12A of Schedule 2</citation></changeable> may appeal to the court against that determination.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>A challenge under this section must be made in the prescribed manner within 28 days after the date that the matter is dismissed by the Authority.</text>
+                        <text>An appeal under this section must be made in the prescribed manner within 28 days after the date that the matter is dismissed by the Authority.</text>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -1484,14 +1851,20 @@
         <heading>Application of other provisions</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="no"/>
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Section 190(2) is amended by omitting <amend.in quote="1">sections 162</amend.in> and substituting <amend.in quote="1">sections 162(1)</amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
             <para>
               <text>Section 190 is amended by adding the following subsection:</text>
               <amend quote="1">
                 <subprov skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">3</label>
                   <para>
-                    <text>In addition to the powers described in subsection (1), the court has the same powers of the High Court to make a freezing order and a search order as provided for in the High Court Rules.</text>
+                    <text>To avoid doubt, the court has the power to make an <emphasis style="italic">ex parte</emphasis> freezing order and an <emphasis style="italic">ex parte</emphasis> search order as provided for in the High Court Rules.</text>
                   </para>
                 </subprov>
               </amend>
@@ -1683,12 +2056,6 @@
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">4A</label>
-                      <para>
-                        <text>An improvement notice may not be issued in the period commencing on 17 December and ending with the close of 8 January in the following year.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">5</label>
                       <para>
                         <text>An improvement notice may be enforced by the making by the Authority of a compliance order under section 137.</text>
@@ -1812,7 +2179,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM3172576" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="196" bill.type="government" stage="3" year="2010">
+    <part id="DLM3172576" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="196" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Consequential amendments and transitional provision</heading>
       <prov id="DLM3172577" irdnumbering="no" skeleton="no" toc="yes">
@@ -1842,7 +2209,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule id="DLM3172579" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="196" bill.type="government" stage="3" year="2010">
+    <schedule id="DLM3172579" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="196" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="yes">1 </label>
       <empowering-prov>
         <changeable>
@@ -1878,7 +2245,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text><changeable><citation jurisdiction="nz">Subclause (1)</citation></changeable> does not authorise the giving of interest upon interest.</text>
+                        <text><changeable><citation jurisdiction="nz">Subclause (1)</citation></changeable> does not authorises the giving of interest upon interest.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1904,7 +2271,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>In any such case, the order of the Authority may include an order for payment of costs and expenses against the party bringing the matter or defence.</text>
+                        <text>In any such case, the order of the Authority may be limited to an order for payment of costs and expenses against the party bringing the matter or defence.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1920,7 +2287,7 @@
                 <subprov skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">2</label>
                   <para>
-                    <text>For the purposes of subclause (1), a matter before the Authority must be treated as having been withdrawn if no action on the matter has been taken by a party or the Authority for at least 3 years.</text>
+                    <text>For the purposes of subclause (1), a matter before the Authority must be treated as having been withdrawn if no action on the matter has been taken by the applicant, the appellant, or the Authority for at least 3 years.</text>
                   </para>
                 </subprov>
               </amend>
@@ -1938,7 +2305,7 @@
                 <subprov skeleton="no">
                   <label auto.number="no" denominator="yes" quote="1">1</label>
                   <para>
-                    <text>The court may, in relation to discovery that relates to proceedings brought or intended to be brought in the court, or intended to be brought in the Authority, make any order that a District Court may make under section 56A or 56B of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.</text>
+                    <text>The court may, in relation to discovery in relation to proceedings brought or intended to be brought in the court or the Authority, make any order that a District Court may make under section 56A or 56B of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.</text>
                   </para>
                 </subprov>
               </amend>
@@ -1968,7 +2335,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>In any such case, the order of the court may include an order for payment of costs and expenses against the party bringing the matter or defence before the Authority.</text>
+                        <text>In any such case, the order of the court may be limited to an order for payment of costs and expenses against the party bringing the matter or defence before the Authority.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -1993,7 +2360,7 @@
         </schedule.amendments.group1>
       </schedule.amendments>
     </schedule>
-    <schedule id="DLM3172592" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="196" bill.type="government" stage="3" year="2010">
+    <schedule id="DLM3172592" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="196" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="yes">2 </label>
       <empowering-prov>
         <changeable>
@@ -2046,25 +2413,4 @@
       </schedule.amendments>
     </schedule>
   </schedule.group>
-  <end id="DLM3331909">
-    <leg-history id="DLM3331910">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2010-08-16</date>
-        <description>Introduction (Bill 196–1)</description>
-      </history-item>
-      <history-item>
-        <date>2010-08-19</date>
-        <description>First reading and referral to Transport and Industrial Relations Committee</description>
-      </history-item>
-      <history-item>
-        <date>2010-11-02</date>
-        <description>Reported from Transport and Industrial Relations Committee (Bill 196–2)</description>
-      </history-item>
-      <history-item>
-        <date>2010-11-16</date>
-        <description>Second reading, committee of the whole House (Bill 196–3)</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
