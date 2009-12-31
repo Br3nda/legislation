@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3011900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0010" stage="published" year="2010" raised.by="Members" sop.no="135">
-  <date>Tuesday, 1 June 2010</date>
+<sop id="DLM3015600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0014" stage="published" year="2010" raised.by="Members" sop.no="141">
+  <date>Wednesday, 2 June 2010</date>
   <billref>Local Government (Auckland Law Reform) Bill</billref>
-  <body id="DLM3011901">
+  <body id="DLM3015601">
     <heading>Proposed amendment</heading>
-    <motion>David Clendon, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3011902">
-      <clause.ref>Clause 45: new section 82:</clause.ref>
+    <motion>Rahui Katene, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM3015602">
+      <clause.ref>New clause 27B:</clause.ref>
       <sop.para>
-        <text>To omit new section 82 (lines 32 to 35 on page 113) and substitute the following section:</text>
-        <instrument.amend close.quote="yes" open.quote="yes">
-          <prov id="DLM3011903" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">82</label>
-            <heading>Establishment of community boards</heading>
+        <text>To insert the following clause after clause 27A (after line 7 on page 61):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3017900" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">27B</label>
+            <heading>New section 3A inserted</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
+                <label auto.number="no" denominator="yes"/>
                 <para>
-                  <text>Despite section 49 of the Local Government Act 2002, no community board may be established by the Auckland Council.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>A local board may establish community boards, and for the purpose of section 49 and Schedule 6 of the Local Government Act 2002, a local board shall have the powers and obligations of a territorial authority.</text>
+                  <text>The following section is inserted after section 3:</text>
+                  <amend>
+                    <prov id="DLM3017901" irdnumbering="no" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes">3A</label>
+                      <heading>Principles of the Treaty of Waitangi</heading>
+                      <prov.body>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>This Act must be interpreted and administered so as to give effect to the principles of the Treaty of Waitangi.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
                 </para>
               </subprov>
             </prov.body>
@@ -32,19 +40,54 @@
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3011904" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0010" stage="published" year="2010" raised.by="Members" sop.no="135">
+  <explnote id="DLM3015604" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0014" stage="published" year="2010" raised.by="Members" sop.no="141">
     <heading>Explanatory note</heading>
     <para>
-      <text>New section 82 prohibits the establishment of community boards in Auckland. </text>
-    </para>
-    <para>
-      <text>Submitters on the Local Government (Auckland Law Reform) Bill expressed concern that community representation would be subsumed by the larger Local Boards.</text>
-    </para>
-    <para>
-      <text>This Supplementary Order Paper proposes that Local Boards may set up community boards where they deem it is necessary to ensure democratic representation.</text>
-    </para>
-    <para>
-      <text>This Supplementary Order Paper replaces SOP No 129 to correct a clause reference.</text>
+      <text>The purpose of the SOP is to amend the Local Government (Auckland Law Reform) Bill to ensure that—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>coherence is given to the Government’s commitment to the partnership between Māori and the Crown, give legal effect to the commitment to the principles of the Treaty, to maintain Māori confidence in the Auckland area, and to accelerate progress towards social, cultural and economic development and wellbeing between Māori and non-Māori; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>a Treaty of Waitangi clause will provide a legitimate and substantive framework upon which decisions regarding Auckland will be considered; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>recognition is given to the annual review of relations released in March by the Human Rights Commission, which identified Māori representation in local government and an effective voice for Māori in the decisions of the new Auckland Council as being among the top ten race relations priorities; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>recognition is given to the Declaration of the Rights of Indigenous Peoples. Particularly article 18, which sets out the aspiration that <quote.in>indigenous peoples have the right to participate in decision-making in matters, which would affect their rights, through representatives chosen by themselves</quote.in>; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>effect is given to the view that these issues are respectively not recognised by a Māori advisory group; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>recognition is given to uphold the nation’s constitutional foundations, current law, and the wish of the people, particularly mana whenua for the benefit of Māori and the wider public; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>recognition is given to the Local Government Act 2002, which sets the expectation, that local authorities will <quote.in><emphasis style="italic">foster Māori capacity to contribute to the decision-making processes of the local authority</emphasis></quote.in>.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
