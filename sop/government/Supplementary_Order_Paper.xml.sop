@@ -1,427 +1,460 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2952400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="121">
-  <date>Wednesday, 5 May 2010</date>
-  <billref>Electricity Industry Bill</billref>
-  <body id="DLM2952401">
+<sop id="DLM3182000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0004" stage="published" year="2010" raised.by="Government" sop.no="157">
+  <date>Tuesday, 24 August 2010</date>
+  <billref>Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Bill</billref>
+  <body id="DLM3182001">
     <heading>Proposed amendments</heading>
-    <motion>Hon Gerry Brownlee, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2952402">
-      <clause.ref>Heading above clause 123 and clause 123</clause.ref>
+    <motion>Hon Peter Dunne, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3182002">
+      <clause.ref>Clause 2</clause.ref>
       <sop.para>
-        <text>To omit this heading and this clause (lines 2 to 15 on page 72) and substitute the following heading and clause:</text>
+        <text><emphasis style="italic">Subclause (6)</emphasis>: To insert, after <amend.in quote="1"><changeable>28D,</changeable></amend.in> (line 2 on page 9), <amend.in quote="1"><changeable>28E,</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (9C)</emphasis>: To insert, after <emphasis style="italic">subclause (9B)</emphasis> (after line 26 on page 9), the following:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <crosshead id="DLM2875200" toc="yes">State-owned enterprise asset reconfiguration: General provisions</crosshead>
-          <prov id="DLM2875201" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">123</label>
-            <heading>Interpretation for subpart</heading>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">9C</label>
+            <para>
+              <text><changeable>Sections 28F and 28G</changeable> are treated as coming into force on 1 March 2010.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (10)</emphasis>: To insert, after <amend.in quote="1"><changeable>33E,</changeable></amend.in> (line 31 on page 9), <amend.in quote="1"><changeable>33F,</changeable></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (11)</emphasis>: To replace <amend.in quote="1"><changeable>and 80(4)</changeable> come into force</amend.in> (line 1 on page 10) with <amend.in quote="1"><changeable>80(4), and 81AB</changeable> are treated as coming into force</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3182003">
+      <clause.ref>New clauses 28E to 28G</clause.ref>
+      <sop.para>
+        <text>To insert, after <emphasis style="italic">clause 28D</emphasis> (after line 16 on page 44), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3182004" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">28E</label>
+            <heading>Imputation additional tax on leaving wholly-owned group</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>After section OB 71(1), the following is inserted:</text>
+                  <amend quote="1">
+                    <subprov.crosshead quote="1">Sources of liability</subprov.crosshead>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1B</label>
+                      <para>
+                        <text>Company A is liable for imputation additional tax under—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>subsection (2), if the company has a debit balance in the imputation credit account when the ultimate owner of the company changes:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text><changeable>subsection (4)</changeable>, if the company has an amount of excess entitlement under subsection (5) when the ultimate owner of the company changes.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>The heading to section OB 71(2) is replaced by the following: <amend.in quote="1"><emphasis style="italic">Liability arising from debit balance</emphasis></amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>Section OB 71(4) is replaced by the following:</text>
+                  <amend quote="1">
+                    <subprov.crosshead quote="1">Liability arising from excess entitlement</subprov.crosshead>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>Company A is liable for an amount of imputation additional tax equal to the amount of the excess entitlement described in subsection (5) reduced, to no less than zero, by the amount of any payment that Company A—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>made as provisional tax or income tax; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>chooses to treat as having been paid by company B.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>In section OB 71(6), <amend.in quote="1">subsection (2)</amend.in> is replaced by <amend.in quote="1">subsections (2) and <changeable>(4)</changeable></amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM3182005" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">28F</label>
+            <heading>Imputation additional tax on joining wholly-owned group</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>In section OB 72(1)(a), <amend.in quote="1">; or</amend.in> is replaced by <amend.in quote="1">:</amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section OB 72(5), other than the heading, is replaced by the following:</text>
+                  <amend quote="1">
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>The company is liable for an amount of imputation additional tax, equal to the excess entitlement determined under subsection (6), if a group of people hold common voting interests in the new group that exceed by 67% or more the common voting interests in the former group that are held by the same people immediately before the company joins the new group.</text>
+                      </para>
+                    </subprov>
+                    <subprov.crosshead quote="1">Possible liability under section OB 72B</subprov.crosshead>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5B</label>
+                      <para>
+                        <text>The company is liable for an amount of imputation additional tax given by <changeable>section OB 72B(8)</changeable> if the requirements of that provision are met.</text>
+                      </para>
+                    </subprov>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>Section OB 72(6)(a) to (c) are replaced by the following:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>zero, if the credit balance of the company's imputation credit account at the time is equal to or more than the amount (the <emphasis style="bold">total refundable amount</emphasis>) that is the total of the following:</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
+                          <para>
+                            <text>the amount in the tax pooling account provided by or for the benefit of the company that is more than the company's liability to pay income tax or provisional tax at the time:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
+                          <para>
+                            <text>the amount of the refund to which the company is entitled under sections RM 2 and RM 4 to RM 6 (which relate to refunds of excess tax), other than an amount affected by a restriction under <changeable>section OB 72B(5)</changeable>; or</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>the total refundable amount, if there is no credit balance in the company's imputation credit account at the time; or</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">c</label>
+                      <para>
+                        <text>the excess of the total refundable amount over the credit balance in the company's imputation credit account at the time, if <changeable>paragraph (b)</changeable> does not apply.</text>
+                      </para>
+                    </label-para>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM3182006" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">28G</label>
+            <heading>New section OB 72B inserted</heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes"/>
                 <para>
-                  <text>In this subpart, unless the context otherwise requires,—</text>
-                  <def-para id="DLM2875202">
-                    <para>
-                      <text><def-term id="DLM2875203">board</def-term> means the board of directors of a State generator</text>
-                    </para>
-                  </def-para>
-                  <def-para id="DLM2952403">
-                    <para>
-                      <text><def-term id="DLM2952404">consent authority</def-term> means the consent authority under the Resource Management Act 1991</text>
-                    </para>
-                  </def-para>
-                  <def-para id="DLM2952405">
-                    <para>
-                      <text><def-term id="DLM2952406">Genesis</def-term> means Genesis Power Limited, and includes any subsidiary of that company</text>
-                    </para>
-                  </def-para>
-                  <def-para id="DLM2952407">
-                    <para>
-                      <text><def-term id="DLM2952408">Meridian</def-term> means Meridian Energy Limited, and includes any subsidiary of that company</text>
-                    </para>
-                  </def-para>
-                  <def-para id="DLM2952409">
-                    <para>
-                      <text><def-term id="DLM2952410">Mighty River</def-term> means Mighty River Power Limited, and includes any subsidiary of that company</text>
-                    </para>
-                  </def-para>
-                  <def-para id="DLM2952411">
-                    <para>
-                      <text><def-term id="DLM2952412">permit</def-term> means a water permit or a discharge permit granted, or deemed to be granted, under the Resource Management Act 1991</text>
-                    </para>
-                  </def-para>
-                  <def-para id="DLM2875204">
-                    <para>
-                      <text><def-term id="DLM2875205">shareholding Ministers</def-term> means the Minister of Finance and the Minister for State Owned Enterprises</text>
-                    </para>
-                  </def-para>
-                  <def-para id="DLM2875206">
-                    <para>
-                      <text><def-term id="DLM2875207">State generator</def-term> means each of Genesis, Meridian, and Mighty River </text>
-                    </para>
-                  </def-para>
-                  <def-para id="DLM2952413">
-                    <para>
-                      <text><def-term id="DLM2952414">Waitaki Power Scheme</def-term> means the activities allowed by the resource consents numbered from CRC905301.1 to CRC905366.1 relating to the generation of electricity within the Waitaki River system.</text>
-                    </para>
-                  </def-para>
+                  <text>After section OB 72, the following is inserted:</text>
+                  <amend quote="1">
+                    <prov id="DLM3182007" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">OB 72B</label>
+                      <heading>Limit on using entitlement to refund after joining wholly-owned group</heading>
+                      <prov.body>
+                        <subprov.crosshead quote="1">When this section applies</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>This section applies when—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>an ICA company joins a wholly-owned group of companies (the <emphasis style="bold">new group</emphasis>) from another wholly-owned group of companies (the <emphasis style="bold">former group</emphasis>); and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the ICA company is not liable for imputation additional tax under <changeable>section OB 72(5)</changeable>.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Restricted refund amount for company and new group</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text><changeable>Subsections (3) to (8)</changeable> apply to an amount (the <emphasis style="bold">restricted refund amount</emphasis>) for the ICA company and the new group that is greater than zero and calculated using the formula—</text>
+                          </para>
+                          <para quote="1">
+                            <table align="center" fontsize="11.5" frame="none" id="DLM3182008" leading="13.5">
+                              <tgroup cols="5">
+                                <colspec colname="col1" colsep="0" colwidth="0.27*"/>
+                                <colspec align="right" colname="col2" colsep="0" colwidth="1.73*"/>
+                                <colspec align="center" colname="col3" colsep="0" colwidth="0.29*"/>
+                                <colspec colname="col4" colsep="0" colwidth="2.23*"/>
+                                <colspec colname="col5" colsep="0" colwidth="0.49*"/>
+                                <tbody>
+                                  <row>
+                                    <entry/>
+                                    <entry valign="middle">refund amount</entry>
+                                    <entry valign="middle">–</entry>
+                                    <entry valign="middle">ICA credit balance.</entry>
+                                    <entry/>
+                                  </row>
+                                </tbody>
+                              </tgroup>
+                            </table>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Definition of items in formula</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>In the formula—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text><emphasis style="bold">refund amount</emphasis> is the total of the following amounts, determined immediately before the ICA company joins the new group:</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>the amount in the tax pooling account provided by or for the benefit of the ICA company that is more than the company's liability to pay income tax or provisional tax at the time:</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>the amount of the refund to which the ICA company is entitled under sections RM 2 and RM 4 to RM 6 (which relate to refunds of excess tax) other than an amount affected by a restriction under <changeable>subsection (5)</changeable> for the company and another group:</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text><emphasis style="bold">ICA credit balance</emphasis> is the credit balance of the ICA company's imputation credit account immediately before the company joins the new group.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Payment to Commissioner</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">4</label>
+                          <para>
+                            <text>If the restricted refund amount is greater than the amount referred to in <changeable>subsection (3)(a)(ii)</changeable>, the ICA company must pay to the Commissioner an amount equal to the excess and the Commissioner must hold the amount with the balance of the restricted refund amount as if the excess were a refund to which the company were entitled under section RM 2 (Refunds for overpaid tax).</text>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Use of restricted refund amount</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">5</label>
+                          <para>
+                            <text>The Commissioner must hold the restricted refund amount for the ICA company and the new group subject to the restriction that the amount—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>may be refunded for an imputation credit only if the ICA company satisfies the Commissioner that the credit—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>arises from taxation paid by the ICA company or by a company that is in the same wholly-owned group as the ICA company and was in the former group immediately before the ICA company joined the new group:</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>is attached to a dividend received in relation to a shareholding by the ICA company or by a company that is in the same wholly-owned group as the ICA company and was in the former group immediately before the ICA company joined the new group and had the shareholding then; and</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>may be used to satisfy a tax liability of—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>the ICA company:</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>a company that is in the same wholly-owned group as the ICA company (the <emphasis style="bold">member</emphasis>), if the ICA company satisfies the Commissioner that the member was in the former group immediately before the ICA company joined the new group.</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Restriction additional to other requirements</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">6</label>
+                          <para>
+                            <text>The restriction imposed by <changeable>subsection (5)</changeable> on the use of a restricted refund amount is in addition to the requirements under other provisions of the Act for a refund or the satisfaction of a tax liability from an amount to which the ICA company is entitled under sections RM 2 and RM 4 to RM 6.</text>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Reducing restricted refund amount</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">7</label>
+                          <para>
+                            <text>The restricted refund amount for the ICA company and a group is reduced by the amount of—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>a refund permitted under <changeable>subsection (5)(a)</changeable> relating to the restricted refund amount:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>a satisfaction of a tax liability permitted by <changeable>subsection (5)(b)</changeable> relating to the restricted refund amount:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>a payment of imputation additional tax under <changeable>subsection (8)</changeable> relating to the restricted refund amount:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">d</label>
+                              <para>
+                                <text>a payment of imputation additional tax under section OB 71(4) relating to the restricted refund amount.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov.crosshead quote="1">Liability for imputation additional tax</subprov.crosshead>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">8</label>
+                          <para>
+                            <text>The ICA company is liable for an amount of imputation additional tax equal to the restricted refund amount for the company and a wholly-owned group of companies (the <emphasis style="bold">old group</emphasis>) determined immediately after a change in the holding of voting interests in the ICA company if, immediately after the change, a group of people hold common voting interests in the ICA company that exceed, by 67% or more, the common voting interests—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>in the wholly-owned group of companies to which the company belonged immediately before the company joined the old group; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>that were held by the same people immediately before the company joined the old group.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                      <ird.aids id="DLM3182009">
+                        <term.list quote="1"> Commissioner, common voting interest, company, dividend, ICA company, imputation additional tax, imputation credit, income tax, provisional tax, tax pooling account, wholly-owned group of companies</term.list>
+                      </ird.aids>
+                    </prov>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
                 </para>
               </subprov>
             </prov.body>
-            <cf>1998 No 88 s 97</cf>
           </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM2952415">
-      <clause.ref>New clauses 124A to 124H and new heading</clause.ref>
+    <sop.amend id="DLM3182010">
+      <clause.ref>New clause 33F</clause.ref>
       <sop.para>
-        <text>To insert the following clauses and heading after <emphasis style="italic">clause 124</emphasis> (after line 6 on page 74):</text>
+        <text>To insert, after <emphasis style="italic">clause 33E</emphasis> (after line 34 on page 58), the following:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <crosshead id="DLM2952416" toc="yes">Asset reconfiguration provisions in respect of Waitaki Power Scheme</crosshead>
-          <prov id="DLM2952417" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">124A</label>
-            <heading>Purposes of sections 124B to 124H</heading>
+          <prov id="DLM3182011" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">33F</label>
+            <heading>Schedule 29—Portfolio investment entities: listed investors</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>After schedule 29, part A, item 8, the following is added:</text>
+                  <amend quote="1">
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="no" quote="1">9</label>
+                      <para>
+                        <text>A community trust.</text>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Schedule 29, part B, item 4 is repealed.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text><changeable>Subsections (1) and (2)</changeable> apply for the 2010–11 and later income years.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3182012">
+      <clause.ref>Clause 35</clause.ref>
+      <sop.para>
+        <text>To replace <amend.in quote="1"><changeable>70</changeable></amend.in> (line 10 on page 59) with <amend.in quote="1"><changeable>70C</changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3182013">
+      <clause.ref>New clause 70C</clause.ref>
+      <sop.para>
+        <text>To insert before <emphasis style="italic">Part 4</emphasis> (before line 30 on page 70), the following:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3182014" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">70C</label>
+            <heading>Remission for GST transitional taxable periods</heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes"/>
                 <para>
-                  <text>The purposes of <changeable><citation jurisdiction="nz">sections 124B to 124H</citation></changeable> are—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>to facilitate the transfer to Genesis of the permits in the Waitaki Power Scheme relating to the Tekapo A and Tekapo B generating stations; and </text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>to maintain current effects on the environment and rights and obligations in respect of the Waitaki Power Scheme, despite Meridian no longer controlling the entire Waitaki Power Scheme.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM2952418" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">124B</label>
-            <heading>Direction to enter into contracts about Waitaki Power Scheme</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="no"/>
-                <para>
-                  <text>The shareholding Ministers may include, in a direction given under <changeable><citation jurisdiction="nz">section 124(2)(b)</citation></changeable>, 1 or more of the following for the purposes set out in <changeable><citation jurisdiction="nz">section 124A</citation></changeable>:</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>a direction requiring Meridian and Genesis to enter into 1 or more contracts with each other (such as water management agreements):</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>a direction specifying some or all of the terms and conditions of any contract required under this section.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM2952419" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">124C</label>
-            <heading>Process for Meridian and Genesis to recommend changes to permit conditions in respect of Waitaki Power Scheme</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>Meridian and Genesis must, in consultation with the consent authority, identify, and agree if possible, any recommended changes to the conditions of the permits that are, in the opinion of Meridian and Genesis, necessary to meet the purposes set out in <changeable><citation jurisdiction="nz">section 124A</citation></changeable>. </text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>The Minister, by notice to Meridian and Genesis, may specify a date by which the recommended changes must be provided to the Minister.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>Genesis and Meridian may provide separate or joint recommendations.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
-                <para>
-                  <text>Meridian and Genesis must provide the recommended changes to the Minister by the date specified by the Minister. </text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
-                <para>
-                  <text>The Minister must, as soon as practicable after receiving any recommended changes, notify the consent authority of the recommended changes, and specify a date by which the consent authority may make representations to the Minister about whether those changes would maintain the current effects on the environment in respect of the Waitaki Power Scheme or any other matter. </text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM2952420" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">124D</label>
-            <heading>Minister may change permit conditions by order</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>The Minister may, after consultation with the Minister for the Environment, make an order changing 1 or more of the conditions of a permit.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>The Minister may make an order only if the Minister is satisfied—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>that the changes to the conditions are needed only because of the transfer of the Tekapo A and Tekapo B generating stations; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>that it is not reasonably practicable to achieve the purposes set out in <changeable><citation jurisdiction="nz">section 124A</citation></changeable> by means of a direction requiring Meridian and Genesis to enter into 1 or more contracts with each other; and </text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
-                    <para>
-                      <text>that changes to the conditions achieve the purpose set out in <changeable><citation jurisdiction="nz">section 124A(b)</citation></changeable> in all material respects; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">d</label>
-                    <para>
-                      <text>that either or both of Meridian and Genesis have recommended changes to the conditions after consultation with the consent authority; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">e</label>
-                    <para>
-                      <text>that the Minister has considered any representations made by the consent authority by the date specified under <changeable><citation jurisdiction="nz">section 124C(5)</citation></changeable>. </text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>An order under this section—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>must be notified in the <emphasis style="italic">Gazette</emphasis>, and publicised by the Minister and the consent authority, as soon as practicable after it is made; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>takes effect on a date specified in the order (which may be at or before the date that the permits are transferred to Genesis under the Resource Management Act 1991 but may not be before the date of the notice in the <emphasis style="italic">Gazette</emphasis>); and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
-                    <para>
-                      <text>takes effect as if it were a change to a condition that had been made by the consent authority; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">d</label>
-                    <para>
-                      <text>is a regulation for the purposes of the Regulations (Disallowance) Act 1989 but not for the purposes of the Acts and Regulations Publication Act 1989.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
-                <para>
-                  <text>The Minister must present a copy of the order to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM2952421" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">124E</label>
-            <heading>Existing agreements with other parties in respect of Waitaki Power Scheme</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>This section and <changeable><citation jurisdiction="nz">section 124F</citation></changeable> apply to the agreements listed in <changeable><citation jurisdiction="nz">Schedule 4A</citation></changeable> (the <emphasis style="bold">existing agreements</emphasis>).</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>No existing agreement is terminated only because Meridian no longer controls the entire Waitaki Power Scheme.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>However, a party to an existing agreement (other than Meridian or Genesis) may, by notice in writing to the Minister, Meridian, and Genesis, terminate the party's involvement in the agreement in accordance with <changeable><citation jurisdiction="nz">section 124F(2)(c) or (8)</citation></changeable>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM2952422" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">124F</label>
-            <heading>Reconfiguration of existing agreements</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>The shareholding Ministers may include, in a direction given under <changeable><citation jurisdiction="nz">section 124(2)(b)</citation></changeable>, 1 or more of the following:</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>a direction requiring Meridian and Genesis to negotiate the retention or transfer, or the sharing or splitting (as the case may be), of the existing agreements in a way that meets the purposes set out in <changeable><citation jurisdiction="nz">section 124A</citation></changeable>:</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>a direction requiring either or both of Meridian and Genesis to offer to any other parties that have rights or obligations under the existing agreements (<emphasis style="bold">third parties</emphasis>) any replacement contracts that are necessary to meet the purposes set out in <changeable><citation jurisdiction="nz">section 124A</citation></changeable>:</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
-                    <para>
-                      <text>dates by which things must be completed, for example,—</text>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">i</label>
-                        <para>
-                          <text>dates by which replacement contracts must be offered:</text>
-                        </para>
-                      </label-para>
-                      <label-para skeleton="no">
-                        <label auto.number="no" denominator="yes">ii</label>
-                        <para>
-                          <text>dates by which choices must be made under <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> or <changeable><citation jurisdiction="nz">(8)</citation></changeable>.</text>
-                        </para>
-                      </label-para>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>A third party that has rights or obligations under an existing agreement may choose, by the date specified under <changeable><citation jurisdiction="nz">subsection (1)(c)</citation></changeable>,—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>to enter into any replacement contract that is offered; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>for the existing agreement to continue in accordance with a direction to be given under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>; or</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
-                    <para>
-                      <text>to terminate the existing agreement.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>If a third party chooses to enter into any replacement contract that is offered, the existing agreement ceases to have effect to the extent that it is replaced by the replacement contract.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
-                <para>
-                  <text>If a replacement contract has not been entered into by the date specified in a direction under <changeable><citation jurisdiction="nz">subsection (1)(c)</citation></changeable>, the shareholding Ministers may give to the boards of Meridian and Genesis a further direction specifying—      </text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>which existing agreements Meridian must remain a party to; and  </text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>which existing agreements Genesis must become a party to; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">c</label>
-                    <para>
-                      <text>which agreements are  to be shared between the generators by Genesis becoming a party to the agreements in addition to Meridian.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
-                <para>
-                  <text>If a direction is given under <changeable><citation jurisdiction="nz">subsection (4)(a)</citation></changeable> in respect of an existing agreement, Meridian and the third parties to the agreement remain subject to the agreement as if this Act had not been passed. </text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">6</label>
-                <para>
-                  <text>If a direction is given under <changeable><citation jurisdiction="nz">subsection (4)(b)</citation></changeable> in respect of an existing agreement, all rights, liabilities, and entitlements of Meridian under the agreement become rights, liabilities, and entitlements of Genesis. </text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">7</label>
-                <para>
-                  <text>If a direction is given under <changeable><citation jurisdiction="nz">subsection (4)(c)</citation></changeable> in respect of an existing agreement, all rights, liabilities, and entitlements of Meridian under the agreement become joint and several rights, liabilities, and entitlements of Meridian and Genesis. </text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">8</label>
-                <para>
-                  <text>However, a party to an existing agreement in respect of which a direction is given under <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable> (other than Meridian or Genesis) may terminate the party's involvement in the agreement, by notice in writing to the Minister, Meridian, and Genesis given by the further date specified under <changeable><citation jurisdiction="nz">subsection (1)(c)</citation></changeable>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM2952423" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">124G</label>
-            <heading>Other provisions about directions</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text><changeable><citation jurisdiction="nz">Section 124(3) to (9)</citation></changeable> apply to any direction given under <changeable><citation jurisdiction="nz">section 124B or 124F(1) or (4)</citation></changeable>.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>This section, and <changeable><citation jurisdiction="nz">sections 124B and 124F</citation></changeable>, do not limit <changeable><citation jurisdiction="nz">section 124</citation></changeable>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM2952424" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">124H</label>
-            <heading>No application or notification requirements or rights of appeal</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>Sections 88 to 121 and 127 of the Resource Management Act 1991 do not apply in respect of any matters under <changeable><citation jurisdiction="nz"> sections 124B to 124F</citation></changeable>.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>There are no other appeal rights in respect of any matters under<changeable><citation jurisdiction="nz"> sections 124B to 124F</citation></changeable>.</text>
+                  <text>In section 183AA(4)(b), <amend.in quote="1">31 December 2010.</amend.in> is replaced by <amend.in quote="1">31 December 2010:</amend.in> and the following is added:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">c</label>
+                      <para>
+                        <text>a GST taxable period for which the taxpayer is required to make a return that includes an adjustment under section 78B of the Goods and Services Tax Act 1985 because of the change in the rate of goods and services tax on 1 October 2010.</text>
+                      </para>
+                    </label-para>
+                  </amend>
                 </para>
               </subprov>
             </prov.body>
@@ -429,291 +462,603 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM2952425">
-      <clause.ref>New heading above clause 125</clause.ref>
+    <sop.amend id="DLM3182015">
+      <clause.ref>New clauses 81A and 81AB</clause.ref>
       <sop.para>
-        <text>To insert the following heading above <emphasis style="italic">clause 125</emphasis> (before line 7 on page 74):</text>
+        <text>To insert, before <emphasis style="italic">clause 81</emphasis> (after line 7 on page 78), the following:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <crosshead id="DLM2952426" toc="yes">Asset reconfiguration provision in respect of Whirinaki</crosshead>
+          <prov id="DLM3182016" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">81A</label>
+            <heading>Goods and Services Tax Act 1985</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text><changeable>Sections 81AB to 81C</changeable> amend the Goods and Services Tax Act 1985.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM3182017" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">81AB</label>
+            <heading>Zero-rating of services</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Section 11A(1)(s) is replaced by the following:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">s</label>
+                      <para>
+                        <text>the services are an emissions unit and the supply is the transfer of the emissions unit, other than a transfer by the Crown under—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
+                          <para>
+                            <text>an agreement relating to a project to reduce emissions:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
+                          <para>
+                            <text>a negotiated greenhouse agreement, to a person because the person exceeds the milestone targets under the agreement.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </label-para>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section 11A(1)(v) is repealed.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM2952427">
-      <clause.ref>New Schedule 4A</clause.ref>
+    <sop.amend id="DLM3182018">
+      <clause.ref>Clause 81(1)</clause.ref>
       <sop.para>
-        <text>To insert the following schedule after <emphasis style="italic">Schedule 4</emphasis> (after line 16 on page 120):</text>
+        <text>To omit from the words before the paragraphs (line 10 on page 78) <amend.in quote="1">the Goods and Services Tax Act 1985, in</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3182019">
+      <clause.ref>New clauses 81B and 81C</clause.ref>
+      <sop.para>
+        <text>To insert after <emphasis style="italic">clause 81</emphasis> (after line 16 on page 78), the following:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <schedule id="DLM2952428" in.amend="false" irdnumbering="no" prov-type="clause" raised.by="Government" schedule.heading.continue="no" sop.no="121" toc="yes" type="schedule" year="2010">
-            <label auto.number="no" denominator="yes">4A</label>
-            <empowering-prov>
-              <changeable>
-                <citation jurisdiction="nz">s 124E</citation>
-              </changeable>
-            </empowering-prov>
-            <heading>Existing agreements in respect of Waitaki Power Scheme</heading>
-            <schedule.provisions>
-              <prov id="DLM2952429" irdnumbering="no" skeleton="no" toc="yes">
+          <prov id="DLM3182020" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">81B</label>
+            <heading>New section 78AA inserted</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>After section 78, the following is inserted:</text>
+                  <amend quote="1">
+                    <prov id="DLM3182021" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes" quote="1">78AA</label>
+                      <heading>Exceptions to effect of increase of tax</heading>
+                      <prov.body>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">1</label>
+                          <para>
+                            <text>For the purposes of this section,— </text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text><emphasis style="bold">rate change day</emphasis> is the day on which an increase in the rate of tax imposed by section 8 comes into force:</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text><emphasis style="bold">original rate</emphasis> is the rate of tax imposed by section 8 immediately before the rate change day.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">2</label>
+                          <para>
+                            <text>Despite section 8(1), <changeable>subsection (3)</changeable> applies to an insurer who is deemed under section 5(13B) to receive a recovered amount as consideration for a supply—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>to the extent that the insurer, before the rate change day, accepts the claim to which the recovery relates and—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>pays the claim:</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>agrees the recovered amount unconditionally; and</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>if the amount recovered is received by the insurer on or after the rate change day; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>if the insurer elects that <changeable>subsection (3)</changeable> apply to the recovery by treating the recovery in that way in a return provided to the Commissioner.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">3</label>
+                          <para>
+                            <text>The deemed supply by the insurer is charged with tax at the original rate.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">4</label>
+                          <para>
+                            <text>Despite section 8(1), <changeable>subsection (5)</changeable> applies to a supply of goods that are personal property by a registered person under an agreement if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>section 9(3)(a) applies to the supply; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the recipient of the supply makes periodic payments to the registered person during the term of the agreement; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>part of the amount payable to the registered person under the agreement is consideration for a supply that is the provision of credit under a credit contract; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">d</label>
+                              <para>
+                                <text>if the agreement were to end early, the amount of tax imposed by section 8 on the supply of the goods would be calculated on the basis that a periodic payment included an amount of payment for the supply referred to in <changeable>paragraph (c)</changeable> that decreased for each successive periodic payment; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">e</label>
+                              <para>
+                                <text>the term of the agreement—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>begins before the rate change day; and</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>ends on or after the rate change day; and</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">iii</label>
+                                  <para>
+                                    <text>is less than or equal to 5 years; and</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">f</label>
+                              <para>
+                                <text>the registered person elects that <changeable>subsection (5)</changeable> apply to supplies made under the agreement by treating each supply in that way in a return provided to the Commissioner; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">g</label>
+                              <para>
+                                <text>within 30 days after the rate change day, the registered person gives notice to the recipient of the supplies, if the recipient is a registered person, that payments by the recipient made after the rate change day include goods and services tax charged at the original rate.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">5</label>
+                          <para>
+                            <text>Each successive supply under the agreement that is deemed to take place after the rate change day is charged with tax at the original rate.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">6</label>
+                          <para>
+                            <text>Despite section 5(5), <changeable>subsection (7)</changeable> applies to a supply of goods under an agreement that is a layby sale to which the Layby Sales Act 1971 applies if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the agreement is made before the day on which the increase in the rate of tax is announced; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>after the rate change day, the goods are delivered to the buyer and the property in the goods is transferred to the buyer; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the registered person elects that <changeable>subsection (7)</changeable> apply to supplies made under the agreement by treating each supply in that way in a return provided to the Commissioner.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">7</label>
+                          <para>
+                            <text>Goods and services tax is charged on the supply of the goods under the agreement (the <emphasis style="bold">agreed supply</emphasis>) as if there were 2 supplies consisting of—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>a supply on the day before the rate change day, for which the consideration is the payment for the agreed supply that the registered person receives before the rate change day; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>a supply on the day that the agreed supply would have occurred in the absence of this subsection, for which the consideration is the payment for the agreed supply that the registered person receives on or after the rate change day.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">8</label>
+                          <para>
+                            <text><changeable>Subsection (9)</changeable> applies to a supply of goods or services if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the invoice for the supply is dated before the rate change day; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the invoice is issued—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>on or before the second Monday after the rate change day; and</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>consistently with the registered person's practice of issuing invoices for such supplies; and</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>payment for the supply is due on or before the day that is 60 days after the date of the invoice; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">d</label>
+                              <para>
+                                <text>the registered person elects that <changeable>subsection (9)</changeable> apply to the supply by treating the supply in that way in a return provided to the Commissioner.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">9</label>
+                          <para>
+                            <text>The supply is treated as being made on the day of the date of the invoice, despite section 9(3)(a) if that provision would otherwise apply.</text>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">10</label>
+                          <para>
+                            <text>Despite section 9(1), (2)(a), and (3), <changeable>subsection (11)</changeable> applies to a supply by a registered person under an agreement if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>section 9(3)(a) would apply to the supply in the absence of this subsection; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the term of the agreement begins before the rate change day and ends after the rate change day; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>under the agreement, the consideration for a supply is set or reviewed for periods of 396 days or less during the term of the agreement; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">d</label>
+                              <para>
+                                <text>the registered person elects that <changeable>subsection (11)</changeable> apply to supplies made under the agreement during a period in which the day before the rate change day occurs (the <emphasis style="bold">rate change period</emphasis>) by including on that basis each supply in a return provided to the Commissioner; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">e</label>
+                              <para>
+                                <text>within 30 days after the rate change day, the registered person gives notice to the recipient of the supplies, if the recipient is a registered person, that payments made after the rate change day by the recipient for supplies made in the rate change period include goods and services tax charged at the original rate.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">11</label>
+                          <para>
+                            <text>If this subsection applies to a supply for a rate change period and, in the absence of this subsection, the supply would be made on or after the rate change day,—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the supply is treated as being made on the day before the rate change day; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the registered person is treated as issuing a tax invoice as required by section 24 for the supply on the day before the rate change day.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">12</label>
+                          <para>
+                            <text>Despite sections 25(3) and (3C) and 143A(1)(f), <changeable>subsection (13)</changeable> applies to a supply by a registered person who has provided a tax invoice in relation to the supply if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the rate change day occurs after the registered person provides the tax invoice for the supply; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>in the absence of this subsection and <changeable>subsection (13)</changeable>, the registered person would be required to provide after the rate change day a credit note or debit note for the supply; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>the registered person elects that <changeable>subsection (13)</changeable> apply to the supply by including on that basis the supply in a return provided to the Commissioner.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">13</label>
+                          <para>
+                            <text>If, in the absence of this subsection, the registered person would be required to provide a—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>credit note for a supply,—</text>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                                  <para>
+                                    <text>the registered person may provide a replacement tax invoice for the supply; and</text>
+                                  </para>
+                                </label-para>
+                                <label-para quote="1" skeleton="no">
+                                  <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                  <para>
+                                    <text>goods and services tax is charged on the supply under that invoice at the original rate:</text>
+                                  </para>
+                                </label-para>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>debit note for a supply, the registered person may provide a replacement tax invoice for the supply.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                        <subprov quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">14</label>
+                          <para>
+                            <text>Despite section 5(13)(a), a supply of services under section 5(13) by a registered person who receives a payment under a contract of insurance on or after the rate change day is treated as being made on the day before the rate change day if—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>the payment is made before the rate change day; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>the registered person receives the payment on or before the second Monday after the rate change day.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM3182022" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">81C</label>
+            <heading>Adjustments to tax payable for persons furnishing returns on payments basis following change in rate of tax</heading>
+            <prov.body>
+              <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">1</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Electricity Corporation of New Zealand Limited and Transit New Zealand, dated 26 November 1990, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952430" irdnumbering="no" skeleton="no" toc="yes">
+                <para>
+                  <text>In the heading to section 78B, <amend.in quote="1"><emphasis style="bold">on payments basis</emphasis></amend.in> is omitted.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">2</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Meridian Energy Limited and Transit New Zealand, dated April 2008, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952431" irdnumbering="no" skeleton="no" toc="yes">
+                <para>
+                  <text>Before section 78B(2A)(aa)(i), the following is inserted:</text>
+                  <amend increment="2" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">ia</label>
+                      <para>
+                        <text>any supply that is made by the registered person as a private training establishment granted registration by the Qualifications Authority under section 236 of the Education Act 1989 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or</text>
+                      </para>
+                    </label-para>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">3</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Meridian Energy Limited and Her Majesty the Queen acting by and through the Director-General of Conservation, dated September 2006, entitled <quote.in quote="1">Compensatory funding agreement</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952432" irdnumbering="no" skeleton="no" toc="yes">
+                <para>
+                  <text>Section 78B(2A)(b) is replaced by the following:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>in relation to a person who, as at the date on which the new rate of tax comes into force, is required to account for tax payable on an invoice basis,—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
+                          <para>
+                            <text>any supply made by the registered person as a private training establishment granted registration by the Qualifications Authority under section 236 of the Education Act 1989 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
+                          <para>
+                            <text>any supply made to the registered person that is a supply of secondhand goods to which section 3A(1)(c) applies,—</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </label-para>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">4</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Electricity Corporation of New Zealand Limited and the Mackenzie District Council, dated 26 November 1990, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952433" irdnumbering="no" skeleton="no" toc="yes">
+                <para>
+                  <text>Section 78B(2A)(e) is replaced by the following:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">e</label>
+                      <para>
+                        <text>the supply is not charged with tax at—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">i</label>
+                          <para>
+                            <text>the rate of zero percent; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">ii</label>
+                          <para>
+                            <text>a rate that is unaffected by the change to section 8; and</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </label-para>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">5</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Meridian Energy Limited and the Mackenzie District Council, dated January 2008, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952434" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">6</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Electricity Corporation of New Zealand Limited and the South Canterbury Branch of Royal Forest &amp; Bird Protection Society of New Zealand Incorporated, dated 26 November 1990, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952435" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">7</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Meridian Energy Limited and Royal Forest &amp; Bird Protection Society of New Zealand Incorporated, undated, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952436" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">8</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Electricity Corporation of New Zealand Limited and South Canterbury Fish and Game Council, dated 26 November 1990, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952437" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">9</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Meridian Energy Limited and Central South Island Fish and Game Council, dated 24 September 2008, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952438" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">10</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Meridian Energy Limited and New Zealand Recreational Canoeing Association Incorporated and Tekapo Whitewater Trust, dated 30 September 2009, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952439" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">11</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Electricity Corporation of New Zealand Limited and Lower Waitaki Irrigation Company Limited, Maerewhenua District Water Resource Company Limited and Morven Glenavy Ikawai Irrigation Company Limited, dated 26 November 1990, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952440" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">12</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Electricity Corporation of New Zealand Limited and Benmore Irrigation Company Limited, dated 26 November 1990, entitled <quote.in quote="1">Agreement in relation to water rights</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952441" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="no" denominator="yes">13</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Meridian Energy Limited and Te Rūnanga o Ngāi Tahu, dated 2 August 2000, entitled <quote.in quote="1">Waitaki catchment deed of agreement</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952442" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="never" denominator="yes">14</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Meridian Energy Limited and Mount Cook Salmon Limited, dated 24 May 1999, entitled <quote.in quote="1">Agreement to lease</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952443" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="never" denominator="yes">15</label>
-                <prov.body>
-                  <para>
-                    <text>The Head agreement between Electricity Corporation of New Zealand Limited and—</text>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>After section 78B(2A), the following is inserted:</text>
+                  <amend quote="1">
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2B</label>
                       <para>
-                        <text>Her Majesty The Queen acting by and through the Minister of Conservation; and</text>
+                        <text>For the purposes of this section, a taxable supply made by a registered person on or after the date on which the new rate of tax comes into force is treated as being made before that date if—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the registered person makes the supply as a private training establishment granted registration by the Qualifications Authority under section 236 of the Education Act 1989; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the consideration for the supply is held in trust on the day before that date; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>the registered person includes such supplies in the form referred to in subsection (2).</text>
+                          </para>
+                        </label-para>
                       </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">b</label>
-                      <para>
-                        <text>South Canterbury Fish and Game Council; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">c</label>
-                      <para>
-                        <text>Ngai Tahu Trust Board; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">d</label>
-                      <para>
-                        <text>Benmore Irrigation Company Limited; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">e</label>
-                      <para>
-                        <text>The New Zealand Canoeing Association Incorporated; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">f</label>
-                      <para>
-                        <text>Mackenzie District Council; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">g</label>
-                      <para>
-                        <text>Lower Waitaki Irrigation Company Limited; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">h</label>
-                      <para>
-                        <text>Maerewhenua District Water Resource Company Limited; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">i</label>
-                      <para>
-                        <text>Morven Glenavy Ikawai Irrigation Company Limited; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">j</label>
-                      <para>
-                        <text>Transit New Zealand; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">k</label>
-                      <para>
-                        <text>South Canterbury Branch of Royal Forest &amp; Bird Protection Society of New Zealand Incorporated; and</text>
-                      </para>
-                    </label-para>
-                    <label-para skeleton="no">
-                      <label auto.number="no" denominator="yes">l</label>
-                      <para>
-                        <text>New Zealand Salmon Anglers Association Incorporated, dated 26 November 1990, entitled <quote.in quote="1">Agreement to Electricity Corporation’s water rights</quote.in>.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </prov.body>
-              </prov>
-              <prov id="DLM2952444" irdnumbering="no" skeleton="no" toc="yes">
-                <label auto.number="never" denominator="yes">16</label>
-                <prov.body>
-                  <para>
-                    <text>Agreement between Meridian Energy Limited and Mackenzie Irrigation Company Limited, dated 31 October 2006, entitled <quote.in quote="1">Agreement in relation to the allocation of water for irrigation</quote.in>.</text>
-                  </para>
-                </prov.body>
-              </prov>
-            </schedule.provisions>
-          </schedule>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2952445" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="121">
+  <explnote id="DLM3182023" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2010" raised.by="Government" sop.no="157">
     <heading>Explanatory note</heading>
     <para>
-      <text>Clause 124(2)(b) of the Electricity Industry Bill currently entitles shareholding Ministers to direct Meridian Energy Limited (<emphasis style="bold">Meridian</emphasis>) to transfer Tekapo A and Tekapo B power stations to Genesis Power Limited (<emphasis style="bold">Genesis</emphasis>). Clause 124(2)(d) of the Bill currently also allows those Ministers to specify some or all of the terms and conditions of any of the contracts required for the transfer.  </text>
+      <text>This Supplementary Order Paper amends the <emphasis style="italic">Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Bill</emphasis>.</text>
     </para>
     <para>
-      <text>This Supplementary Order Paper makes legislative amendments in connection with the transfer to Genesis of resource consents and other agreements relating to Tekapo A and Tekapo B power stations.</text>
-    </para>
-    <explnote.crosshead>Resource consents</explnote.crosshead>
-    <para>
-      <text>The Government proposes that all of the consents in the Waitaki Power Scheme  (<emphasis style="bold">WPS</emphasis>) package that relate to the operation of Tekapo A and Tekapo B will transfer to Genesis in order to allow it to operate those stations.   The remainder of the WPS consents will stay with Meridian. The normal process will be followed and the consents will be transferred to Genesis using sections 136 and 137 of the Resource Management Act 1991 (<emphasis style="bold">RMA</emphasis>).  </text>
+      <text><emphasis style="italic">New clauses 28E to 28G</emphasis> amend the treatment under the <emphasis style="italic">Income Tax Act 2007</emphasis> of imputation credit account companies that leave wholly-owned groups of companies.</text>
     </para>
     <para>
-      <text>The difficulty is that, as the WPS consents were granted to a single consent holder, they do not anticipate 2 generators in the WPS, and it may be difficult for one party to meet some consent conditions if they do not control the entire catchment.</text>
+      <text><emphasis style="italic">New clause 28E</emphasis> amends <emphasis style="italic">section OB 71</emphasis> to correct unintended differences between that section and the corresponding provisions of the <emphasis style="italic">Income Tax Act 2004</emphasis>. The changes make it clear that there are 2 possible ways in which a company leaving a wholly-owned group of companies may be liable for imputation additional tax. The first liability is imposed when the company has a debit in its imputation credit account. The second liability is imposed when the credit balance in the company's imputation credit account is exceeded by the total of the company's uncommitted credit in a tax pooling account and the company's rights to refunds from the Commissioner. The amendments are treated as coming into effect on <emphasis style="italic">1 April 2008</emphasis>.</text>
     </para>
     <para>
-      <text>The parties may endeavour to deal with this problem by agreement, eg, by using a water management agreement. This Supplementary Order Paper allows the shareholding Ministers to set some or all of the terms and conditions of such an agreement between Meridian and Genesis. </text>
+      <text><emphasis style="italic">New clause 28F</emphasis> amends <emphasis style="italic">section OB 72</emphasis> to change the way in which a company leaving a wholly-owned group of companies and joining another wholly-owned group of companies is liable for imputation additional tax. Under the changes, the second liability for imputation additional tax, which arises in the same way as under <emphasis style="italic">section OB 71</emphasis>, is payable immediately only if there is an immediate change of 67% or more in the company's ownership when the company joins the new group. The amendments are treated as coming into effect on <emphasis style="italic">1 March 2010</emphasis>.</text>
     </para>
     <para>
-      <text>However, it may be impracticable to meet some consent conditions. The proposal is that the Bill will enable the Minister of Energy and Resources, after consultation with the Minister for the Environment, to change the consent conditions by order.  This process may be used in place of section 127 of the RMA in order to meet the policy objective of minimising costs, delays, and risks, while still meeting the policy objective of maintaining current environmental outcomes and rights and obligations until the consents expire in 2025.</text>
-    </para>
-    <explnote.crosshead>Agreements</explnote.crosshead>
-    <para>
-      <text>Meridian has agreements with other parties in the Waitaki catchment that were originally negotiated alongside resource consents in 1991, and has agreements that relate to water use in the Waitaki River.  </text>
+      <text><emphasis style="italic">New clause 28G</emphasis> inserts <emphasis style="italic">new section OB 72B</emphasis>. The new section provides for the imposition of the second liability for imputation additional tax on a company leaving a wholly-owned group of companies and joining another wholly-owned group of companies if the change in ownership of the company is less than 67%. For such a company, the second liability is not imposed immediately. A corresponding amount is held by the Commissioner and may give rise to a refund or a credit against tax, reducing the liability, as long as the change in ownership of the company does not later reach 67%. The amendments are treated as coming into effect on <emphasis style="italic">1 March 2010</emphasis>.</text>
     </para>
     <para>
-      <text>The proposal is that Meridian and Genesis should enter into agreements to meet the generators’ obligations that are affected by the Tekapo A and Tekapo B asset reconfiguration. However, there is a risk that Meridian and Genesis could fail to reach agreement in relation to the agreements, or that the generators could reach agreement but that the other parties to the agreements may not want to enter into new agreements.</text>
+      <text><emphasis style="italic">New clause 33F</emphasis> amends <emphasis style="italic">schedule 29</emphasis> to correct the placement in that schedule of the entry for a community trust. The entry should be in part A, rather than part B. The amendment comes into effect on <emphasis style="italic">1 April 2010</emphasis>.</text>
     </para>
     <para>
-      <text> Therefore, the amendments to the Bill proposed by this Supplementary Order Paper provide that the shareholding Ministers may direct Meridian and Genesis to negotiate the retention, transfer, sharing, or splitting of the agreements between themselves and then to offer to any third parties, before a specified date, any necessary replacement agreements that maintain the rights and obligations in the existing agreements. </text>
+      <text><emphasis style="italic">Clause 35</emphasis> is amended to correct the description of the clauses amending the <emphasis style="italic">Tax Administration Act 1994</emphasis>.</text>
     </para>
     <para>
-      <text>If this does not result in a satisfactory outcome, this Supplementary Order Paper proposes that those Ministers may direct Meridian and Genesis as to—	</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>which agreements are to remain with Meridian:</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>which agreements are to transfer from Meridian to Genesis:</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>which agreements are  to be shared between the generators by Genesis becoming a party to the agreements.</text>
-          </para>
-        </item>
-      </list>
+      <text><emphasis style="italic">New clause 70C</emphasis> amends <emphasis style="italic">section 183AA</emphasis>, which remits late filing penalties, late payment penalties, and interest relating to GST returns for certain periods to the extent that the penalties or interest would arise because of a registered person's errors relating to the change in the rate of goods and services tax. The amendment extends the remission to a GST return that includes an adjustment under <emphasis style="italic">section 78B of the Goods and Services Tax Act 1985</emphasis>.</text>
     </para>
     <para>
-      <text>The amendments enable the parties to the existing agreements (other than Meridian and Genesis) to terminate their agreements by notice to the Minister, Meridian, and Genesis.</text>
+      <text><emphasis style="italic">New clause 81A </emphasis>inserts a description of the clauses amending the <emphasis style="italic">Goods and Services Tax Act 1985</emphasis>.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 81AB</emphasis> amends <emphasis style="italic">section 11A(1)</emphasis> to provide that all supplies of emissions units are charged at a rate of 0% except for a transfer by the Crown under a project to reduce emissions or under a negotiated greenhouse agreement. The change replaces <emphasis style="italic">paragraph (s)</emphasis> and repeals <emphasis style="italic">paragraph (v)</emphasis>. Both paragraphs currently refer to types of supply that are charged at a rate of 0%. The change is treated as coming into force on <emphasis style="italic">1 July 2010</emphasis>.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 81</emphasis> is consequentially amended to remove an unnecessary reference to the statute.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clauses 81B and 81C</emphasis> change the transitional provisions applying to the change in the rate of goods and services tax on <emphasis style="italic">1 October 2010</emphasis>. </text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 81B</emphasis> inserts <emphasis style="italic">new section 78AA</emphasis>, which provides for exceptions to the usual effects on a supply of goods and services of a change from the <emphasis style="italic">original rate</emphasis> of goods and services tax occurring on the <emphasis style="italic">rate change day</emphasis>. <emphasis style="italic">Subsections (2) and (3)</emphasis> relate to an insurer who, before the rate change day, accepts a claim and pays it or agrees unconditionally with a third party on the recovery of an amount relating to the claim. If, after the rate change day, the insurer recovers from a third party an amount relating to the claim, the insurer may choose that the deemed supply be charged with tax at the original rate. <emphasis style="italic">Subsections (4) and (5)</emphasis> relate to a supply of personal property under an agreement that is entered before the rate change day and that requires periodic payments for the supply, with each payment being treated as including an amount for the provision of credit and that amount decreasing for each successive payment. Under the Act, each payment is treated as being for a separate supply but the registered person may choose to rely on <emphasis style="italic">subsection (5)</emphasis>, which provides that the supplies corresponding to payments made after the rate change day are charged with tax at the original rate. <emphasis style="italic">Subsections (6) and (7)</emphasis> relate to a layby sales agreement entered before the day on which the change from the original rate is announced, which was 20 May 2010 for the increase announced in the 2010 Budget. Usually, such an agreement results in a single supply occurring when payment under the agreement is complete. The registered person may choose to rely on <emphasis style="italic">subsection (7)</emphasis>, which provides that payments made before the rate change day are for a supply occurring on the day before the rate change day and thus subject to the original rate. Later payments are for a second supply occurring when payment is complete and thus subject to the new rate. <emphasis style="italic">Subsections (8) and (9)</emphasis> relate to supplies for which the invoice is dated before the rate change day but issued after that day and on or before the second Monday after the rate change day. The registered person may choose to rely on <emphasis style="italic">subsection (9)</emphasis>, which treats the supply as being made on the date of the invoice, even if the supply would otherwise be treated as being made when payment under the invoice was received. <emphasis style="italic">Subsections (10) and (11)</emphasis> relate to supplies that are made under an agreement that is entered before the rate change day and requires periodic payments for the supply, reviewed at intervals of not more than 396 days, with each payment being treated under the Act as payment for a separate supply that occurs when the payment is due or received. The registered person may choose to include in the return for a period that includes the day before the rate change day the supplies made before the rate change day for which payments are received after the rate change day. Under <emphasis style="italic">subsection (11)</emphasis>, the payments are treated as being for supplies occurring on the day before the rate change day and thus subject to the original rate. <emphasis style="italic">Subsections (12) and (13)</emphasis> relate to registered persons who would be required after the rate change day to issue a debit note or credit note relating to an invoice provided before the rate change day. Under <emphasis style="italic">subsection (13)</emphasis>, a registered person may choose to provide a replacement tax invoice for the supply. The original rate will apply to a supply for which a credit note would otherwise have been required. <emphasis style="italic">Subsection (14)</emphasis> applies if an insurer makes an insurance payment before the rate change day and a registered person receives the payment after the rate change day and on or before the second Monday after the rate change day. A supply of services under <emphasis style="italic">section 5(13) of the Goods and Services Tax Act 1985</emphasis> by the registered person is treated as being made on the day before the rate change day.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 81C</emphasis> amends <emphasis style="italic">section 78B</emphasis>. That section requires a registered person to make an adjustment relating to certain supplies that are made before the rate change day, and so are subject to the original rate, but for which payment is made on or after the rate change day. Under the Act, supplies made by private training establishments registered by the Qualifications Authority are made when payment is received. The amendments provide that a private training establishment may choose to have such supplies for which payment is due on or after the rate change day, which would otherwise be subject to the new rate, included in the adjustment if consideration for the supplies is held in trust on the day before the rate change day.</text>
     </para>
   </explnote>
 </sop>
