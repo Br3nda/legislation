@@ -1,21 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3251000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0009" stage="published" year="2010" raised.by="Government" sop.no="165">
-  <date>Tuesday, 21 September 2010</date>
-  <billref>Electricity Industry Bill</billref>
-  <body id="DLM3251001">
-    <heading>Proposed amendment to SOP No 154</heading>
-    <motion>Hon Gerry Brownlee, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3251002">
-      <clause.ref>Clause 126(3)(d)(ii)</clause.ref>
-      <sop.para>
-        <text>To omit <amend.in quote="1">31 March</amend.in> (on page 5) and substitute <amend.in quote="1">30 April</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
+<sop id="DLM3163700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="153">
+  <date>Tuesday, 17 August 2010</date>
+  <billref>Social Assistance (New Work Tests, Incentives, and Obligations) Amendment Bill</billref>
+  <body id="DLM3163701">
+    <heading>Proposed motion to divide Bill into 5 Bills</heading>
+    <motion>Hon Paula Bennett, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM3163702" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act is the Children, Young Persons, and Their Families Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3163703" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text><changeable><citation jurisdiction="nz">Sections 1 to 3 and 4(1)</citation></changeable> come into force on the day after the date on which this Act receives the Royal assent.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text><changeable><citation jurisdiction="nz">Section 4(2)</citation></changeable> comes into force on <changeable>27 September 2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+        <prov id="DLM3163704" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Education Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3163705" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act comes into force on <changeable>27 September 2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 3</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+        <prov id="DLM3163706" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Taxation (Definitions of Dependent Child) Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3163707" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 4</emphasis> and <emphasis style="italic">Schedules 1 to 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 4</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+        <prov id="DLM3163708" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Social Security (New Work Tests, Incentives, and Obligations) Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3163709" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text><changeable><citation jurisdiction="nz">Sections 13(1), 21, 24, 36, and 37</citation></changeable> come into force on the day after the date on which this Act receives the Royal assent.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text><changeable><citation jurisdiction="nz">Sections 13(11) to (14) and 16 and Schedule 2</citation></changeable> come into force on <changeable>2 May 2011</changeable>.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>This rest of this Act comes into force on <changeable>27 September 2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 5</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 5</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM3163710" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the War Pensions Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3163711" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act comes into force on <changeable>27 September 2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote id="DLM3251003" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0009" stage="published" year="2010" raised.by="Government" sop.no="165">
+  <explnote id="DLM3163712" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="153">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends an amendment to the Electricity Industry Bill set out in SOP No 154. That amendment needs to be changed to reflect the change in commencement date that is set out in a further SOP.</text>
+      <text>This Supplementary Order Paper divides the Social Assistance (New Work Tests, Incentives, and Obligations) Amendment Bill into the following Bills:</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Children, Young Persons, and Their Families Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Education Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Taxation (Definitions of Dependent Child) Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Social Security (New Work Tests, Incentives, and Obligations) Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the War Pensions Amendment Bill.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
