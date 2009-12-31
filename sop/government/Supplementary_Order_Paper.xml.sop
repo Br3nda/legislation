@@ -1,370 +1,374 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2737600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="108">
-  <date>Tuesday, 9 February 2010</date>
-  <billref>Judicial Matters Bill</billref>
-  <body id="DLM2737601">
-    <heading>Proposed amendments</heading>
-    <motion>Hon Christopher Finlayson, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2737602">
-      <clause.ref>Clause 10(1)</clause.ref>
-      <sop.para>
-        <text>To omit this subclause (lines 17 to 21 on page 6) and substitute the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>Section 15(1) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:</text>
-              <amend increment="1" quote="1">
-                <label-para quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">a</label>
-                  <para>
-                    <text>there are any grounds for exercising his or her power under <changeable><citation jurisdiction="nz">section 15A</citation></changeable> to take no further action in respect of the complaint; or</text>
-                  </para>
-                </label-para>
-                <label-para quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">b</label>
-                  <para>
-                    <text>there are any grounds for dismissing the complaint under section 16; or</text>
-                  </para>
-                </label-para>
-                <label-para quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">c</label>
-                  <para>
-                    <text>the subject matter of the complaint, if substantiated, could warrant referral of the complaint to the Head of Bench under section 17; or</text>
-                  </para>
-                </label-para>
-                <label-para quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">d</label>
-                  <para>
-                    <text>the subject matter of the complaint, if substantiated, could warrant consideration of the removal of the Judge from office by way of a recommendation under section 18.</text>
-                  </para>
-                </label-para>
-              </amend>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2737603">
-      <clause.ref>Clause 11: new section 15A(2)(c)</clause.ref>
-      <sop.para>
-        <text/>
-      </sop.para>
-      <sop.para>
-        <text>To omit this paragraph (lines 14 to 19 on page 7) and substitute the following paragraph:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="no">
-          <amend quote="1">
-            <label-para quote="1" skeleton="no">
-              <label auto.number="no" denominator="yes" quote="1">c</label>
+<sop id="DLM2846500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="117">
+  <date>Tuesday, 30 March 2010</date>
+  <billref>Regulatory Improvement Bill</billref>
+  <body id="DLM2846501">
+    <heading>Proposed motion to divide Bill into 9 Bills</heading>
+    <motion>Hon Rodney Hide, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2846502" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
               <para>
-                <text>that the complaint is one in respect of which the Commissioner, having started the preliminary examination required by section 15, concludes that there is no reasonable prospect of there being available to him or her information that would enable him or her to form an opinion on the matters specified in <changeable><citation jurisdiction="nz">section 15(1)(b), (c), and (d)</citation></changeable>.</text>
+                <text>This Act is the Companies Amendment Act <changeable>2010</changeable>.</text>
               </para>
-            </label-para>
-          </amend>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2737604">
-      <clause.ref>Clause 12</clause.ref>
-      <sop.para>
-        <text>To insert the following subclause as <emphasis style="italic">subclause (1)</emphasis> (before line 36 on page 7):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>Section 16(1) is amended by repealing paragraph (i) and substituting the following paragraph:</text>
-              <amend increment="1" quote="1">
-                <label-para quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">i</label>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2846503" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2846504" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Conservation Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2846505" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 3</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2846506" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Designs Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2846507" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>This Act (except <changeable>section 14</changeable>) comes into force on the earlier of the following:</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
                   <para>
-                    <text>he or she has considered or previously considered the subject matter of the complaint, and that subject matter could not, if substantiated, warrant either referral to the Head of Bench under section 17 or consideration of the removal of the Judge from office by way of a recommendation under section 18.</text>
+                    <text>the day that is 12 months after the date on which this Act receives the Royal assent:</text>
                   </para>
                 </label-para>
-              </amend>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2737605">
-      <clause.ref>Clause 12A</clause.ref>
-      <sop.para>
-        <text>To omit this clause (lines 6 to 11 on page 8) and substitute the following clause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2737606" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">12A</label>
-            <heading>Commissioner’s power to refer complaints to Head of Bench</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="no"/>
-                <para>
-                  <text>Section 17(1) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:</text>
-                  <amend increment="1" quote="1">
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>exercises his or her power under <changeable><citation jurisdiction="nz">section 15A</citation></changeable> to take no further action in respect of the complaint; or</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>dismisses the complaint under section 16; or</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">c</label>
-                      <para>
-                        <text>recommends under section 18 that a Judicial Conduct Panel be appointed.</text>
-                      </para>
-                    </label-para>
-                  </amend>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2737607">
-      <clause.ref>New Part 1A</clause.ref>
-      <sop.para>
-        <text>To insert the following Part after <emphasis style="italic">Part 1</emphasis> (after line 5 on page 9):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <part id="DLM2737608" in.amend="false" irdnumbering="no" raised.by="Government" sop.no="108" toc="yes" year="2010">
-            <label auto.number="no" denominator="yes">1A</label>
-            <heading>Amendment to District Courts Act 1947</heading>
-            <crosshead id="DLM2737609" toc="yes">Principal Act amended</crosshead>
-            <prov id="DLM2737610" irdnumbering="no" skeleton="no" toc="yes">
-              <label auto.number="no" denominator="yes">15A</label>
-              <heading>Principal Act amended</heading>
-              <prov.body>
-                <subprov skeleton="no">
-                  <label auto.number="yes" denominator="yes"/>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
                   <para>
-                    <text>This <changeable><citation jurisdiction="nz">Part </citation></changeable> amends the District Courts Act 1947.</text>
+                    <text>a date to be appointed by the Governor-General by Order in Council.</text>
                   </para>
-                </subprov>
-              </prov.body>
-            </prov>
-            <crosshead id="DLM2737611" toc="yes">District Court Judges</crosshead>
-            <prov id="DLM2737612" irdnumbering="no" skeleton="no" toc="yes">
-              <label auto.number="no" denominator="yes">15B</label>
-              <heading>Appointment and qualifications</heading>
-              <prov.body>
-                <subprov skeleton="no">
-                  <label auto.number="yes" denominator="yes"/>
-                  <para>
-                    <text>Section 5(2) is amended by omitting <amend.in quote="1">140</amend.in> and substituting <amend.in quote="1">156</amend.in>.</text>
-                  </para>
-                </subprov>
-              </prov.body>
-            </prov>
-          </part>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2737613">
-      <clause.ref>Heading to Part 2</clause.ref>
-      <sop.para>
-        <text>To omit <amend.in quote="1"><emphasis style="bold">Amendment</emphasis></amend.in> (line 7 on page 9) and substitute <amend.in quote="1"><emphasis style="bold">Amendments</emphasis></amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2737614">
-      <clause.ref>New heading and clauses 16A and 16B</clause.ref>
-      <sop.para>
-        <text>To insert the following heading and clauses after <emphasis style="italic">clause 16</emphasis> (after line 10 on page 9):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <crosshead id="DLM2737615" toc="yes">Higher duties allowance for High Court Judges serving on Court of Appeal</crosshead>
-          <prov id="DLM2737616" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">16A</label>
-            <heading>Salaries and allowances of Judges</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>Section 9A(1) is amended by inserting the following paragraph after paragraph (b):</text>
-                  <amend increment="1" quote="1">
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">ba</label>
-                      <para>
-                        <text>a higher duties allowance payable and calculated in accordance with <changeable><citation jurisdiction="nz">subsection (1A)</citation></changeable>; and</text>
-                      </para>
-                    </label-para>
-                  </amend>
-                  <follow-text space-before="no">.</follow-text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>Section 9A is amended by inserting the following subsection after subsection (1):</text>
-                  <amend quote="1">
-                    <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">1A</label>
-                      <para>
-                        <text>The higher duties allowance under <changeable><citation jurisdiction="nz">subsection (1)(ba)</citation></changeable> is—</text>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">a</label>
-                          <para>
-                            <text>payable only to a Judge who—</text>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">i</label>
-                              <para>
-                                <text>is or was not a Judge of the Court of Appeal holding office under section 57(2) (in this subsection called a <def-term id="DLM2737617">permanent Judge</def-term>); but</text>
-                              </para>
-                            </label-para>
-                            <label-para quote="1" skeleton="no">
-                              <label auto.number="no" denominator="yes" quote="1">ii</label>
-                              <para>
-                                <text>is or was under sections 58A to 58C or section 58F serving as a member of a criminal or civil division, or as a member of the Full Court, of the Court of Appeal; and</text>
-                              </para>
-                            </label-para>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">b</label>
-                          <para>
-                            <text>payable only in respect of periods of the Judge's service as a member of the division or Full Court; and</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">c</label>
-                          <para>
-                            <text>calculated at a rate expressed per day of service as a member of the division or Full Court in accordance with the following formula:</text>
-                            <eqn id="DLM2737618">
-                              <eqn-line>(a − b) × c/d </eqn-line>
-                              <para>
-                                <text>where—</text>
-                              </para>
-                              <variable-def>
-                                <variable>a</variable>
-                                <para>
-                                  <text>is the applicable yearly rate of salary determined by the Remuneration Authority to be payable to a permanent Judge</text>
-                                </para>
-                              </variable-def>
-                              <variable-def>
-                                <variable>b</variable>
-                                <para>
-                                  <text>is the applicable yearly rate of salary determined by the Remuneration Authority to be payable to a Judge who is not a permanent Judge</text>
-                                </para>
-                              </variable-def>
-                              <variable-def>
-                                <variable>c</variable>
-                                <para>
-                                  <text>is 0.0383561 (the standard payroll factor, which represents the proportion of an annual salary that is paid per fortnight)</text>
-                                </para>
-                              </variable-def>
-                              <variable-def>
-                                <variable>d</variable>
-                                <para>
-                                  <text>is 10 (the number of working days per fortnight).</text>
-                                </para>
-                              </variable-def>
-                            </eqn>
-                          </para>
-                        </label-para>
-                      </para>
-                    </subprov>
-                  </amend>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>Section 9A(5) is consequentially amended by omitting <amend.in quote="1">the payment of salary and allowances on a pro-rata basis under subsection (4) is not</amend.in> and substituting <amend.in quote="1">neither the cessation of the payment of a higher duties allowance payable and calculated under <changeable><citation jurisdiction="nz">subsections (1)(ba) and (1A)</citation></changeable>, nor the payment of salary and allowances on a pro-rata basis under subsection (4), is</amend.in>.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
-                <para>
-                  <text>Section 11A(3) is consequentially amended by omitting <amend.in quote="1">shall also be paid</amend.in> and substituting <amend.in quote="1">must also be paid the higher duties allowance payable and calculated under <changeable><citation jurisdiction="nz">section 9A(1)(ba) and (1A)</citation></changeable> and</amend.in>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM2737619" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">16B</label>
-            <heading>Allowances paid previously</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>This section applies to higher duties allowances paid out of public money before the commencement of this section to Judges who, for the periods in respect of which the allowances were paid,—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>were not Judges of the Court of Appeal holding office under section 57(2) of the Judicature Act 1908; but</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>were under sections 58A to 58C or section 58F of that Act serving as a member of a criminal or civil division, or as a member of the Full Court, of the Court of Appeal.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>Those allowances must be taken to be, and to always have been, as authorised and valid as allowances calculated, appropriated, and paid in accordance with sections 9A, 11, and 11A of the Judicature Act 1908 (as those sections are amended by <changeable><citation jurisdiction="nz">section 16A</citation></changeable> of this Act).</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2737620">
-      <clause.ref>New heading and clause 18</clause.ref>
-      <sop.para>
-        <text>To insert the following heading and clause after <emphasis style="italic">clause 17</emphasis> (after line 14 on page 9):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <crosshead id="DLM2737621" toc="yes">Court of Appeal Judges</crosshead>
-          <prov id="DLM2737622" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">18</label>
-            <heading>Constitution of Court of Appeal</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>Section 57(2)(b) is amended by omitting <amend.in quote="1">8</amend.in> and substituting <amend.in quote="1">9</amend.in>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text><changeable><citation jurisdiction="nz">Section 14</citation></changeable> comes into force on the day after the date on which this Act receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 4</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 4</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2846508" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Fisheries Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2846509" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 5</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 5</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2846510" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Gas Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2846511" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 6</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 6</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2846512" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Hazardous Substances and New Organisms Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2846513" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 7</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 7</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2846514" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2846515" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 8</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 8</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2846516" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Reserves Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2846517" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 9</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 9</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2846518" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Weights and Measures Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2846519" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote id="DLM2737623" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="108">
+  <explnote id="DLM2846520" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="117">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper sets out amendments to the Judicial Matters Bill. The amendments—</text>
+      <text>This Supplementary Order Paper divides the Regulatory Improvement Bill into the following Bills:</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>clarify the actions the Judicial Conduct Commissioner may take on a complaint about the conduct of a Judge. <emphasis style="italic">See</emphasis> the amendments to <emphasis style="italic">clauses 10(1), 11, 12, and 12A</emphasis>, which amend section 15(1), <emphasis style="italic">new section 15A(2)(c)</emphasis>, and sections 16(1) and 17(1) of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004:</text>
+            <text>Companies Amendment Bill:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>increase from 140 to 156 the maximum number of District Court Judges. <emphasis style="italic">See new Part 1A</emphasis> amending the District Courts Act 1947 section 5(2):</text>
+            <text>Conservation Amendment Bill:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>clearly authorise higher duties allowances paid to High Court Judges serving on the Court of Appeal so that, in the language of MacKenzie J in <emphasis style="italic">Wikio v Attorney-General</emphasis> (2008) 8 HRNZ 544 (HC) at paragraphs [128]–[135], they <quote.in quote="1">rest on a more secure constitutional foundation</quote.in>. <emphasis style="italic">See new clauses 16A and 16B</emphasis> amending sections 9A and 11A of the Judicature Act 1908, and authorising allowances paid previously:</text>
+            <text>Designs Amendment Bill:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>increase from 9 to 10 (including the President) the maximum number of permanent Judges of the Court of Appeal that may be appointed. <emphasis style="italic">See new clause 18</emphasis> amending the Judicature Act 1908 section 57(2)(b) (which specifies the minimum and maximum numbers of permanent Judges (other than the President) of the Court of Appeal).</text>
+            <text>Fisheries Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>Gas Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>Hazardous Substances and New Organisms Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>Ministry of Agriculture and Fisheries (Restructuring) Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>Reserves Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>Weights and Measures Amendment Bill.</text>
           </para>
         </item>
       </list>
