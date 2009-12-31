@@ -1,95 +1,416 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM3172302" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2010" bill.no="195" bill.type="government" stage="3" year="2010">
+<bill id="DLM3172302" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2010" bill.no="195" bill.type="government" stage="1" year="2010">
   <billdetail>
     <title>Holidays Amendment Bill</title>
     <billtype>Government Bill</billtype>
-    <repnote>As reported from the committee of the whole House</repnote>
+    <explnote id="DLM3172303" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="195" bill.type="government" stage="1" year="2010">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
+        <para>
+          <text>This Bill amends the Holidays Act 2003 (the <emphasis style="bold">principal Act</emphasis>) to improve the overall operation and efficiency of the principal Act. The Bill makes changes to the principal Act by—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allowing employees and employers to agree to the employer paying out up to 1 week of an employee’s minimum entitlement to annual holidays at the employee’s request:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>amending the calculation and application of payment for public holidays, alternative holidays, sick leave, and bereavement leave:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allowing employers and employees to agree to transfer the observance of public holidays to another working day:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allowing employers to direct when an alternative holiday is taken, should the employer and employee not reach an agreement:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>providing an additional test (the <quote.in quote="1">but for</quote.in> test) to the factors for determining a day that would otherwise be a working day under section 12 of the principal Act: </text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>allowing employers to request proof of sickness or injury within the first 3 consecutive calendar days of an employee taking sick leave without first having reasonable grounds to suspect that the sick leave is not genuine:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>clarifying employees' entitlements during a closedown period on days that would otherwise be working days for the employee:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>increasing the maximum penalties for non-compliance with the principal Act to $10,000 for individuals and $20,000 for companies and other bodies corporate:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>including a definition of discretionary payments in the principal Act:</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>clarifying the meaning of allowances in the principal Act.</text>
+              </para>
+            </item>
+          </list>
+        </para>
+        <para>
+          <text>These changes seek to provide greater choice for employers and employees, make the principal Act easier for employers and employees to understand and comply with, and improve the balance of fairness between employees and employers.</text>
+        </para>
+        <explnote.subhead1>Paying out annual holiday entitlement</explnote.subhead1>
+        <para>
+          <text>This Bill will allow an employee and employer to agree that an employer may pay out up to 1 week of an employee’s minimum annual holiday entitlement in any 1 entitlement year, at the employee’s request. Allowing employers and employees to agree that up to 1 week of an employee’s minimum annual holiday entitlement may be paid out does not affect current agreements that employers and employees may have to pay out any annual holiday entitlements that are above the minimum statutory entitlement of 4 weeks.</text>
+        </para>
+        <explnote.subhead2>Policy intent</explnote.subhead2>
+        <para>
+          <text>The statutory provision for annual holidays recognises the importance of providing employees with the opportunity for rest and recreation and promotes work-life balance. However, there may be some individual circumstances where an employee would prefer to exchange up to 1 week of his or her annual holidays for payment. Allowing a portion of an employee’s annual holiday entitlement to be paid out provides employees with more choice about how they exercise their minimum entitlement to annual holidays. Employees can either take annual holidays as holidays away from work or agree that a portion of their annual holidays be paid out. This change does not alter employees’ minimum entitlement to 4 weeks’ annual holidays.</text>
+        </para>
+        <explnote.subhead2>Employees may only request payout of annual holidays to which they are entitled</explnote.subhead2>
+        <para>
+          <text>An employee's request to have a portion of his or her annual holidays paid out only applies to annual holidays to which the employee is entitled. An employer and employee cannot agree to pay out annual holidays in advance of the employee's entitlement arising.</text>
+        </para>
+        <explnote.subhead2>Maximum of 1 week’s annual holidays may be paid out in entitlement year</explnote.subhead2>
+        <para>
+          <text>A maximum of 1 week’s annual holiday entitlement may be paid out in any 1 entitlement year, regardless of any existing entitlements from previous years. It is possible for employees to request that less than a week be paid out. Setting a maximum on the amount of holidays that may be paid out in any entitlement year ensures that employees still have a minimum of 3 weeks’ annual holidays away from work in the course of the year.</text>
+        </para>
+        <explnote.subhead2>Payment for annual holidays paid out</explnote.subhead2>
+        <para>
+          <text>The proposal in the Bill to allow an employee to request that a portion of his or her annual holidays entitlement be paid out is not intended to provide financial incentives for paying out or taking annual holidays away from work. For this reason, the same rate of pay is to be used for paying out annual holidays and taking annual holidays away from work.</text>
+        </para>
+        <explnote.subhead2>Protections for employees and employers</explnote.subhead2>
+        <para>
+          <text>The criteria for paying out annual holidays provide protections to employers and employees and ensure that both parties have a common understanding of their agreement. There must be a genuine agreement between an employer and employee, which can only be instigated by the employee. Employees cannot be pressured into requesting that a portion of their annual holidays be paid out, and employers cannot be pressured to agree to a request for a payout. </text>
+        </para>
+        <explnote.subhead2>Employer may have policy preventing payout</explnote.subhead2>
+        <para>
+          <text>Employers may have a policy that the employer does not have to consider an employee's request to have a portion of his or her annual holidays paid out. Employers are expected (but are not required by the Bill) to consult their employees on the development of any policy preventing the payout of annual holidays and advise potential new employees of the policy before they accept an offer of employment. This is intended to lower compliance costs for those businesses that are never able to or do not wish to agree to paying out annual holidays. It means that employers do not have to consider requests that they would never agree to and that they are up front with employees about their position on paying out annual holidays. It is not intended that a policy limiting the ability to pay out annual holidays can be extended to the taking of annual holidays as holidays away from work.</text>
+        </para>
+        <explnote.subhead2> Enforcing payout provisions</explnote.subhead2>
+        <para>
+          <text>It is intended that Labour Inspectors and the Employment Relations Authority should have the powers required to enforce compliance with the paying out of annual holidays to ensure that employees receive their minimum entitlement to annual holidays. This includes extending Labour Inspectors' powers to bring an action for penalties relating to an employee’s entitlement to, and payment for, annual holidays that are paid out. In line with their existing powers, Labour Inspectors will have the ability to determine the amount the employer is required to pay out and the portion of annual holidays being paid out where employers and employees cannot agree on 1 or both of these amounts (or on what was originally agreed between them). The Bill also provides that if an employer has incorrectly paid out a portion of the employee's annual holidays, the paid out portion of the employee's annual holidays is restored to the employee’s annual holidays’ balance, despite the payment being made.</text>
+        </para>
+        <explnote.subhead1>Calculating pay for public holidays, alternative holidays, sick leave, and bereavement leave</explnote.subhead1>
+        <para>
+          <text>The Bill provides for the payment of either relevant daily pay or average daily pay for public holidays, alternative holidays, sick leave, and bereavement leave. The Bill seeks to address the issues raised with the current provisions on relevant daily pay by making changes to when an employer may apply an averaging formula and the period the averaging formula applies to. The policy intent behind both relevant daily pay and average daily pay is to ensure a fair rate of pay for leave (particularly where a calculation is required to determine the rate of pay) and to ensure that an employer is able to assess quickly whether relevant daily pay or average daily pay applies to an employee. The policy intent of relevant daily pay remains unchanged (that is, paying employees what they would have earned had they worked on the day so that employees are not financially disadvantaged). The policy intent for the average daily pay calculation is that the method for calculating this average daily rate is simple to apply and does not create financial incentives for employers or employees to request, refuse, or require leave to be taken at any particular time or times.</text>
+        </para>
+        <para>
+          <text>Average daily pay replaces the current 4 week averaging formula provided in section 9(3) of the principal Act. When calculating payment for leave, employers are still required to attempt to determine what an employee would have earned on the day (relevant daily pay) in the first instance. However, the trigger for when an employer may move to an averaging formula has been made more permissive. The averaging formula may be used when it is not possible or practicable to determine what the employee would have earned or where an employee’s daily payment varies within the pay period in which the holiday or leave falls. In those situations, an employer may choose to continue to attempt to determine the employee’s relevant daily pay or move to the average daily pay calculation. Where it is not possible to determine the employee’s relevant daily pay, the employer must pay according to the employee’s average daily pay. Employers and employees will still be allowed to agree to a rate of pay for public holidays, alternative holidays, sick leave, or bereavement leave that is equal to, or greater than, relevant daily pay.</text>
+        </para>
+        <explnote.subhead1>Transferring observance of whole public holiday to another working day</explnote.subhead1>
+        <para>
+          <text>The Bill amends the principal Act to restore the ability of employers and employees to agree to transfer the observance of the whole of a public holiday to another working day. This change is intended to provide greater choice for employers and employees. The agreement may be with 1 employee or a group of employees, and may relate to the transfer of 1 or more public holidays. Employers and employees may agree to transfer public holidays because of the operational needs of the employer or the individual needs of the employee. For example, if Waitangi Day falls on a Wednesday, an employer and a group of employees who work Monday to Friday may agree to observe Waitangi Day on the Friday. Similarly, an employee may agree with his or her employer that he or she can observe Boxing Day on another working day that holds religious or cultural significance for the employee. The Bill sets out a number of criteria that employers and employees must meet if they wish to transfer a public holiday. Those criteria are designed to address previous concerns around determining whether there is a genuine agreement to transfer the public holiday. As with paying out a portion of annual holidays, employers may have a policy that the employer does not have to consider requests to transfer public holidays. It is intended that employers and employees will still be able to agree to transfer part of a public holiday as currently provided for in section 44A of the principal Act.</text>
+        </para>
+        <explnote.subhead1>Allowing employers to direct when alternative holiday must be taken</explnote.subhead1>
+        <para>
+          <text>The Bill amends the principal Act to change who can determine when an alternative holiday is to be taken if an employer and employee cannot agree. If an employer and employee are unable to reach agreement, the employer may reasonably determine when the alternative holiday is to be taken, irrespective of when the entitlement to an alternative holiday arose. The employer must give the employee at least 14 days’ notice of the date on which the employer requires the alternative holiday to be taken. This change addresses concerns that the current arrangements can have a negative impact on business operations and productivity if employees choose to take an alternative holiday on a day that is not convenient for the operation of the employer’s business.</text>
+        </para>
+        <explnote.subhead1>Additional factor for determining otherwise working day in section 12</explnote.subhead1>
+        <para>
+          <text>The Bill amends section 12(3) of the principal Act to insert an additional factor for determining what would otherwise be a working day. This factor is based on the current tool used by Labour Inspectors and is recognised in case law. It does not change the meaning of what would otherwise be a working day. </text>
+        </para>
+        <explnote.subhead1>Employers may request proof of sickness or injury within 3 consecutive calendar days without having reasonable grounds to suspect that sick leave is not genuine</explnote.subhead1>
+        <para>
+          <text>The Bill amends section 68(1A) of the principal Act to remove the requirement for an employer to have reasonable grounds to suspect that sick leave is not genuine before the employer can request proof of sickness or injury within 3 consecutive calendar days of an employee taking sick leave. This change is intended to reduce compliance costs for employers. Employers are still required to meet an employee’s reasonable expenses in obtaining the proof.</text>
+        </para>
+        <explnote.subhead1>Clarifying employee entitlements during closedown period</explnote.subhead1>
+        <para>
+          <text>The Bill aims to clarify the original policy intent of the principal Act. It clarifies that an employee is entitled to be paid for public holidays, an alternative holiday, sick leave, or bereavement leave falling during a closedown period if the day would otherwise be a working day for the employee. The purpose of providing for closedown periods in the principal Act (sections 29 to 35) was to enable employers to manage their businesses while balancing the employees’ annual holiday entitlements. It was not intended to have the effect that all days within the closedown period could be agreed to be treated as not otherwise working days.</text>
+        </para>
+        <explnote.subhead1>Increasing maximum penalties for non-compliance</explnote.subhead1>
+        <para>
+          <text>A number of changes are being made to the Employment Relations Act 2000 that relate to the function and powers of Labour Inspectors. To support these changes, the Bill proposes to increase the maximum penalties under the principal Act. The intention of increasing the amount of penalty is to signal to the courts that breaches are significant and warrant a higher penalty. The current penalty provisions are not adequately deterring non-compliance. Increasing those penalties provides an incentive for employers to comply and conveys a public message that breaches of minimum entitlements are not conducive to good commercial practice. This change is intended to promote compliance with minimum standards and not put employers who meet or exceed their employment obligations at a competitive disadvantage.</text>
+        </para>
+        <explnote.subhead1>Clarifying meaning of discretionary payments and allowances</explnote.subhead1>
+        <para>
+          <text>To help ensure that discretionary payments and allowances are better understood and applied correctly, the Bill proposes to insert a definition of discretionary payments in the principal Act and to clarify the meaning of allowances. These changes reflect the existing policy intent.</text>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Regulatory impact statement</heading>
+        <para>
+          <text>The Department of Labour produced a regulatory impact statement on 4 June 2010 to help inform the main policy decisions taken by the Government relating to the contents of this Bill.</text>
+        </para>
+        <para>
+          <text>A copy of this regulatory impact statement can be found at—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>
+                  <citation jurisdiction="nz">
+                    <extref href="www.dol.govt.nz/publications/general/gen-ris.asp">www.dol.govt.nz/publications/general/gen-ris.asp</extref>
+                  </citation>
+                </text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>
+                  <citation jurisdiction="nz">
+                    <extref href="www.treasury.govt.nz/publications/informationreleases/ris">www.treasury.govt.nz/publications/informationreleases/ris</extref>
+                  </citation>
+                </text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 2</emphasis> relates to commencement of the Bill. <emphasis style="italic">Clause 7(2)</emphasis> and <emphasis style="italic">Schedule 1</emphasis>, as far as it relates to the amendment to section 29 of the principal Act, come into force on the day after the date on which the Bill receives the Royal assent. The rest of the Bill comes into force on <changeable>1 April 2011</changeable>.</text>
+          </para>
+        </clause.desc>
+        <clause.desc>
+          <para>
+            <text><emphasis style="italic">Clause 3</emphasis> provides that the Bill amends the Holidays Act 2003.</text>
+          </para>
+        </clause.desc>
+        <explnote.part id="DLM3172304">
+          <label auto.number="no" denominator="yes">1  </label>
+          <heading>Amendments to principal Act</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 4</emphasis> amends section 5(1), which is an interpretation provision. The amendments—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>insert a definition of discretionary payment for the purposes of section 8(1)(c) (meaning of ordinary weekly pay) and section 14(b)(i) (meaning of gross earnings):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>insert a cross-reference to the definition of closedown period in section 29:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>substitute a new definition of public holiday because of <emphasis style="italic">new sections 44A and 44B</emphasis> (as inserted by <emphasis style="italic">clause 12</emphasis>).</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 5</emphasis> substitutes <emphasis style="italic">new sections 9 and 9A</emphasis>, which relate to relevant daily pay and average daily pay. <emphasis style="italic">New section 9</emphasis> re-enacts current section 9(1), (2), and (4) of the principal Act. <emphasis style="italic">New section 9A</emphasis> is a new provision. It provides that an employer may use the employee's average daily pay for the purposes of calculating payment for a public holiday, alternative holiday, sick leave, or bereavement leave if it is not possible or practicable to determine an employee's relevant daily pay under section 9 or if the employee's daily pay varies within the pay period in which the holiday or leave falls. <emphasis style="italic">New section 9A(2)</emphasis> sets out the formula for calculating the employee's average daily pay. <emphasis style="italic">New section 9A(3)</emphasis> clarifies that if the formula in <emphasis style="italic">new section 9A(2)</emphasis> is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of section 50(1)(a) (which relates to the requirement to pay time and a half).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> substitutes <emphasis style="italic">new section 11</emphasis>, which provides that a Labour Inspector may determine an employee's ordinary weekly pay, relevant daily pay, or average daily pay. The amendment is consequential on <emphasis style="italic">new section 9A</emphasis> (which relates to average daily pay).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 7</emphasis> amends section 12, which specifies factors that an employer and employee must take into account in determining what would otherwise be a working day for an employee if it is not clear whether a day would otherwise be a working day for the employee. <emphasis style="italic">Subclause (1)</emphasis> inserts <emphasis style="italic">new section 12(3)(d)</emphasis>, which provides that in determining if a day would otherwise be a working day for an employee, the employer and employee must also consider whether, but for the day being a public holiday, an alternative holiday, a day on which the employee was on sick leave or bereavement leave, the employee would have worked on the day concerned. <emphasis style="italic">Subclause (2)</emphasis> inserts <emphasis style="italic">new section 12(3A)</emphasis>, which clarifies that, where a public holiday, an alternative holiday, or a day on which the employee was on sick leave or bereavement leave falls during a closedown period, the factors listed in section 12(3) must be taken into account as if the closedown period were not in effect.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 8</emphasis> amends section 14, which defines the term gross earnings. <emphasis style="italic">Subclause (1)</emphasis> amends section 14(a)(ii), to clarify that allowances exclude non-taxable payments to reimburse an employee for any actual costs related to the employee's employment. <emphasis style="italic">Subclause (2)</emphasis> adds <emphasis style="italic">new section 14(c)(iv)</emphasis>, which provides that an employee's gross earnings exclude a payment made in accordance with <emphasis style="italic">new section 28B</emphasis> (which relates to payment for a portion of annual holidays that is paid out).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9</emphasis> substitutes <emphasis style="italic">new section 15</emphasis>, which relates to the purpose of subpart 1 of Part 2 (annual holidays). The main changes are that— </text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>new <emphasis style="italic">section 15(a)</emphasis> is consequentially amended to reflect the employee's entitlement to 4 weeks' annual holidays:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>new <emphasis style="italic">section 15(b)</emphasis> is consequentially amended to reflect the ability of an employee to request that up to 1 week of his or her annual holidays entitlement be paid out:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>current section 15(d) has not been re-enacted because the provision is spent. </text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 10</emphasis> inserts a new heading and <emphasis style="italic">new sections 28A to 28F</emphasis>, which enable an employee to request that up to 1 week of his or her annual holidays in each entitlement year be paid out, as follows:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><emphasis style="italic">new section 28A</emphasis> sets out the requirements for making a request: </text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><emphasis style="italic">new section 28B(1)</emphasis> provides how the employee's payout is to be calculated and when it must be made. <emphasis style="italic">New section 28B(2)</emphasis> provides that if an employer has incorrectly paid out a portion of an employee's annual holidays where the employee did not make a request for payment or in circumstances where the request was not informed and voluntary, the employee's entitlement to take the annual holidays concerned remains in force as if the payment had not been made:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><emphasis style="italic">new section 28C</emphasis> provides that an employment agreement must not include a provision that requires an employee to make a request for a portion of his or her annual holidays to be paid out. However, an employment agreement may contain a provision setting out the process for making a request under <emphasis style="italic">new section 28A</emphasis>: </text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><emphasis style="italic">new section 28D</emphasis> provides that a requirement for an employer to pay out a portion of an employee's annual holidays entitlement must not be included in the employee's terms and conditions of employment (whether contained in an employment agreement or otherwise) or be raised in wage or salary negotiations between the employer and employee: </text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><emphasis style="italic">new section 28E</emphasis> provides that an employer may have a policy that allows the employer to not have to consider requests under <emphasis style="italic">new section 28A</emphasis> that applies to the whole of the employer's business or to some parts of the business but not to others: </text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><emphasis style="italic">new section 28F</emphasis> provides that if an employer has agreed to pay out a portion of the employee's annual holidays but the employer and employee cannot agree on the portion of the annual holidays that are to be paid out or the amount of payment for those holidays, then a Labour Inspector may determine the matters for them.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 11</emphasis> amends section 43(b), which relates to the purpose of subpart 3 of Part 2 (public holidays) to reflect <emphasis style="italic">new section 44B</emphasis>, which relates to agreements to transfer the whole of a public holiday.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 12</emphasis> repeals section 44A, which provides for the transfer of part of a public holiday to another working day, and substitutes <emphasis style="italic">new sections 44A to 44C</emphasis>, which provide for the transfer of part of a public holiday or the whole of a public holiday to another working day. <emphasis style="italic">New section 44A</emphasis> substantially re-enacts current section 44A but clarifies, among other things, that an agreement to transfer part of a day must be informed and voluntary and must not be for the purpose of avoiding the employee's entitlements under sections 50 and 56 of the principal Act (which relate to the requirement to pay time and half and to provide an alternative holiday for working on a public holiday) although the transfer may have that effect. <emphasis style="italic">New section 44B</emphasis> provides for the transfer of the whole of a public holiday to another identifiable calendar day or period of 24 hours if certain criteria are met. <emphasis style="italic"> New section 44C</emphasis> provides that an employer may have a policy that allows the employer to not enter into agreements relating to the transfer of part, or the whole of, a public holiday under <emphasis style="italic">new section 44A or 44B</emphasis> that applies to the whole of the employer's business or to some parts but not to others.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 13</emphasis> substitutes <emphasis style="italic">new section 57(2) and (3)</emphasis>, which provide that if an employer and employee cannot agree on when the employee is to take an alternative holiday provided under section 56, the employer— </text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>may determine, on a reasonable basis, when the employee is to take the alternative holiday; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>must give the employee at least 14 days' notice of the requirement to take the alternative holiday.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 14</emphasis> substitutes <emphasis style="italic">new section 68(1A)</emphasis>, which changes when an employer may require proof of sickness or injury within the 3 or more consecutive calendar days specified in section 68(1). An employer no longer needs to have reasonable grounds to suspect that the sick leave being taken by the employee is not genuine before requesting proof of sickness or injury.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 15</emphasis> amends section 75, which specifies penalties for non-compliance with certain provisions of the principal Act. <emphasis style="italic">Subclauses (1) and (2)</emphasis> increase the penalties specified in section 75(1)—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>from $5,000 to $10,000 for an employer who is an individual; and</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>from $10,000 to $20,000 for an employer that is a company or other body corporate.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+            <para>
+              <text><emphasis style="italic">Subclause (3)</emphasis> inserts a cross-reference to <emphasis style="italic">new sections 28A and 28B</emphasis> in section 75(2), which specifies the provisions of the principal Act to which the penalties in section 75(1) apply to.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 16</emphasis> amends section 81(2), which specifies the information that an employer must enter in an employee's holiday and leave record. The amendment inserts <emphasis style="italic">new section 81(2)(ha), (hb) and (ja)</emphasis>, which provide that the employer must enter information relating to—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the portion of any annual holidays that have been paid out in each entitlement year (if applicable):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the date and amount of payment, in each entitlement year, for any portion of annual holidays paid out (if applicable):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the day or part of any public holiday specified in section 44(1) agreed to be transferred under <emphasis style="italic">new section 44A or 44B</emphasis> and the calendar day or period of 24 hours to which it has been transferred (if applicable).</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 17</emphasis> and <emphasis style="italic">Schedule 1</emphasis> make consequential amendments to the principal Act.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM3172305">
+          <label auto.number="no" denominator="yes">2  </label>
+          <heading>Consequential amendments</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 18</emphasis> and <emphasis style="italic">Schedule 2</emphasis> make consequential amendments to other Acts.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 19</emphasis> is a transitional provision, which clarifies that a request under <emphasis style="italic">new section 28A</emphasis> (as inserted by <emphasis style="italic">clause 10</emphasis>) may be made only in relation to an entitlement year that begins on or after the commencement of the Bill.</text>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from the committee of the whole House</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM3172306">
     <member>Hon Kate Wilkinson</member>
     <title>Holidays Amendment Bill</title>
@@ -145,7 +466,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM3172312" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="195" bill.type="government" stage="3" year="2010">
+    <part id="DLM3172312" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="195" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Amendments to principal Act</heading>
       <prov id="DLM3172313" irdnumbering="no" skeleton="no" toc="yes">
@@ -173,25 +494,13 @@
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
-                        <text>means a payment that the employer is not bound, by the employee’s employment agreement, to pay the employee; but</text>
+                        <text>means payment of an amount that the employer is not bound, by the employee’s employment agreement, to pay the employee; but</text>
                       </para>
                     </label-para>
                     <label-para quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">b</label>
                       <para>
-                        <text>does not include a payment that the employer is bound, by the employee's employment agreement, to pay the employee, even though—</text>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">i</label>
-                          <para>
-                            <text>the amount to be paid is not specified in that employment agreement and the employer may determine the amount to be paid; or</text>
-                          </para>
-                        </label-para>
-                        <label-para quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">ii</label>
-                          <para>
-                            <text>the employer is required under that employment agreement to make the payment only if certain conditions are met</text>
-                          </para>
-                        </label-para>
+                        <text>does not include payment of an amount where the amount to be paid is discretionary, even though the payment itself is provided for in the employment agreement</text>
                       </para>
                     </label-para>
                   </para>
@@ -577,6 +886,12 @@
                       <para>
                         <text>A request under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>—</text>
                         <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>must be informed and voluntary; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
                             <text>must be in writing; and</text>
@@ -677,7 +992,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>If an employer has incorrectly paid out a portion of the employee's annual holidays where the employee did not make a request for the payment, the employee's entitlement to take the portion of annual holidays concerned remains in force as if the payment had not been made.</text>
+                        <text>If an employer has incorrectly paid out a portion of the employee's annual holidays where the employee did not make a request for the payment, or in circumstances where the employee's request for payment was not informed and voluntary, the employee's entitlement to take the portion of annual holidays concerned remains in force as if the payment had not been made.</text>
                       </para>
                     </subprov>
                   </prov.body>
@@ -862,7 +1177,7 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
-                        <text>If the criterion in <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> is met, the employee and his or her employer may agree in writing (whether in an employment agreement or otherwise)— </text>
+                        <text>If the criteria in <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> are met, the employee and his or her employer may agree in writing (whether in an employment agreement or otherwise)— </text>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
@@ -916,7 +1231,19 @@
                     <subprov quote="1" skeleton="no">
                       <label auto.number="no" denominator="yes" quote="1">3</label>
                       <para>
-                        <text>The criterion is that the purpose of the transfer is not to avoid the employee's entitlements under sections 50 and 56 for working on a public holiday, although the transfer may have that effect.</text>
+                        <text>The criteria are that—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the agreement must be informed and voluntary; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the purpose of the transfer is not to avoid the employee's entitlements under sections 50 and 56 for working on a public holiday, although the transfer may have that effect. </text>
+                          </para>
+                        </label-para>
                       </para>
                     </subprov>
                     <subprov quote="1" skeleton="no">
@@ -968,6 +1295,12 @@
                       <label auto.number="no" denominator="yes" quote="1">2</label>
                       <para>
                         <text>The criteria are that—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the agreement must be informed and voluntary; and</text>
+                          </para>
+                        </label-para>
                         <label-para quote="1" skeleton="no">
                           <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
@@ -1089,22 +1422,8 @@
         <label auto.number="no" denominator="yes">13</label>
         <heading>Requirements for alternative holiday</heading>
         <prov.body>
-          <subprov amend.level1="insert-cowh" skeleton="no">
-            <label amend.level1="insert-cowh" auto.number="no" denominator="yes">1</label>
-            <para amend.level1="insert-cowh">
-              <text>Section 57(1) is amended by adding <quote.in amend.level1="insert-cowh" quote="1">; and</quote.in> and also by adding the following paragraph:</text>
-              <amend amend.level1="insert-cowh" increment="1" quote="1">
-                <label-para amend.level1="insert-cowh" quote="1" skeleton="no">
-                  <label amend.level1="insert-cowh" auto.number="no" denominator="yes" quote="1">d</label>
-                  <para amend.level1="insert-cowh">
-                    <text>not be taken on a public holiday.</text>
-                  </para>
-                </label-para>
-              </amend>
-            </para>
-          </subprov>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
+            <label auto.number="no" denominator="yes"/>
             <para>
               <text>Section 57 is amended by repealing subsections (2) and (3) and substituting the following subsections:</text>
               <amend quote="1">
@@ -1130,7 +1449,7 @@
         <heading>Proof of sickness or injury</heading>
         <prov.body>
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
+            <label auto.number="no" denominator="yes"/>
             <para>
               <text>Section 68 is amended by repealing subsection (1A) and substituting the following subsection:</text>
               <amend quote="1">
@@ -1150,26 +1469,6 @@
                         <text>agrees to meet the employee's reasonable expenses in obtaining the proof.</text>
                       </para>
                     </label-para>
-                  </para>
-                </subprov>
-              </amend>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>Section 68(3) is amended by omitting <amend.in quote="1">(within the meaning of the Medical Practitioners Act 1995)</amend.in>.</text>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>Section 68 is amended by adding the following subsection:</text>
-              <amend quote="1">
-                <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">5</label>
-                  <para>
-                    <text>In this section, <def-term id="DLM3331901">medical practitioner</def-term> means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.</text>
                   </para>
                 </subprov>
               </amend>
@@ -1265,7 +1564,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM3172355" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="195" bill.type="government" stage="3" year="2010">
+    <part id="DLM3172355" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="195" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Amendments to other Acts and transitional provision</heading>
       <prov id="DLM3172356" irdnumbering="no" skeleton="no" toc="yes">
@@ -1295,7 +1594,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule id="DLM3172358" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="195" bill.type="government" stage="3" year="2010">
+    <schedule id="DLM3172358" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="195" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="yes">1 </label>
       <empowering-prov>
         <changeable>
@@ -1416,7 +1715,7 @@
         </schedule.amendments.group2>
       </schedule.amendments>
     </schedule>
-    <schedule id="DLM3172374" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="195" bill.type="government" stage="3" year="2010">
+    <schedule id="DLM3172374" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" bill.no="195" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="yes">2 </label>
       <empowering-prov>
         <changeable>
@@ -1448,25 +1747,4 @@
       </schedule.amendments>
     </schedule>
   </schedule.group>
-  <end id="DLM3331902">
-    <leg-history id="DLM3331903">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2010-08-16</date>
-        <description>Introduction (Bill 195–1)</description>
-      </history-item>
-      <history-item>
-        <date>2010-08-24</date>
-        <description>First reading and referral to Transport and Industrial Relations Committee</description>
-      </history-item>
-      <history-item>
-        <date>2010-11-02</date>
-        <description>Reported from Transport and Industrial Relations Committee (Bill 195–2)</description>
-      </history-item>
-      <history-item>
-        <date>2010-11-16</date>
-        <description>Second reading, committee of the whole House (Bill 195–3)</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
