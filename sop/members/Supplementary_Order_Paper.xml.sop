@@ -1,55 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3322100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="173">
-  <date>Tuesday, 26 October 2010</date>
-  <billref>Governor-General Bill</billref>
-  <body id="DLM3322101">
+<sop id="DLM3067900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Members" sop.no="150">
+  <date>Wednesday, 30 June 2010</date>
+  <billref>Courts (Remote Participation) Bill</billref>
+  <body id="DLM3067901">
     <heading>Proposed amendment</heading>
-    <motion>Keith Locke, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3322102">
-      <clause.ref>Part 1 heading</clause.ref>
+    <motion>Dr Kennedy Graham, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM3067902">
+      <clause.ref>Clause 9</clause.ref>
       <sop.para>
-        <text>Insert “<emphasis style="bold">appointment, term of appointment,</emphasis>” after “<emphasis style="bold">Provisions relating to</emphasis>” (line 2 on page 3).</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3322103">
-      <clause.ref>New clause 4A </clause.ref>
-      <sop.para>
-        <text>Insert the following clause after clause 4 (after line 28 on page 3):</text>
+        <text>To omit this clause (lines 18 to 26 on page 6) and substitute the following clause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3322104" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">4A</label>
-            <heading>Appointment of Governor-General</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>The Governor-General is appointed by the Sovereign on the recommendation of the House of Representatives. The recommendation must be agreed to by at least 75% of all members of Parliament.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3322105">
-      <clause.ref>New clause 5A</clause.ref>
-      <sop.para>
-        <text>Insert the following clause after clause 5 (after line 15 on page 4):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3322106" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">5A</label>
-            <heading>Term of appointment of Governor-General</heading>
+          <prov id="DLM3067903" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">9</label>
+            <heading>Use of audio-visual links in criminal substantive matters </heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">1</label>
                 <para>
-                  <text>The Governor-General is to be appointed for a term not exceeding 5 years.</text>
+                  <text>AVL must not be used in any criminal substantive matter for the appearance of a defendant, unless the defendant so elects.   </text>
                 </para>
               </subprov>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">2</label>
                 <para>
-                  <text>A person who has been appointed as Governor-General cannot be reappointed as Governor-General.</text>
+                  <text>AVL must not be used in any criminal substantive matter for the appearance of any other participant unless the judicial officer in the proceeding determines to allow its use for the appearance of that participant in the proceeding—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>in accordance with the criteria in <changeable><citation jurisdiction="nz">sections 5 and 6</citation></changeable>; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>taking into account whether the parties to the proceeding consent to the use.</text>
+                    </para>
+                  </label-para>
                 </para>
               </subprov>
             </prov.body>
@@ -58,10 +44,31 @@
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3322107" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="173">
+  <explnote id="DLM3067904" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Members" sop.no="150">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Governor-General Bill.  The purpose of the amendment is to modernise and streamline the appointment process for the Governor-General</text>
+      <text>This Supplementary Order Paper amends the Courts (Remote Participation) Bill. The purpose of the amendment is to ensure that a defendant’s right to be physically present in one’s own trial for substantive criminal hearings is protected.</text>
+    </para>
+    <para>
+      <text>The right of an individual to be present at one’s own trial is a fundamental right in the common law tradition. Section 25(e) of the New Zealand Bill of Rights Act 1990 enshrines “the right to be present at the trial…”. </text>
+    </para>
+    <para>
+      <text>While the exercise of such a right may not be absolute, it constitutes a fundamental right of the New Zealand criminal law. </text>
+    </para>
+    <para>
+      <text>The right to be present at trial is protected by section 376(1) of the Crimes Act 1961, which states that “Every accused person shall be entitled to be present in Court during the whole of his trial, unless he misconducts himself by so interrupting the proceedings as to render their continuance in his presence impractical.”</text>
+    </para>
+    <para>
+      <text>Further, section 354 of the Act protects the right to present a defence.  It provides that everyone accused of a crime “may make his full answer thereto by himself or by counsel.”</text>
+    </para>
+    <para>
+      <text>It is a hallmark of repressive regimes that a person can be convicted without the ability to participate in the deliberations of, and appear before, the tribunal empowered to convict.  The right to be present—in order to be effective—must mean that the state cannot so organise the Court system as to engineer the non-participation of the accused. [See A. &amp; P. Butler, <emphasis style="italic">The New Zealand Bill of Rights Act</emphasis> (LexisNexis; 2005), 850–1.]</text>
+    </para>
+    <para>
+      <text>This Bill, as currently drafted, would have the state “so organise the Court system” as to engineer the effective non-participation of the accused.  Surrendering the principle of physical presence in a criminal trial would be tantamount to a violation of natural justice.  Specifically it violates the second principle of natural justice—<emphasis style="italic">audi alteram partem</emphasis>.</text>
+    </para>
+    <para>
+      <text>This right needs to be protected to ensure that defendants receive a fair trial.</text>
     </para>
   </explnote>
 </sop>
