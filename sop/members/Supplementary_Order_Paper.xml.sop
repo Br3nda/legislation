@@ -1,41 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3009800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0008" stage="published" year="2010" raised.by="Members" sop.no="130">
-  <date>Tuesday, 1 June 2010</date>
+<sop id="DLM3015700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0013" stage="published" year="2010" raised.by="Members" sop.no="140">
+  <date>Wednesday, 2 June 2010</date>
   <billref>Local Government (Auckland Law Reform) Bill</billref>
-  <body id="DLM3009801">
-    <heading>Proposed amendments</heading>
-    <motion>David Clendon, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM3009802">
-      <clause.ref>Clause 59:</clause.ref>
+  <body id="DLM3015701">
+    <heading>Proposed amendment</heading>
+    <motion>Rahui Katene, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM3015702">
+      <clause.ref>New clause 4B:</clause.ref>
       <sop.para>
-        <text>To omit this clause (lines 2 to 13 on page 130).</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3009803">
-      <clause.ref>Clause 60:</clause.ref>
-      <sop.para>
-        <text>To omit this clause (lines 14 to 19 on page 130) and substitute the following clause:</text>
+        <text>To insert the following clause after clause 4A (after line 7 on page 19):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3009804" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">60</label>
-            <heading>Poll to be conducted on electoral system for 2013 triennial general election</heading>
+          <prov id="DLM3018200" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">4B</label>
+            <heading>New section 3A inserted</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
+                <label auto.number="no" denominator="yes"/>
                 <para>
-                  <text>The Auckland Council must, no later than 28 February 2012, resolve to conduct a poll on the electoral system to be used for the elections of the local authority and its local boards.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text><emphasis style="bold">Subsection (1)</emphasis> applies despite anything in sections 27 to 32 of the Local Electoral Act 2001.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>Sections 33 and 34 of the Local Electoral Act 2001 apply to the poll required by <emphasis style="bold">subsection (1)</emphasis>.</text>
+                  <text>The following section is inserted after section 3:</text>
+                  <amend>
+                    <prov id="DLM3018201" irdnumbering="no" skeleton="no" toc="yes">
+                      <label auto.number="no" denominator="yes">3A</label>
+                      <heading>Principles of the Treaty of Waitangi</heading>
+                      <prov.body>
+                        <subprov skeleton="no">
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>This Act must be interpreted and administered so as to give effect to the principles of the Treaty of Waitangi.</text>
+                          </para>
+                        </subprov>
+                      </prov.body>
+                    </prov>
+                  </amend>
                 </para>
               </subprov>
             </prov.body>
@@ -43,50 +39,55 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM3009805">
-      <clause.ref>Clause 62(1):</clause.ref>
-      <sop.para>
-        <text>To omit <amend.in quote="1">1 July 2012</amend.in> (lines 13 of page 131) and substitute <amend.in quote="1">1 April 2014</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text>To omit from the definition of <amend.in><def-term id="DLM3009806">moratorium</def-term></amend.in> (line 26 of page 132) <amend.in quote="1">1 July 2012</amend.in> and substitute <amend.in quote="1">1 April 2014</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
   </body>
-  <explnote id="DLM3009807" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0008" stage="published" year="2010" raised.by="Members" sop.no="130">
+  <explnote id="DLM3015704" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0013" stage="published" year="2010" raised.by="Members" sop.no="140">
     <heading>Explanatory note</heading>
     <para>
-      <text><emphasis style="italic">Clause 59</emphasis> denies Aucklanders the right to make any reorganisation proposal to the Local Government Commission until after the 2013 triennial general elections, despite the considerable disquiet about being included within the district of the Auckland Council expressed to the Auckland Governance Legislation Committee by many residents of Franklin, Rodney and Papakura Districts.</text>
-    </para>
-    <para>
-      <text>The democratic right to petition for a reorganisation proposal is conferred upon electors of all other territorial and unitary authorities and regional councils by Schedule 3 of the Local Government Act 2002. Clause 59 proposes to deny that right to electors of the Auckland Council.</text>
-    </para>
-    <para>
-      <text>This Supplementary Order Paper will ensure that the democratic right to petition for a reorganisation proposal is preserved in Auckland. </text>
-    </para>
-    <para>
-      <text><emphasis style="italic">Clause 60</emphasis> as reported by the Auckland Governance Legislation Committee proposes that the First Past the Post (FPP) electoral system must be used for the 2013 triennial general elections for the Auckland Council and its local boards.</text>
-    </para>
-    <para>
-      <text>The report of the Auckland Governance Legislation Committee on the earlier Local Government (Auckland Council) Bill acknowledged that the STV voting system was more popular among submitters than the alternative FPP voting system which was supported by the Committee majority.</text>
-    </para>
-    <para>
-      <text>While, ideally, electors in Auckland should be polled on the electoral system to be used for the October 2010 triennial general election for the Auckland Council and its local boards, time constraints now preclude that option.</text>
-    </para>
-    <para>
-      <text>No such time constraints exist, however, in relation to the 2013 triennial general election for the Auckland Council and its local boards.</text>
-    </para>
-    <para>
-      <text>This Supplementary Order Paper proposes to give Aucklanders the democratic right to choose their electoral system for that election.</text>
-    </para>
-    <para>
-      <text><emphasis style="italic">Clause 62</emphasis> provides for a moratorium on the sale, transfer or disposal of strategic property of the Auckland Council or it’s Council-Controlled Organisations (other than to or between the Auckland Council and its Council-Controlled Organisations or their subsidiaries). The period of the moratorium proposed in the Bill as reported is from 1 November 2010 to 1 July 2012.</text>
-    </para>
-    <para>
-      <text>This Supplementary Order Paper proposes to extend the period of the moratorium to 1 April 2014.</text>
-    </para>
-    <para>
-      <text>Many submitters to the Auckland Governance Legislation Committee expressed concerns over the possible privatisation of strategic property of the Auckland Council or its Council-Controlled Organisations. The reason for the extension of the moratorium proposed by this Supplementary Order Paper is to ensure that any proposal by the Auckland Council or its Council-Controlled Organisations to privatise strategic property has a democratic mandate through the 2013 triennial general election before it is finalised.</text>
+      <text>The purpose of the SOP is to amend the Local Government (Auckland Law Reform) Bill to ensure that—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>coherence is given to the Government’s commitment to the partnership between Māori and the Crown, give legal effect to the commitment to the principles of the Treaty, to maintain Māori confidence in the Auckland area, and to accelerate progress towards social, cultural and economic development and wellbeing between Māori and non-Māori; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>a Treaty of Waitangi clause will provide a legitimate and substantive framework upon which decisions regarding Auckland will be considered; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>recognition is given to the annual review of relations released in March by the Human Rights Commission, which identified Māori representation in local government and an effective voice for Māori in the decisions of the new Auckland Council as being among the top ten race relations priorities; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>recognition is given to the Declaration of the Rights of Indigenous Peoples. Particularly article 18, which sets out the aspiration that <quote.in quote="1">indigenous peoples have the right to participate in decision-making in matters, which would affect their rights, through representatives chosen by themselves</quote.in>; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>effect is given to the view that these issues are respectively not recognised by a Māori advisory group; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>recognition is given to uphold the nation’s constitutional foundations, current law, and the wish of the people, particularly mana whenua for the benefit of Māori and the wider public; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>recognition is given to the Local Government Act 2002, which sets the expectation, that local authorities will <quote.in quote="1"><emphasis style="italic">foster Māori capacity to contribute to the decision-making processes of the local authority</emphasis></quote.in>.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
