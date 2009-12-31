@@ -1,69 +1,844 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3028800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0005" stage="published" year="2010" raised.by="Government" sop.no="142">
-  <date>Tuesday, 15 June 2010</date>
-  <billref>Statutes Amendment Bill</billref>
-  <body id="DLM3028801">
+<sop id="DLM3128100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0005" stage="published" year="2010" raised.by="Government" sop.no="154">
+  <date>Tuesday, 7 September 2010</date>
+  <billref>Electricity Industry Bill</billref>
+  <body id="DLM3128101">
     <heading>Proposed amendments</heading>
-    <motion>Hon Nathan Guy, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM3028802">
-      <clause.ref>Schedule 1</clause.ref>
+    <motion>Hon Gerry Brownlee, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3128102">
+      <clause.ref>Clause 5</clause.ref>
       <sop.para>
-        <text>To insert the following item after the Schedule 1 heading (after line 2 on page 59):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <schedule.amendments.group2 id="DLM3028803" toc="yes">
-            <heading>Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35)</heading>
-            <para>
-              <text>Section 59(4)(a): omit <amend.in quote="1">Institute of Chartered Accountants of New Zealand Act 1996</amend.in> and substitute <amend.in quote="1">New Zealand Institute of Chartered Accountants Act 1996</amend.in>.</text>
-            </para>
-          </schedule.amendments.group2>
-        </instrument.amend>
+        <text>Definition of <emphasis style="bold">market operation service provider</emphasis>: to omit <amend.in quote="1">and any of the following persons appointed by the Authority under the Code:</amend.in> (lines 7 and 8 on page 12) and substitute <amend.in quote="1">and any person appointed by the Authority under the Code to perform any of the following market operation service provider roles:</amend.in>.</text>
       </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3028804">
-      <clause.ref>Item relating to Real Estate Agents Act 1976 (1976 No 9) in Schedule 1</clause.ref>
       <sop.para>
-        <text>To omit this item (lines 8 to 14 on page 62).</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3028805">
-      <clause.ref>Schedule 2</clause.ref>
-      <sop.para>
-        <text>To insert the following item after the item relating to the Airport Authorities (Airport Companies Information Disclosure) Regulations 1999 (SR 1999/242) (after line 7 on page 64):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <schedule.amendments.group2 id="DLM3028806" toc="yes">
-            <heading>Climate Change (Unique Emissions Factors) Regulations 2009 (SR 2009/286)</heading>
+        <text>Definition of <emphasis style="bold">market operation service provider</emphasis>: to add the following paragraph (after line 14 on page 12):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">g</label>
             <para>
-              <text>Regulation 26(2)(a)(i): omit <amend.in quote="1">Institute of Chartered Accountants of New Zealand Act 1996</amend.in> and substitute <amend.in quote="1">New Zealand Institute of Chartered Accountants Act 1996</amend.in>.</text>
+              <text>any other role identified in regulations as a market operation service provider role</text>
             </para>
-          </schedule.amendments.group2>
+          </label-para>
         </instrument.amend>
       </sop.para>
       <sop.para>
-        <text>To insert the following item after the item relating to the Lawyers and Conveyancers Act (Trust Account) Regulations 2008 (SR 2008/183) (after line 11 on page 66):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <schedule.amendments.group2 id="DLM3028807" toc="yes">
-            <heading>Real Estate Agents (Audit) Regulations 2009 (SR 2009/279)</heading>
+        <text>Definition of <emphasis style="bold">works</emphasis>: to omit paragraph (b) (lines 11 to 17 on page 14) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
             <para>
-              <text>Definition of <emphasis style="bold">chartered accountant</emphasis> in regulation 4(1): omit <amend.in quote="1">Institute of Chartered Accountants of New Zealand Act 1996</amend.in> and substitute <amend.in quote="1">New Zealand Institute of Chartered Accountants Act 1996</amend.in>.</text>
+              <text>does not include any part of an electrical installation (as defined in section 2(1) of the Electricity Act 1992).</text>
             </para>
-            <para>
-              <text>Regulation 10(1)(b): omit <amend.in quote="1">Institute of Chartered Accountants of New Zealand Act 1996</amend.in> and substitute <amend.in quote="1">New Zealand Institute of Chartered Accountants Act 1996</amend.in>.</text>
-            </para>
-          </schedule.amendments.group2>
+          </label-para>
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM3028808">
-      <clause.ref>Item relating to Commodity Levies (Tamarillos) Order 2003 (SR 2003/319) in Schedule 2</clause.ref>
+    <sop.amend id="DLM3128103">
+      <clause.ref>Clause 18(1)</clause.ref>
       <sop.para>
-        <text>To omit this item (lines 4 to 10 on page 65).</text>
+        <text><emphasis style="italic">Paragraph (c)</emphasis>: to add (line 35 on page 21) <amend.in quote="1">, and to exempt individual industry participants from the obligation to comply with the Code or specific provisions of the Code</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (f)</emphasis>: to omit <amend.in quote="1">(<emphasis style="italic">see</emphasis> <changeable><citation jurisdiction="nz">section 47A</citation></changeable>)</amend.in> (lines 9 and 10 on page 22).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3200400">
+      <clause.ref>Clause 38</clause.ref>
+      <sop.para>
+        <text>To omit <emphasis style="italic">subclause (2)</emphasis> (lines 10 to 12 on page 33) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The Minister must publicise the draft Code as soon as practicable after it is certified.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128104">
+      <clause.ref>Clause 47</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (6)</emphasis>: to omit this subclause (lines 20 to 22 on page 38).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128105">
+      <clause.ref>Clause 48</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclauses (4) and (5)</emphasis>: to omit these subclauses (lines 19 to 24 on page 42) and substitute the following subclauses:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>The Rulings Panel may determine appeals against decisions made under the Code, and resolve disputes between industry participants that relate to the Code, that are of a kind that are identified in the regulations or the Code.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text>If the regulations or the Code prescribe practices and procedures in relation to any kind of such appeal or dispute, the Rulings Panel must apply those practices and procedures when dealing with the appeal or dispute.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128106">
+      <clause.ref>Clause 55</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (2)</emphasis>: to omit this subclause (lines 29 to 31 on page 47) and substitute the following subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The Rulings Panel may determine its own procedures, subject to this Act and the regulations, the requirements of natural justice, and, in relation to particular kinds of appeals and disputes, the Code.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)</emphasis>: to omit <amend.in quote="1">and the regulations</amend.in> (line 33 on page 47) and substitute <amend.in quote="1">, the regulations, and the Code</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>Compare note: to insert after <quote.in quote="1">96</quote.in> (line 34 on page 47) <amend.in quote="1">, 171A</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128107">
+      <clause.ref>Clause 59</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">a record-keeping</amend.in> (line 12 on page 50) and substitute <amend.in quote="1">an</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128108">
+      <clause.ref>Clauses 62A and 62B</clause.ref>
+      <sop.para>
+        <text>To omit these clauses (lines 17 to 35 on page 51 and 1 to 3 on page 52) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3128109" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">62A</label>
+            <heading>Powers in relation to appeals and disputes</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>In determining an appeal, or resolving a dispute, of a kind identified in the regulations or the Code, the Rulings Panel may make any determination, order, or direction that it thinks fit, subject to—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>any general provisions of the regulations relating to appeals and disputes; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>if there are specific provisions in the regulations or the Code relating to that kind of appeal or dispute, those provisions.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128110">
+      <clause.ref>Clause 63</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 56, 60, or 62B</citation></changeable></amend.in> (lines 5 and 6 on page 52) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 56 or 60</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128111">
+      <clause.ref>Clause 66(1)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (e)</emphasis>: to omit this paragraph (line 6 on page 53) and substitute the following paragraphs:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">e</label>
+            <para>
+              <text>a costs order (<changeable><citation jurisdiction="nz">section 56(1)(g)</citation></changeable>):</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">f</label>
+            <para>
+              <text>an order by the Rulings Panel, in relation to a particular kind of appeal or dispute, that is identified in the regulations or the Code as an order that may be appealed to the High Court under this section.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128112">
+      <clause.ref>Clause 79</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (1)</emphasis> (after line 14 on page 60):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1AA</label>
+            <para>
+              <text>A use-of-systems agreement required by <changeable><citation jurisdiction="nz">subsection (1)(a)</citation></changeable> must be entered into, in the case of a business to which the corporate separation rule does not apply, as if the distribution business and the connected retailer or connected generator were separate legal persons.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3200401">
+      <clause.ref>Clause 99</clause.ref>
+      <sop.para>
+        <text>To add the following subclause (after line 17 on page 72):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text>A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3200402">
+      <clause.ref>Clause 100(1)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">A member</quote.in> (line 19 on page 72) <amend.in quote="1">or former member</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">the member</quote.in> (line 20 on page 72) <amend.in quote="1">or former member</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128113">
+      <clause.ref>Clause 106(4)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">The Authority's</amend.in> (line 28 on page 75) and substitute <amend.in quote="1">For the purpose of enforcing <changeable><citation jurisdiction="nz">sections 101 to 105</citation></changeable> and any regulations made under <changeable><citation jurisdiction="nz">section 121</citation></changeable>, the Authority's</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128114">
+      <clause.ref>Clause 110(4)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">, but only if those costs are less than the costs would have been had electricity continued to be supplied to the place by line function services</amend.in> (lines 14 to 16 on page 79).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128115">
+      <clause.ref>Clause 116</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 11 to 17 on page 82) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3128116" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">116</label>
+            <heading>Regulations identifying industry participants and market operation service provider roles</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>The Governor-General may, by Order in Council made on the recommendation of the Minister, given after consulting the Authority, make regulations for the following purposes:</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>identifying which industry service providers, in addition to those listed in <changeable><citation jurisdiction="nz">section 9(2)</citation></changeable>, are industry participants:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>identifying market operation service provider roles that are additional to those listed in the definition of market operation service provider in <changeable><citation jurisdiction="nz">section 5</citation></changeable>.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128117">
+      <clause.ref>Clause 119(1)</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (da)</emphasis>: to omit this paragraph (lines 29 to 32 on page 83) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">da</label>
+            <para>
+              <text>identifying the kinds of appeals and disputes that may be determined by the Rulings Panel:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (e)</emphasis>: to omit this paragraph (lines 35 to 38 on page 83) and substitute the following paragraphs:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">e</label>
+            <para>
+              <text>prescribing, both generally and in relation to specific kinds of appeal or dispute, practices and procedures of the Rulings Panel for dealing with appeals and disputes, whether those appeals and disputes are identified in the regulations or the Code:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">ea</label>
+            <para>
+              <text>prescribing determinations, orders, or directions, or imposing limits on any determinations, orders, or directions, that the Rulings Panel may make in relation to specific kinds of appeals and disputes (whether those appeals and disputes are identified in the regulations or the Code), and providing for any associated rights of appeal:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128118">
+      <clause.ref>Clause 124AA</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (3)</emphasis> (after line 30 on page 91):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>However, the Minister for State Owned Enterprises may withhold from disclosure under <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable> any part of a direction that he or she considers is commercially sensitive, and in that case must substitute a note of explanation for the parts withheld.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128119">
+      <clause.ref>Clause 124AB</clause.ref>
+      <sop.para>
+        <text>To insert the following subclauses after <emphasis style="italic">subclause (4)</emphasis> (after line 18 on page 92):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4A</label>
+            <para>
+              <text>In <changeable><citation jurisdiction="nz">subsections (3) and (4)</citation></changeable>, the references to any other Act do not extend to the Commerce Act 1986 (but <changeable><citation jurisdiction="nz">section 128</citation></changeable> provides specific authorisations under that Act).</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4B</label>
+            <para>
+              <text>To avoid doubt, <changeable><citation jurisdiction="nz">subsections (3) and (4)</citation></changeable> do not give any protection from liability for breach of, or default under, any agreement.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128120">
+      <clause.ref>Clause 124F(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">under <changeable><citation jurisdiction="nz">section 124E(1) or (4)</citation></changeable></amend.in> (line 5 on page 97) and substitute <amend.in quote="1">under <changeable><citation jurisdiction="nz">section 124E(4)</citation></changeable>, but nothing in this section requires the terms and conditions of any agreement to be disclosed under <changeable><citation jurisdiction="nz">section 124AA(3)</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3200403">
+      <clause.ref>Clause 125</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 19 to 32 on page 97) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3200404" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">125</label>
+            <heading>Whirinaki</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>The Minister may terminate the Whirinaki agreement, at any time before its termination date, by notice in writing to the Authority.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>The Minister must publicise the termination as soon as practicable.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>Until the Whirinaki agreement terminates, the Whirinaki agreement continues as if—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>the Authority were the Commission and the reserve energy scheme were continuing; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>this Act had not been passed.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>In this Part, the <emphasis style="bold">Whirinaki agreement</emphasis> means the reserve generation capacity agreement entered into between the Electricity Commission and Her Majesty the Queen in right of New Zealand.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128121">
+      <clause.ref>Clause 126</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)(b)</emphasis>: to omit this paragraph (lines 14 to 19 on page 98) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
+            <para>
+              <text>the costs that are associated with the Whirinaki agreement referred to in <changeable><citation jurisdiction="nz">section 125</citation></changeable>, and any costs incurred by the Crown that are associated with the Whirinaki generating plant after the Whirinaki agreement is terminated; and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)(d)(ii)</emphasis>: to omit <amend.in quote="1">30 March</amend.in> (line 36 on page 98) and substitute <amend.in quote="1">31 March</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (3)</emphasis>: to insert the following paragraph after <emphasis style="italic">paragraph (g)</emphasis> (after line 8 on page 99):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">ga</label>
+            <para>
+              <text>for the first financial year to which the levy applies, the costs incurred by the Crown on or after 1 January 2010 relating to establishing the Authority, disestablishing the Electricity Commission, transferring functions to other agencies, and preparing the initial Code; and </text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (5)(g)</emphasis>: to omit this paragraph (lines 28 to 34 on page 99).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128122">
+      <clause.ref>Clause 128(1)(b)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 21 and 22 on page 101) and substitute the following paragraphs:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">b</label>
+            <para>
+              <text>the giving by the shareholding Ministers of a direction under this subpart; and</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">ba</label>
+            <para>
+              <text>anything done or omitted by a State generator, or a director or employee of a State generator, if the act or omission is reasonably necessary to—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">i</label>
+                <para>
+                  <text>comply with a direction given under this subpart; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">ii</label>
+                <para>
+                  <text>give effect to a contract entered into pursuant to a direction under <changeable><citation jurisdiction="nz">section 124(2)(d)</citation></changeable>; and</text>
+                </para>
+              </label-para>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128123">
+      <clause.ref>Heading above clause 128A</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1"><emphasis style="italic">Distributors'</emphasis></quote.in> (line 31 on page 101) <amend.in quote="1"><emphasis style="italic">and grid owners'</emphasis></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128124">
+      <clause.ref>Clause 128A</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Heading to clause 128A</emphasis>: to insert after <quote.in quote="1"><emphasis style="bold">Distributors</emphasis></quote.in> (line 32 on page 101) <amend.in quote="1"><emphasis style="bold">and grid owners</emphasis></amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To omit <amend.in quote="1">a distributor in relation to damage caused by, or arising from, an outage that resulted from the distributor complying with</amend.in> (lines 33 to 35 on page 101) and substitute <amend.in quote="1">a distributor or the owner of the national grid in relation to damage caused by, or arising from, an outage that resulted from the distributor or grid owner complying with</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Paragraph (b)</emphasis>: to insert after <quote.in quote="1">the distributor</quote.in> (lines 3 and 4 on page 102) <amend.in quote="1">or grid owner</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3200405">
+      <clause.ref>Clause 131(5)</clause.ref>
+      <sop.para>
+        <text>To insert the following paragraph after <emphasis style="italic">paragraph (a)</emphasis> (after line 32 on page 104).</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">ab</label>
+            <para>
+              <text>in order to make a reserve supply determination, as referred to in <changeable><citation jurisdiction="nz">section 132A</citation></changeable>; or</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3200406">
+      <clause.ref>New clause 132A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 132</emphasis> (after line 22 on page 105):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3200407" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">132A</label>
+            <heading>References to reserve generation capacity in resource consents</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>This section applies to any condition of a resource consent, imposed before this section comes into force, that refers to a determination by the Electricity Commission that—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>reserve generation capacity is required to, or should, generate electricity; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>reserve generation capacity is no longer required.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>After the date on which the Whirinaki agreement ends, any references to determinations referred to in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> must be read as references to the Authority making a reserve supply determination, or rescinding a reserve supply determination, as the case requires.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>The Authority may make or rescind a reserve supply determination only in accordance with criteria that are publicly available.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>The Authority may delegate to the system operator the power under this section to make and rescind reserve supply determinations, but may not delegate the power to set the criteria published under <changeable><citation jurisdiction="nz">subsection (3)</citation></changeable>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">5</label>
+                <para>
+                  <text>A condition of a resource consent referred to in <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> may be amended or revoked in the same way as any other condition of the resource consent.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128125">
+      <clause.ref>Clause 135(1)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">Code</amend.in> (line 22 on page 107) and substitute <amend.in quote="1">Electricity Governance Rules 2003</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128126">
+      <clause.ref>Clause 135A</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Heading to clause 135A</emphasis>: to add (line 1 on page 108) <amend.in quote="1"><emphasis style="bold">and certain regulations</emphasis></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128127">
+      <clause.ref>Clause 136(2)</clause.ref>
+      <sop.para>
+        <text>To add (line 22 on page 108) <amend.in quote="1">, except that the qualification contained in <changeable><citation jurisdiction="nz">section 27(2)(a)</citation></changeable> does not apply to the chairperson</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128128">
+      <clause.ref>Clause 138(1A)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">Authority</quote.in> (line 20 on page 109) <amend.in quote="1">(but may not be referred to the Commerce Commission)</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3200408">
+      <clause.ref>Clause 139A</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 1 to 10 on page 110).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128129">
+      <clause.ref>Clause 144</clause.ref>
+      <sop.para>
+        <text>To add the following subclause (after line 4 on page 112):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>The definition of <def-term id="DLM3128130">national grid</def-term> in section 54C(4) is amended by omitting <amend.in quote="1">section 2(1) of the Electricity Act 1992</amend.in> and substituting <amend.in quote="1"><changeable><citation jurisdiction="nz">section 5</citation></changeable> of the <changeable>Electricity Industry Act 2010</changeable></amend.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128131">
+      <clause.ref>Clause 147</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause as <emphasis style="italic">subclause (1)</emphasis> (after line 2 on page 115):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Section 54M(3)(b) is amended by omitting <amend.in quote="1">path</amend.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128132">
+      <clause.ref>New clause 147A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 147</emphasis> (after line 3 on page 115):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3128133" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">147A</label>
+            <heading>Proposals for customised price-quality paths</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>Section 54P(1) is amended by—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>omitting <amend.in quote="1">a section 52P determination</amend.in> and substituting <amend.in quote="1">an input methodology</amend.in>; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>omitting <amend.in quote="1">is made</amend.in> and substituting <amend.in quote="1">is published under section 52W</amend.in>.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128134">
+      <clause.ref>Clause 148: new section 54R</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1)</emphasis>: to insert after <quote.in quote="1">by Transpower</quote.in> (line 12 on page 115) <amend.in quote="1">(including proposals to amend existing grid upgrade plans)</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (4)(a)</emphasis>: to insert after <quote.in quote="1">whether or not</quote.in> (line 24 on page 116) <amend.in quote="1">the Commerce Act (Transpower Thresholds) Notice 2008 or</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128135">
+      <clause.ref>Clause 155</clause.ref>
+      <sop.para>
+        <text>To add the following subclause as <emphasis style="italic">subclause (2)</emphasis> (after line 14 on page 121):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The definition of <def-term id="DLM3128136">works</def-term> in section 2(1) is amended by omitting paragraph (b) and substituting the following paragraph:</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">b</label>
+                  <para>
+                    <text>does not include any part of an electrical installation.</text>
+                  </para>
+                </label-para>
+              </amend>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128137">
+      <clause.ref>Schedule 4</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Clause 12(1)(c)</emphasis>: to omit this paragraph (lines 15 to 26 on page 149) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">c</label>
+            <para>
+              <text>the kinds of complaints that the scheme will deal with:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3128138">
+      <clause.ref>Schedule 5</clause.ref>
+      <sop.para>
+        <text>Item relating to the Gas Act 1992:<emphasis style="italic"> new section 43ZZM(3)</emphasis>: to omit <amend.in quote="1">to which the member belongs</amend.in> (lines 19 and 20 on page 161).</text>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3028809" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0005" stage="published" year="2010" raised.by="Government" sop.no="142">
+  <explnote id="DLM3128139" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0005" stage="published" year="2010" raised.by="Government" sop.no="154">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Statutes Amendment Bill in order to update <emphasis style="italic">Schedules 1 and 2</emphasis> to reflect the legislative changes that have occurred since the Bill was introduced.</text>
+      <text>This Supplementary Order Paper makes a range of minor and technical amendments to the Electricity Industry Bill. </text>
+    </para>
+    <para>
+      <text>In <emphasis style="italic">clause 5</emphasis>, the amendment to the definition of <def-term id="DLM3128140">market operation service provider</def-term> is to allow for the future identification, by regulations, of other market operation service provider roles. The amendment to the definition of <def-term id="DLM3128141">works</def-term> is to reflect changes to the definition of <def-term id="DLM3128142">electrical installation</def-term> in the Electricity Act 1992, as made by <emphasis style="italic">clause 155</emphasis>. An amendment to <emphasis style="italic">clause 155</emphasis> also aligns the definition of <def-term id="DLM3128143">works</def-term> in the Electricity Act 1992 with that revised definition.</text>
+    </para>
+    <para>
+      <text>The amendments to <emphasis style="italic">clause 18</emphasis> insert words referring to the exemption for individual industry participants, to more accurately reflect <emphasis style="italic">clause 13</emphasis>, and omit an unnecessary cross-reference.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 38</emphasis> omits the requirement for the Minister to publicise the certified draft Code at least 1 month before it comes into force, and changes it to a requirement to publicise the Code as soon as practicable after certification.</text>
+    </para>
+    <para>
+      <text>The amendments to <emphasis style="italic">clauses 47, 48, 55, 62A, 62B, 63, 66, and 119</emphasis> all relate to the Rulings Panel's jurisdiction to determine appeals against decisions made under the Code and resolve disputes between industry participants relating to the Code. The amendments are intended to clarify that both the Code and the regulations can determine—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the matters on which appeals against certain decisions made under the Code can be taken; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the kind of disputes between industry participants that the Rulings Panel can be asked to resolve; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the practices and procedures of the Rulings Panel in dealing with those appeals and disputes.</text>
+          </para>
+        </item>
+      </list>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 47</emphasis> omits an unnecessary subclause.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 48</emphasis> adjusts the description of the Rulings Panel's role in dealing with appeals and disputes to more accurately reflect what is proposed. </text>
+    </para>
+    <para>
+      <text>The amendments to <emphasis style="italic">clause 55</emphasis> recast <emphasis style="italic">subclause (2)</emphasis> to include a reference to procedures under the Code, and add a reference in <emphasis style="italic">subclause (3)</emphasis> to the Rulings Panel's functions under the Code.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 59</emphasis> omits words from the reference to an order made under <emphasis style="italic">clause 56(1)(c)</emphasis>, in order to avoid an unintended narrowing of the scope of that reference.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clauses 62A and 62B</emphasis> are replaced by a single clause that gives powers to the Rulings Panel to make determinations, orders, and directions in relation to appeals and disputes, subject to any general rules set out in the regulations, or any specific rules set out in the regulations or the Code.</text>
+    </para>
+    <para>
+      <text>In <emphasis style="italic">clause 66(1)</emphasis>, <emphasis style="italic">new paragraph (e)</emphasis> is to ensure that costs orders by the Rulings Panel are appealable. <emphasis style="italic">New paragraph (f)</emphasis> provides that there is a right of appeal against an order of the Rulings Panel made in relation to particular kinds of appeals or disputes only if the regulations or the Code say that there is.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 79</emphasis> provides that, where the corporate separation rule does not apply to a distributor and its connected retailers or connected generators, the distributor and connected retailer or connected generator must enter into a use-of-systems agreement as if they were separate legal persons.</text>
+    </para>
+    <para>
+      <text>The amendments to <emphasis style="italic">clauses 99 and 100</emphasis> are to allow the enforcement of the dispute resolution scheme to continue against former members of the scheme.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 106</emphasis> is intended to clarify that the Electricity Authority's enforcement powers extend to trustees of consumer trusts and customer trusts for the purposes of enforcing <emphasis style="italic">clauses 101 to 105</emphasis> as well as any regulations made under <emphasis style="italic">clause 121</emphasis>.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 110</emphasis> is to avoid any implication that the costs of providing electricity to a place from an alternative source are subject to greater scrutiny by the Commerce Commission than other costs that are treated as the cost of providing electricity lines services.</text>
+    </para>
+    <para>
+      <text>The substitution of a <emphasis style="italic">new clause 116</emphasis> adds a reference to the power to make regulations for the purpose of identifying market operation service provider roles.</text>
+    </para>
+    <para>
+      <text>The amendments to <emphasis style="italic">clause 119</emphasis>, which authorises certain regulations, reflect the clarifications made concerning the Ruling Panel's jurisdiction to deal with disputes between industry participants and appeals against decisions made under the Code. </text>
+    </para>
+    <para>
+      <text>The amendments to <emphasis style="italic">clause 124AA</emphasis> clarify that commercially sensitive aspects of directions may be withheld by the Minister for State Owned Enterprises from presentation to the House of Representatives or publication.</text>
+      <list/>
+    </para>
+    <para>
+      <text><emphasis style="italic">New subclauses (4A) and (4B)</emphasis> in <emphasis style="italic">clause 124AB</emphasis>—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>clarify that the protections given by this clause do not extend to liability under the Commerce Act 1986. This is because <emphasis style="italic">clause 128</emphasis> provides specific protections from liability under that Act instead; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>clarify that the protections from liability in <emphasis style="italic">subclauses (3) and (4)</emphasis> do not protect the Crown, Ministers, or State generators in respect of any breach of contract. Directors and employees are protected from breach of contract under <emphasis style="italic">subclause (5)</emphasis>.</text>
+          </para>
+        </item>
+      </list>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 124F</emphasis> omits a reference to directions made under <emphasis style="italic">clause 124E(1)</emphasis> (because directions referred to in that clause are made under <emphasis style="italic">clause 124(2)</emphasis>), leaving only a reference to directions under <emphasis style="italic">clause 124E(4)</emphasis>. It also provides that the terms and conditions of agreements referred to in those directions do not have to be disclosed under <emphasis style="italic">clause 124AA(3)</emphasis>. This is because those agreements are with third parties. </text>
+    </para>
+    <para>
+      <text>The amendments to <emphasis style="italic">clauses 125 and 126(3)(b)</emphasis> provide more flexibility around the disposal of the Whirinaki generating station. The current <emphasis style="italic">clause 125</emphasis> applies only if there is a Crown direction relating to the purchase of Whirinaki by Meridian. The amendments—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>provide for the Whirinaki agreement to continue until terminated:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>make it clear that the Minister can terminate the Whirinaki agreement before its termination date:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>enable the levy of industry participants to cover any costs in respect of the Whirinaki agreement and in respect of the Whirinaki generating plant after the agreement is terminated.</text>
+          </para>
+        </item>
+      </list>
+    </para>
+    <para>
+      <text>The other amendments to <emphasis style="italic">clause 126</emphasis> ensure that the levy to be paid by industry participants in the first financial year can recover all of the Crown's costs associated with the change from the Electricity Commission to the Authority, including the costs of transferring functions to the Energy Efficiency and Conservation Authority and the Commerce Commission. A wrong date is also corrected.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 128</emphasis> specifically authorises certain things for the purpose of section 43 of the Commerce Act 1986. Section 43 allows things to be protected from the application of Part 2 of the Commerce Act (restrictive trade practices). The amendment clarifies that the authorisation provided by <emphasis style="italic">clause 128</emphasis> covers both—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the giving of directions under <emphasis style="italic">clause 124(2)</emphasis> relating to the reconfiguration of assets held by State generators; and</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the doing, by State generators and their directors and employees, of anything reasonably necessary to give effect to a direction given under <emphasis style="italic">clause 124(2)</emphasis>, or to contracts entered into pursuant to directions given under <emphasis style="italic">clause 124(2)(d)</emphasis>.</text>
+          </para>
+        </item>
+      </list>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 128A</emphasis> exempts distributors from liability for damage caused by outages resulting from the distributor complying with regulations, the Code, or Electricity Authority instructions. The amendment extends the exemption to the owner of the national grid.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 132A</emphasis> and the amendment to <emphasis style="italic">clause 131(5)</emphasis> are to address a transitional issue relating to the conditions contained in some resource consents relating to lakes used for hydroelectricity generation. Some existing conditions authorise lake levels to be lowered when the Electricity Commission, in effect, activates its reserve energy scheme. That scheme is not continued under this Bill. In order to maintain the effect of the existing conditions, <emphasis style="italic">new clause 132A</emphasis> provides that the conditions must be read as if they referred to the Authority making reserve supply determinations. The criteria for making those determinations must be publicly available. The Authority may delegate the power to make determinations to the system operator, but may not delegate the power to set the published criteria.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 135</emphasis> corrects a reference.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 135A</emphasis> is to make the heading more accurate.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 136</emphasis> is necessary to enable the current chairperson of the Rulings Panel to continue in that role.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 138</emphasis> clarifies a transitional matter.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 139A</emphasis> is omitted because it is redundant.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 144</emphasis> corrects a wrong cross-reference.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 147</emphasis> is to correct a drafting error in section 54M(3)(b) of the Commerce Act 1986, which is about administrative settlements with Transpower.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">New clause 147A</emphasis> corrects an error in section 54P(1) of the Commerce Act 1986, which is about the regulation of electricity lines services. The section refers to a section 52P determination in a context where it should refer to an input methodology.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 148</emphasis> substitutes a <emphasis style="italic">new section 54R</emphasis> in the Commerce Act 1986. The amendment to <emphasis style="italic">new subsection (1)</emphasis> is to clarify that proposals to amend existing (and not just new) grid upgrade plans are also transferred from the Electricity Commission to the Commerce Commission. The amendment to <emphasis style="italic">new subsection (4)(a)</emphasis> inserts a reference to the threshold notice that relates to the administrative settlement between Transpower and the Electricity Commission. This is necessary because that notice and the deed of settlement, which is already referred to in the subsection, are separate legal documents.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">clause 12(1) of Schedule 4</emphasis> removes the prescription about what kinds of complaints the approved dispute resolution scheme must be able to deal with.</text>
+    </para>
+    <para>
+      <text>The amendment to <emphasis style="italic">Schedule 5</emphasis> omits some words to make the amendment to the Gas Act 1992 consistent with <emphasis style="italic">clause 16</emphasis>.</text>
     </para>
   </explnote>
 </sop>
