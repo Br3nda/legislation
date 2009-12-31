@@ -1,221 +1,301 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill id="DLM3104301" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2010" bill.no="179" bill.type="government" stage="2" year="2010">
+<bill id="DLM3104301" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2010" bill.no="179" bill.type="government" stage="1" year="2010">
   <billdetail>
     <title>New Zealand Productivity Commission Bill</title>
     <billtype>Government Bill</billtype>
-    <repnote>As reported from the Commerce Committee</repnote>
-    <commentary id="DLM3356100" in.amend="false" irdnumbering="no" official="yes" bill.no="179" bill.type="government" stage="2" year="2010">
-      <heading>Commentary</heading>
-      <comm.lev1>
-        <heading>Recommendation</heading>
+    <explnote id="DLM3104302" in.amend="false" irdnumbering="no" official="yes" rule-after="yes" rule-before="yes" bill.no="179" bill.type="government" stage="1" year="2010">
+      <heading>Explanatory note</heading>
+      <explnote.group>
+        <heading>General policy statement</heading>
         <para>
-          <text>The Commerce Committee has examined the New Zealand Productivity Commission Bill and recommends that it be passed with the amendments shown.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Introduction</heading>
-        <para>
-          <text>This bill seeks to establish the New Zealand Productivity Commission as an independent Crown entity. The purpose of the Commission would be to improve productivity in both the public and private sectors so as to support the overall well-being of New Zealanders.</text>
+          <text>This Bill establishes the New Zealand Productivity Commission (the <def-term id="DLM3104303">Commission</def-term>) as an independent Crown entity with the purpose of improving productivity in both the public and private sectors in a way that is directed at supporting the overall well-being of New Zealanders.</text>
         </para>
         <para>
-          <text>Our commentary covers the major amendments we recommend to the bill.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Purpose of Commission</heading>
-        <para>
-          <text>We recommend amending clause 7 by adding the words <quote.in>having regard to a wide range of communities of interest and population groups in New Zealand society</quote.in>. We are concerned that the Commission might place too much emphasis on a particular model or view of productivity, and consider that adding these words should guard against this possibility. Doing so would also reinforce the broad definition of productivity.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Commission’s functions</heading>
-        <para>
-          <text>We recommend amending clause 9(1)(a), which in the bill as introduced provides for the responsible Minister and relevant portfolio Minister(s) (collectively the referring Ministers) to refer functions to the Commission, which we consider overemphasised the regulatory aspects of productivity.</text>
-        </para>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Conduct of Commission’s work</heading>
-        <comm.lev2>
-          <heading>Commission’s work programme</heading>
-          <para>
-            <text>We recommend deleting clause 11, which provides that the Commission must perform its functions in accordance with a work programme determined by the responsible Minister, and that this work programme must be publicly available. We do not consider it necessary to specify how the Commission should conduct its work in such detail.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Terms of reference</heading>
-          <para>
-            <text>We recommend amending clause 12 by inserting new subclause (1A). This would require the referring Ministers to consult the Commission about the terms of reference for each inquiry. Clause 12 of the bill as introduced provides that, in carrying out inquiries referred to it, the Commission must do so in accordance with terms of reference set by the referring Ministers. We consider that requiring consultation between the Ministers and the Commission about the terms of reference would help maintain a balance between the independence of the Commission and Government policy priorities.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Commission’s procedures</heading>
-          <para>
-            <text>We recommend amending clause 13 by inserting new subclause (1A). Clause 13(1) of the bill as introduced provides for the Commission to determine its own procedures for the performance of its functions. We do not wish to limit this provision, but consider that specifying that the Commission would have the power to release draft reports and invite submissions, and to consult widely, would help ensure that inquiries were conducted in the best way possible.</text>
-          </para>
-        </comm.lev2>
-      </comm.lev1>
-      <comm.lev1>
-        <heading>Membership of the Commission</heading>
-        <para>
-          <text>Clause 10 of the bill provides that the Commission would be required to have either three or four members, and that these members would constitute a board for the purposes of the Crown Entities Act 2004.</text>
+          <text>The Commission will be an independent agency with both specialised internal investigative capacity and a mandate to undertake inquiries and regulatory reviews.  The Commission will provide an alternative source of policy advice on opportunities to significantly improve economic performance through addressing constraints and exploiting opportunities.</text>
         </para>
         <para>
-          <text>Section 28 of the Crown Entities Act provides for members of an independent Crown entity to be appointed by the Governor-General, on the recommendation of the responsible Minister. Section 29 of the Act sets out the criteria for any recommendations for appointment from the responsible Minister.</text>
+          <text>The Commission will, on the basis of terms of reference issued by the responsible Minister in conjunction with the relevant portfolio Ministers,—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>hold inquiries into productivity related matters:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>conduct <emphasis style="italic">ex post</emphasis> reviews of regulatory regimes:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>conduct reviews of the efficiency and effectiveness of regulatory agencies:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>undertake <emphasis style="italic">ex ante</emphasis> regulatory impact analyses of a small number of specific regulatory proposals.</text>
+              </para>
+            </item>
+          </list>
         </para>
         <para>
-          <text>We were told that the Government would advertise for membership of the Productivity Commission ahead of the passage of the bill. Labour members are concerned that the Government has appointed a chair-designate prior to this bill being reported back to the House.</text>
+          <text>In addition, the Commission will, on its own volition but as secondary functions,—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>undertake and publish its own research into productivity-related matters to build its institutional knowledge:</text>
+              </para>
+            </item>
+          </list>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>promote public understanding of productivity-related matters.</text>
+              </para>
+            </item>
+          </list>
         </para>
-        <comm.lev2>
-          <heading>Associate Commissioners</heading>
+        <para>
+          <text>The scope of productivity-related inquiries, reviews, and research undertaken by the Commission encompasses matters relating to the private sector, the public sector and the economy as a whole, including, without limitation, matters relating to labour, natural resources including sustainability, management and worker skills, industry including industry development, innovation activity and entrepreneurship, competition, investment, infrastructure, international linkages including foreign investment and flows of people and knowledge, legislative or administrative action (whether existing or proposed) including taxation.</text>
+        </para>
+        <para>
+          <text>The Commission will be governed by 3 to 4 Commissioners.  Reports produced by the Commission will be tabled in the House of Representatives.</text>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Regulatory impact statement</heading>
+        <para>
+          <text>The Treasury produced a regulatory impact statement on 18 February 2010 to help inform the main policy decisions taken by the Government relating to the contents of this Bill.</text>
+        </para>
+        <para>
+          <text>A copy of this regulatory impact statement can be found at—</text>
+          <list>
+            <item>
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>
+                  <citation jurisdiction="nz">
+                    <extref href="http://www.treasury.govt.nz/publications/informationreleases/ris">http://www.treasury.govt.nz/publications/informationreleases/ris</extref>
+                  </citation>
+                </text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </explnote.group>
+      <explnote.group>
+        <heading>Clause by clause analysis</heading>
+        <clause.desc>
           <para>
-            <text>While we agree with the Commission comprising three or four Commissioners, we consider that it will be necessary for them to appoint others to carry out some of their functions for particular inquiries, depending on the particular expertise required for the subject of each inquiry. We understand that such people would be known as Associate Commissioners, although this term does not appear in the legislation.</text>
+            <text><emphasis style="italic">Clause 1</emphasis> is the Title clause.</text>
           </para>
+        </clause.desc>
+        <clause.desc>
           <para>
-            <text>No amendment of the bill is necessary as the Commissioners would derive their power to make such appointments from section 14 of Schedule 5 of the Crown Entities Act, which provides that the board of a statutory entity may appoint a committee that may, if the committee includes at least one member of the board, perform or exercise any of the entity’s functions and powers that are delegated to the committee.</text>
+            <text><emphasis style="italic">Clause 2</emphasis> is the commencement clause. The Bill comes into force on the day after the date it receives the Royal assent.</text>
           </para>
-          <para>
-            <text>We envisage that the board would appoint such a committee if necessary to handle a piece of work referred by the referring Ministers, and that such a committee would consist of at least one Commissioner, and Associate Commissioners as required by the work at hand.</text>
-          </para>
-        </comm.lev2>
-      </comm.lev1>
-      <comm.appendix>
-        <heading>Appendix</heading>
-        <comm.lev2>
-          <heading>Committee process</heading>
-          <para>
-            <text>The New Zealand Productivity Commission Bill was referred to the committee on 22 July 2010. The closing date for submissions was 9 September 2010. We received and considered 13 submissions from interested groups and individuals. We heard seven submissions.</text>
-          </para>
-          <para>
-            <text>We received advice from the Treasury.</text>
-          </para>
-        </comm.lev2>
-        <comm.lev2>
-          <heading>Committee membership</heading>
-          <para>
-            <text>Hon Lianne Dalziel (Chairperson)</text>
-          </para>
-          <para>
-            <text>John Boscawen (to 8 September 2010)</text>
-          </para>
-          <para>
-            <text>Hilary Calvert (from 27 October 2010)</text>
-          </para>
-          <para>
-            <text>David Clendon</text>
-          </para>
-          <para>
-            <text>Clare Curran</text>
-          </para>
-          <para>
-            <text>Hon Sir Roger Douglas (from 8 September to 27 October 2010)</text>
-          </para>
-          <para>
-            <text>Te Ururoa Flavell</text>
-          </para>
-          <para>
-            <text>Melissa Lee</text>
-          </para>
-          <para>
-            <text>Peseta Sam Lotu-Iiga</text>
-          </para>
-          <para>
-            <text>Hon Nanaia Mahuta</text>
-          </para>
-          <para>
-            <text>Katrina Shanks</text>
-          </para>
-          <para>
-            <text>Jonathan Young</text>
-          </para>
-        </comm.lev2>
-      </comm.appendix>
-    </commentary>
+        </clause.desc>
+        <explnote.part id="DLM3104304">
+          <label auto.number="no" denominator="yes">1  </label>
+          <heading>Preliminary provisions</heading>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clauses 3 to 5</emphasis> deal with the following preliminary matters:</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the purpose of the Bill, which is to establish the New Zealand Productivity Commission and state its functions and powers (<emphasis style="italic">clause 3</emphasis>):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the meaning of certain terms used in the Bill (<emphasis style="italic">clause 4</emphasis>):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>the Act binding the Crown (<emphasis style="italic">clause 5</emphasis>).</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+        </explnote.part>
+        <explnote.part id="DLM3104305">
+          <label auto.number="no" denominator="yes">2  </label>
+          <heading>Substantive provisions</heading>
+          <explnote.crosshead>Establishment of Commission</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 6</emphasis> establishes the Commission.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 7</emphasis> sets out the purpose of the Commission.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 8</emphasis> provides that the Commission is a Crown entity for the purposes of the Crown Entities Act 2004.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Commission's functions</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9</emphasis> provides for the Commission's functions. These are,—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>on referral to the Commission by the Minister responsible for the administration of the Act in conjunction with the Ministers responsible for portfolios relevant to the reference, to—</text>
+                    <list>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>hold inquiries into productivity-related matters referred to it, and report to the referring Ministers about these:</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>conduct reviews of existing regulatory regimes and agencies, including their efficiency and effectiveness:</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>undertake regulatory impact analyses of specified regulatory proposals; and</text>
+                        </para>
+                      </item>
+                    </list>
+                  </para>
+                </item>
+              </list>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>on its own initiative, to—</text>
+                    <list>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>undertake and publish research about productivity-related matters to develop its institutional knowledge and support its inquiry and review functions; and</text>
+                        </para>
+                      </item>
+                      <item>
+                        <label auto.number="no" denominator="yes"/>
+                        <para>
+                          <text>promote understanding of productivity-related matters.</text>
+                        </para>
+                      </item>
+                    </list>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 9(2)</emphasis> requires the Commission to act independently when performing its functions.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Commission membership</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 10</emphasis> provides that the Commission consists of no fewer than 3, but not more than 4, members and that they are members of a board for the purposes of the Crown Entities Act 2004.</text>
+            </para>
+          </clause.desc>
+          <explnote.crosshead>Conduct of Commission's work</explnote.crosshead>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 11</emphasis> requires the Commission to perform its functions according to a work programme determined by the responsible Minister and to make that work programme publicly available.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 12</emphasis> relates to the terms of reference for inquiries, reviews, and regulatory impact analyses undertaken by the Commission. It—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>requires the Commission to act in accordance with the terms of reference set by the referring Ministers in carrying out those functions:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>deals with what the terms of reference may include:</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>requires the Commission to make all terms of reference it receives publicly available.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 13</emphasis> provides that the Commission may determine its own procedures for undertaking its work (subject to particular requirements in the other provisions of the Bill).</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 14</emphasis> requires the Commission to submit a copy of its report on each matter referred to it under<emphasis style="italic"> clause 9</emphasis> to the responsible Minister and each other referring Minister. It also requires the responsible Minister to present a copy of the report to the House of Representatives as soon as practicable after the Minister receives it.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 15</emphasis> requires the Commission to make each report publicly available, but only after the report has been presented to the House of Representatives. This does not prevent the Commission from publishing a draft report (<emphasis style="italic">subclause (3)</emphasis>). </text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 16</emphasis> permits the Government Statistician to release certain information to the Commission for the purposes of its research. The effect of <emphasis style="italic">subclause (2)</emphasis> is that this permission is subject to the same restrictions and safeguards that would apply to the release of such information to a government department.</text>
+            </para>
+          </clause.desc>
+          <clause.desc>
+            <para>
+              <text><emphasis style="italic">Clause 17</emphasis> provides for the amendment of other Acts, as set out in the Schedule. The amendments—</text>
+              <list>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>add the New Zealand Productivity Commission to <emphasis style="italic">Part 3 of Schedule 1</emphasis> of the Crown Entities Act 2004 (which names independent Crown entities):</text>
+                  </para>
+                </item>
+                <item>
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>add the New Zealand Productivity Commission to <emphasis style="italic">Part 2 of Schedule 1</emphasis> of the Ombudsmen Act 1975.</text>
+                  </para>
+                </item>
+              </list>
+            </para>
+          </clause.desc>
+        </explnote.part>
+      </explnote.group>
+    </explnote>
   </billdetail>
-  <key>
-    <heading>Key to symbols used in reprinted bill</heading>
-    <subheading>As reported from a select committee</subheading>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-    <subheading/>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-draft">text inserted</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
-      </text>
-    </para>
-    <para>
-      <text>
-        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
-      </text>
-    </para>
-  </key>
   <cover id="DLM3104306">
     <member>Hon Bill English</member>
     <title>New Zealand Productivity Commission Bill</title>
@@ -253,7 +333,7 @@
         </subprov>
       </prov.body>
     </prov>
-    <part id="DLM3104311" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="179" bill.type="government" stage="2" year="2010">
+    <part id="DLM3104311" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="179" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Preliminary provisions</heading>
       <prov id="DLM3104312" irdnumbering="no" skeleton="no" toc="yes">
@@ -330,7 +410,7 @@
         </prov.body>
       </prov>
     </part>
-    <part id="DLM3104325" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="179" bill.type="government" stage="2" year="2010">
+    <part id="DLM3104325" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="179" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Substantive provisions</heading>
       <crosshead id="DLM3104326" toc="yes">Establishment of Commission</crosshead>
@@ -353,7 +433,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes"/>
             <para>
-              <text>The principal purpose of the Commission is to provide advice to the Government on improving productivity in a way that is directed to supporting the overall well-being of New Zealanders<insertwords amend.level1="insert-unanimous">, having regard to a wide range of communities of interest and population groups in New Zealand society</insertwords>.</text>
+              <text>The principal purpose of the Commission is to provide advice to the Government on improving productivity in a way that is directed to supporting the overall well-being of New Zealanders.</text>
             </para>
           </subprov>
         </prov.body>
@@ -385,34 +465,28 @@
             <label auto.number="no" denominator="yes">1</label>
             <para>
               <text>The functions of the Commission are,—</text>
-              <label-para amend.level1="struckout-unanimous" skeleton="no">
-                <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="struckout-unanimous">
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
                   <text>on referral to the Commission by the responsible Minister in conjunction with the relevant portfolio Ministers (collectively, the <def-term id="DLM3104332">referring Ministers</def-term>), to—</text>
-                  <label-para amend.level1="struckout-unanimous" skeleton="no">
-                    <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">i</label>
-                    <para amend.level1="struckout-unanimous">
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para>
                       <text>hold inquiries into and report to the referring Ministers about productivity-related matters that are referred to it; and</text>
                     </para>
                   </label-para>
-                  <label-para amend.level1="struckout-unanimous" skeleton="no">
-                    <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">ii</label>
-                    <para amend.level1="struckout-unanimous">
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para>
                       <text>conduct reviews of existing regulatory regimes and agencies, including their efficiency and effectiveness; and</text>
                     </para>
                   </label-para>
-                  <label-para amend.level1="struckout-unanimous" skeleton="no">
-                    <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">iii</label>
-                    <para amend.level1="struckout-unanimous">
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">iii</label>
+                    <para>
                       <text>undertake regulatory impact analyses of specified regulatory proposals; and</text>
                     </para>
                   </label-para>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="insert-unanimous">
-                  <text>on referral to the Commission by the responsible Minister in conjunction with the relevant portfolio Ministers (collectively, the <def-term id="DLM3356101">referring Ministers</def-term>), to hold inquiries and report to the referring Ministers about productivity-related matters; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
@@ -422,7 +496,7 @@
                   <label-para skeleton="no">
                     <label auto.number="no" denominator="yes">i</label>
                     <para>
-                      <text>undertake and publish research about productivity-related matters <struckoutwords amend.level1="struckout-unanimous">in order to develop its institutional knowledge and support its inquiry and review functions</struckoutwords>; and</text>
+                      <text>undertake and publish research about productivity-related matters in order to develop its institutional knowledge and support its inquiry and review functions; and</text>
                     </para>
                   </label-para>
                   <label-para skeleton="no">
@@ -475,19 +549,19 @@
         </prov.body>
       </prov>
       <crosshead id="DLM3104335" toc="yes">Conduct of Commission's work</crosshead>
-      <prov amend.level1="struckout-unanimous" id="DLM3104336" irdnumbering="no" skeleton="no" toc="yes">
-        <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">11</label>
-        <heading amend.level1="struckout-unanimous">Commission work programme</heading>
+      <prov id="DLM3104336" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">11</label>
+        <heading>Commission work programme</heading>
         <prov.body>
-          <subprov amend.level1="struckout-unanimous" skeleton="no">
-            <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">1</label>
-            <para amend.level1="struckout-unanimous">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
               <text>The Commission must perform its functions in accordance with a work programme determined by the responsible Minister.</text>
             </para>
           </subprov>
-          <subprov amend.level1="struckout-unanimous" skeleton="no">
-            <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">2</label>
-            <para amend.level1="struckout-unanimous">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
               <text>The Commission must ensure that a copy of the work programme is publicly available.</text>
             </para>
           </subprov>
@@ -500,13 +574,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>In carrying out its functions under <changeable><citation jurisdiction="nz">section 9(1)(a)</citation></changeable>, the Commission must act in accordance with the terms of reference set by the referring Ministers for each inquiry<struckoutwords amend.level1="struckout-unanimous">, review, and regulatory impact analysis</struckoutwords>. </text>
-            </para>
-          </subprov>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">1A</label>
-            <para amend.level1="insert-unanimous">
-              <text>The referring Ministers must consult with the Commission about the terms of reference for each inquiry, before making a referral to the Commission under <changeable><citation jurisdiction="nz">section 9(1)(a)</citation></changeable>. </text>
+              <text>In carrying out its functions under <changeable><citation jurisdiction="nz">section 9(1)(a)</citation></changeable>, the Commission must act in accordance with the terms of reference set by the referring Ministers for each inquiry, review, and regulatory impact analysis. </text>
             </para>
           </subprov>
           <subprov skeleton="no">
@@ -516,7 +584,7 @@
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">a</label>
                 <para>
-                  <text>the scope of the inquiry<struckoutwords amend.level1="struckout-unanimous">, review, or regulatory impact analysis </struckoutwords>to be undertaken; and</text>
+                  <text>the scope of the inquiry, review, or regulatory impact analysis to be undertaken; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
@@ -531,16 +599,16 @@
                   <text>matters relating to the Commission working jointly with other agencies (including overseas agencies) concerned with improving productivity; and</text>
                 </para>
               </label-para>
-              <label-para amend.level1="struckout-unanimous" skeleton="no">
-                <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">d</label>
-                <para amend.level1="struckout-unanimous">
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">d</label>
+                <para>
                   <text>procedures the Commission must follow; and</text>
                 </para>
               </label-para>
               <label-para skeleton="no">
                 <label auto.number="no" denominator="yes">e</label>
                 <para>
-                  <text>the date by which the Commission must submit its report on the inquiry<struckoutwords amend.level1="struckout-unanimous">, review, or analysis</struckoutwords>.</text>
+                  <text>the date by which the Commission must submit its report on the inquiry, review, or analysis.</text>
                 </para>
               </label-para>
             </para>
@@ -548,7 +616,7 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">3</label>
             <para>
-              <text>The Commission must ensure that the terms of reference for each inquiry<struckoutwords amend.level1="struckout-unanimous">, review, and regulatory impact analysis</struckoutwords> are publicly available as soon as practicable after the Commission receives them.</text>
+              <text>The Commission must ensure that the terms of reference for each inquiry, review, and regulatory impact analysis are publicly available as soon as practicable after the Commission receives them.</text>
             </para>
           </subprov>
         </prov.body>
@@ -563,28 +631,10 @@
               <text>The Commission may determine its own procedures for the performance of its functions.</text>
             </para>
           </subprov>
-          <subprov amend.level1="insert-unanimous" skeleton="no">
-            <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">1A</label>
-            <para amend.level1="insert-unanimous">
-              <text>Without limiting <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, the Commission may—</text>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">a</label>
-                <para amend.level1="insert-unanimous">
-                  <text>publish and invite submissions on discussion papers and draft reports; and </text>
-                </para>
-              </label-para>
-              <label-para amend.level1="insert-unanimous" skeleton="no">
-                <label amend.level1="insert-unanimous" auto.number="no" denominator="yes">b</label>
-                <para amend.level1="insert-unanimous">
-                  <text>consult with any persons, bodies, organisations, and agencies it considers necessary to ensure that a wide range of views is available to the Commission to assist it in preparing its reports. </text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text><changeable><citation jurisdiction="nz">Subsection<insertwords amend.level1="insert-unanimous">s</insertwords> (1)<insertwords amend.level1="insert-unanimous"> and (1A)</insertwords></citation></changeable><struckoutwords amend.level1="struckout-unanimous"> is</struckoutwords><insertwords amend.level1="insert-unanimous"> are</insertwords> subject to <changeable><citation jurisdiction="nz">sections 9(2), 12, 14, and 15</citation></changeable>.</text>
+              <text><changeable><citation jurisdiction="nz">Subsection (1)</citation></changeable> is subject to <changeable><citation jurisdiction="nz">sections 9(2), 12, 14, and 15</citation></changeable>.</text>
             </para>
           </subprov>
         </prov.body>
@@ -596,13 +646,13 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>The Commission must submit  a copy of its<insertwords amend.level1="insert-unanimous"> final</insertwords> report on each inquiry<struckoutwords amend.level1="struckout-unanimous">, review, and regulatory impact analysis </struckoutwords>referred to it under <changeable><citation jurisdiction="nz">section 9(1)(a)</citation></changeable> to the responsible Minister and each other referring Minister. </text>
+              <text>The Commission must submit  a copy of its report on each inquiry, review, and regulatory impact analysis referred to it under <changeable><citation jurisdiction="nz">section 9(1)(a)</citation></changeable> to the responsible Minister and each other referring Minister. </text>
             </para>
           </subprov>
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>The responsible Minister must present a copy of the<insertwords amend.level1="insert-unanimous"> final</insertwords> report to the House of Representatives as soon as practicable after the Minister receives it.</text>
+              <text>The responsible Minister must present a copy of the report to the House of Representatives as soon as practicable after the Minister receives it.</text>
             </para>
           </subprov>
         </prov.body>
@@ -620,12 +670,12 @@
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">2</label>
             <para>
-              <text>However, no<insertwords amend.level1="insert-unanimous"> final</insertwords> report may be made publicly available until it has been presented to the House of Representatives by the responsible Minister.</text>
+              <text>However, no report may be made publicly available until it has been presented to the House of Representatives by the responsible Minister.</text>
             </para>
           </subprov>
-          <subprov amend.level1="struckout-unanimous" skeleton="no">
-            <label amend.level1="struckout-unanimous" auto.number="no" denominator="yes">3</label>
-            <para amend.level1="struckout-unanimous">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
               <text>Nothing in this section prevents the Commission from publishing a draft report.</text>
             </para>
           </subprov>
@@ -665,7 +715,7 @@
     </part>
   </body>
   <schedule.group xml:lang="en-NZ">
-    <schedule id="DLM2832700" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" bill.no="179" bill.type="government" stage="2" year="2010">
+    <schedule id="DLM2832700" in.amend="false" irdnumbering="no" official="yes" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" xml:lang="en-NZ" bill.no="179" bill.type="government" stage="1" year="2010">
       <label auto.number="no" denominator="no">Schedule</label>
       <empowering-prov>
         <changeable>
@@ -691,17 +741,4 @@
       </schedule.amendments>
     </schedule>
   </schedule.group>
-  <end id="DLM3356102">
-    <leg-history id="DLM3356103">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2010-07-16</date>
-        <description>Introduction (Bill 179–1)</description>
-      </history-item>
-      <history-item>
-        <date>2010-07-22</date>
-        <description>First reading and referral to Commerce Committee</description>
-      </history-item>
-    </leg-history>
-  </end>
 </bill>
