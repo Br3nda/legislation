@@ -1,89 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3214300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0007" stage="published" year="2010" raised.by="Members" sop.no="163">
-  <date>Tuesday, 7 September 2010</date>
-  <billref>Electricity Industry Bill</billref>
-  <body id="DLM3214301">
+<sop id="DLM3009800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0008" stage="published" year="2010" raised.by="Members" sop.no="130">
+  <date>Tuesday, 1 June 2010</date>
+  <billref>Local Government (Auckland Law Reform) Bill</billref>
+  <body id="DLM3009801">
     <heading>Proposed amendments</heading>
-    <motion>Hon Nanaia Mahuta, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM3214302">
-      <clause.ref>Clause 17</clause.ref>
+    <motion>David Clendon, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3009802">
+      <clause.ref>Clause 59:</clause.ref>
       <sop.para>
-        <text>To insert “and environmental sustainability” after “efficient operation” (line 17 on page 21)</text>
+        <text>To omit this clause (lines 2 to 13 on page 130).</text>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM3214303">
-      <clause.ref>Clause 18(1)</clause.ref>
+    <sop.amend id="DLM3009803">
+      <clause.ref>Clause 60:</clause.ref>
       <sop.para>
-        <text>To add the following paragraphs (after line 20 on page 22):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="no">
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">k</label>
-            <para>
-              <text>to ensure that electricity is produced and delivered to all classes of consumers in a fair manner:</text>
-            </para>
-          </label-para>
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">l</label>
-            <para>
-              <text>to undertake monitoring of environmental impacts of electricity generation and ensure that an environmentally sustainable approach is taken in the development of electricity generation.</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3214304">
-      <clause.ref>Clause 35(1)</clause.ref>
-      <sop.para>
-        <text>To add the following paragraphs (after line 8 on page 31):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="no">
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">f</label>
-            <para>
-              <text>fairness of electricity pricing to consumers:</text>
-            </para>
-          </label-para>
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">g</label>
-            <para>
-              <text>the environmental sustainability of electricity generation.</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3214305">
-      <clause.ref>Clause 45(2)</clause.ref>
-      <sop.para>
-        <text>To add the following paragraph (after line 33 on page 36):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="no">
-          <label-para skeleton="no">
-            <label auto.number="no" denominator="yes">g</label>
-            <para>
-              <text>mechanisms to enable the development of a smart grid.</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3214306">
-      <clause.ref>Clause 124(2)</clause.ref>
-      <sop.para>
-        <text>To omit “before” and substitute “after” (line 29 page 90).</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3214307">
-      <clause.ref>New clause 124BA</clause.ref>
-      <sop.para>
-        <text>To insert the following clause after clause 124B (after line 23 on page 93):</text>
+        <text>To omit this clause (lines 14 to 19 on page 130) and substitute the following clause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3214308" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">124BA</label>
-            <heading>Asset reconfiguration review</heading>
+          <prov id="DLM3009804" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">60</label>
+            <heading>Poll to be conducted on electoral system for 2013 triennial general election</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes"/>
+                <label auto.number="no" denominator="yes">1</label>
                 <para>
-                  <text>The Electricity Authority must undertake a review of the effect of the asset reconfiguration on retail electricity prices for consumers.</text>
+                  <text>The Auckland Council must, no later than 28 February 2012, resolve to conduct a poll on the electoral system to be used for the elections of the local authority and its local boards.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text><emphasis style="bold">Subsection (1)</emphasis> applies despite anything in sections 27 to 32 of the Local Electoral Act 2001.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>Sections 33 and 34 of the Local Electoral Act 2001 apply to the poll required by <emphasis style="bold">subsection (1)</emphasis>.</text>
                 </para>
               </subprov>
             </prov.body>
@@ -91,11 +43,50 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
+    <sop.amend id="DLM3009805">
+      <clause.ref>Clause 62(1):</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">1 July 2012</amend.in> (lines 13 of page 131) and substitute <amend.in quote="1">1 April 2014</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To omit from the definition of <amend.in><def-term id="DLM3009806">moratorium</def-term></amend.in> (line 26 of page 132) <amend.in quote="1">1 July 2012</amend.in> and substitute <amend.in quote="1">1 April 2014</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM3214309" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0007" stage="published" year="2010" raised.by="Members" sop.no="163">
+  <explnote id="DLM3009807" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0008" stage="published" year="2010" raised.by="Members" sop.no="130">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Electricity Industry Bill. As currently drafted the bill does not include a number of key provisions. This is an oversight as the electricity industry has a large impact on the New Zealand environment and the New Zealand public expects that this impact is managed in a sustainable manner, and that fairness of pricing and sustainable generation development — being key electricity industry concerns of the public — are recognised. The amendment to <emphasis style="italic">clause 17</emphasis> inserts environmental sustainability as an objective of the Electricity Authority; the Bill as currently drafted does not include this as an objective. The amendment to <emphasis style="italic">clause 18</emphasis> adds new paragraphs to ensure that electricity is produced and delivered fairly for consumers and that it is developed sustainably.  The amendment to <emphasis style="italic">clause 35</emphasis> adds new paragraphs to include fairness of electricity pricing to consumers and sustainable generation as desirable and necessary provisions for inclusion in the Electricity Industry Participation Code.  This amendment reflects key electricity industry concerns of the public. The amendment to <emphasis style="italic">clause 45</emphasis> adds a new paragraph to provide smart grid enabling mechanisms in the new code.  Smart meters are an important means of improving energy efficiency of households and lowering households' electricity costs.  The Parliamentary Commissioner for the Environment's submission to the Commerce Committee on this bill advised that smart grid provisions be included. The bill, as currently drafted allows the share-holding Minister to direct the asset re-configuration any time between the date of assent and October 2011.  The purpose of the amendment to <emphasis style="italic">clause 124</emphasis> is to extend the date by which the share-holding Minister may direct the transfer until after October 2011, to allow for full and proper investigation of the potential implications. The purpose of <emphasis style="italic">new clause 124BA</emphasis> is to provide for a three year review of the asset re-configuration outcomes.  A legislated review of the asset re-configuration outcomes provides assurance that impacts of the swap will be properly monitored and reported. </text>
+      <text><emphasis style="italic">Clause 59</emphasis> denies Aucklanders the right to make any reorganisation proposal to the Local Government Commission until after the 2013 triennial general elections, despite the considerable disquiet about being included within the district of the Auckland Council expressed to the Auckland Governance Legislation Committee by many residents of Franklin, Rodney and Papakura Districts.</text>
+    </para>
+    <para>
+      <text>The democratic right to petition for a reorganisation proposal is conferred upon electors of all other territorial and unitary authorities and regional councils by Schedule 3 of the Local Government Act 2002. Clause 59 proposes to deny that right to electors of the Auckland Council.</text>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper will ensure that the democratic right to petition for a reorganisation proposal is preserved in Auckland. </text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 60</emphasis> as reported by the Auckland Governance Legislation Committee proposes that the First Past the Post (FPP) electoral system must be used for the 2013 triennial general elections for the Auckland Council and its local boards.</text>
+    </para>
+    <para>
+      <text>The report of the Auckland Governance Legislation Committee on the earlier Local Government (Auckland Council) Bill acknowledged that the STV voting system was more popular among submitters than the alternative FPP voting system which was supported by the Committee majority.</text>
+    </para>
+    <para>
+      <text>While, ideally, electors in Auckland should be polled on the electoral system to be used for the October 2010 triennial general election for the Auckland Council and its local boards, time constraints now preclude that option.</text>
+    </para>
+    <para>
+      <text>No such time constraints exist, however, in relation to the 2013 triennial general election for the Auckland Council and its local boards.</text>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper proposes to give Aucklanders the democratic right to choose their electoral system for that election.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 62</emphasis> provides for a moratorium on the sale, transfer or disposal of strategic property of the Auckland Council or it’s Council-Controlled Organisations (other than to or between the Auckland Council and its Council-Controlled Organisations or their subsidiaries). The period of the moratorium proposed in the Bill as reported is from 1 November 2010 to 1 July 2012.</text>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper proposes to extend the period of the moratorium to 1 April 2014.</text>
+    </para>
+    <para>
+      <text>Many submitters to the Auckland Governance Legislation Committee expressed concerns over the possible privatisation of strategic property of the Auckland Council or its Council-Controlled Organisations. The reason for the extension of the moratorium proposed by this Supplementary Order Paper is to ensure that any proposal by the Auckland Council or its Council-Controlled Organisations to privatise strategic property has a democratic mandate through the 2013 triennial general election before it is finalised.</text>
     </para>
   </explnote>
 </sop>
