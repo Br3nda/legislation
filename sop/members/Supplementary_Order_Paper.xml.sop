@@ -1,41 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3366600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0003" stage="published" year="2010" raised.by="Members" sop.no="178">
-  <date>Tuesday, 16 November 2010</date>
-  <billref>Child and Family Protection Bill</billref>
-  <body id="DLM3366601">
+<sop id="DLM3322100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="173">
+  <date>Tuesday, 26 October 2010</date>
+  <billref>Governor-General Bill</billref>
+  <body id="DLM3322101">
     <heading>Proposed amendment</heading>
-    <motion>Lynne Pillay, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3366602">
-      <clause.ref>Clause 6</clause.ref>
+    <motion>Keith Locke, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM3322102">
+      <clause.ref>Part 1 heading</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Subclause (2)</emphasis>: To omit <emphasis style="italic">subsection (1B)</emphasis> and substitute the following subsection:</text>
-        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">1B</label>
-            <para>
-              <text>If a child of the applicant’s family attains the age of 18 years, a protection order continues to apply for the benefit of the adult child until—</text>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">a</label>
+        <text>Insert “<emphasis style="bold">appointment, term of appointment,</emphasis>” after “<emphasis style="bold">Provisions relating to</emphasis>” (line 2 on page 3).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3322103">
+      <clause.ref>New clause 4A </clause.ref>
+      <sop.para>
+        <text>Insert the following clause after clause 4 (after line 28 on page 3):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3322104" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">4A</label>
+            <heading>Appointment of Governor-General</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes"/>
                 <para>
-                  <text>the adult child notifies the court that he or she no longer wishes to be subject to the protection order; or</text>
+                  <text>The Governor-General is appointed by the Sovereign on the recommendation of the House of Representatives. The recommendation must be agreed to by at least 75% of all members of Parliament.</text>
                 </para>
-              </label-para>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">b</label>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3322105">
+      <clause.ref>New clause 5A</clause.ref>
+      <sop.para>
+        <text>Insert the following clause after clause 5 (after line 15 on page 4):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3322106" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">5A</label>
+            <heading>Term of appointment of Governor-General</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
                 <para>
-                  <text>the order sooner lapses or is discharged.</text>
+                  <text>The Governor-General is to be appointed for a term not exceeding 5 years.</text>
                 </para>
-              </label-para>
-            </para>
-          </subprov>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>A person who has been appointed as Governor-General cannot be reappointed as Governor-General.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3366603" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2010" raised.by="Members" sop.no="178">
+  <explnote id="DLM3322107" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="173">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Child and Family Protection Bill to provide that protection orders continue to protect a child of an applicant’s family after they are 18 years of age, whether or not they reside with the applicant.  These young people have been exposed to considerable acrimony and violence and may still be in the future.  Protection should be maintained until young people themselves decide that a protection order is no longer required.  Maintaining an existing order is more efficient than requiring young people to apply for a new order.</text>
+      <text>This Supplementary Order Paper amends the Governor-General Bill.  The purpose of the amendment is to modernise and streamline the appointment process for the Governor-General</text>
     </para>
   </explnote>
 </sop>
