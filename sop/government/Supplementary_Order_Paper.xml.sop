@@ -1,21 +1,261 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3061600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0008" stage="published" year="2010" raised.by="Government" sop.no="148">
-  <date>Tuesday, 29 June 2010</date>
-  <billref>Statutes Amendment Bill</billref>
-  <body id="DLM3061601">
-    <heading>Proposed amendment</heading>
-    <motion>Hon Nathan Guy, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3061602">
-      <clause.ref>Clause 167(1)</clause.ref>
+<sop id="DLM2755900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="110">
+  <date>Tuesday, 16 March 2010</date>
+  <billref>Residential Tenancies Amendment Bill</billref>
+  <body id="DLM2755901">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Maurice Williamson, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2755902">
+      <clause.ref>Clause 4</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Paragraph (a)</emphasis> of the new definition of <emphasis style="bold">code company</emphasis>: to insert after <quote.in quote="1">the registered exchange's</quote.in> (line 25 on page 52) <amend.in>securities</amend.in>.</text>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to insert the following definition before the definition of <emphasis style="bold">assignment</emphasis> (before line 8 on page 7):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <def-para id="DLM2755903" quote="1">
+            <para quote="1">
+              <text><def-term id="DLM2755904">approved form</def-term>, in relation to any application or other matter, means a form approved and made available by the chief executive for the purposes of that application or matter</text>
+            </para>
+          </def-para>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit the definitions of <def-term id="DLM2755905">boarding house</def-term>, <def-term id="DLM2755906">boarding house tenancy</def-term>, <def-term id="DLM2755907">boarding house tenancy agreement</def-term>, and <def-term id="DLM2755908">boarding room</def-term> (lines 10 to 12 on page 7).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subclause (1A)</emphasis>: to insert the following subclause after <emphasis style="italic">subclause (1)</emphasis> (after line 30 on page 7):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">1A</label>
+            <para>
+              <text>Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:</text>
+              <amend increment="1" quote="1">
+                <def-para id="DLM2755909" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM2755910">boarding house</def-term>, <def-term id="DLM2755911">boarding house tenancy</def-term>, <def-term id="DLM2755912">boarding house tenancy agreement</def-term>, and <def-term id="DLM2755913">boarding room</def-term> have the meanings given to them in <changeable><citation jurisdiction="nz">section 66B</citation></changeable></text>
+                  </para>
+                </def-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2755914">
+      <clause.ref>Clause 13: new section 16A(4)(b)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">prescribed</amend.in> (line 11 on page 15) and substitute <amend.in quote="1">approved</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2755915">
+      <clause.ref>Clause 15: new subclause (1A)</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause after <emphasis style="italic">subclause (1)</emphasis> (after line 24 on page 16):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">1A</label>
+            <para>
+              <text>Section 19(1)(b) is amended by omitting <amend.in quote="1">prescribed</amend.in> and substituting <amend.in quote="1">approved</amend.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2755916">
+      <clause.ref>New clause 15A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 15</emphasis> (after line 29 on page 16):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2755917" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">15A</label>
+            <heading>Tenant may pay bond direct to chief executive with landlord's consent</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>Section 21(2) is amended by omitting <amend.in quote="1">prescribed</amend.in> and substituting <amend.in quote="1">approved</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2755918">
+      <clause.ref>Clause 16</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New section 22(1)(a)</emphasis>: to omit <amend.in quote="1">prescribed</amend.in> (lines 1 and 2 on page 17) and substitute <amend.in quote="1">approved </amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New section 22A(1)</emphasis>: to omit <amend.in quote="1">prescribed</amend.in> (line 12 on page 17) and substitute <amend.in quote="1">approved</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2755919">
+      <clause.ref>Clause 55(4): new section 72(2)(mc)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 23 to 27 on page 56) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="yes" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">mc</label>
+            <para>
+              <text>to make orders under <changeable><citation jurisdiction="nz">section 62B</citation></changeable> concerning goods left on the premises on the termination of a tenancy:</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+        <follow-text space-before="no">.</follow-text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2755920">
+      <clause.ref>Clause 58 </clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New section 86(1)</emphasis>: to omit <amend.in quote="1">prescribed form</amend.in> (line 15 on page 58) and substitute <amend.in quote="1">approved form</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subsection (1A)</emphasis>: to insert the following subsection after <emphasis style="italic">subsection (1)</emphasis> (after line 16 on page 58):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">1A</label>
+            <para>
+              <text>Before the chief executive approves a proposed form for the purposes of <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, the chief executive must consult with the Principal Tenancy Adjudicator about the proposed form.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2755921">
+      <clause.ref>New clause 66A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 66</emphasis> (after line 7 on page 62):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2755922" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">66A</label>
+            <heading>Enforcement of orders other than possession orders and work orders</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>Section 107(3) is amended by omitting <amend.in quote="1">in the prescribed form</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2755923">
+      <clause.ref>Clause 72</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New section 112B(2)(b)</emphasis>: to omit <amend.in quote="1">the prescribed</amend.in> (line 14 on page 64) and substitute <amend.in quote="1">any prescribed</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New section 112C(1)(a)</emphasis>: to omit <amend.in quote="1">the prescribed</amend.in> (line 4 on page 65) and substitute <amend.in quote="1">any prescribed</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2755924">
+      <clause.ref>Clause 76</clause.ref>
+      <sop.para>
+        <text>To add the following subclause as <emphasis style="italic">subclause (2)</emphasis> (after line 3 on page 68):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>Section 117(5) is amended by omitting <amend.in quote="1">, in the prescribed form,</amend.in>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2755925">
+      <clause.ref>New clause 89A</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 89</emphasis> (after line 2 on page 73):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2755926" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">89A</label>
+            <heading>References to Part 2A to be disregarded before its commencement</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Until the commencement of <changeable><citation jurisdiction="nz">Part 2A</citation></changeable> of the principal Act, <changeable><citation jurisdiction="nz">section 50(ab)</citation></changeable> of the principal Act must be read as if it did not refer to a sole tenant under a boarding house tenancy agreement or to <changeable><citation jurisdiction="nz">section 66W</citation></changeable> of the principal Act.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Until the commencement of <changeable><citation jurisdiction="nz">Part 2A</citation></changeable> of the principal Act, <changeable><citation jurisdiction="nz">Schedule 1A</citation></changeable> of the principal Act must be read as if it did not contain the items that relate to sections located in <changeable><citation jurisdiction="nz">Part 2A</citation></changeable> of the principal Act.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3061603" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0008" stage="published" year="2010" raised.by="Government" sop.no="148">
+  <explnote id="DLM2755927" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="110">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Part in the Statutes Amendment Bill that relates to the Takeovers Act 1993. The Part inserts a new definition of code company that refers to a registered exchange's market. Because of recent changes made by the Securities Markets Amendment Act 2009, this should now refer to the registered exchange's securities market. This Supplementary Order Paper inserts the word <quote.in quote="1">securities</quote.in> in order to correct this error.</text>
+      <text>This Supplementary Order Paper amends the Residential Tenancies Amendment Bill.</text>
+    </para>
+    <para>
+      <text>The Supplementary Order Paper—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>separates certain provisions that relate to the new regime for boarding houses from provisions that do not relate to that regime. This allows the boarding house regime to be brought into force after the other provisions are in force:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>replaces requirements to use forms prescribed by regulations with requirements to use forms approved by the chief executive of the Department of Building and Housing when—</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>notifying the chief executive of the particulars of certain agents appointed by landlords:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>lodging bonds with the Department of Building and Housing:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>applying for refunds of bonds:</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>commencing proceedings before the Tenancy Tribunal (the form used for this purpose is approved in consultation with the Principal Tenancy Adjudicator):</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>amends provisions on the jurisdiction of the Tenancy Tribunal to reflect changes in its jurisdiction concerning abandoned goods:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>continues the power to prescribe a fee for providing contact information about judgment debtors to judgment creditors, but no longer requires the Governor-General in Council to prescribe such a fee:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>removes the requirement to prescribe notices to be filed in District Courts, particularly notices of appeal against decisions of the Tenancy Tribunal; as a result the form of such notices will be governed by rules of court.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
