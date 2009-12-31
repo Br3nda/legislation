@@ -1,29 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3013100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0009" stage="published" year="2010" raised.by="Government" sop.no="137">
-  <date>Tuesday, 1 June 2010</date>
-  <billref>Local Government (Auckland Law Reform) Bill</billref>
-  <body id="DLM3013101">
+<sop id="DLM3313305" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="171">
+  <date>Tuesday, 19 October 2010</date>
+  <billref>Child and Family Protection Bill</billref>
+  <body id="DLM3313306">
     <heading>Proposed motion to divide Bill into 3 Bills</heading>
-    <motion>Hon Rodney Hide, in Committee, to move as follows:</motion>
+    <motion>Hon Simon Power, in Committee, to move as follows:</motion>
     <sop.split>
       <para>
-        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, <emphasis style="italic">Part 1, and Schedule 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
       </para>
       <sop.newenact>
         <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM3013102" irdnumbering="no" skeleton="no" toc="yes">
+        <prov id="DLM3313307" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="no">1</label>
           <heading>Title</heading>
           <prov.body>
             <subprov skeleton="no">
               <label auto.number="no" denominator="yes"/>
               <para>
-                <text>This Act is the Local Government (Tamaki Makaurau Reorganisation) Amendment Act <changeable>2010</changeable>.</text>
+                <text>This Act is the Domestic Violence Amendment Act <changeable>2010</changeable>.</text>
               </para>
             </subprov>
           </prov.body>
         </prov>
-        <prov id="DLM3013103" irdnumbering="no" skeleton="no" toc="yes">
+        <prov id="DLM3313308" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act comes into force 3 months after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM3313309" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Care of Children Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3313310" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act comes into force 3 months after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 3</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM3313311" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Adoption Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM3313312" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="no">2</label>
           <heading>Commencement</heading>
           <prov.body>
@@ -37,110 +101,28 @@
         </prov>
       </sop.newenact>
     </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 2 and Schedule 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM3013104" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Local Government (Auckland Council) Amendment Act <changeable>2010</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM3013105" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">1</label>
-              <para>
-                <text><changeable><citation jurisdiction="nz">Sections 32 to 42, 45, and 46</citation></changeable> come into force on 1 November 2010.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">2</label>
-              <para>
-                <text>The rest of this Act comes into force on the day after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Parts 3AA, 3, 4, and 5, and Schedule 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 3AA</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM3013106" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Local Government (Auckland Transitional Provisions) Act <changeable>2010</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM3013107" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">1</label>
-              <para>
-                <text><changeable><citation jurisdiction="nz">Parts 3 and 5</citation></changeable> (except <changeable><citation jurisdiction="nz">section 138(2)</citation></changeable>) come into force on 1 November 2010.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">2</label>
-              <para>
-                <text><changeable><citation jurisdiction="nz">Section 138(2)</citation></changeable> comes into force on 1 July 2012.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">3</label>
-              <para>
-                <text>The rest of this Act comes into force on the day after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
   </body>
-  <explnote id="DLM3013108" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0009" stage="published" year="2010" raised.by="Government" sop.no="137">
+  <explnote id="DLM3313313" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="171">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper divides the Local Government (Auckland Law Reform) Bill into the following 3 Bills:</text>
+      <text>This Supplementary Order Paper divides the Child and Family Protection Bill into the following 3 Bills:</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>the Local Government (Tamaki Makaurau Reorganisation) Amendment Bill:</text>
+            <text>the Domestic Violence Amendment Bill:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>the Local Government (Auckland Council) Amendment Bill:</text>
+            <text>the Care of Children Amendment Bill:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>the Local Government (Auckland Transitional Provisions) Bill.</text>
+            <text>the Adoption Amendment Bill.</text>
           </para>
         </item>
       </list>
