@@ -1,31 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="149">
-  <date>Wednesday, 30 June 2010</date>
-  <billref>Courts (Remote Participation) Bill</billref>
-  <body>
+<sop id="DLM3011900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0010" stage="published" year="2010" raised.by="Members" sop.no="135">
+  <date>Tuesday, 1 June 2010</date>
+  <billref>Local Government (Auckland Law Reform) Bill</billref>
+  <body id="DLM3011901">
     <heading>Proposed amendment</heading>
-    <motion>Hon David Parker, in Committee, to move the following amendment:</motion>
-    <sop.amend>
-      <clause.ref>Clause 9</clause.ref>
+    <motion>David Clendon, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM3011902">
+      <clause.ref>Clause 45: new section 82:</clause.ref>
       <sop.para>
-        <text>To add the following new subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <amend increment="1" quote="1">
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes" quote="1">2</label>
-              <para>
-                <text>Despite <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, AVL must not be used in any criminal substantive matter for the appearance of the defendant unless the defendant consents to the use.</text>
-              </para>
-            </subprov>
-          </amend>
+        <text>To omit new section 82 (lines 32 to 35 on page 113) and substitute the following section:</text>
+        <instrument.amend close.quote="yes" open.quote="yes">
+          <prov id="DLM3011903" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">82</label>
+            <heading>Establishment of community boards</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Despite section 49 of the Local Government Act 2002, no community board may be established by the Auckland Council.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>A local board may establish community boards, and for the purpose of section 49 and Schedule 6 of the Local Government Act 2002, a local board shall have the powers and obligations of a territorial authority.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="149">
+  <explnote id="DLM3011904" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0010" stage="published" year="2010" raised.by="Members" sop.no="135">
     <heading>Explanatory note</heading>
     <para>
-      <text>This amendment will prevent audio-visual links (AVL) being used for a criminal substantive matter except if the defendant consents to the use.  The Bill as currently drafted denies defendants the fundamental right to be present at their own court hearings.  This is a serious incursion on civil liberties and removes one of the key protections that New Zealanders have against the action of the State.  Such an important right should only be abrogated when it is demonstrably justifiable, and the Government has failed to put forward evidence that meets this test.</text>
+      <text>New section 82 prohibits the establishment of community boards in Auckland. </text>
+    </para>
+    <para>
+      <text>Submitters on the Local Government (Auckland Law Reform) Bill expressed concern that community representation would be subsumed by the larger Local Boards.</text>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper proposes that Local Boards may set up community boards where they deem it is necessary to ensure democratic representation.</text>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper replaces SOP No 129 to correct a clause reference.</text>
     </para>
   </explnote>
 </sop>
