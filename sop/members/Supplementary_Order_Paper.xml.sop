@@ -1,41 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3009600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0007" stage="published" year="2010" raised.by="Members" sop.no="131">
-  <date>Tuesday, 1 June 2010</date>
-  <billref>Local Government (Auckland Law Reform) Bill</billref>
-  <body id="DLM3009601">
+<sop id="DLM3214300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0007" stage="published" year="2010" raised.by="Members" sop.no="163">
+  <date>Tuesday, 7 September 2010</date>
+  <billref>Electricity Industry Bill</billref>
+  <body id="DLM3214301">
     <heading>Proposed amendments</heading>
-    <motion>David Clendon, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM3009602">
-      <clause.ref>Heading to clause 67:</clause.ref>
+    <motion>Hon Nanaia Mahuta, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3214302">
+      <clause.ref>Clause 17</clause.ref>
       <sop.para>
-        <text>To insert <quote.in><def-term id="DLM3009603">and meetings</def-term></quote.in> after <quote.in><def-term id="DLM3009604">Official information</def-term></quote.in> (line 3 on page 137).</text>
+        <text>To insert “and environmental sustainability” after “efficient operation” (line 17 on page 21)</text>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM3010200">
-      <clause.ref>Clause 67</clause.ref>
+    <sop.amend id="DLM3214303">
+      <clause.ref>Clause 18(1)</clause.ref>
       <sop.para>
-        <text>To omit <quote.in>6</quote.in> and substitute <quote.in>7</quote.in> (line 4 on page 137).</text>
+        <text>To add the following paragraphs (after line 20 on page 22):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">k</label>
+            <para>
+              <text>to ensure that electricity is produced and delivered to all classes of consumers in a fair manner:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">l</label>
+            <para>
+              <text>to undertake monitoring of environmental impacts of electricity generation and ensure that an environmentally sustainable approach is taken in the development of electricity generation.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM3009605">
-      <clause.ref>Clause 72</clause.ref>
+    <sop.amend id="DLM3214304">
+      <clause.ref>Clause 35(1)</clause.ref>
       <sop.para>
-        <text>To omit this clause (lines 28 to 35 on page 139) and substitute the following clause:</text>
+        <text>To add the following paragraphs (after line 8 on page 31):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">f</label>
+            <para>
+              <text>fairness of electricity pricing to consumers:</text>
+            </para>
+          </label-para>
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">g</label>
+            <para>
+              <text>the environmental sustainability of electricity generation.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3214305">
+      <clause.ref>Clause 45(2)</clause.ref>
+      <sop.para>
+        <text>To add the following paragraph (after line 33 on page 36):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <label-para skeleton="no">
+            <label auto.number="no" denominator="yes">g</label>
+            <para>
+              <text>mechanisms to enable the development of a smart grid.</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3214306">
+      <clause.ref>Clause 124(2)</clause.ref>
+      <sop.para>
+        <text>To omit “before” and substitute “after” (line 29 page 90).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3214307">
+      <clause.ref>New clause 124BA</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after clause 124B (after line 23 on page 93):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3009606" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">72</label>
-            <heading>Employees of Auckland Council must not be directors of Watercare Services Limited</heading>
+          <prov id="DLM3214308" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">124BA</label>
+            <heading>Asset reconfiguration review</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
+                <label auto.number="no" denominator="yes"/>
                 <para>
-                  <text>This section applies until 1 July 2012.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>No person who is an employee of the Council may hold office as a director of Watercare Services Limited</text>
+                  <text>The Electricity Authority must undertake a review of the effect of the asset reconfiguration on retail electricity prices for consumers.</text>
                 </para>
               </subprov>
             </prov.body>
@@ -44,25 +92,10 @@
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3009607" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0007" stage="published" year="2010" raised.by="Members" sop.no="131">
+  <explnote id="DLM3214309" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0007" stage="published" year="2010" raised.by="Members" sop.no="163">
     <heading>Explanatory note</heading>
     <para>
-      <text><emphasis style="italic">Clause 67</emphasis> of the Local Government (Auckland Law Reform) Bill as reported by the Auckland Governance Legislation Committee provides for Parts 1 to 6 of the Local Government Official Information and Meetings Act 1987 to apply to Watercare Services Limited until 30 June 2012, after which Watercare becomes a Council-Controlled Organisation and the Council will presumably have in place a policy to set out the circumstances under which each substantive Council-Controlled Organisation must conduct its business as if it were subject to Part 7 of the Local Government Official Information and Meetings Act 1987.</text>
-    </para>
-    <para>
-      <text>There is a real risk that, until Watercare becomes a Council-Controlled Organisation it will conduct its business largely in secret and with no public transparency or accountability.</text>
-    </para>
-    <para>
-      <text>This Supplementary Order Paper will require that Watercare conducts its business in accordance with Part 7 of the Local Government Official Information and Meetings Act 1987 until such time as it becomes a Council-Controlled Organisation. This will not preclude Watercare from conducting business in secret with the public excluded if there is good reason, such as commercial sensitivity, under section 48 of the Local Government Official Information and Meetings Act 1987 to do so.</text>
-    </para>
-    <para>
-      <text><emphasis style="italic">Clause 72</emphasis> proposes that no Member of the Auckland Council, local board member, or employee of the Auckland Council can be a director of Watercare Services Limited.</text>
-    </para>
-    <para>
-      <text>Submitters to the Committee opposed this proposal on the ground that it reduced the democratic accountability of Watercare Services Limited, with some submitters suggesting that the majority of directors should be elected members of the Auckland Council or its local boards.</text>
-    </para>
-    <para>
-      <text>This Supplementary Order Paper amends clause 72 to permit the Auckland Council to make the democratic decision as to how many, if any, of its elected Members or local board members it considers appropriate to appointed to the board of Watercare Services Limited, rather than have a statutory prohibition imposed on it, while retaining the prohibition on employees of the Auckland Council being appointed to the board of Watercare Services Limited, which would have potential to cause confusion between governance and management roles.</text>
+      <text>This Supplementary Order Paper amends the Electricity Industry Bill. As currently drafted the bill does not include a number of key provisions. This is an oversight as the electricity industry has a large impact on the New Zealand environment and the New Zealand public expects that this impact is managed in a sustainable manner, and that fairness of pricing and sustainable generation development — being key electricity industry concerns of the public — are recognised. The amendment to <emphasis style="italic">clause 17</emphasis> inserts environmental sustainability as an objective of the Electricity Authority; the Bill as currently drafted does not include this as an objective. The amendment to <emphasis style="italic">clause 18</emphasis> adds new paragraphs to ensure that electricity is produced and delivered fairly for consumers and that it is developed sustainably.  The amendment to <emphasis style="italic">clause 35</emphasis> adds new paragraphs to include fairness of electricity pricing to consumers and sustainable generation as desirable and necessary provisions for inclusion in the Electricity Industry Participation Code.  This amendment reflects key electricity industry concerns of the public. The amendment to <emphasis style="italic">clause 45</emphasis> adds a new paragraph to provide smart grid enabling mechanisms in the new code.  Smart meters are an important means of improving energy efficiency of households and lowering households' electricity costs.  The Parliamentary Commissioner for the Environment's submission to the Commerce Committee on this bill advised that smart grid provisions be included. The bill, as currently drafted allows the share-holding Minister to direct the asset re-configuration any time between the date of assent and October 2011.  The purpose of the amendment to <emphasis style="italic">clause 124</emphasis> is to extend the date by which the share-holding Minister may direct the transfer until after October 2011, to allow for full and proper investigation of the potential implications. The purpose of <emphasis style="italic">new clause 124BA</emphasis> is to provide for a three year review of the asset re-configuration outcomes.  A legislated review of the asset re-configuration outcomes provides assurance that impacts of the swap will be properly monitored and reported. </text>
     </para>
   </explnote>
 </sop>
