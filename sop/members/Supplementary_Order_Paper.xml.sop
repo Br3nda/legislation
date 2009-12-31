@@ -1,49 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3009200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0003" stage="published" year="2010" raised.by="Members" sop.no="132">
-  <date>Tuesday, 1 June 2010</date>
-  <billref>Local Government (Auckland Law Reform) Bill</billref>
-  <body id="DLM3009201">
-    <heading>Proposed amendment</heading>
-    <motion>Sue Kedgley, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3009202">
-      <clause.ref>Clause 34 </clause.ref>
+<sop id="DLM3366200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0004" stage="published" year="2010" raised.by="Members" sop.no="179">
+  <date>Tuesday, 16 November 2010</date>
+  <billref>Child and Family Protection Bill</billref>
+  <body id="DLM3366201">
+    <heading>Proposed amendments</heading>
+    <motion>Jacinda Ardern, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3366202">
+      <clause.ref>Clause 5</clause.ref>
       <sop.para>
-        <text>To insert the following subclause after <emphasis style="italic">subclause (1A)</emphasis> (after line 11 on page 64):</text>
+        <text>To add the following subclauses as subclauses (2) and (3):</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <amend quote="1">
+            <subprov quote="1" skeleton="no">
+              <label auto.number="no" denominator="yes" quote="1">2</label>
+              <para>
+                <text>The definition of <def-term id="DLM3366604">child</def-term> in section 2 is amended by omitting “17” and substituting “18”.</text>
+              </para>
+            </subprov>
+            <subprov quote="1" skeleton="no">
+              <label auto.number="no" denominator="yes" quote="1">3</label>
+              <para>
+                <text>The definition of <def-term id="DLM3366605">representative</def-term> is amended by omitting “16 or under” in each place where it appears and substituting in each case “under 18 years”.</text>
+              </para>
+            </subprov>
+          </amend>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3366203">
+      <clause.ref>New clauses 5A and 5B</clause.ref>
+      <sop.para>
+        <text>To insert the following clauses after <emphasis style="italic">clause 5</emphasis>:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3366204" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">5A</label>
+            <heading>Applications by minors</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Section 9 is amended by repealing subsection (2A) and substituting the following subsection:</text>
+                  <amend quote="1">
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2A</label>
+                      <para>
+                        <text>A minor who is aged 16 years or 17 years and who wishes to apply for a protection order may either—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>make the application on his or her own behalf; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>make the application by a representative.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section 9(3) is amended by omitting “17” and substituting “18”.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>Section 9 is amended by repealing subsection (4) and substituting the following subsections:</text>
+                  <amend quote="1">
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>A minor who is aged 18 years or over and who wishes to apply for a protection order must make the application on his or her own behalf without a next friend or guardian ad litem.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text><changeable><citation jurisdiction="nz">Subsections (2A) and (4)</citation></changeable> are subject to sections 11 and 12.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                      <para>
+                        <text>Where a minor makes an application under <changeable><citation jurisdiction="nz">subsection (2A) or (4)</citation></changeable>, orders may be made on the application, and enforced, as if the minor were of full age.</text>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM3366205" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">5B</label>
+            <heading>Applications against minors</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>Section 10 is amended by omitting “age of 17” in each place where it appears and substituting in each case “age of 18”.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3366206">
+      <clause.ref>Clause 6</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause as <emphasis style="italic">subclause (1)</emphasis>: </text>
         <instrument.amend close.quote="no" open.quote="no">
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1B</label>
+            <label auto.number="no" denominator="yes">1</label>
             <para>
-              <text>Section 9(3) is amended by repealing paragraphs (b), (c) and (d).</text>
+              <text>Section 16(1) is amended by adding “until that child reaches the age of 18 years, unless the order is sooner discharged”.</text>
             </para>
           </subprov>
         </instrument.amend>
       </sop.para>
       <sop.para>
-        <text><emphasis style="italic">Subclause (1): </emphasis> To omit this subclause (lines 12 and 13 on page 64) and substitute the following subclause:</text>
-        <instrument.amend close.quote="yes" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>Section 9(7) is repealed.</text>
-            </para>
-          </subprov>
+        <text><emphasis style="italic">New section 16(1A) and (1B)</emphasis>: To omit these subsections and substitute the following subsections:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <amend quote="1">
+            <subprov quote="1" skeleton="no">
+              <label auto.number="no" denominator="yes" quote="1">1A</label>
+              <para>
+                <text>The Court, on an application by a child of the applicant's family, must direct that a protection order continues to apply for his or her benefit after he or she has attained the age of 18 years until whichever of the following occurs first:</text>
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">a</label>
+                  <para>
+                    <text>he or she no longer ordinarily or periodically resides with the applicant; or</text>
+                  </para>
+                </label-para>
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">b</label>
+                  <para>
+                    <text>the order is discharged by the Court.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov quote="1" skeleton="no">
+              <label auto.number="no" denominator="yes" quote="1">1B</label>
+              <para>
+                <text>An application for a direction under <changeable><citation jurisdiction="nz">subsection (1A)</citation></changeable> may be made by—</text>
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">a</label>
+                  <para>
+                    <text>the child; or</text>
+                  </para>
+                </label-para>
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">b</label>
+                  <para>
+                    <text>a representative of the child.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+          </amend>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New section 16(5)</emphasis>: To omit this subsection and substitute the following subsection:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <amend quote="1">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes" quote="1">5</label>
+              <para>
+                <text>A protection order that has not lapsed or been discharged continues to apply for the benefit of a person described in subsection (1) or (2) notwithstanding the death of the applicant.</text>
+              </para>
+            </subprov>
+          </amend>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3366207">
+      <clause.ref>New clauses 11A and 11B</clause.ref>
+      <sop.para>
+        <text>To insert the following clauses after <emphasis style="italic">clause 11</emphasis>:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3366208" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">11A</label>
+            <heading>Applications for property orders by minors </heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Section 71(1)(a) is amended by omitting “17” and substituting “18”.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section 71(2) is amended by omitting “16 years” and substituting “16 years or 17 years”.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM3366209" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">11B</label>
+            <heading>Applications for property orders against minors</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes"/>
+                <para>
+                  <text>Section 72 is amended by omitting “17” in each place where it appears and substituting in each case “18”.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3009203" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2010" raised.by="Members" sop.no="132">
+  <explnote id="DLM3366210" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2010" raised.by="Members" sop.no="179">
     <heading>Explanatory note</heading>
     <para>
-      <text>Section 9 of the Local Government (Auckland Council) Act 2009 confers powers to the Mayor of Auckland that are considerably greater than those held by the Mayor or Chairperson of an other territorial authority, regional council or unitary authority in New Zealand.</text>
-    </para>
-    <para>
-      <text>Included in these powers is the power to appoint the deputy mayor; and the power to establish committees of the Auckland Council and appoint the chairpersons of each committee of the Auckland Council. These powers (referred to by academics as the <quote.in>strong Mayor model</quote.in> will give the Mayor the ability to control the Council and its agenda, by hand-picking all the key committee chairs in Council, instead of requiring the Mayor to seek to govern by consensus. This is of real concern, especially since the Mayor will be elected under the First Past the Post electoral system, and may therefore be elected with the support of as little as 30% of electors.</text>
-    </para>
-    <para>
-      <text>No explanation is given for why the Mayor of Auckland should have greater powers than any other Mayor in New Zealand.</text>
-    </para>
-    <para>
-      <text>This Supplementary Order Paper proposes to remove these powers from the Mayor of Auckland, and provide that the appointment of the deputy mayor, the establishment of committees, and the appointment of committee chairpersons be undertaken in accordance with Schedule 7 of the Local Government Act 2002 in the same manner as they are for every other local authority in New Zealand. </text>
+      <text>This Supplementary Order Paper amends the Child and Family Protection Bill to change the definition of a child in the Domestic Violence Act 1995 from a person under the age of 17 years, to a person under the age of 18 years.  This change brings that definition into line with the definitions in the Care of Children Act 2004, the Children's Commissioner Act 2003, and the United Nations Convention on the Rights of the Child.  It is important that New Zealand’s legislation in this area is consistent, and that we meet our international obligations.</text>
     </para>
   </explnote>
 </sop>
