@@ -1,258 +1,308 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2755900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="110">
-  <date>Tuesday, 16 March 2010</date>
-  <billref>Residential Tenancies Amendment Bill</billref>
-  <body id="DLM2755901">
-    <heading>Proposed amendments</heading>
-    <motion>Hon Maurice Williamson, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2755902">
-      <clause.ref>Clause 4</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (1)</emphasis>: to insert the following definition before the definition of <emphasis style="bold">assignment</emphasis> (before line 8 on page 7):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <def-para id="DLM2755903" quote="1">
-            <para quote="1">
-              <text><def-term id="DLM2755904">approved form</def-term>, in relation to any application or other matter, means a form approved and made available by the chief executive for the purposes of that application or matter</text>
-            </para>
-          </def-para>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit the definitions of <def-term id="DLM2755905">boarding house</def-term>, <def-term id="DLM2755906">boarding house tenancy</def-term>, <def-term id="DLM2755907">boarding house tenancy agreement</def-term>, and <def-term id="DLM2755908">boarding room</def-term> (lines 10 to 12 on page 7).</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">New subclause (1A)</emphasis>: to insert the following subclause after <emphasis style="italic">subclause (1)</emphasis> (after line 30 on page 7):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes">1A</label>
-            <para>
-              <text>Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:</text>
-              <amend increment="1" quote="1">
-                <def-para id="DLM2755909" quote="1">
-                  <para quote="1">
-                    <text><def-term id="DLM2755910">boarding house</def-term>, <def-term id="DLM2755911">boarding house tenancy</def-term>, <def-term id="DLM2755912">boarding house tenancy agreement</def-term>, and <def-term id="DLM2755913">boarding room</def-term> have the meanings given to them in <changeable><citation jurisdiction="nz">section 66B</citation></changeable></text>
+<sop id="DLM2980900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="124">
+  <date>Thursday, 20 May 2010</date>
+  <billref>Taxation (Budget Measures) Bill</billref>
+  <body id="DLM2980901">
+    <heading>Proposed motion to divide Bill into <emphasis style="italic">6</emphasis> Bills</heading>
+    <motion>Hon Bill English, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, <emphasis style="italic">Part 1</emphasis>, <emphasis style="italic">Part 2</emphasis>, and <emphasis style="italic">Part 3, other than the 5 cross-headings after clause 100 and clauses 101 to 105</emphasis>, be a separate bill, and that for the enacting words and <emphasis style="italic">clauses 1 and 2</emphasis> there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2980902" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act is the Taxation (Budget Measures) Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2980903" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">1</label>
+              <para>
+                <text>This Act comes into force on 20 May 2010, except as provided in this section.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">2</label>
+              <para>
+                <text>In <changeable>Part 1</changeable>, other than <changeable>sections 3, 41, 44, and 54</changeable>, the sections come into force on 1 October 2010.</text>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">3</label>
+              <para>
+                <text>In <changeable>Part 2</changeable>, other than <changeable>sections 57 and 58</changeable>,—</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text>the <changeable>subsections (1)</changeable> of the sections are treated as coming into force on 1 April 2010:</text>
                   </para>
-                </def-para>
-              </amend>
-              <follow-text space-before="no">.</follow-text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2755914">
-      <clause.ref>Clause 13: new section 16A(4)(b)</clause.ref>
-      <sop.para>
-        <text>To omit <amend.in quote="1">prescribed</amend.in> (line 11 on page 15) and substitute <amend.in quote="1">approved</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2755915">
-      <clause.ref>Clause 15: new subclause (1A)</clause.ref>
-      <sop.para>
-        <text>To insert the following subclause after <emphasis style="italic">subclause (1)</emphasis> (after line 24 on page 16):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes">1A</label>
-            <para>
-              <text>Section 19(1)(b) is amended by omitting <amend.in quote="1">prescribed</amend.in> and substituting <amend.in quote="1">approved</amend.in>.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2755916">
-      <clause.ref>New clause 15A</clause.ref>
-      <sop.para>
-        <text>To insert the following clause after <emphasis style="italic">clause 15</emphasis> (after line 29 on page 16):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2755917" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">15A</label>
-            <heading>Tenant may pay bond direct to chief executive with landlord's consent</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>Section 21(2) is amended by omitting <amend.in quote="1">prescribed</amend.in> and substituting <amend.in quote="1">approved</amend.in>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2755918">
-      <clause.ref>Clause 16</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">New section 22(1)(a)</emphasis>: to omit <amend.in quote="1">prescribed</amend.in> (lines 1 and 2 on page 17) and substitute <amend.in quote="1">approved </amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">New section 22A(1)</emphasis>: to omit <amend.in quote="1">prescribed</amend.in> (line 12 on page 17) and substitute <amend.in quote="1">approved</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2755919">
-      <clause.ref>Clause 55(4): new section 72(2)(mc)</clause.ref>
-      <sop.para>
-        <text>To omit this paragraph (lines 23 to 27 on page 56) and substitute the following paragraph:</text>
-        <instrument.amend close.quote="yes" increment="1" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">mc</label>
-            <para>
-              <text>to make orders under <changeable><citation jurisdiction="nz">section 62B</citation></changeable> concerning goods left on the premises on the termination of a tenancy:</text>
-            </para>
-          </label-para>
-        </instrument.amend>
-        <follow-text space-before="no">.</follow-text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2755920">
-      <clause.ref>Clause 58 </clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">New section 86(1)</emphasis>: to omit <amend.in quote="1">prescribed form</amend.in> (line 15 on page 58) and substitute <amend.in quote="1">approved form</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">New subsection (1A)</emphasis>: to insert the following subsection after <emphasis style="italic">subsection (1)</emphasis> (after line 16 on page 58):</text>
-        <instrument.amend close.quote="no" open.quote="yes" quote="1">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes" quote="1">1A</label>
-            <para>
-              <text>Before the chief executive approves a proposed form for the purposes of <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, the chief executive must consult with the Principal Tenancy Adjudicator about the proposed form.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2755921">
-      <clause.ref>New clause 66A</clause.ref>
-      <sop.para>
-        <text>To insert the following clause after <emphasis style="italic">clause 66</emphasis> (after line 7 on page 62):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2755922" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">66A</label>
-            <heading>Enforcement of orders other than possession orders and work orders</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>Section 107(3) is amended by omitting <amend.in quote="1">in the prescribed form</amend.in>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2755923">
-      <clause.ref>Clause 72</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">New section 112B(2)(b)</emphasis>: to omit <amend.in quote="1">the prescribed</amend.in> (line 14 on page 64) and substitute <amend.in quote="1">any prescribed</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">New section 112C(1)(a)</emphasis>: to omit <amend.in quote="1">the prescribed</amend.in> (line 4 on page 65) and substitute <amend.in quote="1">any prescribed</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2755924">
-      <clause.ref>Clause 76</clause.ref>
-      <sop.para>
-        <text>To add the following subclause as <emphasis style="italic">subclause (2)</emphasis> (after line 3 on page 68):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="yes" denominator="yes">2</label>
-            <para>
-              <text>Section 117(5) is amended by omitting <amend.in quote="1">, in the prescribed form,</amend.in>.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2755925">
-      <clause.ref>New clause 89A</clause.ref>
-      <sop.para>
-        <text>To insert the following clause after <emphasis style="italic">clause 89</emphasis> (after line 2 on page 73):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2755926" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">89A</label>
-            <heading>References to Part 2A to be disregarded before its commencement</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>Until the commencement of <changeable><citation jurisdiction="nz">Part 2A</citation></changeable> of the principal Act, <changeable><citation jurisdiction="nz">section 50(ab)</citation></changeable> of the principal Act must be read as if it did not refer to a sole tenant under a boarding house tenancy agreement or to <changeable><citation jurisdiction="nz">section 66W</citation></changeable> of the principal Act.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>Until the commencement of <changeable><citation jurisdiction="nz">Part 2A</citation></changeable> of the principal Act, <changeable><citation jurisdiction="nz">Schedule 1A</citation></changeable> of the principal Act must be read as if it did not contain the items that relate to sections located in <changeable><citation jurisdiction="nz">Part 2A</citation></changeable> of the principal Act.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text>the <changeable>subsections (2)</changeable> of the sections come into force on 1 April 2011.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes">4</label>
+              <para>
+                <text>In <changeable>Part 3</changeable>,––</text>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">a</label>
+                  <para>
+                    <text><changeable><citation jurisdiction="nz">section 92</citation></changeable> is treated as coming into force on 1 April 2008:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">b</label>
+                  <para>
+                    <text><changeable><citation jurisdiction="nz">sections 79(1), (3), and (4), 84, and 96(2) and (4)</citation></changeable> are treated as coming into force on 30 July 2009:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">c</label>
+                  <para>
+                    <text><changeable><citation jurisdiction="nz">section 100</citation></changeable> is treated as coming into force on 1 April 2010:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">d</label>
+                  <para>
+                    <text><changeable><citation jurisdiction="nz">section 94(2), (4), (5), and (6)</citation></changeable> are treated as coming into force on 29 April 2010:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">e</label>
+                  <para>
+                    <text><changeable><citation jurisdiction="nz">sections 77(4) to (6), 81(3) to (6), 82, 83, 85 to 91, 93, 96(5), (7), (8), and (9), 97, 98, and 99</citation></changeable> come into force on 1 April 2011:</text>
+                  </para>
+                </label-para>
+                <label-para skeleton="no">
+                  <label auto.number="no" denominator="yes">f</label>
+                  <para>
+                    <text><changeable><citation jurisdiction="nz">sections 95 and 96(6)</citation></changeable> come into force on 1 April 2012.</text>
+                  </para>
+                </label-para>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">the cross-heading after clause 100 and clause 101</emphasis> be a separate bill, and that for <emphasis style="italic">the cross-heading after clause 100</emphasis> there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2980904" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Government Superannuation Fund Amendment Act 1969 Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2980905" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act comes into force on 20 May 2010.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">the cross-heading after clause 101 and clause 102</emphasis> be a separate bill, and that for <emphasis style="italic">the cross-heading after clause 101</emphasis> there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2980906" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the National Provident Fund Restructuring Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2980907" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act comes into force on 20 May 2010.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">the cross-heading after clause 102 and clause 103</emphasis> be a separate bill, and that for <emphasis style="italic">the cross-heading after clause 102</emphasis> there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2980908" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Social Security Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2980909" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act comes into force on 20 May 2010.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">the cross-heading after clause 103 and clause 104</emphasis> be a separate bill, and that for <emphasis style="italic">the cross-heading after clause 103</emphasis> there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2980910" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the War Pensions Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2980911" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act comes into force on 20 May 2010.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">the cross-heading after clause 104 and clause 105</emphasis> be a separate bill, and that for <emphasis style="italic">the cross-heading after clause 104</emphasis> there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2980912" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the New Zealand Superannuation and Retirement Income Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2980913" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes"/>
+              <para>
+                <text>This Act comes into force on 20 May 2010.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote id="DLM2755927" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="110">
+  <explnote id="DLM2980914" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="124">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Residential Tenancies Amendment Bill.</text>
-    </para>
-    <para>
-      <text>The Supplementary Order Paper—</text>
+      <text>This Supplementary Order Paper divides the Taxation (Budget Measures) Bill into the following 6 bills:</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>separates certain provisions that relate to the new regime for boarding houses from provisions that do not relate to that regime. This allows the boarding house regime to be brought into force after the other provisions are in force:</text>
+            <text>Taxation (Budget Measures) Act 2010:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>replaces requirements to use forms prescribed by regulations with requirements to use forms approved by the chief executive of the Department of Building and Housing when—</text>
-            <list>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>notifying the chief executive of the particulars of certain agents appointed by landlords:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>lodging bonds with the Department of Building and Housing:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>applying for refunds of bonds:</text>
-                </para>
-              </item>
-              <item>
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>commencing proceedings before the Tenancy Tribunal (the form used for this purpose is approved in consultation with the Principal Tenancy Adjudicator):</text>
-                </para>
-              </item>
-            </list>
+            <text>Government Superannuation Fund Amendment Act 1969 Amendment Act 2010:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>amends provisions on the jurisdiction of the Tenancy Tribunal to reflect changes in its jurisdiction concerning abandoned goods:</text>
+            <text>National Provident Fund Restructuring Amendment Act 2010:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>continues the power to prescribe a fee for providing contact information about judgment debtors to judgment creditors, but no longer requires the Governor-General in Council to prescribe such a fee:</text>
+            <text>Social Security Amendment Act 2010:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>removes the requirement to prescribe notices to be filed in District Courts, particularly notices of appeal against decisions of the Tenancy Tribunal; as a result the form of such notices will be governed by rules of court.</text>
+            <text>War Pensions Amendment Act 2010:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>New Zealand Superannuation and Retirement Income Amendment Act 2010.</text>
           </para>
         </item>
       </list>
