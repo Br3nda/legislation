@@ -1,97 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3185700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="160">
-  <date>Tuesday, 24 August 2010</date>
-  <billref>Trans-Tasman Proceedings Bill</billref>
-  <body id="DLM3185701">
-    <heading>Proposed amendments</heading>
-    <motion>Hon Simon Power, in Committee, to move the following amendments:</motion>
-    <sop.part id="DLM3185702">
-      <label auto.number="no" denominator="yes">2</label>
-      <heading>Trans-Tasman proceedings</heading>
-      <sop.subpart id="DLM3185703">
-        <heading>Subpart 2—New Zealand courts declining jurisdiction on grounds that Australian court is more appropriate forum</heading>
-        <sop.amend id="DLM3185704">
-          <clause.ref>Clause 26</clause.ref>
-          <sop.para>
-            <text>To omit <amend.in quote="1">all</amend.in> (line 21 on page 26) and substitute <amend.in quote="1">the</amend.in>.</text>
-          </sop.para>
-        </sop.amend>
-      </sop.subpart>
-      <sop.subpart id="DLM3185705">
-        <heading>Subpart 3—New Zealand courts giving interim relief in support of civil proceedings in Australian courts</heading>
-        <sop.amend id="DLM3185706">
-          <clause.ref>Clause 31</clause.ref>
-          <sop.para>
-            <text>To omit <emphasis style="italic">subclauses (2) and (3)</emphasis> (lines 5 to 10 on page 29).</text>
-          </sop.para>
-        </sop.amend>
-      </sop.subpart>
-      <sop.subpart id="DLM3185707">
-        <heading>Subpart 4—Remote appearances unrelated to remote evidence</heading>
-        <sop.amend id="DLM3185708">
-          <clause.ref>Clause 33A</clause.ref>
-          <sop.para>
-            <text>To insert <amend.in quote="1"><changeable><citation jurisdiction="nz">section 23(4)</citation></changeable> or</amend.in> after <quote.in quote="1">in accordance with</quote.in> (line 16 on page 31).</text>
-          </sop.para>
-        </sop.amend>
-        <sop.amend id="DLM3185709">
-          <clause.ref>Clause 39</clause.ref>
-          <sop.para>
-            <text><emphasis style="italic">Subclause (1)</emphasis>: to insert <amend.in quote="1"><changeable><citation jurisdiction="nz">section 23(4)</citation></changeable> or, as the case requires, under</amend.in> before <quote.in quote="1">leave given</quote.in> (line 24 on page 34).</text>
-          </sop.para>
-          <sop.para>
-            <text><emphasis style="italic">Subclause (1)</emphasis>: to insert <amend.in quote="1">the defendant who made under <changeable><citation jurisdiction="nz">section 23(4)(c)</citation></changeable> a request to appear remotely or, as the case requires,</amend.in> before <quote.in quote="1">the applicant for that leave</quote.in> (lines 24 and 25 on page 34).</text>
-          </sop.para>
-        </sop.amend>
-        <sop.amend id="DLM3185710">
-          <clause.ref>Clause 40</clause.ref>
-          <sop.para>
-            <text>To insert <amend.in quote="1"><changeable><citation jurisdiction="nz">section 23(4)</citation></changeable> or</amend.in> after <quote.in quote="1">under</quote.in> (line 35 on page 34).</text>
-          </sop.para>
-        </sop.amend>
-        <sop.amend id="DLM3185711">
-          <clause.ref>Clause 54</clause.ref>
-          <sop.para>
-            <text><emphasis style="italic">Subclause (1)(b)</emphasis>: to omit <amend.in quote="1">working day of that court</amend.in> (line 19 on page 43) and substitute <amend.in quote="1">day</amend.in>.</text>
-          </sop.para>
-          <sop.para>
-            <text><emphasis style="italic">Subclause (2)</emphasis>: to omit <amend.in quote="1">where that term appears for the first time</amend.in> (line 21 on page 43).</text>
-          </sop.para>
-        </sop.amend>
-      </sop.subpart>
-    </sop.part>
-    <sop.part id="DLM3185712">
-      <label auto.number="no" denominator="no">Schedule 2</label>
-      <sop.subpart id="DLM3185713">
-        <heading>Part 1—Amendments to Acts</heading>
-        <sop.amend id="DLM3185714">
-          <clause.ref>Amendment to heading of section 170 of Evidence Act 2006</clause.ref>
-          <sop.para>
-            <text>To insert <amend.in quote="1"><emphasis style="bold">and</emphasis></amend.in> before <quote.in quote="1"><emphasis style="bold">submissions</emphasis></quote.in> (line 25 on page 68).</text>
-          </sop.para>
-        </sop.amend>
-        <sop.amend id="DLM3185715">
-          <clause.ref>New section 173 of Evidence Act 2006</clause.ref>
-          <sop.para>
-            <text>To omit <amend.in quote="1">Australian Act</amend.in> (lines 9 and 10 on page 70) and substitute <amend.in quote="1">Trans-Tasman Proceedings Act 2010 (Aust)</amend.in>.</text>
-          </sop.para>
-        </sop.amend>
-      </sop.subpart>
-    </sop.part>
+<sop id="DLM3003600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="125">
+  <date>Tuesday, 1 June 2010</date>
+  <billref>Statutes Amendment Bill</billref>
+  <body id="DLM3003601">
+    <heading>Proposed amendment</heading>
+    <motion>Hon Nathan Guy, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM3003602">
+      <clause.ref>New Part 38A</clause.ref>
+      <sop.para>
+        <text>To insert the following Part after <emphasis style="italic">Part 38</emphasis> (after line 15 on page 42):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <part id="DLM3003603" in.amend="false" irdnumbering="no" raised.by="Government" sop.no="125" toc="yes" year="2010">
+            <label auto.number="no" denominator="yes">38A</label>
+            <heading>Sentencing Act 2002</heading>
+            <prov id="DLM3003604" irdnumbering="no" skeleton="no" toc="yes">
+              <label auto.number="no" denominator="yes">135A</label>
+              <heading>Principal Act amended</heading>
+              <prov.body>
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text><changeable>This Part</changeable> amends the Sentencing Act 2002.</text>
+                  </para>
+                </subprov>
+              </prov.body>
+            </prov>
+            <prov id="DLM3003605" irdnumbering="no" skeleton="no" toc="yes">
+              <label auto.number="no" denominator="yes">135B</label>
+              <heading>Interpretation</heading>
+              <prov.body>
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes"/>
+                  <para>
+                    <text>The definition of <def-term id="DLM3003606">instrument of crime</def-term> in section 4(1) is amended by adding <amend.in quote="1">; and</amend.in> and also by adding the following paragraph:</text>
+                    <amend increment="1" quote="1">
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">c</label>
+                        <para>
+                          <text>in relation to any property referred to in paragraphs (a) and (b), the proceeds of any disposition of that property or any other property into which that property is converted, after the commission of the qualifying instrument forfeiture offence, except to the extent provided otherwise by any order of a court under this Act or the Criminal Proceeds (Recovery) Act 2009, excluding any severable interest or granting relief</text>
+                        </para>
+                      </label-para>
+                    </amend>
+                    <follow-text space-before="no">.</follow-text>
+                  </para>
+                </subprov>
+              </prov.body>
+            </prov>
+          </part>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM3185716" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="160">
+  <explnote id="DLM3003607" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="125">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper sets out amendments to the Trans-Tasman Proceedings Bill. </text>
-    </para>
-    <para>
-      <text><emphasis style="italic">Clause 26</emphasis> is amended to align its wording with that of <emphasis style="italic">clause 24</emphasis>. </text>
-    </para>
-    <para>
-      <text><emphasis style="italic">Clause 31(2) and (3)</emphasis> are omitted because they are considered unnecessary in a trans-Tasman context and may unnecessarily discourage New Zealand courts from giving interim relief in support of proceedings in Australian courts.</text>
-    </para>
-    <para>
-      <text><emphasis style="italic">Clauses 33A, 39, 40, and 54 and Schedule 2</emphasis> are amended to correct or improve their drafting.</text>
+      <text>This Supplementary Order Paper amends the Statutes Amendment Bill to insert <emphasis style="italic">new Part 38A</emphasis>. The new Part amends the definition of an instrument of crime in the Sentencing Act 2002, to reconcile an inconsistency with the equivalent definition in the Criminal Proceeds (Recovery) Act 2009.</text>
     </para>
   </explnote>
 </sop>
