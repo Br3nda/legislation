@@ -1,29 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3003800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0003" stage="published" year="2010" raised.by="Government" sop.no="126">
-  <date>Tuesday, 1 June 2010</date>
-  <billref>Statutes Amendment Bill</billref>
-  <body id="DLM3003801">
-    <heading>Proposed amendment</heading>
-    <motion>Hon Nathan Guy, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3003802">
-      <clause.ref>Clause 156(2)</clause.ref>
+<sop id="DLM2926800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0003" stage="published" year="2010" raised.by="Government" sop.no="120">
+  <date>Tuesday, 27 April 2010</date>
+  <billref>Residential Tenancies Amendment Bill</billref>
+  <body id="DLM2926801">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Phil Heatley, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2926802">
+      <clause.ref>Clause 13: new section 16B</clause.ref>
       <sop.para>
-        <text>To omit this subclause (lines 30 and 31 on page 48) and substitute the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
+        <text><emphasis style="italic">Subsection (1)</emphasis>: to omit <amend.in quote="1">1972</amend.in> (line 19 on page 15) and substitute <amend.in quote="1">2010</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (2)</emphasis>: to omit this subsection (lines 20 to 22 on page 15) and substitute the following subsection:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
           <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">2</label>
+            <label auto.number="no" denominator="yes" quote="1">2</label>
             <para>
-              <text>Subsection 26(3) is amended by omitting <amend.in quote="1">enumerator</amend.in> in each place where it appears and substituting in each case <amend.in quote="1">collector</amend.in>.</text>
+              <text>Body corporate operational rules made under the Unit Titles Act 2010 that affect a tenant of premises to which this section applies are taken to be terms of the tenancy agreement.</text>
             </para>
           </subprov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
+    <sop.amend id="DLM2926803">
+      <clause.ref>Clause 19: new section 25(2A)</clause.ref>
+      <sop.para>
+        <text>To omit this subsection (lines 4 to 9 on page 21) and substitute the following subsection:</text>
+        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">2A</label>
+            <para>
+              <text>Despite subsection (2), a tenant who is a party to a fixed term tenancy of premises held in a stratum estate under the Unit Titles Act 2010 may apply under subsection (1) within 3 months after the tenant is notified of a change or otherwise becomes aware of a change in the body corporate operational rules made under that Act, if that change affects the tenant.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2926804">
+      <clause.ref>Clause 46: new section 66(4)</clause.ref>
+      <sop.para>
+        <text>To omit this subsection (lines 24 to 31 on page 37) and substitute the following subsection:</text>
+        <instrument.amend close.quote="yes" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">4</label>
+            <para>
+              <text>On an application by a tenant who is party to a fixed-term tenancy of premises held in a stratum estate under the Unit Titles Act 2010, the Tribunal may make an order terminating the tenancy if satisfied that—</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">a</label>
+                <para>
+                  <text>the tenant is adversely affected by a change to the body corporate operational rules made under that Act; and</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">b</label>
+                <para>
+                  <text>because of that change, it would be unreasonable to require the tenant to continue with the tenancy.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2926805">
+      <clause.ref>New clause 89B</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after <emphasis style="italic">clause 89A</emphasis> (as proposed to be inserted by Supplementary Order Paper No 110):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2926806" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">89B</label>
+            <heading>References to Unit Titles Act 2010 before operation of that Act</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Until the commencement of the Unit Titles Act 2010, the references in <changeable><citation jurisdiction="nz">sections 16B(1), 25(2A), and 66(4)</citation></changeable> of the principal Act to a stratum estate under the Unit Titles Act 2010 must be read as references to a stratum estate under the Unit Titles Act 1972.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Until section 37 of the Unit Titles Act 1972 ceases, by operation of sections 218, 220, and 221 of the Unit Titles Act 2010, to be in force in respect of any premises held in a stratum estate, the references in <changeable><citation jurisdiction="nz">sections 16B(2), 25(2A), and 66(4)</citation></changeable> of the principal Act to body corporate operational rules must be read as references to rules prescribed by or under section 37 of the Unit Titles Act 1972.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM3003803" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2010" raised.by="Government" sop.no="126">
+  <explnote id="DLM2926807" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2010" raised.by="Government" sop.no="120">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Statutes Amendment Bill to correct a technical error in the Part that amends the Statistics Act 1975. </text>
+      <text>This Supplementary Order Paper amends the Residential Tenancies Amendment Bill by making consequential changes required by the recent enactment of the Unit Titles Act 2010.</text>
     </para>
   </explnote>
 </sop>
