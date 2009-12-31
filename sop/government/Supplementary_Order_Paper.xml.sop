@@ -1,131 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3313305" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="171">
-  <date>Tuesday, 19 October 2010</date>
-  <billref>Child and Family Protection Bill</billref>
-  <body id="DLM3313306">
-    <heading>Proposed motion to divide Bill into 3 Bills</heading>
-    <motion>Hon Simon Power, in Committee, to move as follows:</motion>
-    <sop.split>
-      <para>
-        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and <emphasis style="italic">Part 1</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM3313307" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>This Act is the Domestic Violence Amendment Act <changeable>2010</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM3313308" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>This Act comes into force 3 months after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM3313309" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Care of Children Amendment Act <changeable>2010</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM3313310" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>This Act comes into force 3 months after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 3</emphasis> heading there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM3313311" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Adoption Amendment Act <changeable>2010</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM3313312" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes"/>
-              <para>
-                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
+<sop id="DLM3185700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="160">
+  <date>Tuesday, 24 August 2010</date>
+  <billref>Trans-Tasman Proceedings Bill</billref>
+  <body id="DLM3185701">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Simon Power, in Committee, to move the following amendments:</motion>
+    <sop.part id="DLM3185702">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Trans-Tasman proceedings</heading>
+      <sop.subpart id="DLM3185703">
+        <heading>Subpart 2—New Zealand courts declining jurisdiction on grounds that Australian court is more appropriate forum</heading>
+        <sop.amend id="DLM3185704">
+          <clause.ref>Clause 26</clause.ref>
+          <sop.para>
+            <text>To omit <amend.in quote="1">all</amend.in> (line 21 on page 26) and substitute <amend.in quote="1">the</amend.in>.</text>
+          </sop.para>
+        </sop.amend>
+      </sop.subpart>
+      <sop.subpart id="DLM3185705">
+        <heading>Subpart 3—New Zealand courts giving interim relief in support of civil proceedings in Australian courts</heading>
+        <sop.amend id="DLM3185706">
+          <clause.ref>Clause 31</clause.ref>
+          <sop.para>
+            <text>To omit <emphasis style="italic">subclauses (2) and (3)</emphasis> (lines 5 to 10 on page 29).</text>
+          </sop.para>
+        </sop.amend>
+      </sop.subpart>
+      <sop.subpart id="DLM3185707">
+        <heading>Subpart 4—Remote appearances unrelated to remote evidence</heading>
+        <sop.amend id="DLM3185708">
+          <clause.ref>Clause 33A</clause.ref>
+          <sop.para>
+            <text>To insert <amend.in quote="1"><changeable><citation jurisdiction="nz">section 23(4)</citation></changeable> or</amend.in> after <quote.in quote="1">in accordance with</quote.in> (line 16 on page 31).</text>
+          </sop.para>
+        </sop.amend>
+        <sop.amend id="DLM3185709">
+          <clause.ref>Clause 39</clause.ref>
+          <sop.para>
+            <text><emphasis style="italic">Subclause (1)</emphasis>: to insert <amend.in quote="1"><changeable><citation jurisdiction="nz">section 23(4)</citation></changeable> or, as the case requires, under</amend.in> before <quote.in quote="1">leave given</quote.in> (line 24 on page 34).</text>
+          </sop.para>
+          <sop.para>
+            <text><emphasis style="italic">Subclause (1)</emphasis>: to insert <amend.in quote="1">the defendant who made under <changeable><citation jurisdiction="nz">section 23(4)(c)</citation></changeable> a request to appear remotely or, as the case requires,</amend.in> before <quote.in quote="1">the applicant for that leave</quote.in> (lines 24 and 25 on page 34).</text>
+          </sop.para>
+        </sop.amend>
+        <sop.amend id="DLM3185710">
+          <clause.ref>Clause 40</clause.ref>
+          <sop.para>
+            <text>To insert <amend.in quote="1"><changeable><citation jurisdiction="nz">section 23(4)</citation></changeable> or</amend.in> after <quote.in quote="1">under</quote.in> (line 35 on page 34).</text>
+          </sop.para>
+        </sop.amend>
+        <sop.amend id="DLM3185711">
+          <clause.ref>Clause 54</clause.ref>
+          <sop.para>
+            <text><emphasis style="italic">Subclause (1)(b)</emphasis>: to omit <amend.in quote="1">working day of that court</amend.in> (line 19 on page 43) and substitute <amend.in quote="1">day</amend.in>.</text>
+          </sop.para>
+          <sop.para>
+            <text><emphasis style="italic">Subclause (2)</emphasis>: to omit <amend.in quote="1">where that term appears for the first time</amend.in> (line 21 on page 43).</text>
+          </sop.para>
+        </sop.amend>
+      </sop.subpart>
+    </sop.part>
+    <sop.part id="DLM3185712">
+      <label auto.number="no" denominator="no">Schedule 2</label>
+      <sop.subpart id="DLM3185713">
+        <heading>Part 1—Amendments to Acts</heading>
+        <sop.amend id="DLM3185714">
+          <clause.ref>Amendment to heading of section 170 of Evidence Act 2006</clause.ref>
+          <sop.para>
+            <text>To insert <amend.in quote="1"><emphasis style="bold">and</emphasis></amend.in> before <quote.in quote="1"><emphasis style="bold">submissions</emphasis></quote.in> (line 25 on page 68).</text>
+          </sop.para>
+        </sop.amend>
+        <sop.amend id="DLM3185715">
+          <clause.ref>New section 173 of Evidence Act 2006</clause.ref>
+          <sop.para>
+            <text>To omit <amend.in quote="1">Australian Act</amend.in> (lines 9 and 10 on page 70) and substitute <amend.in quote="1">Trans-Tasman Proceedings Act 2010 (Aust)</amend.in>.</text>
+          </sop.para>
+        </sop.amend>
+      </sop.subpart>
+    </sop.part>
   </body>
-  <explnote id="DLM3313313" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="171">
+  <explnote id="DLM3185716" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="160">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper divides the Child and Family Protection Bill into the following 3 Bills:</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the Domestic Violence Amendment Bill:</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the Care of Children Amendment Bill:</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>the Adoption Amendment Bill.</text>
-          </para>
-        </item>
-      </list>
+      <text>This Supplementary Order Paper sets out amendments to the Trans-Tasman Proceedings Bill. </text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 26</emphasis> is amended to align its wording with that of <emphasis style="italic">clause 24</emphasis>. </text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 31(2) and (3)</emphasis> are omitted because they are considered unnecessary in a trans-Tasman context and may unnecessarily discourage New Zealand courts from giving interim relief in support of proceedings in Australian courts.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clauses 33A, 39, 40, and 54 and Schedule 2</emphasis> are amended to correct or improve their drafting.</text>
     </para>
   </explnote>
 </sop>
