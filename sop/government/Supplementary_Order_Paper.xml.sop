@@ -1,69 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3100300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0003" stage="published" year="2010" raised.by="Government" sop.no="151">
-  <date>Tuesday, 20 July 2010</date>
-  <billref>Infrastructure Bill</billref>
-  <body id="DLM3100301">
+<sop id="DLM2737600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="108">
+  <date>Tuesday, 9 February 2010</date>
+  <billref>Judicial Matters Bill</billref>
+  <body id="DLM2737601">
     <heading>Proposed amendments</heading>
-    <motion>Hon Bill English, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM3100302">
-      <clause.ref>Clause 45(3)</clause.ref>
+    <motion>Hon Christopher Finlayson, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2737602">
+      <clause.ref>Clause 10(1)</clause.ref>
       <sop.para>
-        <text>To insert after <quote.in quote="1">Chairman</quote.in> (line 8 on page 26) <amend.in quote="1">is</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text>To insert after <quote.in quote="1">deputy chairperson</quote.in> (line 9 on page 26) <amend.in quote="1">are</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3100303">
-      <clause.ref>Clause 46: new section 7A(2)</clause.ref>
-      <sop.para>
-        <text>To insert after <quote.in quote="1">omissions</quote.in> (line 22 on page 26) <amend.in quote="1">by the director or employee</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3100304">
-      <clause.ref>New clause 46A</clause.ref>
-      <sop.para>
-        <text>To insert the following clause after <changeable><citation jurisdiction="nz">clause 46</citation></changeable> (after line 25 on page 26):</text>
+        <text>To omit this subclause (lines 17 to 21 on page 6) and substitute the following subclause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3100305" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">46A</label>
-            <heading>Grant of easements</heading>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Section 15(1) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">a</label>
+                  <para>
+                    <text>there are any grounds for exercising his or her power under <changeable><citation jurisdiction="nz">section 15A</citation></changeable> to take no further action in respect of the complaint; or</text>
+                  </para>
+                </label-para>
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">b</label>
+                  <para>
+                    <text>there are any grounds for dismissing the complaint under section 16; or</text>
+                  </para>
+                </label-para>
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">c</label>
+                  <para>
+                    <text>the subject matter of the complaint, if substantiated, could warrant referral of the complaint to the Head of Bench under section 17; or</text>
+                  </para>
+                </label-para>
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">d</label>
+                  <para>
+                    <text>the subject matter of the complaint, if substantiated, could warrant consideration of the removal of the Judge from office by way of a recommendation under section 18.</text>
+                  </para>
+                </label-para>
+              </amend>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2737603">
+      <clause.ref>Clause 11: new section 15A(2)(c)</clause.ref>
+      <sop.para>
+        <text/>
+      </sop.para>
+      <sop.para>
+        <text>To omit this paragraph (lines 14 to 19 on page 7) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="no">
+          <amend quote="1">
+            <label-para quote="1" skeleton="no">
+              <label auto.number="no" denominator="yes" quote="1">c</label>
+              <para>
+                <text>that the complaint is one in respect of which the Commissioner, having started the preliminary examination required by section 15, concludes that there is no reasonable prospect of there being available to him or her information that would enable him or her to form an opinion on the matters specified in <changeable><citation jurisdiction="nz">section 15(1)(b), (c), and (d)</citation></changeable>.</text>
+              </para>
+            </label-para>
+          </amend>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2737604">
+      <clause.ref>Clause 12</clause.ref>
+      <sop.para>
+        <text>To insert the following subclause as <emphasis style="italic">subclause (1)</emphasis> (before line 36 on page 7):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Section 16(1) is amended by repealing paragraph (i) and substituting the following paragraph:</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">i</label>
+                  <para>
+                    <text>he or she has considered or previously considered the subject matter of the complaint, and that subject matter could not, if substantiated, warrant either referral to the Head of Bench under section 17 or consideration of the removal of the Judge from office by way of a recommendation under section 18.</text>
+                  </para>
+                </label-para>
+              </amend>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2737605">
+      <clause.ref>Clause 12A</clause.ref>
+      <sop.para>
+        <text>To omit this clause (lines 6 to 11 on page 8) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM2737606" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">12A</label>
+            <heading>Commissioner’s power to refer complaints to Head of Bench</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
+                <label auto.number="no" denominator="no"/>
                 <para>
-                  <text>Section 35(1) is amended by omitting <amend.in quote="1">, and subject to revocation without compensation at any time when the service of the public requires it, and subject also to immediate revocation in case of the breach of any conditions under which the easement was granted:</amend.in>.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>Section 35(1) is further amended by repealing the proviso.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>Section 35(2) is amended by omitting all the words above paragraph (a) and substituting <amend.in quote="1">Without limiting subsection (1), the Corporation may grant any of the following easements, privileges, or concessions in respect of any railway land, subject to such conditions and payments of rent as it thinks fit:</amend.in>.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">4</label>
-                <para>
-                  <text>Section 35(3) is amended by omitting <amend.in quote="1">, including conditions as to revocation without compensation when the service of the public requires it, and such additional conditions as to revocation as the Corporation considers necessary</amend.in>.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">5</label>
-                <para>
-                  <text>Section 35 is amended by adding the following subsection:</text>
-                  <amend quote="1">
-                    <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                  <text>Section 17(1) is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
                       <para>
-                        <text>This section continues to apply to any easement, privilege, or concession granted under it before <changeable><citation jurisdiction="nz">Part 3 of the Infrastructure Act 2010</citation></changeable> comes into force as if the amendments made by <changeable><citation jurisdiction="nz">that Part</citation></changeable> to this section had not been made.</text>
+                        <text>exercises his or her power under <changeable><citation jurisdiction="nz">section 15A</citation></changeable> to take no further action in respect of the complaint; or</text>
                       </para>
-                    </subprov>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>dismisses the complaint under section 16; or</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">c</label>
+                      <para>
+                        <text>recommends under section 18 that a Judicial Conduct Panel be appointed.</text>
+                      </para>
+                    </label-para>
                   </amend>
                 </para>
               </subprov>
@@ -72,23 +126,248 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
+    <sop.amend id="DLM2737607">
+      <clause.ref>New Part 1A</clause.ref>
+      <sop.para>
+        <text>To insert the following Part after <emphasis style="italic">Part 1</emphasis> (after line 5 on page 9):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <part id="DLM2737608" in.amend="false" irdnumbering="no" raised.by="Government" sop.no="108" toc="yes" year="2010">
+            <label auto.number="no" denominator="yes">1A</label>
+            <heading>Amendment to District Courts Act 1947</heading>
+            <crosshead id="DLM2737609" toc="yes">Principal Act amended</crosshead>
+            <prov id="DLM2737610" irdnumbering="no" skeleton="no" toc="yes">
+              <label auto.number="no" denominator="yes">15A</label>
+              <heading>Principal Act amended</heading>
+              <prov.body>
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes"/>
+                  <para>
+                    <text>This <changeable><citation jurisdiction="nz">Part </citation></changeable> amends the District Courts Act 1947.</text>
+                  </para>
+                </subprov>
+              </prov.body>
+            </prov>
+            <crosshead id="DLM2737611" toc="yes">District Court Judges</crosshead>
+            <prov id="DLM2737612" irdnumbering="no" skeleton="no" toc="yes">
+              <label auto.number="no" denominator="yes">15B</label>
+              <heading>Appointment and qualifications</heading>
+              <prov.body>
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes"/>
+                  <para>
+                    <text>Section 5(2) is amended by omitting <amend.in quote="1">140</amend.in> and substituting <amend.in quote="1">156</amend.in>.</text>
+                  </para>
+                </subprov>
+              </prov.body>
+            </prov>
+          </part>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2737613">
+      <clause.ref>Heading to Part 2</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><emphasis style="bold">Amendment</emphasis></amend.in> (line 7 on page 9) and substitute <amend.in quote="1"><emphasis style="bold">Amendments</emphasis></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2737614">
+      <clause.ref>New heading and clauses 16A and 16B</clause.ref>
+      <sop.para>
+        <text>To insert the following heading and clauses after <emphasis style="italic">clause 16</emphasis> (after line 10 on page 9):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <crosshead id="DLM2737615" toc="yes">Higher duties allowance for High Court Judges serving on Court of Appeal</crosshead>
+          <prov id="DLM2737616" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">16A</label>
+            <heading>Salaries and allowances of Judges</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Section 9A(1) is amended by inserting the following paragraph after paragraph (b):</text>
+                  <amend increment="1" quote="1">
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">ba</label>
+                      <para>
+                        <text>a higher duties allowance payable and calculated in accordance with <changeable><citation jurisdiction="nz">subsection (1A)</citation></changeable>; and</text>
+                      </para>
+                    </label-para>
+                  </amend>
+                  <follow-text space-before="no">.</follow-text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section 9A is amended by inserting the following subsection after subsection (1):</text>
+                  <amend quote="1">
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1A</label>
+                      <para>
+                        <text>The higher duties allowance under <changeable><citation jurisdiction="nz">subsection (1)(ba)</citation></changeable> is—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>payable only to a Judge who—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>is or was not a Judge of the Court of Appeal holding office under section 57(2) (in this subsection called a <def-term id="DLM2737617">permanent Judge</def-term>); but</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>is or was under sections 58A to 58C or section 58F serving as a member of a criminal or civil division, or as a member of the Full Court, of the Court of Appeal; and</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>payable only in respect of periods of the Judge's service as a member of the division or Full Court; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>calculated at a rate expressed per day of service as a member of the division or Full Court in accordance with the following formula:</text>
+                            <eqn id="DLM2737618">
+                              <eqn-line>(a − b) × c/d </eqn-line>
+                              <para>
+                                <text>where—</text>
+                              </para>
+                              <variable-def>
+                                <variable>a</variable>
+                                <para>
+                                  <text>is the applicable yearly rate of salary determined by the Remuneration Authority to be payable to a permanent Judge</text>
+                                </para>
+                              </variable-def>
+                              <variable-def>
+                                <variable>b</variable>
+                                <para>
+                                  <text>is the applicable yearly rate of salary determined by the Remuneration Authority to be payable to a Judge who is not a permanent Judge</text>
+                                </para>
+                              </variable-def>
+                              <variable-def>
+                                <variable>c</variable>
+                                <para>
+                                  <text>is 0.0383561 (the standard payroll factor, which represents the proportion of an annual salary that is paid per fortnight)</text>
+                                </para>
+                              </variable-def>
+                              <variable-def>
+                                <variable>d</variable>
+                                <para>
+                                  <text>is 10 (the number of working days per fortnight).</text>
+                                </para>
+                              </variable-def>
+                            </eqn>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </amend>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>Section 9A(5) is consequentially amended by omitting <amend.in quote="1">the payment of salary and allowances on a pro-rata basis under subsection (4) is not</amend.in> and substituting <amend.in quote="1">neither the cessation of the payment of a higher duties allowance payable and calculated under <changeable><citation jurisdiction="nz">subsections (1)(ba) and (1A)</citation></changeable>, nor the payment of salary and allowances on a pro-rata basis under subsection (4), is</amend.in>.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>Section 11A(3) is consequentially amended by omitting <amend.in quote="1">shall also be paid</amend.in> and substituting <amend.in quote="1">must also be paid the higher duties allowance payable and calculated under <changeable><citation jurisdiction="nz">section 9A(1)(ba) and (1A)</citation></changeable> and</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+          <prov id="DLM2737619" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">16B</label>
+            <heading>Allowances paid previously</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>This section applies to higher duties allowances paid out of public money before the commencement of this section to Judges who, for the periods in respect of which the allowances were paid,—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>were not Judges of the Court of Appeal holding office under section 57(2) of the Judicature Act 1908; but</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>were under sections 58A to 58C or section 58F of that Act serving as a member of a criminal or civil division, or as a member of the Full Court, of the Court of Appeal.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Those allowances must be taken to be, and to always have been, as authorised and valid as allowances calculated, appropriated, and paid in accordance with sections 9A, 11, and 11A of the Judicature Act 1908 (as those sections are amended by <changeable><citation jurisdiction="nz">section 16A</citation></changeable> of this Act).</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2737620">
+      <clause.ref>New heading and clause 18</clause.ref>
+      <sop.para>
+        <text>To insert the following heading and clause after <emphasis style="italic">clause 17</emphasis> (after line 14 on page 9):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <crosshead id="DLM2737621" toc="yes">Court of Appeal Judges</crosshead>
+          <prov id="DLM2737622" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">18</label>
+            <heading>Constitution of Court of Appeal</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="yes" denominator="yes"/>
+                <para>
+                  <text>Section 57(2)(b) is amended by omitting <amend.in quote="1">8</amend.in> and substituting <amend.in quote="1">9</amend.in>.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM3100306" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2010" raised.by="Government" sop.no="151">
+  <explnote id="DLM2737623" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="108">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends <emphasis style="italic">Part 3</emphasis> of the Infrastructure Bill, which contains amendments to the New Zealand Railways Corporation Act 1981. </text>
-    </para>
-    <para>
-      <text>The amendments to <emphasis style="italic">clauses 45 and 46</emphasis> are minor drafting changes. </text>
-    </para>
-    <para>
-      <text>The addition of <emphasis style="italic">new clause 46A</emphasis> is substantive. It amends section 35 of the New Zealand Railways Corporation Act 1981, which is about how the Corporation (KiwiRail Group) grants easements, privileges, and concessions in relation to railway land. </text>
-    </para>
-    <para>
-      <text>The amendment omits the words that provide that easements, etc, are subject to revocation without compensation, and to immediate revocation in case of a breach of conditions. The removal of these words will allow the Corporation and utilities greater scope to negotiate acceptable conditions on access to the railway corridor. This matter is particularly important in light of the planned roll-out of broadband.</text>
-    </para>
-    <para>
-      <text>Existing easements, etc, will remain subject to section 35 as it was before its amendment.</text>
+      <text>This Supplementary Order Paper sets out amendments to the Judicial Matters Bill. The amendments—</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>clarify the actions the Judicial Conduct Commissioner may take on a complaint about the conduct of a Judge. <emphasis style="italic">See</emphasis> the amendments to <emphasis style="italic">clauses 10(1), 11, 12, and 12A</emphasis>, which amend section 15(1), <emphasis style="italic">new section 15A(2)(c)</emphasis>, and sections 16(1) and 17(1) of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>increase from 140 to 156 the maximum number of District Court Judges. <emphasis style="italic">See new Part 1A</emphasis> amending the District Courts Act 1947 section 5(2):</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>clearly authorise higher duties allowances paid to High Court Judges serving on the Court of Appeal so that, in the language of MacKenzie J in <emphasis style="italic">Wikio v Attorney-General</emphasis> (2008) 8 HRNZ 544 (HC) at paragraphs [128]–[135], they <quote.in quote="1">rest on a more secure constitutional foundation</quote.in>. <emphasis style="italic">See new clauses 16A and 16B</emphasis> amending sections 9A and 11A of the Judicature Act 1908, and authorising allowances paid previously:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>increase from 9 to 10 (including the President) the maximum number of permanent Judges of the Court of Appeal that may be appointed. <emphasis style="italic">See new clause 18</emphasis> amending the Judicature Act 1908 section 57(2)(b) (which specifies the minimum and maximum numbers of permanent Judges (other than the President) of the Court of Appeal).</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
