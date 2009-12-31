@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill id="DLM2999100" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2010" bill.no="163" bill.type="government" stage="2" year="2010">
+  <billdetail>
+    <title>Governor-General Bill</title>
+    <billtype>Government Bill</billtype>
+    <repnote>As reported from the committee of the whole House</repnote>
+  </billdetail>
+  <key>
+    <heading>Key to symbols used in reprinted bill</heading>
+    <subheading>As reported from the committee of the whole House</subheading>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level1="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level1="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+    <subheading/>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-cowh">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-draft">text inserted</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-majority">text inserted by a majority</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <insertwords amend.level2="insert-unanimous">text inserted unanimously</insertwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-cowh">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-draft">text deleted</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-majority">text deleted by a majority</struckoutwords>
+      </text>
+    </para>
+    <para>
+      <text>
+        <struckoutwords amend.level2="struckout-unanimous">text deleted unanimously</struckoutwords>
+      </text>
+    </para>
+  </key>
+  <cover id="DLM2999104">
+    <member>Rt Hon John Key</member>
+    <title>Governor-General Bill</title>
+    <billtype>Government Bill</billtype>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM2999105">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM2999106" prov-type="clause">
+    <prov id="DLM2999107" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act is the Governor-General Act<changeable><citation jurisdiction="nz"> 2010</citation></changeable>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2999108" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <part id="DLM2999109" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="163" bill.type="government" stage="2" year="2010">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Provisions relating to remuneration, programme funding, and other payments concerning office of Governor-General</heading>
+      <crosshead id="DLM2999110" toc="yes">Preliminary provisions</crosshead>
+      <prov id="DLM2999111" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">3</label>
+        <heading>Act binds the Crown</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>This Act binds the Crown.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2999112" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading>Interpretation</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>In this Act, unless the context otherwise requires,—</text>
+              <def-para id="DLM2999113">
+                <para>
+                  <text><def-term id="DLM2999114">authorised person</def-term> means a person authorised  to make decisions under <changeable><citation jurisdiction="nz">section 16</citation></changeable> by the Minister who, with the authority of the Prime Minister, is responsible for Ministerial Services</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2999115">
+                <para>
+                  <text><def-term id="DLM2999116">family member</def-term>, in relation to any person, means—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>a spouse or partner:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>a child—</text>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">i</label>
+                        <para>
+                          <text>who is being maintained as a member of the person's family; and</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">ii</label>
+                        <para>
+                          <text>in respect of whom the person either is the sole or principal provider of ongoing daily care for the child or shares ongoing daily care of the child substantially equally with another person; and</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">iii</label>
+                        <para>
+                          <text>who is under 18 years of age; and</text>
+                        </para>
+                      </label-para>
+                      <label-para skeleton="no">
+                        <label auto.number="no" denominator="yes">iv</label>
+                        <para>
+                          <text>who is not living with another person in a marriage, civil union, or de facto relationship</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM2999117">
+                <para>
+                  <text><def-term id="DLM2999118">financial year</def-term> has the same meaning as in section 2(1) of the Public Finance Act 1989</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2999119">
+                <para>
+                  <text><def-term id="DLM2999120">partner</def-term> means a civil union or de facto partner.</text>
+                </para>
+              </def-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM2999121" toc="yes">Salary, allowance, annuity, and other payments</crosshead>
+      <prov id="DLM2999122" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">5</label>
+        <heading>Salary of Governor-General</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>The Governor-General must be paid a salary at a rate determined from time to time by the Remuneration Authority.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>A determination made under this section comes into force on the date specified in the determination, which may be a date that is before, on, or after the date the determination is made.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>The salary of the Governor-General is payable for the period—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>starting on the earlier of the following dates:</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para>
+                      <text>a date agreed between the appointee and the Prime Minister:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para>
+                      <text>the date on which the appointee takes up the duties of the office; and</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>ending on the date on which that person no longer holds office as Governor-General.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>The salary of the Governor-General must not be reduced during the Governor-General's term of office.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text>A determination made under this section is deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989 but not for the purposes of the Regulations (Disallowance) Act 1989.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 3(1)(a), (2), (3), (5), (6)</cf>
+      </prov>
+      <prov id="DLM2999123" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">6</label>
+        <heading>Allowance of Governor-General</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>The Governor-General must be paid an allowance, at a rate fixed from time to time by Order in Council, for official expenses.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The allowance is payable for the period—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>starting on the earlier of the following dates:</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para>
+                      <text>a date agreed between the appointee and the Prime Minister:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para>
+                      <text>the date on which the appointee takes up the duties of the office; and</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>ending on the date on which that person no longer holds office as Governor-General.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>An Order in Council made under this section comes into force on the date specified in the order, which may be a date that is before, on, or after the date the order is made.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>An Order in Council made under this section is a regulation for the purposes of the Acts and Regulations Publication Act 1989 but not for the purposes of the Regulations (Disallowance) Act 1989.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 3(1)(b), (2), (3), (6)</cf>
+      </prov>
+      <prov id="DLM2999124" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">7</label>
+        <heading>Sum payable after office of Governor-General becomes vacant</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>When a person ceases to hold office as Governor-General (other than by reason of death), he or she must be paid a gross lump sum equivalent to the gross salary payable for the last 6 months during which he or she held office.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 3(4)</cf>
+      </prov>
+      <prov id="DLM2999125" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">8</label>
+        <heading>Annuity for former Governor-General</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>This section applies to a person who has held the office of Governor-General.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>If a person to whom this section applies held office as Governor-General for a total period of less than 2 complete years, he or she must be paid an annuity at a yearly rate determined from time to time by the Remuneration Authority.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>If a person to whom this section applies held office as Governor-General for a total period of 2 complete years or more, he or she must be paid an annuity at a yearly rate, determined from time to time by the Remuneration Authority, for each complete year (not exceeding 5 years) of that total period.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>The annuity is payable from the date that is 6 months after the date on which the person ceased to hold office as Governor-General.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text>A determination made under this section comes into force on the date specified in the determination, which may be a date that is before, on, or after the date the determination is made.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">6</label>
+            <para>
+              <text>A determination made under this section is deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989 but not for the purposes of the Regulations (Disallowance) Act 1989.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 4(1), (3)–(7)</cf>
+      </prov>
+      <prov id="DLM2999126" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">9</label>
+        <heading>Annuity for spouse or partner of former Governor-General</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>If a person to whom<changeable><citation jurisdiction="nz"> section 8</citation></changeable> applies dies after ceasing to hold office, the surviving spouse or partner of that person must be paid an annuity at half the yearly rate at which an annuity would have been payable to the person under <changeable><citation jurisdiction="nz">section 8</citation></changeable> if that person had not died.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>If a Governor-General dies while in office, the surviving spouse or partner of that person must be paid an annuity at half the yearly rate at which the annuity would have been payable to that person under <changeable><citation jurisdiction="nz">section 8</citation></changeable> had he or she resigned from the office as at the date of death.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>The annuity under <changeable><citation jurisdiction="nz">subsection (1) or (2)</citation></changeable> is payable from the date of death of the person who held office as Governor-General until the spouse or partner dies.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 4(2), (3)–(7)</cf>
+      </prov>
+      <prov id="DLM2999127" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">10</label>
+        <heading>Compensation for lost or adversely affected superannuation rights</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Subsection (2)</citation></changeable> applies if a person is appointed to the office of Governor-General and, because of the person's acceptance of that office, the superannuation rights of the person who is appointed to the office, or the superannuation rights of the spouse or partner of that person, have been lost or otherwise adversely affected.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>From the date on which the person appointed to the office of Governor-General ceases to hold that office, compensation must be paid to that person, or to the surviving spouse or partner of that person, of a sum or an annuity, or both, provided for in a written agreement made between that person and the Minister of Finance before that person assumed office as Governor-General.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>An agreement made between the person appointed to the office of Governor-General and the Minister of Finance for the purposes of this section has effect according to its tenor and—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>may provide for the payment of contributions by the Governor-General; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>if it provides for the payment of an annuity, may provide for any annuity payable under <changeable><citation jurisdiction="nz">section 8 or 9</citation></changeable> to be payable at a rate less than that prescribed by whichever of those sections applies.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 5</cf>
+      </prov>
+      <prov id="DLM2999128" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">11</label>
+        <heading>Payments in respect of other benefits and privileges</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>The terms of the appointment of a person as Governor-General may include an agreement for that person and his or her spouse or partner to be provided with specified benefits or privileges by way of payments in respect of domestic travel and the use of chauffeured cars when he or she no longer holds office as Governor-General.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>A statement setting out the details of any benefits or privileges paid to or in respect of any former Governor-General under an agreement made under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> or an agreement referred to in <changeable><citation jurisdiction="nz">section 27(1)(d)</citation></changeable> must be included in the annual financial statements of the Department of Internal Affairs in addition to the requirements in section 45B(2) of the Public Finance Act 1989.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>The statement must show all of the expenses incurred to provide the benefits or privileges.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 25(1)(a), (f)</cf>
+      </prov>
+      <prov id="DLM2999129" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">12</label>
+        <heading>Permanent appropriation for salary, allowance, annuities, etc</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>Expenses may be incurred, without further appropriation than this section, to meet—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the salary under <changeable><citation jurisdiction="nz">section 5</citation></changeable>:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>the allowance under <changeable><citation jurisdiction="nz">section 6</citation></changeable>:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>the lump sum under <changeable><citation jurisdiction="nz">section 7</citation></changeable>:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">d</label>
+                <para>
+                  <text>the annuities under <changeable><citation jurisdiction="nz">sections 8 and 9</citation></changeable>:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">e</label>
+                <para>
+                  <text>compensation under an agreement made under <changeable><citation jurisdiction="nz">section 10</citation></changeable>:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">f</label>
+                <para>
+                  <text>specified benefits and privileges under an agreement made under <changeable><citation jurisdiction="nz">section 11(1)</citation></changeable>:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">g</label>
+                <para>
+                  <text>specified benefits and privileges under an agreement referred to in <changeable><citation jurisdiction="nz">section 27(1)(d)</citation></changeable>.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 2</cf>
+      </prov>
+      <crosshead id="DLM2999130" toc="yes">Funding for Governor-General's programme</crosshead>
+      <prov id="DLM2999131" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">13</label>
+        <heading>Governor-General's programme</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Expenses may be incurred, without further appropriation than this section, to meet the costs of the Governor-General carrying out his or her duties of office in New Zealand (such as the costs of, and incidental to, travel of the Governor-General, staff of the Governor-General, and his or her family members, and the cost of hosting functions and events, as part of the Governor-General's programme).</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 ss 2, 6</cf>
+      </prov>
+      <prov id="DLM2999132" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">14</label>
+        <heading>Governor-General's travel outside New Zealand</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Expenses may be incurred, without further appropriation than this section, to meet the costs of—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the Governor-General carrying out any of his or her duties of office outside New Zealand (such as the costs of, and incidental to, international travel of the Governor-General, staff of the Governor-General, and his or her family members); and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>travel of the Governor-General designate, his or her family members, and staff of the incumbent Governor-General, for the purpose of the Governor-General designate having an audience with the Sovereign.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 ss 2, 6</cf>
+      </prov>
+      <crosshead id="DLM2999133" toc="yes">Administrator of the Government</crosshead>
+      <prov id="DLM2999134" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">15</label>
+        <heading>Salary and expenses of Administrator</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>If the Chief Justice, or the next most senior Judge of the New Zealand judiciary who is able to act, acts as the Administrator of the Government, that person continues to receive the salary of his or her judicial office in respect of the period for which that person acts as the Administrator of the Government.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 8</cf>
+      </prov>
+    </part>
+    <part id="DLM2999135" in.amend="false" irdnumbering="no" official="yes" toc="yes" bill.no="163" bill.type="government" stage="2" year="2010">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Miscellaneous provisions</heading>
+      <crosshead id="DLM2999136" toc="yes">Conflicting claims</crosshead>
+      <prov id="DLM2999137" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">16</label>
+        <heading>Conflicting claims</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>If more than 1 person claims to be entitled to an annuity under <changeable><citation jurisdiction="nz">section 9</citation></changeable>, an authorised person must decide—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>whether more than 1 person is entitled to the annuity; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>if so, the proportion of the annuity payable to each person entitled to it.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>If more than 1 person is entitled to an annuity, the total annuity paid to the persons entitled to it must not exceed the amount that would have been paid if only 1 person were entitled to it.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 27(1), (2)(a), (4)</cf>
+      </prov>
+      <prov id="DLM2999138" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">17</label>
+        <heading>Appeal against decision of authorised person</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>If a person who claims to be entitled to an annuity under <changeable><citation jurisdiction="nz">section 9</citation></changeable> is dissatisfied with a decision made by an authorised person under <changeable><citation jurisdiction="nz">section 16</citation></changeable>, he or she may appeal against the decision to the High Court.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The High Court Rules and sections 74 to 78 of the District Courts Act 1947 apply, with all necessary modifications, to an appeal under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable> as if it were an appeal under section 72 of that Act against a decision of a District Court.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or decision of the High Court on an appeal under <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <cf>1979 No 33 s 27(5)–(7)</cf>
+      </prov>
+      <crosshead id="DLM2999139" toc="yes">Amendments to Civil List Act 1979</crosshead>
+      <prov id="DLM2999140" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">18</label>
+        <heading>Amendments to Civil List Act 1979</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Sections 19 and 20</citation></changeable> amend the Civil List Act 1979.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2999141" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">19</label>
+        <heading>Part 1 repealed</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>Part 1 is repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2999142" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">20</label>
+        <heading>Appropriation of money for benefits and privileges</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Section 25(1)(a) is repealed.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section 25(1)(f) is amended by omitting <amend.in quote="1">(a),</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead amend.level1="insert-cowh" id="DLM3324301" toc="yes">Amendment to Goods and Services Tax Act 1985</crosshead>
+      <prov amend.level1="insert-cowh" id="DLM3324300" irdnumbering="no" skeleton="no" toc="yes">
+        <label amend.level1="insert-cowh" auto.number="no" denominator="yes">20A</label>
+        <heading amend.level1="insert-cowh">Amendment to Goods and Services Tax Act 1985</heading>
+        <prov.body>
+          <subprov amend.level1="insert-cowh" skeleton="no">
+            <label amend.level1="insert-cowh" auto.number="no" denominator="yes">1</label>
+            <para amend.level1="insert-cowh">
+              <text>This section amends the Goods and Services Tax Act 1985.</text>
+            </para>
+          </subprov>
+          <subprov amend.level1="insert-cowh" skeleton="no">
+            <label amend.level1="insert-cowh" auto.number="no" denominator="yes">2</label>
+            <para amend.level1="insert-cowh">
+              <text>Section 6(3)(c)(i) is amended by adding <amend.in quote="1">or the Governor-General Act <changeable><citation jurisdiction="nz">2010</citation></changeable></amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM2999143" toc="yes">Amendments to Income Tax Act 2007</crosshead>
+      <prov id="DLM2999144" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">21</label>
+        <heading>Amendments to Income Tax Act 2007</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Sections 22 to 24</citation></changeable> amend the Income Tax Act 2007.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2999145" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">22</label>
+        <heading>New section CW 16 substituted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>Section CW 16 is repealed and the following section substituted:</text>
+              <amend quote="1">
+                <prov id="DLM2999146" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">CW 16</label>
+                  <heading>Allowance of Governor-General and other benefits and privileges</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="yes"/>
+                      <para>
+                        <text>The following are exempt income:</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the allowance of the Governor-General, paid under <changeable><citation jurisdiction="nz">section 6</citation></changeable> of the <changeable><citation jurisdiction="nz">Governor-General Act 2010</citation></changeable>:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>any benefit or privilege provided under an agreement made under <changeable><citation jurisdiction="nz">section 11(1)</citation></changeable> of the <changeable><citation jurisdiction="nz">Governor-General Act 2010</citation></changeable> or an agreement referred to in <changeable><citation jurisdiction="nz">section 27(1)(d)</citation></changeable> of that Act.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2999147" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">23</label>
+        <heading>Salary or wages</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>The heading above section RD 5(5) is amended by omitting <amend.in quote="1"><emphasis style="italic">members of Parliament and</emphasis></amend.in> and substituting <amend.in quote="1"><emphasis style="italic">Governor-General, members of Parliament, and</emphasis></amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section RD 5(5) is amended by inserting the following paragraph before paragraph (a):</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" increment="1" quote="1">aa</label>
+                  <para>
+                    <text>salary made to the Governor-General:</text>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>Section RD 5 is amended by inserting the following subsection after subsection (5):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">5B</label>
+                  <para>
+                    <text>A payment to a person made under <changeable><citation jurisdiction="nz">section 7</citation></changeable> of the <changeable><citation jurisdiction="nz">Governor-General Act 2010</citation></changeable> is included in the salary and wages of that person.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2999148" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">24</label>
+        <heading>Definitions</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>The definition of <def-term id="DLM2999149">employment</def-term> in section YA 1 is amended by omitting <amend.in quote="1">a member of Parliament or</amend.in> and substituting <amend.in quote="1">the Governor-General, a member of Parliament, or</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM2999150" toc="yes">Transitional and savings provisions in respect of incumbent Governor-General</crosshead>
+      <prov id="DLM2999151" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">25</label>
+        <heading>Continuation of incumbent Governor-General's entitlements</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>This section applies to the person who held the office of Governor-General immediately before the commencement of this Act (the <changeable><citation jurisdiction="nz">incumbent Governor-General</citation></changeable>), until that person no longer holds office as Governor-General. </text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The incumbent Governor-General's entitlements and position in respect of salary, allowance, lump sum on leaving office, compensation for lost or adversely affected superannuation rights, and travelling expenses are as if this Act had not been passed. </text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2999152" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">26</label>
+        <heading>Annuities payable in respect of incumbent Governor-General</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>To avoid doubt, the annuities payable in respect of the incumbent Governor-General and his or her spouse or partner after the incumbent Governor-General ceases to hold office as Governor-General are payable in accordance with this Act. </text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM2999153" toc="yes">Validation provisions</crosshead>
+      <prov id="DLM2999154" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">27</label>
+        <heading>Validations</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Nothing in this Act affects the validity of any of the following made before the commencement of this Act:</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>an Order in Council made under section 3 of the Civil List Act 1979:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>a determination made by the Remuneration Authority under section 3 or 4 of the Civil List Act 1979:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>an agreement made under section 5 of the Civil List Act 1979:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">d</label>
+                <para>
+                  <text>an agreement, as part of the terms of appointment of a person as Governor-General, for that person to be provided with specified privileges or benefits (whether by way of domestic air travel, the use of chauffeured cars, or any other benefit or privilege) when that person no longer held office as Governor-General.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Despite anything in this Act, every annuity in respect of which a determination by the Remuneration Authority has been made under section 4(1) of the Civil List Act 1979 must continue to be paid at the rate applicable at the commencement of this Act until the determination of the Remuneration Authority relating to that annuity has been superseded by a determination of the Remuneration Authority under <changeable><citation jurisdiction="nz">section 8</citation></changeable> of this Act.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>Despite anything in this Act, every annuity in respect of which a determination by the Remuneration Authority has been made under section 4(2) of the Civil List Act 1979 must continue to be paid to the spouse or partner of the former Governor-General at the rate applicable at the commencement of this Act until the Remuneration Authority has made a determination under <changeable><citation jurisdiction="nz">section 8</citation></changeable> of this Act.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+  </body>
+  <end id="DLM3324302">
+    <leg-history id="DLM3324303">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2010-06-29</date>
+        <description>Introduction (Bill 163–1)</description>
+      </history-item>
+      <history-item>
+        <date>2010-07-20</date>
+        <description>First reading and referral to Government Administration Committee</description>
+      </history-item>
+      <history-item>
+        <date>2010-09-08</date>
+        <description>Reported from Government Administration Committee</description>
+      </history-item>
+      <history-item>
+        <date>2010-10-13</date>
+        <description>Second reading</description>
+      </history-item>
+      <history-item>
+        <date>2010-10-26</date>
+        <description>Committee of the whole House (Bill 163–2)</description>
+      </history-item>
+    </leg-history>
+  </end>
+</bill>
