@@ -1,65 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3014200" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0011" stage="published" year="2010" raised.by="Government" sop.no="138">
-  <date>Tuesday, 1 June 2010</date>
-  <billref>Local Government (Auckland Law Reform) Bill</billref>
-  <body id="DLM3014201">
-    <heading>Proposed amendment</heading>
-    <motion>Hon Rodney Hide, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3014202">
-      <clause.ref>New clause 44A</clause.ref>
+<sop id="DLM3301400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="169">
+  <date>Wednesday, 13 October 2010</date>
+  <billref>Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Bill</billref>
+  <body id="DLM3301401">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Christopher Finlayson, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3301402">
+      <clause.ref>New clause 8A </clause.ref>
       <sop.para>
-        <text>To insert the following clause before <emphasis style="italic">clause 45</emphasis> (before line 24 on page 71):</text>
+        <text>Insert the following clause on page 12 after line 2:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3014203" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">44A</label>
-            <heading>New section 35A</heading>
+          <prov id="DLM3301403" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="never" denominator="yes">8A</label>
+            <heading>Relationship with Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010 </heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes"/>
                 <para>
-                  <text>The following section is inserted after section 35:</text>
-                  <amend quote="1">
-                    <prov id="DLM3014204" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-                      <label auto.number="no" denominator="yes" quote="1">35A</label>
-                      <heading>Local Government (Auckland Wards and Local Boards) Determination 2010 amended</heading>
-                      <prov.body>
-                        <subprov quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">1</label>
-                          <para>
-                            <text>In this section,—</text>
-                            <def-para id="DLM3014205" quote="1">
-                              <para quote="1">
-                                <text><def-term id="DLM3014206">determination</def-term> means the determination made by the Local Government Commission under section 34</text>
-                              </para>
-                            </def-para>
-                            <def-para id="DLM3014207" quote="1">
-                              <para quote="1">
-                                <text><def-term id="DLM3014208">order</def-term> means the Order in Council that made the Local Government (Auckland Wards and Local Boards) Determination 2010 (<emphasis style="italic">Gazette</emphasis>, 2010 p 856) and that gives effect to the determination.</text>
-                              </para>
-                            </def-para>
-                          </para>
-                        </subprov>
-                        <subprov quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">2</label>
-                          <para>
-                            <text>Clauses 4(k), 5(k), 6(r), and 7(18) of the order are amended by omitting <amend.in quote="2">Te Irirangi</amend.in> and substituting in each case <amend.in quote="2">Howick</amend.in>.</text>
-                          </para>
-                        </subprov>
-                        <subprov quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">3</label>
-                          <para>
-                            <text>The amendments made to the order by <changeable><citation jurisdiction="nz">subsection (2)</citation></changeable> have effect as if they had been included in the determination.</text>
-                          </para>
-                        </subprov>
-                        <subprov quote="1" skeleton="no">
-                          <label auto.number="no" denominator="yes" quote="1">4</label>
-                          <para>
-                            <text>To avoid doubt, this section applies subject to <changeable><citation jurisdiction="nz">section 13A and 83(3)</citation></changeable>.</text>
-                          </para>
-                        </subprov>
-                      </prov.body>
-                    </prov>
-                  </amend>
+                  <text>The matters provided for in <changeable><citation jurisdiction="nz">sections 9 to 34</citation></changeable> are also provided for in sections 9 to 34 of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010, having been agreed between the Crown and Waikato-Tainui in a deed of settlement dated 17 December 2009.</text>
                 </para>
               </subprov>
             </prov.body>
@@ -67,14 +25,103 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
+    <sop.amend id="DLM3301404">
+      <clause.ref>Clause 38(1)</clause.ref>
+      <sop.para>
+        <text>Omit.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3301405">
+      <clause.ref>Clause 38(2)(a)</clause.ref>
+      <sop.para>
+        <text>Insert after <quote.in quote="1">plan</quote.in> (page 28, line 24) <amend.in quote="1">, and the Trust for Ngati Tuwharetoa if it did not participate in the preparation of the plan and decides under <changeable><citation jurisdiction="nz">clause 4(4A) of Schedule 5</citation></changeable> to participate in the review,</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3301406">
+      <clause.ref>Clause 46(2)(a)(i)</clause.ref>
+      <sop.para>
+        <text>Omit <amend.in quote="1">; and</amend.in> (page 33, line 21) and substitute <amend.in quote="1">:</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3301407">
+      <clause.ref>Clause 57(3)</clause.ref>
+      <sop.para>
+        <text>Omit <amend.in quote="1">settlement</amend.in> (page 45, line 1) and substitute <amend.in quote="1">operational</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3301408">
+      <clause.ref>Schedule 4: clause 2(3)(b)</clause.ref>
+      <sop.para>
+        <text>Omit <amend.in quote="1">the settlement</amend.in> (page 66, line 12) and substitute <amend.in quote="1">this Act</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3301409">
+      <clause.ref>Schedule 4: clause 2(5)(b)(ii)</clause.ref>
+      <sop.para>
+        <text>Omit <amend.in quote="1">the settlement</amend.in> (page 66, line 30) and substitute <amend.in quote="1">this Act</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3301410">
+      <clause.ref>Schedule 4: clause 2(6)(b)(ii)</clause.ref>
+      <sop.para>
+        <text>Omit <amend.in quote="1">the settlement</amend.in> (page 67, line 5) and substitute <amend.in quote="1">this Act</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3301411">
+      <clause.ref>Schedule 5: clause 4(1)</clause.ref>
+      <sop.para>
+        <text>Omit the subclause (page 79, lines 28 to 31). </text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3301412">
+      <clause.ref>Schedule 5: new clause 4(4A)</clause.ref>
+      <sop.para>
+        <text>Insert the following subclause on page 80 after line 13:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4A</label>
+            <para>
+              <text>If the Trust for Ngati Tuwharetoa did not participate in the preparation of the plan, the following provisions apply:</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the other Trusts must give the Trust for Ngati Tuwharetoa written or electronic notice of an intended review under <changeable><citation jurisdiction="nz">subclause (2) or (4)</citation></changeable>:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>if the Trust for Ngati Tuwharetoa decides to participate in the review, it must give the other Trusts written or electronic notice of its decision within 30 business days after receipt of the other Trusts' notice:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>if the Trust for Ngati Tuwharetoa decides not to participate in the review, it must give the other Trusts written or electronic notice of its decision—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para>
+                      <text>as soon as practicable after the decision is made; and </text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para>
+                      <text>within 30 business days after receipt of the other Trusts' notice.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM3014209" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0011" stage="published" year="2010" raised.by="Government" sop.no="138">
+  <explnote id="DLM3301413" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="169">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Local Government (Auckland Law Reform) Bill by inserting <emphasis style="italic">new clause 44A</emphasis> into the Bill. </text>
-    </para>
-    <para>
-      <text>The clause inserts a <emphasis style="italic">new section 35A</emphasis> into the Bill. <emphasis style="italic">New section 35A</emphasis> amends the Order in Council giving effect to the determination made by the Local Government Commission under the Local Government (Tamaki Makaurau Reorganisation) Act 2009 in respect of the wards and local boards for Auckland. The names of Te Irirangi ward and Te Irirangi local board area are changed to Howick.</text>
+      <text>This Supplementary Order Paper inserts a provision stating the connection between this Bill and the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010. It also corrects drafting errors.</text>
     </para>
   </explnote>
 </sop>
