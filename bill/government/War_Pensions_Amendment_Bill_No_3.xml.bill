@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill id="DLM3170502" in.amend="false" irdnumbering="no" official="yes" xml:lang="en-NZ" year.imprint="2010" bill.no="125" bill.type="government" split.letter="E" stage="3" year="2010">
+  <billdetail>
+    <title>War Pensions Amendment Bill (No 3)</title>
+    <billtype>Government Bill</billtype>
+    <repnote>As reported from the committee of the whole House</repnote>
+    <billnote>
+      <para>
+        <text>This bill was formerly part of the Social Assistance (New Work Tests, Incentives, and Obligations) Amendment Bill as reported from the Social Services Committee. The committee of the whole House has divided it into the following bills:</text>
+        <list>
+          <item>
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>Children, Young Persons, and Their Families Amendment Bill comprising clauses 1 and 2, and Part 1</text>
+            </para>
+          </item>
+          <item>
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>Education Amendment Bill (No 3) comprising Part 2</text>
+            </para>
+          </item>
+          <item>
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>Taxation (Definitions of Dependent Child) Bill comprising Part 3</text>
+            </para>
+          </item>
+          <item>
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>Social Security (New Work Tests, Incentives, and Obligations) Amendment Bill comprising Part 4, and Schedules 1 to 3</text>
+            </para>
+          </item>
+          <item>
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>This bill comprising Part 5.</text>
+            </para>
+          </item>
+        </list>
+      </para>
+    </billnote>
+  </billdetail>
+  <cover id="DLM3170503">
+    <member>Hon Paula Bennett</member>
+    <title>War Pensions Amendment Bill (No 3)</title>
+    <billtype>Government Bill</billtype>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM3170504">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM3170505" prov-type="clause">
+    <prov id="DLM3170500" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act is the War Pensions Amendment Act <changeable>2010</changeable>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM3170501" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act comes into force on <changeable>27 September 2010</changeable>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <omitted-provs toc="yes"/>
+    <prov id="DLM3170506" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">49</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text><changeable><citation jurisdiction="nz">This Part</citation></changeable> amends the War Pensions Act 1954.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM3170507" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">50</label>
+      <heading>Interpretation</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>The definition of <def-term id="DLM3170508">Income Test 3</def-term> in section 67(1) is amended by omitting <amend.in quote="1">$80</amend.in> and substituting <amend.in quote="1">$100</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM3170509" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">51</label>
+      <heading>Abatement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text>Section 74D(3)(a) and (4)(a) are amended by omitting <amend.in quote="1">$80</amend.in> and substituting in each case <amend.in quote="1">$100</amend.in>.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text>Section 74D is amended by omitting <amend.in quote="1">$180</amend.in> in each place where it appears and substituting in each case <amend.in quote="1">$200</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <omitted-provs toc="yes"/>
+  </body>
+  <end id="DLM3170510">
+    <leg-history id="DLM3170511">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2010-08-17</date>
+        <description>Divided from Social Assistance (New Work Tests, Incentives, and Obligations) Amendment Bill (Bill 125–2) by committee of the whole House as Bill 125–3E</description>
+      </history-item>
+    </leg-history>
+  </end>
+</bill>
