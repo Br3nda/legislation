@@ -1,85 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3363600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="176">
-  <date>Tuesday, 16 November 2010</date>
-  <billref>Education Amendment Bill (No 2)</billref>
-  <body id="DLM3363601">
-    <heading>Proposed amendment</heading>
-    <motion>Hon Anne Tolley, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3363602">
-      <clause.ref>New clauses 14A and 14B</clause.ref>
+<sop id="DLM3191000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="161">
+  <date>Tuesday, 24 August 2010</date>
+  <billref>Motor Vehicle Sales Amendment Bill</billref>
+  <body id="DLM3191001">
+    <heading>Proposed amendments</heading>
+    <motion>Hon John Boscawen, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3191002">
+      <clause.ref>Clause 2</clause.ref>
       <sop.para>
-        <text>To insert the following clauses after <emphasis style="italic">clause 14</emphasis> (after line 32 on page 26):</text>
+        <text>To omit <amend.in quote="1">the day after the date on which it receives the Royal assent</amend.in> (lines 4 and 5 on page 2) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">1 October 2010</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3191003">
+      <clause.ref>Clause 13</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1">(1)</amend.in> (line 10 on page 7) and substitute <amend.in quote="1">(1A)</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To omit <amend.in quote="1">(1A)</amend.in> (line 11 on page 7) and substitute <amend.in quote="1">(1B)</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3191004">
+      <clause.ref>Clause 19: new section 107(1)(a)</clause.ref>
+      <sop.para>
+        <text>To insert after <quote.in quote="1">false statutory declaration</quote.in> (line 23 on page 9) <amend.in quote="1">or certificate</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3191005">
+      <clause.ref>Schedule: amendments relating to Consumer Information Standards (Used Motor Vehicles) Regulations 2008</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Item relating to regulation 7(3)</emphasis>: to omit <amend.in quote="1">trader</amend.in> (line 20 on page 12) and substitute <amend.in quote="1">motor vehicle trader</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">First item relating to Schedule 2</emphasis>: to omit <amend.in quote="1">trader</amend.in> (line 31 on page 12) and substitute <amend.in quote="1">motor vehicle trader</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Second item relating to Schedule 2</emphasis>: to omit <amend.in quote="1">trader's</amend.in> (line 33 on page 12) and substitute <amend.in quote="1">motor vehicle trader's</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Third item relating to Schedule 2</emphasis>: to omit <amend.in quote="1">traders</amend.in> (line 1 on page 13) and substitute <amend.in quote="1">motor vehicle traders</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To add after the last item (after line 1 on page 13):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3363603" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">14A</label>
-            <heading>Roles within tertiary education sector</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes"/>
-                <para>
-                  <text>Section 159AD is amended by inserting the following subsection before subsection (2):</text>
-                  <amend quote="1">
-                    <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">1</label>
-                      <para>
-                        <text>The Ministry is the Minister's principal policy adviser on tertiary education matters.</text>
-                      </para>
-                    </subprov>
-                  </amend>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM3363604" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">14B</label>
-            <heading>Functions of Commission</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>Section 159F(1) is amended by repealing paragraph (b) and substituting the following paragraph:</text>
-                  <amend increment="1" quote="1">
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>to provide advice to the Minister on the activities and performance of tertiary education organisations and the tertiary education sector generally; and</text>
-                      </para>
-                    </label-para>
-                  </amend>
-                  <follow-text space-before="no">.</follow-text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>Section 159F(1) is amended by repealing paragraph (c) and substituting the following paragraph:</text>
-                  <amend increment="1" quote="1">
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">c</label>
-                      <para>
-                        <text>to provide advice to the Minister on the implementation of policy and on the operational implications of new policy initiatives; and</text>
-                      </para>
-                    </label-para>
-                  </amend>
-                  <follow-text space-before="no">.</follow-text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
+          <para>
+            <text>Schedule 2: omit both paragraphs under the heading <emphasis style="italic">Motor vehicle trader registration number</emphasis> and substitute:</text>
+            <amend quote="1">
+              <para quote="1">
+                <text>The motor vehicle trader must state the registration number or other unique identifier given to the motor vehicle trader upon registration.</text>
+              </para>
+            </amend>
+          </para>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3363605" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="176">
+  <explnote id="DLM3191006" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="161">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Education Amendment Bill (No 2) by inserting <emphasis style="italic">new clauses 14A and 14B</emphasis>.</text>
-    </para>
-    <para>
-      <text><emphasis style="italic">New clause 14A</emphasis> amends section 159AD of the Education Act 1989 (the <emphasis style="bold">Act</emphasis>) by inserting a new subsection (1), stating that the Ministry is the Minister's principal policy adviser in regard to tertiary education.</text>
-    </para>
-    <para>
-      <text><emphasis style="italic">New clause 14B</emphasis> amends section 159F of the Act by removing the Tertiary Education Commission's role as policy adviser to the Minister in relation to tertiary education, and requiring the Commission to advise the Minister on the implications and implementation of policy relating to tertiary education.</text>
+      <text>This Supplementary Order Paper makes the following changes to the Motor Vehicle Sales Amendment Bill:</text>
+      <list>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the commencement date is changed from the day after Royal assent to 1 October 2010:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>a number is corrected:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>a reference to a certificate (referred to in <emphasis style="italic">new section 40A</emphasis>) is inserted in the offence provision in <emphasis style="italic">new section 107</emphasis>:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>references in parts of the Consumer Information Standards (Used Motor Vehicles) Regulations 2008 to “traders” are changed to references to “motor vehicle traders”, for clarity.</text>
+          </para>
+        </item>
+      </list>
     </para>
   </explnote>
 </sop>
