@@ -1,126 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2737700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="109">
-  <date>Tuesday, 9 February 2010</date>
-  <billref>Judicial Matters Bill</billref>
-  <body id="DLM2737701">
-    <heading>Proposed motion to divide Bill into 3 Bills</heading>
-    <motion>Hon Christopher Finlayson, in Committee, to move as follows:</motion>
-    <sop.split>
-      <para>
-        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, <emphasis style="italic">Part 1</emphasis>, and <emphasis style="italic">Schedules 1 and 2</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, the <emphasis style="italic">Part 1</emphasis> heading, and the heading above <emphasis style="italic">clause 3</emphasis> there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM2737702" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act <changeable>2010</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM2737703" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-      <para>
-        <text>That <emphasis style="italic">Part 1A</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 1A</emphasis> heading and the heading above <emphasis style="italic">clause 15A</emphasis> there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM2737704" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="yes" denominator="yes"/>
-              <para>
-                <text>This Act is the District Courts (District Court Judges) Amendment Act <changeable>2010</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM2737705" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
-    <sop.split>
-      <para>
-        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading and the heading above <emphasis style="italic">clause 16</emphasis> there be substituted the following enacting words and clauses:</text>
-      </para>
-      <sop.newenact>
-        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
-        <prov id="DLM2737706" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">1</label>
-          <heading>Title</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act is the Judicature (Judicial Matters) Amendment Act <changeable>2010</changeable>.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-        <prov id="DLM2737707" irdnumbering="no" skeleton="no" toc="yes">
-          <label auto.number="no" denominator="no">2</label>
-          <heading>Commencement</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="no"/>
-              <para>
-                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
-              </para>
-            </subprov>
-          </prov.body>
-        </prov>
-      </sop.newenact>
-    </sop.split>
+<sop id="DLM2978098" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="123">
+  <date>Tuesday, 18 May 2010</date>
+  <billref>Sentencing and Parole Reform Bill</billref>
+  <body id="DLM2978099">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Judith Collins, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2978100">
+      <clause.ref>Clause 2</clause.ref>
+      <sop.para>
+        <text>To add the following subclause as <emphasis style="italic">subclause (2)</emphasis> (after line 5 on page 2):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Despite <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, <changeable><citation jurisdiction="nz">section 13(2)</citation></changeable> comes into force on the commencement of section 49 of the Parole Amendment Act 2007.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2978101">
+      <clause.ref>Clause 5: new section 86A</clause.ref>
+      <sop.para>
+        <text>Definition of <def-term id="DLM2978102">record of final warning</def-term>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">86E(7)</citation></changeable></amend.in> (line 23 on page 3) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">86E(8)</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2978103">
+      <clause.ref>Clause 5: new section 86B</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1)</emphasis>: to insert after <amend.in quote="1">the court must</amend.in> (line 17 on page 6) <amend.in quote="1">at the same time</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1)(b)</emphasis>: to omit this paragraph (lines 23 to 25 on page 6).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subsection (4)</emphasis>: to add the following subsection (after line 33 on page 6):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">4</label>
+            <para>
+              <text>The court must give the offender a written notice that sets out the consequences if the offender is convicted of any serious violent offence committed after the warning given under <changeable><citation jurisdiction="nz">subsection (1)(a)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2978104">
+      <clause.ref>Clause 5: new section 86C</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1)</emphasis>: to insert after <amend.in quote="1">the court must</amend.in> (line 20 on page 7) <amend.in quote="1">at the same time</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1)(b)</emphasis>: to omit this paragraph (lines 26 to 28 on page 7).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subsection (7)</emphasis>: to add the following subsection (after line 18 on page 8):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">7</label>
+            <para>
+              <text>The court must give the offender a written notice that sets out the consequences if the offender is convicted of any serious violent offence committed after the warning given under <changeable><citation jurisdiction="nz">subsection (1)(a)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2978105">
+      <clause.ref>Clause 5: new section 86D(1)(a)</clause.ref>
+      <sop.para>
+        <text>To omit this paragraph (lines 6 and 7 on page 9) and substitute the following paragraph:</text>
+        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
+          <label-para quote="1" skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">a</label>
+            <para>
+              <text>a defendant who is committed for trial for a stage-3 offence must be committed to the High Court for that trial; and</text>
+            </para>
+          </label-para>
+        </instrument.amend>
+        <follow-text space-before="no">.</follow-text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2978106">
+      <clause.ref>Clause 5: new section 86E</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (6)(b)</emphasis>: to omit this paragraph (lines 12 to 14 on page 12).</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New subsection (9)</emphasis>: to add the following subsection (after line 20 on page 12):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">9</label>
+            <para>
+              <text>The court must give the offender a written notice that sets out the consequences if the offender is convicted of any serious violent offence committed after the warning given under <changeable><citation jurisdiction="nz">subsection (6)(a)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2978107">
+      <clause.ref>Clause 5: new section 86F</clause.ref>
+      <sop.para>
+        <text>To add the following subsection (after line 25 on page 13):</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">6</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Subsection (3)</citation></changeable> is subject to <changeable><citation jurisdiction="nz">subsection (4)</citation></changeable>.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2978108">
+      <clause.ref>Clause 5: new section 86FA</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (1)(a)</emphasis>: to insert before <amend.in quote="1">(the <def-term id="DLM2978109">previous record</def-term>)</amend.in> (line 31 on page 13) <amend.in quote="1">or both</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (3)</emphasis>: to omit this subsection (lines 3 to 13 on page 14) and substitute the following subsection:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes" quote="1">3</label>
+            <para>
+              <text>The appropriate court must take the following actions:</text>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">a</label>
+                <para>
+                  <text>if the later sentence would not have been imposed but for the previous record, the court must set aside the later sentence and replace it with a sentence that the court would have imposed had the offender not been subject to the previous record:</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">b</label>
+                <para>
+                  <text>if any order relating to the later sentence would not have been made but for the previous record, the court must cancel the order and, where appropriate, replace it with an order that the court would have made had the offender not been subject to the previous record:</text>
+                </para>
+              </label-para>
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">c</label>
+                <para>
+                  <text>if the court considers it just to make any consequential orders, the court must make those orders.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (6)(c)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">section 86B(2)</citation></changeable></amend.in> (line 16 on page 15) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">section 86B(1)</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2978110">
+      <clause.ref>Clause 5: new section 86G</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><changeable><citation jurisdiction="nz">(4)</citation></changeable> is</amend.in> (line 22 on page 15) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">(4)(a)</citation></changeable>, is</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2978111">
+      <clause.ref>Clause 5A: new section 89(2A)</clause.ref>
+      <sop.para>
+        <text>To omit: <amend.in quote="1">is imposed under this section</amend.in> (line 1 on page 16) and substitute <amend.in quote="1">of preventive detention is imposed</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2978112">
+      <clause.ref>Clause 13</clause.ref>
+      <sop.para>
+        <text>To insert, after <amend.in quote="1">Section 86</amend.in> (line 9 on page 19) <amend.in quote="1">(as in force on the commencement of this Act)</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text>To add the following subclauses as <emphasis style="italic">subclauses (2) and (3)</emphasis> (after line 14 on page 19):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Section 86 (as substituted by section 49 of the Parole Amendment Act 2007) is amended by inserting the following subsection after subsection (2):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">2A</label>
+                  <para>
+                    <text>Subsection (2) does not apply to a short-term sentence in respect of which an order has been made under <changeable><citation jurisdiction="nz">section 86C(4)(b)</citation></changeable> of the Sentencing Act 2002.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text><changeable><citation jurisdiction="nz">Subsection (2)</citation></changeable> comes into force on the commencement of section 49 of the Parole Amendment Act 2007.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM2737708" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="109">
+  <explnote id="DLM2978113" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="123">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper sets out a motion to divide the Judicial Matters Bill into the following 3 Bills:</text>
+      <text>This Supplementary Order Paper makes a number of technical changes to the Sentencing and Parole Reform Bill. It—</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Bill:</text>
+            <text>clarifies that Judges must warn offenders convicted of stage-1 and stage-2 offences at the time the offenders are convicted:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>District Courts (District Court Judges) Amendment Bill:</text>
+            <text>separates the written warning given to offenders from the oral warning administered by a Judge to permit forms for written warnings to be prescribed by regulations:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>Judicature (Judicial Matters) Amendment Bill.</text>
+            <text>makes drafting clarifications and corrections.</text>
           </para>
         </item>
       </list>
