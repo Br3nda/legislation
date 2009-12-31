@@ -1,532 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2760900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="111">
-  <date>Tuesday, 23 February 2010</date>
-  <billref>Injury Prevention, Rehabilitation, and Compensation Amendment Bill</billref>
-  <body id="DLM2760901">
+<sop id="DLM3313800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="172">
+  <date>Tuesday, 19 October 2010</date>
+  <billref>Child and Family Protection Bill</billref>
+  <body id="DLM3313801">
     <heading>Proposed amendments</heading>
-    <motion>Hon Dr Nick Smith, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM2766300">
-      <clause.ref>Clause 1</clause.ref>
+    <motion>Hon Simon Power, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3313802">
+      <clause.ref>Clause 2</clause.ref>
       <sop.para>
-        <text>To omit <amend.in quote="1">Injury Prevention, Rehabilitation, and Compensation Amendment Act <changeable>2009</changeable></amend.in> (lines 2 and 3 on page 4) and substitute <amend.in quote="1">Accident Compensation Amendment Act <changeable>2010</changeable></amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760904">
-      <clause.ref>Clause 3</clause.ref>
-      <sop.para>
-        <text>To insert after <quote.in quote="1">amends</quote.in> (line 17 on page 4) <amend.in quote="1">the Act that was previously called</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760905">
-      <clause.ref>New clauses 3A and 3B</clause.ref>
-      <sop.para>
-        <text>To insert the following clauses after the Part 1 heading (after line 20 on page 4):</text>
+        <text>To omit this clause (lines 3 to 5 on page 3) and substitute the following clause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2760906" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">3A</label>
-            <heading>Title repealed</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>The Title is repealed.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-          <prov id="DLM2760907" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">3B</label>
-            <heading>Name of principal Act changed</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>On and from the commencement of this section,—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>the principal Act is called the <changeable><citation jurisdiction="nz">Accident Compensation Act 2001</citation></changeable>; and</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>every reference to the principal Act in any enactment, agreement, deed, instrument, application, notice, or other document must, unless the context otherwise requires, be read as a reference to the <changeable><citation jurisdiction="nz">Accident Compensation Act 2001</citation></changeable>.</text>
-                    </para>
-                  </label-para>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>Section 1 is consequentially amended by omitting <amend.in quote="1">Injury Prevention, Rehabilitation, and Compensation</amend.in> and substituting <amend.in quote="1">Accident Compensation</amend.in>.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">3</label>
-                <para>
-                  <text>Section 21A(4)(c) is consequentially amended by omitting  <amend.in quote="1">the Injury Prevention, Rehabilitation, and Compensation Act 2001</amend.in> and substituting <amend.in quote="1">this Act</amend.in>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760908">
-      <clause.ref>Clause 4</clause.ref>
-      <sop.para>
-        <text>To add the following subclause (after line 27 on page 4):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>Section 6(1) is amended by inserting the following definitions in their appropriate alphabetical order:</text>
-              <amend increment="1" quote="1">
-                <def-para id="DLM2760909" quote="1">
-                  <para quote="1">
-                    <text><def-term id="DLM2760910">moped</def-term> has the meaning given to it in section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986</text>
-                  </para>
-                </def-para>
-                <def-para id="DLM2760911" quote="1">
-                  <para quote="1">
-                    <text><def-term id="DLM2760912">motor cycle</def-term> has the meaning given to it in section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986</text>
-                  </para>
-                </def-para>
-                <def-para id="DLM2760913" quote="1">
-                  <para quote="1">
-                    <text><def-term id="DLM2760914">Motorcycle Safety levy</def-term> means the levy payable under <changeable><citation jurisdiction="nz">section 214(3)</citation></changeable></text>
-                  </para>
-                </def-para>
-              </amend>
-              <follow-text space-before="no">.</follow-text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760915">
-      <clause.ref>Clause 13</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">New section 167(3)(e)</emphasis>: to omit <amend.in quote="1"><changeable><citation jurisdiction="nz">Injury Prevention, Rehabilitation, and Compensation Amendment Act 2009</citation></changeable></amend.in> (lines 23 to 25 on page 9) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">Accident Compensation Amendment Act 2010</citation></changeable></amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">New section 167(4)</emphasis>: to omit this subsection (lines 31 to 34 on page 9) and substitute the following subsections:</text>
-        <instrument.amend close.quote="no" open.quote="yes" quote="1">
-          <subprov quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">4</label>
-            <para>
-              <text>Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies payable under sections 168, 168A, 168B, and 211 to provide for or, to the extent that it is necessary, to provide separately for,—</text>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">a</label>
-                <para>
-                  <text>the purposes of <changeable><citation jurisdiction="nz">subsection (3)(a) to (d) and (f) to (h)</citation></changeable>:</text>
-                </para>
-              </label-para>
-              <label-para quote="1" skeleton="no">
-                <label auto.number="no" denominator="yes" quote="1">b</label>
-                <para>
-                  <text>the purposes of <changeable><citation jurisdiction="nz">subsection (3)(e), (f), and (h)</citation></changeable> and the purpose specified in <changeable><citation jurisdiction="nz">section 169AA(1)(a)</citation></changeable>.</text>
-                </para>
-              </label-para>
-            </para>
-          </subprov>
-          <subprov quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">5</label>
-            <para>
-              <text>Those regulations may also relate to the same or different prescribed periods.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760916">
-      <clause.ref>Clause 14</clause.ref>
-      <sop.para>
-        <text>To insert the following subclause as <emphasis style="italic">subclause (1)</emphasis> (after line 35 on page 9):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>Section 169(1) is amended by omitting <amend.in quote="1">for that period</amend.in> in each place where it appears.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760917">
-      <clause.ref>Clause 15</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">New section 169AA(4)(b)</emphasis>: to insert after <quote.in quote="1">represents,</quote.in> (line 18 on page 11) <amend.in quote="1">among other things,</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760918">
-      <clause.ref>Clause 21</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit this subclause (line 10 on page 13) and substitute the following subclauses:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>Section 213 is amended by repealing subsection (1) and substituting the following subsection:</text>
-              <amend quote="1">
-                <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">1</label>
-                  <para>
-                    <text>The purpose of the Motor Vehicle Account is to—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>finance entitlements provided under this Act in respect of motor vehicle injuries; and</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>finance the cost of programmes to improve the safety of moped and motor cycle riders from the levy referred to in <changeable><citation jurisdiction="nz">subsection (2)(d)</citation></changeable>.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </subprov>
-              </amend>
-            </para>
-          </subprov>
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1A</label>
-            <para>
-              <text>Section 213(2) is amended by repealing paragraph (d) and substituting the following paragraph:</text>
-              <amend increment="1" quote="1">
-                <label-para quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">d</label>
-                  <para>
-                    <text>the prescribed Motorcycle Safety levy; and</text>
-                  </para>
-                </label-para>
-              </amend>
-              <follow-text space-before="no">.</follow-text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (3)</emphasis>: to omit this subclause (lines 16 to 20 on page 13) and substitute the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>Section 213 is amended by repealing subsection (6) and substituting the following subsections:</text>
-              <amend quote="1">
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">6</label>
-                  <para>
-                    <text>To avoid doubt,—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text><changeable><citation jurisdiction="nz">subsection (1)(b)</citation></changeable> does not limit or affect section 263; and </text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>section 263 (except section 263(3)(b)) applies to the programmes referred to in <changeable><citation jurisdiction="nz">subsection (1)(b)</citation></changeable> as if the references to measures in section 263 were references to the programmes.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </subprov>
-                <subprov quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">7</label>
-                  <para>
-                    <text>Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies (except the Motorcycle Safety levy) to provide for or, to the extent that it is necessary, to provide separately for,—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>the purposes of subsection (5)(a), (b), (c), and (d):</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>the purposes of <changeable><citation jurisdiction="nz">subsection (5)(ba)</citation></changeable>, (c), and (d) and the purpose specified in <changeable><citation jurisdiction="nz">section 215(1)(a)</citation></changeable>.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </subprov>
-              </amend>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760919">
-      <clause.ref>Clause 22</clause.ref>
-      <sop.para>
-        <text>To omit this clause (lines 21 and 22 on page 13) and substitute the following clause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2760920" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="no">22</label>
-            <heading>Rate of levies</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>Section 214 is amended by repealing subsection (3) and substituting the following subsections:</text>
-                  <amend quote="1">
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">3</label>
-                      <para>
-                        <text>A registered owner of a motor vehicle that is a moped or motor cycle must pay, in accordance with this Act and regulations made under it, the prescribed Motorcycle Safety levy.</text>
-                      </para>
-                    </subprov>
-                    <subprov quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">3A</label>
-                      <para>
-                        <text><changeable><citation jurisdiction="nz">Subsection (3)</citation></changeable> does not limit or affect subsection (1).</text>
-                      </para>
-                    </subprov>
-                  </amend>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760921">
-      <clause.ref>Clause 23</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">New section 215</emphasis>: to insert the following subsection after <emphasis style="italic">subsection (1)</emphasis> (after line 31 on page 13):</text>
-        <instrument.amend close.quote="no" open.quote="yes" quote="1">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">1A</label>
-            <para>
-              <text><changeable><citation jurisdiction="nz">Subsection (1)</citation></changeable> does not apply to the Motorcycle Safety levy.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">New section 215(4)(b)</emphasis>: to insert after <quote.in quote="1">represents,</quote.in> (line 9 on page 14) <amend.in quote="1">among other things,</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760922">
-      <clause.ref>Clause 25</clause.ref>
-      <sop.para>
-        <text>To omit this clause (lines 27 and 28 on page 14) and substitute the following clause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2760923" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="no">25</label>
-            <heading>Collection of levies</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>Section 217 is amended by repealing subsection (3) and substituting the following subsection:</text>
-                  <amend quote="1">
-                    <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">3</label>
-                      <para>
-                        <text>The Motorcycle Safety levy is payable in the prescribed manner.</text>
-                      </para>
-                    </subprov>
-                  </amend>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760924">
-      <clause.ref>Clause 26</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (3)</emphasis>: to omit this subclause (lines 1 to 5 on page 15) and substitute the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">3</label>
-            <para>
-              <text>Section 218 is amended by repealing subsection (5) and substituting the following subsection:</text>
-              <amend quote="1">
-                <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">5</label>
-                  <para>
-                    <text>Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies to provide for or, to the extent that it is necessary, to provide separately for,—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">a</label>
-                      <para>
-                        <text>the purposes of subsection (4)(a) to (e), (f), and (g):</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">b</label>
-                      <para>
-                        <text>the purposes of <changeable><citation jurisdiction="nz">subsection (4)(ea)</citation></changeable>, (f), and (g) and the purpose specified in <changeable><citation jurisdiction="nz">section 220A(1)(a)</citation></changeable>.</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </subprov>
-              </amend>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760925">
-      <clause.ref>Clause 29</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">New section 220A(4)(b)</emphasis>: to insert after <quote.in quote="1">represents,</quote.in> (line 29 on page 15) <amend.in quote="1">among other things,</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760926">
-      <clause.ref>Clause 43</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (5)</emphasis>: to omit this subclause (lines 23 and 24 on page 20) and substitute the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">5</label>
-            <para>
-              <text>Section 329 is amended by repealing paragraph (l) and substituting the following paragraph:</text>
-              <amend increment="1" quote="1">
-                <label-para quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">l</label>
-                  <para>
-                    <text>establishing a system for differential levies, for the purposes of the Motor Vehicle Account, for categories referred to in—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">i</label>
-                      <para>
-                        <text>section 216(1); or</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">ii</label>
-                      <para>
-                        <text><changeable><citation jurisdiction="nz">section 216(2)</citation></changeable>:</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </label-para>
-              </amend>
-              <follow-text space-before="no">.</follow-text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">Subclause (6)</emphasis>: to omit this subclause (lines 25 to 35 on page 20) and substitute the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">6</label>
-            <para>
-              <text>Section 329 is amended by repealing paragraph (m) and substituting the following paragraphs:</text>
-              <amend increment="1" quote="1">
-                <label-para quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">m</label>
-                  <para>
-                    <text>setting, in relation to a prescribed period, a portion of the Work Account, the Motor Vehicle Account, or the Earners' Account that is necessary to achieve,—</text>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">i</label>
-                      <para>
-                        <text>in the case of the Work Account, the purpose specified in <changeable><citation jurisdiction="nz">section 169AA(1)(a)</citation></changeable>; and</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">ii</label>
-                      <para>
-                        <text>in the case of the Motor Vehicle Account, the purpose specified in <changeable><citation jurisdiction="nz">section 215(1)(a)</citation></changeable>; and</text>
-                      </para>
-                    </label-para>
-                    <label-para quote="1" skeleton="no">
-                      <label auto.number="no" denominator="yes" quote="1">iii</label>
-                      <para>
-                        <text>in the case of the Earners' Account, the purpose specified in <changeable><citation jurisdiction="nz">section 220A(1)(a)</citation></changeable>:</text>
-                      </para>
-                    </label-para>
-                  </para>
-                </label-para>
-                <label-para quote="1" skeleton="no">
-                  <label auto.number="no" denominator="yes" quote="1">ma</label>
-                  <para>
-                    <text>prescribing the manner of payment of the Motorcycle Safety levy for the purposes of <changeable><citation jurisdiction="nz">section 217(3)</citation></changeable>:</text>
-                  </para>
-                </label-para>
-              </amend>
-              <follow-text space-before="no">.</follow-text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760927">
-      <clause.ref>New clause 43A</clause.ref>
-      <sop.para>
-        <text>To insert the following clause after <emphasis style="italic">clause 43</emphasis> (after line 8 on page 21):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2760928" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">43A</label>
-            <heading>Consultation requirements for regulations relating to classifications, risk rating, or treatment injury</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="yes" denominator="yes"/>
-                <para>
-                  <text>Section 330 is amended by omitting <amend.in quote="1">section 329(f) or (g) or (l) or (m)</amend.in> and substituting <amend.in quote="1">section 329(f) or (g) or <changeable><citation jurisdiction="nz">(l)(i) or (ma)</citation></changeable></amend.in>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760929">
-      <clause.ref>Clause 48</clause.ref>
-      <sop.para>
-        <text>To insert after <quote.in quote="1">the Motor Vehicle Account</quote.in> (line 27 on page 22) <amend.in quote="1">(including the Motorcycle Safety levy)</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760930">
-      <clause.ref>Clause 51</clause.ref>
-      <sop.para>
-        <text>To add the following subclause as <emphasis style="italic">subclause (2)</emphasis> (after line 27 on page 23):</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
+          <prov id="DLM3313803" irdnumbering="no" skeleton="no" toc="yes">
             <label auto.number="no" denominator="yes">2</label>
-            <para>
-              <text>To avoid doubt, despite the amendment of section 122 of the principal Act by <changeable><citation jurisdiction="nz">section 11</citation></changeable> of this Act, section 122 of the principal Act (as it read immediately before the commencement of this section) continues to apply to a claimant who, before the commencement of this section, suffered a personal injury in the circumstances described in section 122 (as it so read).</text>
-            </para>
-          </subprov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM2760931">
-      <clause.ref>Clause 56</clause.ref>
-      <sop.para>
-        <text>To omit this clause (lines 8 to 14 on page 25) and substitute the following clause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM2760932" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">56</label>
-            <heading>Calculations of weekly compensation for loss of potential earning capacity</heading>
+            <heading>Commencement</heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">1</label>
                 <para>
-                  <text>This section applies to—</text>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">a</label>
-                    <para>
-                      <text>a claimant who is incapacitated before the commencement of this section, but who is not entitled to weekly compensation for loss of potential earning capacity immediately before that commencement:</text>
-                    </para>
-                  </label-para>
-                  <label-para skeleton="no">
-                    <label auto.number="no" denominator="yes">b</label>
-                    <para>
-                      <text>a claimant who is incapacitated only on or after the commencement of this section.</text>
-                    </para>
-                  </label-para>
+                  <text><changeable><citation jurisdiction="nz">Part 3</citation></changeable> comes into force on the day after the date on which it receives the Royal assent.</text>
                 </para>
               </subprov>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="yes">2</label>
                 <para>
-                  <text>To avoid doubt, clause 47 of Schedule 1 of the principal Act (as amended by this Act) applies to the calculation of weekly compensation for loss of potential earning capacity in respect of a claimant to whom this section applies.</text>
+                  <text>The rest of this Act comes into force 3 months after the date on which it receives the Royal assent.</text>
                 </para>
               </subprov>
             </prov.body>
@@ -534,54 +31,55 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM2760933">
-      <clause.ref>Clause 57</clause.ref>
+    <sop.amend id="DLM3313804">
+      <clause.ref>Clause 4(b)</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Subclause (1)</emphasis>: to omit this subclause (lines 17 to 19 on page 25) and substitute the following subclause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">1</label>
-            <para>
-              <text>This section applies to a claimant who is incapacitated before the commencement of this section and who is entitled to weekly compensation for loss of potential earning capacity immediately before that commencement.</text>
-            </para>
-          </subprov>
-        </instrument.amend>
+        <text>To omit <amend.in quote="1">court</amend.in> (line 16 on page 3) and substitute <amend.in quote="1">Court</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3313805">
+      <clause.ref>Clause 8</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New section 33(1A)(a)</emphasis>: to omit <amend.in quote="1">court</amend.in> (line 11 on page 7) and substitute <amend.in quote="1">Court</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3313806">
+      <clause.ref>Clause 9</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New section 36(2)(b)</emphasis>: to omit <amend.in quote="1">court</amend.in> (line 31 on page 7) and substitute <amend.in quote="1">Court</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New section 36(3)</emphasis>: to omit <amend.in quote="1">court</amend.in> (line 34 on page 7) and substitute <amend.in quote="1">Court</amend.in>.</text>
+      </sop.para>
+      <sop.para>
+        <text><emphasis style="italic">New section 36(3)(b)</emphasis>: to omit <amend.in quote="1">court</amend.in> in each place where it appears (line 9 on page 8) and substitute in each case <amend.in quote="1">Court</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3313807">
+      <clause.ref>Clause 32</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">New section 27B(1)</emphasis>: to omit <amend.in quote="1">court</amend.in> in each place where it appears (lines 2 and 3 on page 16) and substitute in each case <amend.in quote="1">Court</amend.in>.</text>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2760934" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="111">
+  <explnote id="DLM3313808" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="172">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Accident Compensation Amendment Bill to—</text>
+      <text>This Supplementary Order Paper amends the Child and Family Protection Bill to—</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>change the title of the principal Act to the <changeable><citation jurisdiction="nz">Accident Compensation Act 2001</citation></changeable>; and</text>
+            <text>amend the commencement date for <emphasis style="italic">Part 3</emphasis> of the Bill, from 3 months after the date on which it receives the Royal assent to the day after the date on which it receives the Royal assent:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>make consequential changes to the principal Act as a result of the change in its title; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>authorise a separate levy (to be called the Motorcycle Safety levy) to be imposed for the purpose of funding programmes to improve the safety of moped and motorcycle riders; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>make technical drafting changes to the transitional and other provisions of the Bill to better achieve the Bill's policy intention.</text>
+            <text>correct minor typographical errors.</text>
           </para>
         </item>
       </list>
-    </para>
-    <para>
-      <text>The Motorcycle Safety levy will be payable by the registered owners of mopeds and motorcycles. It will form part of the existing Motor Vehicle Account, but the funds collected from the levy will be ring-fenced from the other funds in the Motor Vehicle Account and will be used exclusively for moped and motorcycle safety programmes. The existing criteria for promoting measures that reduce the incidence and severity of personal injury that are set out in section 263 of the principal Act will apply to the moped and motorcycle safety programmes.</text>
     </para>
   </explnote>
 </sop>
