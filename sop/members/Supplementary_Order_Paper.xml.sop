@@ -1,87 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3373800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0004" stage="published" year="2010" raised.by="Members" sop.no="182">
-  <date>Tuesday, 16 November 2010</date>
-  <billref>Local Government Act 2002 Amendment Bill</billref>
-  <body id="DLM3373801">
+<sop id="DLM3009600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0007" stage="published" year="2010" raised.by="Members" sop.no="131">
+  <date>Tuesday, 1 June 2010</date>
+  <billref>Local Government (Auckland Law Reform) Bill</billref>
+  <body id="DLM3009601">
     <heading>Proposed amendments</heading>
-    <motion>Sue Kedgley, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM3373802">
-      <clause.ref>Clause 5</clause.ref>
+    <motion>David Clendon, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3009602">
+      <clause.ref>Heading to clause 67:</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">New section 11A</emphasis> : To add the following paragraphs:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">f</label>
-            <para>
-              <text>environmental protection:</text>
-            </para>
-          </label-para>
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">g</label>
-            <para>
-              <text>social development:</text>
-            </para>
-          </label-para>
-          <label-para quote="1" skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">h</label>
-            <para>
-              <text>sustainable development.”</text>
-            </para>
-          </label-para>
-        </instrument.amend>
+        <text>To insert <quote.in><def-term id="DLM3009603">and meetings</def-term></quote.in> after <quote.in><def-term id="DLM3009604">Official information</def-term></quote.in> (line 3 on page 137).</text>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM3373803">
-      <clause.ref>Clause 6</clause.ref>
+    <sop.amend id="DLM3010200">
+      <clause.ref>Clause 67</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">New section 14(1)(fa)(ii)</emphasis> : To insert “and environmental impacts” after “risks”.</text>
+        <text>To omit <quote.in>6</quote.in> and substitute <quote.in>7</quote.in> (line 4 on page 137).</text>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM3373804">
-      <clause.ref>Clause 8</clause.ref>
+    <sop.amend id="DLM3009605">
+      <clause.ref>Clause 72</clause.ref>
       <sop.para>
-        <text>To omit this clause.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3373805">
-      <clause.ref>Clause 23</clause.ref>
-      <sop.para>
-        <text>To omit this clause and substitute the following:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <prov id="DLM3373806" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes" quote="1">23</label>
-            <heading>Policy on partnerships with private sector</heading>
+        <text>To omit this clause (lines 28 to 35 on page 139) and substitute the following clause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3009606" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">72</label>
+            <heading>Employees of Auckland Council must not be directors of Watercare Services Limited</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes"/>
+                <label auto.number="no" denominator="yes">1</label>
                 <para>
-                  <text>Any information about the partnership with the private sector should be subject to the Local Government Official Information and Meetings Act 1987.”</text>
+                  <text>This section applies until 1 July 2012.</text>
                 </para>
               </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3373807">
-      <clause.ref>Clause 29</clause.ref>
-      <sop.para>
-        <text>To omit this clause.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3373808">
-      <clause.ref>Clause 31</clause.ref>
-      <sop.para>
-        <text>To omit this clause and substitute the following:</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <prov id="DLM3373809" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes" quote="1">136</label>
-            <heading>Contracts relating to the provision of water services</heading>
-            <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes"/>
+                <label auto.number="no" denominator="yes">2</label>
                 <para>
-                  <text>Despite section 130(2), a local government organization may enter into contracts for any aspect of the operation of all or part of a water service for a term not longer than 15 years.”</text>
+                  <text>No person who is an employee of the Council may hold office as a director of Watercare Services Limited</text>
                 </para>
               </subprov>
             </prov.body>
@@ -90,48 +44,25 @@
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3373810" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0004" stage="published" year="2010" raised.by="Members" sop.no="182">
+  <explnote id="DLM3009607" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0007" stage="published" year="2010" raised.by="Members" sop.no="131">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Local Government Act 2002 Amendment Bill as follows:</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text><emphasis style="italic">Clause 5:</emphasis> The bill does not take into account the role of environmental protection that local bodies traditionally hold.  Councils and territorial authorities are the best organisations to maintain the environment in their area because of local knowledge and protection of the economy.  Social development is also not addressed by the current bill.  Councils and territorial authorities currently play a large part in the social development of their areas. This amendment would reflect the reality of this</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text><emphasis style="italic">Clause 6:</emphasis> The bill does not adequately reflect the central role of the environment in local bodies risk assessment.  This amendment would ensure that the environmental impacts of their actions are taken into account</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text><emphasis style="italic">Clause 8:</emphasis> The omission of this clause would mean that community views are retained in the decisions of local bodies</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text><emphasis style="italic">Clause 23:</emphasis> Public Private Partnerships are a way for local bodies to off load services and infrastructure to private companies.  The citizens of local bodies who enter into private public partnerships take a risk with this, in that once responsibility for services or infrastructure transfers to private providers there is no obligation to provide information.  This amendment would allow for transparency around business deals done in public private partnerships</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text><emphasis style="italic">Clause 29: </emphasis>The omission of this clause would mean local bodies retain assessment powers for water services provided in their area</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text><emphasis style="italic">Clause 31:</emphasis> Thirty-five years is a long time for a private company to retain control over water services.  This amendment reduces the maximum time a private company can be contracted to provide water services to 15 years.</text>
-          </para>
-        </item>
-      </list>
+      <text><emphasis style="italic">Clause 67</emphasis> of the Local Government (Auckland Law Reform) Bill as reported by the Auckland Governance Legislation Committee provides for Parts 1 to 6 of the Local Government Official Information and Meetings Act 1987 to apply to Watercare Services Limited until 30 June 2012, after which Watercare becomes a Council-Controlled Organisation and the Council will presumably have in place a policy to set out the circumstances under which each substantive Council-Controlled Organisation must conduct its business as if it were subject to Part 7 of the Local Government Official Information and Meetings Act 1987.</text>
+    </para>
+    <para>
+      <text>There is a real risk that, until Watercare becomes a Council-Controlled Organisation it will conduct its business largely in secret and with no public transparency or accountability.</text>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper will require that Watercare conducts its business in accordance with Part 7 of the Local Government Official Information and Meetings Act 1987 until such time as it becomes a Council-Controlled Organisation. This will not preclude Watercare from conducting business in secret with the public excluded if there is good reason, such as commercial sensitivity, under section 48 of the Local Government Official Information and Meetings Act 1987 to do so.</text>
+    </para>
+    <para>
+      <text><emphasis style="italic">Clause 72</emphasis> proposes that no Member of the Auckland Council, local board member, or employee of the Auckland Council can be a director of Watercare Services Limited.</text>
+    </para>
+    <para>
+      <text>Submitters to the Committee opposed this proposal on the ground that it reduced the democratic accountability of Watercare Services Limited, with some submitters suggesting that the majority of directors should be elected members of the Auckland Council or its local boards.</text>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper amends clause 72 to permit the Auckland Council to make the democratic decision as to how many, if any, of its elected Members or local board members it considers appropriate to appointed to the board of Watercare Services Limited, rather than have a statutory prohibition imposed on it, while retaining the prohibition on employees of the Auckland Council being appointed to the board of Watercare Services Limited, which would have potential to cause confusion between governance and management roles.</text>
     </para>
   </explnote>
 </sop>
