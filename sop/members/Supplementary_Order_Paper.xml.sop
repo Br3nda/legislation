@@ -1,35 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3009400" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0005" stage="published" year="2010" raised.by="Members" sop.no="128">
-  <date>Tuesday, 1 June 2010</date>
-  <billref>Local Government (Auckland Law Reform) Bill</billref>
-  <body id="DLM3009401">
+<sop id="DLM2839600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0006" stage="published" year="2010" raised.by="Members" sop.no="99">
+  <date>Thursday, 25 March 2010</date>
+  <billref>Education Amendment Bill</billref>
+  <body id="DLM2839601">
     <heading>Proposed amendment</heading>
-    <motion>David Clendon, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3009402">
-      <clause.ref>Clause 23</clause.ref>
+    <motion>Hon Trevor Mallard, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM2839602">
+      <clause.ref>New Clause 78A</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Section 44:</emphasis> To insert the following subsection as <emphasis style="italic">subsection (6)</emphasis> (after line 7 on page 53):</text>
+        <text>The following new clause is inserted after clause 78:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes">6</label>
-            <para>
-              <text>Despite the repeal of the Local Government (Auckland) Amendment Act 2004, section 28 of that Act continues to apply to Auckland Regional Holdings, and to the receiving entity under an order made under this section in respect of Auckland Regional Holdings, as if it had not been repealed.</text>
-            </para>
-          </subprov>
+          <amend increment="1">
+            <prov id="DLM2839603" irdnumbering="no" skeleton="no" toc="yes">
+              <label auto.number="no" denominator="yes">78A</label>
+              <heading>Validation in respect of borrowing by King’s High School, Dunedin</heading>
+              <prov.body>
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes">1</label>
+                  <para>
+                    <text>Any actions taken by the Board of King’s High School, Dunedin, in relation to borrowing money or arranging funding for the Performing Arts Centre are deemed to have been done in accordance with section 67 Education Act 1989.</text>
+                  </para>
+                </subprov>
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes">2</label>
+                  <para>
+                    <text>Notwithstanding anything in the Public Finance Act 1989, the Board may allocate any funds allocated by the Ministry of Education under its Five Year Agreement to repayment of loans relating to the Performing Arts Centre.</text>
+                  </para>
+                </subprov>
+              </prov.body>
+            </prov>
+          </amend>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3009403" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0005" stage="published" year="2010" raised.by="Members" sop.no="128">
+  <explnote id="DLM2839604" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0006" stage="published" year="2010" raised.by="Members" sop.no="99">
     <heading>Explanatory note</heading>
     <para>
-      <text>Section 28 of the Local Government (Auckland) Amendment Act 2004 currently imposes restrictions on any proposed sale by Auckland Regional Holdings of its shareholding in the Ports of Auckland.  Those restrictions provide that Auckland Regional Holdings must not sell or otherwise dispose of the ownership or control of more than 24.9% of the shares in Ports of Auckland Limited that are vested in it unless Auckland Regional Holdings holds a poll of the residential electors of the Auckland Region on whether it should be permitted to do so; and in any such poll a majority of valid votes are cast in favour of Auckland Regional Holdings being permitted to do so.</text>
-    </para>
-    <para>
-      <text>The Local Government (Auckland Law Reform) Bill as reported by the Auckland Governance Legislation Committee proposed to repeal the Local Government (Auckland) Amendment Act 2004, including section 28.  A number of submitters to the Committee expressed concern that this removed an important democratic safeguard against the possibility of a sale of the Ports of Auckland contrary to the wishes of Auckland’s electors.</text>
-    </para>
-    <para>
-      <text>This Supplementary Order Paper proposes that section 28 of the Local Government (Auckland) Amendment Act 2004 continues to apply to Auckland Regional Holdings and to any receiving entity to which its assets may be transferred.</text>
+      <text>This amendment inserts a new clause 78A that ensures that King’s High School, Dunedin is able to use funding allocated under its Five Year Agreement to pay the costs associated with loans used to build the school’s Performing Arts Centre.  This resolves a misunderstanding that arose several years ago.</text>
     </para>
   </explnote>
 </sop>
