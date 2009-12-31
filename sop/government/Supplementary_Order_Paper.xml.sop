@@ -1,42 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3230300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="164">
-  <date>Tuesday, 14 September 2010</date>
-  <billref>Governor-General Bill</billref>
-  <body id="DLM3230301">
-    <heading>Proposed amendment</heading>
-    <motion>Rt Hon John Key, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3230302">
-      <clause.ref>New heading and new clause 20A</clause.ref>
+<sop id="DLM3028800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0005" stage="published" year="2010" raised.by="Government" sop.no="142">
+  <date>Tuesday, 15 June 2010</date>
+  <billref>Statutes Amendment Bill</billref>
+  <body id="DLM3028801">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Nathan Guy, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3028802">
+      <clause.ref>Schedule 1</clause.ref>
       <sop.para>
-        <text>To insert the following heading and clause after clause 20 (after line 28 on page 9):</text>
+        <text>To insert the following item after the Schedule 1 heading (after line 2 on page 59):</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <crosshead id="DLM3230303" toc="yes">Amendment to Goods and Services Tax Act 1985</crosshead>
-          <prov id="DLM3230304" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">20A</label>
-            <heading>Amendment to Goods and Services Tax Act 1985</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text>This section amends the Goods and Services Tax Act 1985.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>Section 6(3)(c)(i) is amended by adding <amend.in quote="1">or the Governor-General Act <changeable><citation jurisdiction="nz">2010</citation></changeable></amend.in>.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
+          <schedule.amendments.group2 id="DLM3028803" toc="yes">
+            <heading>Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35)</heading>
+            <para>
+              <text>Section 59(4)(a): omit <amend.in quote="1">Institute of Chartered Accountants of New Zealand Act 1996</amend.in> and substitute <amend.in quote="1">New Zealand Institute of Chartered Accountants Act 1996</amend.in>.</text>
+            </para>
+          </schedule.amendments.group2>
         </instrument.amend>
       </sop.para>
     </sop.amend>
+    <sop.amend id="DLM3028804">
+      <clause.ref>Item relating to Real Estate Agents Act 1976 (1976 No 9) in Schedule 1</clause.ref>
+      <sop.para>
+        <text>To omit this item (lines 8 to 14 on page 62).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3028805">
+      <clause.ref>Schedule 2</clause.ref>
+      <sop.para>
+        <text>To insert the following item after the item relating to the Airport Authorities (Airport Companies Information Disclosure) Regulations 1999 (SR 1999/242) (after line 7 on page 64):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <schedule.amendments.group2 id="DLM3028806" toc="yes">
+            <heading>Climate Change (Unique Emissions Factors) Regulations 2009 (SR 2009/286)</heading>
+            <para>
+              <text>Regulation 26(2)(a)(i): omit <amend.in quote="1">Institute of Chartered Accountants of New Zealand Act 1996</amend.in> and substitute <amend.in quote="1">New Zealand Institute of Chartered Accountants Act 1996</amend.in>.</text>
+            </para>
+          </schedule.amendments.group2>
+        </instrument.amend>
+      </sop.para>
+      <sop.para>
+        <text>To insert the following item after the item relating to the Lawyers and Conveyancers Act (Trust Account) Regulations 2008 (SR 2008/183) (after line 11 on page 66):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <schedule.amendments.group2 id="DLM3028807" toc="yes">
+            <heading>Real Estate Agents (Audit) Regulations 2009 (SR 2009/279)</heading>
+            <para>
+              <text>Definition of <emphasis style="bold">chartered accountant</emphasis> in regulation 4(1): omit <amend.in quote="1">Institute of Chartered Accountants of New Zealand Act 1996</amend.in> and substitute <amend.in quote="1">New Zealand Institute of Chartered Accountants Act 1996</amend.in>.</text>
+            </para>
+            <para>
+              <text>Regulation 10(1)(b): omit <amend.in quote="1">Institute of Chartered Accountants of New Zealand Act 1996</amend.in> and substitute <amend.in quote="1">New Zealand Institute of Chartered Accountants Act 1996</amend.in>.</text>
+            </para>
+          </schedule.amendments.group2>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3028808">
+      <clause.ref>Item relating to Commodity Levies (Tamarillos) Order 2003 (SR 2003/319) in Schedule 2</clause.ref>
+      <sop.para>
+        <text>To omit this item (lines 4 to 10 on page 65).</text>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM3230305" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="164">
+  <explnote id="DLM3028809" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0005" stage="published" year="2010" raised.by="Government" sop.no="142">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Governor-General Bill. It makes a minor consequential amendment to the Goods and Services Tax Act 1985 for the purpose of avoiding any doubt that an engagement, occupation, or employment pursuant to the Bill is excluded from the definition of taxable activity in the Goods and Services Tax Act 1985.</text>
+      <text>This Supplementary Order Paper amends the Statutes Amendment Bill in order to update <emphasis style="italic">Schedules 1 and 2</emphasis> to reflect the legislative changes that have occurred since the Bill was introduced.</text>
     </para>
   </explnote>
 </sop>
