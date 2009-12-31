@@ -1,37 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3015700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0013" stage="published" year="2010" raised.by="Members" sop.no="140">
-  <date>Wednesday, 2 June 2010</date>
-  <billref>Local Government (Auckland Law Reform) Bill</billref>
-  <body id="DLM3015701">
-    <heading>Proposed amendment</heading>
-    <motion>Rahui Katene, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3015702">
-      <clause.ref>New clause 4B:</clause.ref>
+<sop id="DLM3368000" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="180">
+  <date>Tuesday, 16 November 2010</date>
+  <billref>Local Government Act 2002 Amendment Bill</billref>
+  <body id="DLM3368001">
+    <heading>Proposed amendments</heading>
+    <motion>Phil Twyford, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3368002">
+      <clause.ref>Clause 4</clause.ref>
       <sop.para>
-        <text>To insert the following clause after clause 4A (after line 7 on page 19):</text>
+        <text>To omit subclause (1). </text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3368003">
+      <clause.ref>Clause 5</clause.ref>
+      <sop.para>
+        <text>To omit this clause.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3368004">
+      <clause.ref>Clause 8</clause.ref>
+      <sop.para>
+        <text>To omit this clause and substitute the following:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3018200" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">4B</label>
-            <heading>New section 3A inserted</heading>
+          <prov id="DLM3368005" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">8</label>
+            <heading>Community views in relation to decisions</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes"/>
+                <label auto.number="no" denominator="yes">1</label>
                 <para>
-                  <text>The following section is inserted after section 3:</text>
-                  <amend>
-                    <prov id="DLM3018201" irdnumbering="no" skeleton="no" toc="yes">
-                      <label auto.number="no" denominator="yes">3A</label>
-                      <heading>Principles of the Treaty of Waitangi</heading>
-                      <prov.body>
-                        <subprov skeleton="no">
-                          <label auto.number="no" denominator="yes"/>
-                          <para>
-                            <text>This Act must be interpreted and administered so as to give effect to the principles of the Treaty of Waitangi.</text>
-                          </para>
-                        </subprov>
-                      </prov.body>
-                    </prov>
-                  </amend>
+                  <text>Section 78(2)(a) and (c) is repealed.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>Section 78(2)(d) is amended by omitting “of the kind described in paragraph (c)”.</text>
                 </para>
               </subprov>
             </prov.body>
@@ -39,52 +43,127 @@
         </instrument.amend>
       </sop.para>
     </sop.amend>
+    <sop.amend id="DLM3368006">
+      <clause.ref>Clause 11</clause.ref>
+      <sop.para>
+        <text>To omit this clause.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3368007">
+      <clause.ref>Clause 12</clause.ref>
+      <sop.para>
+        <text>To omit this clause.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3368008">
+      <clause.ref>Clause 14</clause.ref>
+      <sop.para>
+        <text>To omit this clause.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3368009">
+      <clause.ref>Clause 17</clause.ref>
+      <sop.para>
+        <text>To amend new section 101A by omitting subsection (3)(b)(i).</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3368010">
+      <clause.ref>Clause 23</clause.ref>
+      <sop.para>
+        <text>To omit this clause.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3368011">
+      <clause.ref>Clause 31</clause.ref>
+      <sop.para>
+        <text>To omit this clause.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3368012">
+      <clause.ref>Clause 32</clause.ref>
+      <sop.para>
+        <text>To omit this clause.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3368013">
+      <clause.ref>Clause 33</clause.ref>
+      <sop.para>
+        <text>To omit this clause.</text>
+      </sop.para>
+    </sop.amend>
   </body>
-  <explnote id="DLM3015704" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0013" stage="published" year="2010" raised.by="Members" sop.no="140">
+  <explnote id="DLM3368014" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="180">
     <heading>Explanatory note</heading>
     <para>
-      <text>The purpose of the SOP is to amend the Local Government (Auckland Law Reform) Bill to ensure that—</text>
+      <text/>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper amends the Local Government Act 2002 Amendment Bill as follows:</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>coherence is given to the Government’s commitment to the partnership between Māori and the Crown, give legal effect to the commitment to the principles of the Treaty, to maintain Māori confidence in the Auckland area, and to accelerate progress towards social, cultural and economic development and wellbeing between Māori and non-Māori; and</text>
+            <text>the amendment to <emphasis style="italic">clause 4</emphasis> restores the original definition of community outcomes. This will ensure that communities can continue to be empowered to identify the full range of public good outcomes they most want so that local authorities can advance them by whatever influence that can exercise, including through coordination and advocacy</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>a Treaty of Waitangi clause will provide a legitimate and substantive framework upon which decisions regarding Auckland will be considered; and</text>
+            <text>the amendment to omit <emphasis style="italic">clause 5</emphasis> will mean that local authorities will not have to focus on a particular (and limited) set of core services. The clause creates ambiguity for local authorities as a core service in one area may not be considered a core service in another area. In addition, what might be a core service now may not be considered a core service in the future. Local government is funded by local ratepayers and it should therefore be left up to the local authority and community to decide what services and activities the local authority will provide</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>recognition is given to the annual review of relations released in March by the Human Rights Commission, which identified Māori representation in local government and an effective voice for Māori in the decisions of the new Auckland Council as being among the top ten race relations priorities; and</text>
+            <text>the purpose of the amendment to <emphasis style="italic">clause 8</emphasis> is to allow for a two stage process of consultation in the decision making process of a local authority; firstly at the stage at which the reasonably practicable options for achieving an objective are identified and secondly at the stage at which proposals are adopted. This will mean local authorities will be required to consider the views and preferences of those affected by the decisions of a local authority while at the same time streamlining the process of community consultation</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>recognition is given to the Declaration of the Rights of Indigenous Peoples. Particularly article 18, which sets out the aspiration that <quote.in quote="1">indigenous peoples have the right to participate in decision-making in matters, which would affect their rights, through representatives chosen by themselves</quote.in>; and</text>
+            <text><emphasis style="italic">clause 11</emphasis> repeals the section that allows local authorities can transfer core activities to Council Controlled Organisations (CCOs) or the private sector without having to consult the community. Once these activities, or assets, are transferred to CCOs public consultation requirements about how these services are delivered will be minimal. By repealing this clause the community will continue to be granted the right to be consulted on these decisions</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>effect is given to the view that these issues are respectively not recognised by a Māori advisory group; and</text>
+            <text>repealing <emphasis style="italic">clause 12</emphasis> will maintain the provisions that establish the process for identifying community outcomes and the reporting requirements. While the current provisions around the process of identifying community outcomes are too prescriptive, clause 12 goes too far and should at least retain a principle-based approach</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>recognition is given to uphold the nation’s constitutional foundations, current law, and the wish of the people, particularly mana whenua for the benefit of Māori and the wider public; and</text>
+            <text>the amendment to <emphasis style="italic">clause 14</emphasis> will restore the current requirement that certain decisions to be taken only if they are provided for in the long-term council community plan (LTCCP).  This includes a decision to construct, replace or abandon a strategic asset, and a decision that will significantly affect the capacity of the local authority or the cost to the local authority of any activity in the long term plan. Contracting out to the private sector and corporatisation are matters of vital public interest and the public should have the right to full consultation</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>recognition is given to the Local Government Act 2002, which sets the expectation, that local authorities will <quote.in quote="1"><emphasis style="italic">foster Māori capacity to contribute to the decision-making processes of the local authority</emphasis></quote.in>.</text>
+            <text>the amendment to new section 101A(3)(b)(i) in <emphasis style="italic">clause 17</emphasis> removes the requirement that a statement on “quantified limits on rates, rate increases, and borrowing” be included in the financial strategy of the long-term council community plan (LTCCP). The statement should be omitted as it could have the effect of constraining a local authority’s ability to respond to a natural disaster, like an earthquake for example, or to respond to community demand for the purchase or redevelopment of a community asset, for instance saving a heritage building</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the effect of omitting <emphasis style="italic">clause 23</emphasis> will restore the current situation that requires local authorities to have a policy on partnerships with the private sector. This requirement has been repealed on the basis that public private partnerships (PPPs) “are rare”, and “it may also be difficult to develop an effective policy because [Councils] have little or no experience to guide them”. It does not make sense to repeal the requirement for a policy on PPPs at the same time as there are other provisions in the bill which encourage more PPPs. Section 107 should be retained to provide some consistency around the bill</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text><emphasis style="italic">clause 31</emphasis> extends the maximum permitted period of contracts for the operation of water services from 15 to 35 years. It substitutes a requirement that the local government organisation retain control over all matters relating to the management of water services with a requirement that the local government organisation must continue to be responsible for providing water services. This clause is unnecessary as the current 15 year period is clearly working</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text><emphasis style="italic">clause 32</emphasis> extends the maximum extends the maximum permitted period of a joint arrangement for the provision of water services from 15 years to 35 years. The clause removes the obligation for the Council to own the infrastructure for the duration of the contract. However, it ensures that ownership is returned to the Council at the end of the contract. The clause substitutes a requirement that the local government organisation retain control over all matters relating to the management of water services with a requirement that the local government organisation must continue to be responsible for providing water services.  These changes are designed to encourage public private partnerships (PPPs): long term contracting arrangements in which corporations will often build, own, and operate a waste water plant for example and then sell it back to the Council at the end of the contract. The current provisions in the Act provide enough scope for PPPs and therefore this clause is unnecessary and gives too much control to private sector partners. In addition, despite assurances, the public sector partner is likely to continue to bear much of the risk in a public private partnership</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text><emphasis style="italic">clause 33</emphasis> repeals section 141(1)(b) so that proposals relating to the sale or exchange of endowment property no longer need to be included in a long-term council community plan (LTCCP). The repealing of the current provisions could lead to a valued community asset being sold without consultation with the community and could lead to fewer endowment properties being left to local authorities</text>
           </para>
         </item>
       </list>
