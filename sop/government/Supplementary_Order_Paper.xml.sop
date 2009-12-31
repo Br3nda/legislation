@@ -1,21 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2846700" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0003" stage="published" year="2010" raised.by="Government" sop.no="118">
-  <date>Tuesday, 30 March 2010</date>
-  <billref>Regulatory Improvement Bill </billref>
-  <body id="DLM2846701">
-    <heading>Proposed amendment</heading>
-    <motion>Hon Rodney Hide, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM2846702">
-      <clause.ref>Clause 13: new section 41A</clause.ref>
+<sop id="DLM2813500" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="115">
+  <date>Wednesday, 17 March 2010</date>
+  <billref>Infrastructure Bill</billref>
+  <body id="DLM2813501">
+    <heading>Proposed amendments</heading>
+    <motion>Hon Bill English, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM2813502">
+      <clause.ref>Clause 8</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">Subsection (2)</emphasis>: to omit <amend.in quote="1">must</amend.in> (line 3 on page 9) and substitute <amend.in quote="1">may</amend.in>.</text>
+        <text>To insert after <quote.in quote="1">within the time specified in the order,</quote.in> (lines 21 and 22 on page 7) <amend.in quote="1">commits an offence and</amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2813503">
+      <clause.ref>Clause 15</clause.ref>
+      <sop.para>
+        <text>To add the following subclause as <emphasis style="italic">subclause (2)</emphasis> (after line 5 on page 12):</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes">2</label>
+            <para>
+              <text>The Code must be presented to the House of Representatives no later than 16 days after the date on which it is made.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2813504">
+      <clause.ref>Clause 16(2)</clause.ref>
+      <sop.para>
+        <text>To omit <amend.in quote="1"><changeable><citation jurisdiction="nz">Sections 11 to 14</citation></changeable></amend.in> (line 9 on page 12) and substitute <amend.in quote="1"><changeable><citation jurisdiction="nz">Sections 11 to 15</citation></changeable></amend.in>.</text>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2813505">
+      <clause.ref>Clause 21: new section 119(3)</clause.ref>
+      <sop.para>
+        <text>To omit this subsection (lines 17 to 23 on page 14) and substitute the following subsection:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">3</label>
+            <para>
+              <text>However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2813506">
+      <clause.ref>Clause 30: new section 24A</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (3)</emphasis>: to omit this subsection (lines 37 and 38 on page 19 and 1 to 5 on page 20) and substitute the following subsection:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">3</label>
+            <para>
+              <text>However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM2813507">
+      <clause.ref>Clause 32: new section 25A</clause.ref>
+      <sop.para>
+        <text><emphasis style="italic">Subsection (3)</emphasis>: to omit this subsection (lines 23 to 29 on page 21) and substitute the following subsection:</text>
+        <instrument.amend close.quote="no" open.quote="yes" quote="1">
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes" quote="1">3</label>
+            <para>
+              <text>However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2846703" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2010" raised.by="Government" sop.no="118">
+  <explnote id="DLM2813508" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="115">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends an amendment to the Designs Act 1953 in the Regulatory Improvement Bill to clarify that the Commissioner of Designs has a discretion when making an order to restore lapsed copyright in a registered design. This is consistent with similar provisions in the Patents Bill.</text>
+      <text>This Supplementary Order Paper amends the Infrastructure Bill.</text>
+    </para>
+    <para>
+      <text>The first amendment corrects an omission by inserting the words necessary to create the offence intended by <emphasis style="italic">clause 8</emphasis>.</text>
+    </para>
+    <para>
+      <text>The second amendment requires the Code to be presented to the House of Representatives. This is a standard requirement for instruments such as the Code, which is a regulation for the purpose of the Regulations (Disallowance) Act 1989 but not for the purpose of the Acts and Regulations Publication Act 1989.</text>
+    </para>
+    <para>
+      <text>The third amendment changes a cross-reference so that the new requirement for presentation will also apply to amendments to the Code.</text>
+    </para>
+    <para>
+      <text>The remaining 3 amendments make the same change to 3 identical provisions being inserted into the Telecommunications Act 2001, the Electricity Act 1992, and the Gas Act 1992. The provisions currently have the effect of prohibiting road authorities from imposing on utility operators conditions that require them to increase amenity values, unless the area in which the work is to be done is specifically identified in a long-term council community plan as an area where amenity values are to be protected or enhanced.</text>
+    </para>
+    <para>
+      <text>Long-term council community plans do not in fact identify areas in that way. The amendments therefore change this to refer to areas identified in district plans. The areas must be ones in relation to which there are particular considerations, or rules or requirements, relating to amenity values.</text>
     </para>
   </explnote>
 </sop>
