@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3369900" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0003" stage="published" year="2010" raised.by="Members" sop.no="181">
-  <date>Tuesday, 16 November 2010</date>
-  <billref>Local Government Act 2002 Amendment Bill</billref>
-  <body id="DLM3369901">
+<sop irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="149">
+  <date>Wednesday, 30 June 2010</date>
+  <billref>Courts (Remote Participation) Bill</billref>
+  <body>
     <heading>Proposed amendment</heading>
-    <motion>Gareth Hughes, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3369902">
-      <clause.ref>Clause 5</clause.ref>
+    <motion>Hon David Parker, in Committee, to move the following amendment:</motion>
+    <sop.amend>
+      <clause.ref>Clause 9</clause.ref>
       <sop.para>
-        <text><emphasis style="italic">New section 11A </emphasis>: To add the following subsection as subsection (2) (after line 10 on page 5):</text>
-        <instrument.amend close.quote="no" increment="1" open.quote="yes" quote="1">
-          <subprov skeleton="no">
-            <label auto.number="no" denominator="yes" quote="1">2</label>
-            <para>
-              <text>If a library is provided by a local authority or council-controlled organisation for public use, membership and the issue of general issue books must be free of charge for the residents in the district or region.”</text>
-            </para>
-          </subprov>
+        <text>To add the following new subclause:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <amend increment="1" quote="1">
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="yes" quote="1">2</label>
+              <para>
+                <text>Despite <changeable><citation jurisdiction="nz">subsection (1)</citation></changeable>, AVL must not be used in any criminal substantive matter for the appearance of the defendant unless the defendant consents to the use.</text>
+              </para>
+            </subprov>
+          </amend>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3369903" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0003" stage="published" year="2010" raised.by="Members" sop.no="181">
+  <explnote irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="149">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Local Government Act 2002 Amendment Bill so that membership and borrowing general issue books from public libraries is kept free.</text>
+      <text>This amendment will prevent audio-visual links (AVL) being used for a criminal substantive matter except if the defendant consents to the use.  The Bill as currently drafted denies defendants the fundamental right to be present at their own court hearings.  This is a serious incursion on civil liberties and removes one of the key protections that New Zealanders have against the action of the State.  Such an important right should only be abrogated when it is demonstrably justifiable, and the Government has failed to put forward evidence that meets this test.</text>
     </para>
   </explnote>
 </sop>
