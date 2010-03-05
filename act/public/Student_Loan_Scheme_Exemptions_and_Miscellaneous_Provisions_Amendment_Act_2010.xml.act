@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2007-10-10" id="DLM1360800" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="3" act.type="public" date.as.at="2010-03-06" date.assent="2010-03-06" date.first.valid="2010-03-07" stage="in-force" year="2010" prospective.consolidation="F">
+  <cover id="DLM1360804">
+    <title>Student Loan Scheme (Exemptions and Miscellaneous Provisions) Amendment Act 2010</title>
+    <assent>2010-03-06</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM1360805">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM1360806" prov-type="clause">
+    <prov id="DLM1360807" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act is the Student Loan Scheme (Exemptions and Miscellaneous Provisions) Amendment Act 2010.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM1360808" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM2238000">Sections 4</extref>, <extref href="DLM1360829">26(1)</extref>, <extref href="DLM2238022">31</extref>, and <extref href="DLM2238023">32</extref></citation> come into force on 1 April 2010.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text>The rest of this Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM1360809" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act amends the <citation jurisdiction="nz"><extref href="DLM286951">Student Loan Scheme Act 1992</extref></citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <amends-note>
+          <amends-effective>
+            <date>2010-03-07</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <extref href="DLM286951">Student Loan Scheme Act 1992</extref>
+            </citation>
+          </amends-affect>
+          <amends-text>except ss 4, 26(1)</amends-text>
+        </amends-note>
+        <amends-note>
+          <amends-effective>
+            <date>2010-04-01</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <extref href="DLM286951">Student Loan Scheme Act 1992</extref>
+            </citation>
+          </amends-affect>
+          <amends-text>ss 4, 26(1), 31, 32</amends-text>
+        </amends-note>
+      </notes>
+    </prov>
+    <part date.instructed="2007-10-10" id="DLM1360810" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2010-03-07" act.no="3" act.type="public" date.as.at="2010-03-06" date.assent="2010-03-06" stage="in-force" year="2010" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Amendments to principal Act</heading>
+      <prov id="DLM2238000" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading>Interpretation</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM286959">Section 2(1)</extref></citation> is amended by repealing the definition of <emphasis style="bold">total interest rate</emphasis> and substituting the following definition:</text>
+              <amend increment="1" quote="1">
+                <def-para id="DLM2238001" quote="1">
+                  <para quote="1">
+                    <text><def-term id="DLM2238002">total interest rate</def-term> means the total interest rate that applies in respect of any tax year, calculated in accordance with the formula—</text>
+                    <eqn id="DLM2238003">
+                      <eqn-line>a% + 0.74% = y%</eqn-line>
+                      <para>
+                        <text>where—</text>
+                      </para>
+                      <variable-def>
+                        <variable>a%</variable>
+                        <para>
+                          <text>is the average, rounded to the nearest 2 decimal places, of the monthly average 10-year government bond yield rates published by the Reserve Bank of New Zealand for the 5 years ending in December in the year that precedes the relevant tax year</text>
+                        </para>
+                      </variable-def>
+                      <variable-def>
+                        <variable>y%</variable>
+                        <para>
+                          <text>rounded to the nearest 1 decimal place, is the total interest rate for the relevant tax year.</text>
+                        </para>
+                      </variable-def>
+                    </eqn>
+                  </para>
+                </def-para>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360811" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">5</label>
+        <heading>Repayment obligation for New Zealand based borrowers</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287432">Section 14</extref></citation> is amended by repealing subsection (2) and substituting the following subsections:</text>
+              <amend quote="1">
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">2</label>
+                  <para>
+                    <text>However, if the borrower was overseas based for part of the relevant tax year, then (in calculating that borrower’s repayment obligation under subsection (1)) only the net income that the borrower derived during the period that the borrower was New Zealand based during that tax year must be taken into account.</text>
+                  </para>
+                </subprov>
+                <subprov quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">3</label>
+                  <para>
+                    <text>Despite subsections (1) and <citation jurisdiction="nz">(2)</citation>, the repayment obligation for any tax year must not exceed the amount of the IRD loan balance on the last day of that tax year.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2238004" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">6</label>
+        <heading>Employer or PAYE intermediary to make repayment deductions</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287478">Section 19(1)</extref></citation> is amended by inserting <amend.in quote="1">, or the Commissioner has given a notice under section <citation jurisdiction="nz">20A</citation>,</amend.in> after <amend.in quote="1">under section 18</amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287478">Section 19(2)</extref></citation> is amended by inserting <amend.in quote="1">or an increased repayment deduction rate</amend.in> after “a special deduction rate”.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360812" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">7</label>
+        <heading>New section 20A inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The following section is inserted after <citation jurisdiction="nz"><extref href="DLM287485">section 20</extref></citation>:</text>
+              <amend quote="1">
+                <prov id="DLM1360813" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">20A</label>
+                  <heading>Standard deduction rate may be increased in certain circumstances</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>This section applies if—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the amount of a borrower's repayment deductions in the current tax year or in any tax year prior to the current tax year is, or was, less than the amount required under this Act; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>a borrower has failed to pay any amount that has become due and payable in accordance with this Act.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>If this section applies, the Commissioner may, in relation to the borrower, issue an increased repayment deduction rate notice that—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>varies the standard deduction rate by increasing it up to a maximum rate of 15 cents in each complete dollar; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>specifies the total amount payable by the borrower (which may include any penalties, interest, or other amount that has become due and payable); and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>requires the borrower's employers to make repayment deductions at the increased rate until those repayment deductions equal the amount specified under <citation jurisdiction="nz">paragraph (b)</citation>.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>If the Commissioner issues an increased repayment deduction rate notice, the Commissioner must send that notice, together with a notice that complies with section 18(2), directly to the borrower's employers.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>The increased repayment deduction rate applies until the earlier of the date on which—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the repayment deductions made in accordance with the increased repayment deduction rate notice equal the amount specified in <citation jurisdiction="nz">subsection (2)(b)</citation>; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the Commissioner notifies the employer otherwise.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>An increased repayment deduction rate notice issued in relation to a borrower under this section revokes—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>any special repayment deduction rate certificate previously issued to that borrower; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>any notice previously given to an employer by that borrower in accordance with section 18.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                      <para>
+                        <text>The Commissioner must give a borrower a copy of any notice that is given to that borrower's employers under this section as soon as practicable after it is issued.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">7</label>
+                      <para>
+                        <text>Nothing in this section limits the application of sections 53 to 55D.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360814" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">8</label>
+        <heading>Full interest write-off for certain borrowers</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287913">Section 38AA(1)(b)</extref></citation> is amended by omitting <amend.in quote="1">or section 38AJ</amend.in> and substituting <amend.in quote="1">, 38AJ, or <citation jurisdiction="nz">38AJA</citation></amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2238005" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">9</label>
+        <heading>Full interest write-off ceases if borrower is personally absent from New Zealand for 184 days</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287918">Section 38AC(5)</extref></citation> is amended by omitting <amend.in quote="1">or section 38AJ</amend.in> and substituting <amend.in quote="1">, 38AJ, or <citation jurisdiction="nz">38AJA</citation></amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360815" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">10</label>
+        <heading>Power of Commissioner to grant exemptions to borrowers who do not satisfy 183-day requirement</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287923">Section 38AE(1)(b)</extref></citation> is amended by inserting <amend.in quote="1">that, at the time the borrower did that work, was</amend.in> after <quote.in quote="1">charitable organisation</quote.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287923">Section 38AE(1)</extref></citation> is amended by adding <amend.in quote="1">; or</amend.in> and also by adding the following paragraph:</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">g</label>
+                  <para>
+                    <text>the borrower was personally absent from New Zealand because he or she was in 1 or more of Niue, the Cook Islands, Tokelau, or the Ross Dependency.</text>
+                  </para>
+                </label-para>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287923">Section 38AE</extref></citation> is amended by inserting the following subsection after subsection (7):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">7A</label>
+                  <para>
+                    <text>The conditions in <citation jurisdiction="nz">section 38AIA</citation> apply to <citation jurisdiction="nz">subsection (1)(g)</citation>.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287923">Section 38AE(8)</extref></citation> is amended by omitting <amend.in quote="1">(f)</amend.in> and substituting <amend.in quote="1"><citation jurisdiction="nz">(g)</citation></amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">5</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287923">Section 38AE</extref></citation> is amended by adding the following subsection:</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="yes" denominator="yes" quote="1">9</label>
+                  <para>
+                    <text><citation jurisdiction="nz">Subsections (1)(g) and (7A)</citation> apply with effect from 31 March 2009.</text>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360816" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">11</label>
+        <heading>Conditions to charitable organisation exemption</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287928">Section 38AEA</extref></citation> is amended by omitting <amend.in quote="1">recognised by the United Nations as a developing country</amend.in> in each place where it appears and substituting in each case <amend.in quote="1">listed on the Organisation for Economic Cooperation and Development’s list of countries receiving development assistance</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2238006" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">12</label>
+        <heading>Conditions to marriage, civil union, or de facto exemption</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287937">Section 38AI(d)</extref></citation> is amended by adding <amend.in quote="1">; or</amend.in> and also by adding the following subparagraph:</text>
+              <amend increment="2" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">iv</label>
+                  <para>
+                    <text>the applicant's partner satisfies the conditions in <citation jurisdiction="nz">section 38AJA(4)</citation>.</text>
+                  </para>
+                </label-para>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360817" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">13</label>
+        <heading>New section 38AIA inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>The following section is inserted after <citation jurisdiction="nz"><extref href="DLM287937">section 38AI</extref></citation>:</text>
+              <amend quote="1">
+                <prov id="DLM1360818" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">38AIA</label>
+                  <heading>Conditions to Niue, Cook Islands, Tokelau, and Ross Dependency exemption</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>An applicant under <citation jurisdiction="nz">section 38AE(1)(g)</citation> must—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>provide proof that he or she—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>was personally present in 1 or more of New Zealand, Niue, the Cook Islands, Tokelau, or the Ross Dependency for a period of 183 or more consecutive days after 31 March 2009 (a <def-term id="DLM1360819">183-day period</def-term>); and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>was personally present in New Zealand, Niue, the Cook Islands, Tokelau, or the Ross Dependency for the first day of the 183-day period; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">iii</label>
+                              <para>
+                                <text>was not personally absent from New Zealand, Niue, the Cook Islands, Tokelau, and the Ross Dependency for a period, or periods in the aggregate, of more than 31 days during a period of what would otherwise have been a 183-day period; and</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>pay his or her repayment obligation in full when, or before, it falls due each tax year; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>provide the Commissioner with the information described in section 14A(2), and section 14A(3) and (4) apply accordingly.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>In specifying under section 38AE(2) when, or the basis on which, an applicant under <citation jurisdiction="nz">section 38AE(1)(g)</citation> is treated as being personally present in New Zealand for the purposes of section 38AB, the Commissioner must apply sections 38AC(1) to (4) and 38AD as if references in those sections to <quote.in quote="2">New Zealand</quote.in> are references to <quote.in quote="2">New Zealand (which includes Niue, the Cook Islands, Tokelau, and the Ross Dependency)</quote.in>, and section 38AK(2)(b) must be interpreted accordingly.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360820" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">14</label>
+        <heading>New section 38AJA inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>The following section is inserted after <citation jurisdiction="nz"><extref href="DLM287940">section 38AJ</extref></citation>:</text>
+              <amend quote="1">
+                <prov id="DLM1360821" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">38AJA</label>
+                  <heading>Power of Commissioner to grant exemption to borrowers undertaking full-time overseas study</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>On the application of a borrower who does not satisfy the 183-day requirement in section 38AB, the Commissioner may, if the Commissioner considers that it is fair and reasonable to do so, grant an exemption to the 183-day requirement to that borrower if either subsection (2) or (3) applies.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>This subsection applies if the principal reason that the borrower does not satisfy the 183-day requirement is that the borrower is undertaking study that—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the borrower is enrolled in with a New Zealand tertiary education provider; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>if it is completed successfully, will count towards a qualification offered by a New Zealand tertiary education provider; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>is assessed by the NZQA as being equivalent to level 7 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 253(1)(c) of the Education Act 1989; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>is full-time and undertaken overseas as part of either—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text>a formal exchange programme approved by the New Zealand Government; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text>a formal agreement between a New Zealand tertiary education provider and an overseas tertiary provider.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>This subsection applies if the principal reason that the borrower does not satisfy the 183-day requirement is that the borrower is undertaking study that—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the borrower is enrolled in with a New Zealand tertiary education provider; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>if it is completed successfully, will count towards a qualification offered by a New Zealand tertiary education provider; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>is assessed by the NZQA as being equivalent to level 8 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 253(1)(c) of the Education Act 1989; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
+                          <para>
+                            <text>is full-time and undertaken overseas; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">e</label>
+                          <para>
+                            <text>cannot be completed in New Zealand.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>An applicant under <citation jurisdiction="nz">subsection (1)</citation>—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>must provide the Commissioner with evidence from the applicant's New Zealand tertiary education provider verifying that the applicant's study meets the requirements of either—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
+                              <para>
+                                <text><citation jurisdiction="nz">subsection (2)(b), (c), and (d)(i) or (ii)</citation>; or</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
+                              <para>
+                                <text><citation jurisdiction="nz">subsection (3)(b) to (e)</citation>; and</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>must supply the Commissioner with all other information, and in the manner, that the Commissioner may reasonably require in order to establish whether the ground for the grant of an exemption under <citation jurisdiction="nz">subsection (1)</citation> applies; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>must provide the Commissioner with the information specified in section 14A(2), and section 14A(3) and (4) apply accordingly.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>If the Commissioner grants an exemption under <citation jurisdiction="nz">subsection (1)</citation>, the Commissioner must specify either—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>the start and end dates for the period for which the relevant borrower is treated as being personally present in New Zealand for the purposes of section 38AB; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>the conditions that must apply or be met in order for the relevant borrower to be treated as being personally present in New Zealand for the purposes of section 38AB.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">6</label>
+                      <para>
+                        <text>In this section,—</text>
+                        <def-para id="DLM2586001" quote="1">
+                          <para quote="1">
+                            <text><def-term id="DLM2586002">NZQA</def-term> means the New Zealand Qualifications Authority established under Part 20 of the Education Act 1989</text>
+                          </para>
+                        </def-para>
+                        <def-para id="DLM2586003" quote="1">
+                          <para quote="1">
+                            <text><def-term id="DLM2586004">overseas tertiary provider</def-term> means an institution or organisation that—</text>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">a</label>
+                              <para>
+                                <text>provides tertiary education or training; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">b</label>
+                              <para>
+                                <text>is based in a country other than New Zealand; and</text>
+                              </para>
+                            </label-para>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">c</label>
+                              <para>
+                                <text>is registered by an appropriate education authority in that country.</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </def-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">7</label>
+                      <para>
+                        <text>This section applies with effect from 31 March 2007.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360823" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">15</label>
+        <heading>Terms of full interest write-off</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM287955">Section 38AK(2)(a)(ii)</extref></citation> is amended by omitting <amend.in quote="1">or section 38AE(2) or section 38AJ(3)</amend.in> and substituting <amend.in quote="1">, 38AE(2), 38AJ(3), or <citation jurisdiction="nz">38AJA(5)</citation></amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360824" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">16</label>
+        <heading>New section 38AM inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>The following section is inserted after <citation jurisdiction="nz"><extref href="DLM287957">section 38AL</extref></citation>:</text>
+              <amend quote="1">
+                <prov id="DLM1360825" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">38AM</label>
+                  <heading>Full interest write-off for quick repayment of loan balance</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>This section applies to a borrower who—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>satisfies the 183-day requirement in section 38AB(1) and (2); and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>fully repays his or her loan balance before the end of the 183-day period.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>The amount of interest calculated on the loan balance of a borrower to whom this section applies must be reduced to zero for the period—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>beginning on the first day of the 183-day period; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>ending on the day on which the borrower fully repays his or her loan balance.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>This section applies with effect from 31 March 2006.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360826" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">17</label>
+        <heading>Late payment penalties</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288121">Section 44(1)(d)</extref></citation> is amended by omitting <amend.in quote="1">.</amend.in> and substituting <amend.in quote="1">; or</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360827" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">18</label>
+        <heading>Power of Commissioner in respect of small amounts</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288187">Section 51(3)(a)</extref></citation> is amended by omitting <amend.in quote="1">$333</amend.in> and substituting <amend.in quote="1">$334</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360828" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">19</label>
+        <heading>Borrowers may apply for hardship relief </heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288198">Section 54(1)</extref></citation> is amended by repealing paragraph (a) and substituting the following paragraph:</text>
+              <amend increment="1" quote="1">
+                <label-para quote="1" skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">a</label>
+                  <para>
+                    <text>hardship relief for any tax year prior to the current tax year:</text>
+                  </para>
+                </label-para>
+              </amend>
+              <follow-text space-before="no">.</follow-text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2238007" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">20</label>
+        <heading>Sections 55 to 55B substituted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288200">Sections 55 to 55B</extref></citation> are repealed and the following sections substituted:</text>
+              <amend quote="1">
+                <prov id="DLM2238008" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">55</label>
+                  <heading>Hardship relief for any tax year prior to current tax year</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>If an application is made under <citation jurisdiction="nz">section 54(1)(a)</citation>, the Commissioner may, for any period the Commissioner considers equitable, retrospectively decrease that borrower's repayment obligation for any tax year prior to the current tax year if the Commissioner—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>is satisfied that payment of that repayment obligation is causing, or would cause, serious hardship to the borrower; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>considers that there are other special reasons that make it fair and reasonable to do so.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>Except as set out in <citation jurisdiction="nz">section 55A</citation>, the Commissioner must not refund any amount that was deducted or paid (if any) to meet a repayment obligation for any tax year prior to the current tax year.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2238009" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">55A</label>
+                  <heading>Hardship relief for tax year immediately prior to current tax year may include refund</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>If an application is made under <citation jurisdiction="nz">section 54(1)(a)</citation>, the Commissioner may, for any period the Commissioner considers equitable, refund any amount that was deducted or paid to meet a repayment obligation in the tax year immediately prior to the current tax year if the Commissioner—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>is satisfied that payment of that repayment obligation is causing, or would cause, serious hardship to the borrower; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>considers that there are other special reasons that make it fair and reasonable to do so.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>If the Commissioner refunds any amount to a borrower under <citation jurisdiction="nz">subsection (1)</citation>, the Commissioner must—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>retrospectively decrease that borrower's repayment obligation for the relevant tax year; and</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>refund the whole or part of the portion of the repayment obligation that is the difference in assessment amounts.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>A refund that is made under this section must be made in the manner required under section 184A of the Tax Administration Act 1994.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+                <prov id="DLM2238010" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">55B</label>
+                  <heading>Hardship relief for current tax year or next tax year</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>If an application is made under section 54(1)(b) or (c), the Commissioner may, for any period the Commissioner considers equitable, reduce any amount that must be deducted or paid in order to meet the repayment obligation assessed or to be assessed for the current tax year or the next tax year if the Commissioner—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>is satisfied that the amount being deducted or paid, or to be deducted or paid, has caused or will cause serious hardship to the borrower; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>considers that there are other special reasons that make it fair and reasonable to do so.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>If the Commissioner reduces the amount to be deducted or paid by a borrower under <citation jurisdiction="nz">subsection (1)</citation>, the Commissioner must, as appropriate, do 1 of the following:</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>issue to that borrower a special repayment deduction rate certificate that varies the standard deduction rate in accordance with the Commissioner's decision under <citation jurisdiction="nz">subsection (1)</citation> and, when assessed, reduce that borrower's repayment obligation accordingly; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>reduce the percentage payable by that borrower under section 27(1) in accordance with the Commissioner's decision under <citation jurisdiction="nz">subsection (1)</citation> and, when assessed, reduce that borrower's repayment obligation accordingly; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
+                          <para>
+                            <text>reduce that borrower's repayment obligation under section 34 in accordance with the Commissioner's decision under <citation jurisdiction="nz">subsection (1)</citation>.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>If the Commissioner reduces the amount to be deducted from, or paid by, a borrower to zero, section 18 does not apply to that borrower for the period for which that reduction applies.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>If a borrower has given his or her employer notice in accordance with section 18 and the Commissioner subsequently reduces the amount to be deducted from, or paid by, a borrower to zero, the borrower must give a copy of the special repayment deduction rate certificate to his or her employer as soon as practicable after it is issued.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">5</label>
+                      <para>
+                        <text>Section 24F of the Tax Administration Act 1994 applies, with all necessary modifications, to any special repayment deduction rate certificate issued under this section.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2238011" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">21</label>
+        <heading>Effect of Commissioner's decision under section 55</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>The heading to <citation jurisdiction="nz"><extref href="DLM288209">section 55C</extref></citation> is amended by omitting <amend.in quote="1"><emphasis style="bold">section 55</emphasis></amend.in> and substituting <amend.in quote="1"><citation jurisdiction="nz"><emphasis style="bold">section 55, 55A, or 55B</emphasis></citation></amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288209">Section 55C(1)</extref></citation> is amended by omitting <amend.in quote="1">section 55</amend.in> and substituting <amend.in quote="1"><citation jurisdiction="nz">section 55, 55A, or 55B</citation></amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2238012" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">22</label>
+        <heading>Borrowers must inform Commissioner of change of circumstances and Commissioner may review</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288211">Section 55D(1)(b)</extref></citation> is amended by omitting <amend.in quote="1">section 55</amend.in> and substituting <amend.in quote="1"><citation jurisdiction="nz">section 55, 55A, or 55B</citation></amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2238013" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">23</label>
+        <heading>Excess repayments made by residents</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The heading to <citation jurisdiction="nz"><extref href="DLM288214">section 56</extref></citation> is amended by omitting <amend.in quote="1"><emphasis style="bold">residents</emphasis></amend.in> and substituting <amend.in quote="1"><emphasis style="bold">borrowers</emphasis></amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2238014" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">24</label>
+        <heading>Cancellation of interest if IRD loan balance repaid early</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288248">Section 60A(1)(b)</extref></citation> is amended by omitting <amend.in quote="1">15</amend.in> and substituting <amend.in quote="1">30</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2238015" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">25</label>
+        <heading>Objection to decision concerning grant of exemption</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288293">Section 65A(a)</extref></citation> is amended by omitting <amend.in quote="1">or section 38AJ</amend.in> and substituting <amend.in quote="1">, 38AJ, or <citation jurisdiction="nz">38AJA</citation></amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288293">Section 65A(b)</extref></citation> is amended by omitting <amend.in quote="1">section 38AF, 38AG, 38AH, 38AI, or 38AJ(2)</amend.in> and substituting <amend.in quote="1">section 38AEA, 38AF, 38AG, 38AH, 38AI, <citation jurisdiction="nz">38AIA</citation>, 38AJ(2), or <citation jurisdiction="nz">38AJA(4)</citation></amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288293">Section 65A(c)</extref></citation> is amended by omitting <amend.in quote="1">or section 38AJ(3)(a)</amend.in> and substituting <amend.in quote="1">, 38AJ(3)(a), or <citation jurisdiction="nz">38AJA(5)(a)</citation></amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288293">Section 65A(d)</extref></citation> is amended by  omitting <amend.in quote="1">or section 38AJ(3)(b)</amend.in> and substituting <amend.in quote="1">, 38AJ(3)(b), or <citation jurisdiction="nz">38AJA(5)(b)</citation></amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1360829" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">26</label>
+        <heading>Regulations</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288673">Section 87(1)(ab) and (ac)</extref></citation> are repealed.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288673">Section 87(1)(b)</extref></citation> is repealed.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM288673">Section 87(4)</extref></citation> is amended by omitting <amend.in quote="1">or subsection (1)(ac) or subsection (1)(b) of this section</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+    <part date.instructed="2007-10-10" id="DLM1360830" in.amend="false" instructing.office="Inland Revenue" irdnumbering="no" toc="yes" date.first.valid="2010-03-07" act.no="3" act.type="public" date.as.at="2010-03-06" date.assent="2010-03-06" stage="in-force" year="2010" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Consequential amendments to, and revocations of, other enactments</heading>
+      <crosshead id="DLM2238016" toc="yes">Consequential amendments to other enactment</crosshead>
+      <prov id="DLM2238017" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">27</label>
+        <heading>Amendments to Tax Administration Act 1994</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><intref href="DLM2238018">Sections 28</intref> and <intref href="DLM2238019">29</intref></citation> amend the <citation jurisdiction="nz"><leg-title href="DLM348342">Tax Administration Act 1994</leg-title></citation>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <notes>
+          <amends-note>
+            <amends-effective>
+              <date>2010-03-07</date>
+            </amends-effective>
+            <amends-affect>
+              <citation jurisdiction="nz">
+                <extref href="DLM348342">Tax Administration Act 1994</extref>
+              </citation>
+            </amends-affect>
+          </amends-note>
+        </notes>
+      </prov>
+      <prov id="DLM2238018" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">28</label>
+        <heading>Annual returns of income not required</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM351039">Section 33A(1)(g)</extref></citation> is amended by omitting <amend.in quote="1">; and</amend.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM351039">Section 33A(1)(h) and (i)</extref></citation> are repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2238019" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">29</label>
+        <heading>Officers to maintain secrecy</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM352409">Section 81(4)(g)</extref></citation> is amended by omitting <amend.in quote="1">, (2AA),</amend.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <crosshead id="DLM2238020" toc="yes">Consequential revocations of other enactments</crosshead>
+      <prov id="DLM2238021" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">30</label>
+        <heading>Student Loan Scheme (Income Amount for Full Interest Write-off) Regulations 2005 revoked</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The <citation jurisdiction="nz"><extref href="DLM364588">Student Loan Scheme (Income Amount for Full Interest Write-off) Regulations 2005</extref></citation> (SR 2005/345) are revoked.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <notes>
+          <amends-note>
+            <amends-effective>
+              <date>2010-03-07</date>
+            </amends-effective>
+            <amends-affect>
+              <citation jurisdiction="nz">
+                <extref href="DLM364588">Student Loan Scheme (Income Amount for Full Interest Write-off) Regulations 2005</extref>
+              </citation>
+            </amends-affect>
+          </amends-note>
+        </notes>
+      </prov>
+      <prov id="DLM2238022" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">31</label>
+        <heading>Student Loan Scheme (Interest Rates Formulas) Regulations 2006 revoked</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The <citation jurisdiction="nz"><extref href="DLM369308">Student Loan Scheme (Interest Rates Formulas) Regulations 2006</extref></citation> (SR 2006/36) are revoked.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <notes>
+          <amends-note>
+            <amends-effective>
+              <date>2010-04-01</date>
+            </amends-effective>
+            <amends-affect>
+              <citation jurisdiction="nz">
+                <extref href="DLM369308">Student Loan Scheme (Interest Rates Formulas) Regulations 2006</extref>
+              </citation>
+            </amends-affect>
+          </amends-note>
+        </notes>
+      </prov>
+      <prov id="DLM2238023" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">32</label>
+        <heading>Student Loan Scheme (Total Interest Rate) Regulations 2009 revoked</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="yes" denominator="yes"/>
+            <para>
+              <text>The <citation jurisdiction="nz"><extref href="DLM1841800">Student Loan Scheme (Total Interest Rate) Regulations 2009</extref></citation> (SR 2009/30) are revoked.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <notes>
+          <amends-note>
+            <amends-effective>
+              <date>2010-04-01</date>
+            </amends-effective>
+            <amends-affect>
+              <citation jurisdiction="nz">
+                <extref href="DLM1841800">Student Loan Scheme (Total Interest Rate) Regulations 2009</extref>
+              </citation>
+            </amends-affect>
+          </amends-note>
+        </notes>
+      </prov>
+    </part>
+  </body>
+  <end id="DLM2586005">
+    <leg-history id="DLM2586006">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-08-04</date>
+        <description>Introduction (Bill 59–1)</description>
+      </history-item>
+      <history-item>
+        <date>2009-08-25</date>
+        <description>First reading and referral to Education and Science Committee</description>
+      </history-item>
+      <history-item>
+        <date>2009-11-27</date>
+        <description>Reported from Education and Science Committee (Bill 59–2)</description>
+      </history-item>
+      <history-item>
+        <date>2010-02-23</date>
+        <description>Second reading, committee of the whole House, third reading</description>
+      </history-item>
+      <history-item>
+        <date>2010-03-06</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the <ministry>Inland Revenue Department</ministry>.</admin-office>
+  </end>
+</act>
