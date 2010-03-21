@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2007-12-12" id="DLM2753207" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="7" act.type="public" date.as.at="2010-03-22" date.assent="2010-03-22" date.first.valid="2010-03-23" stage="in-force" year="2010">
+  <cover id="DLM2753208">
+    <title>Judicature (Judicial Matters) Amendment Act 2010</title>
+    <assent>2010-03-22</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM2753209">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM2753210" prov-type="clause">
+    <prov id="DLM2753211" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act is the Judicature (Judicial Matters) Amendment Act 2010.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2753212" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2753213" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text>This Act amends the <citation jurisdiction="nz"><extref href="DLM144692">Judicature Act 1908</extref></citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <amends-note>
+          <amends-effective>
+            <date>2010-03-23</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <extref href="DLM144692">Judicature Act 1908</extref>
+            </citation>
+          </amends-affect>
+        </amends-note>
+      </notes>
+    </prov>
+    <crosshead id="DLM2753200" toc="yes">Higher duties allowance for High Court Judges serving on Court of Appeal</crosshead>
+    <prov id="DLM2753201" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading>Salaries and allowances of Judges</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM145586">Section 9A(1)</extref></citation> is amended by inserting the following paragraph after paragraph (b):</text>
+            <amend increment="1" quote="1">
+              <label-para quote="1" skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">ba</label>
+                <para>
+                  <text>a higher duties allowance payable and calculated in accordance with <citation jurisdiction="nz">subsection (1A)</citation>; and</text>
+                </para>
+              </label-para>
+            </amend>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM145586">Section 9A</extref></citation> is amended by inserting the following subsection after subsection (1):</text>
+            <amend quote="1">
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes" quote="1">1A</label>
+                <para>
+                  <text>The higher duties allowance under <citation jurisdiction="nz">subsection (1)(ba)</citation> is—</text>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">a</label>
+                    <para>
+                      <text>payable only to a Judge who—</text>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">i</label>
+                        <para>
+                          <text>is or was not a Judge of the Court of Appeal holding office under section 57(2) (in this subsection called a <def-term id="DLM2753202">permanent Judge</def-term>); but</text>
+                        </para>
+                      </label-para>
+                      <label-para quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">ii</label>
+                        <para>
+                          <text>is or was under sections 58A to 58C or section 58F serving as a member of a criminal or civil division, or as a member of the Full Court, of the Court of Appeal; and</text>
+                        </para>
+                      </label-para>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">b</label>
+                    <para>
+                      <text>payable only in respect of periods of the Judge's service as a member of the division or Full Court; and</text>
+                    </para>
+                  </label-para>
+                  <label-para quote="1" skeleton="no">
+                    <label auto.number="no" denominator="yes" quote="1">c</label>
+                    <para>
+                      <text>calculated at a rate expressed per day of service as a member of the division or Full Court in accordance with the following formula:</text>
+                      <eqn id="DLM2753203">
+                        <eqn-line>(a − b) × c/d </eqn-line>
+                        <para>
+                          <text>where—</text>
+                        </para>
+                        <variable-def>
+                          <variable>a</variable>
+                          <para>
+                            <text>is the applicable yearly rate of salary determined by the Remuneration Authority to be payable to a permanent Judge</text>
+                          </para>
+                        </variable-def>
+                        <variable-def>
+                          <variable>b</variable>
+                          <para>
+                            <text>is the applicable yearly rate of salary determined by the Remuneration Authority to be payable to a Judge who is not a permanent Judge</text>
+                          </para>
+                        </variable-def>
+                        <variable-def>
+                          <variable>c</variable>
+                          <para>
+                            <text>is 0.0383561 (the standard payroll factor, which represents the proportion of an annual salary that is paid per fortnight)</text>
+                          </para>
+                        </variable-def>
+                        <variable-def>
+                          <variable>d</variable>
+                          <para>
+                            <text>is 10 (the number of working days per fortnight).</text>
+                          </para>
+                        </variable-def>
+                      </eqn>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">3</label>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM145586">Section 9A(5)</extref></citation> is consequentially amended by omitting <amend.in quote="1">the payment of salary and allowances on a pro-rata basis under subsection (4) is not</amend.in> and substituting <amend.in quote="1">neither the cessation of the payment of a higher duties allowance payable and calculated under <citation jurisdiction="nz">subsections (1)(ba) and (1A)</citation>, nor the payment of salary and allowances on a pro-rata basis under subsection (4), is</amend.in>.</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">4</label>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM145701">Section 11A(3)</extref></citation> is consequentially amended by omitting <amend.in quote="1">shall also be paid</amend.in> and substituting <amend.in quote="1">must also be paid the higher duties allowance payable and calculated under <citation jurisdiction="nz">section 9A(1)(ba) and (1A)</citation> and</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2753204" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">5</label>
+      <heading>Allowances paid previously</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text>This section applies to higher duties allowances paid out of public money before the commencement of this section to Judges who, for the periods in respect of which the allowances were paid,—</text>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes">a</label>
+              <para>
+                <text>were not Judges of the Court of Appeal holding office under <citation jurisdiction="nz"><extref href="DLM146928">section 57(2)</extref></citation> of the Judicature Act 1908; but</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes">b</label>
+              <para>
+                <text>were under <citation jurisdiction="nz"><extref href="DLM146961">sections 58A to 58C</extref> or <extref href="DLM146980">section 58F</extref></citation> of that Act serving as a member of a criminal or civil division, or as a member of the Full Court, of the Court of Appeal.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text>Those allowances must be taken to be, and to always have been, as authorised and valid as allowances calculated, appropriated, and paid in accordance with <citation jurisdiction="nz"><extref href="DLM145586">sections 9A</extref>, <extref href="DLM145594">11</extref>, and <extref href="DLM145701">11A</extref></citation> of the Judicature Act 1908 (as those sections are amended by <citation jurisdiction="nz">section 4</citation> of this Act).</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <crosshead id="DLM2753214" toc="yes">Associate Judges of High Court</crosshead>
+    <prov id="DLM2753215" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">6</label>
+      <heading>Appointment of Associate Judges</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM146026">Section 26C(2)</extref></citation> is amended by omitting <amend.in quote="1">6</amend.in> and substituting <amend.in quote="1">9</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <crosshead id="DLM2753205" toc="yes">Court of Appeal Judges</crosshead>
+    <prov id="DLM2753206" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">7</label>
+      <heading>Constitution of Court of Appeal</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="yes" denominator="yes"/>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM146928">Section 57(2)(b)</extref></citation> is amended by omitting <amend.in quote="1">8</amend.in> and substituting <amend.in quote="1">9</amend.in>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+  </body>
+  <end id="DLM2753216">
+    <leg-history id="DLM2753217">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2010-03-16</date>
+        <description>Divided from Judicial Matters Bill (Bill 216–2) by committee of the whole House as Bill 216–3C</description>
+      </history-item>
+      <history-item>
+        <date>2010-03-18</date>
+        <description>Third reading</description>
+      </history-item>
+      <history-item>
+        <date>2010-03-22</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the <ministry>Ministry of Justice</ministry>.</admin-office>
+  </end>
+</act>
