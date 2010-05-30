@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM2825100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" date.terminated="2010-03-25" terminated="withdrawn" pco.suffix="0005" stage="published" year="2010" raised.by="Members" sop.no="116">
-  <date>Tuesday, 23 March 2010</date>
-  <billref>Education Amendment Bill</billref>
-  <body id="DLM2825101">
+<sop id="DLM3009300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" date.terminated="2010-05-31" terminated="withdrawn" pco.suffix="0004" stage="published" year="2010" raised.by="Members" sop.no="129">
+  <date>Tuesday, 1 June 2010</date>
+  <billref>Local Government (Auckland Law Reform) Bill </billref>
+  <body id="DLM3009301">
     <heading>Proposed amendment</heading>
-    <motion>Hon Trevor Mallard, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM2825102">
-      <clause.ref>New Clause 78A</clause.ref>
+    <motion>David Clendon, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM3009302">
+      <clause.ref>Clause 82:</clause.ref>
       <sop.para>
-        <text>The following new clause is inserted after clause 78:</text>
+        <text>To omit this clause (lines 32 to 35 on page 113) and substitute the following clause:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <amend increment="1">
-            <prov id="DLM2825103" irdnumbering="no" skeleton="no" toc="yes">
-              <label auto.number="no" denominator="no">78A</label>
-              <heading>Validation in respect of borrowing by King’s High School, Dunedin</heading>
-              <prov.body>
-                <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes">1</label>
-                  <para>
-                    <text>Any actions taken by the Board of King’s High School, Dunedin, in relation to borrowing money or arranging funding for the Performing Arts Centre are deemed to have been done in accordance with section 67 of the Education Act 1989.</text>
-                  </para>
-                </subprov>
-                <subprov skeleton="no">
-                  <label auto.number="no" denominator="yes">2</label>
-                  <para>
-                    <text>The Board may allocate any funds allocated by the Ministry of Education under its Five Year Agreement to repayment of loans relating to the Performing Arts Centre.</text>
-                  </para>
-                </subprov>
-              </prov.body>
-            </prov>
-          </amend>
+          <prov id="DLM3009303" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">82</label>
+            <heading>Establishment of community boards</heading>
+            <prov.body>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">1</label>
+                <para>
+                  <text>Despite section 49 of the Local Government Act 2002, no community board may be established by the Auckland Council.</text>
+                </para>
+              </subprov>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">2</label>
+                <para>
+                  <text>A local board may establish community boards, and for the purpose of section 49 and Schedule 6 of the Local Government Act 2002, a local board shall have the powers and obligations of a territorial authority.</text>
+                </para>
+              </subprov>
+            </prov.body>
+          </prov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM2825104" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2010-03-25" pco.suffix="0005" stage="published" year="2010" raised.by="Members" sop.no="116">
+  <explnote id="DLM3009304" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2010-05-31" pco.suffix="0004" stage="published" year="2010" raised.by="Members" sop.no="129">
     <heading>Explanatory note</heading>
     <para>
-      <text>This amendment inserts a new clause 78A which ensures that King’s High School, Dunedin is able to use funding allocated under its Five Year Agreement to pay the costs associated with loans used to build the school’s Performing Arts Centre.  This resolves a misunderstanding which arose several years ago.</text>
+      <text>Clause 82 prohibits the establishment of community boards in Auckland. </text>
+    </para>
+    <para>
+      <text>Submitters on the Local Government (Auckland Law Reform) Bill expressed concern that community representation would be subsumed by the larger Local Boards.</text>
+    </para>
+    <para>
+      <text>This Supplementary Order Paper proposes that Local Boards may set up community boards where they deem it is necessary to ensure democratic representation.</text>
     </para>
   </explnote>
 </sop>
