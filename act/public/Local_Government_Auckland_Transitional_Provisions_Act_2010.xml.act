@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act date.instructed="2009-10-08" id="DLM3016606" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="in-force" year="2010" prospective.consolidation="F">
+<act date.instructed="2009-10-08" id="DLM3016606" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="reprint" year="2010" prospective.consolidation="F">
   <cover id="DLM3016607">
+    <reprint-date>2010-11-01</reprint-date>
     <title>Local Government (Auckland Transitional Provisions) Act 2010</title>
     <assent>2010-06-14</assent>
     <commencement>see section 2</commencement>
+    <cover.reprint-note>
+      <para>
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref> of the Acts and Regulations Publication Act 1989</citation> have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Department of Internal Affairs</ministry>.</admin-office>
+    </cover.reprint-note>
   </cover>
   <contents>
     <heading>Contents</heading>
     <toc/>
   </contents>
-  <front id="DLM3016608">
-    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
-  </front>
   <body id="DLM3016609" prov-type="clause">
     <prov id="DLM3016500" irdnumbering="no" skeleton="no" toc="yes">
       <label auto.number="no" denominator="no">1</label>
@@ -157,10 +164,10 @@
         </amends-note>
       </notes>
     </prov>
-    <part date.instructed="2009-10-08" id="DLM3016614" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2010-06-15" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" stage="in-force" year="2010" prospective.consolidation="F">
+    <part date.instructed="2009-10-08" id="DLM3016614" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2010-06-15" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Savings, transitional provisions, and related matters (except employment)</heading>
-      <subpart date.instructed="2009-10-08" id="DLM3016615" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2009-10-08" id="DLM3016615" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Preliminary matters</heading>
         <prov id="DLM3016616" irdnumbering="no" skeleton="no" toc="yes">
@@ -308,7 +315,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2009-10-08" id="DLM3016642" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2009-10-08" id="DLM3016642" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">2</label>
         <heading>Savings and transitional provisions relating to Auckland Council and its subsidiaries</heading>
         <crosshead id="DLM3016643" toc="yes">Council governance and framework</crosshead>
@@ -596,47 +603,15 @@
             </subprov>
           </prov.body>
         </prov>
-        <prov id="DLM3016658" irdnumbering="no" skeleton="no" toc="yes">
+        <prov deletion-status="spent" id="DLM3016658" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">15</label>
           <heading>Auckland Regional Holdings</heading>
-          <prov.body>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">1</label>
-              <para>
-                <text>This section applies only if Auckland Regional Holdings (<emphasis style="bold">ARH</emphasis>) is not dissolved under <citation jurisdiction="nz">section 38 or 43</citation>  of the Reorganisation Act.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">2</label>
-              <para>
-                <text>ARH continues its existence, on and from 1 November 2010,—</text>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">a</label>
-                  <para>
-                    <text>as a body corporate; and</text>
-                  </para>
-                </label-para>
-                <label-para skeleton="no">
-                  <label auto.number="no" denominator="yes">b</label>
-                  <para>
-                    <text>as a council-controlled organisation of the Auckland Council.</text>
-                  </para>
-                </label-para>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">3</label>
-              <para>
-                <text>Any rules made under <citation jurisdiction="nz"><extref href="DLM300994">section 23(4)</extref></citation> of the Local Government (Auckland) Amendment Act 2004 in relation to ARH must be treated, on and from 1 November 2010, as part of the constitution of ARH until the rule or rules are amended or replaced by the Auckland Council.</text>
-              </para>
-            </subprov>
-            <subprov skeleton="no">
-              <label auto.number="no" denominator="yes">4</label>
-              <para>
-                <text><citation jurisdiction="nz">Subsection (3)</citation> applies despite the repeal of the <citation jurisdiction="nz"><extref href="DLM300913">Local Government (Auckland) Amendment Act 2004</extref></citation> (which established Auckland Regional Holdings) by <citation jurisdiction="nz"><intref href="DLM3016880">section 113(1)</intref></citation> of this Act.</text>
-              </para>
-            </subprov>
-          </prov.body>
+          <prov.body/>
+          <notes>
+            <history>
+              <history-note id="DLM3369304"><amended-provision>Section 15</amended-provision>: <amending-operation>spent</amending-operation>, on <amendment-date>1 November 2010</amendment-date>, pursuant to <amending-provision href="DLM3048883">section 43(2)</amending-provision> of the <amending-leg>Local Government (Tamaki Makaurau Reorganisation) Act 2009</amending-leg> (2009 No 13) and the <amending-provision href="DLM3253716">Local Government (Tamaki Makaurau Reorganisation) Terminating Organisations Order 2010</amending-provision> (SR 2010/359).</history-note>
+            </history>
+          </notes>
         </prov>
         <prov id="DLM3016659" irdnumbering="no" skeleton="no" toc="yes">
           <label auto.number="no" denominator="yes">16</label>
@@ -4771,7 +4746,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2009-10-08" id="DLM3016823" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2009-10-08" id="DLM3016823" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">3</label>
         <heading>Savings and transitional provisions relating to local authorities other than Auckland Council</heading>
         <prov id="DLM3016824" irdnumbering="no" skeleton="no" toc="yes">
@@ -5098,10 +5073,10 @@
         </prov>
       </subpart>
     </part>
-    <part date.instructed="2009-10-08" id="DLM3016841" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2010-06-15" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" stage="in-force" year="2010" prospective.consolidation="F">
+    <part date.instructed="2009-10-08" id="DLM3016841" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2010-06-15" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Transitional provisions relating to employment</heading>
-      <subpart date.instructed="2009-10-08" id="DLM3016842" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2009-10-08" id="DLM3016842" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Preliminary matters</heading>
         <prov id="DLM3016843" irdnumbering="no" skeleton="no" toc="yes">
@@ -5467,7 +5442,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2009-10-08" id="DLM3016853" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2009-10-08" id="DLM3016853" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">2</label>
         <heading>Review of employment positions</heading>
         <prov id="DLM3016854" irdnumbering="no" skeleton="no" toc="yes">
@@ -5741,7 +5716,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2009-10-08" id="DLM3016857" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2009-10-08" id="DLM3016857" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">3</label>
         <heading>Redundancy and other compensation</heading>
         <prov id="DLM3016858" irdnumbering="no" skeleton="no" toc="yes">
@@ -6234,7 +6209,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2009-10-08" id="DLM3016872" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2009-10-08" id="DLM3016872" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">4</label>
         <heading>Related matters</heading>
         <prov id="DLM3016873" irdnumbering="no" skeleton="no" toc="yes">
@@ -6310,7 +6285,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2009-10-08" id="DLM3016876" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2009-10-08" id="DLM3016876" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">5</label>
         <heading>Collective bargaining and collective agreements</heading>
         <prov id="DLM3016877" irdnumbering="no" skeleton="no" toc="yes">
@@ -6531,7 +6506,7 @@
         </prov>
       </subpart>
     </part>
-    <part date.instructed="2009-10-08" id="DLM3016879" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2010-06-15" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" stage="in-force" year="2010" prospective.consolidation="F">
+    <part date.instructed="2009-10-08" id="DLM3016879" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" toc="yes" date.first.valid="2010-06-15" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Amendments and repeals</heading>
       <prov id="DLM3016880" irdnumbering="no" skeleton="no" toc="yes">
@@ -6845,7 +6820,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule date.instructed="2009-10-08" id="DLM3016882" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="37" act.type="public" date.as.at="2010-06-14" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="in-force" year="2010" prospective.consolidation="F">
+    <schedule date.instructed="2009-10-08" id="DLM3016882" in.amend="false" instructing.office="Internal Affairs" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="37" act.type="public" date.as.at="2010-11-01" date.assent="2010-06-14" date.first.valid="2010-06-15" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes"> </label>
       <empowering-prov>
         <citation jurisdiction="nz">s 113(1)</citation>
@@ -8316,7 +8291,7 @@
           <schedule.amendments.group2 id="DLM3016967" toc="yes">
             <heading>Auckland City Council (Remuera Shopping Development) Empowering Act 1975 (1975 No 4 (L))</heading>
             <para>
-              <text>Heading to <citation jurisdiction="nz"><extref href="DLM71795">section 2</extref></citation>: omit <amend.in><emphasis style="bold">the Corporation's</emphasis></amend.in> and substitute <amend.in><emphasis style="bold">Auckland Council's</emphasis></amend.in>.</text>
+              <text>Heading to <citation jurisdiction="nz"><extref href="DLM71795">section 2</extref></citation>: omit <amend.in quote="1"><emphasis style="bold">the Corporation's</emphasis></amend.in> and substitute <amend.in quote="1"><emphasis style="bold">Auckland Council's</emphasis></amend.in>.</text>
             </para>
             <para>
               <text><citation jurisdiction="nz"><extref href="DLM71795">Section 2</extref></citation>: omit <amend.in quote="1">Corporation</amend.in> in each place where it appears and substitute in each case <amend.in quote="1">Auckland Council</amend.in>.</text>
@@ -8413,7 +8388,7 @@
               <text>Heading to <citation jurisdiction="nz"><extref href="DLM32736">section 7</extref></citation>: omit <amend.in quote="1"><emphasis style="bold">Borough</emphasis></amend.in> and substitute <amend.in quote="1"><emphasis style="bold">Auckland Council</emphasis></amend.in>.</text>
             </para>
             <para>
-              <text><citation jurisdiction="nz"><extref href="DLM32736">Section 7</extref></citation>: omit <amend.in quote="1">borough or boroughs for the time being having control of the said land</amend.in> and substitute <amend.in>Auckland Council</amend.in>.</text>
+              <text><citation jurisdiction="nz"><extref href="DLM32736">Section 7</extref></citation>: omit <amend.in quote="1">borough or boroughs for the time being having control of the said land</amend.in> and substitute <amend.in quote="1">Auckland Council</amend.in>.</text>
             </para>
           </schedule.amendments.group2>
           <schedule.amendments.group2 id="DLM3016978" toc="yes">
@@ -8627,7 +8602,7 @@
               <text><citation jurisdiction="nz"><extref href="DLM1140075">Section 21(1)(d)</extref></citation>: omit <amend.in quote="1">Electoral College</amend.in> and substitute <amend.in quote="1">Auckland Council</amend.in>.</text>
             </para>
             <para>
-              <text><citation jurisdiction="nz"><extref href="DLM1140075">Section 21(1)(g)</extref></citation>: omit <amend.in quote="1">maximum total levy</amend.in> and substitute <amend.in>maximum levy</amend.in>.</text>
+              <text><citation jurisdiction="nz"><extref href="DLM1140075">Section 21(1)(g)</extref></citation>: omit <amend.in quote="1">maximum total levy</amend.in> and substitute <amend.in quote="1">maximum levy</amend.in>.</text>
             </para>
             <para>
               <text><citation jurisdiction="nz"><extref href="DLM1140075">Section 21(1)(h)</extref></citation>: omit <amend.in quote="1">Electoral College</amend.in> and substitute <amend.in quote="1">Auckland Council</amend.in>.</text>
@@ -8648,7 +8623,7 @@
               <text><citation jurisdiction="nz"><extref href="DLM1140081">Section 25(4)</extref></citation>: omit <amend.in quote="1">total</amend.in>.</text>
             </para>
             <para>
-              <text><citation jurisdiction="nz"><extref href="DLM1140082">Section 26(1)</extref></citation>: omit <amend.in>chairpersons</amend.in> and substitute <amend.in>chairperson</amend.in>.</text>
+              <text><citation jurisdiction="nz"><extref href="DLM1140082">Section 26(1)</extref></citation>: omit <amend.in quote="1">chairpersons</amend.in> and substitute <amend.in quote="1">chairperson</amend.in>.</text>
             </para>
             <para>
               <text>Heading to <citation jurisdiction="nz"><extref href="DLM1140082">section 26</extref></citation>: omit <amend.in quote="1"><emphasis style="bold">Electoral College</emphasis></amend.in> and substitute <amend.in quote="1"><emphasis style="bold">Auckland Council</emphasis></amend.in>.</text>
@@ -9353,7 +9328,7 @@
               <text><citation jurisdiction="nz"><extref href="DLM73266">Section 4(3)</extref></citation>: omit <amend.in quote="1">by the Council</amend.in>.</text>
             </para>
             <para>
-              <text><citation jurisdiction="nz"><extref href="DLM73274">Section 12</extref></citation>: omit <amend.in>the Council</amend.in> and substitute <amend.in quote="1">the Rodney County Council</amend.in>.</text>
+              <text><citation jurisdiction="nz"><extref href="DLM73274">Section 12</extref></citation>: omit <amend.in quote="1">the Council</amend.in> and substitute <amend.in quote="1">the Rodney County Council</amend.in>.</text>
             </para>
           </schedule.amendments.group2>
           <schedule.amendments.group2 id="DLM3017030" toc="yes">
@@ -9601,13 +9576,13 @@
               <follow-text space-before="no">.</follow-text>
             </para>
             <para>
-              <text><citation jurisdiction="nz"><extref href="DLM68247">Heading to section 5</extref></citation>: omit <amend.in quote="1"><emphasis style="bold">Waitemata County</emphasis></amend.in> and substitute <amend.in><emphasis style="bold">Auckland</emphasis></amend.in>.</text>
+              <text><citation jurisdiction="nz"><extref href="DLM68247">Heading to section 5</extref></citation>: omit <amend.in quote="1"><emphasis style="bold">Waitemata County</emphasis></amend.in> and substitute <amend.in quote="1"><emphasis style="bold">Auckland</emphasis></amend.in>.</text>
             </para>
             <para>
-              <text><citation jurisdiction="nz"><extref href="DLM68247">Section 5(1)</extref></citation>: omit <amend.in quote="1">district of the County of Waitemata</amend.in> and substitute <amend.in>Auckland</amend.in>.</text>
+              <text><citation jurisdiction="nz"><extref href="DLM68247">Section 5(1)</extref></citation>: omit <amend.in quote="1">district of the County of Waitemata</amend.in> and substitute <amend.in quote="1">Auckland</amend.in>.</text>
             </para>
             <para>
-              <text><citation jurisdiction="nz"><extref href="DLM68247">Section 5(2)</extref></citation>: omit <amend.in quote="1">County Clerk or other responsible officer of the County Council</amend.in> and substitute <amend.in>chief executive or other responsible officer of the Council</amend.in>.</text>
+              <text><citation jurisdiction="nz"><extref href="DLM68247">Section 5(2)</extref></citation>: omit <amend.in quote="1">County Clerk or other responsible officer of the County Council</amend.in> and substitute <amend.in quote="1">chief executive or other responsible officer of the Council</amend.in>.</text>
             </para>
           </schedule.amendments.group2>
         </schedule.amendments.group1>
@@ -9723,22 +9698,200 @@
       </schedule.amendments>
     </schedule>
   </schedule.group>
-  <end id="DLM3017064">
-    <leg-history id="DLM3017065">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2010-06-02</date>
-        <description>Divided from Local Government (Auckland Law Reform) Bill (Bill 112–2) by committee of the whole House as Bill 112–3C</description>
-      </history-item>
-      <history-item>
-        <date>2010-06-03</date>
-        <description>Third reading</description>
-      </history-item>
-      <history-item>
-        <date>2010-06-14</date>
-        <description>Royal assent</description>
-      </history-item>
-    </leg-history>
-    <admin-office>This Act is administered by the <ministry>Department of Internal Affairs</ministry>.</admin-office>
+  <end id="DLM3369305">
+    <end.reprint-note id="DLM3369306">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the Local Government (Auckland Transitional Provisions) Act 2010. The reprint incorporates all the amendments to the Act as at 1 November 2010, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM3253716">Local Government (Tamaki Makaurau Reorganisation) Terminating Organisations Order 2010</extref> (SR 2010/359)</citation>
+          </reprint.amend>
+          <reprint.amend>
+            <citation jurisdiction="nz">Local Government (Tamaki Makaurau Reorganisation) Act 2009 (2009 No 13): <extref href="DLM3048883">section 43(2)</extref></citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
   </end>
 </act>
