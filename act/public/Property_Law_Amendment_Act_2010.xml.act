@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2008-03-17" id="DLM3043300" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="76" act.type="public" date.assent="2010-07-06" date.first.valid="2010-07-07" stage="in-force" year="2010" prospective.consolidation="F">
+  <cover id="DLM3043301">
+    <title>Property Law Amendment Act 2010</title>
+    <assent>2010-07-06</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM3043302">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM3043303" prov-type="clause">
+    <prov id="DLM3041206" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act is the Property Law Amendment Act 2010.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM3041207" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM3043304" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act amends the <citation jurisdiction="nz"><extref href="DLM968961">Property Law Act 2007</extref></citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <amends-note>
+          <amends-effective>
+            <date>2010-07-07</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <extref href="DLM968961">Property Law Act 2007</extref>
+            </citation>
+          </amends-affect>
+        </amends-note>
+      </notes>
+    </prov>
+    <prov id="DLM3043305" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading>When mortgagee becomes mortgagee in possession</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM969312">Section 139(1)</extref></citation> is amended by repealing paragraph (c) and substituting the following paragraph:</text>
+            <amend increment="1">
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>the date of the mortgagee's application to the court for the order if—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para>
+                      <text>the mortgagee applies to the court for an order for possession of the land or goods; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para>
+                      <text>the court, in response to the mortgagee's application, makes the order.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+            </amend>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM969312">Section 139</extref></citation> is amended by adding the following subsection:</text>
+            <amend>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">3</label>
+                <para>
+                  <text>Despite subsections (1) and (2), sections 156, 162, and 163 apply to a mortgagee who becomes a mortgagee in possession under <citation jurisdiction="nz">subsection (1)(c)</citation> of this section—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>as if the references in sections 156(1) and 162(1) to the mortgagee's entering into possession were references to the making of the order for possession of the land or goods by the mortgagee; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>as if the references in sections 156(1)(b) and (c) and 163(1)(a) to the date of entry into possession were references to the date of the making of that order.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+  </body>
+  <end id="DLM3043306">
+    <leg-history id="DLM3043307">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2010-06-29</date>
+        <description>Divided from Statutes Amendment Bill by committee of the whole House, third reading</description>
+      </history-item>
+      <history-item>
+        <date>2010-07-06</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the <ministry>Ministry of Justice</ministry>.</admin-office>
+  </end>
+</act>
