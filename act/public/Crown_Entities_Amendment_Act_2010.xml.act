@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2008-03-17" id="DLM3041600" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="60" act.type="public" date.assent="2010-07-06" date.first.valid="2010-07-07" stage="in-force" year="2010" prospective.consolidation="F">
+  <cover id="DLM3041601">
+    <title>Crown Entities Amendment Act 2010</title>
+    <assent>2010-07-06</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM3041602">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM3041603" prov-type="clause">
+    <prov id="DLM3039812" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act is the Crown Entities Amendment Act 2010.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM3039813" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM3041604" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act amends the <citation jurisdiction="nz"><extref href="DLM329630">Crown Entities Act 2004</extref></citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <amends-note>
+          <amends-effective>
+            <date>2010-07-07</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <extref href="DLM329630">Crown Entities Act 2004</extref>
+            </citation>
+          </amends-affect>
+        </amends-note>
+      </notes>
+    </prov>
+    <prov id="DLM3041605" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading>Method of appointment of members</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">1</label>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM329954">Section 28(3)</extref></citation> is amended by omitting <amend.in>; and</amend.in> in the second place where it appears and also by repealing paragraph (c).</text>
+          </para>
+        </subprov>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes">2</label>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM329954">Section 28</extref></citation> is amended by adding the following subsection:</text>
+            <amend>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4</label>
+                <para>
+                  <text>The responsible Minister must ensure that the following are notified in the <emphasis style="italic">Gazette</emphasis> as soon as is reasonably practicable after an appointment is made:</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>the name of the appointee and the statutory entity; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>the date on which the appointment takes effect; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>the term of the appointment.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+  </body>
+  <end id="DLM3041606">
+    <leg-history id="DLM3041607">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2010-06-29</date>
+        <description>Divided from Statutes Amendment Bill by committee of the whole House, third reading</description>
+      </history-item>
+      <history-item>
+        <date>2010-07-06</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the <ministry>State Services Commission</ministry>.</admin-office>
+  </end>
+</act>
