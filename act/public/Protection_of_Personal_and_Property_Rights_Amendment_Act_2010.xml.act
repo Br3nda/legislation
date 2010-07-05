@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2008-03-17" id="DLM3043400" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="77" act.type="public" date.assent="2010-07-06" date.first.valid="2010-07-07" stage="in-force" year="2010" prospective.consolidation="F">
+  <cover id="DLM3043401">
+    <title>Protection of Personal and Property Rights Amendment Act 2010</title>
+    <assent>2010-07-06</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM3043402">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM3043403" prov-type="clause">
+    <prov id="DLM3041208" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act is the Protection of Personal and Property Rights Amendment Act 2010.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM3041209" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="no">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM3043404" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Principal Act amended</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act amends the <citation jurisdiction="nz"><extref href="DLM126527">Protection of Personal and Property Rights Act 1988</extref></citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+      <notes>
+        <amends-note>
+          <amends-effective>
+            <date>2010-07-07</date>
+          </amends-effective>
+          <amends-affect>
+            <citation jurisdiction="nz">
+              <extref href="DLM126527">Protection of Personal and Property Rights Act 1988</extref>
+            </citation>
+          </amends-affect>
+        </amends-note>
+      </notes>
+    </prov>
+    <prov id="DLM3043405" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">4</label>
+      <heading>Creation of enduring power of attorney</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM1634655">Section 94A</extref></citation> is amended by inserting the following subsection after subsection (4):</text>
+            <amend>
+              <subprov skeleton="no">
+                <label auto.number="no" denominator="yes">4A</label>
+                <para>
+                  <text>If 2 people appoint each other as attorney, a witness to the signature of one person as donor (<emphasis style="bold">witness A</emphasis>) does not fail to be independent for the purposes of subsection (4) by reason only that the witness of the other person as donor (witness B)—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>is a lawyer or legal executive in the same firm as witness A; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>is an officer or employee of the same trustee corporation as witness A.</text>
+                    </para>
+                  </label-para>
+                </para>
+              </subprov>
+            </amend>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+  </body>
+  <end id="DLM3043406">
+    <leg-history id="DLM3043407">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2010-06-29</date>
+        <description>Divided from Statutes Amendment Bill by committee of the whole House, third reading</description>
+      </history-item>
+      <history-item>
+        <date>2010-07-06</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the <ministry>Ministry of Justice</ministry>.</admin-office>
+  </end>
+</act>
