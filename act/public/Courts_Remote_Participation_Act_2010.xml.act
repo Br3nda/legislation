@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2009-06-26" id="DLM2600700" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="94" act.type="public" date.assent="2010-07-06" date.first.valid="2010-07-07" stage="in-force" year="2010" prospective.consolidation="F">
+  <cover id="DLM2600709">
+    <title>Courts (Remote Participation) Act 2010</title>
+    <assent>2010-07-06</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM2600710">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM2600711" prov-type="clause">
+    <prov id="DLM2600712" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act is the Courts (Remote Participation) Act <citation jurisdiction="nz">2010</citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM2600713" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <part date.instructed="2009-06-26" id="DLM2600714" in.amend="false" instructing.office="Justice" irdnumbering="no" toc="yes" date.first.valid="2010-07-07" act.no="94" act.type="public" date.assent="2010-07-06" stage="in-force" year="2010" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Preliminary provisions</heading>
+      <prov id="DLM2600715" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">3</label>
+        <heading>Interpretation</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>In this Act, unless the context otherwise requires,—</text>
+              <def-para id="DLM2600716">
+                <para>
+                  <text><def-term id="DLM2600717">audio-visual link</def-term>, or <def-term id="DLM2600718">AVL</def-term>, in relation to a participant's appearance at any proceeding, means facilities that enable both audio and visual communication between participants, when some or all of them are not physically present at the place of hearing for all or part of the proceeding</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600719">
+                <para>
+                  <text><def-term id="DLM2600720">civil proceedings</def-term> means any proceedings in a court, other than criminal proceedings</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600721">
+                <para>
+                  <text><def-term id="DLM2600722">Community Magistrate</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM242781">section 2(1)</extref></citation> of the District Courts Act 1947</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600723">
+                <para>
+                  <text><def-term id="DLM2600724">court</def-term> means a New Zealand court</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600725">
+                <para>
+                  <text><def-term id="DLM2600726">Court of Appeal</def-term> means the Court of Appeal of New Zealand constituted under <citation jurisdiction="nz"><extref href="DLM146926">Part 2</extref></citation> of the Judicature Act 1908</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600727">
+                <para>
+                  <text><def-term id="DLM2600728">criminal procedural matter</def-term> means any matter, in a criminal proceeding, in respect of which no evidence is to be called</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600729">
+                <para>
+                  <text><def-term id="DLM2600730">criminal substantive matter</def-term> means any matter, in a criminal proceeding, in respect of which evidence is to be called</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600731">
+                <para>
+                  <text><def-term id="DLM2600732">District Court</def-term> includes—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>a Family Court and a Youth Court; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>a District Court sitting in its admiralty jurisdiction</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM2600733">
+                <para>
+                  <text><def-term id="DLM2600734">High Court</def-term> includes the High Court sitting in its admiralty jurisdiction, or sitting as a permanent Prize Court under the jurisdiction conferred by <citation jurisdiction="nz"><extref href="DLM411661">section 8</extref></citation> of the Admiralty Act 1973</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600735">
+                <para>
+                  <text><def-term id="DLM2600736">Judge</def-term> means a Judge of any court</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600737">
+                <para>
+                  <text><def-term id="DLM2600738">judicial officer</def-term> means a Judge, a Community Magistrate, or a Justice</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600739">
+                <para>
+                  <text><def-term id="DLM2600740">Justice</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM316197">section 2</extref></citation> of the Justices of the Peace Act 1957</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600741">
+                <para>
+                  <text><def-term id="DLM2600742">Minister</def-term> means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600743">
+                <para>
+                  <text><def-term id="DLM2600744">New Zealand court</def-term> means—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>the Supreme Court, the Court of Appeal, the High Court, or a District Court; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>any of the following specialist courts: the Court Martial of New Zealand established under <citation jurisdiction="nz"><extref href="DLM1001934">section 8</extref></citation> of the Court Martial Act 2007, the Court Martial Appeal Court constituted by the <citation jurisdiction="nz"><extref href="DLM282966">Court Martial Appeals Act 1953</extref></citation>, the Employment Court, the Environment Court, the Maori Appellate Court, and the Maori Land Court</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM2600745">
+                <para>
+                  <text><def-term id="DLM2600746">participant</def-term>, in relation to a proceeding, means a person who is, in that proceeding, any of the following:</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>a party:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>the defendant:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>counsel:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">d</label>
+                    <para>
+                      <text>a witness:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">e</label>
+                    <para>
+                      <text>a member of the jury:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">f</label>
+                    <para>
+                      <text>a judicial officer who is presiding over the proceeding:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">g</label>
+                    <para>
+                      <text>a Registrar who is presiding over the proceeding:</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">h</label>
+                    <para>
+                      <text>any other person directly involved in the proceeding whom the judicial officer or Registrar considers appropriate</text>
+                    </para>
+                  </label-para>
+                </para>
+              </def-para>
+              <def-para id="DLM2600747">
+                <para>
+                  <text><def-term id="DLM2600748">proceeding</def-term> means any proceeding in a New Zealand court</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600749">
+                <para>
+                  <text><def-term id="DLM2600750">Registrar</def-term> includes a Deputy Registrar</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600751">
+                <para>
+                  <text><def-term id="DLM2600752">Supreme Court</def-term> has the same meaning as in <citation jurisdiction="nz"><extref href="DLM214036">section 4</extref></citation> of the Supreme Court Act 2003</text>
+                </para>
+              </def-para>
+              <def-para id="DLM2600753">
+                <para>
+                  <text><def-term id="DLM2600754">witness</def-term> means a person who gives evidence and is able to be cross-examined in a proceeding.</text>
+                </para>
+              </def-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600755" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading>Act binds the Crown</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>This Act binds the Crown.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+    <part date.instructed="2009-06-26" id="DLM2600756" in.amend="false" instructing.office="Justice" irdnumbering="no" toc="yes" date.first.valid="2010-07-07" act.no="94" act.type="public" date.assent="2010-07-06" stage="in-force" year="2010" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Use of audio-visual links in proceedings</heading>
+      <prov id="DLM2600757" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">5</label>
+        <heading>General criteria for allowing use of audio-visual links</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>A judicial officer or Registrar must consider the following criteria when he or she is making a determination under this Act whether or not to allow the use of AVL for the appearance of any participant in a proceeding:</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the nature of the proceeding:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>the availability and quality of the technology that is to be used:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>the potential impact of the use of the technology on the effective maintenance of the rights of other parties to the proceeding, including—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para>
+                      <text>the ability to assess the credibility of witnesses and the reliability of evidence presented to the court; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para>
+                      <text>the level of contact with other participants:</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">d</label>
+                <para>
+                  <text>any other relevant matters.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600758" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">6</label>
+        <heading>Additional criteria for allowing use of audio-visual links in criminal proceedings</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>A judicial officer or Registrar must also consider, when he or she is required to determine under this Act whether or not to allow the use of AVL for the appearance of any participant in a criminal proceeding, the potential impact of the use of the technology on the effective maintenance of the right of the defendant to a fair trial, and on his or her rights associated with the hearing, and, in particular,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>the ability of the defendant—</text>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">i</label>
+                    <para>
+                      <text>to comprehend the proceedings; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">ii</label>
+                    <para>
+                      <text>to participate effectively in the conduct of his or her defence; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">iii</label>
+                    <para>
+                      <text>to consult and instruct counsel privately; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">iv</label>
+                    <para>
+                      <text>to access relevant evidence; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">v</label>
+                    <para>
+                      <text>to examine the witnesses for the prosecution; and</text>
+                    </para>
+                  </label-para>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>the level of contact the defendant has with other participants; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>any adverse impression that may arise through the defendant or any other participant appearing by means of AVL, and whether that adverse impression may be mitigated.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600759" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">7</label>
+        <heading>Use of audio-visual links in civil proceedings</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>AVL may be used in a civil proceeding for the appearance of a participant in the proceeding if a judicial officer or Registrar determines to allow its use for the appearance of that participant.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>A judicial officer or Registrar may make a determination under <citation jurisdiction="nz">subsection (1)</citation>—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>on his or her own motion; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>on the application of any participant in the proceeding.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>A determination under <citation jurisdiction="nz">subsection (1)</citation> must—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>be made in accordance with the criteria in <citation jurisdiction="nz"><intref href="DLM2600757">section 5</intref></citation>; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>take into account whether or not the parties consent to the use of AVL for the appearance of the participant.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600760" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">8</label>
+        <heading>Use of audio-visual links in criminal procedural matters</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>Judicial officers and Registrars must determine whether to require any 1 or more of the participants in a criminal procedural matter to use AVL for his or her appearance, if AVL is available for that appearance.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>A judicial officer may determine not to allow the use of AVL for the appearance of a participant in a criminal procedural matter, despite a previous requirement under <citation jurisdiction="nz">subsection (1)</citation> made by a Registrar or a judicial officer.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text>A determination under <citation jurisdiction="nz">subsection (1) or (2)</citation> may be made on the objection of any party to the proceeding or on the motion of the judicial officer.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">4</label>
+            <para>
+              <text>Any determination made under this section must be made in accordance with the criteria in <citation jurisdiction="nz"><intref href="DLM2600757">sections 5</intref> and <intref href="DLM2600758">6</intref></citation>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600761" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">9</label>
+        <heading>Use of audio-visual links in criminal substantive matters</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>AVL must not be used in any criminal substantive matter for the appearance of a participant unless a judicial officer determines to allow its use for the appearance of that participant in the proceeding—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>in accordance with the criteria in <citation jurisdiction="nz"><intref href="DLM2600757">sections 5</intref> and <intref href="DLM2600758">6</intref></citation>; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>taking into account whether the parties to the proceeding consent to the use.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Despite <citation jurisdiction="nz">subsection (1)</citation>, AVL must not be used for the appearance of the defendant in a trial that determines his or her guilt or innocence unless the defendant consents to that use.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600762" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">10</label>
+        <heading>Judicial officer or Registrar may vary or revoke determination</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>A judicial officer may at any time vary or revoke a determination to allow the use of AVL for the appearance of a participant if the judicial officer considers that any reason for the determination, with respect to the criteria in <citation jurisdiction="nz">section 5</citation>, or <citation jurisdiction="nz"><intref href="DLM2600757">sections 5</intref> and <intref href="DLM2600758">6</intref></citation> (as the case may be), no longer applies.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>A Registrar may at any time vary or revoke his or her determination, or the determination of another Registrar, to allow the use of AVL for the appearance of a participant if the Registrar considers that any reason for the determination, with respect to the criteria in <citation jurisdiction="nz"><intref href="DLM2600757">section 5</intref></citation>, or <citation jurisdiction="nz"><intref href="DLM2600757">sections 5</intref> and <intref href="DLM2600758">6</intref></citation>, as the case may be, no longer applies.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM3004802" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">11</label>
+        <heading>Judicial officer or Registrar may make direction</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>A judicial officer or Registrar who makes a determination under this Act in relation to the use of AVL for the appearance of a participant in a proceeding may make a direction in accordance with that determination.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600763" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">12</label>
+        <heading>Direction to jury</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>In a proceeding tried with a jury, the Judge may direct the jury that it must not draw any adverse inference against any party to the proceeding because of the use of AVL in the proceeding.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600764" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">13</label>
+        <heading>Determining place of hearing</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>The place of hearing of any proceeding in which 1 or more of the participants appears by the use of AVL is the same as if none of the participants in that proceeding were to appear by the use of AVL.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600765" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">14</label>
+        <heading>Attendance at hearing</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>A participant who appears at a proceeding, or part of a proceeding, by the use of AVL under this Act is regarded as being present in the place of hearing at the proceeding, or that part of the proceeding, for the duration of that use.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz">Subsection (1)</citation> applies whether or not the participant is in New Zealand.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600766" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">15</label>
+        <heading>Documents and other exhibits when person appears at proceeding by use of AVL</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>A document may be put to or by a person appearing at a proceeding by the use of AVL, or another exhibit may be shown to or by that person,—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>by transmitting the document or other exhibit electronically; or </text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>by use of AVL; or</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>by any other manner that the judicial officer or Registrar thinks fit.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600767" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">16</label>
+        <heading>Relationship with other enactments</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>The appearance by a participant at a proceeding by the use of AVL to the extent that is authorised by this Act fulfils the corresponding legal requirements in relation to his or her appearance in person at the proceeding under every enactment and rule of court, unless that other enactment or rule of court expressly provides otherwise.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>If an enactment or rule of court provides for the appearance by a participant at a proceeding by the use of AVL or video link in a court proceeding, then this Act must be read subject to that enactment or rule of court. </text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600768" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">17</label>
+        <heading>AVL does not affect exercise of judicial officer's powers</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>To avoid doubt, a judicial officer or Registrar presiding in a proceeding in which AVL is used has all the powers that he or she would have if the participant appeared in person. </text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600769" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">18</label>
+        <heading>Regulations</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>prescribing the procedure to be followed, the type of equipment to be used, and the arrangements to be made where a person is to appear by the use of AVL:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>prescribing any method or technology of AVL as one which is suitable for use as AVL under this Act:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">c</label>
+                <para>
+                  <text>prescribing forms for the purposes of this Act:</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">d</label>
+                <para>
+                  <text>providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>Before making a recommendation under <citation jurisdiction="nz">subsection (1)(b)</citation>, the Minister—</text>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">a</label>
+                <para>
+                  <text>must be satisfied that the method or technology is appropriate for use in proceedings; and</text>
+                </para>
+              </label-para>
+              <label-para skeleton="no">
+                <label auto.number="no" denominator="yes">b</label>
+                <para>
+                  <text>may consult with other Ministers as he or she considers appropriate.</text>
+                </para>
+              </label-para>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2600770" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">19</label>
+        <heading>Amendment to Evidence Act 2006</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text>This section amends the <citation jurisdiction="nz"><extref href="DLM393462">Evidence Act 2006</extref></citation>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text>The following section is inserted after <citation jurisdiction="nz"><extref href="DLM393934">section 102</extref></citation>:</text>
+              <amend quote="1">
+                <prov id="DLM3004803" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">102A</label>
+                  <heading>Relationship of Courts (Remote Participation) Act 2010 to sections 103 to 106</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="yes"/>
+                      <para>
+                        <text>Nothing in the Courts (Remote Participation) Act <citation jurisdiction="nz">2010</citation> affects or limits the ability of—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>a party to apply under section 103(1) for evidence to be given in an alternative way; or</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>a Judge to make directions under that subsection.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+        <notes>
+          <amends-note>
+            <amends-effective>
+              <date>2010-07-07</date>
+            </amends-effective>
+            <amends-affect>
+              <citation jurisdiction="nz">
+                <extref href="DLM393462">Evidence Act 2006</extref>
+              </citation>
+            </amends-affect>
+          </amends-note>
+        </notes>
+      </prov>
+    </part>
+  </body>
+  <end id="DLM3004804">
+    <leg-history id="DLM3004805">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2009-12-08</date>
+        <description>Introduction (Bill 107–1)</description>
+      </history-item>
+      <history-item>
+        <date>2010-03-23</date>
+        <description>First reading and referral to Justice and Electoral Committee</description>
+      </history-item>
+      <history-item>
+        <date>2010-05-31</date>
+        <description>Reported from Justice and Electoral Committee (Bill 107–2)</description>
+      </history-item>
+      <history-item>
+        <date>2010-06-29</date>
+        <description>Second reading</description>
+      </history-item>
+      <history-item>
+        <date>2010-06-30</date>
+        <description>Committee of the whole House (Bill 107–3)</description>
+      </history-item>
+      <history-item>
+        <date>2010-07-01</date>
+        <description>Third reading</description>
+      </history-item>
+      <history-item>
+        <date>2010-07-06</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the Ministry of Justice.</admin-office>
+  </end>
+</act>
