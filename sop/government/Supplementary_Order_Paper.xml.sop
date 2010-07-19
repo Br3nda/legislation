@@ -1,82 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3313800" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="172">
-  <date>Tuesday, 19 October 2010</date>
-  <billref>Child and Family Protection Bill</billref>
-  <body id="DLM3313801">
-    <heading>Proposed amendments</heading>
-    <motion>Hon Simon Power, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM3313802">
-      <clause.ref>Clause 2</clause.ref>
-      <sop.para>
-        <text>To omit this clause (lines 3 to 5 on page 3) and substitute the following clause:</text>
-        <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3313803" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">2</label>
-            <heading>Commencement</heading>
-            <prov.body>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">1</label>
-                <para>
-                  <text><changeable><citation jurisdiction="nz">Part 3</citation></changeable> comes into force on the day after the date on which it receives the Royal assent.</text>
-                </para>
-              </subprov>
-              <subprov skeleton="no">
-                <label auto.number="no" denominator="yes">2</label>
-                <para>
-                  <text>The rest of this Act comes into force 3 months after the date on which it receives the Royal assent.</text>
-                </para>
-              </subprov>
-            </prov.body>
-          </prov>
-        </instrument.amend>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3313804">
-      <clause.ref>Clause 4(b)</clause.ref>
-      <sop.para>
-        <text>To omit <amend.in quote="1">court</amend.in> (line 16 on page 3) and substitute <amend.in quote="1">Court</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3313805">
-      <clause.ref>Clause 8</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">New section 33(1A)(a)</emphasis>: to omit <amend.in quote="1">court</amend.in> (line 11 on page 7) and substitute <amend.in quote="1">Court</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3313806">
-      <clause.ref>Clause 9</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">New section 36(2)(b)</emphasis>: to omit <amend.in quote="1">court</amend.in> (line 31 on page 7) and substitute <amend.in quote="1">Court</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">New section 36(3)</emphasis>: to omit <amend.in quote="1">court</amend.in> (line 34 on page 7) and substitute <amend.in quote="1">Court</amend.in>.</text>
-      </sop.para>
-      <sop.para>
-        <text><emphasis style="italic">New section 36(3)(b)</emphasis>: to omit <amend.in quote="1">court</amend.in> in each place where it appears (line 9 on page 8) and substitute in each case <amend.in quote="1">Court</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
-    <sop.amend id="DLM3313807">
-      <clause.ref>Clause 32</clause.ref>
-      <sop.para>
-        <text><emphasis style="italic">New section 27B(1)</emphasis>: to omit <amend.in quote="1">court</amend.in> in each place where it appears (lines 2 and 3 on page 16) and substitute in each case <amend.in quote="1">Court</amend.in>.</text>
-      </sop.para>
-    </sop.amend>
+<sop id="DLM2813300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" date.terminated="2010-07-20" terminated="superseded" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="114">
+  <date>Wednesday, 17 March 2010</date>
+  <billref>Infrastructure Bill</billref>
+  <body id="DLM2813301">
+    <heading>Proposed motion to divide Bill into 4 Bills</heading>
+    <motion>Hon Bill English, in Committee, to move as follows:</motion>
+    <sop.split>
+      <para>
+        <text>That the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, <emphasis style="italic">Part 1</emphasis>, and the <emphasis style="italic">Schedule</emphasis> be a separate Bill, and that for the enacting words, <emphasis style="italic">clauses 1 and 2</emphasis>, and the <emphasis style="italic">Part 1</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2813302" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act is the Utilities Access Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2813303" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 2</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 2</emphasis> heading and <emphasis style="italic">clause 19</emphasis> there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2813304" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Infrastructure (Amendments Relating to Utilities Access) Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2813305" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 3</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 3</emphasis> heading and <emphasis style="italic">clause 41</emphasis> there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2813306" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the New Zealand Railways Corporation Amendment Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2813307" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2813308" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">3</label>
+          <heading>Principal Act amended</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="yes" denominator="yes"/>
+              <para>
+                <text>This Act amends the New Zealand Railways Corporation Act 1981.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
+    <sop.split>
+      <para>
+        <text>That <emphasis style="italic">Part 4</emphasis> be a separate Bill, and that for the <emphasis style="italic">Part 4</emphasis> heading there be substituted the following enacting words and clauses:</text>
+      </para>
+      <sop.newenact>
+        <enactment>The Parliament of New Zealand enacts as follows: </enactment>
+        <prov id="DLM2813309" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">1</label>
+          <heading>Title</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act is the Affordable Housing: Enabling Territorial Authorities Act Repeal Act <changeable>2010</changeable>.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+        <prov id="DLM2813310" irdnumbering="no" skeleton="no" toc="yes">
+          <label auto.number="no" denominator="no">2</label>
+          <heading>Commencement</heading>
+          <prov.body>
+            <subprov skeleton="no">
+              <label auto.number="no" denominator="no"/>
+              <para>
+                <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+              </para>
+            </subprov>
+          </prov.body>
+        </prov>
+      </sop.newenact>
+    </sop.split>
   </body>
-  <explnote id="DLM3313808" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" pco.suffix="0002" stage="published" year="2010" raised.by="Government" sop.no="172">
+  <explnote id="DLM2813311" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2010-07-20" pco.suffix="0001" stage="published" year="2010" raised.by="Government" sop.no="114">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper amends the Child and Family Protection Bill to—</text>
+      <text>This Supplementary Order Paper divides the Infrastructure Bill into 4 Bills, each of which formed a Part of the original Bill. The 4 Bills are:</text>
       <list>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>amend the commencement date for <emphasis style="italic">Part 3</emphasis> of the Bill, from 3 months after the date on which it receives the Royal assent to the day after the date on which it receives the Royal assent:</text>
+            <text>the Utilities Access Bill:</text>
           </para>
         </item>
         <item>
           <label auto.number="no" denominator="yes"/>
           <para>
-            <text>correct minor typographical errors.</text>
+            <text>the Infrastructure (Amendments Relating to Utilities Access) Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the New Zealand Railways Corporation Amendment Bill:</text>
+          </para>
+        </item>
+        <item>
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>the Affordable Housing: Enabling Territorial Authorities Act Repeal Bill.</text>
           </para>
         </item>
       </list>
