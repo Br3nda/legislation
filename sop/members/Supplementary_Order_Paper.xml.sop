@@ -1,23 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3009100" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" date.terminated="2010-06-02" terminated="withdrawn" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="133">
-  <date>Tuesday, 1 June 2010</date>
-  <billref>Local Government (Auckland Law Reform) Bill</billref>
-  <body id="DLM3009101">
-    <heading>Proposed amendment</heading>
-    <motion>Hon Rahui Katene, in Committee, to move the following amendment:</motion>
-    <sop.amend id="DLM3009102">
-      <clause.ref>New clause 4B:</clause.ref>
+<sop id="DLM3047600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" date.terminated="2010-08-23" terminated="superseded" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="144">
+  <date>Tuesday, 22 June 2010</date>
+  <billref>Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Bill</billref>
+  <body id="DLM3047601">
+    <heading>Proposed amendments</heading>
+    <motion>John Boscawen, in Committee, to move the following amendments:</motion>
+    <sop.amend id="DLM3048400">
+      <clause.ref>Clause 2:</clause.ref>
       <sop.para>
-        <text>To insert the following clause after clause 4A (after line 7 on page 19):</text>
-        <instrument.amend close.quote="yes" open.quote="yes">
-          <prov id="DLM3009103" irdnumbering="no" quote="1" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes" quote="1">4B</label>
-            <heading>Principles of the Treaty of Waitangi</heading>
+        <text>Clause 2 is amended by adding the following subsection:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">13</label>
+            <para>
+              <text>Section 76A comes into force on 1 October 2010.</text>
+            </para>
+          </subprov>
+        </instrument.amend>
+      </sop.para>
+    </sop.amend>
+    <sop.amend id="DLM3047602">
+      <clause.ref>New clause 76A:</clause.ref>
+      <sop.para>
+        <text>To insert the following clause after clause 76:</text>
+        <instrument.amend close.quote="no" open.quote="no">
+          <prov id="DLM3047603" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="yes">76A</label>
+            <heading>Contribution rate</heading>
             <prov.body>
               <subprov skeleton="no">
-                <label auto.number="no" denominator="yes"/>
+                <label auto.number="no" denominator="no"/>
                 <para>
-                  <text>This Act must be interpreted and administered so as to give effect to the principles of the Treaty of Waitangi.</text>
+                  <text>Section 64 is amended by repealing subsection (1) and substituting the following subsection:</text>
+                  <amend>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="yes">1</label>
+                      <para>
+                        <text>The <changeable><citation jurisdiction="nz">contribution rate</citation></changeable>, in relation to an employee and to an employer and to each payment of salary or wages, is—</text>
+                        <label-para skeleton="no">
+                          <label auto.number="no" denominator="yes">a</label>
+                          <para>
+                            <text>2% of the employee's gross salary or wages, if––</text>
+                            <label-para skeleton="no">
+                              <label auto.number="no" denominator="yes">i</label>
+                              <para>
+                                <text>section 60(1)(a), (b) or (c) first applied in respect of the employee on or after 1 April 2009 and the employee has not given his or her employer a notice under subsection (2); or</text>
+                              </para>
+                            </label-para>
+                            <label-para skeleton="no">
+                              <label auto.number="no" denominator="yes">ii</label>
+                              <para>
+                                <text>section 66A applied in respect of the employee immediately before 1 April 2009; or</text>
+                              </para>
+                            </label-para>
+                          </para>
+                        </label-para>
+                        <label-para skeleton="no">
+                          <label auto.number="no" denominator="yes">b</label>
+                          <para>
+                            <text>4% of the employee's gross salary or wages, if section 60(1)(a), (b) or (c) first applied in respect of the employee before 1 April 2009 and the employee has not given his or her employer a notice under paragraph (b); or</text>
+                          </para>
+                        </label-para>
+                        <label-para skeleton="no">
+                          <label auto.number="no" denominator="yes">c</label>
+                          <para>
+                            <text>6% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate; or</text>
+                          </para>
+                        </label-para>
+                        <label-para skeleton="no">
+                          <label auto.number="no" denominator="yes">d</label>
+                          <para>
+                            <text>8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate; or</text>
+                          </para>
+                        </label-para>
+                        <label-para skeleton="no">
+                          <label auto.number="no" denominator="yes">e</label>
+                          <para>
+                            <text>10% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </amend>
                 </para>
               </subprov>
             </prov.body>
@@ -26,54 +90,10 @@
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3009104" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2010-06-02" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="133">
+  <explnote id="DLM3047604" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2010-08-23" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="144">
     <heading>Explanatory note</heading>
     <para>
-      <text>The purpose of the SOP is to amend the Local Government (Auckland Law Reform) Bill to ensure that—</text>
-      <list>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>coherence is given to the Government’s commitment to the partnership between Māori and the Crown, give legal effect to the commitment to the principles of the Treaty, to maintain Māori confidence in the Auckland area, and to accelerate progress towards social, cultural and economic development and wellbeing between Māori and non-Māori; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>a Treaty of Waitangi clause will provide a legitimate and substantive framework upon which decisions regarding Auckland will be considered; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>recognition is given to the annual review of relations released in March by the Human Rights Commission, which identified Māori representation in local government and an effective voice for Māori in the decisions of the new Auckland Council as being among the top ten race relations priorities; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>recognition is given to the Declaration of the Rights of Indigenous Peoples. Particularly article 18, which sets out the aspiration that <quote.in quote="1">indigenous peoples have the right to participate in decision-making in matters, which would affect their rights, through representatives chosen by themselves</quote.in>; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>effect is given to the view that these issues are respectively not recognised by a Māori advisory group; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>recognition is given to uphold the nation’s constitutional foundations, current law, and the wish of the people, particularly mana whenua for the benefit of Māori and the wider public; and</text>
-          </para>
-        </item>
-        <item>
-          <label auto.number="no" denominator="yes"/>
-          <para>
-            <text>recognition is given to the Local Government Act 2002, which sets the expectation, that local authorities will <quote.in quote="1"><emphasis style="italic">foster Māori capacity to contribute to the decision-making processes of the local authority</emphasis></quote.in>.</text>
-          </para>
-        </item>
-      </list>
+      <text>This Supplementary Order Paper increases the flexibility of the KiwiSaver scheme by extending contribution rates to include 6% and 10% contribution rates in addition to the 2%, 4% and 8% rates currently in place. These changes will better enable KiwiSaver members to contribute the amount that is right for them. The 6% rate is a logical step given the current rates of 2%, 4% and 8%, while the 10% rate will give older savers an opportunity to contribute more near their retirement, or for younger savers to contribute more in saving for a first home deposit.</text>
     </para>
   </explnote>
 </sop>
