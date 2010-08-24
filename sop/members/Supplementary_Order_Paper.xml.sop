@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sop id="DLM3047600" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" date.terminated="2010-08-23" terminated="superseded" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="144">
-  <date>Tuesday, 22 June 2010</date>
-  <billref>Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Bill</billref>
-  <body id="DLM3047601">
-    <heading>Proposed amendments</heading>
-    <motion>John Boscawen, in Committee, to move the following amendments:</motion>
-    <sop.amend id="DLM3048400">
-      <clause.ref>Clause 2:</clause.ref>
+<sop id="DLM3179300" in.amend="false" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" date.terminated="2010-08-25" terminated="withdrawn" pco.suffix="0005" stage="published" year="2010" raised.by="Members" sop.no="158">
+  <date>Thursday, 19 August 2010</date>
+  <billref>Taxation (Annual Rates, Trans-Tasman Savings Portability, Kiwisaver, and Remedial Matters) Bill</billref>
+  <body id="DLM3179301">
+    <heading>Proposed amendment</heading>
+    <motion>David Garrett, in Committee, to move the following amendment:</motion>
+    <sop.amend id="DLM3179302">
+      <clause.ref>New clause 2(13):</clause.ref>
       <sop.para>
-        <text>Clause 2 is amended by adding the following subsection:</text>
+        <text>To insert the following after <emphasis style="italic">clause 2(12)</emphasis>:</text>
         <instrument.amend close.quote="no" open.quote="no">
           <subprov skeleton="no">
             <label auto.number="no" denominator="yes">13</label>
             <para>
-              <text>Section 76A comes into force on 1 October 2010.</text>
+              <text>Section 76A comes into force on 1 December 2010.</text>
             </para>
           </subprov>
         </instrument.amend>
       </sop.para>
     </sop.amend>
-    <sop.amend id="DLM3047602">
+    <sop.amend id="DLM3179303">
       <clause.ref>New clause 76A:</clause.ref>
       <sop.para>
-        <text>To insert the following clause after clause 76:</text>
+        <text>To insert the following clause after <emphasis style="italic">clause 76</emphasis>:</text>
         <instrument.amend close.quote="no" open.quote="no">
-          <prov id="DLM3047603" irdnumbering="no" skeleton="no" toc="yes">
-            <label auto.number="no" denominator="yes">76A</label>
+          <prov id="DLM3179304" irdnumbering="no" skeleton="no" toc="yes">
+            <label auto.number="no" denominator="no">76A</label>
             <heading>Contribution rate</heading>
             <prov.body>
               <subprov skeleton="no">
                 <label auto.number="no" denominator="no"/>
                 <para>
-                  <text>Section 64 is amended by repealing subsection (1) and substituting the following subsection:</text>
-                  <amend>
+                  <text>Section 64 is amended by repealing subsection (1) and substituting the following:</text>
+                  <amend quote="1">
                     <subprov skeleton="no">
-                      <label auto.number="no" denominator="yes">1</label>
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
                       <para>
-                        <text>The <changeable><citation jurisdiction="nz">contribution rate</citation></changeable>, in relation to an employee and to an employer and to each payment of salary or wages, is—</text>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">a</label>
+                        <text>The <def-term id="DLM3179500">contribution rate</def-term>, in relation to an employee and to an employer and to each payment of salary or wages, is—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
                           <para>
                             <text>2% of the employee's gross salary or wages, if––</text>
-                            <label-para skeleton="no">
-                              <label auto.number="no" denominator="yes">i</label>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">i</label>
                               <para>
                                 <text>section 60(1)(a), (b) or (c) first applied in respect of the employee on or after 1 April 2009 and the employee has not given his or her employer a notice under subsection (2); or</text>
                               </para>
                             </label-para>
-                            <label-para skeleton="no">
-                              <label auto.number="no" denominator="yes">ii</label>
+                            <label-para quote="1" skeleton="no">
+                              <label auto.number="no" denominator="yes" quote="1">ii</label>
                               <para>
                                 <text>section 66A applied in respect of the employee immediately before 1 April 2009; or</text>
                               </para>
                             </label-para>
                           </para>
                         </label-para>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">b</label>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
                           <para>
                             <text>4% of the employee's gross salary or wages, if section 60(1)(a), (b) or (c) first applied in respect of the employee before 1 April 2009 and the employee has not given his or her employer a notice under paragraph (b); or</text>
                           </para>
                         </label-para>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">c</label>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">c</label>
                           <para>
                             <text>6% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate; or</text>
                           </para>
                         </label-para>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">d</label>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">d</label>
                           <para>
                             <text>8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate; or</text>
                           </para>
                         </label-para>
-                        <label-para skeleton="no">
-                          <label auto.number="no" denominator="yes">e</label>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">e</label>
                           <para>
                             <text>10% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate.</text>
                           </para>
@@ -90,10 +90,10 @@
       </sop.para>
     </sop.amend>
   </body>
-  <explnote id="DLM3047604" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2010-08-23" pco.suffix="0002" stage="published" year="2010" raised.by="Members" sop.no="144">
+  <explnote id="DLM3179305" in.amend="false" irdnumbering="no" rule-after="yes" rule-before="yes" date.terminated="2010-08-25" pco.suffix="0005" stage="published" year="2010" raised.by="Members" sop.no="158">
     <heading>Explanatory note</heading>
     <para>
-      <text>This Supplementary Order Paper increases the flexibility of the KiwiSaver scheme by extending contribution rates to include 6% and 10% contribution rates in addition to the 2%, 4% and 8% rates currently in place. These changes will better enable KiwiSaver members to contribute the amount that is right for them. The 6% rate is a logical step given the current rates of 2%, 4% and 8%, while the 10% rate will give older savers an opportunity to contribute more near their retirement, or for younger savers to contribute more in saving for a first home deposit.</text>
+      <text>This Supplementary Order Paper replaces SOP No 144. The purpose of the SOP is to increase the flexibility of the KiwiSaver scheme by extending contribution rates to include 6% and 10% contribution rates in addition to the 2%, 4% and 8% rates currently in place. These changes will better enable KiwiSaver members to contribute the amount that is right for them. The 6% rate is a logical step given the current rates of 2%, 4% and 8%, while the 10% rate will give older savers an opportunity to contribute more near their retirement, or for younger savers to contribute more in saving for a first home deposit.</text>
     </para>
   </explnote>
 </sop>
