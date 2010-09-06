@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act date.instructed="2005-08-17" id="DLM1362800" in.amend="false" instructing.office="Justice" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="113" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+  <cover id="DLM1362804">
+    <title>Privacy (Cross-border Information) Amendment Act 2010</title>
+    <assent>2010-09-07</assent>
+    <commencement>see section 2</commencement>
+  </cover>
+  <contents>
+    <heading>Contents</heading>
+    <toc/>
+  </contents>
+  <front id="DLM1362805">
+    <enactment>The Parliament of New Zealand enacts as follows:</enactment>
+  </front>
+  <body id="DLM1362806" prov-type="section">
+    <prov id="DLM1362807" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Title</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act is the Privacy (Cross-border Information) Amendment Act <citation jurisdiction="nz">2010</citation>.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM1362808" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Commencement</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="no"/>
+          <para>
+            <text>This Act comes into force on the day after the date on which it receives the Royal assent.</text>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <prov id="DLM1362809" irdnumbering="no" skeleton="no" toc="yes">
+      <label auto.number="no" denominator="yes">3</label>
+      <heading>Purpose</heading>
+      <prov.body>
+        <subprov skeleton="no">
+          <label auto.number="no" denominator="yes"/>
+          <para>
+            <text>The purpose of this Act is to—</text>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes">a</label>
+              <para>
+                <text>remove the current restrictions on who may make an information privacy request; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes">b</label>
+              <para>
+                <text>enable public sector agencies to charge for making personal information available to overseas foreign nationals; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes">c</label>
+              <para>
+                <text>provide for the referral of cross-border complaints to the appropriate privacy enforcement authority; and</text>
+              </para>
+            </label-para>
+            <label-para skeleton="no">
+              <label auto.number="no" denominator="yes">d</label>
+              <para>
+                <text>establish a mechanism for controlling the transfer of information outside New Zealand where the information has been routed through New Zealand to circumvent the privacy laws of the country from where the information originated.</text>
+              </para>
+            </label-para>
+          </para>
+        </subprov>
+      </prov.body>
+    </prov>
+    <part date.instructed="2005-08-17" id="DLM1362810" in.amend="false" instructing.office="Justice" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="113" act.type="public" date.assent="2010-09-07" stage="in-force" year="2010" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">1</label>
+      <heading>Amendments to Privacy Act 1993</heading>
+      <prov id="DLM1362811" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">4</label>
+        <heading>Principal Act amended</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>This Part amends the <citation jurisdiction="nz"><extref href="DLM296638">Privacy Act 1993</extref></citation>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <notes>
+          <amends-note>
+            <amends-effective>
+              <date>2010-09-08</date>
+            </amends-effective>
+            <amends-affect>
+              <citation jurisdiction="nz">
+                <extref href="DLM296638">Privacy Act 1993</extref>
+              </citation>
+            </amends-affect>
+          </amends-note>
+        </notes>
+      </prov>
+      <prov id="DLM1362812" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">5</label>
+        <heading>New section 34 substituted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM297094">Section 34</extref></citation> is repealed and the following section substituted:</text>
+              <amend quote="1">
+                <prov id="DLM1362813" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">34</label>
+                  <heading>Individuals may make information privacy requests</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="no"/>
+                      <para>
+                        <text>An information privacy request may be made only by an individual.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1362814" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">6</label>
+        <heading>Commissioner may authorise public sector agency to charge</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">1</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM297096">Section 36</extref></citation> is amended by inserting the following subsection after subsection (1):</text>
+              <amend quote="1">
+                <subprov skeleton="no">
+                  <label auto.number="no" denominator="yes" quote="1">1A</label>
+                  <para>
+                    <text>The Commissioner may authorise a public sector agency to impose a charge in respect of the matter referred to in section 35(1)(e) if the information privacy request is received from, or on behalf of, an individual who—</text>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">a</label>
+                      <para>
+                        <text>is residing outside New Zealand; and</text>
+                      </para>
+                    </label-para>
+                    <label-para quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">b</label>
+                      <para>
+                        <text>is not a New Zealand citizen or a permanent resident of New Zealand.</text>
+                      </para>
+                    </label-para>
+                  </para>
+                </subprov>
+              </amend>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">2</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM297096">Section 36(2)</extref></citation> is amended by inserting <amend.in quote="1"><citation jurisdiction="nz">or (1A)</citation></amend.in> after <quote.in quote="1">subsection (1)</quote.in>.</text>
+            </para>
+          </subprov>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes">3</label>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM297096">Section 36(3)</extref></citation> is amended by inserting <amend.in quote="1"><citation jurisdiction="nz">or (1A)</citation></amend.in> after <quote.in quote="1">subsection (1)</quote.in>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1362815" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">7</label>
+        <heading>New section 72C inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>The following section is inserted after <citation jurisdiction="nz"><extref href="DLM297452">section 72B</extref></citation>:</text>
+              <amend quote="1">
+                <prov id="DLM1362816" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">72C</label>
+                  <heading>Referral of complaint to overseas privacy enforcement authority</heading>
+                  <prov.body>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">1</label>
+                      <para>
+                        <text>Where, on receiving a complaint under this Part, the Commissioner considers that the complaint relates, in whole or in part, to a matter that is more properly within the jurisdiction of an overseas privacy enforcement authority, the Commissioner may consult with that authority in order to determine the appropriate means of dealing with the complaint.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">2</label>
+                      <para>
+                        <text>As soon as practicable after consulting with the overseas privacy enforcement authority under <citation jurisdiction="nz">subsection (1)</citation>, the Commissioner must determine whether the complaint should be dealt with, in whole or in part, under this Act.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">3</label>
+                      <para>
+                        <text>If the Commissioner determines that the complaint should be dealt with, in whole or in part, by the overseas privacy enforcement authority, and both the authority and the complainant agree, the Commissioner may refer the complaint or, as the case requires, the appropriate part of the complaint, to the authority to be dealt with.</text>
+                      </para>
+                    </subprov>
+                    <subprov quote="1" skeleton="no">
+                      <label auto.number="no" denominator="yes" quote="1">4</label>
+                      <para>
+                        <text>In this section, <def-term id="DLM1362817">overseas privacy enforcement authority</def-term> or <def-term id="DLM1362818">authority</def-term> means any overseas public body that is responsible for enforcing legislation that protects personal information, and that has the power to conduct investigations and pursue enforcement proceedings.</text>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM1362819" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">8</label>
+        <heading>New Part 11A inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="no"/>
+            <para>
+              <text>The following Part is inserted after <citation jurisdiction="nz"><extref href="DLM298406">section 114</extref></citation>:</text>
+              <amend quote="1">
+                <part act.no="113" id="DLM1362820" in.amend="true" irdnumbering="no" quote="1" toc="yes" year="2010">
+                  <label auto.number="no" denominator="yes" quote="1"> 11A</label>
+                  <heading quote="1">Transfer of personal information outside <brk/>New Zealand</heading>
+                  <prov id="DLM1362821" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">114A</label>
+                    <heading>Interpretation</heading>
+                    <prov.body>
+                      <subprov skeleton="no">
+                        <label auto.number="no" denominator="no"/>
+                        <para>
+                          <text>In this Part, unless the context otherwise requires,—</text>
+                          <def-para id="DLM1362822" quote="1">
+                            <para quote="1">
+                              <text><def-term id="DLM1362823">OECD Guidelines</def-term> means the Organisation for Economic Co-operation and Development Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data</text>
+                            </para>
+                          </def-para>
+                          <def-para id="DLM1362824" quote="1">
+                            <para quote="1">
+                              <text><def-term id="DLM1362825">State</def-term> includes any State, territory, province, or other part of a country</text>
+                            </para>
+                          </def-para>
+                          <def-para id="DLM1362826" quote="1">
+                            <para quote="1">
+                              <text><def-term id="DLM1362827">transfer prohibition notice</def-term> means a notice given under <citation jurisdiction="nz">section 114B</citation> prohibiting the transfer of personal information from New Zealand to another State.</text>
+                            </para>
+                          </def-para>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                  <prov id="DLM1362828" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">114B</label>
+                    <heading>Prohibition on transfer of personal information outside New Zealand</heading>
+                    <prov.body>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1</label>
+                        <para>
+                          <text>The Commissioner may prohibit a transfer of personal information from New Zealand to another State if the Commissioner is satisfied, on reasonable grounds, that—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>the information has been, or will be, received in New Zealand from another State and is likely to be transferred to a third State where it will not be subject to a law providing comparable safeguards to this Act; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>the transfer would be likely to lead to a contravention of  the basic principles of national application set out in Part Two of the OECD Guidelines and set out in <citation jurisdiction="nz">Schedule 5A</citation>.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2</label>
+                        <para>
+                          <text>In determining whether to prohibit a transfer of personal information, the Commissioner must also consider, in addition to the matters set out in <citation jurisdiction="nz">subsection (1)</citation> and section 14, the following:</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>whether the transfer affects, or would be likely to affect, any individual; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>the general desirability of facilitating the free flow of information between New Zealand and other States; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">c</label>
+                            <para>
+                              <text>any existing or developing international guidelines relevant to transborder data flows, including (but not limited to)—</text>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">i</label>
+                                <para>
+                                  <text>the OECD Guidelines:</text>
+                                </para>
+                              </label-para>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                <para>
+                                  <text>the European Union Directive 95/46/EC on the Protection of Individuals with Regard to the Processing of Personal Data and on the Free Movement of Such Data.</text>
+                                </para>
+                              </label-para>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">3</label>
+                        <para>
+                          <text><citation jurisdiction="nz">Subsection (1)</citation> does not apply if the transfer of the information, or the information itself, is—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>required or authorised by or under any enactment; or</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>required by any convention or other instrument imposing international obligations on New Zealand.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                  <prov id="DLM2389112" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">114C</label>
+                    <heading>Commissioner's power to obtain information</heading>
+                    <prov.body>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1</label>
+                        <para>
+                          <text>To enable the Commissioner to determine whether to prohibit a transfer of personal information, the Commissioner may hear or obtain information from such persons as the Commissioner considers necessary, and for this purpose Part 9 applies as if the Commissioner were carrying out an inquiry under section 13(1)(m).</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2</label>
+                        <para>
+                          <text>In exercising his or her powers under <citation jurisdiction="nz">subsection (1)</citation>, the Commissioner may regulate his or her procedure in such manner as the Commissioner thinks fit.</text>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                  <prov id="DLM1362829" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">114D</label>
+                    <heading>Transfer prohibition notice</heading>
+                    <prov.body>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1</label>
+                        <para>
+                          <text>A prohibition under <citation jurisdiction="nz">section 114B(1)</citation> is to be effected by the service of a transfer prohibition notice on the agency proposing to transfer the personal information concerned.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2</label>
+                        <para>
+                          <text>A transfer prohibition notice must—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>state the name of the agency to whom it relates; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>describe the personal information concerned; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">c</label>
+                            <para>
+                              <text>state that the transfer of the personal information concerned from New Zealand to a specified State is prohibited either—</text>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">i</label>
+                                <para>
+                                  <text>absolutely; or</text>
+                                </para>
+                              </label-para>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                <para>
+                                  <text>until the agency has taken the steps stated in the notice to protect the interests of any individual or individuals affected by the transfer; and</text>
+                                </para>
+                              </label-para>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">d</label>
+                            <para>
+                              <text>state the time when the notice takes effect; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">e</label>
+                            <para>
+                              <text>state the ground for the prohibition; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">f</label>
+                            <para>
+                              <text>state that the agency on whom the notice is served may lodge an appeal against the notice to the Human Rights Review Tribunal, and the time within which the appeal must be lodged.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">3</label>
+                        <para>
+                          <text>The time when the notice takes effect under <citation jurisdiction="nz">subsection (2)(d)</citation> must not be before the end of the period within which an appeal against the notice can be lodged.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">4</label>
+                        <para>
+                          <text>If an appeal is brought, the notice does not take effect pending the determination or withdrawal of the appeal.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">5</label>
+                        <para>
+                          <text>If the Commissioner, by reason of special circumstances, considers that the prohibition should take effect as a matter of urgency in relation to all or any part of the notice,—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text><citation jurisdiction="nz">subsections (3) and (4)</citation> do not apply; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>the notice takes effect on the sixth working day after the date on which the notice is served; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">c</label>
+                            <para>
+                              <text>the notice must include—</text>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">i</label>
+                                <para>
+                                  <text>a statement that the Commissioner considers that the prohibition must take effect as a matter of urgency; and</text>
+                                </para>
+                              </label-para>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                <para>
+                                  <text>a statement of the reasons why the Commissioner has reached that conclusion.</text>
+                                </para>
+                              </label-para>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                    <cf quote="1">Data Protection Act 1988 s 11 (Ire)</cf>
+                  </prov>
+                  <prov id="DLM1362830" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">114E</label>
+                    <heading>Commissioner may vary or cancel notice</heading>
+                    <prov.body>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1</label>
+                        <para>
+                          <text>If, at any time, the Commissioner considers that all or any of the provisions of a transfer prohibition notice served on an agency need not be complied with in order to avoid a contravention of basic principles of privacy or data protection, the Commissioner may vary or cancel the transfer prohibition notice by serving notice to that effect on the agency concerned.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2</label>
+                        <para>
+                          <text>An agency on whom a transfer prohibition notice has been served may, at any time after the end of the period during which an appeal under <citation jurisdiction="nz">section 114G(1)(a)</citation> can be lodged, apply in writing to the Commissioner for the notice to be varied or cancelled under <citation jurisdiction="nz">subsection (1)</citation>.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">3</label>
+                        <para>
+                          <text>The Commissioner must, within 20 working days after the date on which an application under <citation jurisdiction="nz">subsection (2)</citation> is received, notify the agency of—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>his or her decision; and</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>his or her reasons, if the application is refused.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">4</label>
+                        <para>
+                          <text>If the Commissioner exercises his or her discretion under <citation jurisdiction="nz">subsection (1)</citation>, the variation or cancellation of the transfer prohibition notice takes effect on the day after the date on which notice of the Commissioner’s decision to vary or cancel the transfer prohibition notice is served.</text>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                    <cf quote="1">Data Protection Act 1998 s 41 (UK)</cf>
+                  </prov>
+                  <prov id="DLM1362831" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">114F</label>
+                    <heading>Offence in relation to transfer prohibition notice</heading>
+                    <prov.body>
+                      <subprov skeleton="no">
+                        <label auto.number="no" denominator="no"/>
+                        <para>
+                          <text>Every person who, without reasonable excuse, fails or refuses to comply with a transfer prohibition notice commits an offence and is liable on summary conviction to a fine not exceeding $10,000.</text>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                  <prov id="DLM1362832" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">114G</label>
+                    <heading>Appeals against transfer prohibition notice</heading>
+                    <prov.body>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">1</label>
+                        <para>
+                          <text>An agency on whom a transfer prohibition notice is served may appeal to the Human Rights Review Tribunal—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>against the whole or any part of the notice; or</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>if the notice contains a statement by the Commissioner in accordance with <citation jurisdiction="nz">section 114D(5)(c)</citation>, against the decision to include that statement in respect of all or any part of the notice; or</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">c</label>
+                            <para>
+                              <text>against the decision of the Commissioner to vary the notice in accordance with <citation jurisdiction="nz">section 114E(1)</citation>; or</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">d</label>
+                            <para>
+                              <text>against the refusal of an application under <citation jurisdiction="nz">section 114E(2)</citation> to vary or cancel the notice.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">2</label>
+                        <para>
+                          <text>An appeal under <citation jurisdiction="nz">subsection (1)</citation> must be lodged,—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>in the case of an appeal under <citation jurisdiction="nz">subsection (1)(a) or (b)</citation>, within 15 working days from the date on which the transfer prohibition notice was served on the agency concerned:</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>in the case of an appeal under <citation jurisdiction="nz">subsection (1)(c) or (d)</citation>, within 15 working days from the date on which notice of the decision or refusal was served on the agency concerned.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">3</label>
+                        <para>
+                          <text>The Tribunal must allow an appeal or substitute any other decision or notice that could have been made or served by the Commissioner if it considers that—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>the decision or notice against which the appeal is brought is not in accordance with the law; or</text>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>to the extent that the decision or notice involved an exercise of discretion by the Commissioner, the Commissioner ought to have exercised his or her discretion differently.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">4</label>
+                        <para>
+                          <text>The Tribunal may review any determination of fact on which the decision or notice in question was based.</text>
+                        </para>
+                      </subprov>
+                      <subprov quote="1" skeleton="no">
+                        <label auto.number="no" denominator="yes" quote="1">5</label>
+                        <para>
+                          <text>On any appeal under <citation jurisdiction="nz">subsection (1)(b)</citation>, the Tribunal may—</text>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">a</label>
+                            <para>
+                              <text>direct—</text>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">i</label>
+                                <para>
+                                  <text>that the notice in question must have effect as if it did not contain the statement that is mentioned in the notice; or</text>
+                                </para>
+                              </label-para>
+                              <label-para quote="1" skeleton="no">
+                                <label auto.number="no" denominator="yes" quote="1">ii</label>
+                                <para>
+                                  <text>that the inclusion of the statement must not have effect in relation to any part of the notice; and</text>
+                                </para>
+                              </label-para>
+                            </para>
+                          </label-para>
+                          <label-para quote="1" skeleton="no">
+                            <label auto.number="no" denominator="yes" quote="1">b</label>
+                            <para>
+                              <text>make any modifications required to give effect to that direction.</text>
+                            </para>
+                          </label-para>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                    <cf quote="1">Data Protection Act 1998 ss 48, 49 (UK)</cf>
+                  </prov>
+                  <prov id="DLM1362833" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                    <label auto.number="no" denominator="yes" quote="1">114H</label>
+                    <heading>Application of Human Rights Act 1993</heading>
+                    <prov.body>
+                      <subprov skeleton="no">
+                        <label auto.number="no" denominator="no"/>
+                        <para>
+                          <text>Section 87 and Part 4 of the Human Rights Act 1993 apply, with all necessary modifications (if any), in relation to proceedings under <citation jurisdiction="nz">section 114G</citation> as if they were proceedings under that Act.</text>
+                        </para>
+                      </subprov>
+                    </prov.body>
+                  </prov>
+                </part>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2389113" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">9</label>
+        <heading>New section 128A inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>The following section is inserted after <citation jurisdiction="nz"><extref href="DLM298437">section 128</extref></citation>:</text>
+              <amend quote="1">
+                <prov id="DLM2389114" irdnumbering="no" quote="1" skeleton="no" toc="yes">
+                  <label auto.number="no" denominator="yes" quote="1">128A</label>
+                  <heading>Power to amend Schedule 5A</heading>
+                  <prov.body>
+                    <subprov skeleton="no">
+                      <label auto.number="no" denominator="yes"/>
+                      <para>
+                        <text>The Governor-General may, by Order in Council,—</text>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">a</label>
+                          <para>
+                            <text>amend <citation jurisdiction="nz">Schedule 5A</citation> by making such amendments to the text of the basic principles of national application set out in that schedule as are required to bring that text up to date:</text>
+                          </para>
+                        </label-para>
+                        <label-para quote="1" skeleton="no">
+                          <label auto.number="no" denominator="yes" quote="1">b</label>
+                          <para>
+                            <text>repeal <citation jurisdiction="nz">Schedule 5A</citation>, and substitute a new schedule setting out, in an up-to-date form, the text of the basic principles of national application.</text>
+                          </para>
+                        </label-para>
+                      </para>
+                    </subprov>
+                  </prov.body>
+                </prov>
+              </amend>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+      <prov id="DLM2389115" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">10</label>
+        <heading>New Schedule 5A inserted</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>The <citation jurisdiction="nz"><intref href="DLM2389117">Schedule 5A</intref></citation> set out in the <citation jurisdiction="nz"><extref href="DLM298798">Schedule</extref></citation> of this Act is inserted after Schedule 5.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+    <part date.instructed="2005-08-17" id="DLM1362834" in.amend="false" instructing.office="Justice" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="113" act.type="public" date.assent="2010-09-07" stage="in-force" year="2010" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes">2</label>
+      <heading>Consequential amendment to Adoption (Intercountry) Act 1997</heading>
+      <prov id="DLM1362835" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">11</label>
+        <heading>Principal Act amended</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text>This Part amends the <citation jurisdiction="nz"><extref href="DLM422493">Adoption (Intercountry) Act 1997</extref></citation>.</text>
+            </para>
+          </subprov>
+        </prov.body>
+        <notes>
+          <amends-note>
+            <amends-effective>
+              <date>2010-09-08</date>
+            </amends-effective>
+            <amends-affect>
+              <citation jurisdiction="nz">
+                <extref href="DLM422493">Adoption (Intercountry) Act 1997</extref>
+              </citation>
+            </amends-affect>
+          </amends-note>
+        </notes>
+      </prov>
+      <prov id="DLM1362836" irdnumbering="no" skeleton="no" toc="yes">
+        <label auto.number="no" denominator="yes">12</label>
+        <heading>Access to information</heading>
+        <prov.body>
+          <subprov skeleton="no">
+            <label auto.number="no" denominator="yes"/>
+            <para>
+              <text><citation jurisdiction="nz"><extref href="DLM423032">Section 13(3)</extref></citation> is repealed.</text>
+            </para>
+          </subprov>
+        </prov.body>
+      </prov>
+    </part>
+  </body>
+  <schedule.group>
+    <schedule date.instructed="2005-08-17" id="DLM2389116" in.amend="false" instructing.office="Justice" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="113" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+      <label auto.number="no" denominator="yes"> </label>
+      <empowering-prov>
+        <citation jurisdiction="nz">
+          <intref href="DLM2389115">s 10</intref>
+        </citation>
+      </empowering-prov>
+      <heading>New Schedule 5A inserted</heading>
+      <schedule.misc>
+        <para>
+          <amend quote="1">
+            <schedule act.no="113" id="DLM2389117" in.amend="true" irdnumbering="no" prov-type="clause" quote="1" schedule.heading.continue="yes" toc="yes" type="schedule" year="2010">
+              <label auto.number="no" denominator="yes">5A</label>
+              <empowering-prov>
+                <citation jurisdiction="nz">s 114B(1)(b)</citation>
+              </empowering-prov>
+              <heading>Basic principles of national application set out in Part Two of the OECD Guidelines</heading>
+              <schedule.misc>
+                <head5 id="DLM2389118" toc="yes">
+                  <heading>Collection limitation principle</heading>
+                </head5>
+                <para>
+                  <text>There should be limits to the collection of personal data and any such data should be obtained by lawful and fair means and, where appropriate, with the knowledge or consent of the data subject.</text>
+                </para>
+                <head5 id="DLM2389119" toc="yes">
+                  <heading>Data quality principle</heading>
+                </head5>
+                <para>
+                  <text>Personal data should be relevant to the purposes for which they are to be used, and, to the extent necessary for those purposes, should be accurate, complete and kept up-to-date.</text>
+                </para>
+                <head5 id="DLM2389120" toc="yes">
+                  <heading>Purpose specification principle</heading>
+                </head5>
+                <para>
+                  <text>The purposes for which personal data are collected should be specified not later than at the time of data collection and the subsequent use limited to the fulfilment of those purposes or such others as are not incompatible with those purposes and as are specified on each occasion of change of purpose.</text>
+                </para>
+                <head5 id="DLM2389121" toc="yes">
+                  <heading>Use limitation principle</heading>
+                </head5>
+                <para>
+                  <text>Personal data should not be disclosed, made available or otherwise used for purposes other than those specified in accordance with [the Purpose specification principle above] except:</text>
+                </para>
+                <para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>with the consent of the data subject; or</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>by the authority of law.</text>
+                    </para>
+                  </label-para>
+                </para>
+                <head5 id="DLM2389122" toc="yes">
+                  <heading>Security safeguards principle</heading>
+                </head5>
+                <para>
+                  <text>Personal data should be protected by reasonable security safeguards against such risks as loss or unauthorised access, destruction, use, modification or disclosure of data.</text>
+                </para>
+                <head5 id="DLM2389123" toc="yes">
+                  <heading>Openness principle</heading>
+                </head5>
+                <para>
+                  <text>There should be a general policy of openness about developments, practices and policies with respect to personal data. Means should be readily available of establishing the existence and nature of personal data, and the main purposes of their use, as well as the identity and usual residence of the data controller.</text>
+                </para>
+                <head5 id="DLM2389124" toc="yes">
+                  <heading>Individual participation principle</heading>
+                </head5>
+                <para>
+                  <text>An individual should have the right:</text>
+                </para>
+                <para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">a</label>
+                    <para>
+                      <text>to obtain from a data controller, or otherwise, confirmation of whether or not the data controller has data relating to him;</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">b</label>
+                    <para>
+                      <text>to have communicated to him, data relating to him</text>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>within a reasonable time;</text>
+                          </para>
+                        </item>
+                      </list>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>at a charge, if any, that is not excessive;</text>
+                          </para>
+                        </item>
+                      </list>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>in a reasonable manner; and</text>
+                          </para>
+                        </item>
+                      </list>
+                      <list>
+                        <item>
+                          <label auto.number="no" denominator="yes"/>
+                          <para>
+                            <text>in a form that is readily intelligible to him;</text>
+                          </para>
+                        </item>
+                      </list>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">c</label>
+                    <para>
+                      <text>to be given reasons if a request made under subparagraphs (a) and (b) is denied, and to be able to challenge such denial; and</text>
+                    </para>
+                  </label-para>
+                  <label-para skeleton="no">
+                    <label auto.number="no" denominator="yes">d</label>
+                    <para>
+                      <text>to challenge data relating to him and, if the challenge is successful to have the data erased, rectified, completed or amended.</text>
+                    </para>
+                  </label-para>
+                </para>
+                <head5 id="DLM2389125" toc="yes">
+                  <heading>Accountability principle</heading>
+                </head5>
+                <para>
+                  <text>A data controller should be accountable for complying with measures which give effect to the principles stated above.</text>
+                </para>
+              </schedule.misc>
+            </schedule>
+          </amend>
+        </para>
+      </schedule.misc>
+    </schedule>
+  </schedule.group>
+  <end id="DLM2389126">
+    <leg-history id="DLM2389127">
+      <heading>Legislative history</heading>
+      <history-item>
+        <date>2008-07-02</date>
+        <description>Introduction (Bill 221–1)</description>
+      </history-item>
+      <history-item>
+        <date>2009-04-01</date>
+        <description>First reading and referral to Justice and Electoral Committee</description>
+      </history-item>
+      <history-item>
+        <date>2009-09-30</date>
+        <description>Reported from Justice and Electoral Committee (Bill 221–2)</description>
+      </history-item>
+      <history-item>
+        <date>2010-08-24</date>
+        <description>Second reading, third reading</description>
+      </history-item>
+      <history-item>
+        <date>2010-09-07</date>
+        <description>Royal assent</description>
+      </history-item>
+    </leg-history>
+    <admin-office>This Act is administered by the <ministry>Ministry of Justice</ministry>.</admin-office>
+  </end>
+</act>
