@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<act date.instructed="2008-09-26" id="DLM2478100" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+<act date.instructed="2008-09-26" id="DLM2478100" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" xml:lang="en-NZ" year.imprint="2010" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
   <cover id="DLM2478115">
+    <reprint-date>2010-09-30</reprint-date>
     <title>Insurance (Prudential Supervision) Act 2010</title>
     <assent>2010-09-07</assent>
     <commencement>see section 2</commencement>
+    <cover.reprint-note>
+      <para xml:lang="en-NZ">
+        <text>Changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in this reprint.</text>
+      </para>
+      <para>
+        <text>A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.</text>
+      </para>
+      <admin-office>This Act is administered by the <ministry>Reserve Bank of New Zealand</ministry>.</admin-office>
+    </cover.reprint-note>
   </cover>
   <contents>
     <heading>Contents</heading>
@@ -50,18 +60,23 @@
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">4</label>
           <para>
-            <text>To the extent that it is not previously brought into force under <citation jurisdiction="nz">subsection (3)</citation>, the rest of this Act comes into force on the day that is 18 months after the date on which this Act receives the Royal assent.</text>
+            <text>To the extent that it is not previously brought into force under subsection (3), the rest of this Act comes into force on the day that is 18 months after the date on which this Act receives the Royal assent.</text>
           </para>
         </subprov>
         <subprov skeleton="no">
           <label auto.number="no" denominator="yes">5</label>
           <para>
-            <text><citation jurisdiction="nz">Subsection (4)</citation> is subject to <citation jurisdiction="nz">subsection (2)</citation>.</text>
+            <text>Subsection (4) is subject to subsection (2).</text>
           </para>
         </subprov>
       </prov.body>
+      <notes>
+        <history>
+          <history-note id="DLM3271703"><amended-provision>Section 2(3)</amended-provision>: section 244 <amending-operation>brought into force</amending-operation>, on <amendment-date>30 September 2010</amendment-date>, by the <amending-provision href="DLM3227000">Insurance (Prudential Supervision) Act Commencement Order 2010</amending-provision> (SR 2010/324).</history-note>
+        </history>
+      </notes>
     </prov>
-    <part date.instructed="2008-09-26" id="DLM2478120" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="111" act.type="public" date.assent="2010-09-07" stage="in-force" year="2010" prospective.consolidation="F">
+    <part date.instructed="2008-09-26" id="DLM2478120" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1</label>
       <heading>Preliminary provisions</heading>
       <crosshead id="DLM2478121" toc="yes">Purposes and principles</crosshead>
@@ -1604,10 +1619,10 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2008-09-26" id="DLM2478275" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="111" act.type="public" date.assent="2010-09-07" stage="in-force" year="2010" prospective.consolidation="F">
+    <part date.instructed="2008-09-26" id="DLM2478275" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2</label>
       <heading>Licensing and prudential regulation of insurers</heading>
-      <subpart date.instructed="2008-09-26" id="DLM2478276" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2008-09-26" id="DLM2478276" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Licensing of insurers</heading>
         <crosshead id="DLM2478277" toc="yes">Requirement to be licensed</crosshead>
@@ -3616,7 +3631,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2008-09-26" id="DLM2478339" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2008-09-26" id="DLM2478339" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">2</label>
         <heading>Prudential regulation of insurers</heading>
         <crosshead id="DLM2478340" toc="yes">Solvency standards</crosshead>
@@ -4964,7 +4979,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2008-09-26" id="DLM2478377" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2008-09-26" id="DLM2478377" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">3</label>
         <heading>Statutory funds of life insurers</heading>
         <crosshead id="DLM2478378" toc="yes">General requirements</crosshead>
@@ -7085,7 +7100,7 @@
         </prov>
       </subpart>
     </part>
-    <part date.instructed="2008-09-26" id="DLM2478455" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="111" act.type="public" date.assent="2010-09-07" stage="in-force" year="2010" prospective.consolidation="F">
+    <part date.instructed="2008-09-26" id="DLM2478455" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">3</label>
       <heading>Prudential supervision of licensed insurers</heading>
       <crosshead id="DLM2478456" toc="yes">Bank to undertake prudential supervision</crosshead>
@@ -7897,10 +7912,10 @@
         </prov.body>
       </prov>
     </part>
-    <part date.instructed="2008-09-26" id="DLM2478479" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="111" act.type="public" date.assent="2010-09-07" stage="in-force" year="2010" prospective.consolidation="F">
+    <part date.instructed="2008-09-26" id="DLM2478479" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">4</label>
       <heading>Distress management</heading>
-      <subpart date.instructed="2008-09-26" id="DLM2478480" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2008-09-26" id="DLM2478480" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">1</label>
         <heading>Recovery plans</heading>
         <prov id="DLM2478481" irdnumbering="no" skeleton="no" toc="yes">
@@ -8108,7 +8123,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2008-09-26" id="DLM2478486" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2008-09-26" id="DLM2478486" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">2</label>
         <heading>Directions to licensed insurers and associated persons</heading>
         <prov id="DLM2478487" irdnumbering="no" skeleton="no" toc="yes">
@@ -8610,7 +8625,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2008-09-26" id="DLM2478496" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2008-09-26" id="DLM2478496" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">3</label>
         <heading>Liquidation or voluntary administration of licensed insurers</heading>
         <crosshead id="DLM2478497" toc="yes">Bank may apply to put insurer into liquidation or voluntary administration, or apply for reduction of value of contracts of insurance</crosshead>
@@ -9454,7 +9469,7 @@
           </prov.body>
         </prov>
       </subpart>
-      <subpart date.instructed="2008-09-26" id="DLM2478529" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+      <subpart date.instructed="2008-09-26" id="DLM2478529" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
         <label auto.number="no" denominator="yes">4</label>
         <heading>Statutory management</heading>
         <crosshead id="DLM2478530" toc="yes">Commencement of statutory management</crosshead>
@@ -10525,7 +10540,7 @@
         </prov>
       </subpart>
     </part>
-    <part date.instructed="2008-09-26" id="DLM2478557" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="111" act.type="public" date.assent="2010-09-07" stage="in-force" year="2010" prospective.consolidation="F">
+    <part date.instructed="2008-09-26" id="DLM2478557" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" toc="yes" date.first.valid="2010-09-08" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">5</label>
       <heading>Miscellaneous provisions</heading>
       <crosshead id="DLM2478558" toc="yes">Provisions relating to Lloyd's</crosshead>
@@ -13671,7 +13686,7 @@
     </part>
   </body>
   <schedule.group>
-    <schedule date.instructed="2008-09-26" id="DLM2478626" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+    <schedule date.instructed="2008-09-26" id="DLM2478626" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">1 </label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -13946,7 +13961,7 @@
         </prov>
       </schedule.provisions>
     </schedule>
-    <schedule date.instructed="2008-09-26" id="DLM2478627" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+    <schedule date.instructed="2008-09-26" id="DLM2478627" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">2 </label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -15721,7 +15736,7 @@
         </prov>
       </schedule.provisions>
     </schedule>
-    <schedule date.instructed="2008-09-26" id="DLM2478641" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="111" act.type="public" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="in-force" year="2010" prospective.consolidation="F">
+    <schedule date.instructed="2008-09-26" id="DLM2478641" in.amend="false" instructing.office="Reserve Bank" irdnumbering="no" prov-type="clause" schedule.heading.continue="no" toc="yes" type="schedule" act.no="111" act.type="public" date.as.at="2010-09-30" date.assent="2010-09-07" date.first.valid="2010-09-08" stage="reprint" year="2010" prospective.consolidation="F">
       <label auto.number="no" denominator="yes">3 </label>
       <empowering-prov>
         <citation jurisdiction="nz">
@@ -16185,9 +16200,9 @@
             <heading>Financial Advisers Act 2008 (2008 No 91)</heading>
             <para>
               <text>Definition of <def-term id="DLM3186807">approved rating agency</def-term> in <citation jurisdiction="nz"><extref href="DLM1584508">section 5</extref></citation>: repeal and substitute:</text>
-              <amend increment="1">
-                <def-para id="DLM3186808">
-                  <para>
+              <amend increment="1" quote="1">
+                <def-para id="DLM3186808" quote="1">
+                  <para quote="1">
                     <text><def-term id="DLM3186809">approved rating agency</def-term> means a rating agency nominated or approved under the Reserve Bank of New Zealand Act 1989 or <citation jurisdiction="nz">section 62</citation> of the Insurance (Prudential Supervision) Act <citation jurisdiction="nz">2010</citation></text>
                   </para>
                 </def-para>
@@ -16520,33 +16535,196 @@
     </schedule>
   </schedule.group>
   <end id="DLM3005149">
-    <leg-history id="DLM3005150">
-      <heading>Legislative history</heading>
-      <history-item>
-        <date>2009-10-29</date>
-        <description>Introduction (Bill 95–1)</description>
-      </history-item>
-      <history-item>
-        <date>2009-12-08</date>
-        <description>First reading and referral to Finance and Expenditure Committee</description>
-      </history-item>
-      <history-item>
-        <date>2010-05-31</date>
-        <description>Reported from Finance and Expenditure Committee (Bill 95–2)</description>
-      </history-item>
-      <history-item>
-        <date>2010-07-29</date>
-        <description>Second reading</description>
-      </history-item>
-      <history-item>
-        <date>2010-08-24</date>
-        <description>Committee of the whole House, third reading</description>
-      </history-item>
-      <history-item>
-        <date>2010-09-07</date>
-        <description>Royal assent</description>
-      </history-item>
-    </leg-history>
-    <admin-office>This Act is administered by the <ministry>Reserve Bank of New Zealand</ministry>.</admin-office>
+    <end.reprint-note id="DLM3271704">
+      <reprint.index>
+        <heading>Contents</heading>
+        <para>
+          <list>
+            <item>
+              <label auto.number="no" denominator="no">1</label>
+              <para>
+                <text>General</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">2</label>
+              <para>
+                <text>Status of reprints</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">3</label>
+              <para>
+                <text>How reprints are prepared</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">4</label>
+              <para>
+                <text>Changes made under section 17C of the Acts and Regulations Publication Act 1989</text>
+              </para>
+            </item>
+            <item>
+              <label auto.number="no" denominator="no">5</label>
+              <para>
+                <text>List of amendments incorporated in this reprint (most recent first)</text>
+              </para>
+            </item>
+          </list>
+        </para>
+      </reprint.index>
+      <reprint.notes>
+        <heading>Notes</heading>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">1</label>
+          <heading>General</heading>
+          <para>
+            <text>This is a reprint of the Insurance (Prudential Supervision) Act 2010. The reprint incorporates all the amendments to the Act as at 30 September 2010, as specified in the list of amendments at the end of these notes.</text>
+          </para>
+          <para>
+            <text>Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/reprints/">http://www.pco.parliament.govt.nz/reprints/</extref></citation>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">2</label>
+          <heading>Status of reprints</heading>
+          <para>
+            <text>Under <citation jurisdiction="nz"><extref href="DLM195439">section 16D</extref></citation> of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 have been made in the reprint.</text>
+          </para>
+          <para>
+            <text>This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">3</label>
+          <heading>How reprints are prepared</heading>
+          <para>
+            <text>A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, <emphasis style="italic">see</emphasis> <citation jurisdiction="nz"><extref href="http://www.pco.parliament.govt.nz/editorial-conventions/ ">http://www.pco.parliament.govt.nz/editorial-conventions/ </extref></citation> or Part 8 of the <emphasis style="italic">Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force</emphasis>.</text>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">4</label>
+          <heading>Changes made under section 17C of the Acts and Regulations Publication Act 1989</heading>
+          <para>
+            <text><citation jurisdiction="nz"><extref href="DLM195466">Section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in <citation jurisdiction="nz"><extref href="DLM195468">sections 17D</extref></citation> and <citation jurisdiction="nz"><extref href="DLM195470">17E</extref></citation> of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.</text>
+          </para>
+          <para>
+            <text>A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.</text>
+          </para>
+          <para>
+            <text>In outline, the editorial changes made in reprints under the authority of <citation jurisdiction="nz"><extref href="DLM195466">section 17C</extref></citation> of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:</text>
+            <list>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>omission of unnecessary referential words (such as <quote.in quote="1">of this section</quote.in> and <quote.in quote="1">of this Act</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>typeface and type size (Times Roman, generally in 11.5 point)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>layout of provisions, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>indentation</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>position of section headings (eg, the number and heading now appear above the section)</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of definitions (eg, the defined term now appears in bold type, without quotation marks)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of dates (eg, a date formerly expressed as <quote.in quote="1">the 1st day of January 1999</quote.in> is now expressed as <quote.in quote="1">1 January 1999</quote.in>)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>position of the date of assent (it now appears on the front page of each Act)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>punctuation (eg, colons are not used after definitions)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>case and appearance of letters and words, including:</text>
+                  <list>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)</text>
+                      </para>
+                    </item>
+                    <item>
+                      <label auto.number="no" denominator="no">•</label>
+                      <para>
+                        <text>small capital letters in section and subsection references are now capital letters</text>
+                      </para>
+                    </item>
+                  </list>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>running heads (the information that appears at the top of each page)</text>
+                </para>
+              </item>
+              <item>
+                <label auto.number="no" denominator="no">•</label>
+                <para>
+                  <text>format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).</text>
+                </para>
+              </item>
+            </list>
+          </para>
+        </reprint.note>
+        <reprint.note>
+          <label auto.number="no" denominator="yes">5</label>
+          <heading>List of amendments incorporated in this reprint<brk/>(most recent first)</heading>
+          <reprint.amend>
+            <citation jurisdiction="nz"><extref href="DLM3227000">Insurance (Prudential Supervision) Act Commencement Order 2010</extref> (SR 2010/324)</citation>
+          </reprint.amend>
+        </reprint.note>
+      </reprint.notes>
+    </end.reprint-note>
   </end>
 </act>
